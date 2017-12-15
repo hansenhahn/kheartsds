@@ -1,0 +1,14 @@
+b0
+bel0
+bell
+cmp
+e0
+info
+n0
+n1
+n2
+score
+t
+tex0
+tex2
+_i

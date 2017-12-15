@@ -1,0 +1,295 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:52
+!******************************!
+&.[HDR].2&
+2:53
+!******************************!
+&.[HDR].2&
+2:54
+!******************************!
+&.[HDR].2&
+2:56
+!******************************!
+&.[HDR].2&
+2:57
+!******************************!
+&.[HDR].2&
+2:58
+!******************************!
+&.[HDR].2&
+2:59
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/12.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Riku!
+!------------------------------!
+Riku !
+!------------------------------!
+Riku!
+!------------------------------!
+Riku!
+!------------------------------!
+¡Riku!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did you find the right answer?
+!------------------------------!
+As-tu trouvé la bonne réponse ?
+!------------------------------!
+Hast du die Antwort gefunden?
+!------------------------------!
+Hai trovato la risposta?
+!------------------------------!
+¿Has encontrado la respuesta
+correcta?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. I did.
+!------------------------------!
+Oui.
+!------------------------------!
+Ja, hab ich.
+!------------------------------!
+Sì, l'ho trovata.
+!------------------------------!
+Sí, la he encontrado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm on the verge of losing everything
+I ever cared about. I can't let that
+happen.
+!------------------------------!
+Je suis sur le point de perdre tout
+ce qui me tient à cœur et je ne veux
+pas que ça arrive.
+!------------------------------!
+Ich bin kurz davor, alles zu
+verlieren. Das kann ich nicht
+zulassen.
+!------------------------------!
+Sono sul punto di perdere tutto
+ciò a cui ho sempre tenuto. Non
+posso permettere che accada.
+!------------------------------!
+Estoy a punto de perder todo lo
+que me importa. No puedo dejar
+que eso suceda.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tell me what I need to do.
+!------------------------------!
+Dis-moi ce que je dois faire.
+!------------------------------!
+Sag mir, was ich tun soll.
+!------------------------------!
+Dimmi cosa devo fare.
+!------------------------------!
+Dime qué quieres que haga.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Go to Twilight Town.
+You'll find a girl there by the name of
+Naminé.
+!------------------------------!
+Va dans la Cité du crépuscule.
+Tu y trouveras une fille appelée
+Naminé.
+!------------------------------!
+Geh nach Twilight Town.
+Dort findest du ein Mädchen
+namens Naminé.
+!------------------------------!
+Vai a Crepuscopoli.
+Laggiù troverai una ragazza
+chiamata Naminé.
+!------------------------------!
+Ve a Villa Crepúsculo.
+Ahí encontrarás a una chica que
+se llama Naminé.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé?
+What's she like?
+!------------------------------!
+Naminé ?
+À quoi ressemble-t-elle ?
+!------------------------------!
+Naminé?
+Wie ist sie so?
+!------------------------------!
+Naminé?
+Che aspetto ha?
+!------------------------------!
+¿Naminé?
+¿Qué aspecto tiene?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You'll find out.
+I don't think you'll have much trouble
+tracking her down.
+!------------------------------!
+Tu le découvriras par toi-même.
+Je crois que tu n'auras aucun
+mal à la trouver.
+!------------------------------!
+Das wirst du schon sehen.
+Du wirst keine Probleme damit
+haben, sie aufzuspüren.
+!------------------------------!
+Lo scoprirai da sola.
+Scommetto che non avrai
+difficoltà a riconoscerla.
+!------------------------------!
+Ya lo verás.
+No creo que tengas muchos
+problemas en dar con ella.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right.
+Thanks, Riku.
+!------------------------------!
+D'accord.
+Merci, Riku.
+!------------------------------!
+Okay.
+Danke, Riku.
+!------------------------------!
+D'accordo.
+Grazie, Riku.
+!------------------------------!
+Muy bien.
+Gracias, Riku.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good-bye...
+!------------------------------!
+Au revoir...
+!------------------------------!
+Auf Wiedersehen ...
+!------------------------------!
+Addio...
+!------------------------------!
+Adiós...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

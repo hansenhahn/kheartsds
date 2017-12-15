@@ -1,0 +1,326 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+1:55
+!******************************!
+&.[HDR].2&
+1:54
+!******************************!
+&.[HDR].&
+*.000004000000882201000000010000000000000007000F00.*
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This place is swimming in sand.
+!------------------------------!
+Cet endroit ressemble à un bac à sable
+géant.
+!------------------------------!
+Das ist hier wie
+eine große Sandkiste.
+!------------------------------!
+Qui c'è troppa sabbia per i miei gusti.
+!------------------------------!
+Esto está hasta arriba de arena.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess them's the breaks when you
+build your city in the middle of the
+desert.
+!------------------------------!
+J'imagine que c'est le prix à payer
+quand on construit une ville en
+plein désert.
+!------------------------------!
+Das passiert wohl,
+wenn man mitten in der Wüste
+eine Stadt baut.
+!------------------------------!
+Ecco cosa succede a
+costruire una città nel
+bel mezzo del deserto.
+!------------------------------!
+Supongo que esto es lo que ocurre
+cuando se construye una ciudad
+en medio del desierto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Past that, not much to mention, though.
+Seems like a pretty normal town, yeah?
+!------------------------------!
+Mais à part ça, cette ville a
+l'air plutôt normale,
+tu ne trouves pas ?
+!------------------------------!
+Abgesehen davon nicht viel
+Erwähnenswertes. Scheint wie
+eine ganz normale Stadt.
+!------------------------------!
+Non c'è molto altro da notare,
+però. Sembra una cittadina
+del tutto normale, no?
+!------------------------------!
+Aparte de eso, no es
+gran cosa. Parece una ciudad
+vulgar y corriente.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Hm?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Still with me there?
+I've seen you spaced out before, but
+this is ridiculous.
+!------------------------------!
+Allô, la Terre ?
+Je sais que t'as tendance à rêvasser,
+mais là tu exagères...
+!------------------------------!
+Bist du noch ganz da?
+Das ist jetzt aber wirklich
+albern.
+!------------------------------!
+Ehi, sei ancora tra di noi?
+Ti ho già visto con la testa fra
+le nuvole, ma oggi esageri.
+!------------------------------!
+¿Aún sigues ahí?
+Ya te había visto descolocado,
+pero esto es ridículo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? I'm fine.
+I'm fine...
+!------------------------------!
+Quoi ? Mais non...
+!------------------------------!
+Was? Mir geht's gut.
+Alles bestens ...
+!------------------------------!
+Che cosa? Sto bene.
+Sto benissimo...
+!------------------------------!
+¿Qué? Estoy bien, estoy bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let me guess.
+Castle Oblivion?
+!------------------------------!
+Laisse-moi deviner...
+C'est encore cette histoire
+de Manoir Oblivion ?
+!------------------------------!
+Lass mich raten.
+Das Schloss des Entfallens?
+!------------------------------!
+Lasciami indovinare.
+Il Castello dell'Oblio, eh?
+!------------------------------!
+Deja que lo adivine.
+¿Castillo del Olvido?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like I said: the longer we take here,
+the longer you're gonna have to stay
+in the dark.
+!------------------------------!
+Comme je te l'ai dit, moins on ira
+vite, plus tu devras attendre
+longtemps tes réponses !
+!------------------------------!
+Wie ich schon sagte:
+Je länger wir hier sind, desto
+länger weißt du's nicht.
+!------------------------------!
+Come ti ho già detto,
+più tempo passiamo qui e più a
+lungo resterai senza risposte.
+!------------------------------!
+Como he dicho, cuanto más
+tardemos, más tiempo estarás en
+la inopia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know.
+!------------------------------!
+Je sais.
+!------------------------------!
+Ich weiß.
+!------------------------------!
+Lo so.
+!------------------------------!
+Ya lo sé.
+!------------------------------!
+!******************************!

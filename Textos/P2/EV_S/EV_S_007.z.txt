@@ -1,0 +1,659 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:4
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, got any plans?
+!------------------------------!
+Alors, t'as quelque chose de prévu ?
+!------------------------------!
+Und, irgendwelche Pläne?
+!------------------------------!
+Allora, hai qualche piano?
+!------------------------------!
+¿Tienes algún plan?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I was just gonna report to Saïx and
+then go to my room like I always do.
+!------------------------------!
+Je pensais faire mon rapport à Saïx
+et aller dans ma chambre comme
+d'habitude.
+!------------------------------!
+Ich wollte gerade Saïx Bericht
+erstatten und dann auf mein
+Zimmer.
+!------------------------------!
+Volevo fare rapporto a Saïx
+e poi andare nella mia
+stanza, come al solito.
+!------------------------------!
+Solo informar a Saïx e
+ir a mi habitación.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Go to your room!?
+Oh, Roxas, Roxas...
+!------------------------------!
+Dans ta chambre ? Ah là là !
+Roxas, Roxas...
+!------------------------------!
+Auf dein Zimmer!?
+Oh, Roxas, Roxas ...
+!------------------------------!
+Nella tua stanza?!?
+Oh, Roxas, Roxas...
+!------------------------------!
+¿Ir a tu habitación? ¡Ja!
+Ay, Roxas, Roxas...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Move it, Pence!
+!------------------------------!
+Dépêche-toi, Pence !
+!------------------------------!
+Aus dem Weg, Pence!
+!------------------------------!
+Muoviti, Pence!
+!------------------------------!
+¡Muévete, Pence!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, wait up!
+!------------------------------!
+Hé, attends-nous !
+!------------------------------!
+Hey, warte!
+!------------------------------!
+Ehi, aspetta!
+!------------------------------!
+¡Eh, esperad!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Last one there has to buy the winner
+an ice cream!
+!------------------------------!
+Le dernier arrivé paie une
+glace au vainqueur !
+!------------------------------!
+Der Letzte gibt dem Gewinner
+ein Eis aus!
+!------------------------------!
+L'ultimo che arriva
+offrirà un gelato!
+!------------------------------!
+¡El último le compra al primero
+un helado!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, sure, now you tell us!
+!------------------------------!
+Mais c'est toujours toi qui gagnes !
+!------------------------------!
+Ne ganz tolle Idee!
+!------------------------------!
+Ah, certo, come no!
+!------------------------------!
+¡Claro, y ahora lo dices!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No fair, Hayner!
+!------------------------------!
+C'est pas juste, Hayner !
+!------------------------------!
+Das ist nicht fair, Hayner!
+!------------------------------!
+Non è giusto, Hayner!
+!------------------------------!
+¡No es justo, Hayner!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Better get flyin' if you don't wanna end
+up buyin'!
+!------------------------------!
+Vous feriez mieux de vous dépêcher
+ou faudra mettre la main au
+porte-monnaie !
+!------------------------------!
+Hey, wer Letzter ist, muss zahlen!
+!------------------------------!
+Meglio volare,
+altrimenti tocca pagare!
+!------------------------------!
+¡Mejor que te metas caña o
+vas a acabar pagando tú!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Who were they?
+!------------------------------!
+Qui est-ce ?
+!------------------------------!
+Wer war das?
+!------------------------------!
+Chi erano?
+!------------------------------!
+¿Quiénes eran?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+Must be some kids who live here.
+!------------------------------!
+Eux ? Hmm, sûrement des gamins
+qui vivent dans cette ville.
+!------------------------------!
+Hm ...
+Müssen Kinder von hier sein.
+
+!------------------------------!
+Hmm...
+Devono essere dei
+ragazzini che vivono qui.
+!------------------------------!
+¿Ellos? Deben de ser
+chicos que viven aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Echt?
+!------------------------------!
+Davvero?
+!------------------------------!
+Oh...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They sure acted weird.
+!------------------------------!
+Ils étaient bizarres.
+!------------------------------!
+Haben sich ganz schön
+schräg verhalten.
+!------------------------------!
+Di certo si sono comportati
+in modo strano.
+!------------------------------!
+¿La gente siempre se porta así?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah?
+How do you figure?
+!------------------------------!
+Pourquoi tu dis ça ?
+!------------------------------!
+Ja?
+Wie denn?
+!------------------------------!
+Sì?
+Perché dici così?
+!------------------------------!
+¿A qué te refieres?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why did those last two seem to enjoy
+getting pushed around like that? They
+were even making those <E2><80><9C>ha ha<E2><80><9D> noises.
+!------------------------------!
+Pourquoi les deux derniers avaient l'air
+de s'amuser alors que le premier était
+méchant ? Et ils faisaient des "ha, ha"...
+!------------------------------!
+Warum gefällt es den beiden so,
+rumgeschubst zu werden,
+dass sie <E2><80><9E>ha, ha<E2><80><9C> rufen?
+!------------------------------!
+Perché correvano assieme
+urlando in quel modo.
+!------------------------------!
+Ya sabes, a correr
+por ahí, montar follón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean laughter?
+Sometimes people with hearts do that
+even when it doesn't make any sense.
+!------------------------------!
+Ils riaient, tu veux dire ?
+C'est ce que font parfois ceux qui
+ont un cœur sans aucune raison.
+!------------------------------!
+Du meinst Gelächter?
+Wer ein Herz hat, macht so was,
+auch wenn es keinen Sinn ergibt.
+!------------------------------!
+Non sarà qualcosa che si fa
+quando si ha un cuore?!?
+!------------------------------!
+Bueno, sí... O eso creo. Es lo
+que hace la gente con corazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh... Then I guess they're different
+from us.
+!------------------------------!
+Oh... alors ils sont différents de nous...
+!------------------------------!
+Oh ... Dann sind sie wohl
+vollkommen anders als wir.
+!------------------------------!
+Oh... Allora sono proprio diversi da noi.
+!------------------------------!
+A diferencia de nosotros...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C'mon, let's get some ice cream.
+!------------------------------!
+Viens, allons manger une glace.
+!------------------------------!
+Komm schon, holen wir uns
+ein Eis.
+!------------------------------!
+Forza, andiamo a prenderci
+un gelato.
+!------------------------------!
+Venga, vamos a por un helado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why?
+!------------------------------!
+Pourquoi ?
+!------------------------------!
+Warum?
+!------------------------------!
+Perché?
+!------------------------------!
+¿Por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whaddaya mean, why?
+!------------------------------!
+Comment ça <E2><80><9C>pourquoi<E2><80><9D> ?
+!------------------------------!
+Wie meinst du das, warum?
+!------------------------------!
+Come sarebbe a dire perché?
+!------------------------------!
+¿Cómo que "por qué"?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Because we're friends.
+!------------------------------!
+Parce qu'on est amis !
+!------------------------------!
+Weil wir Freunde sind.
+!------------------------------!
+Perché siamo amici, no?
+!------------------------------!
+¿Somos amigos o no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So...friends are people who have ice
+cream together?
+!------------------------------!
+Des amis sont des gens qui mangent
+des glaces ensemble, c'est ça ?
+!------------------------------!
+Und Freunde essen zusammen
+Eis?
+!------------------------------!
+Dunque... gli amici sono persone che
+prendono un gelato insieme?
+!------------------------------!
+¿Amigos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sort of... That, or laugh at stupid
+stuff that doesn't make any sense.
+!------------------------------!
+Oui. Les amis mangent des glaces
+et rigolent ensemble pour un rien,
+tu comprends ?
+!------------------------------!
+Ja ... oder sie lachen über
+albernen Kram, der keinen Sinn
+ergibt.
+!------------------------------!
+Sì, anche... o ridono di cose
+stupide che non hanno senso.
+!------------------------------!
+Sí. Los amigos hacen cosas como
+tomar helados y reírse de
+tonterías, ya sabes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like those kids we just saw<E2><80><95>they were
+friends.
+!------------------------------!
+Comme les enfants de tout à l'heure.
+!------------------------------!
+Wie die Kinder. Die sind Freunde.
+!------------------------------!
+Come quei ragazzini che abbiamo
+appena visto: loro sono amici.
+!------------------------------!
+Como esos otros chicos,
+por ejemplo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C'mon, I'll show you how it works.
+!------------------------------!
+Viens, Roxas, je vais te montrer.
+!------------------------------!
+... Komm, ich zeig dir,
+wie das geht.
+!------------------------------!
+Vieni, ti mostro come si fa.
+!------------------------------!
+Anda, Robo-Roxas, ven.
+Voy a enseñarte a divertirte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

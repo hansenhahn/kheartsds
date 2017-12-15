@@ -1,0 +1,60 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Today I'm supposed to take out some
+kind of giant Heartless...
+!------------------------------!
+Aujourd'hui, je suis censé neutraliser
+une sorte de Sans-cœur géant...
+!------------------------------!
+Heute soll ich einen riesigen
+Herzlosen besiegen ...
+!------------------------------!
+Oggi devo sconfiggere
+un Heartless gigante...
+!------------------------------!
+Hoy se supone que he de acabar
+con una especie de sincorazón
+gigante...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+First I should track down Xigbar.
+He's already in the field.
+!------------------------------!
+Mais il faut d'abord que je retrouve
+Xigbar qui est déjà sur le terrain.
+!------------------------------!
+Zunächst sollte ich Xigbar finden.
+Er ist bereits im Einsatz.
+!------------------------------!
+Ma prima devo trovare Xigbar.
+Lui è già sul campo.
+!------------------------------!
+Primero he de dar con Xigbar.
+Él ya está en el terreno.
+!------------------------------!
+!******************************!

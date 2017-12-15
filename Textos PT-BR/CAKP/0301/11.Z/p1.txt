@@ -1,0 +1,86 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Então é para isso que este lugar é:
+sediar os <E2><80><9C>Jogos.<E2><80><9D>
+!------------------------------!
+ROXAS
+C'est donc à ça que sert cet endroit :
+les <E2><80><9C>Jeux<E2><80><9D>.
+!------------------------------!
+ROXAS
+Dieser Ort ist also für die <E2><80><9E>Spiele<E2><80><9C>.
+!------------------------------!
+ROXAS
+Ecco a che serve questo posto:
+a ospitare i "Giochi".
+!------------------------------!
+ROXAS
+Aquí se celebran los "juegos".
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu vi bancos por toda aquela arena.
+Muitas pessoas devem vir assistir.
+!------------------------------!
+J'ai vu des tribunes tout autour de l'arène.
+Il doit y avoir des spectateurs pendant les
+tournois.
+!------------------------------!
+Da waren überall Tribünen.
+Es kommen also Leute, um zuzusehen.
+!------------------------------!
+Ho visto delle tribune intorno
+allo stadio. Credo servano a
+ospitare il pubblico.
+!------------------------------!
+Hay bancos por todas partes.
+Vendrá mucha gente a verlo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Será que eles vão me deixar competir
+se eu continuar com o treinamento?
+!------------------------------!
+ROXAS
+Je me demande si je pourrais participer aux
+Jeux si je poursuis mon entraînement.
+!------------------------------!
+ROXAS
+Ob ich wohl am Wettkampf teilnehmen darf,
+wenn ich das Training mitmache?
+!------------------------------!
+ROXAS
+Mi lascerebbero partecipare se
+completassi l'addestramento?
+!------------------------------!
+ROXAS
+Me pregunto si podré competir
+si entreno duro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, acho que posso VAC agora.
+Já dei uma boa olhada em volta.
+!------------------------------!
+Quoi qu'il en soit, je vais rentrer.
+J'ai assez exploré les lieux.
+!------------------------------!
+Ich kann jetzt wohl zurück zum Schloss.
+Ich hab mich ziemlich gut umgesehen.
+!------------------------------!
+In ogni caso, ora posso tornare al castello.
+Qui ho scoperto tutto ciò che potevo.
+!------------------------------!
+Bueno, toca VAC. Ya he
+visto bastante.
+!------------------------------!
+!******************************!

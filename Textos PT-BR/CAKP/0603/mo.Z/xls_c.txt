@@ -1,0 +1,319 @@
+&.[HDR].&
+*.0000040000009C2205000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+O caixão está meio aberto...
+
+!------------------------------!
+ROXAS
+Ce cercueil est ouvert...
+!------------------------------!
+ROXAS
+Der Sargdeckel ist geöffnet ...
+
+!------------------------------!
+ROXAS
+Il coperchio della bara è aperto...
+!------------------------------!
+ROXAS
+La tapa está entreabierta...
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Aposto que eu poderia acender essas lanternas...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Sou muito grande para passar.
+
+!------------------------------!
+ROXAS
+Je suis trop grand pour passer.
+!------------------------------!
+ROXAS
+Ich bin zu groß, da passe ich nicht durch.
+
+!------------------------------!
+ROXAS
+Sono troppo grande per passare.
+!------------------------------!
+ROXAS
+Soy demasiado grande.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Parece uma porta, mas cadê a maçaneta?
+
+!------------------------------!
+ROXAS
+On dirait une porte, mais où est la poignée ?
+!------------------------------!
+ROXAS
+Sieht aus wie eine Tür, aber wo ist der Türknauf?
+
+!------------------------------!
+ROXAS
+Sembra una porta, ma...
+Dov'è la maniglia?
+!------------------------------!
+ROXAS
+Parece una puerta, pero
+¿y el picaporte?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000B00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Sou muito grande para passar.
+
+!------------------------------!
+ROXAS
+Je suis trop grand pour passer.
+!------------------------------!
+ROXAS
+Ich bin zu groß, da passe ich nicht durch.
+
+!------------------------------!
+ROXAS
+Sono troppo grande per passare.
+!------------------------------!
+ROXAS
+Soy demasiado grande.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000C00000007000F00.*
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000D00000007000F00.*
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000E00000007000F00.*
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000000F00.*
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000001000000007000F00.*
+!******************************!
+&.[HDR].&
+*.0000040000009C2205000000010000001100000007000F00.*
+!******************************!

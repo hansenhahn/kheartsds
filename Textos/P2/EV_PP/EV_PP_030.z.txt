@@ -1,0 +1,76 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nngh, dag-nabbit!
+I'll get you for this!
+!------------------------------!
+Argh, triple andouille !
+Je t'aurai un jour !
+!------------------------------!
+Nngh, verdammt!
+Dafür wirst du bezahlen!
+!------------------------------!
+Grrr, maledizione!
+Non lo dimenticherò!
+!------------------------------!
+¡Agh, maldita sea!
+¡Esta me la pagarás!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Private army, huh? What does he want
+an army of Heartless for?
+!------------------------------!
+Une milice ? Pourquoi aurait-il besoin
+d'une armée de Sans-cœur ?
+!------------------------------!
+Privatarmee, hm? Wofür braucht er
+eine Armee aus Herzlosen?
+!------------------------------!
+Armata personale, eh?
+A che potrebbe mai servirgli
+un'armata di Heartless?
+!------------------------------!
+Ejército privado, ¿eh? ¿Y para
+qué quiere él un ejército de
+sincorazón?
+!------------------------------!
+!******************************!

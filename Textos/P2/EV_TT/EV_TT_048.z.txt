@@ -1,0 +1,193 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:23
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pence! Olette!
+What's the matter?
+!------------------------------!
+Pence ! Olette !
+Qu'est-ce qu'il y a ?
+!------------------------------!
+Pence! Olette!
+Was ist los?
+!------------------------------!
+Pence! Olette!
+Che succede?
+!------------------------------!
+¡Pence! ¡Olette!
+¿Qué es lo que pasa?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Slow down, Hayner...
+!------------------------------!
+Ralentis, Hayner...
+!------------------------------!
+Immer mit der Ruhe, Hayner ...
+!------------------------------!
+Rallenta, Hayner...
+!------------------------------!
+Más despacio, Hayner...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know the rules!
+Last one there buys ice cream!
+!------------------------------!
+Vous connaissez la règle !
+Le dernier arrivé paie une
+glace aux autres !
+!------------------------------!
+Du kennst die Regeln!
+Der Letzte kauft das Eis!
+!------------------------------!
+Conoscete le regole! L'ultimo
+che arriva paga il gelato!
+!------------------------------!
+¡Ya conoces las reglas!
+¡El último invita a helado!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What!? Not this again!
+!------------------------------!
+Quoi ? Oh non, pas encore !
+!------------------------------!
+Was!? Nicht schon wieder!
+!------------------------------!
+Cosa? Di nuovo?!?
+!------------------------------!
+¡¿Qué?! ¡No, otra vez no!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you don't want to shell out,
+I suggest you get running!
+!------------------------------!
+Si vous voulez pas payer,
+vous devriez courir !
+!------------------------------!
+Wenn du nicht zahlen willst,
+kommst du besser in die Gänge!
+!------------------------------!
+Se non volete pagare,
+vi consiglio di svignarvela!
+!------------------------------!
+¡Si no quieres pagar,
+te sugiero que eches a correr!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess...not all friendships fall apart.
+!------------------------------!
+Il faut croire que certaines amitiés
+peuvent durer...
+!------------------------------!
+Ich schätze ... nicht alle
+Freundschaften zerbrechen.
+!------------------------------!
+Forse... non tutte le amicizie
+sono destinate a finire.
+!------------------------------!
+Supongo que no todas las
+amistades se pierden.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe I'll stop by the clock tower.
+Seems as good a place as any...
+!------------------------------!
+J'irai peut-être en haut de l'horloge.
+Cet endroit n'est pas pire qu'un autre...
+!------------------------------!
+Vielleicht mach ich beim
+Uhrenturm halt. Dort ist es
+genauso gut wie anderswo ...
+!------------------------------!
+Andrò alla torre dell'orologio.
+È un posto come un altro...
+!------------------------------!
+Igual paso por la torre del
+reloj. Es tan buen lugar
+como cualquier otro.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

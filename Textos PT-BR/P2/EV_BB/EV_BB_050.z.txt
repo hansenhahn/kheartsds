@@ -1,0 +1,89 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whew...
+That takes care of them.
+!------------------------------!
+Ils ont eu leur compte !
+!------------------------------!
+Puuh ...
+Das wär's.
+!------------------------------!
+Uff...
+Li abbiamo sistemati.
+!------------------------------!
+Buf...
+Y con esto, hemos terminado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Enough dallying.
+We've wasted enough time here as it is.
+!------------------------------!
+Allez, arrêtons de traîner.
+On a assez perdu de temps comme ça.
+!------------------------------!
+Genug rumgetrödelt.
+Wir haben schon genug Zeit
+vergeudet.
+!------------------------------!
+Basta scherzare.
+Abbiamo già sprecato
+abbastanza tempo.
+!------------------------------!
+Basta de dar vueltas. Ya hemos
+perdido bastante tiempo aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's find our target and be done with it.
+!------------------------------!
+Trouvons notre cible et finissons-en.
+!------------------------------!
+Finden wir unser Ziel und
+erledigen es.
+!------------------------------!
+Troviamo il nostro bersaglio
+e chiudiamo la faccenda.
+!------------------------------!
+Busquemos al objetivo
+y acabemos de una vez.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

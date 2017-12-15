@@ -1,0 +1,89 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sorry, kid, but I can't stick around
+anymore today.
+!------------------------------!
+Désolé, petit, mais je ne peux pas
+rester pour t'entraîner davantage
+aujourd'hui.
+!------------------------------!
+Tut mir leid, Kleiner, aber ich
+muss leider weiter.
+!------------------------------!
+Scusami, ragazzo, ma oggi non
+ho più tempo.
+!------------------------------!
+Lo siento, chico, pero hoy no
+puedo quedarme más.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I got some errands to run, nymphs to
+chase, you know how it is.
+!------------------------------!
+J'ai des choses à faire, des nymphes
+à charmer. Tu sais ce que c'est...
+!------------------------------!
+Ich habe eine paar Dinge
+zu erledigen, Nymphen jagen,
+du weißt ja, wie das ist.
+!------------------------------!
+Ho delle commissioni da fare...
+fanciulle da corteggiare... sai
+com'è.
+!------------------------------!
+Tengo encargos que hacer,
+ninfas que perseguir...
+Ya sabes cómo es esto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess that's it for now, then.
+I'll just have to RTC.
+!------------------------------!
+Bon, c'est tout pour aujourd'hui.
+Je vais rentrer.
+!------------------------------!
+Ich schätze, das war's dann.
+Ich gehe zurück zum Schloss.
+!------------------------------!
+Dunque, direi che per ora è tutto.
+Non mi resta che rientrare.
+
+!------------------------------!
+Supongo que se acabó por
+hoy. Yo me limitaré a VAC.
+!------------------------------!
+!******************************!

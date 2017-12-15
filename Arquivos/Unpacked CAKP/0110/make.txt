@@ -1,0 +1,10 @@
+11.Z LZSS
+21.Z LZSS
+31.Z LZSS
+41.Z LZSS
+51.Z LZSS
+97.Z LZSS
+99.Z LZSS
+_s.Z LZSS
+em0 None
+em0m None

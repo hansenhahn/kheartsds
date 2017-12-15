@@ -1,0 +1,210 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:23
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+1:31
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How wonderful!
+How simply wonderful!
+!------------------------------!
+Joli. Très joli...
+!------------------------------!
+Wundervoll! Einfach wundervoll!
+!------------------------------!
+Bene. Benissimo, davvero!
+!------------------------------!
+¡Magnífico!
+¡Simplemente magnífico!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now the lights are lit, the shadow's
+permit to come out and play.
+<E2><80><9C>Hooray!<E2><80><9D> I say.
+!------------------------------!
+Les lumières sont allumées pour
+que l'ombre vienne s'amuser.
+Hourra !
+!------------------------------!
+Die Lichter sind an. Jetzt kann
+der Schattenlurch zum Spielen
+rauskommen. <E2><80><9E>Hurra!<E2><80><9C>
+!------------------------------!
+Ora le luci sono accese. L'ombra è
+libera di uscire a giocare.
+Urrà!
+!------------------------------!
+Las luces están encendidas.
+Ahora la sombra está libre para
+salir y jugar. ¡Bravo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't see any shadow.
+!------------------------------!
+Je ne vois aucune ombre.
+!------------------------------!
+Ich kann keinen Schattenlurch
+sehen.
+!------------------------------!
+Io non vedo nessuna ombra.
+!------------------------------!
+No veo ninguna sombra.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, the lights aren't lit here.
+They're lit over there.
+!------------------------------!
+Bien sûr que non...
+Les lumières se sont allumées
+ailleurs.
+!------------------------------!
+Die Lichter ja auch nicht hier,
+sondern da drüben angegangen.
+!------------------------------!
+Beh, le luci non sono accese qui,
+ma laggiù.
+!------------------------------!
+Bueno, las luces no se han
+encendido aquí, aunque sí por allí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Over where!?
+...Never mind, I know you won't tell us.
+!------------------------------!
+Et vous ne nous direz pas où, même
+si on vous le demande, c'est ça ?
+!------------------------------!
+Und du wirst uns nicht verraten
+wo, auch wenn wir fragen, stimmt's?
+!------------------------------!
+Laggiù dove?!
+Fa lo stesso, lo so che
+non ce lo dirai.
+!------------------------------!
+¿Por dónde?...
+Bah, déjalo, no nos lo vas
+a decir.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, but today's the day I might.
+Today's the day to say your job's...
+!------------------------------!
+Eh bien, pas aujourd'hui.
+Pour tout vous dire...
+!------------------------------!
+Vielleicht ist heute der Tag, an dem
+ich das tue. Heute ist es an der
+Zeit, euch zu sagen, dass euer Job ...
+!------------------------------!
+Oh, ma oggi potrei dirtelo.
+Oggi è il giorno adatto per dirti
+che devi...
+!------------------------------!
+Oh, quizá hoy puede que sí...
+Quizá hoy haya que decir que
+vuestra labor...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...to look in the room with the napping
+knob.
+!------------------------------!
+cherchez dans la pièce où sommeille
+la poignée de porte.
+!------------------------------!
+... darin besteht, in dem Zimmer
+mit dem schlafenden Türknauf
+nachzusehen.
+!------------------------------!
+... guardare nella stanza con
+la serratura addormentata.
+!------------------------------!
+es buscar en la habitación
+del picaporte dormilón.
+!------------------------------!
+!******************************!

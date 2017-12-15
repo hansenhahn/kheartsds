@@ -1,0 +1,317 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:34
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E aí, pessoal.
+Posso ajudar em algo?
+!------------------------------!
+Salut, je peux vous aider ?
+!------------------------------!
+Hey, Leute.
+Kann ich euch helfen?
+!------------------------------!
+Ehi, ragazzi.
+Vi serve qualcosa?
+!------------------------------!
+Hola, chicos.
+¿Puedo ayudaros en algo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Na verdade, sim.
+Temos uma pergunta.
+!------------------------------!
+Oui, justement.
+On a une question à te poser.
+!------------------------------!
+Ja, das kannst du.
+Wir haben da eine Frage.
+!------------------------------!
+Sì. Abbiamo una domanda.
+!------------------------------!
+La verdad es que sí.
+Quería hacerte una pregunta.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá, manda.
+Vamos ver se é algo que eu sei.
+!------------------------------!
+Je vous écoute.
+J'aurai peut-être la réponse.
+!------------------------------!
+Okay, raus damit.
+Mal sehen, ob ich helfen kann.
+!------------------------------!
+OK, ditemi.
+Cercherò di aiutarvi.
+!------------------------------!
+Bien, disparad.
+A ver si puedo responderla.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem algo... estranho acontecendo aqui?
+Sabe, na cidade.
+!------------------------------!
+Se passe-t-il quelque chose d'étrange
+ici ? En ville, je veux dire.
+!------------------------------!
+Geht in der Stadt irgendwas
+Merkwürdiges vor?
+!------------------------------!
+Da queste parti è successo
+qualcosa di strano?
+Qui in città, intendo dire.
+!------------------------------!
+¿Está pasando algo raro aquí?
+Ya sabes, en la ciudad.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Digo, tem um monte de esquisitices
+e mistérios, não é? Tipo, que nem...
+a Escada Aterrorizante...
+!------------------------------!
+Il y a beaucoup de choses bizarres et
+de mystères, pas vrai ? Comme euh...
+les marches mystérieuses ?
+!------------------------------!
+Ich meine, hier gibt es doch
+viele Rätsel, oder? Wie zum
+Beispiel ... Gruslige Treppen ...
+!------------------------------!
+Ci sono molti piccoli segreti e
+misteri, no? Sai, come quello...
+degli "scalini terrificanti"...
+!------------------------------!
+Me refiero a que hay muchos
+sucesos extraños y misteriosos,
+como los escalones...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aaah...
+!------------------------------!
+...
+!------------------------------!
+Ohhh ...
+!------------------------------!
+Oooh...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então vocês são como eu, investigando 
+as Sete Maravilhas da cidade?
+!------------------------------!
+Alors vous faites comme moi ? Vous
+enquêtez sur les Sept mystères de
+la ville ?
+!------------------------------!
+Ihr erkundet also, genau wie
+ich, die Sieben Wunder
+der Stadt?
+!------------------------------!
+Anche voi state indagando sulle
+sette meraviglie della città?
+!------------------------------!
+¿Investigáis las maravillas
+de la ciudad, como yo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uh, é, algo parecido.
+!------------------------------!
+Euh... exactement !
+!------------------------------!
+Äh, ja, so was in der Art.
+!------------------------------!
+Uh, sì, più o meno.
+!------------------------------!
+Sí, algo parecido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+Hmm...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não pretendia falar com ninguém
+sobre isso até que eu terminasse
+minha investigação, mas...
+!------------------------------!
+Je voulais en parler à personne avant
+d'avoir fini mon enquête, mais...
+!------------------------------!
+Ich wollte eigentlich vor Ende
+meiner Nachforschungen mit
+niemandem darüber reden, aber ...
+!------------------------------!
+Avevo intenzione di non parlarne
+con nessuno, almeno finché non
+avessi terminato le mie indagini...
+!------------------------------!
+No pensaba decírselo a nadie
+hasta acabar mi investigación,
+pero...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tudo bem.
+Vou contar o que já consegui até agora.
+!------------------------------!
+c'est d'accord !
+Je vais vous dire ce que je sais.
+!------------------------------!
+Okay.
+Ich erzähle euch, was ich bisher
+herausgefunden habe.
+!------------------------------!
+Ma... D'accordo.
+Vi dirò tutto ciò che ho
+scoperto.
+!------------------------------!
+De acuerdo.
+Os diré lo que he descubierto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso é, SE vocês puderem responder
+as perguntas que eu fizer.
+!------------------------------!
+Enfin... seulement si vous arrivez
+à répondre à mes questions !
+!------------------------------!
+WENN Ihr mir die folgenden
+Fragen beantworten könnt!
+!------------------------------!
+Ma solo se saprete rispondere
+alle mie domande!
+!------------------------------!
+¿Cuántos coches hay en el tren que
+se ve desde la plaza de la estación?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O quê?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was?
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Cómo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Elas são sobre a cidade.
+Quero saber o quanto vocês estão
+levando a investigação a sério.
+!------------------------------!
+Des questions sur la ville.
+Je veux être sûr que vous
+êtes sérieux.
+!------------------------------!
+Es geht um die Stadt. Ich will
+herausfinden, wie ernsthaft ihr
+sie erkunden wollt.
+!------------------------------!
+Riguardano la città.
+Voglio vedere con quanta
+serietà state investigando.
+!------------------------------!
+Preguntas sobre la ciudad.
+Quiero saber cuánto empeño
+habéis puesto en investigar.
+!------------------------------!
+!******************************!

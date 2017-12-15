@@ -1,0 +1,416 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/92.z
+!******************************!
+&.[HDR].2&
+mi/ob/92.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+ice
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Toma.
+A cereja do bolo.
+!------------------------------!
+Tiens !
+Voilà ta récompense.
+!------------------------------!
+Hier, bitte.
+Das Sahnehäubchen.
+!------------------------------!
+Prendi.
+È la tua ricompensa.
+!------------------------------!
+Aquí tienes.
+Tu premio.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lembra como este picolé se chama?
+!------------------------------!
+Est-ce que tu te souviens du nom
+de cette glace ?
+!------------------------------!
+Weißt du noch, wie dieses Eis
+heißt?
+!------------------------------!
+Ricordi come si chiama
+questo gelato?
+!------------------------------!
+¿Recuerdas cómo se
+llama este helado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Umm...
+!------------------------------!
+Euh...
+!------------------------------!
+Ähm ...
+!------------------------------!
+Uhm...
+!------------------------------!
+Mm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É picolé marinho.
+Qual'é, eu já tinha te dito antes.
+Guarde na memória, cara.
+!------------------------------!
+C'est une glace à l'eau de mer.
+Je te l'ai déjà dit l'autre fois.
+Souviens-t'en, OK ?
+!------------------------------!
+Meersalzeis.
+Hab ich dir doch schon gesagt.
+Merk's dir endlich, Mann!
+!------------------------------!
+Gelato salmastro.
+Dai, te l'avevo già detto.
+Memorizzalo, amico.
+!------------------------------!
+Es un helado salado.
+Venga, ya te lo dije una vez.
+Memorízalo, hombre.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É bem salgado... mas doce também.
+!------------------------------!
+C'est salé... et sucré à la fois.
+!------------------------------!
+Ist echt salzig ... aber auch süß.
+!------------------------------!
+È molto salato... ma anche dolce.
+!------------------------------!
+Es salado... y dulce a la vez.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha. Roxas, você disse a 
+mesma coisa no outro dia.
+!------------------------------!
+Ha, ha, ha. T'as dit exactement la même
+chose l'autre jour, Roxas.
+!------------------------------!
+Ha, ha. Roxas, das Gleiche hast du
+neulich auch schon gesagt.
+!------------------------------!
+Ah ah, Roxas. L'altro giorno hai
+detto la stessa identica cosa.
+!------------------------------!
+Ja, Roxas. Dijiste exactamente
+lo mismo el otro día.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Disse?
+Não me lembro.
+!------------------------------!
+Ah bon ?
+Je ne m'en souviens pas...
+!------------------------------!
+Echt?
+Kann mich nicht dran erinnern.
+!------------------------------!
+Davvero?
+Non me lo ricordo...
+!------------------------------!
+¿Ah, sí?
+No lo recuerdo...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, faz... uma semana desde 
+que você apareceu, né?
+!------------------------------!
+Ça fait quoi maintenant ? Une semaine
+que t'es arrivé, non ?
+!------------------------------!
+Hey, wie lange bist du schon hier,
+'ne Woche?
+!------------------------------!
+Ehi, ormai è passata una
+settimana dal tuo arrivo.
+!------------------------------!
+Ey, ¿cuánto ha pasado, una
+semana desde que apareciste?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Talvez.
+!------------------------------!
+Peut-être...
+!------------------------------!
+Vielleicht.
+!------------------------------!
+Può darsi.
+!------------------------------!
+Puede.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Talvez<E2><80><9D>?
+Qual'é, você tem que lembrar disso.
+!------------------------------!
+Comment ça <E2><80><9C>peut-être<E2><80><9D> ?
+Allez quoi ! Tu devrais au
+moins te souvenir de ça.
+!------------------------------!
+<E2><80><9E>Vielleicht<E2><80><9C>?
+Wenigstens das müsstest du
+doch wissen.
+!------------------------------!
+"Può darsi"?
+Non ti ricordi nemmeno questo?
+!------------------------------!
+¿"Puede"?
+Vamos, tienes que recordarlo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, deixa pra lá.
+Hoje é onde tudo realmente
+começa mesmo.
+!------------------------------!
+T'es enfin allé sur le terrain, ce qui
+veut donc dire que tu fais partie
+des nôtres maintenant.
+!------------------------------!
+Schon okay.
+Es geht eh erst heute
+richtig los.
+!------------------------------!
+Beh, fa lo stesso,
+oggi sei sceso in campo,
+si inizia a fare sul serio...
+!------------------------------!
+Bueno, por fin te has estrenado
+en combate y, a mi entender, eso
+te convierte en uno de nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É?
+!------------------------------!
+Vraiment ?
+!------------------------------!
+Ja?
+!------------------------------!
+Davvero?
+!------------------------------!
+¿De verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Claro! Olha só você, no campo de 
+batalha, trabalhando para a Ordem...
+Hoje, você é um de nós.
+!------------------------------!
+Oui. C'est aujourd'hui que tout
+commence pour toi, mon pote.
+!------------------------------!
+Ja! Hier bist du, im Einsatz
+für die Organisation ... Ab heute
+bist du einer von uns.
+!------------------------------!
+Certo. Eccoti lì, sul campo,
+a lavorare per l'Organizzazione...
+Da oggi sei uno di noi.
+!------------------------------!
+Sí. Hoy es el día en el que todo
+empieza de verdad, amigo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que é um começo.
+!------------------------------!
+Oh...
+!------------------------------!
+Zumindest ist das schon mal
+ein Anfang ... denke ich.
+!------------------------------!
+È il mio inizio... 
+!------------------------------!
+Je.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

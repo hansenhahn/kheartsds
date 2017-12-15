@@ -1,0 +1,553 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[HDR].2&
+mi/ob/C3.z
+!******************************!
+&.[HDR].2&
+mi/ob/5F.z
+!******************************!
+&.[HDR].2&
+1:39
+!******************************!
+&.[HDR].2&
+mi/ob/F2.z
+!******************************!
+&.[HDR].2&
+mi/ob/70.z
+!******************************!
+&.[HDR].2&
+mi/ob/75.z
+!******************************!
+&.[HDR].2&
+mi/ob/75.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Faster, Smee!
+Put your back into it!
+!------------------------------!
+Plus vite, M. Mouche !
+Allons, un peu de nerf !
+!------------------------------!
+Schneller, Smee!
+Häng dich richtig rein!
+!------------------------------!
+Più veloce, Spugna!
+Mettici un po' d'impegno!
+!------------------------------!
+¡Más rápido, Smee!
+¡Con más brío!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aye, aye, Captain Hook!
+!------------------------------!
+Oui, Capitaine Crochet !
+!------------------------------!
+Aye, aye, Käpt'n Hook!
+!------------------------------!
+Ai suoi ordini, Capitan Uncino!
+!------------------------------!
+¡Sí, señor! ¡Sí, capitán Garfio!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There's no mistaking it this time!
+The treasure's most certainly here!
+!------------------------------!
+J'en suis certain cette fois !
+Je sais qu'il y a un trésor ici !
+!------------------------------!
+Diesmal liegen wir richtig!
+Der Schatz muss hier sein!
+!------------------------------!
+Questa volta non c'è ombra di dubbio!
+Il tesoro è sicuramente qui!
+!------------------------------!
+Esta vez no hay error posible.
+Sé que el tesoro está aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That would be a nice change from the
+last dozen places, eh, Captain?
+!------------------------------!
+Ça nous changera de toutes les fois
+précédentes, pas vrai, Capitaine ?
+!------------------------------!
+Wäre 'ne nette Abwechslung nach
+all den Fehlschlägen, was Käpt'n?
+!------------------------------!
+Sarebbe un bel passo in avanti rispetto
+alle ultime dodici volte, eh Capitano?
+!------------------------------!
+Sería un buen cambio respecto a
+los diez lugares anteriores,
+¿eh, capitán?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And with the luck you had finding all
+those treasure maps at once, we'll be
+rich in no time!
+!------------------------------!
+Avec toutes les cartes au trésor
+que vous avez trouvées, nous
+serons bientôt riches !
+!------------------------------!
+Wenn wir genauso viel Glück 
+wie beim Finden der Schatzkarten
+haben, sind wir bald reich!
+!------------------------------!
+E con tutte le mappe del tesoro
+che avete trovato, diventeremo
+ricchissimi in un batter d'occhio!
+!------------------------------!
+Con la suerte que has tenido al
+hallar tantos mapas del tesoro,
+¡nos haremos ricos de golpe!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh heh... Some poor fool must be
+cursing himself now for losing 'em.
+!------------------------------!
+Hé, hé, hé... Une triple andouille doit
+regretter de les avoir égarées.
+!------------------------------!
+He, he, he ... Irgendjemand wird
+sich gewaltig ärgern, sie verloren
+zu haben.
+!------------------------------!
+Eh eh eh... Qualche povero sciocco si
+starà maledicendo per averle perse.
+!------------------------------!
+Je, je, je... Algún pobre diablo
+debe de estar maldiciéndose
+por haberlos perdido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Treasure maps?)
+!------------------------------!
+(Des cartes au trésor ?)
+!------------------------------!
+(Schatzkarten?)
+!------------------------------!
+(Mappe del tesoro?)
+!------------------------------!
+(¿Mapas del tesoro?)
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Enough blabbering, Mr. Smee!
+Get that shovel digging!
+!------------------------------!
+Mais assez parlé, M. Mouche !
+Allez, fais marcher ta pelle et
+que ça saute !
+!------------------------------!
+Genug geredet, Herr Smee!
+Beweg die Schaufel!
+!------------------------------!
+Bando alle ciance, Spugna!
+Forza con quella pala!
+!------------------------------!
+Pero basta de cháchara, Smee.
+¡Dele a la pala!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aye, aye, sir!
+!------------------------------!
+Oui, Capitaine !
+!------------------------------!
+Aye, aye!
+!------------------------------!
+Agli ordini, Capitano!
+!------------------------------!
+¡Sí, sí, señor!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Captain!
+Captain, I've struck something!
+!------------------------------!
+Capitaine ! Capitaine !
+J'ai touché quelque chose !
+!------------------------------!
+Käpt'n!
+Käpt'n, ich bin auf etwas gestoßen!
+!------------------------------!
+Capitano!
+Capitano, ho trovato qualcosa!
+!------------------------------!
+¡Capitán!
+¡Señor, he dado con algo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh!?
+!------------------------------!
+Ah oui ?
+!------------------------------!
+Oh?!
+!------------------------------!
+Oh?!
+!------------------------------!
+¡Oh!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha! Show me what manner of
+treasure we've found!
+!------------------------------!
+Ha, ha, ha ! Voyons quel genre de
+trésor nous avons trouvé !
+!------------------------------!
+Ha, ha! Lass sehen, was für einen
+Schatz wir gefunden haben!
+!------------------------------!
+Ah ah! Vediamo che bel
+tesoro abbiamo trovato!
+!------------------------------!
+¡Ja, ja! ¡Veamos qué clase de
+tesoro hemos encontrado!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Blast!
+Another dead end!
+!------------------------------!
+Mille tonnerres !
+Encore un faux espoir !
+!------------------------------!
+Verdammt!
+Wieder eine Niete!
+!------------------------------!
+Per mille balene!
+Un altro buco nell'acqua!
+!------------------------------!
+¡Maldición!
+¡Otra pista falsa!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now, now, don't you worry, Captain.
+We still got a whole pile of other maps
+to follow.
+!------------------------------!
+Calmez-vous, Capitaine. Il nous
+reste encore plusieurs cartes à
+exploiter.
+!------------------------------!
+Beruhigen Sie sich, Käpt'n.
+Wir haben immer noch einen
+Haufen anderer Karten.
+!------------------------------!
+State tranquillo, Capitano.
+Abbiamo ancora un sacco
+di mappe da controllare.
+!------------------------------!
+Ay, venga, cálmese, capitán.
+Aún tenemos un montón de mapas
+que seguir.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Confound it... If we don't find the right
+one soon, someone else could walk off
+with me treasure.
+!------------------------------!
+Nom d'une baleine... Si on ne trouve
+pas le bon endroit bientôt, quelqu'un
+risque de s'emparer de mon trésor.
+!------------------------------!
+Verflucht ... Wenn wir den
+richtigen Schatz nicht bald finden,
+schnappt ihn uns noch jemand weg.
+!------------------------------!
+Per mille uncini... Se non troviamo
+subito quella giusta, qualcuno mi
+porterà via il tesoro.
+!------------------------------!
+Grrr, diantres...
+Si no lo encontramos pronto,
+otro se irá con mi tesoro.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That gold is mine!
+Nobody else can have it! Nobody!
+!------------------------------!
+Mais cet or est à moi ! Personne
+d'autre que moi ne mettra la main
+dessus ! Personne !
+!------------------------------!
+Das Gold gehört mir!
+Niemand anders darf es haben!
+Niemand!
+!------------------------------!
+Quell'oro è mio!
+Nessuno deve averlo! Nessuno!
+!------------------------------!
+¡Ese oro será mío
+y de nadie más! ¡De nadie!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C-Captain, sir?
+!------------------------------!
+C-capitaine ?
+!------------------------------!
+K-Käpt'n?
+!------------------------------!
+C-capitano...?
+!------------------------------!
+¿C-capitán, señor?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Gah!
+More Heartless!?
+!------------------------------!
+Rah !
+Encore des Sans-cœur ?
+!------------------------------!
+Argh!
+Noch mehr Herzlose!?
+!------------------------------!
+Gah!
+Altri Heartless?!
+!------------------------------!
+¡Bah!
+¿Más sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Run, Smee!
+!------------------------------!
+Fuyons, M. Mouche !
+!------------------------------!
+Lauf, Smee!
+!------------------------------!
+Scappa, Spugna!
+!------------------------------!
+¡Corra, Smee!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yikes! Aye, aye, sir!
+!------------------------------!
+Ah ! Oui, Capitaine !
+!------------------------------!
+Miep! Aye, aye, Käpt'n!
+!------------------------------!
+Accidenti! Agli ordini, Capitano!
+!------------------------------!
+¡Iiih! ¡Sí, sí, señor!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good. Now's my chance to take out
+those Heartless.
+!------------------------------!
+Bien. C'est le moment de me
+débarrasser de ces Sans-cœur.
+!------------------------------!
+Gut. Jetzt kann ich
+die Herzlosen erledigen.
+!------------------------------!
+Bene. Ora posso andare a
+eliminare quegli Heartless.
+!------------------------------!
+Bien. Ahora es la mía para
+acabar con esos sincorazón.
+!------------------------------!
+!******************************!

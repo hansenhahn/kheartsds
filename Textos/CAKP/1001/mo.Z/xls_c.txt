@@ -1,0 +1,54 @@
+&.[HDR].&
+*.000004000000C62201000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Looks like this is the only way out.
+I'll just unbar the door...
+!------------------------------!
+ROXAS
+On dirait que c'est la seule sortie possible.
+Je vais retirer la barre devant la porte...
+!------------------------------!
+ROXAS
+Scheint der einzige Weg nach draußen zu sein.
+Ich werde die Tür einfach entriegeln ...
+!------------------------------!
+ROXAS
+Questa sembra l'unica via d'uscita.
+Basta aprire la porta...
+!------------------------------!
+ROXAS
+Parece la única salida.
+Abriré la puerta...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000C62201000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It won't budge...
+Must be locked from the inside.
+!------------------------------!
+ROXAS
+Ça ne s'ouvre pas...
+Ce doit être fermé de l'intérieur.
+!------------------------------!
+ROXAS
+Sie bewegt sich nicht ...
+Muss von innen verschlossen sein.
+!------------------------------!
+ROXAS
+Non si muove...
+Dev'essere chiusa dall'interno.
+!------------------------------!
+ROXAS
+No cede...
+Está cerrado por dentro.
+!------------------------------!
+!******************************!

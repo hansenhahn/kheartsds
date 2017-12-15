@@ -1,0 +1,237 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+1:75
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/26.z
+!******************************!
+&.[HDR].2&
+mi/ch/1A.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Another sandstorm?
+Are you sure, Aladdin?
+!------------------------------!
+Une autre tempête de sable ?
+Tu en es sûr, Aladdin ?
+!------------------------------!
+Wieder ein Sandsturm?
+Bist du sicher, Aladdin?
+!------------------------------!
+Un'altra tempesta di sabbia?
+Ne sei sicuro, Aladdin?
+!------------------------------!
+¿Otra tormenta de arena?
+¿Estás seguro, Aladdín?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Unfortunately, yes. All the merchants
+were talking about it.
+!------------------------------!
+Oui, malheureusement. Tous les
+marchands en parlent.
+!------------------------------!
+Leider ja.
+Die Händler haben darüber
+geredet.
+!------------------------------!
+Sì, purtroppo.
+Ne parlavano tutti i
+mercanti.
+!------------------------------!
+Sí, por desgracia.
+Todos los mercaderes
+hablan de ella.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This is terrible...
+!------------------------------!
+C'est affreux...
+!------------------------------!
+Das ist furchtbar ...
+!------------------------------!
+È terribile...
+!------------------------------!
+Esto es terrible...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And that's only one of the things that's
+got me worried.
+!------------------------------!
+Et ce n'est pas la seule chose qui
+m'inquiète.
+!------------------------------!
+Und das ist nur eine
+der Sachen, die mir
+Kopfschmerzen bereiten.
+!------------------------------!
+Ed è solo una delle cose
+che mi preoccupano.
+!------------------------------!
+Y solo es una de tantas cosas
+que me preocupan.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why? What else is wrong?
+!------------------------------!
+Ah bon ? Quoi d'autre ?
+!------------------------------!
+Warum? Was denn noch?!
+!------------------------------!
+Davvero? Che cos'altro c'è
+che non va?
+!------------------------------!
+¿Y eso? ¿Hay más problemas?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Heartless<E2><80><95>they've been showing
+up all over Agrabah.
+!------------------------------!
+Il y a énormément de Sans-cœur
+à Agrabah en ce moment.
+!------------------------------!
+Die Herzlosen ... sie tauchen
+überall in Agrabah auf.
+!------------------------------!
+Gli Heartless stanno
+apparendo in tutta Agrabah.
+!------------------------------!
+Se están viendo muchos
+sincorazón en Agrabah.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heartless!?
+!------------------------------!
+Des Sans-cœur ?
+!------------------------------!
+Herzlose!?
+!------------------------------!
+Heartless?!
+!------------------------------!
+¿Sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. They always appear right before
+a sandstorm hits.
+!------------------------------!
+Oui. Ils apparaissent toujours
+juste avant qu'une tempête de
+sable se lève.
+!------------------------------!
+Ja. Sie tauchen immer kurz vor
+einem Sandsturm auf.
+!------------------------------!
+Sì. Compaiono sempre prima
+di una tempesta di sabbia.
+!------------------------------!
+Sí, aparecen siempre
+justo antes de que
+caiga la tormenta.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I thought it was just a coincidence
+during the last storm, but...
+!------------------------------!
+Je pensais que ce n'était qu'une
+coïncidence pendant la dernière
+tempête, mais...
+!------------------------------!
+Ich dachte, das wäre beim
+letzten Sturm nur ein Zufall
+gewesen, aber ...
+!------------------------------!
+Durante l'ultima tempesta pensavo
+fosse solo una coincidenza, invece...
+!------------------------------!
+Durante la última tormenta creí
+que solo era una coincidencia,
+pero...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh no... I hope this isn't a sign of
+things to come.
+!------------------------------!
+Oh, il ne manquait plus que ça !
+J'espère que ce n'est pas un
+mauvais présage.
+!------------------------------!
+Oh nein ...
+Hoffentlich ist das kein
+böses Omen.
+!------------------------------!
+Oh no... Spero non sia
+un segno di quel che
+ci aspetta.
+!------------------------------!
+Oh, no...
+Espero que no sea una señal de
+lo que nos depara el futuro.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

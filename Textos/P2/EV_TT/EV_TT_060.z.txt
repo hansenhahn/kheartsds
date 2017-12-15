@@ -1,0 +1,187 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0A.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Excellent, Roxas.
+Your work today is done.
+!------------------------------!
+Excellent, Roxas.
+C'est fini pour aujourd'hui.
+!------------------------------!
+Hervorragend, Roxas.
+Deine Arbeit ist für heute erledigt.
+!------------------------------!
+Eccellente, Roxas.
+Per oggi abbiamo finito.
+!------------------------------!
+Excelente, Roxas.
+Hemos terminado por hoy.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I am amazed.
+!------------------------------!
+Je suis impressionné...
+!------------------------------!
+Ich bin begeistert.
+!------------------------------!
+Sono sbalordito.
+!------------------------------!
+Estoy alucinando...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That Keyblade... The things that could
+be done with that sort of power...
+!------------------------------!
+Cette Keyblade...
+Ah, tout ce qu'on pourrait faire
+avec ce genre de pouvoir !
+!------------------------------!
+Dieses Schlüsselschwert ...
+Was ich mit solch einer Macht
+alles tun könnte ...
+!------------------------------!
+Quel Keyblade...
+Le cose che potrei fare
+con il suo potere...
+!------------------------------!
+Esta llave espada...
+¡La de cosas que podría hacer
+con su poder!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Umm...
+!------------------------------!
+Hein ?
+!------------------------------!
+Ähm ...
+!------------------------------!
+Uhm...
+!------------------------------!
+Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I have high hopes for you, Roxas<E2><80><95>
+as do we all.
+!------------------------------!
+Tu peux y arriver, Roxas.
+!------------------------------!
+Ich habe hohe Erwartungen
+an dich, Roxas ... wir alle.
+!------------------------------!
+Ho grandi aspettative
+su di te, Roxas. Le
+abbiamo tutti.
+!------------------------------!
+Puedes hacerlo, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Defeat the Heartless, and help the
+Organization reach our noble goal.
+!------------------------------!
+Bats les Sans-cœur et aide l'Organi-
+sation à atteindre son but ultime.
+!------------------------------!
+Besiege die Herzlosen und hilf
+der Organisation, ihr nobles
+Ziel zu erreichen.
+!------------------------------!
+Sconfiggi gli Heartless e aiuta
+l'Organizzazione a raggiungere
+il suo nobile obiettivo.
+!------------------------------!
+Derrota a los sincorazón y
+ayuda a la Organización a
+cumplir su noble cometido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um, all right...
+!------------------------------!
+Euh... d'accord.
+!------------------------------!
+Ähm, okay ...
+!------------------------------!
+Uhm, va bene.
+!------------------------------!
+Eh... Sí, sí, claro.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Shall we RTC, then?
+!------------------------------!
+Allez, on RÀC ?
+!------------------------------!
+Wollen wir dann zum Schloss
+zurückkehren?
+!------------------------------!
+Bene, torniamo al castello?
+!------------------------------!
+¿VAC, entonces?
+!------------------------------!
+!******************************!

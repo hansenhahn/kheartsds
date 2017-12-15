@@ -1,0 +1,118 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Today marks your first time out on a
+mission together.
+!------------------------------!
+Vous faites équipe ensemble pour
+la première fois aujourd'hui.
+!------------------------------!
+Heute seid ihr das erste Mal
+im Team unterwegs.
+!------------------------------!
+Oggi sarà la prima volta che affronterete
+una missione insieme.
+!------------------------------!
+Hoy los dos formaréis equipo
+para la misión.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We need you to eliminate a specific
+Heartless. Roxas, you are in charge.
+!------------------------------!
+Vous devez neutraliser un Sans-cœur
+en particulier. Roxas, c'est toi le
+responsable.
+!------------------------------!
+Es gibt einen Herzlosen, den ihr
+ausschalten müsst. Roxas,
+du wirst die Mission leiten.
+!------------------------------!
+C'è un Heartless specifico che dovete
+eliminare. Roxas, comanderai tu.
+!------------------------------!
+Hay un sincorazón que
+necesitamos que eliminéis.
+Roxas, estás al mando.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me?
+Oh...okay.
+!------------------------------!
+Moi ? Euh... d'accord.
+!------------------------------!
+Ich?
+Oh ... okay?
+!------------------------------!
+Io?
+Oh... Va bene.
+!------------------------------!
+¿Oh...? Bueno.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

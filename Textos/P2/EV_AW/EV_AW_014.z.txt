@@ -1,0 +1,335 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+1:32
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Game, set, and match.
+!------------------------------!
+Les jeux sont faits !
+!------------------------------!
+Spiel, Satz und Sieg.
+!------------------------------!
+E anche questa è fatta.
+!------------------------------!
+Juego, set y partido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Another mission down.
+!------------------------------!
+Encore une mission accomplie.
+!------------------------------!
+Wieder eine Mission erledigt.
+!------------------------------!
+Un'altra missione completata.
+!------------------------------!
+Otra misión menos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quite brilliant indeed!
+Your sight's been set and found again.
+!------------------------------!
+Magnifique, oui !
+Vous avez encore trouvé ce que
+vous cherchiez.
+!------------------------------!
+Ausgezeichnet!
+Ihr habt euer Ziel wiedergefunden.
+!------------------------------!
+Davvero brillante!
+Hai trovato di nuovo la tua preda.
+!------------------------------!
+¡Realmente genial!
+Habéis vuelto a encontrar
+vuestro objetivo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How did you know where they'd be?
+Are you connected to the Heartless
+somehow?
+!------------------------------!
+Comment saviez-vous où ils étaient ?
+Avez-vous un rapport avec les
+Sans-cœur ?
+!------------------------------!
+Woher wusstest du, wo sie sind?
+Hast du irgendwas mit
+den Herzlosen zu tun?
+!------------------------------!
+Come facevi a sapere dov'erano?
+Hai qualche legame con gli Heartless?
+!------------------------------!
+¿Cómo sabías dónde estarían?
+¿Estás relacionado de algún
+modo con los sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes, am I? Or aren't I?
+You'll have to decide.
+!------------------------------!
+Peut-être bien que oui, peut-être
+bien que non ? À votre avis ?
+C'est vous qui décidez.
+!------------------------------!
+Ja oder vielleicht auch nicht?
+Was ist richtig? Ihr müsst entscheiden.
+!------------------------------!
+Sì, ce l'ho o non ce l'ho?
+Dovrai deciderlo tu.
+!------------------------------!
+Sí, ¿lo estoy? O puede que no.
+Tendréis que decidirlo vosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That cat is a walking question mark.
+!------------------------------!
+Ce chat est une énigme
+ambulante.
+!------------------------------!
+Die Katze ist ein wandelndes
+Fragezeichen.
+!------------------------------!
+Quel gatto è un punto
+interrogativo ambulante.
+!------------------------------!
+Este gato es una
+incógnita con patas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nobody's going to reveal his hand from
+the get-go.
+!------------------------------!
+Personne ne révèle jamais ses vraies
+intentions du premier coup.
+!------------------------------!
+Niemand zeigt von Anfang an,
+welche Karten er auf der Hand hat.
+!------------------------------!
+Nessuno svela le proprie carte
+all'inizio della partita.
+!------------------------------!
+Nadie revela sus
+cartas de salida.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You have to outwit your opponent in the
+give and take to figure them out.
+!------------------------------!
+Il faut être plus malin que son
+adversaire pour le percer à jour.
+!------------------------------!
+Du musst deinen Gegner beim
+Geben und Nehmen überlisten,
+um dahinter zu kommen.
+!------------------------------!
+Devi battere il tuo avversario in astuzia
+e cercare di scoprire cos'ha in mano.
+!------------------------------!
+Tienes que vencer en ingenio a
+tus oponentes en el toma y daca
+para saber su juego.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And frankly, I don't see you outwitting
+that cat anytime soon.
+!------------------------------!
+Et honnêtement, je te vois mal être
+plus malin que ce chat.
+!------------------------------!
+Und ganz ehrlich, ich glaube
+kaum, dass du die Katze in
+absehbarer Zeit überlisten wirst.
+!------------------------------!
+Anche se, a dire il vero, non mi
+sembri molto più astuto del gatto.
+!------------------------------!
+Y, francamente, no te veo
+superando a este gato en
+ingenio, de momento.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, excuse me.
+!------------------------------!
+Merci du compliment...
+!------------------------------!
+Also, entschuldige mal.
+!------------------------------!
+Oh, scusami tanto.
+!------------------------------!
+Bueno, pues perdona.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh. Let's head back, Roxas.
+!------------------------------!
+Allez, rentrons, Roxas.
+!------------------------------!
+He. Lass uns gehen, Roxas.
+!------------------------------!
+Non importa. Torniamo
+indietro, Roxas.
+!------------------------------!
+Je. Regresemos, Roxas.
+!------------------------------!
+!******************************!

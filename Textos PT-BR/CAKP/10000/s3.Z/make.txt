@@ -1,0 +1,4 @@
+chara
+t_DE
+t_MA
+t_VE

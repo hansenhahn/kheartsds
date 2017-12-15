@@ -1,0 +1,557 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I sent Axel to Castle Oblivion last night
+on short notice, to help expedite the
+matter we spoke of.
+!------------------------------!
+J'ai envoyé Axel au Manoir Oblivion hier
+soir pour qu'il nous aide à conclure ce
+dont nous avons discuté.
+!------------------------------!
+Ich hab Axel gestern Abend zum 
+Schloss des Entfallens geschickt,
+wegen der Sache, du weißt schon.
+!------------------------------!
+Ieri sera ho mandato Axel al
+C.O. con poco preavviso, in modo
+da accelerare i nostri piani.
+!------------------------------!
+Anoche mandé a Axel al Castillo
+del Olvido para ayudar
+en el tema del que hablamos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I also instructed him to clear out our
+facilities there. He should RTC soon.
+!------------------------------!
+Je lui ai également ordonné de détruire
+nos équipements là-bas. Il devrait
+bientôt RÀC.
+!------------------------------!
+Ich hab ihm auch aufgetragen,
+unsere Anlagen dort auszuräumen.
+Er müsste bald zurück sein.
+!------------------------------!
+Gli ho ordinato di ripulire tutte
+le nostre strutture sul posto.
+Dovrebbe far presto ritorno.
+!------------------------------!
+También le pedí que se encargara
+de las instalaciones.
+Tendrá que VAC pronto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And Naminé?
+!------------------------------!
+Et Naminé ?
+!------------------------------!
+Und Naminé?
+!------------------------------!
+E Naminé?
+!------------------------------!
+¿Y Naminé?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Still missing, sir.
+!------------------------------!
+Toujours portée disparue, Monsieur.
+!------------------------------!
+Immer noch verschwunden.
+!------------------------------!
+Ancora dispersa.
+!------------------------------!
+Sigue desaparecida, señor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Missing indeed. Ha ha!
+Wherever could she be? 
+!------------------------------!
+Disparue, oui... Ha, ha, ha !
+Mais où peut-elle bien être ? 
+!------------------------------!
+Verschwunden ist sie in der Tat.
+Ha, ha! Wo könnte sie
+wohl stecken?
+!------------------------------!
+A dir poco. Ah ah!
+Dove potrebbe mai essere?
+!------------------------------!
+Así es, en efecto. ¡Ja, ja!
+¿Dónde podría estar? 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why, Xigbar...
+It almost sounds as though you know.
+!------------------------------!
+Xigbar... on dirait presque que
+tu sais où elle est.
+!------------------------------!
+Xigbar.
+Das hört sich ja fast so an,
+als wüsstest du's.
+!------------------------------!
+Xigbar... tu sai dove
+si trova, per caso?
+!------------------------------!
+Vaya, Xigbar... Parece como
+si lo supieras.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph.
+!------------------------------!
+...
+!------------------------------!
+Hmpf ...
+!------------------------------!
+...
+!------------------------------!
+Mmf...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What else?
+!------------------------------!
+Quoi d'autre ?
+!------------------------------!
+Was noch?
+!------------------------------!
+Altro?
+!------------------------------!
+¿Qué más?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Somebody accessed our main computer
+without authorization.
+!------------------------------!
+Quelqu'un a accédé à notre terminal
+informatique sans autorisation.
+!------------------------------!
+Jemand hat ohne Autorisierung
+auf unseren Hauptcomputer
+zugegriffen.
+!------------------------------!
+Qualcuno si è connesso al
+nostro computer principale
+senza autorizzazione.
+!------------------------------!
+Alguien ha accedido al
+ordenador principal
+sin autorización.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Somebody<E2><80><9D>? Are we all gonna pretend
+ we don't know who?
+!------------------------------!
+<E2><80><9C>Quelqu'un<E2><80><9D> ? Tu espères me faire
+croire qu'on ne sait pas qui c'est ?
+!------------------------------!
+<E2><80><9E>Jemand<E2><80><9C>? Sollen wir etwa so tun,
+als wüssten wir nicht,
+wer das war?
+!------------------------------!
+"Qualcuno"? Dobbiamo far
+finta di non sapere chi è stato?
+!------------------------------!
+¿"Alguien"? ¿Vamos a fingir
+ que no sabemos quién?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Little Poppet is turning into a problem<E2><80><95>
+and I think you catch my meaning.
+!------------------------------!
+On a beau essayer de le contenir,
+la petite poulette se change peu à
+peu en lui.
+!------------------------------!
+Unser Schätzchen wird langsam
+zu einem Problem ... Du weißt,
+was ich meine.
+!------------------------------!
+Non possiamo più contenerlo.
+La piccola idiota si sta
+trasformando in lui.
+!------------------------------!
+La pequeña marioneta se está
+convirtiendo en un problema.
+Creo que ya me comprendes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nonsense.
+I see no problem whatsoever.
+!------------------------------!
+C'est absurde. Il n'y a pas de quoi
+s'en faire.
+!------------------------------!
+Unsinn. Ich kann da kein
+Problem erkennen.
+!------------------------------!
+Ridicolo.
+Non vedo proprio nessun problema.
+!------------------------------!
+Bobadas.
+No le veo ningún problema.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha!
+Well no, apparently you don't!
+!------------------------------!
+Ha, ha, ha !
+C'est ce que tu penses !
+!------------------------------!
+Ha, ha! Nein,
+kannst du offensichtlich nicht!
+!------------------------------!
+Ah ah!
+Beh, a quanto pare no.
+!------------------------------!
+¡Ja, ja! Ya, claro...
+Está claro que no.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Something you find amusing?
+!------------------------------!
+Tu trouves ça drôle ?
+!------------------------------!
+Was gibt es da zu lachen?
+!------------------------------!
+Lo trovi divertente?
+!------------------------------!
+¿Qué te hace tanta gracia?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If people see with their hearts, Saïx,
+then you're even blinder than the rest
+of us.
+!------------------------------!
+Saïx, si les gens voient avec leur
+cœur, je crois que tu es le plus
+aveugle de nous tous.
+!------------------------------!
+Wenn Menschen mit ihren Herzen
+sehen können, dann bist du noch
+blinder, als der Rest von uns, Saïx.
+!------------------------------!
+Se davvero il cuore serve per vedere,
+Saïx, beh, allora tu sei più cieco
+di tutti noi.
+!------------------------------!
+Saïx, si el corazón es lo que
+ permite ver la realidad, eres
+ el más ciego de todos. 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Our plans remain unchanged.
+!------------------------------!
+Nos plans ne changent pas.
+!------------------------------!
+Unsere Pläne bleiben unverändert.
+!------------------------------!
+I nostri piani non cambiano.
+!------------------------------!
+Nuestros planes no han cambiado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, Roxas, and Xion will play the
+roles Kingdom Hearts has chosen for
+them.
+!------------------------------!
+Axel, Roxas et Xion vont jouer le rôle
+que Kingdom Hearts leur a choisi.
+!------------------------------!
+Axel, Roxas und Xion werden
+die Rollen spielen, die ihnen
+Kingdom Hearts zugedacht hat.
+!------------------------------!
+Axel, Roxas e Xion assumeranno
+il ruolo che i Kingdom Hearts
+hanno scelto per loro.
+!------------------------------!
+Axel, Roxas y Xion desempeñarán
+el papel que Kingdom Hearts
+les ha reservado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But sir, Xion...
+If we don't take steps<E2><80><95>
+!------------------------------!
+Mais, Monsieur, si on n'arrête pas
+Xion...
+!------------------------------!
+Aber ...
+wenn wir nichts unternehmen ...
+Xion ...
+!------------------------------!
+Ma se non fermiamo Xion...
+!------------------------------!
+Pero, señor, si no
+tomamos medidas, Xion...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Take steps? How can you not see how
+perfect this is?
+!------------------------------!
+L'arrêter ? Ne comprends-tu pas
+que c'est l'idéal justement ?
+!------------------------------!
+Unternehmen? Siehst du nicht,
+wie perfekt alles läuft?
+!------------------------------!
+Fermarla? Non capisci che
+tutto procede perfettamente?
+!------------------------------!
+¿Medidas? ¿Es que no
+te das cuenta de lo
+perfecto que es esto?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion is marching right into the arms of
+destiny.
+!------------------------------!
+Xion est en marche vers sa destinée. 
+!------------------------------!
+Xion steuert direkt
+ihrer Bestimmung entgegen.
+!------------------------------!
+Xion sta avanzando verso
+il proprio destino.
+!------------------------------!
+Xion va directa
+a los brazos del destino. 
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The only steps we need take are two:
+watch...and wait.
+!------------------------------!
+Il nous suffit juste d'attendre...
+et d'observer.
+!------------------------------!
+Das Einzige, was wir unternehmen
+müssen, ist zuzusehen ...
+und abzuwarten.
+!------------------------------!
+Ora non dobbiamo fare altro
+che osservare... e attendere.
+!------------------------------!
+Las únicas medidas que debemos
+tomar son observar y esperar.
+!------------------------------!
+!******************************!

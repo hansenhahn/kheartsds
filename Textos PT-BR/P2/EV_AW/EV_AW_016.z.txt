@@ -1,0 +1,395 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/24.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/4B.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm late! I'm late!
+I simply must get back. Oh dear!
+My report is due post-haste!
+!------------------------------!
+Je suis en retard ! En retard !
+Je dois y retourner pour faire
+mon rapport au plus vite !
+!------------------------------!
+Ich komme zu spät!
+Ich muss einfach zurück und
+so schnell wie möglich berichten!
+!------------------------------!
+È tardi! È tardi!
+Devo tornare subito. Povero me!
+Devo fare rapporto immediatamente!
+!------------------------------!
+¡Llego tarde! ¡Llego tarde!
+¡Tengo que volver! ¡Mi informe
+no se puede retrasar más!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Even if she's curious, she's sure to be
+most furious! For I'm late, I'm late,
+I'm late!
+!------------------------------!
+Oh, elle va être furieuse !
+Encore un raté et ma
+tête sera tranchée !
+!------------------------------!
+Oh, sie wird außer sich sein!
+Ich komme zu spät, zu spät,
+zu spät!
+!------------------------------!
+Anche se è curiosa, di sicuro è
+più furiosa! Perché è tardi, è tardi,
+è tardi!
+!------------------------------!
+Por mucho que quiera mi informe,
+¡se pondrá muy furiosa!
+¡Llego tarde! ¡Muy tarde!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's that rabbit.
+!------------------------------!
+C'est ce lapin-là.
+!------------------------------!
+Das ist das Kaninchen.
+!------------------------------!
+È il coniglio.
+!------------------------------!
+Es ese conejo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The one you mentioned the last time we
+were here?
+!------------------------------!
+Celui dont tu parlais la dernière
+fois qu'on est venus ?
+!------------------------------!
+Das, das du erwähnt hast,
+als wir das letzte Mal hier waren?
+!------------------------------!
+Quello di cui mi hai parlato
+la volta scorsa?
+!------------------------------!
+¿El que mencionaste la última
+vez que estuvimos aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah... What's got him so tense?
+I'm a little curious.
+!------------------------------!
+Oui... Pourquoi est-il si pressé ?
+Je serais curieux de le savoir.
+!------------------------------!
+Ja ... Warum ist es so angespannt?
+Ich bin etwas neugierig.
+!------------------------------!
+Sì... Perché è così preoccupato?
+Tutto ciò mi incuriosisce.
+!------------------------------!
+Sí... ¿Por qué está tan
+nervioso? Tengo mucha
+curiosidad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, curiosity is essential to carving
+your own path through life.
+!------------------------------!
+La curiosité est essentielle pour se
+frayer un chemin dans la vie.
+!------------------------------!
+Neugier ist entscheidend, wenn es
+darum geht, seinen eigenen Weg
+zu finden.
+!------------------------------!
+Beh, la curiosità è essenziale per
+tracciare la propria strada nella vita.
+!------------------------------!
+Bien. La curiosidad es esencial
+para abrirse camino en la vida.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Get too curious, though, and it'll be a
+short walk.
+!------------------------------!
+Mais trop de curiosité peut aussi
+parfois nous freiner.
+!------------------------------!
+Wenn du allerdings zu neugierig
+bist, wird das ein kurzer Spaziergang.
+!------------------------------!
+Ma se sei troppo curioso, la strada
+potrebbe risultare molto breve.
+!------------------------------!
+Aunque, si eres demasiado
+curioso, solo será un corto
+paseo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No one can say whether following that
+rabbit's footsteps will be your lucky
+charm...or get you killed.
+!------------------------------!
+Personne ne sait si suivre ce lapin
+nous portera bonheur... ou pas.
+!------------------------------!
+Niemand kann vorhersagen, ob es
+dir Glück bringt, dem Kaninchen
+zu folgen ... oder ob es dich umbringt.
+!------------------------------!
+Nessuno può dire se seguire quel
+coniglio sarà la tua fortuna...
+o la tua massima sventura.
+!------------------------------!
+Nadie sabe decir si seguir los
+pasos de ese conejo será
+para bien... o para mal.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isn't that a little dramatic?
+!------------------------------!
+Tu n'en fais pas un peu trop ?
+!------------------------------!
+Übertreibst du da nicht etwas?
+!------------------------------!
+Non credi di esagerare un po'?
+!------------------------------!
+¿No es un poco dramático, esto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Following him won't change anything.
+We're still here to hunt Heartless. 
+!------------------------------!
+Le suivre ne posera pas de problème.
+Nous sommes ici pour chasser des
+Sans-cœur de toute façon.
+!------------------------------!
+Ihm zu folgen ändert nichts.
+Wir sind immer noch hier,
+um Herzlose zu jagen.
+!------------------------------!
+Seguirlo non cambierà nulla.
+Siamo qui per cacciare gli Heartless.
+!------------------------------!
+Seguirlo no cambiará nada.
+Nuestro objetivo sigue siendo
+cazar sincorazón. 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh.
+Well, if you're that certain...
+!------------------------------!
+Hé, hé, hé.
+Si tu en es aussi sûr...
+!------------------------------!
+Hi, hi.
+Wenn du dir da so sicher bist ...
+!------------------------------!
+Eh eh.
+Beh, se ne sei così convinto...
+!------------------------------!
+Je, je.
+Bueno, si estás tan seguro...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's go after our harried little hare,
+see where he takes us.
+!------------------------------!
+courons après notre petit lapin pressé
+et voyons où ça nous mène.
+!------------------------------!
+Folgen wir unserem gequälten
+kleinen Hasen. Mal sehen, wo er
+uns hinführt.
+!------------------------------!
+Seguiamo il nostro piccolo amico
+peloso e vediamo dove ci porta.
+!------------------------------!
+Sigamos a nuestro presuroso
+conejito, a ver dónde nos lleva.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're okay with it, then?
+!------------------------------!
+Tu es d'accord ?
+!------------------------------!
+Du hast also nichts dagegen?
+!------------------------------!
+Per te va bene, allora?
+!------------------------------!
+¿Estás de acuerdo, entonces?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Following him won't change anything.
+You said so yourself.
+!------------------------------!
+Le suivre ne posera pas de problème.
+C'est toi qui l'as dit.
+!------------------------------!
+Ihm zu folgen ändert nichts.
+Das hast du selbst gesagt.
+!------------------------------!
+Seguirlo non cambierà nulla.
+L'hai detto tu stesso.
+!------------------------------!
+Seguirlo no cambiará
+nada. Acabas de decirlo.
+!------------------------------!
+!******************************!

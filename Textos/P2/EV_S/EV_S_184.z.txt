@@ -1,0 +1,64 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion looked really upset when she left
+this morning. I wonder what's on her
+mind...
+!------------------------------!
+Xion avait l'air très contrariée quand
+elle est partie ce matin. Je me
+demande ce qu'il lui arrive...
+!------------------------------!
+Xion sah ziemlich mitgenommen
+aus, als sie aufbrach. Was wohl
+mit ihr los ist ...
+!------------------------------!
+Stamattina Xion non mi ha fatto
+una bella impressione, quando
+è partita. Chissà cos'ha...
+!------------------------------!
+Xion parecía muy alterada cuando
+se fue esta mañana. Me pregunto
+qué estará pensando...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I should go talk to her once I finish up
+here.
+!------------------------------!
+Je devrais aller lui parler une fois
+que j'en aurai fini ici.
+!------------------------------!
+Ich sollte mal mit ihr reden,
+wenn ich hier fertig bin.
+!------------------------------!
+Andrò a parlarle non appena
+avrò finito qui.
+!------------------------------!
+Debería hablar con ella cuando
+acabe con esto.
+!------------------------------!
+!******************************!

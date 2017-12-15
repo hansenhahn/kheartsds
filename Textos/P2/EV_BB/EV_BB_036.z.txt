@@ -1,0 +1,281 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:31
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[HDR].2&
+mi/ch/19.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wait... Something is there.
+!------------------------------!
+Attends... J'entends quelque chose.
+!------------------------------!
+Warte ... Da ist etwas.
+!------------------------------!
+Aspetta... Sento qualcosa.
+!------------------------------!
+Espera... Ahí hay algo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Another day of the master skulking
+about the castle, chasing down those
+creatures...
+!------------------------------!
+Le maître a encore passé la journée
+à chasser ces créatures du château...
+!------------------------------!
+Wieder ein Tag, an dem der
+Herr auf der Jagd nach diesen
+Kreaturen durchs Schloss geistert.
+!------------------------------!
+Anche oggi il padrone si
+aggira per il castello dando
+la caccia a quelle creature...
+!------------------------------!
+Otro día con el amo merodeando
+por el castillo persiguiendo a
+esas criaturas...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+At this rate, he'll go the entire day
+without speaking to Belle at all... Again.
+!------------------------------!
+À ce rythme-là, il ne va encore pas
+parler à Belle de la journée... 
+!------------------------------!
+Wenn er so weiter macht, wird
+er wieder den ganzen Tag nicht
+mit Belle sprechen.
+!------------------------------!
+Di questo passo non avrà
+occasione di parlare con Belle...
+neanche oggi.
+!------------------------------!
+A este paso, se pasará todo el
+día sin hablar con
+Bella... de nuevo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This can't go on much longer...
+We're running out of time!
+!------------------------------!
+Ça ne peut plus durer...
+Le temps presse !
+!------------------------------!
+Das kann nicht länger so
+weitergehen ...
+Unsere Zeit läuft ab!
+!------------------------------!
+Non possiamo continuare così...
+Ci resta pochissimo tempo!
+!------------------------------!
+Esto no puede seguir así mucho
+más... ¡Nos estamos quedando
+sin tiempo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Running out of time for what?
+!------------------------------!
+Le temps presse ?
+!------------------------------!
+Wofür läuft die Zeit ab?
+!------------------------------!
+Tempo per fare cosa?
+!------------------------------!
+¿Quedando sin tiempo para qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, but you see?
+This is one of the castle's residents.
+And like the beast, a human once.
+!------------------------------!
+Tu n'as pas compris ?
+C'est l'un des habitants du château.
+Lui aussi était un être humain, jadis.
+!------------------------------!
+Ah, aber versteh doch! Das ist
+ein Bewohner des Schlosses. Wie
+das Biest war er einst ein Mensch.
+!------------------------------!
+Ah, non capisci? Lui è un
+abitante del castello. Un tempo
+era umano, come la Bestia.
+!------------------------------!
+¿No lo ves? Es uno de los
+habitantes del castillo. Fue
+humano, como la bestia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You think he's under the spell, too?
+!------------------------------!
+Tu crois qu'il a été frappé par le
+sortilège, lui aussi ?
+!------------------------------!
+Du glaubst, er ist auch verzaubert?
+!------------------------------!
+Credi che anche lui sia sotto
+l'effetto di un incantesimo?
+!------------------------------!
+¿También crees que
+está hechizado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If I had to venture a guess.
+And from the sound of it, this spell
+came with a time limit.
+!------------------------------!
+C'est ce que je crois, en tout cas.
+Et apparemment, l'échéance approche.
+!------------------------------!
+Würde ich mal schätzen. Und so
+wie es sich anhört, ist der Spruch
+zeitlich begrenzt.
+!------------------------------!
+Mi sembra molto probabile.
+E a quanto pare l'incantesimo
+ha un limite di tempo.
+!------------------------------!
+Por aventurar alguna hipótesis.
+Y, por lo que parece, el hechizo
+tiene un límite de tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What happens when time runs out?
+!------------------------------!
+Quelle échéance ? Et qu'est-ce
+qu'il se passera alors ?
+!------------------------------!
+Und wenn die Zeit abgelaufen ist?
+!------------------------------!
+E che succede allo
+scadere del tempo?
+!------------------------------!
+¿Y qué pasa cuando el
+tiempo se acaba?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What indeed? Let's continue our search.
+And stay out of sight.
+!------------------------------!
+C'est ce qu'il nous faut découvrir.
+Poursuivons nos recherches.
+Et tâchons de rester discrets.
+!------------------------------!
+Tja, was dann? Fahren wir mit
+unserer Suche fort. Und lassen
+uns nicht sehen.
+!------------------------------!
+Bella domanda. Continuiamo a
+indagare. E non farti scoprire.
+!------------------------------!
+Y yo que sé. Sigamos con el
+registro. Y procura que no te
+vean.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

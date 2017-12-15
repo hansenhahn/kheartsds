@@ -1,0 +1,401 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why didn't you report in?
+!------------------------------!
+Pourquoi n'es-tu pas venu au
+rapport ?
+!------------------------------!
+Warum hast du dich nicht
+zurückgemeldet?
+!------------------------------!
+Perché non hai fatto rapporto?
+!------------------------------!
+¿Por qué no has informado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, good to see you, too.
+You're welcome, thanks for the kind
+words.
+!------------------------------!
+Oh, je suis content de te voir moi
+aussi. Bonjour l'accueil...
+!------------------------------!
+Oh, ich freu mich auch, dich
+zu sehen. Vielen Dank für
+die freundlichen Worte.
+!------------------------------!
+Oh, anch'io sono felice di
+vederti. Grazie mille per
+le parole gentili.
+!------------------------------!
+Oh, yo también me alegro de
+verte. Y muchas gracias por
+tus amables palabras.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm told Naminé has gone missing.
+!------------------------------!
+On raconte que Naminé aurait disparu.
+!------------------------------!
+Ich hab gehört, dass Naminé
+vermisst wird.
+!------------------------------!
+Ho saputo che Naminé
+è scomparsa.
+!------------------------------!
+Me han dicho que Naminé
+ha desaparecido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There one minute, gone the next.
+I don't know how she got out.
+!------------------------------!
+Là, pas là....
+Je ne sais pas comment
+elle s'y est prise pour sortir.
+!------------------------------!
+Kaum ist sie hier, ist sie auch
+schon wieder weg. Ich wusste gar
+nicht, dass sie rausgekommen ist.
+!------------------------------!
+Sì, svanita nel nulla.
+Non so proprio come
+ci sia riuscita.
+!------------------------------!
+Ahora está aquí, ahora está
+allá. No sé cómo consiguió
+escapar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You searched every room, I expect?
+!------------------------------!
+Et tu as fouillé toutes les pièces,
+j'imagine ?
+!------------------------------!
+Ich hoffe, du hast auch alle
+Räume durchsucht?
+!------------------------------!
+Hai controllato in ogni stanza,
+vero?
+!------------------------------!
+Habéis registrado todas las
+habitaciones, espero.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're kidding, right?
+!------------------------------!
+Tu plaisantes ou quoi ?
+!------------------------------!
+Das ist ein Scherz, oder?
+!------------------------------!
+Stai scherzando?
+!------------------------------!
+¿Bromeas, no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's like counting grains of dust in
+a building full of sneezing people.
+!------------------------------!
+Ce serait comme chercher une
+aiguille dans une meule de foin.
+!------------------------------!
+Das wäre, wie Staubkörner in
+einem Gebäude voller niesender
+Leute zu zählen.
+!------------------------------!
+Sarebbe come cercare un ago in
+un pagliaio durante una bufera.
+!------------------------------!
+Es como encontrar una
+aguja en un pajar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What about the chamber?
+Did you find it?
+!------------------------------!
+Et la salle ? L'as-tu trouvée ?
+!------------------------------!
+Was ist mit der Kammer?
+Hast du sie gefunden?
+!------------------------------!
+E la sala? L'hai trovata?
+!------------------------------!
+¿Y qué hay de la cámara?
+¿La habéis encontrado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Come on, I would have told you that
+much.
+!------------------------------!
+Si c'était le cas, je te l'aurais dit.
+!------------------------------!
+Komm schon, das hätte ich dir
+doch erzählt.
+!------------------------------!
+Beh, questo te l'avrei
+detto subito.
+!------------------------------!
+Vamos, eso ya te lo
+habría dicho.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I gotta hand it to you...
+!------------------------------!
+Mais je dois avouer...
+!------------------------------!
+Das muss ich dir lassen ...
+!------------------------------!
+Devo ammetterlo...
+!------------------------------!
+Debo admitir que...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You were right.
+About Marluxia, the traitors...
+You knew exactly what was up.
+!------------------------------!
+que tu avais raison.
+À propos de Marluxia et des traîtres...
+Tu savais ce qui se tramait.
+!------------------------------!
+Du hattest recht.
+Mit Marluxia, den Verrätern ...
+Du wusstest genau, was los war.
+!------------------------------!
+Avevi ragione.
+Riguardo a Marluxia, i traditori...
+Sapevi praticamente tutto.
+!------------------------------!
+Tenías razón sobre Marluxia y los
+ traidores... Sabías exactamente
+ qué se cocía.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All I did was find a place to send
+everyone who was getting in the way.
+!------------------------------!
+Tout ce que j'ai fait, c'est trouver un
+endroit où envoyer ceux qui gênaient.
+!------------------------------!
+Ich habe nur einen Ort gefunden,
+an den ich alle, die im Weg
+waren, schicken konnte.
+!------------------------------!
+Non ho fatto altro che trovare
+un posto in cui mandare tutti
+coloro che erano d'intralcio.
+!------------------------------!
+Lo único que hice fue encontrar
+un lugar para todo el mundo que
+interfería.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, it's nice to know where I stand!
+Sheesh...
+!------------------------------!
+C'est bon de savoir que c'est pas
+mon cas !
+!------------------------------!
+Schön zu wissen, wo ich stehe!
+Mann ...
+!------------------------------!
+Oh, grazie tante, allora!
+Ma guarda te...
+!------------------------------!
+Bueno, es bonito saber qué lugar
+ocupa uno. Caramba...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did you come back in one piece or didn't
+you?
+!------------------------------!
+Es-tu sûr d'être revenu en un seul
+morceau ?
+!------------------------------!
+Bist du in einem Stück
+zurückgekommen oder nicht?
+!------------------------------!
+Sei tornato tutto intero oppure
+no?
+!------------------------------!
+¿Has vuelto
+entero o no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I disposed of Zexion.
+!------------------------------!
+J'ai éliminé Zexion.
+!------------------------------!
+Ich habe Zexion erledigt.
+!------------------------------!
+Ho eliminato Zexion.
+!------------------------------!
+Me he deshecho de Zexión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's how you wanted it, right?
+I'll play it your way...for now.
+!------------------------------!
+C'est ce que tu voulais, non ?
+Je vais agir selon tes plans...
+pour le moment.
+!------------------------------!
+Das wolltest du doch, oder?
+Ich richte mich nach dir ...
+vorerst.
+!------------------------------!
+Proprio come volevi tu, no?
+Starò al tuo gioco... per ora.
+!------------------------------!
+¿Es lo que querías, no?
+Bailaré a tu son... de momento.
+!------------------------------!
+!******************************!

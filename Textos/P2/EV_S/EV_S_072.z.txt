@@ -1,0 +1,335 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, hey, Roxas.
+You hear about the vacation?
+About time we had a day off.
+!------------------------------!
+Ah, salut, Roxas.
+T'es au courant pour les vacances ?
+Il était temps qu'on fasse une pause.
+!------------------------------!
+Oh, hey, Roxas.
+Hast du von dem Urlaub gehört?
+Wird auch mal Zeit.
+!------------------------------!
+Ehi, Roxas.
+Hai sentito delle ferie?
+Finalmente un giorno di vacanza.
+!------------------------------!
+Oh, ey, Roxas. ¿Has oído lo de
+las vacaciones? Ya era hora de
+que tuviéramos el día libre.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I've never had a vacation before.
+!------------------------------!
+Je n'ai jamais eu de vacances avant.
+!------------------------------!
+Ich hatte noch nie Urlaub.
+!------------------------------!
+Io non sono mai andato
+in vacanza prima d'ora.
+!------------------------------!
+Nunca antes había
+tenido un día libre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is that right?
+!------------------------------!
+Ah ouais ?
+!------------------------------!
+Echt?
+!------------------------------!
+Sul serio?
+!------------------------------!
+No me digas...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's my job during vacation?
+!------------------------------!
+Qu'est-ce que je suis censé faire
+en vacances ?
+!------------------------------!
+Wie lautet während des Urlaubs
+mein Job?
+!------------------------------!
+Qual è la mia missione
+durante le ferie?
+!------------------------------!
+¿Qué he de hacer durante
+unas vacaciones?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's your<E2><80><95>
+Roxas, you're really missing the point.
+!------------------------------!
+Mais tu...
+Roxas, tu n'as rien compris.
+!------------------------------!
+Wie dein ...
+Roxas, du hast das nicht ganz
+verstanden.
+!------------------------------!
+Qual è la tua...?
+Non hai capito, Roxas.
+!------------------------------!
+¿Cómo que qué has...?
+Roxas, me parece que
+no has entendido nada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's not my fault I've never had one.
+I don't know what to do.
+!------------------------------!
+Ce n'est pas de ma faute, c'est la
+première fois. Je ne sais pas ce
+que je dois faire.
+!------------------------------!
+Aber ich hatte ja auch noch nie
+einen. Ich weiß nicht, was ich
+tun soll.
+!------------------------------!
+Non è colpa mia se non ho
+mai fatto una vacanza.
+Non so cosa fare.
+!------------------------------!
+No es mi culpa el no haber
+tenido vacaciones nunca.
+No sé qué hay que hacer.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Do what you like.
+!------------------------------!
+Ce que tu veux !
+!------------------------------!
+Tu, was dir gefällt.
+!------------------------------!
+Fai quello che vuoi.
+!------------------------------!
+Haz lo que quieras.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...I don't know what I like.
+!------------------------------!
+Mais... je ne sais pas ce que je veux.
+!------------------------------!
+Aber ... ich weiß nicht, was
+mir gefällt.
+!------------------------------!
+Ma... io non so cosa
+ho voglia di fare.
+!------------------------------!
+Pero... No sé qué quiero hacer.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What are you gonna do, Axel?
+!------------------------------!
+Qu'est-ce que tu vas faire toi, Axel ?
+!------------------------------!
+Was tust du denn, Axel?
+!------------------------------!
+Tu come passerai il
+tempo, Axel?
+!------------------------------!
+¿Y tú qué vas a hacer, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me? Sleep. And once I'm done with
+that, roll over and sleep some more.
+!------------------------------!
+Moi ? Dormir. Et quand j'aurai fini, je
+changerai de position et je dormirai
+encore.
+!------------------------------!
+Ich? Schlafen. Und danach dreh
+ich mich um und schlafe noch
+ein bisschen mehr.
+!------------------------------!
+Io? Dormirò. E quando avrò
+finito, mi girerò dall'altra parte
+e dormirò ancora.
+!------------------------------!
+¿Yo? Dormir. Y cuando me
+canse, me daré la vuelta y
+dormiré un poco más.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't you spend enough time in bed?
+!------------------------------!
+Tu ne passes pas assez de temps au lit
+comme ça ?
+!------------------------------!
+Verbringst du nicht schon genug
+Zeit im Bett?
+!------------------------------!
+Non trascorri già abbastanza
+tempo a letto?
+!------------------------------!
+¿No pasas ya bastante
+tiempo en la cama?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You kidding?
+I'd nap six times a day if they'd let me.
+!------------------------------!
+Tu rigoles ?
+Je ferais six siestes dans la journée
+si je m'écoutais.
+!------------------------------!
+Soll das ein Scherz sein?
+Ich würde mich sechs Mal am Tag
+hinlegen, wenn sie mich ließen.
+!------------------------------!
+Scherzi?
+Andrei a dormire sei volte
+al giorno, se potessi.
+!------------------------------!
+¿Bromeas?
+Dormiría seis siestas al día
+si me dejaran.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, snooze-land is calling.
+Enjoy your time off!
+!------------------------------!
+Allez, le marchand de sable m'appelle.
+Profite bien de ton temps libre !
+!------------------------------!
+Okay, das Traumland ruft.
+Genieß deine Freizeit!
+!------------------------------!
+Bene, sento il regno dei
+sonnellini che mi chiama.
+Goditi la tua vacanza!
+!------------------------------!
+Muy bien, la almohada me llama.
+¡Que disfrutes tu tiempo libre!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

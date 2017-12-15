@@ -1,0 +1,326 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...Then what in blazes did happen?
+!------------------------------!
+Alors tu n'en sais pas plus ?
+!------------------------------!
+... Und was in aller Welt ist
+dann passiert?
+!------------------------------!
+...Quindi che diavolo è successo?
+!------------------------------!
+¿...Y qué demonios pasó
+entonces?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't look at me, man!
+I just found out minutes ago.
+!------------------------------!
+Hé, je suis comme toi ! Je l'ai su
+il y a à peine quelques minutes !
+!------------------------------!
+Guck nicht mich an, Mann!
+Ich hab's gerade erst erfahren.
+!------------------------------!
+Non guardarmi così!
+L'ho saputo solo poco fa!
+!------------------------------!
+¡A mí no me mires, yo
+me he enterado hace un rato!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is everything okay?
+!------------------------------!
+Tout va bien ?
+!------------------------------!
+Ist alles okay?
+!------------------------------!
+Tutto a posto?
+!------------------------------!
+¿Todo bien?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay? As if. Word has it at least one
+of the folks we sent to Castle Oblivion
+has been terminated.
+!------------------------------!
+Bien ? Si seulement...
+Il paraît qu'un de ceux envoyés
+au Manoir Oblivion a été éliminé.
+!------------------------------!
+Okay? Von wegen ... Das Team,
+dass wir zum Schloss des Entfallens
+geschickt haben, wurde ausgelöscht.
+!------------------------------!
+A posto? Macché.
+Pare che almeno uno tra
+quelli che abbiamo inviato al
+Castello dell'Oblio sia stato eliminato.
+!------------------------------!
+¿Bien? Ojalá. Se dice que los
+miembros enviados al Castillo
+del Olvido han sido aniquilados.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Terminated?
+But that means...
+!------------------------------!
+Éliminé ?
+Mais alors...
+!------------------------------!
+Ausgelöscht?
+Aber das bedeutet ja ...
+!------------------------------!
+Eliminato?
+Ma questo significa...
+!------------------------------!
+¿Aniquilados?
+Pero eso significa...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, your mission.
+Go with Xigbar to Agrabah.
+!------------------------------!
+Roxas, voici ta mission.
+Tu pars à Agrabah avec Xigbar.
+!------------------------------!
+Roxas, deine Mission.
+Geh mit Xigbar nach Agrabah.
+!------------------------------!
+Roxas, la tua missione.
+Va' con Xigbar ad Agrabah.
+!------------------------------!
+Roxas, tu misión.
+Ve con Xigbar a Agrabah.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is it true about Castle Oblivion?
+!------------------------------!
+C'est vrai ce qu'on raconte sur le
+Manoir Oblivion ?
+!------------------------------!
+Stimmt das mit dem Schloss
+des Entfallens?
+!------------------------------!
+È vera quella storia del
+Castello dell'Oblio?
+!------------------------------!
+¿Es cierto lo del
+Castillo del Olvido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's no concern of yours.
+!------------------------------!
+Ça ne te regarde pas.
+!------------------------------!
+Das braucht dich nicht
+zu interessieren.
+!------------------------------!
+Non sono affari che
+ti riguardano.
+!------------------------------!
+Eso no te incumbe.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But what about Axel?
+!------------------------------!
+Mais... et Axel alors ?
+!------------------------------!
+Aber was ist mit Axel?
+!------------------------------!
+Ma Axel?
+!------------------------------!
+¿Y qué ha sido de Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Who knows.
+Perhaps he is among the lost.
+!------------------------------!
+Qui sait...
+Il s'agit peut-être de lui.
+!------------------------------!
+Das weiß keiner.
+Vermutlich ist er zusammen
+mit den anderen verschollen.
+!------------------------------!
+Chi lo sa. Forse è uno
+di quelli che abbiamo perso.
+!------------------------------!
+Quién sabe.
+Posiblemente, lo hayamos
+perdido con el resto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...
+!------------------------------!
+Quoi ? Mais...
+!------------------------------!
+Aber ...
+!------------------------------!
+Ma...
+!------------------------------!
+Pero...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No buts. There's work to be done.
+Get yourself ready.
+!------------------------------!
+Pas de <E2><80><9C>mais<E2><80><9D> ! Le travail n'attend pas !
+Va te préparer.
+!------------------------------!
+Kein Aber. Es gibt viel zu tun.
+Mach dich startklar.
+!------------------------------!
+Niente ma. C'è del lavoro da
+sbrigare. Preparati.
+!------------------------------!
+No hay pero que valga.
+Hay trabajo que hacer.
+Prepárate.
+!------------------------------!
+!******************************!

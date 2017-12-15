@@ -1,0 +1,90 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Hmph... Já demos uma boa olhada em volta.
+Eu diria que agora conhecemos nossa fera muito bem.
+!------------------------------!
+XALDIN
+Hmm... on a bien observé cet endroit et
+on a appris à connaître notre bête. 
+!------------------------------!
+XALDIN
+Hmpf ... wir haben uns gründlich umgesehen.
+Wir wissen viel über das Biest. 
+!------------------------------!
+XALDIN
+Abbiamo dato una bella occhiata
+in giro. Ora ne sappiamo
+abbastanza sulla Bestia.
+!------------------------------!
+XALDIN
+Ya hemos echado un buen vistazo.
+Ya conocemos a esa bestia, creo. 
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Você se lembra do caminho ao quarto dele, certo?
+!------------------------------!
+XALDIN
+Tu te souviens du chemin pour rejoindre ses
+appartements, n'est-ce pas ?
+!------------------------------!
+XALDIN
+Kannst du dich an den Weg zu seinem Zimmer
+erinnern?
+!------------------------------!
+XALDIN
+Ricordi come arrivare alla
+sua stanza, vero?
+!------------------------------!
+XALDIN
+¿Recuerdas el camino
+a su cuarto?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Acho que sim.
+
+!------------------------------!
+ROXAS
+Je crois.
+!------------------------------!
+ROXAS
+Ich glaube schon.
+!------------------------------!
+ROXAS
+Credo di sì.
+!------------------------------!
+ROXAS
+Creo que sí.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Leve-me até lá.
+
+!------------------------------!
+XALDIN
+Emmène-moi là-bas.
+!------------------------------!
+XALDIN
+Bring mich dorthin.
+!------------------------------!
+XALDIN
+Allora portami lì.
+!------------------------------!
+XALDIN
+Llévame hasta allí.
+
+!------------------------------!
+!******************************!

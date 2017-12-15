@@ -1,0 +1,326 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, I'm already frying out here.
+!------------------------------!
+Argh, je suis déjà en train de rôtir.
+!------------------------------!
+Uff, ich fange hier draußen
+langsam an zu kochen.
+!------------------------------!
+Ugh, sto letteralmente friggendo...
+!------------------------------!
+Uf, aquí fuera ya
+me estoy asando.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C'mon, kiddo. Let's get this
+investigation over and done with.
+!------------------------------!
+Allez, l'asticot. Finissons-en avec cette
+enquête.
+!------------------------------!
+Los, Kleiner. Schließen wir
+die Nachforschungen ab.
+!------------------------------!
+Forza, ragazzo. Cerchiamo di
+chiudere questa indagine.
+!------------------------------!
+Vamos, chico. Acabemos con esta
+investigación de una vez.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's wrong?
+Dazzled by the new scenery?
+!------------------------------!
+Qu'est-ce qu'il y a ?
+Le paysage t'impressionne ?
+!------------------------------!
+Was ist?
+Überwältigt von der neuen
+Umgebung?
+!------------------------------!
+Che c'è?
+Sei sopraffatto dalla bellezza
+di questo nuovo mondo?
+!------------------------------!
+¿Qué ocurre? ¿Te deslumbra el
+nuevo escenario?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Do you think it's true<E2><80><95>about the
+members stationed at Castle Oblivion?
+!------------------------------!
+Tu crois que c'est vrai ?
+Ce qu'on raconte sur ceux qui ont
+été envoyés au Manoir Oblivion ?
+!------------------------------!
+Glaubst du, das stimmt ...
+das mit den Mitgliedern, die im
+Schloss des Entfallens sind?
+!------------------------------!
+Quelle storie sui membri al
+Castello dell'Oblio... credi siano vere?
+!------------------------------!
+¿Crees que es cierto... eso
+de los destinados al
+Castillo del Olvido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha, is that seriously what's eating
+you?
+!------------------------------!
+Ha, ha, ha, c'est ça qui te turlupine ?
+!------------------------------!
+Ha, ha, macht dir das etwa
+so zu schaffen?
+!------------------------------!
+Ah ah, è a questo che stai pensando?
+!------------------------------!
+Ja, ja. ¿De verdad que es eso
+lo que te carcome?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We might have lost a comrade.
+!------------------------------!
+On a peut-être perdu un camarade. 
+!------------------------------!
+Wir könnten die halbe
+Organisation verloren haben.
+
+!------------------------------!
+Potremmo aver perso un
+membro dell'Organizzazione.
+!------------------------------!
+Puede que hayamos perdido a
+la mitad de la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe multiple comrades.
+That doesn't bother you at all?
+!------------------------------!
+Voire plusieurs...
+Tu n'es pas inquiet, toi ?
+!------------------------------!
+Macht dir das gar nichts aus?
+!------------------------------!
+Forse più di uno.
+Non ti preoccupa per niente?
+!------------------------------!
+¿No te preocupa nada de nada?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+As if.
+!------------------------------!
+Non.
+!------------------------------!
+Von wegen.
+!------------------------------!
+Macché.
+!------------------------------!
+Así es.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look, the faster we get this mission
+done, the sooner you can RTC and get
+your answers.
+!------------------------------!
+Le meilleur moyen d'obtenir des
+réponses, c'est d'en finir avec
+cette mission et au plus vite.
+!------------------------------!
+Je schneller wir diese
+Mission erledigen, desto
+schneller kannst du zurück.
+!------------------------------!
+Senti, prima finiamo questa missione,
+prima potrai tornare al castello
+e avere le tue risposte.
+!------------------------------!
+Mira, cuanto antes acabemos esta
+misión, antes podrás VAC y dar
+con las respuestas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fine.
+!------------------------------!
+D'accord...
+!------------------------------!
+Okay.
+!------------------------------!
+Va bene...
+!------------------------------!
+Bien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's go, kiddo.
+!------------------------------!
+Alors, allons-y !
+!------------------------------!
+Legen wir los, Kleiner.
+!------------------------------!
+Andiamo, ragazzo.
+!------------------------------!
+Vamos, chico.
+!------------------------------!
+!******************************!

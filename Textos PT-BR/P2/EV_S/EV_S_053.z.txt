@@ -1,0 +1,592 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, mission go okay?
+!------------------------------!
+Alors, la mission s'est bien passée ?
+!------------------------------!
+Hey, war die Mission erfolgreich?
+!------------------------------!
+Ehi, tutto bene con la missione?
+!------------------------------!
+¿Ha ido bien la misión?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, I think it's gonna work...
+Thanks, Axel. You and Roxas are the
+best.
+!------------------------------!
+Oui, je crois que ça va marcher...
+Merci, les garçons. Vous êtes
+les meilleurs.
+!------------------------------!
+Ja, scheint zu funktionieren ...
+Danke, Axel. Du und Roxas,
+ihr seid die Besten.
+!------------------------------!
+Sì, almeno credo...
+Grazie, Axel. Tu e Roxas siete
+i migliori.
+!------------------------------!
+Sí, creo que estoy avanzando...
+Gracias chicos, sois geniales.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We try.
+!------------------------------!
+Ouais, on sait.
+!------------------------------!
+Wir geben uns Mühe.
+!------------------------------!
+Facciamo del nostro meglio.
+!------------------------------!
+Hacemos lo que podemos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So where'd they end up sending you?
+!------------------------------!
+Vous êtes allés où finalement ?
+!------------------------------!
+Wo haben sie dich hingeschickt?
+!------------------------------!
+Dove vi hanno mandati stavolta?
+!------------------------------!
+¿Adónde te han enviado al final?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That place you and me went before...
+Uhh, what was it again...
+!------------------------------!
+Là où on est allés toi et moi...
+Euh, c'est quoi le nom déjà...
+!------------------------------!
+Dorthin, wo du und ich schon mal
+waren ... Ahh, wie hieß das
+noch mal?
+!------------------------------!
+In quel posto che avevamo
+visitato insieme...
+Com'è che si chiamava...
+!------------------------------!
+A ese sitio al que fuimos...
+Cómo se llamaba...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agrabah.
+!------------------------------!
+Agrabah.
+!------------------------------!
+Agrabah.
+!------------------------------!
+Agrabah.
+!------------------------------!
+Agrabah.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, that city in the desert.
+!------------------------------!
+Oh, la ville dans le désert.
+!------------------------------!
+Oh, die Stadt in der Wüste.
+!------------------------------!
+Oh, la città nel deserto.
+!------------------------------!
+Ah, la ciudad del desierto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We sure ran into some interesting
+characters this time, huh?
+!------------------------------!
+On a rencontré de drôles
+d'individus cette fois,
+pas vrai ?
+!------------------------------!
+Wir sind diesmal einigen
+interessanten Figuren begegnet,
+was?
+!------------------------------!
+Questa volta abbiamo incontrato
+dei personaggi piuttosto
+interessanti, eh?
+!------------------------------!
+Esta vez nos hemos topado con
+tipos la mar de interesantes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean Pete and Genie?
+!------------------------------!
+Qui ça, Pat Hibulaire et le Génie ?
+!------------------------------!
+Meinst du Karlo und Dschinni?
+!------------------------------!
+Ti riferisci a Pietro e al Genio?
+!------------------------------!
+¿Te refieres a Pete y a Genio?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Genie sounded really worried about his
+friend<E2><80><95>some guy named Al.
+!------------------------------!
+Le Génie se faisait beaucoup de souci
+pour son ami Al.
+!------------------------------!
+Dschinni hat sich große Sorgen
+um seinen Freund ...
+einen gewissen Al gemacht.
+!------------------------------!
+Il Genio era molto preoccupato
+per il suo amico Al.
+!------------------------------!
+Genio estaba muy preocupado
+por su amigo Al.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But, I guess you can't always jump in
+and do everything for your friends<E2><80><95>
+even if you want to.
+!------------------------------!
+Mais parfois, il faut laisser les gens
+agir seuls.
+!------------------------------!
+Aber manchmal muss man seine
+Freunde sich selbst um ihre
+Angelegenheiten kümmern lassen.
+!------------------------------!
+Ma a volte non è possibile intervenire
+e togliere gli amici dagli impicci...
+anche se si vorrebbe.
+!------------------------------!
+Pero a veces hay que dejar que
+la gente se valga por sí misma.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's right.
+People need their space.
+!------------------------------!
+C'est vrai.
+!------------------------------!
+Das stimmt.
+Jeder braucht seinen Freiraum.
+!------------------------------!
+Ben detto.
+Ognuno ha bisogno del proprio spazio.
+!------------------------------!
+Eso es cierto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So then, why did Genie say he and Al
+were <E2><80><9C>inseparable<E2><80><9D>?
+!------------------------------!
+Le Génie a dit qu'Al était son
+<E2><80><9C>meilleur<E2><80><9D> ami.
+!------------------------------!
+Warum meinte Dschinni dann, dass
+er und Al <E2><80><9E>unzertrennlich<E2><80><9C> seien?
+!------------------------------!
+Allora, perché il Genio ha detto
+che lui e Al erano "inseparabili"?
+!------------------------------!
+Genio dijo que Al es
+su "mejor" amigo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, it's not like they were joined at
+the hip.
+!------------------------------!
+Qu'est-ce que ça veut dire ?
+!------------------------------!
+Ja, schließlich sind sie ja nicht
+an ihren Hüften zusammengewachsen.
+!------------------------------!
+Beh, ma non è che fossero siamesi!
+!------------------------------!
+¿Qué quiso decir con eso?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, I think you can be inseparable
+even if you're apart.
+!------------------------------!
+Eh bien, c'est un ami dont tu es
+vraiment très proche.
+!------------------------------!
+Ich glaube, man kann auch
+unzertrennlich sein, wenn man
+getrennt ist.
+!------------------------------!
+Credo si possa essere "inseparabili"
+anche quando si è lontani.
+!------------------------------!
+Es cuando tienes un amigo
+al que estás muy unido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really?
+!------------------------------!
+Proche comment ?
+!------------------------------!
+Echt?
+!------------------------------!
+Davvero?
+!------------------------------!
+¿Cómo de unido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sure, if you feel really close to each
+other. If you're best friends.
+!------------------------------!
+Ben, c'est... un peu comme...
+une amélioration, je dirais.
+!------------------------------!
+Ja, wenn man sich einander nahe
+fühlt, wenn man einen besten
+Freund hat.
+!------------------------------!
+Certo, se il rapporto è molto stretto.
+Se si è migliori amici.
+!------------------------------!
+Ya sabes... un vínculo
+más fuerte... Más o menos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's it like having a best friend,
+Axel?
+!------------------------------!
+Ça fait quoi d'avoir un meilleur ami ?
+!------------------------------!
+Wie ist es, einen besten Freund
+zu haben, Axel?
+!------------------------------!
+Com'è avere un migliore amico,
+Axel?
+!------------------------------!
+¿Qué se siente al tener
+un mejor amigo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Couldn't tell ya.
+I don't have one.
+!------------------------------!
+J'en sais rien.
+Je n'en ai pas.
+!------------------------------!
+Keine Ahnung.
+Ich habe keinen.
+!------------------------------!
+Non saprei dirti.
+Io non ne ho.
+!------------------------------!
+No lo sé.
+No tengo ninguno.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh...
+!------------------------------!
+Ah...
+!------------------------------!
+Oh ...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!

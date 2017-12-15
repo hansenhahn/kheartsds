@@ -1,0 +1,295 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You sure you heard that right?
+!------------------------------!
+C'est vraiment ce que t'as entendu ?
+!------------------------------!
+Sicher, dass du das richtig
+gehört hast?
+!------------------------------!
+Sicura di aver sentito bene?
+!------------------------------!
+¿Seguro que has oído bien?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes, I'm sure. I told you!
+!------------------------------!
+Oui, j'en suis certaine !
+!------------------------------!
+Ja, ganz sicher.
+!------------------------------!
+Sì, sicurissima.
+Te l'ho già detto!
+!------------------------------!
+Que sí, ya te lo he dicho.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And you heard it where again?
+!------------------------------!
+Et où c'était déjà ?
+!------------------------------!
+Und wo hast du das noch mal
+gehört?
+!------------------------------!
+E dove hai detto di
+averlo sentito?
+!------------------------------!
+¿Y dónde dices que lo has oído?
+!------------------------------!
+!******************************!
+&.[HDR].2&
+2:34
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The tunnel! I was just there, and I
+heard a weird, low moan.
+!------------------------------!
+Dans le tunnel ! J'étais là-bas et j'ai
+entendu un drôle de gémissement.
+!------------------------------!
+Im Tunnel! Ich habe dort ein
+seltsames, tiefes Stöhnen gehört.
+!------------------------------!
+Nella galleria! È lì che ho
+sentito quello strano gemito.
+!------------------------------!
+¡En el túnel! Estaba allí
+y oí un gemido muy raro.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did ya see what was making it?
+!------------------------------!
+Tu sais ce que c'était ?
+!------------------------------!
+Hast du gesehen, wo es
+herkam?
+!------------------------------!
+Ma hai visto da dove veniva?
+!------------------------------!
+¿Viste quién gemía?
+!------------------------------!
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Are you kidding? I was scared!
+I got out of there as fast as I could.
+!------------------------------!
+Tu rigoles ? J'ai vraiment eu peur
+alors je me suis enfuie !
+!------------------------------!
+Machst du Scherze? Ich hatte
+Angst! Ich bin so schnell
+wie möglich da raus.
+!------------------------------!
+Scherzi? Morivo dalla paura!
+Me ne sono andata subito.
+!------------------------------!
+¿Me tomas el pelo? ¡Tenía miedo!
+Salí pitando en cuanto pude.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A low moan?
+!------------------------------!
+Un gémissement ?
+!------------------------------!
+Ein tiefes Stöhnen?
+!------------------------------!
+Un gemito?
+!------------------------------!
+¿Un gemido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Could be our Heartless.
+!------------------------------!
+C'est peut-être notre Sans-cœur.
+!------------------------------!
+Könnte unser Herzloser sein.
+!------------------------------!
+Potrebbe essere il
+nostro Heartless.
+!------------------------------!
+Podría ser nuestro sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Or it could be Xion<E2><80><95>injured, unable to
+make it back to the castle...
+!------------------------------!
+Ou Xion... Et si elle était blessée ?
+Ça expliquerait pourquoi elle n'est
+jamais rentrée.
+!------------------------------!
+Oder Xion ... Was, wenn sie
+verletzt ist? Könnte der Grund
+für ihre Abwesenheit sein.
+!------------------------------!
+Oppure Xion... Forse non è in
+grado di tornare a causa delle ferite.
+!------------------------------!
+O quizá Xion. ¿Y si está herida?
+Igual por eso no ha regresado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm sure Xion is just fine.
+C'mon, let's go check it out.
+!------------------------------!
+Je suis sûr qu'elle va bien.
+Allons voir ça.
+!------------------------------!
+Ich bin sicher, ihr geht es gut.
+Komm, sehen wir mal nach.
+!------------------------------!
+Sono sicuro che Xion sta bene.
+Forza, andiamo a controllare.
+!------------------------------!
+Seguro que está bien.
+Venga, vamos a echar un vistazo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

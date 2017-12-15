@@ -1,0 +1,193 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're more outgoing now, you know
+that?
+!------------------------------!
+T'es plus extraverti maintenant,
+tu sais ?
+!------------------------------!
+Du kommst jetzt viel mehr
+aus dir heraus, weißt du?
+!------------------------------!
+Sei diventato più estroverso,
+sai?
+!------------------------------!
+Ahora estás más
+sociable, ¿sabes?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah? Well you are, too.
+!------------------------------!
+Ah oui ? Toi aussi.
+!------------------------------!
+Ja? Du aber auch.
+!------------------------------!
+Dici? Beh, anche tu lo sei.
+!------------------------------!
+¿Sí? Bueno, tú también.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me? You think?
+Guess he musta rubbed off on me...
+!------------------------------!
+Moi ? Tu trouves ?
+Il a dû déteindre sur moi...
+!------------------------------!
+Ich? Findest du?
+Er muss mich wohl angesteckt
+haben ...
+!------------------------------!
+Io? Sul serio?
+Forse ho preso da lui...
+!------------------------------!
+¿Yo? ¿Tú crees?
+Supongo que él me ha
+pegado sus buenos modales...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh? Who did?
+!------------------------------!
+Qui ça ?
+!------------------------------!
+Was? Wer?
+!------------------------------!
+Uh? Da chi?
+!------------------------------!
+¿Quién?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh. Let's just say you can thank
+yourself that we get to sit here again
+and laugh like idiots over ice cream.
+!------------------------------!
+Bah, disons que tu peux te féliciter
+du fait qu'on soit de nouveau ici pour
+manger des glaces et rire ensemble.
+!------------------------------!
+He. Sagen wir einfach, es ist
+schön, hier wieder zu sitzen und
+beim Eis über Blödsinn zu lachen.
+!------------------------------!
+Eh. Dobbiamo ringraziare solo
+te se ora siamo qui tranquilli
+a mangiarci un gelato.
+!------------------------------!
+Je. Digamos que puedes dar
+gracias por estar aquí sentados,
+con la risa tonta y un helado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess Xion's not gonna show today.
+!------------------------------!
+J'imagine que Xion ne viendra pas
+aujourd'hui...
+!------------------------------!
+Xion kommt heute wohl nicht ...
+!------------------------------!
+Immagino che oggi
+Xion non verrà...
+!------------------------------!
+Supongo que Xion no
+va a aparecer hoy...
+!------------------------------!
+!******************************!

@@ -1,0 +1,136 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+1:39
+!******************************!
+&.[HDR].2&
+mi/ob/75.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Junk and more junk...
+So why'd those Heartless pop up like
+that?
+!------------------------------!
+Il n'y a rien là-dedans... Pourquoi
+des Sans-cœur sont-ils apparus
+comme ça ?
+!------------------------------!
+Lauter Müll ...
+Warum sind die Herzlosen
+einfach so aufgetaucht?
+!------------------------------!
+Solo robaccia senza valore...
+Ma allora perché gli Heartless
+sono comparsi all'improvviso?
+!------------------------------!
+Solo hay chatarra... ¿Y por qué
+habrán aparecido esos sincorazón
+tan de repente?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Was this <E2><80><9C>treasure<E2><80><9D> some kind of trap?
+Or did something else cause them to
+show up?
+!------------------------------!
+Ce coffre est-il une sorte de piège ?
+À moins que ça soit autre chose qui
+les ait fait apparaître ?
+!------------------------------!
+War dieser <E2><80><9E>Schatz<E2><80><9C> eine Falle?
+Oder sind sie aus einem anderen
+Grund aufgetaucht?
+!------------------------------!
+Questo "tesoro" era solo una specie
+di trappola? Oppure sono stati
+attirati da qualcos'altro?
+!------------------------------!
+¿Era ese cofre una especie de
+trampa? ¿O los habrá hecho
+aparecer otra cosa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Something about that guy did seem a
+little...off.
+!------------------------------!
+Ce type avait l'air louche...
+!------------------------------!
+Irgendwas an dem Kerl schien ...
+etwas merkwürdig.
+!------------------------------!
+C'è qualcosa in quel tipo che
+non mi convince molto...
+!------------------------------!
+Hay algo en ese tipo que...
+no me gusta.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+Is that their ship?
+!------------------------------!
+Hmm...
+C'est leur navire ?
+!------------------------------!
+Hmm ...
+Ist das ihr Schiff?
+!------------------------------!
+Mmm...
+Quella è la loro nave?
+!------------------------------!
+Mmm...
+¿No es ese su barco?
+!------------------------------!
+!******************************!

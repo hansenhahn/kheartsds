@@ -1,0 +1,100 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/05.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good morning, Roxas.
+!------------------------------!
+Bonjour, Roxas.
+!------------------------------!
+Guten Morgen, Roxas.
+!------------------------------!
+Buongiorno, Roxas.
+!------------------------------!
+Buenos días, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I shall be joining you on your mission
+today.
+!------------------------------!
+C'est moi qui pars en mission avec
+toi aujourd'hui.
+!------------------------------!
+Ich begleite dich heute
+auf deiner Mission.
+!------------------------------!
+Oggi sarò io il tuo compagno
+di missione.
+!------------------------------!
+Hoy iré contigo de misión.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Take care of what you need to and then
+check in with Saïx. I am all ready to go.
+!------------------------------!
+Je suis déjà prêt alors fais ce que
+tu as à faire et va voir Saïx une
+fois que tu auras fini.
+!------------------------------!
+Ich bin so weit, kümmer dich
+um alles, was du brauchst,
+und melde dich dann bei Saïx.
+!------------------------------!
+Io sono pronto, quindi fai quello
+che devi fare e poi
+parla con Saïx.
+!------------------------------!
+Yo ya estoy listo para salir.
+Revisa tu equipo y preséntate
+ante Saïx.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

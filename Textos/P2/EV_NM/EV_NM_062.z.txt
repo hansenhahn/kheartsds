@@ -1,0 +1,157 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:15
+!******************************!
+&.[HDR].2&
+1:72
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/21.z
+!******************************!
+&.[HDR].2&
+mi/ch/2D.z
+!******************************!
+&.[HDR].2&
+mi/ob/26.z
+!******************************!
+&.[HDR].2&
+1:93
+!******************************!
+&.[HDR].2&
+1:93
+!******************************!
+&.[HDR].2&
+1:93
+!******************************!
+&.[HDR].2&
+1:93
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That should do it!
+What do you think, Zero?
+I had the Doctor build it for me.
+!------------------------------!
+Et voilà le travail ! Qu'en penses-tu,
+Zéro ? C'est le docteur qui a
+construit ça pour moi.
+!------------------------------!
+Das sollte reichen!
+Was denkst du, Zero? Der
+Doktor hat's für mich gebaut.
+!------------------------------!
+Così dovrebbe andare!
+Che ne pensi, Zero?
+Me l'ha costruito il Dottore.
+!------------------------------!
+¡Con esto bastará! ¿Qué te
+parece, Zero? Hice que el
+doctor lo construyera para mí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+On Halloween, I'll light these lanterns
+and make my grand entrance!
+!------------------------------!
+Le jour d'Halloween, j'allumerai
+ces lanternes et ferai une entrée
+en grande pompe !
+!------------------------------!
+An Halloween mach ich meine
+Lampe an und habe einen
+großen Auftritt.
+!------------------------------!
+La sera di Halloween accenderò
+queste lanterne e farò il mio
+grande ingresso in scena!
+!------------------------------!
+¡El día de Halloween, encenderé
+estos faroles y haré mi gran
+entrada!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They're in for quite a surprise.
+!------------------------------!
+Ils vont avoir droit à une sacrée
+surprise !
+!------------------------------!
+Die können sich auf eine
+Überraschung gefasst machen.
+!------------------------------!
+Sarà una bella sorpresa.
+!------------------------------!
+Se llevarán una buena sorpresa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh! I'm almost late!
+I better hurry to the lab.
+!------------------------------!
+Oups ! Je vais être en retard à mon
+rendez-vous ! Je dois vite retourner
+voir le docteur dans son laboratoire.
+!------------------------------!
+Ups! Ich komme zu spät!
+Schnell zurück zum Labor
+des Doktors.
+!------------------------------!
+Oh! Arriverò in ritardo!
+Devo andare subito al laboratorio.
+!------------------------------!
+¡Ups! ¡Voy a llegar tarde!
+Debo ir corriendo al
+laboratorio del doctor.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Be a good boy, Zero.
+!------------------------------!
+Sois sage, Zéro.
+!------------------------------!
+Sei ein guter Junge,
+Zero.
+!------------------------------!
+Fa' il bravo, Zero.
+!------------------------------!
+Pórtate bien, Zero.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

@@ -1,0 +1,339 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ob/1F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas!?
+!------------------------------!
+Roxas ?
+!------------------------------!
+Roxas!?
+!------------------------------!
+Roxas?!?
+!------------------------------!
+¡¿Roxas?!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion...
+What happened to me?
+!------------------------------!
+Xion... que m'est-il arrivé ?
+!------------------------------!
+Xion ...
+Was ist mit mir passiert?
+!------------------------------!
+Xion...
+Cosa mi è successo?
+!------------------------------!
+Xion...
+¿Qué me ha pasado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You were sleeping<E2><80><95>a long, long time.
+!------------------------------!
+Tu as dormi longtemps...
+très longtemps.
+!------------------------------!
+Du hast geschlafen ... sehr lange.
+!------------------------------!
+Hai dormito... molto, molto a
+lungo.
+!------------------------------!
+Has estado durmiendo...
+mucho, mucho tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx told us not to get our hopes up.
+That you might not<E2><80><95>
+!------------------------------!
+Saïx nous a dit de ne pas nous faire
+trop d'illusions. Que tu aurais pu...
+!------------------------------!
+Saïx meinte, wir sollten uns
+keine Hoffnungen machen.
+Dass du vielleicht nicht ...
+!------------------------------!
+Saïx ci aveva detto di non
+farci troppe illusioni...
+che forse tu non...
+!------------------------------!
+Saïx nos dijo que no tuviéramos
+esperanzas. Que quizá no...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, you're awake now.
+That's what counts.
+!------------------------------!
+Mais tu es enfin réveillé.
+C'est tout ce qui compte.
+!------------------------------!
+Jedenfalls bist du jetzt wach.
+Das ist alles, was zählt.
+!------------------------------!
+Beh, ora ti sei svegliato.
+Conta solo questo.
+!------------------------------!
+Bueno, pero has despertado.
+Eso es lo que cuenta.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, I feel like a zombie.
+Guess there's some things a nap can't
+cure.
+!------------------------------!
+Je me sens vraiment bizarre...
+Il faut croire que le sommeil n'est
+pas forcément bénéfique !
+!------------------------------!
+Ich bin immer noch etwas neben
+der Spur. Schlaf ist wohl doch
+nicht die beste Medizin.
+!------------------------------!
+Mi sento ancora confuso.
+Forse ci sono cose che neanche
+una bella dormita può sistemare.
+!------------------------------!
+Aún no me encuentro muy bien.
+Creo que hay ciertas cosas que
+no puede curar una cabezadita.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Here, I brought you this.
+!------------------------------!
+Tiens, je t'ai apporté ça.
+!------------------------------!
+Hier, das hab ich
+dir mitgebracht.
+!------------------------------!
+Ecco, ti ho portato questa.
+!------------------------------!
+Toma, te he traído esto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's a seashell. I've been picking one up
+every time I go out on a mission.
+!------------------------------!
+C'est un coquillage. J'en ramasse un
+chaque fois que je suis en mission.
+!------------------------------!
+Das ist eine Muschel. Immer
+wenn ich auf Mission gegangen bin,
+habe ich eine eingesammelt.
+!------------------------------!
+È una conchiglia. Ne prendo una
+ogni volta che vado in missione.
+!------------------------------!
+Es una caracola. Cojo una cada
+vez que salgo de misión.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hold it up to your ear.
+!------------------------------!
+Vas-y, colle-le à ton oreille.
+!------------------------------!
+Halt sie an dein Ohr.
+!------------------------------!
+Avvicinala all'orecchio.
+!------------------------------!
+Póntela al lado de la oreja.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

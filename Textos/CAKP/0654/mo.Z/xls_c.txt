@@ -1,0 +1,50 @@
+&.[HDR].&
+*.000004000000932201000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I'm too big to fit through.
+
+!------------------------------!
+ROXAS
+Je suis trop grand pour passer.
+!------------------------------!
+ROXAS
+Ich bin zu groﬂ, da passe ich nicht durch.
+
+!------------------------------!
+ROXAS
+Sono troppo grande per passare.
+!------------------------------!
+ROXAS
+Soy demasiado grande.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000932201000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I'm too big to fit through.
+
+!------------------------------!
+ROXAS
+Je suis trop grand pour passer.
+!------------------------------!
+ROXAS
+Ich bin zu groﬂ, da passe ich nicht durch.
+
+!------------------------------!
+ROXAS
+Sono troppo grande per passare.
+!------------------------------!
+ROXAS
+Soy demasiado grande.
+
+!------------------------------!
+!******************************!

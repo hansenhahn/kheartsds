@@ -1,0 +1,302 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He he, olha o rabugento chegando.
+Por que a cara?
+!------------------------------!
+Tiens, tiens, voilà Grincheux.
+Pourquoi tu fais la tête ?
+!------------------------------!
+He, he, da kommt ein Miesepeter.
+Warum das lange Gesicht?
+!------------------------------!
+Eh eh, ecco che arriva il musone.
+Perché quella faccia?
+!------------------------------!
+Je, je. Aquí viene el amargado.
+¿A qué viene esa cara tan larga?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nada, tá?
+!------------------------------!
+Pour rien, OK ?
+!------------------------------!
+Ach nichts, okay?
+!------------------------------!
+Non è niente, OK?
+!------------------------------!
+A nada, ¿vale?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem que admitir, o castelo está 
+bem mais tranquilo. Um pouco 
+pelo menos, pode se dizer.
+!------------------------------!
+C'est ça... Franchement, la citadelle
+est bien plus calme maintenant.
+!------------------------------!
+Du musst zugeben,
+das Schloss ist viel stiller
+geworden. Halb so laut.
+!------------------------------!
+Macché. Devi ammettere che il
+castello è molto più tranquillo.
+Beh, almeno un po'.
+!------------------------------!
+Como digas. Pero debes admitir
+que el castillo está
+el doble de tranquilo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas posso me acostumar com um grupo
+menor e mais entrelaçado, e você?
+!------------------------------!
+Je pourrais m'habituer à un groupe
+plus restreint et soudé, pas toi ?
+!------------------------------!
+Aber ich könnte mich an eine
+kleinere Gruppe gewöhnen, wie
+sieht's mit dir aus?
+!------------------------------!
+Io potrei abituarmi facilmente a
+lavorare in gruppi più piccoli
+ma più uniti. E tu?
+!------------------------------!
+Pero yo podré acostumbrarme a un
+grupo más pequeño y bien
+avenido, ¿y tú?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, Roxas, cara, já soube?
+Sem sobreviventes! Todo mundo no
+C.O. foi pro beleléu! Coisa braba.
+!------------------------------!
+Roxas, t'es pas au courant ?
+C'est officiel ! Toute l'équipe
+du M.O. a été décimée !
+!------------------------------!
+Roxas, Mann, hast du schon
+gehört? Es ist offiziell. Das
+gesamte S.d.E.-Team ist hin!
+!------------------------------!
+Ehi, Roxas, amico, sentito? Nessun
+sopravvissuto! L'intera squadra al
+Castello dell'Oblio è stata eliminata!
+!------------------------------!
+Roxas, hombre, ¿lo has oído? ¡Es
+oficial! ¡Todos los del equipo
+del CO han pringado!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então eles se foram mesmo.
+!------------------------------!
+Ils ont disparu ?
+!------------------------------!
+Alle?
+!------------------------------!
+Quindi non li rivedremo mai più?
+!------------------------------!
+Entonces, ¿se han ido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Levados pelo vento, né, Xigzinho?
+Ufa, eu escapei duma fria mesmo.
+!------------------------------!
+Disparu pour de bon, hein, Xiggy ?
+Je l'ai échappé belle, moi.
+!------------------------------!
+Alle ... stimmt's, Xiggy?
+Puh, da hab ich's ja gerade
+noch mal geschafft.
+!------------------------------!
+Mai e poi mai, vero Xiggy?
+Fiu, l'ho scampata bella.
+!------------------------------!
+Se los llevó el viento...
+¿No, Xiggy? Guau, la verdad es
+que me libré de una buena.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom pra você.
+!------------------------------!
+Hé, hé, t'en as de la chance.
+!------------------------------!
+Du Glückspilz.
+!------------------------------!
+Buon per te.
+!------------------------------!
+Je, je, qué suerte has tenido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He he, agora você vai levar o dobro
+do tempo pra compensar as baixas.
+!------------------------------!
+Maintenant, tu vas devoir redoubler
+d'efforts pour compenser leur
+absence...
+!------------------------------!
+He, he, jetzt musst du Überstunden
+einlegen, damit keine Arbeit
+liegenbleibt.
+!------------------------------!
+Ora dovrai lavorare il doppio
+per compensare la loro
+assenza.
+!------------------------------!
+Ahora tienes el doble de horas
+para cubrir bajas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Blegh!
+!------------------------------!
+Argh !
+!------------------------------!
+Argh!
+!------------------------------!
+Argh!
+!------------------------------!
+¡Aaah!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Positivo. Me lembra de ficar abaixo
+da média o dobro de agora em diante.
+!------------------------------!
+Eh ben rappelle-moi d'être deux
+fois moins performant à partir
+de maintenant alors !
+!------------------------------!
+Alles klar. Erinnere mich dran,
+von jetzt an nur halb so hart
+zu arbeiten.
+!------------------------------!
+D'accordo, ma tu ricordami di
+oziare il doppio, d'ora in avanti.
+!------------------------------!
+Entendido. Recuérdame que me
+escaquee el doble de bien a
+partir de ahora.
+!------------------------------!
+!******************************!

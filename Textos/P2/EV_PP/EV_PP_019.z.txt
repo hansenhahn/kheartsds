@@ -1,0 +1,127 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[HDR].2&
+1:49
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's strange... The hole they dug's here, plain as
+day, but not a Heartless in sight.
+!------------------------------!
+Étrange... Le trou qu'ils ont creusé
+est vide... Il n'y a pas un seul
+Sans-cœur en vue.
+!------------------------------!
+Eigenartig ... Da ist das Loch,
+das sie gegraben haben, aber
+es ist kein Herzloser zu sehen.
+!------------------------------!
+Che strano... La buca che hanno
+scavato è proprio qui, ma degli
+Heartless nessuna traccia.
+!------------------------------!
+Qué raro... El agujero que han
+cavado está aquí, pero no hay
+ni un sincorazón a la vista.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That pirate's greed oughta have every Heartless for
+miles here by now.
+!------------------------------!
+La cupidité de ce pirate devrait déjà
+avoir attiré tous les Sans-cœur à
+des kilomètres à la ronde.
+!------------------------------!
+Die Gier dieses Piraten müsste
+jeden Herzlosen in vielen Meilen
+Entfernung anlocken.
+!------------------------------!
+L'avidità di quel pirata avrebbe dovuto
+attirare ogni Heartless nei paraggi.
+!------------------------------!
+La codicia de ese pirata tendría
+que haber atraído a todos los
+sincorazón que corren por aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Rrrgh...
+Somebody must be goin' around and taking 'em out!
+!------------------------------!
+Argh. Quelqu'un doit être
+en train de les éliminer !
+!------------------------------!
+Argh ...
+Irgendjemand scheint
+herumzugehen und sie zu vernichten!
+!------------------------------!
+Grrr...
+Ci dev'essere qualcuno in giro che li sta eliminando!
+!------------------------------!
+Grrr. ¡Alguien debe de haber
+acabado con ellos!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whoever it is, they're ruinin' my perfect plan!
+This calls for a new strategy...
+!------------------------------!
+Qui que ce soit, ça contrarie mon
+plan de génie ! Il va falloir adopter
+une autre stratégie...
+!------------------------------!
+Wer auch immer das ist, er ruiniert
+meinen perfekten Plan. Ich brauche
+eine neue Strategie ...
+!------------------------------!
+Chiunque sia, sta rovinando
+il mio piano perfetto!
+Devo cambiare strategia...
+!------------------------------!
+Sea quien sea, está arruinando
+mi plan perfecto. Esto pide una
+nueva estrategia...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll give that pirate somethin' he can reeeally be
+greedy about. Then I'll summon a great big whopper
+of a Heartless!
+!------------------------------!
+Je vais donner à ce pirate de quoi nourrir
+sa cupidité et je pourrai alors invoquer
+des hordes de Sans-cœur !
+!------------------------------!
+Ich gebe diesem Piraten etwas, worauf
+er richtig gierig sein kann. Dann rufe
+ich einen riesigen Herzlosen herbei!
+!------------------------------!
+Darò a quel pirata qualcosa a cui non
+potrà resistere. Poi attirerò l'Heartless
+più potente che si sia mai visto!
+!------------------------------!
+Le daré a ese pirata algo que
+codicie de verdad. Y así invocaré
+a un quintal de sincorazón.
+!------------------------------!
+!******************************!

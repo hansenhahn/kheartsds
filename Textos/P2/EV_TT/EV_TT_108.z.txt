@@ -1,0 +1,557 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/03.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, you are looking but not seeing.
+!------------------------------!
+Roxas, tu as beau regarder,
+tu ne vois rien.
+!------------------------------!
+Roxas, du guckst, aber siehst nichts.
+!------------------------------!
+Roxas, stai guardando
+senza osservare.
+!------------------------------!
+Roxas, miras, pero no ves.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Here's what I see:
+This whole town was built along a
+mountain.
+!------------------------------!
+Voilà ce que moi je vois.
+Cette ville a été construite
+le long d'une montagne.
+!------------------------------!
+Ich sehe Folgendes:
+Die gesamte Stadt wurde
+auf einem Berg errichtet.
+!------------------------------!
+Ecco cosa ho osservato io...
+Questa città è stata costruita
+alle pendici di una montagna.
+!------------------------------!
+Te diré lo que veo yo:
+la ciudad ha sido construida
+sobre una montaña.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's why the roads slope.
+!------------------------------!
+C'est pour ça que les routes sont
+sinueuses.
+!------------------------------!
+Deshalb sind die Straßen
+so steil.
+!------------------------------!
+Ecco perché le strade sono
+ripide.
+!------------------------------!
+Por eso las calles
+están en pendiente.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Houses have been built along the
+terrace.
+!------------------------------!
+Les maisons ont été bâties le long
+de la terrasse.
+!------------------------------!
+Auf den Bergterrassen wurden
+Häuser gebaut.
+!------------------------------!
+Le case sono state
+costruite lungo
+questa salita.
+!------------------------------!
+Las casas fueron construidas
+en salientes rocosos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And at the top is a station.
+The trains there are the town's
+primary system of transit.
+!------------------------------!
+Et tout en haut, il y a une gare.
+Ici, les trains sont donc le moyen
+de transport principal.
+!------------------------------!
+Und auf dem Gipfel ist
+ein Bahnhof. Züge sind das
+Hauptverkehrsmittel der Stadt.
+!------------------------------!
+E in cima c'è una stazione. I
+treni sono il sistema di
+trasporto principale della città.
+!------------------------------!
+Y en la cima hay una estación.
+Los trenes son el principal
+medio de transporte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Up there, see that clock tower?
+That's the station building.
+!------------------------------!
+Tu vois cette horloge ?
+C'est le bâtiment de la gare.
+!------------------------------!
+Siehst du den Uhrenturm da oben?
+Das ist das Bahnhofsgebäude.
+!------------------------------!
+Vedi la torre dell'orologio?
+Quello è l'edificio della stazione.
+!------------------------------!
+Mira, ¿ves la torre del reloj?
+Es el edificio de la estación.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Based on its location, we know the
+tracks are probably elevated.
+!------------------------------!
+D'après sa position, on en déduit que
+les rails doivent être en hauteur.
+!------------------------------!
+Aufgrund seiner Position wissen
+wir, dass es sich wahrscheinlich
+um eine Hochbahn handelt.
+!------------------------------!
+A giudicare dalla sua posizione,
+possiamo dedurre che i binari
+sono probabilmente sopraelevati.
+!------------------------------!
+Teniendo en cuenta su situación,
+sabemos que las vías estarán
+elevadas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And this must be downtown.
+All these shops in one place...
+!------------------------------!
+Et ça, ce doit être le centre-ville.
+Toutes les boutiques sont
+concentrées ici...
+!------------------------------!
+Und das muss die Innenstadt sein.
+So viele Geschäfte ...
+!------------------------------!
+E questo dev'essere il centro.
+C'è una tale concentrazione
+di negozi...
+!------------------------------!
+Y esto debe de ser el centro.
+Todas las tiendas están aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now, what about this path you pointed
+out?
+!------------------------------!
+Et ce fameux chemin que tu as
+remarqué...
+!------------------------------!
+Was ist mit diesem Weg,
+den du erwähnt hast?
+!------------------------------!
+E il passaggio che hai indicato?
+!------------------------------!
+Y ahora, ¿qué me dices del
+camino que has descubierto?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Trams must run here.
+See, look closer. There are marks.
+!------------------------------!
+Des trams doivent passer par ici.
+Regarde de plus près, il y a des
+traces.
+!------------------------------!
+Hier müssen Straßenbahnen fahren.
+Sieh einmal genauer hin. Da sind
+Abdrücke.
+!------------------------------!
+Qui devono passare i tram.
+Osserva attentamente.
+Ci sono dei segni.
+!------------------------------!
+Por aquí deben de circular los
+tranvías. ¿Ves estas marcas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You figured all that out just now?
+!------------------------------!
+Tu viens de deviner tout ça
+à l'instant ?
+!------------------------------!
+Das hast du alles jetzt gerade
+herausgefunden?
+!------------------------------!
+Sei riuscito a capire
+tutte queste cose?
+!------------------------------!
+¿Y todo eso lo has averiguado
+ahora mismo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But that's just it! I only stated what I
+saw. There was no <E2><80><9C>figuring<E2><80><9D> involved.
+!------------------------------!
+Mais non ! J'ai juste constaté ce que
+j'avais vu. Il n'est pas question de
+<E2><80><9C>deviner<E2><80><9D> quoi que ce soit.
+!------------------------------!
+Genau darum geht's! Ich hab
+nur erklärt, was ich gesehen habe.
+Ich musste nichts herausfinden.
+!------------------------------!
+Sì, e mi è bastato guardarmi un
+po' intorno. Non c'è niente da
+"capire". Bisogna osservare.
+!------------------------------!
+¡A eso me refiero! Solo digo lo
+que veo. No "averiguo" nada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's the next step: analyzing the
+data you find.
+!------------------------------!
+L'étape suivante consiste à analyser
+les données trouvées.
+!------------------------------!
+Das ist der nächste Schritt: die Analyse
+der gefundenen Daten.
+!------------------------------!
+Ed ecco il passo
+successivo: analizzare i
+dati raccolti.
+!------------------------------!
+Ese es el siguiente paso:
+analizar lo que has visto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The clothing and jewelry shops tell us
+how these people live.
+!------------------------------!
+Les magasins de vêtements et de
+bijoux nous en disent long sur les
+habitants.
+!------------------------------!
+An den Bekleidungsgeschäften
+und Juwelieren können wir
+erkennen, wie die Bewohner leben.
+!------------------------------!
+I negozi di vestiti e di gioielli
+indicano lo stile di vita
+della popolazione.
+!------------------------------!
+Las tiendas de ropa y de joyas
+dicen mucho del nivel de vida
+de los ciudadanos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This whole town is a blueprint of their
+lives.
+!------------------------------!
+Cette ville est une représentation
+de leurs vies.
+!------------------------------!
+Die Stadt ist ein Abbild
+ihres Lebens.
+!------------------------------!
+L'intera città è lo specchio
+delle loro vite.
+!------------------------------!
+Toda la ciudad es como un
+esquema de sus vidas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Distressing. Very distressing.
+Your mind wasn't made for this, was it?
+!------------------------------!
+C'est inquiétant, très inquiétant.
+Ta cervelle n'est pas faite pour
+ça, pas vrai ?
+!------------------------------!
+Erschütternd. Einfach erschütternd.
+Dein Kopf ist nicht gerade für
+so was gemacht, nicht wahr?
+!------------------------------!
+Penoso. Davvero penoso.
+Il tuo cervello non era pronto
+a tutto questo, eh?
+!------------------------------!
+Angustioso. Muy angustioso.
+Tu mente no estaba preparada
+para esto, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, you're not off the hook yet, boy.
+If I let you quit with these results, I'll
+be the laughingstock of the castle.
+!------------------------------!
+Tu n'as pas encore terminé, gamin. Si
+je te laisse partir avec ces données,
+je vais passer pour un incompétent.
+!------------------------------!
+Aber du bist hier noch nicht fertig.
+So ein Ergebnis macht mich zum
+Gespött des ganzen Schlosses.
+!------------------------------!
+Beh, non è ancora finita. Non
+possiamo finirla qui. Diventerei
+lo zimbello del castello!
+!------------------------------!
+Pues todavía no ha terminado.
+Con estos resultados, seré el
+hazmerreír del castillo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Follow this path and investigate the
+remainder of the area.
+!------------------------------!
+Suis ce chemin et inspecte le reste
+de la zone.
+!------------------------------!
+Folge diesem Weg und erforsche
+den Rest der Gegend.
+!------------------------------!
+Segui questo passaggio e
+perlustra il resto dell'area.
+!------------------------------!
+Sigue por este camino e
+investiga el resto de la zona.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And stay on the path, if you please!
+!------------------------------!
+Et ne traîne pas !
+!------------------------------!
+Und bleib bitte auf dem Weg!
+!------------------------------!
+E rimani sul percorso,
+per favore!
+!------------------------------!
+¡Y nada de salirse del camino!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Everything you need to know about this
+plaza lies along it<E2><80><95>provided you are
+capable of connecting the dots.
+!------------------------------!
+Ce chemin va te dire tout ce qu'il
+y a à savoir sur cette place.
+Fais-moi ton rapport après coup.
+!------------------------------!
+Auf diesem Weg findest du alles,
+was du wissen musst ... vorausgesetzt,
+du beherrschst logisches Denken.
+!------------------------------!
+Questo passaggio ti fornirà le
+informazioni che vuoi sulla
+piazza. E torna a riferirmi tutto.
+!------------------------------!
+Por este camino hallarás todo lo
+necesario sobre la plaza... si
+es que puedes unir los puntos.
+!------------------------------!
+!******************************!

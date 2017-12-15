@@ -1,0 +1,215 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...Sora.
+!------------------------------!
+...
+Sora.
+!------------------------------!
+... Sora.
+!------------------------------!
+...Sora.
+!------------------------------!
+Sora.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Who is Sora?
+!------------------------------!
+Qui est Sora ?
+!------------------------------!
+Wer ist Sora?
+!------------------------------!
+Chi è Sora?
+!------------------------------!
+¿Quién es Sora?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He's the connection.
+!------------------------------!
+C'est le lien.
+!------------------------------!
+Er ist die Verbindung.
+!------------------------------!
+È il legame.
+!------------------------------!
+La conexión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The what?
+!------------------------------!
+Le quoi ?
+!------------------------------!
+Die was?
+!------------------------------!
+Il COSA?
+!------------------------------!
+¿La qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He is what makes you and Xion a part
+of each other's lives.
+!------------------------------!
+C'est lui qui fait que Xion et toi
+faites partie de la vie de chacun.
+!------------------------------!
+Er macht dich zu einem Teil von
+Xions Leben und umgekehrt.
+!------------------------------!
+È lui che lega la tua vita
+a quella di Xion.
+!------------------------------!
+El que os hace a Xion y a ti
+parte de la vida del otro.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just as he is the reason I placed Xion
+among our number.
+!------------------------------!
+Il est la raison pour laquelle j'ai
+décidé que Xion fasse partie des
+nôtres.
+!------------------------------!
+Genau, wie er der Grund dafür ist,
+dass ich Xion zu uns geholt habe.
+!------------------------------!
+È il motivo per cui ho accolto
+Xion come una di noi.
+!------------------------------!
+Él es la razón por la que elegí
+a Xion para ser una de los
+nuestros.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And if you want her to stay that way,
+I must insist you get your mind off
+these needless distractions.
+!------------------------------!
+Et si tu veux qu'elle reste parmi nous,
+tu dois arrêter de penser à ces
+distractions futiles.
+!------------------------------!
+Und wenn sie das bleiben soll,
+musst du dich von diesen
+sinnlosen Ablenkungen lösen.
+!------------------------------!
+E se vuoi che continui a esserlo,
+non dovrai più pensare a
+queste inutili distrazioni.
+!------------------------------!
+Y si quieres que siga siéndolo,
+insisto en que te olvides de
+estas distracciones innecesarias.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I will have Xion return to her duties
+tomorrow. Today, you must focus on
+yours.
+!------------------------------!
+Xion reprendra du service demain.
+Toi, concentre-toi sur ta mission
+pour aujourd'hui.
+!------------------------------!
+Xion wird ab morgen ihre Aufgaben
+wieder wahrnehmen und du wirst dich
+jetzt auf deine Mission konzentrieren.
+!------------------------------!
+Domani farò in modo che Xion
+torni in servizio. Concentrati
+sulla tua missione odierna.
+!------------------------------!
+Mañana, Xion regresará a sus
+cometidos. Por hoy, tú debes
+concentrarte en tu misión. 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right.
+!------------------------------!
+D'accord.
+!------------------------------!
+Okay.
+!------------------------------!
+Va bene.
+!------------------------------!
+Muy bien.
+!------------------------------!
+!******************************!

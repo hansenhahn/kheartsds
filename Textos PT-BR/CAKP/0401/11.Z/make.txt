@@ -1,0 +1,12 @@
+cmp
+e0
+e1
+e2
+e3
+e4
+nazo0
+nazo1
+nazo2
+score
+t0
+_i

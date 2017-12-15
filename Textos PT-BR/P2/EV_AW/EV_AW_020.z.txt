@@ -1,0 +1,174 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, this is the Queen's Rose Garden...
+It's like a maze.
+!------------------------------!
+Ce sont les jardins de la Reine...
+C'est un vrai labyrinthe.
+!------------------------------!
+Das ist also der Rosengarten
+der Königin ...
+Ein richtiges Labyrinth.
+!------------------------------!
+Dunque, questo è il giardino di rose
+della Regina...
+È una specie di labirinto.
+!------------------------------!
+Así que estos son los jardines
+de la Reina... Parece un
+laberinto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Our marks are in here somewhere.
+!------------------------------!
+Nos cibles sont quelque part par là.
+!------------------------------!
+Unsere Ziele sind hier irgendwo.
+!------------------------------!
+Le nostre prede sono
+qui da qualche parte.
+!------------------------------!
+Nuestros objetivos están aquí,
+en algún lugar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A suspicious trio...
+You really think she meant our
+Heartless?
+!------------------------------!
+Trois individus...
+Tu crois qu'elle parlait vraiment
+de nos Sans-cœur ?
+!------------------------------!
+Ein verdächtiges Trio ...
+Glaubst du wirklich, sie meinte
+unsere Herzlosen?
+!------------------------------!
+Un trio sospetto...
+Credi davvero che si riferisse
+ai nostri Heartless?
+!------------------------------!
+Un trío de sospechosos...
+¿De verdad crees que se refería
+a los sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm betting on it.
+!------------------------------!
+J'en mettrais ma main au feu.
+!------------------------------!
+Jede Wette.
+!------------------------------!
+Puoi dirlo forte.
+!------------------------------!
+Me juego la mano.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now, let's get looking.
+!------------------------------!
+Allons voir.
+!------------------------------!
+Los, sehen wir uns um.
+!------------------------------!
+Bene, iniziamo a cercare.
+!------------------------------!
+Venga, vamos a mirar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

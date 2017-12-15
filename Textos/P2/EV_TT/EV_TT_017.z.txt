@@ -1,0 +1,149 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:4
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Where do you suppose Xion is?
+!------------------------------!
+Où penses-tu qu'elle soit ?
+!------------------------------!
+Was glaubst du, wo sie ist?
+!------------------------------!
+Dov'è Xion, secondo te?
+!------------------------------!
+¿Dónde crees que estará?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, the mission in question was to
+take out a giant Heartless.
+!------------------------------!
+Sa cible était un Sans-cœur géant.
+!------------------------------!
+Also, ihr Ziel war
+ein riesiger Herzloser.
+!------------------------------!
+Beh, la sua missione era
+eliminare un Heartless gigante.
+!------------------------------!
+Bueno, iba a por
+un sincorazón gigante.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That could be anywhere.
+!------------------------------!
+Elle peut être n'importe où.
+!------------------------------!
+Der könnte überall sein.
+!------------------------------!
+Quindi potrebbe
+essere ovunque.
+!------------------------------!
+Podría estar en cualquier parte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's start by digging up info around
+town.
+!------------------------------!
+Commençons par chercher des
+indices en ville.
+!------------------------------!
+Hören wir uns mal
+in der Stadt um.
+!------------------------------!
+Iniziamo a cercare
+informazioni in città.
+!------------------------------!
+Hagamos algunas preguntas
+por la ciudad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If we can find that Heartless, there's
+a good chance we'll find Xion, too.
+!------------------------------!
+Si on trouve ce Sans-cœur, il y a de
+fortes chances pour qu'on retrouve
+Xion aussi.
+!------------------------------!
+Wenn wir den Herzlosen finden,
+besteht eine gute Chance, dass
+wir auch Xion finden.
+!------------------------------!
+Se troviamo quell'Heartless,
+troveremo anche Xion.
+!------------------------------!
+Si encontramos a ese sincorazón,
+seguro que encontramos a Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+Tu as raison.
+!------------------------------!
+Stimmt.
+!------------------------------!
+D'accordo.
+!------------------------------!
+Vale.
+!------------------------------!
+!******************************!

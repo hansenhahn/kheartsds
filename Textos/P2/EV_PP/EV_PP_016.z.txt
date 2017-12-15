@@ -1,0 +1,230 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+mi/ob/C3.z
+!******************************!
+&.[HDR].2&
+mi/ob/5F.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This is one of those wooden chests they
+keep digging up.
+!------------------------------!
+C'est l'un des coffres en bois qu'ils
+n'arrêtent pas de déterrer.
+!------------------------------!
+Das ist eine dieser Holztruhen,
+die sie ausgegraben haben.
+!------------------------------!
+Questa è una di quelle casse di
+legno che continuano a trovare.
+!------------------------------!
+Es uno de esos cofres de madera
+que no paran de desenterrar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's see what kind of Heartless pop up.
+Maybe it's the one I'm after!
+!------------------------------!
+Je me demande quel Sans-cœur va en
+sortir. Ce sera peut-être celui que
+je cherche !
+!------------------------------!
+Mal sehen, was für Herzlose
+erscheinen. Vielleicht der,
+hinter dem ich her bin!
+!------------------------------!
+Vediamo che tipo di Heartless salterà
+fuori. Magari troverò proprio
+il mio bersaglio!
+!------------------------------!
+Veamos qué clase de sincorazón
+aparece. ¡Igual es el que busco!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+Nothing...
+!------------------------------!
+Hein ? Il est vide...
+!------------------------------!
+Hä?
+Nichts ...
+!------------------------------!
+Uh?
+Niente...
+!------------------------------!
+¿Eh?
+Nada...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Are they not connected?
+!------------------------------!
+Ça n'aurait aucun rapport finalement ?
+!------------------------------!
+Gibt es keine Verbindung?
+!------------------------------!
+Quindi non c'entrano nulla?
+!------------------------------!
+¿No están relacionados?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But then why do Heartless always
+appear when they dig up the chests?
+!------------------------------!
+Mais alors pourquoi des Sans-cœur
+apparaissent-ils à chaque fois qu'ils
+déterrent des coffres ?
+!------------------------------!
+Aber warum erscheinen
+die Herzlosen immer, wenn sie
+die Truhen ausgraben?
+!------------------------------!
+Ma allora perché gli Heartless compaiono
+sempre nei luoghi in cui scavano?
+!------------------------------!
+¿Pero por qué aparecen siempre
+sincorazón cuando sacan los
+cofres?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Unless it's him. That guy in red.
+Maybe he's connected to the Heartless.
+!------------------------------!
+À moins que ce soit lui... le type en
+rouge. C'est peut-être lui qui a un
+rapport avec les Sans-cœur.
+!------------------------------!
+Außer er ist es. Der Kerl in Rot.
+Vielleicht steht er in Verbindung
+mit den Herzlosen.
+!------------------------------!
+A meno che... non sia lui.
+Quel tipo vestito di rosso.
+Forse è legato agli Heartless.
+!------------------------------!
+A menos que se trate de él, del
+tipo de rojo. Quizás esté rela-
+cionado con los sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+Hmm...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Only one way to find out.
+Let's see what those two are up to.
+!------------------------------!
+Il n'y a qu'un seul moyen de le savoir.
+Je dois découvrir ce qu'ils mijotent
+tous les deux !
+!------------------------------!
+Es gibt nur einen Weg,
+das herauszufinden. Mal sehen,
+was die beiden vorhaben.
+!------------------------------!
+C'è solo un modo per scoprirlo.
+Vediamo che stanno
+combinando quei due.
+!------------------------------!
+Solo hay una manera de averi-
+guarlo. Veamos qué traman esos
+dos.
+!------------------------------!
+!******************************!

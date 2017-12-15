@@ -1,0 +1,525 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/19.z
+!******************************!
+&.[HDR].&
+*.000004000000072003000000010000000000000007000F00.*
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[HDR].&
+*.000004000000072003000000010000000000000007000F00.*
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sigh... She doesn't seem to have made any difference.
+The master's temper is as bad as ever.
+!------------------------------!
+Pff... Sa présence n'a rien changé.
+Les accès de colère du maître
+sont toujours aussi fréquents.
+!------------------------------!
+<3C>Seufz<3E> ... Sie scheint nicht
+zu helfen. Die Laune des Herrn
+ist genauso schlecht, wie vorher.
+!------------------------------!
+Uff... Non sembra sia riuscita a cambiare niente.
+Il padrone continua a essere di pessimo umore.
+!------------------------------!
+Ay... No parece que haya cambiado
+de opinión... Y el amo está de
+mal humor, como siempre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Someone's coming.
+!------------------------------!
+Quelqu'un approche.
+!------------------------------!
+Da kommt jemand.
+!------------------------------!
+Arriva qualcuno.
+!------------------------------!
+Viene alguien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hide.
+!------------------------------!
+Cachons-nous.
+!------------------------------!
+Versteck dich.
+!------------------------------!
+Nascondiamoci.
+!------------------------------!
+Escóndete.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If only he would make an attempt to be
+suave or genteel. Surely then he'd
+see...
+!------------------------------!
+Si seulement il voulait bien
+essayer de se montrer aimable
+et gentil. Il verrait que...
+!------------------------------!
+Wenn er doch bloß mal
+versuchen würde etwas charmant
+zu sein. Dann würde er sehen ...
+!------------------------------!
+Se solo si sforzasse di essere calmo
+e gentile... Di sicuro così capirebbe
+che...
+!------------------------------!
+Ojalá intentase ser más amable
+y delicado. Seguro que así
+vería que...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is that a...
+!------------------------------!
+Est-ce que c'est...
+!------------------------------!
+Ist das eine ...
+!------------------------------!
+Ma quello...
+!------------------------------!
+¿No es un...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yup. A walking clock.
+!------------------------------!
+Oui, une horloge vivante.
+!------------------------------!
+Jep. Eine gehende Uhr.
+!------------------------------!
+Sì, è un orologio che cammina.
+!------------------------------!
+Sí, un reloj ambulante.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He mentioned a master.
+You think he's a servant here in the
+castle?
+!------------------------------!
+Il a parlé d'un maître...
+Tu crois que c'est un domestique ?
+!------------------------------!
+Sie hat einen Herrn erwähnt.
+Glaubst du, sie ist ein
+Diener hier im Schloss?
+!------------------------------!
+Ha accennato a un "padrone",
+credi sia della servitù
+o qualcosa del genere?
+!------------------------------!
+Ha mencionado a un amo, como
+aquel candelabro. ¿Crees que se
+trata de otro criado?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe.
+!------------------------------!
+Peut-être.
+!------------------------------!
+Vielleicht.
+!------------------------------!
+Può darsi.
+!------------------------------!
+Puede.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, what are we going to do?
+The way he's pacing around...
+!------------------------------!
+Alors, qu'est-ce qu'on fait ?
+Comme il fait les cent pas...
+!------------------------------!
+Was sollen wir tun?
+So wie sie herumrennt ...
+!------------------------------!
+E ora che facciamo?
+Adesso che sta girando
+qui attorno...
+!------------------------------!
+Bueno, ¿y qué vamos a hacer?
+Eso no para de dar vueltas...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, we'll have to keep out of sight
+while we take out Heartless.
+!------------------------------!
+Il va falloir se montrer discrets tout
+en éliminant les Sans-cœur.
+!------------------------------!
+Ja, wir dürfen nicht gesehen
+werden, während wir Herzlose
+erledigen.
+!------------------------------!
+Sì, dovremo eliminare gli
+Heartless senza farci scoprire.
+!------------------------------!
+Sí, tenemos que mantenernos
+escondidos mientras acabamos
+con los sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sigh... She doesn't seem to have made any difference.
+The master's temper is as bad as ever.
+!------------------------------!
+Pff... Sa présence n'a rien changé.
+Les accès de colère du maître
+sont toujours aussi fréquents.
+!------------------------------!
+<3C>Seufz<3E> ... Sie scheint nicht
+zu helfen. Die Laune des Herrn
+ist genauso schlecht, wie vorher.
+!------------------------------!
+Uff... Non sembra sia riuscita a cambiare niente.
+Il padrone continua a essere di pessimo umore.
+!------------------------------!
+Ay... No parece que haya cambiado
+de opinión... Y el amo está de
+mal humor, como siempre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Someone's coming.
+!------------------------------!
+Quelqu'un approche.
+!------------------------------!
+Da kommt jemand.
+!------------------------------!
+Arriva qualcuno.
+!------------------------------!
+Viene alguien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hide.
+!------------------------------!
+Cachons-nous.
+!------------------------------!
+Versteck dich.
+!------------------------------!
+Nascondiamoci.
+!------------------------------!
+Escóndete.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If only he would make an attempt to be
+suave or genteel. Surely then he'd
+see...
+!------------------------------!
+Si seulement il voulait bien
+essayer de se montrer aimable
+et gentil. Il verrait que...
+!------------------------------!
+Wenn er doch bloß mal
+versuchen würde etwas charmant
+zu sein. Dann würde er sehen ...
+!------------------------------!
+Se solo si sforzasse di essere calmo
+e gentile... Di sicuro così capirebbe
+che...
+!------------------------------!
+Ojalá intentase ser más amable
+y delicado. Seguro que así
+vería que...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is that a...
+!------------------------------!
+Est-ce que c'est...
+!------------------------------!
+Ist das eine ...
+!------------------------------!
+Ma quello...
+!------------------------------!
+¿No es un...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yup. A walking clock.
+!------------------------------!
+Oui, une horloge vivante.
+!------------------------------!
+Jep. Eine gehende Uhr.
+!------------------------------!
+Sì, è un orologio che cammina.
+!------------------------------!
+Sí, un reloj ambulante.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He mentioned a master.
+You think he's a servant here in the
+castle?
+!------------------------------!
+Il a parlé d'un maître...
+Tu crois que c'est un domestique ?
+!------------------------------!
+Sie hat einen Herrn erwähnt.
+Glaubst du, sie ist ein
+Diener hier im Schloss?
+!------------------------------!
+Ha accennato a un "padrone",
+credi sia della servitù
+o qualcosa del genere?
+!------------------------------!
+Ha mencionado a un amo, como
+aquel candelabro. ¿Crees que se
+trata de otro criado?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe.
+!------------------------------!
+Peut-être.
+!------------------------------!
+Vielleicht.
+!------------------------------!
+Può darsi.
+!------------------------------!
+Puede.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, what are we going to do?
+The way he's pacing around...
+!------------------------------!
+Alors, qu'est-ce qu'on fait ?
+Comme il fait les cent pas...
+!------------------------------!
+Was sollen wir tun?
+So wie sie herumrennt ...
+!------------------------------!
+E ora che facciamo?
+Adesso che sta girando
+qui attorno...
+!------------------------------!
+Bueno, ¿y qué vamos a hacer?
+Eso no para de dar vueltas...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, we'll have to keep out of sight
+while we take out Heartless.
+!------------------------------!
+Il va falloir se montrer discrets tout
+en éliminant les Sans-cœur.
+!------------------------------!
+Ja, wir dürfen nicht gesehen
+werden, während wir Herzlose
+erledigen.
+!------------------------------!
+Sì, dovremo eliminare gli
+Heartless senza farci scoprire.
+!------------------------------!
+Sí, tenemos que mantenernos
+escondidos mientras acabamos
+con los sincorazón.
+!------------------------------!
+!******************************!

@@ -1,0 +1,24 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This stepladder's ancient...
+It squeaks like crazy.
+!------------------------------!
+ROXAS
+Cette échelle est vieille...
+Elle grince beaucoup.
+!------------------------------!
+ROXAS
+Diese Trittleiter ist uralt ...
+Sie knarrt wie verrückt.
+!------------------------------!
+ROXAS
+Questa scala è vecchia...
+È tutta uno scricchiolio!
+!------------------------------!
+ROXAS
+Esta escalera es vieja...
+Cruje como loca.
+!------------------------------!
+!******************************!

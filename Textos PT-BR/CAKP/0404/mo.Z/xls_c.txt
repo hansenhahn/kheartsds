@@ -1,0 +1,529 @@
+&.[HDR].&
+*.000004000000BD2204000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Ei, este é o salão que passamos para entrar.
+Tudo está conectado?
+!------------------------------!
+ROXAS
+Hé, c'est le mur par lequel on est entrés.
+Peut-être que tout est relié ?
+!------------------------------!
+ROXAS
+Hey, durch diese Halle sind wir reingekommen.
+Ist hier alles miteinander verbunden?
+!------------------------------!
+ROXAS
+Ehi, questa è la sala di prima.
+Che sia tutto collegato?
+!------------------------------!
+ROXAS
+Ey, es la sala que hemos
+cruzado para entrar. ¿Está
+todo conectado?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+A caverna deve ser como um labirinto.
+!------------------------------!
+XION
+La caverne doit être un vrai labyrinthe.
+!------------------------------!
+XION
+Die Höhle ist ein Labyrinth.
+!------------------------------!
+XION
+La caverna deve essere
+una specie di labirinto.
+!------------------------------!
+XION
+La cueva debe de ser un
+laberinto.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Olha como é alto o muro...
+Espera, vê como os pilares levam até ele?
+!------------------------------!
+ROXAS
+Regarde la hauteur de ces murs... Et ces colonnes
+vont jusqu'en haut.
+!------------------------------!
+ROXAS
+Schau mal, wie hoch diese Mauer ist ...
+Warte, siehst du die Säulen?
+!------------------------------!
+ROXAS
+Guarda quanto è alto questo muro...
+Ehi, le colonne arrivano fin lassù.
+!------------------------------!
+ROXAS
+Mira qué pared tan alta...
+Espera, ¿ves cómo las
+columnas suben por ella?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Deve haver algo lá em cima.
+!------------------------------!
+Il doit y avoir quelque chose tout là-haut.
+!------------------------------!
+Dort oben muss etwas sein.
+!------------------------------!
+Forse c'è qualcosa in cima.
+!------------------------------!
+Ha de haber algo arriba.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+O único jeito de se ter certeza é
+subindo até lá para dar uma olhada.
+!------------------------------!
+XION
+Il va falloir monter pour le savoir.
+!------------------------------!
+XION
+Wir werden es nur herausfinden,
+wenn wir hochklettern.
+!------------------------------!
+XION
+L'unico modo per scoprirlo è
+salire a dare un'occhiata.
+!------------------------------!
+XION
+La única manera de saberlo
+seguro es trepar para
+verlo mejor.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Phiu... É uma bela de uma queda.
+O que será que tem lá no fundo...?
+!------------------------------!
+ROXAS
+Ouh là... c'est drôlement profond.
+Je me demande ce qu'il y a en bas...
+!------------------------------!
+ROXAS
+Puh ... Ziemlich tief.
+Was wohl da unten ist?
+!------------------------------!
+ROXAS
+Ehi... è un bel salto.
+Chissà cosa c'è in fondo!
+!------------------------------!
+ROXAS
+Guau... Es toda una caída.
+¿Qué habrá en el fondo...?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+O que é essa estátua?
+!------------------------------!
+ROXAS
+C'est quoi cette statue ?
+!------------------------------!
+ROXAS
+Was ist das für eine Statue?
+!------------------------------!
+ROXAS
+E questa statua?
+!------------------------------!
+ROXAS
+¿Qué es esa estatua?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Está segurando uma jóia ou algo assim.
+!------------------------------!
+XION
+Elle tient un joyau, on dirait.
+!------------------------------!
+XION
+Sie hat einen Juwel oder so
+in der Hand.
+!------------------------------!
+XION
+Ha una specie
+di gioiello.
+!------------------------------!
+XION
+Está sosteniendo una joya o
+algo así.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Rachaduras na parede...
+!------------------------------!
+ROXAS
+Le mur est fissuré...
+!------------------------------!
+ROXAS
+Risse in der Mauer ...
+!------------------------------!
+ROXAS
+Crepe nel muro...
+!------------------------------!
+ROXAS
+Grietas en la pared...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Talvez devêssemos parar por aqui antes
+que todo este lugar caia sobre nós...
+!------------------------------!
+XION
+On devrait peut-être partir avant que tout ne
+s'écroule autour de nous...
+!------------------------------!
+XION
+Wir sollten verschwinden, bevor hier
+alles zusammenbricht.
+!------------------------------!
+XION
+Forse dovremmo andarcene, prima
+che questo posto ci crolli addosso.
+!------------------------------!
+XION
+Quizá deberíamos largarnos
+antes de que todo el lugar se
+nos venga encima...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000500000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Mais um desses blocos.
+!------------------------------!
+ROXAS
+Encore un autre bloc.
+!------------------------------!
+ROXAS
+Noch einer dieser Blöcke.
+!------------------------------!
+ROXAS
+Un altro di quei blocchi.
+!------------------------------!
+ROXAS
+Otro de esos bloques.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Tenta acertá-lo.
+!------------------------------!
+XION
+Essaie de frapper celui-là.
+!------------------------------!
+XION
+Versuch ihn zu zerstören.
+!------------------------------!
+XION
+Prova a colpirlo.
+!------------------------------!
+XION
+Prueba a darle.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+O que é essa coisa?
+!------------------------------!
+ROXAS
+Qu'est-ce que c'est ?
+!------------------------------!
+ROXAS
+Was ist das?
+!------------------------------!
+ROXAS
+E questo cos'è?
+!------------------------------!
+ROXAS
+¿Qué es eso?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Hmm...
+Por via das dúvidas... dar um bom golpe?
+!------------------------------!
+XION
+Hmm...
+Essaie de taper dessus, pour voir...
+!------------------------------!
+XION
+Hm ...
+Im Zweifel ... einfach mal draufhauen?
+!------------------------------!
+XION
+Mmm...
+Nel dubbio... prova a colpirlo.
+!------------------------------!
+XION
+Mmm... Ante la duda...
+¿darle un buen golpetón?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Ei, é mais um desses blocos
+!------------------------------!
+ROXAS
+Hé, encore un bloc.
+!------------------------------!
+ROXAS
+Hey, noch einer dieser Blöcke.
+!------------------------------!
+ROXAS
+Ehi, un altro di quei blocchi.
+!------------------------------!
+ROXAS
+Ey, es otro de esos bloques.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+É, acertá-lo daria certo?
+!------------------------------!
+XION
+Tu crois que ça fera quelque chose si on tape
+dessus ?
+!------------------------------!
+XION
+Ja. Würde es helfen, ihn zu zerstören?
+!------------------------------!
+XION
+Sì. Se provassimo a
+colpirlo?
+!------------------------------!
+XION
+Sí, ¿funcionará si le damos?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Por que só esta parte do muro está despedaçando?
+!------------------------------!
+ROXAS
+Pourquoi est-ce que le mur n'est endommagé qu'à
+cet endroit ?
+!------------------------------!
+ROXAS
+Warum ist nur dieser Teil der Mauer
+eingestürzt?
+!------------------------------!
+ROXAS
+Perché solo questa parte
+del muro sta crollando?
+!------------------------------!
+ROXAS
+¿Por qué se desmorona solo
+esta parte del muro?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Sentiu? Uma corrente de ar.
+Deve haver uma câmara do outro lado.
+!------------------------------!
+XION
+Tu sens ça ? Un courant d'air...
+Il doit y avoir une pièce de l'autre côté.
+!------------------------------!
+XION
+Spürst du das? Ein Luftzug.
+Auf der anderen Seite muss eine Kammer sein.
+!------------------------------!
+XION
+Senti questa corrente d'aria?
+Dall'altra parte dev'esserci una stanza.
+!------------------------------!
+XION
+¿Notas esto? Una corriente.
+Debe de haber una habitación
+al otro lado.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Nada fora do normal aqui.
+!------------------------------!
+ROXAS
+Il n'y a rien de spécial ici.
+!------------------------------!
+ROXAS
+Hier ist nichts Außergewöhnliches.
+!------------------------------!
+ROXAS
+Niente di strano, qui.
+!------------------------------!
+ROXAS
+Aquí no hay nada fuera de lo
+normal.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Acho que já vimos o que podia aqui.
+Quer voltar?
+!------------------------------!
+XION
+Je crois qu'on a tout vu.
+Tu veux retourner en bas ?
+!------------------------------!
+XION
+Ich glaube, ich hab hier alles gesehen,
+was es zu sehen gibt.
+!------------------------------!
+XION
+Credo non ci sia altro da
+vedere. Torniamo indietro?
+!------------------------------!
+XION
+Creo que ya hemos visto lo
+que teníamos que ver.
+¿Quieres que volvamos?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Claro.
+!------------------------------!
+ROXAS
+Oui, allons-y.
+!------------------------------!
+ROXAS
+Ja.
+!------------------------------!
+ROXAS
+Va bene.
+!------------------------------!
+ROXAS
+Claro.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000BD2204000000010000000B00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+O chão está rachando.
+!------------------------------!
+ROXAS
+Le sol est fissuré.
+!------------------------------!
+ROXAS
+Der Boden hat Risse.
+!------------------------------!
+ROXAS
+Il pavimento ha delle crepe.
+!------------------------------!
+ROXAS
+El suelo está agrietado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+É, parece que fosse construído há séculos.
+!------------------------------!
+XION
+Oui, on dirait que cet endroit a été bâti
+il y a bien longtemps.
+!------------------------------!
+XION
+Ja, es sieht so aus, als wäre das
+alles vor Urzeiten erbaut worden.
+!------------------------------!
+XION
+Già, sembra vecchio
+di secoli.
+!------------------------------!
+XION
+Sí, parece que fue construido
+hace una eternidad.
+!------------------------------!
+!******************************!

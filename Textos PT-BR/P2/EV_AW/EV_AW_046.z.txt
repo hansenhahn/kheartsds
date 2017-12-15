@@ -1,0 +1,268 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ob/4C.z
+!******************************!
+&.[HDR].2&
+1:25
+!******************************!
+&.[HDR].2&
+1:25
+!******************************!
+&.[HDR].2&
+1:25
+!******************************!
+&.[HDR].2&
+1:26
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bravo! Bravo!
+!------------------------------!
+Bravo ! Magnifique !
+!------------------------------!
+Bravo! Bravo!
+!------------------------------!
+Bravo! Bravo!
+!------------------------------!
+¡Bravo! ¡Bravo!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The shadow's no more<E2><80><95>even it can't
+shine in the light.
+!------------------------------!
+L'ombre a disparu au grand jour.
+!------------------------------!
+Den Schattenlurch gibt es
+nicht mehr ... selbst er konnte
+nicht im Hellen leuchten.
+!------------------------------!
+L'ombra non c'è più.
+E non può brillare alla luce.
+!------------------------------!
+Se acabó la sombra...
+Ni siquiera ella puede brillar
+en la luz.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So who are you, anyway?
+If you're going to help me, why talk in
+riddles?
+!------------------------------!
+Qui êtes-vous vraiment ?
+Si vous voulez m'aider, pourquoi
+ne parlez-vous jamais clairement ?
+!------------------------------!
+Wer bist du eigentlich?
+Warum sprichst du in Rätseln,
+wenn du mir helfen willst?
+!------------------------------!
+Si può sapere chi sei?
+Se sei qui per aiutarmi,
+perché non parli chiaramente?
+!------------------------------!
+¿Y tú quién eres, por cierto?
+Si quieres ayudarme, ¿por qué
+hablas con adivinanzas?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Are you a friend or an enemy?
+!------------------------------!
+Êtes-vous un allié ou un ennemi ?
+!------------------------------!
+Bist du Freund oder Feind?
+!------------------------------!
+Sei un amico o un nemico?
+!------------------------------!
+¿Eres amigo o enemigo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Neither...or both...
+It's quite up to you.
+!------------------------------!
+Qui sait ?
+C'est à vous de voir.
+!------------------------------!
+Keins von beiden ...
+oder beides ... Das liegt
+ganz bei dir.
+!------------------------------!
+Né l'uno... né l'altro...
+Sta a te deciderlo.
+!------------------------------!
+Ninguno... o ambos...
+Depende de ti.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Up to me?
+!------------------------------!
+À moi de voir ?
+!------------------------------!
+Das liegt bei mir?
+!------------------------------!
+Devo deciderlo io?
+!------------------------------!
+¿De mí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why, yes. Once you believe, the truth
+and a lie are quite the same thing.
+!------------------------------!
+Tant que vous y croyez, vérité
+et mensonge sont identiques.
+!------------------------------!
+Wenn du nur fest daran glaubst,
+sind Wahrheit und Lüge ein und
+dasselbe.
+!------------------------------!
+Sì. Se ci credi, la verità e una
+menzogna sono praticamente
+la stessa cosa.
+!------------------------------!
+Una vez lo crees, verdad y
+mentira son la mismísima cosa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let your heart decide<E2><80><95>it's in your
+heart you must confide.
+!------------------------------!
+Laissez votre cœur décider et
+voyez le résultat.
+!------------------------------!
+Lass einfach dein Herz
+entscheiden. Du musst
+deinem Herzen vertrauen.
+!------------------------------!
+Lascia che decida il cuore, devi aver
+fiducia nel tuo cuore.
+!------------------------------!
+Así que deja que tu corazón
+decida. Debes confiar en su
+criterio.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Easy for him to say...
+How am I supposed to do that when I
+don't have a heart?
+!------------------------------!
+C'est facile à dire...
+Comment suis-je censé faire
+puisque je n'ai pas de cœur ?
+!------------------------------!
+Das sagt sich so leicht ...
+Wie soll ich das bitte
+ohne Herz tun?
+!------------------------------!
+Per lui è facile dirlo...
+Come posso riuscirci se non
+ho neanche un cuore?
+!------------------------------!
+Para él es fácil decirlo...
+¿Cómo se supone que voy a
+hacerlo si no tengo corazón?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I have no idea what to believe in.
+!------------------------------!
+Je n'ai aucune idée de ce en quoi
+je peux croire.
+!------------------------------!
+Ich weiß nicht, woran ich
+glauben soll.
+!------------------------------!
+Non so proprio a che cosa credere.
+!------------------------------!
+No tengo ni idea de qué creer.
+!------------------------------!
+!******************************!

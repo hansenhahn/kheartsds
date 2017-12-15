@@ -1,0 +1,1204 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ob/92.z
+!******************************!
+&.[HDR].2&
+mi/ob/92.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There ya go.
+!------------------------------!
+Tenez.
+!------------------------------!
+Bitte.
+!------------------------------!
+Ecco a te.
+!------------------------------!
+Ten.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thanks.
+!------------------------------!
+Merci.
+!------------------------------!
+Danke.
+!------------------------------!
+Grazie.
+!------------------------------!
+Gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eat up. It's gonna melt.
+!------------------------------!
+Mange avant que ça fonde.
+!------------------------------!
+Iss auf, sonst schmilzt es.
+!------------------------------!
+Mangia, altrimenti
+si scioglie.
+!------------------------------!
+Come. Se te va a derretir.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know.
+!------------------------------!
+Oui, je sais.
+!------------------------------!
+Ich weiß.
+!------------------------------!
+Lo so.
+!------------------------------!
+Lo sé.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's wrong?
+Not hungry?
+!------------------------------!
+Qu'est-ce qu'il y a ?
+T'as pas faim ?
+!------------------------------!
+Was ist?
+Hast du keinen Hunger?
+!------------------------------!
+Che ti prende?
+Non hai fame?
+!------------------------------!
+¿Qué pasa?
+¿No tienes hambre?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You wanna talk about what happened?
+!------------------------------!
+Tu veux nous raconter ce qu'il
+s'est passé ?
+!------------------------------!
+Willst du erzählen, was los ist?
+!------------------------------!
+Vuoi parlare di ciò
+che è successo?
+!------------------------------!
+¿Quieres hablar de lo ocurrido?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're here for you if you want to get
+it off your chest. Right, Roxas?
+!------------------------------!
+On est là pour t'écouter si t'en as
+besoin. Pas vrai, Roxas ?
+!------------------------------!
+Wir sind für dich da, wenn du
+es dir von der Seele reden
+willst. Okay, Roxas?
+!------------------------------!
+Noi siamo qui per ascoltarti,
+se hai bisogno di sfogarti.
+Vero, Roxas?
+!------------------------------!
+Si quieres sacártelo de dentro,
+estamos aquí, ¿verdad, Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+That's what friends are for.
+!------------------------------!
+Oui.
+Les amis sont là pour ça.
+!------------------------------!
+Ja.
+Dafür sind Freunde da.
+!------------------------------!
+Sì.
+Gli amici servono a questo.
+!------------------------------!
+Sí.
+Para eso están los amigos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't...
+I can't use the Keyblade anymore.
+!------------------------------!
+Je ne... je ne peux plus utiliser
+la Keyblade.
+!------------------------------!
+Ich kann nicht ...
+Ich kann das Schlüsselschwert
+nicht mehr benutzen.
+!------------------------------!
+Non posso...
+Non posso più usare
+il Keyblade.
+!------------------------------!
+Ya no... Ya no 
+puedo usar la llave espada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And without it, I can't do my job.
+!------------------------------!
+Et sans ça, je ne peux pas faire
+mon travail.
+!------------------------------!
+Und ohne es kann ich
+meine Arbeit nicht erledigen.
+!------------------------------!
+E senza di esso... non posso
+più fare il mio lavoro.
+!------------------------------!
+Y sin ella, no puedo
+cumplir con mi cometido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What happened?
+!------------------------------!
+Que s'est-il passé ?
+!------------------------------!
+Was ist passiert?
+!------------------------------!
+Cosa è successo?
+!------------------------------!
+¿Qué ha pasado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know. But if I don't defeat
+Heartless with the Keyblade...
+!------------------------------!
+Je ne sais pas. Mais si je ne bats pas
+les Sans-cœur avec la Keyblade...
+!------------------------------!
+Weiß ich nicht. Aber wenn ich
+keine Herzlosen mit
+dem Schlüsselschwert besiege ...
+!------------------------------!
+Non lo so, ma se non sconfiggo
+gli Heartless con il Keyblade...
+!------------------------------!
+No lo sé. Pero si no venzo a los
+sincorazón con
+la llave espada...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...the hearts they release just find
+their way into other Heartless instead.
+!------------------------------!
+les cœurs qu'ils libèrent se trouvent
+d'autres Sans-cœur.
+!------------------------------!
+... dann gehen die
+freigelassenen Herzen wieder
+in andere Herzlose.
+!------------------------------!
+...i cuori che rilasciano finiscono
+dentro altri Heartless.
+!------------------------------!
+los corazones que suelten
+acabarán en otro sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I swat them in one place and they just
+pop up in another.
+!------------------------------!
+J'avais beau en éliminer certains, ils
+réapparaissaient dans d'autres.
+!------------------------------!
+Ich erledige sie an einem Ort
+und sie tauchen an einem anderen
+wieder auf.
+!------------------------------!
+Non appena li sconfiggo,
+ricompaiono in un altro posto.
+!------------------------------!
+Los aplasto en un sitio y
+reaparecen en otro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm supposed to be collecting hearts.
+Those are my orders.
+!------------------------------!
+Je suis censée récupérer des cœurs.
+Ce sont mes ordres.
+!------------------------------!
+Ich soll Herzen sammeln.
+So lauten meine Befehle.
+!------------------------------!
+Io devo raccogliere cuori.
+Questo è il mio dovere.
+!------------------------------!
+Debería recogerlos.
+Esas son mis órdenes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Without the Keyblade...I'm useless.
+!------------------------------!
+Sans la Keyblade...
+je ne sers plus à rien.
+!------------------------------!
+Ohne das Schlüsselschwert ...
+bin ich nutzlos.
+!------------------------------!
+Ma senza il Keyblade...
+Sono inutile.
+!------------------------------!
+Sin la llave espada...
+No sirvo de nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is there anything you can do, Axel?
+!------------------------------!
+Peux-tu l'aider, Axel ?
+!------------------------------!
+Kannst du ihr helfen, Axel?
+!------------------------------!
+Non c'è qualcosa che puoi fare, Axel?
+!------------------------------!
+¿Puedes ayudarla, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wish there was.
+!------------------------------!
+J'aimerais bien.
+!------------------------------!
+Ich wünschte, ich könnte das.
+!------------------------------!
+Vorrei tanto.
+!------------------------------!
+Ojalá.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...it's just like Xion said.
+No Keyblade, no can do.
+!------------------------------!
+Mais... elle l'a dit elle-même.
+Sans Keyblade, on ne peut
+rien faire.
+!------------------------------!
+Aber ... es ist, wie sie sagt.
+Ohne Schlüsselschwert geht nichts.
+!------------------------------!
+Ma... è come ha detto Xion.
+Senza il Keyblade non
+può fare un bel niente.
+!------------------------------!
+Pero... es como dice ella.
+Sin llave espada, no hay nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They're gonna turn me into a Dusk once
+they find out they don't need me.
+!------------------------------!
+Ils vont me changer en Reflet une fois
+qu'ils sauront que je ne sers plus à
+rien.
+!------------------------------!
+Sie werden mich in einen
+Dämmerling verwandeln, wenn sie
+merken, dass ich nutzlos bin.
+!------------------------------!
+Mi trasformeranno in un Simile
+non appena scopriranno che
+non servo più a niente.
+!------------------------------!
+Me convertirán en un umbrío de
+nuevo cuando vean
+que no me necesitan.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C'mon, Axel, think of something!
+!------------------------------!
+Axel, trouve une idée !
+!------------------------------!
+Komm schon Axel, überleg dir
+etwas!
+!------------------------------!
+Devi trovare una soluzione,
+Axel!
+!------------------------------!
+¡Vamos, Axel, piensa algo!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, I'm racking my brain here, and
+there's just no way to<E2><80><95>
+!------------------------------!
+Hé, je me creuse la cervelle
+mais il n'y a aucun moyen de...
+!------------------------------!
+Hey, mir qualmt schon der Kopf,
+aber es gibt keine Möglichkeit ...
+!------------------------------!
+Ehi, ci sto pensando, ma
+credo proprio che non...
+!------------------------------!
+Oye, me estoy devanando los
+sesos y no hay forma de...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wait.
+!------------------------------!
+Attendez un peu...
+!------------------------------!
+Moment.
+!------------------------------!
+Un momento.
+!------------------------------!
+Esperad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? Tell us.
+!------------------------------!
+Quoi ? Dis-nous !
+!------------------------------!
+Was? Erzähl schon.
+!------------------------------!
+Cosa? Dicci tutto.
+!------------------------------!
+¿Qué? Dinos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What if you worked double duty, Roxas?
+!------------------------------!
+Et si tu faisais le travail pour deux,
+Roxas ?
+!------------------------------!
+Was, wenn du Extraschichten
+einlegst, Roxas?
+!------------------------------!
+E se tu facessi i doppi
+turni, Roxas?
+!------------------------------!
+¿Y si trabajaras
+a doble turno, Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Hein ?
+!------------------------------!
+Was?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you mean, Axel?
+!------------------------------!
+Comment ça, Axel ?
+!------------------------------!
+Was meinst du damit, Axel?
+!------------------------------!
+In che senso, Axel?
+!------------------------------!
+¿Qué quieres decir, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion, stick with Roxas until you can
+control the Keyblade again. Make sure
+your missions are with him.
+!------------------------------!
+Xion, jusqu'à ce que tu puisses réutili-
+ser la Keyblade, tu resteras avec
+Roxas. Fais tout pour partir avec lui.
+!------------------------------!
+Xion, bis du das Schwert wieder
+benutzen kannst, musst du immer
+mit Roxas auf Mission gehen.
+!------------------------------!
+Xion, stai con Roxas finché non
+avrai di nuovo il controllo del
+Keyblade. Assicurati che le
+tue missioni siano con lui. 
+!------------------------------!
+Xion, hasta que recuperes la
+llave espada, puedes quedarte
+con Roxas, ir de misión con él.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then, he can collect the hearts...
+!------------------------------!
+Comme ça, il pourra récupérer
+des cœurs à ta place...
+!------------------------------!
+Dann kann er
+die Herzen einsammeln ...
+!------------------------------!
+Così lui raccoglierà i cuori...
+!------------------------------!
+Así recogerá los corazones...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...and nobody will ever have to know
+that you're not doing the same.
+!------------------------------!
+et personne ne saura que toi
+tu n'en es plus capable.
+!------------------------------!
+... und niemand wird erfahren, dass
+du das nicht mehr kannst.
+!------------------------------!
+...e nessuno potrà capire che
+tu non sei in grado di farlo.
+!------------------------------!
+y nadie podrá saber que tú
+no lo estás haciendo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, that's brilliant!
+!------------------------------!
+Axel, c'est une idée de génie !
+!------------------------------!
+Axel, das ist brillant!
+!------------------------------!
+Geniale, Axel!
+!------------------------------!
+¡Qué astuto, Axel!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah ah ah, BUT...Roxas, that also means
+you have to collect twice as many
+hearts.
+!------------------------------!
+Ha, ha, ha ! Mais... Roxas, ça veut dire
+que tu devras récupérer deux fois
+plus de cœurs.
+!------------------------------!
+Ah, ah, ah, ABER ... Das heißt
+auch, dass du doppelt so viele
+Herzen sammeln musst, Roxas.
+!------------------------------!
+Ah ah ah... Però ricorda che in
+questo modo dovrai raccogliere
+il doppio dei cuori, Roxas.
+!------------------------------!
+Ah,  pero... Roxas, eso
+significa que tendrás que
+recoger dos veces más corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can do it.
+!------------------------------!
+Pas de problème.
+!------------------------------!
+Das schaff ich.
+!------------------------------!
+Posso farcela.
+!------------------------------!
+Puedo hacerlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You don't mind?
+!------------------------------!
+Ça ne te dérange pas ?
+!------------------------------!
+Macht's dir nichts aus?
+!------------------------------!
+Sicuro?
+!------------------------------!
+¿No te importa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Of course not!
+!------------------------------!
+Bien sûr que non !
+!------------------------------!
+Natürlich nicht!
+!------------------------------!
+Certo!
+!------------------------------!
+¡Pues claro que no!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But<E2><80><95>
+!------------------------------!
+Mais...
+!------------------------------!
+Aber ...
+!------------------------------!
+Ma...
+!------------------------------!
+Pero...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, friends have gotta be able to lean
+on each other now and then. Ain't that
+right, Roxas?
+!------------------------------!
+Hé, les amis sont là pour s'entraider
+quand il le faut. Pas vrai, Roxas ?
+!------------------------------!
+Hey, Freunde müssen für einander
+da sein. Nicht wahr, Roxas?
+!------------------------------!
+Ehi, a volte bisogna affidarsi ai
+propri amici. Giusto, Roxas?
+!------------------------------!
+Eh, los amigos tienen que
+ayudarse de vez en cuando.
+¿Verdad que sí, Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thanks...
+!------------------------------!
+Merci...
+!------------------------------!
+Danke ...
+!------------------------------!
+Grazie...
+!------------------------------!
+Gracias...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So...Axel, does that mean you and I can
+be friends?
+!------------------------------!
+Axel... est-ce que ça veut dire que
+toi et moi nous sommes amis aussi ?
+!------------------------------!
+Und ... heißt das, dass du
+und ich Freunde sein können,
+Axel?
+!------------------------------!
+Allora... Axel, questo significa che
+io e te possiamo essere amici?
+!------------------------------!
+Bueno, Axel. ¿Eso significa que
+ahora somos amigos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, yeah. Was there ever any doubt?
+Any friend of Roxas's is a friend of
+mine.
+!------------------------------!
+Ben quoi, t'en doutais encore ?
+Les amis de Roxas sont mes amis.
+!------------------------------!
+Ja. Wusstest du das nicht?
+Roxas' Freunde sind auch
+meine Freunde.
+!------------------------------!
+Beh, certo. Avevi qualche
+dubbio? Gli amici di Roxas sono
+anche amici miei!
+!------------------------------!
+Pues sí. ¿Es que tenías dudas?
+Los amigos de Roxas son
+mis amigos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thank you...
+Roxas, Axel, thank you!
+!------------------------------!
+Merci...
+Roxas, Axel, merci !
+!------------------------------!
+Vielen Dank ...
+Roxas, Axel, danke!
+!------------------------------!
+Grazie...
+Roxas, Axel... grazie!
+!------------------------------!
+Gracias...
+¡Roxas, Axel, muchas gracias!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eat your ice cream.
+!------------------------------!
+Allez, mange ta glace.
+!------------------------------!
+Iss jetzt dein Eis.
+!------------------------------!
+Mangia il tuo gelato.
+!------------------------------!
+Cómete el helado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

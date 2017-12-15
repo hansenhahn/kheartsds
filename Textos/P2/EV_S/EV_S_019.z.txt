@@ -1,0 +1,314 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This place is, like, a hundred times
+better minus all the bossy coworkers,
+am I right?
+!------------------------------!
+Nous voilà enfin débarrassés de tous
+les collègues autoritaires, pas vrai ?
+!------------------------------!
+Ohne die ganzen Wichtigtuer
+ist es hier doch gleich hundert
+Mal schöner, hab ich recht?
+!------------------------------!
+Questo posto è mille volte meglio
+senza tutti i compagni spacconi,
+non è vero?
+!------------------------------!
+Bueno, este sitio es mucho
+mejor sin los mandones del
+trabajo, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+Wichtigtuer?
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bossy coworkers?
+!------------------------------!
+Les collègues autoritaires ?
+!------------------------------!
+Von wem redest du?
+!------------------------------!
+Compagni spacconi?
+!------------------------------!
+¿Mandones?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, the <E2><80><9C>dream team<E2><80><9D> that got
+shipped off to Castle Oblivion.
+Dreamy for me, because they're gone!
+!------------------------------!
+Ouais, l'équipe de gros bras envoyée
+au Manoir Oblivion ! Bon débarras !
+!------------------------------!
+Ja, das Dream-Team, das zum Schloss
+des Entfallens gegangen ist, Mann.
+Traumhaft, endlich sind sie weg.
+!------------------------------!
+Sì, i "fantastici sei" inviati al
+Castello dell'Oblio, no? Fantastico,
+perché non sono più tornati!
+!------------------------------!
+Sí, los niños mimados que
+han ido al Castillo del Olvido.
+¡Y yo que me alegro!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh...
+!------------------------------!
+Ah...
+!------------------------------!
+Oh ...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Too bad you and Poppet didn't get to
+spend more quality time with them.
+!------------------------------!
+Dommage que la poulette et toi
+n'ayez pas pu passer beaucoup
+de temps avec eux, pas vrai ?
+!------------------------------!
+Schade, dass du und Schätzchen
+kaum Zeit mit ihnen
+verbracht habt.
+!------------------------------!
+Che peccato che tu e il tuo tesoruccio
+non abbiate potuto passare più tempo
+con loro.
+
+!------------------------------!
+Es una pena que Encanto y
+tú no paséis más tiempo
+con ellos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Poppet? Who's that?
+!------------------------------!
+La poulette ? C'est qui ça ?
+!------------------------------!
+Schätzchen?
+Wer soll das sein?
+!------------------------------!
+Tesoruccio? Di chi stai parlando?
+!------------------------------!
+¿Encanto? ¿Quién es Encanto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion, of course.
+Who else, kiddo?
+!------------------------------!
+Xion, pauvre cloche !
+!------------------------------!
+Xion natürlich.
+Wer sonst, Kleiner?
+!------------------------------!
+Di Xion, ovvio.
+Chi sennò, ragazzino?
+!------------------------------!
+Xion, claro. ¿Quién
+si no, enano?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+My name's not <E2><80><9C>kiddo.<E2><80><9D>
+!------------------------------!
+(Pauvre cloche ?)
+!------------------------------!
+Nenn mich nicht <E2><80><9E>Kleiner<E2><80><9C>.
+!------------------------------!
+Non mi chiamo "ragazzino".
+!------------------------------!
+No me llamo "enano".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, get to work.
+!------------------------------!
+Roxas, tu as du pain sur la planche.
+!------------------------------!
+Roxas, geh an die Arbeit.
+!------------------------------!
+Roxas, c'è del lavoro da fare.
+!------------------------------!
+Roxas, ponte a trabajar.
+!------------------------------!
+!******************************!

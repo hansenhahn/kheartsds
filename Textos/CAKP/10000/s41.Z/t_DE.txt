@@ -1,0 +1,205 @@
+&.[HDR].&
+*.0000040000006A1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><9D><E3><82><8D><E3><81><9D><E3><82><8D><E4><BC><91><E6><9A><87><E3><81><AB><E3><81><AA><E3><81><A3><E3><81><A6><E3><82><82><E3><81><84><E3><81><84><E3><82><88><E3><81><AA><E2><80><A6>
+!------------------------------!
+DEMYX
+Who's ready for a vacation?
+I'm ready for a vacation.
+!------------------------------!
+DEMYX
+Qui veut des vacances ? Moi je veux des vacances.
+!------------------------------!
+DEMYX
+Wer ist urlaubsreif?
+Ich bin urlaubsreif.
+!------------------------------!
+DEMYX
+Chi ha voglia di andare
+in vacanza? Io, IO!
+!------------------------------!
+DEMYX
+¿Quién quiere unas vacaciones?
+A mí me vendrían de perlas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000006A1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><8A><E3><81><84><E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>51<E3><81><AE><E5><AE><9D><E7><AE><B1><E3><81><A3><E3><81><A6><E5><85><A8><E9><83><A8><E5><9B><9E><E5><8F><8E><E3><81><97><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+DEMYX
+Hey, did you happen to get all the treasure in
+Mission 51?
+!------------------------------!
+DEMYX
+Hé, as-tu trouvé tous les coffres de la mission 51 ?
+!------------------------------!
+DEMYX
+Hey, hast du zufällig alle Schätze
+in Mission 51 gesammelt?
+!------------------------------!
+DEMYX
+Ehi, hai trovato tutti i
+forzieri della Missione 51?
+!------------------------------!
+DEMYX
+Dime, ¿conseguiste todos los
+tesoros de la misión 51?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><8F><E3><82><8A><E3><81><83><E3><81><91><E3><81><A9><E3><80><81><E5><85><A8><E9><83><A8><E5><9B><9E><E5><8F><8E><E3><81><97><E3><81><A6><E3><81><8D><E3><81><A6><E3><81><8F><E3><82><8C><E3><81><AD><E3><81><87><E3><81><8B><E3><81><AA><EF><BC><9F>
+<E9><A0><BC><E3><82><80><E3><82><88><EF><BC><81>
+!------------------------------!
+If you haven't already...would you mind?
+Please!?
+!------------------------------!
+Si ce n'est pas le cas euh... tu voudrais bien
+y aller ?
+!------------------------------!
+Falls noch nicht ...
+Würdest du? Bitte!?
+!------------------------------!
+Se non l'hai già fatto...
+potresti farmi questo favore?
+Ti prego!
+!------------------------------!
+Si no fue así, ¿te importaría ir
+a recuperarlos, por favor?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000691801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><8A><E3><81><A3><EF><BC><81><E3><80><80><E5><AE><9D><E7><AE><B1><E3><80><81><E5><85><A8><E9><83><A8><E5><9B><9E><E5><8F><8E><E3><81><97><E3><81><A6><E3><81><8D><E3><81><A6><E3><81><8F><E3><82><8C><E3><81><9F><E3><81><AE><E3><81><8B>
+<E3><82><B5><E3><83><B3><E3><82><AD><E3><83><A5><E3><83><BC><EF><BC><81><E3><80><80><E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><EF><BC><81>
+!------------------------------!
+DEMYX
+Whoa! You got all the treasure chests!
+Thanks, man!
+!------------------------------!
+DEMYX
+Waouh ! T'as trouvé tous les coffres ! Merci, mec !
+!------------------------------!
+DEMYX
+Wow! Du hast alle Schatztruhen!
+Danke, Mann!
+!------------------------------!
+DEMYX
+Wow, hai trovato tutti i
+forzieri! Grazie, amico!
+!------------------------------!
+DEMYX
+¡Caramba, encontraste todos
+los cofres! ¡Gracias, tío!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><82><E3><81><AE><E3><81><95><E2><80><A6><E8><A8><80><E3><81><84><E3><81><AB><E3><81><8F><E3><81><84><E3><82><93><E3><81><A0><E3><81><91><E3><81><A9><E2><80><A6>
+<E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><8B><E3><82><89><E7><89><B9><E5><88><A5><E4><BB><BB><E5><8B><99><E5><8F><97><E3><81><91><E3><81><A1><E3><81><BE><E3><81><A3><E3><81><9F><E3><82><93><E3><81><A0><E3><81><91><E3><81><A9>
+<E3><81><93><E3><82><8C><E3><82><82><E9><A0><BC><E3><82><93><E3><81><A7><E3><81><84><E3><81><84><E3><81><8B><EF><BC><9F>
+!------------------------------!
+I hate to push my luck, but, uh...Saïx gave me a
+special mission. Think you could handle that, too?
+!------------------------------!
+Je voudrais pas exagérer, mais euh... Saïx m'a confié
+une mission spéciale. Tu pourrais t'en charger pour
+moi ?
+!------------------------------!
+Ich will's zwar nicht, aber, äh ...
+Saïx hat mir eine Spezialmission
+gegeben. Schaffst du die auch?
+!------------------------------!
+Non vorrei tirare troppo la corda, ma...
+Saïx mi ha dato una missione speciale.
+Pensi di riuscire a occupartene?
+!------------------------------!
+No quiero pasarme de la raya,
+pero Saïx me ha asignado una
+misión especial. ¿Me ayudas?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BB><BB><E5><8B><99><E3><81><AE><E8><A9><B3><E7><B4><B0><E3><81><AF><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AB><E8><81><9E><E3><81><91><E3><81><B0><E3><82><8F><E3><81><8B><E3><82><8B><E3><81><8B><E3><82><89><E2><80><A6><E3><81><AA><EF><BC><9F>
+!------------------------------!
+I'm sure he'd be happier to have you take it, too.
+Just ask him!
+!------------------------------!
+Je parie qu'il sera plus content que ce soit toi qui
+t'en charges. Va lui parler !
+!------------------------------!
+Bestimmt wäre es ihm lieber,
+wenn du sie übernimmst.
+Frag ihn doch einfach!
+!------------------------------!
+Ti va di affrontarla al posto
+mio? Lui sarebbe di sicuro
+più contento. Vai a parlargli!
+!------------------------------!
+Seguro que él preferiría que la
+cumplieras tú. ¡Pregúntale!
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+A new mission is now available!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>51<E3><81><AE><E5><AE><9D><E7><AE><B1>
+<E3><81><BE><E3><81><A0>%d<E5><80><8B><E6><AE><8B><E3><81><A3><E3><81><A6><E3><82><8B><E3><81><BF><E3><81><9F><E3><81><84><E3><81><AA><E3><82><93><E3><81><A0>
+!------------------------------!
+DEMYX
+Let's see, treasure chests in mission 51...
+Looks like %d left.
+!------------------------------!
+DEMYX
+Voyons voir, les coffres de la mission 51...
+Il en reste %d.
+!------------------------------!
+DEMYX
+Mal sehen, Schatztruhen in Mission
+51 ... Da sind noch %d übrig.
+!------------------------------!
+DEMYX
+Mmm, quanti forzieri della
+Missione 51 ci mancano? %d!
+!------------------------------!
+DEMYX
+A ver, cofres del tesoro de la
+misión 51... Busca %d más.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E5><85><A8><E9><83><A8><E5><9B><9E><E5><8F><8E><E3><83><9E><E3><82><B8><E3><81><A7><E9><A0><BC><E3><82><80><E3><82><88><EF><BC><81>
+!------------------------------!
+So, uh...super thanks in advance!
+!------------------------------!
+Bon euh... ben merci d'avance !
+!------------------------------!
+Also, äh ... vielen Dank schon mal
+im Voraus!
+!------------------------------!
+Ah... Grazie mille in anticipo!
+!------------------------------!
+Pues... ¡muchas gracias!
+!------------------------------!
+!******************************!

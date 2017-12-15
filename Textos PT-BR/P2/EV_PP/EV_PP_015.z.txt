@@ -1,0 +1,529 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/1D.z
+!******************************!
+&.[HDR].2&
+mi/ob/60.z
+!******************************!
+&.[HDR].2&
+mi/ob/61.z
+!******************************!
+&.[HDR].2&
+mi/ob/69.z
+!******************************!
+&.[HDR].2&
+mi/ob/5D.z
+!******************************!
+&.[HDR].2&
+mi/ob/F3.z
+!******************************!
+&.[HDR].2&
+mi/ob/C2.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Só um segundo.
+Vou te tirar daí.
+!------------------------------!
+Attends un peu.
+Je vais te sortir de là.
+!------------------------------!
+Warte einen Moment.
+Ich hol dich da raus.
+!------------------------------!
+Resisti ancora un po'.
+Ti tirerò fuori da lì.
+!------------------------------!
+Un segundo.
+Te sacaré de ahí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fico feliz por você estar bem.
+!------------------------------!
+Je suis content que tu ailles bien.
+!------------------------------!
+Schön, dass du wohlauf bist.
+!------------------------------!
+Sono contento che tu stia bene.
+!------------------------------!
+Me alegro de que estés bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pode tomar conta de si mesma 
+agora, né? É melhor eu ir.
+!------------------------------!
+Ça va aller maintenant, pas vrai ?
+Il faut que j'y aille.
+!------------------------------!
+Du kommst allein klar, oder?
+Ich muss jetzt weiter.
+!------------------------------!
+Ora puoi cavartela da sola, vero?
+Io devo andare.
+!------------------------------!
+A partir de ahora puedes cuidarte
+sola, ¿no? Debería volver a
+lo mío.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã? Tem mais algo?
+!------------------------------!
+Hein ? Il y a autre chose ?
+!------------------------------!
+Hä? Ist noch was?
+!------------------------------!
+Uh? C'è qualcos'altro?
+!------------------------------!
+¿Eh? ¿Hay algo más?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Esta deve ser um pedaço daquele 
+mapa que eles estavam falando.
+Eles destruíram pra valer.
+!------------------------------!
+Ce doit être un morceau de la carte
+dont ils parlaient. Il l'a déchirée en
+mille morceaux.
+!------------------------------!
+Das muss ein Teil dieser Karte sein,
+von der sie gesprochen haben.
+Er hat sie tatsächlich zerrissen.
+!------------------------------!
+Questo dev'essere un pezzo della
+mappa di cui stavano parlando.
+L'ha ridotta in brandelli.
+!------------------------------!
+Debe de ser un trozo del mapa
+del que hablaban. Lo ha roto
+a conciencia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hum... Desculpe, mas não sei 
+o que está tentando me dizer.
+!------------------------------!
+Euh... désolé, mais je ne comprends
+pas ce que tu essaies de me dire.
+!------------------------------!
+Ähm ... Tut mir leid, aber ich weiß
+nicht, was du mir sagen willst.
+!------------------------------!
+Uhm... Scusami, ma non riesco
+davvero a capirti.
+!------------------------------!
+Um... Lo siento, pero no
+entiendo qué quieres decirme.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem um ponto marcado 
+neste pedaço do mapa.
+!------------------------------!
+Un endroit est marqué sur ce
+morceau de carte.
+!------------------------------!
+Auf diesem Kartenstück ist ein
+Punkt markiert.
+!------------------------------!
+C'è un punto segnato su
+questo pezzo di mappa.
+!------------------------------!
+Hay un lugar marcado en
+este trozo del mapa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Hmm... Todo lugar que cavam,
+ Heartless surgem do nada.)
+!------------------------------!
+(Hmm... partout où ils ont creusé,
+ des Sans-cœur sont apparus.)
+!------------------------------!
+(Hm ... Überall, wo sie gegraben
+ haben, waren Herzlose.)
+!------------------------------!
+(Mmm... Sono comparsi degli Heartless
+in ogni zona in cui hanno scavato.)
+!------------------------------!
+(Mmm... Allá donde cavan
+aparecen los sincorazón).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(E eles têm cavado com 
+ base nestes mapas...)
+!------------------------------!
+(Et ils ont suivi ces cartes...)
+!------------------------------!
+(Und sie haben anhand dieser
+ Karten gegraben ...)
+!------------------------------!
+(E hanno scavato basandosi
+proprio su queste mappe...)
+!------------------------------!
+(Y han estado cavando siguiendo
+estos mapas...)
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Talvez eu ache mais Heartless 
+ conferindo cada ponto.)
+!------------------------------!
+(Je trouverai peut-être d'autres
+ Sans-cœur si je vérifie à cet
+ endroit.)
+!------------------------------!
+(Vielleicht finde ich noch mehr
+ Herzlose, wenn ich an diesen
+ Orten nachsehe.)
+!------------------------------!
+(Forse controllando questi luoghi
+troverò altri Heartless.)
+!------------------------------!
+(Igual encontraré a más sinco-
+razón si examino esos lugares).
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, poderia me ajudar a voar de novo?
+!------------------------------!
+Dis, est-ce que tu peux encore
+m'aider à voler ?
+!------------------------------!
+Hey, kannst du mir noch mal
+fliegen helfen?
+!------------------------------!
+Ehi, potresti aiutarmi di nuovo a volare?
+!------------------------------!
+Eh, ¿me podrías ayudar a volver
+a volar?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Preciso ir olhar o ponto 
+marcado neste mapa.
+!------------------------------!
+Je dois aller vérifier l'endroit
+indiqué sur cette carte.
+!------------------------------!
+Ich muss an dem Ort nachsehen,
+der auf dieser Karte markiert ist.
+!------------------------------!
+Devo andare a controllare il luogo
+segnato su questa mappa.
+!------------------------------!
+Tengo que mirar el lugar
+señalado en este mapa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Valeu.
+!------------------------------!
+Merci.
+!------------------------------!
+Danke.
+!------------------------------!
+Grazie.
+!------------------------------!
+Gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu tenho mesmo que voltar 
+pra minha missão agora.
+!------------------------------!
+Je devrais reprendre la mission
+maintenant.
+!------------------------------!
+Ich muss jetzt wieder an meine
+Mission denken.
+!------------------------------!
+Ora devo tornare alla mia missione.
+!------------------------------!
+Ahora sí que tendría
+que volver a mi misión.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Toma cuidado pra que aqueles caras
+não te peguem de novo, tá?
+!------------------------------!
+Ne te fais plus attraper par ces
+types, d'accord ?
+!------------------------------!
+Pass auf, dass dich diese Kerle
+nicht wieder erwischen, okay?
+!------------------------------!
+Tu non farti catturare di nuovo
+da quei brutti ceffi, d'accordo?
+!------------------------------!
+Procura que esos tipos no
+vuelvan a cogerte, ¿vale?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

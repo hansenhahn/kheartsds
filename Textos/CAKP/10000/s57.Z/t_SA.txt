@@ -1,0 +1,20 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AE><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AF><E5><8D><98><E7><8B><AC><E4><BB><BB><E5><8B><99><E3><81><A0>
+!------------------------------!
+SAÏX
+Today's mission requires that you go solo.
+!------------------------------!
+SAÏX
+Tu es tout seul pour la mission d'aujourd'hui.
+!------------------------------!
+SAÏX
+Heute musst du allein auf Mission.
+!------------------------------!
+SAÏX
+La missione di oggi sarà in solitario.
+!------------------------------!
+SAÏX
+Hoy irás solo a la misión.
+!------------------------------!
+!******************************!

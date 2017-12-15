@@ -1,0 +1,95 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:30
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/12.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I went to a new world today.
+Roxas, you should've seen it.
+!------------------------------!
+Je suis allée dans un nouveau monde
+aujourd'hui. Tu aurais dû voir ça,
+Roxas.
+!------------------------------!
+Ich war heute in einer
+neuen Welt. Roxas, die hättest
+du mal sehen sollen.
+!------------------------------!
+Oggi ho visitato un nuovo mondo.
+Avresti dovuto vederlo, Roxas.
+!------------------------------!
+Hoy he ido a un nuevo mundo.
+Deberías haberlo visto, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It was so beautiful.
+!------------------------------!
+C'était si beau...
+!------------------------------!
+Sie war so schön.
+!------------------------------!
+Era magnifico.
+!------------------------------!
+Era tan hermoso.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, I'll visit you tomorrow, okay?
+Bye, Roxas...
+!------------------------------!
+Je reviendrai te voir demain,
+d'accord ? À plus tard, Roxas...
+!------------------------------!
+Ich werde dich morgen
+besuchen, okay?
+Bis dann, Roxas ...
+!------------------------------!
+Domani verrò a trovarti,
+d'accordo? Ciao, Roxas...
+!------------------------------!
+Bueno, te visitaré
+mañana, ¿vale?
+Adiós, Roxas...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

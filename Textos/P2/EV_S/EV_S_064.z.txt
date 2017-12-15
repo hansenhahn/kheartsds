@@ -1,0 +1,885 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whew...
+!------------------------------!
+Pff...
+!------------------------------!
+Wow ...
+!------------------------------!
+Uff...
+!------------------------------!
+Guau...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel!
+!------------------------------!
+Axel !
+!------------------------------!
+Axel!
+!------------------------------!
+Axel!
+!------------------------------!
+¡Axel!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey hey!
+What are you grinning about?
+!------------------------------!
+Hé, hé !
+Pourquoi vous souriez comme ça ?
+!------------------------------!
+Hey, hey!
+Was grinst du so?
+!------------------------------!
+Ehi ehi!
+Cos'è quel sorrisetto?
+!------------------------------!
+¡Eh, ey!
+¿A qué vienen esas sonrisas?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How was your mission?
+!------------------------------!
+Comment s'est passée ta mission ?
+!------------------------------!
+Wie war deine Mission?
+!------------------------------!
+Com'è andata la tua missione?
+!------------------------------!
+¿Qué tal ha ido la misión?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, loads of fun... Would it kill the
+Heartless to hold still? I fell right on
+my butt chasing the stupid thing.
+!------------------------------!
+Oh, un vrai plaisir. À cause de ces
+satanés Sans-cœur, je me suis
+retrouvé sur le derrière.
+!------------------------------!
+Oh, lustig. Können die Herzlosen
+nicht mal still halten? Ich bin bei
+der Verfolgung hingefallen.
+!------------------------------!
+Uno spasso. Perché gli Heartless
+non stanno fermi? Non sai che
+fatica inseguire quel mostro.
+!------------------------------!
+Divertida. ¿No podrían estarse
+quietos? Me he caído de culo in-
+tentando cazar a ese estúpido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nice. Didn't I hear you tell Saïx you
+were a big boy?
+!------------------------------!
+Sympa... Mais tu n'as pas dit à Saïx
+que tu étais un grand garçon ?
+!------------------------------!
+Schön. Hast du Saïx nicht
+gesagt, du wärst schon groß?
+!------------------------------!
+Benone. Non avevi detto a Saïx
+che sai badare a te stesso?
+!------------------------------!
+Qué bonito. ¿No eras tú el que
+le decías a Saïx que eras un
+hombre curtido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Very funny.
+How'd your caper go?
+!------------------------------!
+Très drôle...
+Et vous ?
+!------------------------------!
+Sehr witzig.
+Wie lief's bei dir?
+!------------------------------!
+Ah ah, molto divertente.
+A te come è andata, invece?
+!------------------------------!
+Muy gracioso.
+Y vosotros, ¿qué habéis
+estado tramando?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ta-daaah!
+!------------------------------!
+Tadaaa !
+!------------------------------!
+Ta-daaah!
+!------------------------------!
+Ta-daaah!
+!------------------------------!
+¡Tacháaan!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'd like to dedicate this Keyblade
+summoning to my good friends Roxas
+and Axel.
+!------------------------------!
+Je voudrais dédicacer cette invocation
+de Keyblade à mes chers amis, Roxas
+et Axel.
+!------------------------------!
+Ich widme diese
+Schlüsselschwertbeschwörung
+meinen Freunden Roxas und Axel.
+!------------------------------!
+Vorrei dedicare questa
+evocazione del Keyblade ai miei
+amici Roxas e Axel.
+!------------------------------!
+Me gustaría dedicar esta
+invocación de la llave espada a
+mis buenos amigos Roxas y Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pfft, me?
+I didn't do anything.
+!------------------------------!
+À moi ?
+Je n'ai rien fait.
+!------------------------------!
+Pfft, mir?
+Ich hab doch gar nichts getan.
+!------------------------------!
+Pft, a me?
+Io non ho fatto nulla.
+!------------------------------!
+Buf, ¿a mí?
+Pero si yo no he hecho nada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sure you did. If you hadn't spoken up
+for us this morning, me and Roxas
+would've had to split up.
+!------------------------------!
+Mais si ! Si tu n'étais pas intervenu ce
+matin, Roxas et moi on serait partis
+chacun de notre côté.
+!------------------------------!
+Doch, hast du. Hättest du dich
+nicht für uns eingesetzt,
+hätten wir uns trennen müssen.
+!------------------------------!
+Invece sì. Se non fosse stato
+per te, stamattina io e Roxas
+avremmo dovuto dividerci.
+!------------------------------!
+Claro que sí. Si no hubieras in-
+tercedido por nosotros antes,
+me habrían separado de Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And then Xion might never have
+remembered how to use the Keyblade.
+!------------------------------!
+Et Xion n'aurait jamais pu se souvenir
+de comment utiliser sa Keyblade.
+!------------------------------!
+Und dann hätte sich Xion
+nie daran erinnert, wie man das
+Schlüsselschwert benutzt.
+!------------------------------!
+Così Xion non si sarebbe mai
+ricordata come evocare il
+Keyblade.
+!------------------------------!
+Y puede que entonces Xion nunca
+hubiera recordado cómo se usa
+la llave espada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thanks, Axel.
+!------------------------------!
+Merci, Axel.
+!------------------------------!
+Danke, Axel.
+!------------------------------!
+Grazie, Axel.
+!------------------------------!
+Gracias, Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ahem...
+How 'bout an ice cream, then?
+!------------------------------!
+Ça vaut bien une petite glace, non ?
+!------------------------------!
+<3C>Räusper<3E> ...
+Wie wär's mit einem Eis?
+!------------------------------!
+Che ne dici di un gelato?
+!------------------------------!
+¿Qué tal un helado, entonces?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Hein ?
+!------------------------------!
+Was?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Buy me one, and we'll call it even.
+!------------------------------!
+Tu m'en paies une et on sera quittes.
+!------------------------------!
+Diesmal zahlst du, dann sind
+wir quitt.
+!------------------------------!
+Compramene uno e siamo pari.
+!------------------------------!
+Invítame a uno y
+estamos en paz.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh, you got it.
+Wait here, I'll be right back!
+!------------------------------!
+Oui, d'accord.
+Attendez, je reviens !
+!------------------------------!
+Wartet hier, ich bin gleich
+wieder da!
+!------------------------------!
+Eh, d'accordo.
+Aspettate qui, torno subito!
+!------------------------------!
+Eh, tú lo has dicho.
+Esperad aquí, ¡ahora vuelvo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I hope we always have each other.
+!------------------------------!
+J'espère qu'on sera toujours là
+les uns pour les autres.
+!------------------------------!
+Ich hoffe, wir bleiben immer
+zusammen.
+!------------------------------!
+Magari potessimo restare
+sempre insieme.
+!------------------------------!
+Espero que siempre
+estemos juntos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah...
+!------------------------------!
+Oui...
+!------------------------------!
+Ja ...
+!------------------------------!
+Già...
+!------------------------------!
+Sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's gotten into you?
+!------------------------------!
+Qu'est-ce que t'as ?
+!------------------------------!
+Was ist in dich gefahren?
+!------------------------------!
+Che ti prende?
+!------------------------------!
+¿Qué mosca te ha picado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I just...want these days to last
+forever. Hanging out, the ice cream,
+the sunsets...
+!------------------------------!
+J'aimerais que... ces journées durent
+toujours. Qu'on reste ensemble pour
+regarder le coucher de soleil...
+!------------------------------!
+Ich wünschte, diese Tage würden nie
+zu Ende gehen. Rumhängen, Eis,
+die Sonnenuntergänge ...
+!------------------------------!
+Vorrei che questi giorni non
+passassero. Uscire a prendere
+un gelato davanti al tramonto...
+!------------------------------!
+Es que... Ojalá esto durase
+siempre. Pasar el rato, el
+helado, las puestas de sol...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nothing lasts forever, man.
+Least of all for a bunch of Nobodies.
+!------------------------------!
+Rien ne dure éternellement, mon pote.
+Et surtout pas pour des Simili
+comme nous.
+!------------------------------!
+Nichts ist für die Ewigkeit,
+Mann. Zumindest für ein paar
+Niemande.
+!------------------------------!
+Niente dura in eterno, amico.
+E questo vale soprattutto
+per i Nessuno.
+!------------------------------!
+Nada dura para siempre, hombre.
+Y menos para un hatajo de
+incorpóreos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But you know, we'll still have each
+other...even if things change and we
+can't do this anymore.
+!------------------------------!
+Mais tu sais, on sera toujours là les
+uns pour les autres... même si les
+choses changent un jour.
+!------------------------------!
+Aber wir haben immer noch uns,
+selbst wenn sich die Dinge ändern
+und wir das nicht mehr tun können.
+!------------------------------!
+Ma noi resteremo sempre amici...
+anche se le cose cambieranno,
+e non potremo più vivere così.
+!------------------------------!
+Pero, ¿sabes?, siempre estare-
+mos juntos... Aunque las cosas
+cambien y no hagamos esto más.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah?
+!------------------------------!
+Ah oui ?
+!------------------------------!
+Ja?
+!------------------------------!
+Davvero?
+!------------------------------!
+¿Ah, sí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+As long as we remember each other,
+we'll never be apart. Got it memorized?
+!------------------------------!
+Tant qu'on se rappellera les uns des
+autres, on ne sera jamais séparés.
+Tu t'en souviendras ?
+!------------------------------!
+Solange wir aneinander denken,
+sind wir nie getrennt. Hast du
+dir das gemerkt?
+!------------------------------!
+Finché ci ricorderemo a vicenda,
+niente e nessuno potrà mai
+dividerci. L'hai memorizzato?
+!------------------------------!
+Mientras recordemos a los demás,
+nunca estaremos separados.
+¿Lo has memorizado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha, wow, Axel.
+That sounded ridiculous.
+!------------------------------!
+Ha, ha, ha, Axel.
+Tu serais pas un peu fleur bleue ?
+!------------------------------!
+Ha, ha, wow, Axel.
+Das hört sich ganz
+schön albern an.
+!------------------------------!
+Ah ah. Wow, Axel.
+Che paroloni.
+!------------------------------!
+Ja, ja. Guau, Axel.
+Eso te ha quedado muy ridículo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+I thought it was pretty deep.
+!------------------------------!
+Quoi ?
+J'ai trouvé ça très profond, moi.
+!------------------------------!
+Was?
+Ich fand das ganz schön
+tiefgründig.
+!------------------------------!
+Perché?
+Mi sembrava un pensiero
+profondo.
+!------------------------------!
+¿Qué?
+Y yo que creía que
+era muy profundo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh.
+!------------------------------!
+Hé, hé, hé !
+!------------------------------!
+He, he.
+!------------------------------!
+Eh eh.
+!------------------------------!
+Je, je, je.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha ha!
+!------------------------------!
+Ha, ha, ha !
+!------------------------------!
+Ha, ha, ha!
+!------------------------------!
+Ah ah ah!
+!------------------------------!
+¡Ja, ja, ja!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

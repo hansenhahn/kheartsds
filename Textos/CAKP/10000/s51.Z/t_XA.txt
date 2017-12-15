@@ -1,0 +1,194 @@
+&.[HDR].&
+*.0000040000007C1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><9B><E3><81><84><E3><81><9C><E3><81><84><E3><81><8C><E3><82><93><E3><81><B0><E3><82><8B><E3><82><93><E3><81><A0><E3><81><AA>
+!------------------------------!
+XALDIN
+Hmph. Watch yourself out there.
+!------------------------------!
+XALDIN
+Allez, bonne chance.
+!------------------------------!
+XALDIN
+Hmpf. Pass auf dich auf.
+!------------------------------!
+XALDIN
+Umpf. Fai attenzione là fuori.
+!------------------------------!
+XALDIN
+Bah. Buena suerte.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000007C1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9>
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><AE><E9><81><82><E8><A1><8C><E7><8A><B6><E6><B3><81><E3><82><92><E7><A2><BA><E8><AA><8D><E3><81><95><E3><81><9B><E3><81><A6><E3><82><82><E3><82><89><E3><81><8A><E3><81><86>
+!------------------------------!
+XALDIN
+Are you applying yourself, Roxas?
+I cannot abide sloth.
+!------------------------------!
+XALDIN
+Est-ce que tu t'investis, Roxas ? Tu sais, je ne
+supporte pas les paresseux.
+!------------------------------!
+XALDIN
+Machst du dich an die Arbeit,
+Roxas? Ich hasse Faulheit.
+!------------------------------!
+XALDIN
+Ti stai applicando, Roxas?
+Non tollero i fannulloni.
+!------------------------------!
+XALDIN
+¿Te estás aplicando, Roxas?
+No tolero la pereza.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E7><A2><BA><E8><AA><8D><E5><AF><BE><E8><B1><A1><E3><81><AF>
+Day256<E3><81><8B><E3><82><89>275<E3><81><AE><E6><9C><9F><E9><96><93><E3><81><AE><E5><A0><B1><E9><85><AC><E3><82><B2><E3><83><BC><E3><82><B8><E3><81><A0>
+ALL CLEAR<E3><81><AB><E5><88><B0><E9><81><94><E3><81><97><E3><81><A6><E3><81><84><E3><82><8B><E3><81><AA><E3><82><89><E3><81><B0><E3><80><81><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><82><8D>
+!------------------------------!
+I'll judge by your Bonus Gauge for Days 256 to 275.
+Tell me when you've filled it.
+!------------------------------!
+Je te jugerai selon ta jauge bonus pour les jours
+256 à 275. Viens me voir quand elle sera pleine.
+!------------------------------!
+Wichtig ist die Bonus-Anzeige
+für die Tage 256 bis 275.
+Sag Bescheid, wenn sie voll ist.
+!------------------------------!
+Giudicherò la tua barra premio
+dal Giorno 256 al 275.
+Dimmi quando l'hai riempita.
+!------------------------------!
+Te evaluaré según lo que llenes
+la barra de recompensas 
+entre los días 256 y 275.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000007B1801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+Day256<E3><81><8B><E3><82><89>275<E3><81><AE><E6><9C><9F><E9><96><93><E3><81><AE><E5><A0><B1><E9><85><AC><E3><82><B2><E3><83><BC><E3><82><B8><E3><81><8C>
+ALL CLEAR<E3><81><AB><E3><81><AA><E3><81><A3><E3><81><9F><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+!------------------------------!
+XALDIN
+I see you've actually filled the Bonus Gauge
+completely.
+!------------------------------!
+XALDIN
+Oh, mais tu as réussi à remplir la jauge bonus
+complètement.
+!------------------------------!
+XALDIN
+Ah, du hast die Bonus-Anzeige
+tatsächlich komplett gefüllt.
+!------------------------------!
+XALDIN
+Vedo che hai riempito
+completamente la barra premio.
+!------------------------------!
+XALDIN
+Veo que has llenado la
+barra de recompensas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><B5><E3><82><93><E2><80><A6><E3><81><84><E3><81><84><E3><81><A0><E3><82><8D><E3><81><86>
+!------------------------------!
+Hmph... Very well.
+!------------------------------!
+Hmm... Bon, voici.
+!------------------------------!
+Hmpf ... Sehr gut.
+!------------------------------!
+Umpf... Molto bene.
+!------------------------------!
+Mmm... Muy bien hecho.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><AE><E8><85><95><E3><82><92><E3><81><BF><E3><81><93><E3><82><93><E3><81><A7>
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><82><92><E3><81><BE><E3><81><8B><E3><81><9B><E3><81><A6><E3><82><84><E3><82><8D><E3><81><86>
+!------------------------------!
+I'll reward your diligence with clearance for a new
+mission.
+!------------------------------!
+Je vais te récompenser avec une nouvelle
+mission.
+!------------------------------!
+Ich werde deinen Fleiß mit einer
+neuen Mission belohnen.
+!------------------------------!
+Ricompenserò la tua
+diligenza autorizzandoti ad
+affrontare una nuova missione.
+!------------------------------!
+Recompensaré tu diligencia
+con una nueva misión.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BB><BB><E5><8B><99><E3><81><AE><E8><A9><B3><E7><B4><B0><E3><81><AF><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AB><E8><81><9E><E3><81><91>
+!------------------------------!
+Ask Saïx for the details.
+!------------------------------!
+Va voir Saïx.
+!------------------------------!
+Frag Saïx nach den Einzelheiten.
+!------------------------------!
+Parla con Saïx per
+avere tutti i dettagli.
+!------------------------------!
+Pídele los detalles a Saïx.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+A new mission is now available!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+Day256<E3><81><8B><E3><82><89>275<E3><81><AE><E6><9C><9F><E9><96><93><E3><81><AE><E5><A0><B1><E9><85><AC><E3><82><B2><E3><83><BC><E3><82><B8><E3><81><8C>
+ALL CLEAR<E3><81><AB><E3><81><AA><E3><81><A3><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><81><AB><E6><9D><A5><E3><81><84>
+!------------------------------!
+XALDIN
+Have you managed to fill the Bonus Gauge for
+Days 256 to 275?
+!------------------------------!
+XALDIN
+As-tu rempli la jauge bonus des jours 256 à 275 ?
+!------------------------------!
+XALDIN
+Hast du die Bonus-Anzeige
+für die Tage 256 bis 275 gefüllt?
+!------------------------------!
+XALDIN
+Hai riempito la barra premio
+dal Giorno 256 al 275?
+!------------------------------!
+XALDIN
+¿Has llenado ya la barra de
+recompensas para los días 256 a 275?
+!------------------------------!
+!******************************!

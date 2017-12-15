@@ -1,0 +1,854 @@
+&.[HDR].&
+*.000004000000A52204000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This crate's covered in dust.
+
+!------------------------------!
+ROXAS
+Cette caisse est couverte de poussière.
+!------------------------------!
+ROXAS
+Die Kiste ist ganz staubig.
+!------------------------------!
+ROXAS
+Questa cassa è coperta di polvere.
+!------------------------------!
+ROXAS
+Esta caja está
+llena de polvo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Guess it's been a while since they used this room.
+
+!------------------------------!
+XION
+Personne n'a dû venir ici depuis
+longtemps.
+!------------------------------!
+XION
+Hier oben scheint lange niemand
+mehr gewesen zu sein.
+!------------------------------!
+XION
+Sembra che questa stanza non
+venga usata da diverso tempo.
+!------------------------------!
+XION
+Este pasillo lleva mucho
+tiempo sin usarse.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's a big stained-glass window.
+
+!------------------------------!
+ROXAS
+C'est un énorme vitrail.
+!------------------------------!
+ROXAS
+Ein großes Glasmalereifenster.
+!------------------------------!
+ROXAS
+Una grande vetrata.
+!------------------------------!
+ROXAS
+Un ventanal de
+cristal tintado.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Take a look at the gashes on this wall.
+Are these claw marks?
+!------------------------------!
+ROXAS
+Ces entailles sur le mur sont énormes.
+On dirait des marques de griffes !
+!------------------------------!
+ROXAS
+Sieh dir die Kratzer in der Wand an.
+Sind das Spuren von Klauen?
+!------------------------------!
+ROXAS
+Guarda questi segni sul muro.
+Che siano artigli?
+!------------------------------!
+ROXAS
+Mira estas marcas.
+¿Son arañazos?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Some Heartless that got restless, maybe?
+
+!------------------------------!
+XION
+Ou un Sans-cœur déchaîné ?
+!------------------------------!
+XION
+Vielleicht von einem wild gewordenen
+Herzlosen?
+!------------------------------!
+XION
+Forse qualche Heartless
+ha perso la pazienza?
+!------------------------------!
+XION
+¿Un sincorazón nervioso,
+quizá?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+The door's locked.
+
+!------------------------------!
+ROXAS
+La porte est fermée à double tour.
+
+!------------------------------!
+ROXAS
+Die Tür ist verschlossen.
+!------------------------------!
+ROXAS
+La porta è chiusa.
+!------------------------------!
+ROXAS
+La puerta está cerrada.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This wall is filthy.
+
+!------------------------------!
+ROXAS
+Ce mur est sale.
+
+!------------------------------!
+ROXAS
+Die Wand ist schmutzig.
+!------------------------------!
+ROXAS
+Questo muro è tutto sporco.
+!------------------------------!
+ROXAS
+La pared está sucia.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+You think the Heartless did it?
+
+!------------------------------!
+XION
+Tu crois que ce sont des Sans-cœur
+qui ont fait ça ?
+!------------------------------!
+XION
+Glaubst du, das war der Herzlose?
+!------------------------------!
+XION
+Credi sia stato un Heartless?
+!------------------------------!
+XION
+¿Crees que fue un sincorazón?
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Are these...bread crumbs?
+
+!------------------------------!
+ROXAS
+Hein ? Des miettes de pain ?
+!------------------------------!
+ROXAS
+Sind das ... Brotkrumen?
+!------------------------------!
+ROXAS
+Queste sono... briciole di pane?
+!------------------------------!
+ROXAS
+¿Esto son... migas?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Maybe someone laid them out as food for the birds?
+
+!------------------------------!
+XION
+Peut-être que quelqu'un nourrit les oiseaux ?
+!------------------------------!
+XION
+Vielleicht hat sie jemand für die Vögel
+ausgestreut?
+!------------------------------!
+XION
+Forse qualcuno voleva dare
+da mangiare agli uccelli?
+!------------------------------!
+XION
+¿Las habrán dejado
+para los pájaros?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Then the castle isn't deserted after all.
+
+!------------------------------!
+ROXAS
+Alors le château ne serait pas désert...
+!------------------------------!
+ROXAS
+Dann ist das Schloss gar nicht verlassen.
+!------------------------------!
+ROXAS
+Allora il castello non è disabitato.
+!------------------------------!
+ROXAS
+Entonces, el castillo
+no está desierto.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Footprints?
+
+!------------------------------!
+ROXAS
+Des traces de pas ?
+!------------------------------!
+ROXAS
+Fußabdrücke?
+!------------------------------!
+ROXAS
+Impronte?
+!------------------------------!
+ROXAS
+¿Pisadas?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Could be Heartless.
+
+!------------------------------!
+XION
+C'est peut-être un Sans-cœur.
+!------------------------------!
+XION
+Könnten von Herzlosen sein.
+!------------------------------!
+XION
+Potrebbe essere un Heartless.
+!------------------------------!
+XION
+Podría ser un sincorazón.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+They're big.
+Whatever this thing is, let's be careful.
+!------------------------------!
+ROXAS
+Elles sont énormes. Soyons prudents.
+!------------------------------!
+ROXAS
+Die sind groß.
+Lass uns lieber vorsichtig sein.
+!------------------------------!
+ROXAS
+Sono molto grandi.
+Meglio tenere gli occhi aperti.
+!------------------------------!
+ROXAS
+Son muy grandes. Sea lo que
+sea, mucho cuidado.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I was able to use these statues to open up a secret
+passage over there.
+!------------------------------!
+ROXAS
+J'ai pu utiliser ces statues pour ouvrir
+un passage secret par là-bas.
+!------------------------------!
+ROXAS
+Über diese Statue konnte ich da drüben
+einen Geheimgang öffnen.
+!------------------------------!
+ROXAS
+Con queste statue ho aperto un
+passaggio segreto, laggiù.
+!------------------------------!
+ROXAS
+Usé las estatuas
+para abrir un pasadizo secreto.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Wow. What made you think to do that?
+
+!------------------------------!
+XION
+Génial ! Comment tu y as pensé ?
+!------------------------------!
+XION
+Wow. Wie bist du darauf gekommen?
+!------------------------------!
+XION
+Ehi! Come ti è venuto in mente?
+!------------------------------!
+XION
+Vaya, ¿y cómo se
+te ocurrió?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I dunno...
+Things just sort of clicked into place.
+!------------------------------!
+ROXAS
+Je ne sais pas... Ça m'est venu d'un coup.
+!------------------------------!
+ROXAS
+Keine Ahnung ...
+Irgendwie passte einfach alles zusammen.
+!------------------------------!
+ROXAS
+Non lo so...
+Mi è quasi venuto spontaneo.
+!------------------------------!
+ROXAS
+Ni idea... Simplemente,
+parecía lo más lógico.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+A bucket and a mop? I can't imagine trying to keep
+a place this huge clean.
+!------------------------------!
+ROXAS
+Un seau et un balai ? Ça doit être un
+boulot monstre de nettoyer cet endroit.
+!------------------------------!
+ROXAS
+Ein Eimer und ein Mopp? Wie soll man
+einen so großen Ort sauber halten?
+!------------------------------!
+ROXAS
+Un secchio e uno straccio. Chissà che
+fatica pulire un posto così grande!
+!------------------------------!
+ROXAS
+¿Una fregona? Es imposible
+limpiar un sitio tan enorme.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Exactly. Which means they must have a lot of
+servants.
+!------------------------------!
+XION
+Exactement. Il y a sûrement
+beaucoup de domestiques.
+!------------------------------!
+XION
+Stimmt. Es muss also viele Diener geben.
+!------------------------------!
+XION
+Già. Immagino che ci siano
+molti servitori.
+!------------------------------!
+XION
+Lo que significa que deben
+de tener muchísimos criados.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Footprints...
+
+!------------------------------!
+ROXAS
+Des traces de pas...
+
+!------------------------------!
+ROXAS
+Fußabdrücke ...
+!------------------------------!
+ROXAS
+Impronte...
+
+!------------------------------!
+ROXAS
+Pisadas...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Big ones... Heartless?
+
+!------------------------------!
+XION
+Elles sont énormes... Un Sans-cœur, tu crois ?
+!------------------------------!
+XION
+Große ... Herzlose?
+!------------------------------!
+XION
+Sono molto grandi... Heartless?
+!------------------------------!
+XION
+Y grandes... ¿Un sincorazón?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I dunno... They lead into that room back there.
+
+!------------------------------!
+ROXAS
+Aucune idée... Ça mène à cette pièce là-bas.
+!------------------------------!
+ROXAS
+Keine Ahnung ... Sie führen in das Zimmer
+da hinten.
+!------------------------------!
+ROXAS
+Non lo so... Conducono a
+quella stanza laggiù.
+!------------------------------!
+ROXAS
+No sé... Llevan a ese cuarto.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+More claw marks...
+!------------------------------!
+ROXAS
+D'autres marques de griffures...
+!------------------------------!
+ROXAS
+Mehr Klauenspuren ...
+!------------------------------!
+ROXAS
+Altri segni di artigli...
+!------------------------------!
+ROXAS
+Más arañazos...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+The Heartless must be really out of control here.
+
+!------------------------------!
+XION
+Les Sans-cœur doivent vraiment être déchaînés
+par ici.
+!------------------------------!
+XION
+Die Herzlosen müssen hier ja völlig
+außer Kontrolle sein.
+!------------------------------!
+XION
+Qui gli Heartless devono
+essere fuori controllo.
+!------------------------------!
+XION
+Los sincorazón deben de
+haber pedido el control aquí.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000B00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I hear a voice...
+Someone's in there.
+!------------------------------!
+ROXAS
+J'entends une voix... Il y a quelqu'un là-dedans.
+!------------------------------!
+ROXAS
+Ich höre eine Stimme ...
+Da drinnen ist jemand.
+!------------------------------!
+ROXAS
+Sento una voce.
+Là dentro c'è qualcuno.
+!------------------------------!
+ROXAS
+Una voz...
+Hay alguien.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VOICE
+...The master insists...from Belle...
+
+!------------------------------!
+VOIX 
+Le maître insiste... de Belle...
+!------------------------------!
+? ? ? ?
+... Der Herr besteht darauf ... von Belle ...
+!------------------------------!
+VOCE
+Il padrone insiste...
+... da Belle...
+!------------------------------!
+? ? ? ?
+... Amo, por favor...
+con Bella...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Belle?
+
+!------------------------------!
+XION
+Belle ?
+!------------------------------!
+XION
+Belle?
+
+!------------------------------!
+XION
+Belle?
+!------------------------------!
+XION
+¿Bella?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Somebody else who lives here, maybe?
+
+!------------------------------!
+ROXAS
+C'est peut-être quelqu'un qui vit ici aussi ?
+!------------------------------!
+ROXAS
+Vielleicht noch jemand, der hier wohnt?
+!------------------------------!
+ROXAS
+Che sia un'altra persona
+che vive qui?
+!------------------------------!
+ROXAS
+¿Otra habitante del castillo?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+We'd better stay out of this room.
+
+!------------------------------!
+ROXAS
+On devrait s'éloigner de cette pièce.
+!------------------------------!
+ROXAS
+Wir halten uns besser von dem Zimmer
+fern.
+!------------------------------!
+ROXAS
+Meglio stare alla larga
+da questa stanza.
+!------------------------------!
+ROXAS
+Será mejor salir de aquí.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000C00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I hear rustling on the other side of the door.
+Who's in here? Maybe I can get a peek...
+!------------------------------!
+ROXAS
+J'entends du bruit de l'autre côté de cette
+porte. Qui est-ce ? Je vais regarder...
+!------------------------------!
+ROXAS
+Ich höre ein Rascheln hinter der Tür.
+Wer ist da? Vielleicht kann ich was sehen ...
+!------------------------------!
+ROXAS
+Ho sentito un rumore dietro questa
+porta. Chi c'è dentro? Vediamo un po'...
+!------------------------------!
+ROXAS
+Oigo algo tras la puerta.
+Podría echar un vistazo...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Roxas! Don't open it!
+
+!------------------------------!
+XION
+Roxas ! Ne l'ouvre pas !
+!------------------------------!
+XION
+Roxas! Nicht öffnen!
+!------------------------------!
+XION
+Roxas! Non aprirla!
+!------------------------------!
+XION
+¡Roxas! ¡No!
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Oh... Right, sorry.
+We should play it safe.
+!------------------------------!
+ROXAS
+Ah... oui, pardon. Il faut être prudent.
+!------------------------------!
+ROXAS
+Oh ... Stimmt, Entschuldigung.
+Wir sollten kein Risiko eingehen.
+!------------------------------!
+ROXAS
+Oh... Hai ragione, scusa.
+Meglio essere prudenti.
+!------------------------------!
+ROXAS
+Oh... Vale, vale.
+Seamos prudentes.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000D00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Huh? I hear noises.
+
+!------------------------------!
+ROXAS
+Hein ? J'entends des bruits.
+!------------------------------!
+ROXAS
+Huch? Ich höre Lärm.
+!------------------------------!
+ROXAS
+Uh? Sento dei rumori.
+!------------------------------!
+ROXAS
+¿Eh? Unos ruidos.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Really? I don't hear anything.
+Maybe you're imagining it.
+!------------------------------!
+XION
+Vraiment ? Pas moi. C'est peut-être ton
+imagination.
+!------------------------------!
+XION
+Echt? Ich kann nichts hören.
+Vielleicht bildest du dir das ein.
+!------------------------------!
+XION
+Davvero? Io non sento nulla.
+Forse ti sbagli.
+!------------------------------!
+XION
+Pues yo no oigo nada.
+Te lo habrás imaginado.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000E00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Voices... I can't make out what they're saying.
+
+!------------------------------!
+ROXAS
+Ce sont des voix... mais je n'arrive pas à
+comprendre ce qui se dit.
+!------------------------------!
+ROXAS
+Stimmen ... Ich verstehe nicht, was sie
+sagen.
+!------------------------------!
+ROXAS
+Sento delle voci... ma non riesco
+a capire cosa stanno dicendo.
+!------------------------------!
+ROXAS
+Voces... No las entiendo.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Well, if somebody's in there, we'd better steer
+clear.
+!------------------------------!
+XION
+S'il y a quelqu'un à l'intérieur, on devrait s'éloigner.
+!------------------------------!
+XION
+Also, wenn hier jemand ist, bleiben wir
+lieber fern.
+!------------------------------!
+XION
+Beh, se lì dentro c'è qualcuno,
+è meglio non avvicinarsi troppo.
+!------------------------------!
+XION
+Si hay alguien, será mejor
+que nos quitemos de en medio.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52204000000010000000F00.*
+!******************************!

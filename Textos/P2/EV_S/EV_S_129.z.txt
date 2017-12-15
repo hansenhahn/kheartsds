@@ -1,0 +1,297 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The impostor has been sighted again.
+!------------------------------!
+L'imposteur a de nouveau été
+aperçu.
+!------------------------------!
+Der Hochstapler wurde wieder
+gesehen.
+!------------------------------!
+L'impostore è stato
+avvistato di nuovo.
+!------------------------------!
+Han visto de nuevo al impostor.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Impostor?
+You mean the one that Xion...
+!------------------------------!
+L'imposteur ?
+Celui que Xion...
+!------------------------------!
+Hochstapler?
+Du meinst den, der Xion ...
+!------------------------------!
+L'impostore?
+Ah, quello che Xion...
+!------------------------------!
+¿Impostor?
+¿Te refieres al que Xion...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He's prowling about Castle Oblivion as
+we speak.
+!------------------------------!
+Il est au Manoir Oblivion en
+ce moment même.
+!------------------------------!
+Während wir miteinander reden,
+streift er durch das Schloss des
+Entfallens.
+!------------------------------!
+Ora si aggira nel
+Castello dell'Oblio.
+!------------------------------!
+Mientras hablamos, anda
+por el Castillo del Olvido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Castle Oblivion?
+I'll go.
+!------------------------------!
+Le Manoir Oblivion ?
+J'y vais.
+!------------------------------!
+Das Schloss des Entfallens?
+Ich werde gehen.
+!------------------------------!
+Nel Castello dell'Oblio?
+Parto subito.
+!------------------------------!
+¿Castillo del Olvido?
+Iré.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Not by yourself, you won't.
+This target is extremely dangerous.
+!------------------------------!
+Non, pas tout seul.
+La cible est extrêmement
+dangereuse.
+!------------------------------!
+Aber nicht allein.
+Das Ziel ist extrem gefährlich.
+!------------------------------!
+Non da solo.
+Il bersaglio è estremamente
+pericoloso.
+!------------------------------!
+Solo no.
+Es sumamente peligroso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then how 'bout I tag along?
+!------------------------------!
+Et si je venais ?
+!------------------------------!
+Wir wär's, wenn ich mitkomme?
+!------------------------------!
+Allora chi mi accompagnerà?
+!------------------------------!
+¿Y si voy contigo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know C.O. better than anybody else in
+this outfit.
+!------------------------------!
+Je connais le M.O. mieux que
+personne ici.
+!------------------------------!
+Ich kenne das Schloss besser
+als jeder andere in diesen Klamotten.
+!------------------------------!
+Io conosco il Castello dell'Oblio
+meglio di chiunque altro.
+!------------------------------!
+Conozco el lugar mucho mejor que
+nadie de aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, better.
+Go, then, and teach this fraud the
+price for wearing our coat.
+!------------------------------!
+Oui, c'est mieux.
+Allez donner une bonne leçon
+à cet imposteur !
+!------------------------------!
+Okay, gut. Dann los, und zeig
+dem Schwindler den Preis dafür,
+unseren Mantel zu tragen.
+!------------------------------!
+Bene, tanto meglio.
+Allora andate a dare una
+lezione a quel lurido impostore.
+!------------------------------!
+Mejor. Vamos a
+enseñarle a ese farsante el
+precio por suplantarnos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

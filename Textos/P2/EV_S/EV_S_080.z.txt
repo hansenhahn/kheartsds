@@ -1,0 +1,345 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're here early.
+!------------------------------!
+Tu es en avance, dis donc.
+!------------------------------!
+Du bist früh dran.
+!------------------------------!
+Sei in anticipo.
+!------------------------------!
+Llegas pronto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Work was easy today.
+!------------------------------!
+C'était facile aujourd'hui.
+!------------------------------!
+Die Arbeit war heute einfach.
+!------------------------------!
+Oggi il lavoro era facile.
+!------------------------------!
+Hoy el trabajo ha sido fácil.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess Axel's still out on that
+classified mission, huh?
+!------------------------------!
+J'imagine qu'Axel s'occupe
+de sa mission secrète.
+!------------------------------!
+Axel ist wohl immer noch
+auf dieser geheimen Mission,
+was?
+!------------------------------!
+Axel è ancora impegnato in quella
+missione segreta, immagino.
+!------------------------------!
+Supongo que Axel ya se
+ha embarcado en esa
+misión secreta, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So where'd they send you, Roxas?
+!------------------------------!
+Où es-tu allé aujourd'hui, Roxas ?
+!------------------------------!
+Und wo haben sie dich
+hingeschickt, Roxas?
+!------------------------------!
+Dove ti hanno mandato, Roxas?
+!------------------------------!
+¿Adónde te han enviado, Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Beast's Castle, with Xaldin.
+!------------------------------!
+Au Château de la Bête avec Xaldin.
+!------------------------------!
+Zum Schloss des Biestes,
+mit Xaldin.
+!------------------------------!
+Al Castello della Bestia,
+insieme a Xaldin.
+!------------------------------!
+Al Castillo de Bestia,
+con Xaldin.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You remember the castle's master,
+Xion?
+!------------------------------!
+Tu te souviens du monstre là-bas,
+Xion ?
+!------------------------------!
+Kannst du dich an das Wesen
+da erinnern, Xion?
+!------------------------------!
+Ricordi il padrone del castello, Xion?
+!------------------------------!
+¿Te acuerdas de la criatura
+que había ahí, Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, the beast we saw.
+
+!------------------------------!
+Le maître des lieux ?
+Oui.
+!------------------------------!
+Den Schlossherrn?
+Ja.
+!------------------------------!
+Sì, quella bestia che abbiamo visto.
+!------------------------------!
+¿El amo del castillo?
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, you were right. He does have
+something he wants to protect.
+Something he cares about.
+!------------------------------!
+J'ai découvert pourquoi il combat les
+Sans-cœur. C'est parce qu'il tient à
+quelque chose.
+!------------------------------!
+Ich habe herausgefunden, warum
+er die Herzlosen bekämpft.
+Er beschützt etwas.
+!------------------------------!
+Beh, avevi ragione.
+Ha qualcosa che vuole proteggere.
+Qualcosa a cui tiene.
+!------------------------------!
+He descubierto por qué lucha
+contra los sincorazón. Es para
+proteger algo que le importa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really?
+!------------------------------!
+Vraiment ?
+!------------------------------!
+Echt?
+!------------------------------!
+Davvero?
+!------------------------------!
+¿De verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, but Xaldin says that's a
+weakness.
+!------------------------------!
+Oui, mais Xaldin dit que c'est
+une faiblesse.
+!------------------------------!
+Ja, aber Xaldin sagt, das wäre
+eine Schwäche.
+!------------------------------!
+Sì, ma secondo Xaldin questa
+è una debolezza.
+!------------------------------!
+Sí, pero Xaldin dice que
+eso es una debilidad.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why would caring about something be a
+weakness?
+!------------------------------!
+Pourquoi est-ce que tenir à quelque
+chose serait une faiblesse ?
+!------------------------------!
+Warum ist es eine Schwäche, sich
+um etwas zu sorgen?
+!------------------------------!
+Perché tenere a qualcosa
+dovrebbe essere una debolezza?
+!------------------------------!
+¿Por qué el hecho de que
+te importe algo ha de ser
+una debilidad?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I dunno, I didn't get it either.
+!------------------------------!
+Je ne sais pas.
+Je n'ai pas compris non plus.
+!------------------------------!
+Keine Ahnung. Hab ich auch nicht
+verstanden.
+!------------------------------!
+Non lo so.
+Non l'ho capito neanch'io.
+!------------------------------!
+No lo sé, yo tampoco
+lo entiendo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I hope Axel comes home soon.
+!------------------------------!
+J'espère qu'Axel rentrera bientôt...
+!------------------------------!
+Ich hoffe, Axel kommt bald zurück.
+!------------------------------!
+Spero che Axel torni a casa
+presto...
+!------------------------------!
+Espero que Axel
+vuelva a casa pronto.
+!------------------------------!
+!******************************!

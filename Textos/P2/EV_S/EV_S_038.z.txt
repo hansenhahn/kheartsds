@@ -1,0 +1,257 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:4
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Roxas!
+!------------------------------!
+Salut, Roxas !
+!------------------------------!
+Hey, Roxas!
+!------------------------------!
+Ehi, Roxas!
+!------------------------------!
+Ey, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How's it hanging?
+!------------------------------!
+Ça roule ?
+!------------------------------!
+Alles locker?
+!------------------------------!
+Come va?
+!------------------------------!
+¿Cómo te va?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's the matter?
+You look like you've seen a ghost.
+!------------------------------!
+Qu'est-ce qu'il y a ?
+On dirait que t'as vu un fantôme.
+!------------------------------!
+Was ist?
+Du siehst aus, als hättest du
+einen Geist gesehen.
+!------------------------------!
+Che ti succede?
+Sembra che tu abbia appena
+visto un fantasma.
+!------------------------------!
+¿Qué pasa?
+Parece que hayas visto
+un fantasma.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel?
+!------------------------------!
+Axel ?
+!------------------------------!
+Axel?
+!------------------------------!
+Axel?
+!------------------------------!
+¿Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...I thought you were gone!
+Castle Oblivion<E2><80><95>the whole team was
+annihilated...
+!------------------------------!
+Mais... je te croyais disparu !
+Au Manoir Oblivion... toute
+l'équipe a été décimée...
+!------------------------------!
+Aber ... ich dachte du wärst
+gestorben! Das ganze Team wurde
+doch ausgelöscht.
+!------------------------------!
+Ma... pensavo fossi morto!
+La squadra al Castello dell'Oblio
+è stata... spazzata via tutta...
+!------------------------------!
+Pero... ¡Pensaba que nos habías
+dejado! Castillo del Olvido...
+Todo el equipo fue aniquilado...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Correction: the weaklings were
+annihilated.
+!------------------------------!
+Faux ! Seuls les faibles l'ont été.
+!------------------------------!
+Korrektur: Die Schwächlinge
+wurden ausgelöscht.
+!------------------------------!
+Ti correggo: solo i deboli
+sono stati spazzati via.
+!------------------------------!
+Incorrecto: los débiles
+fueron aniquilados.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You had me worried.
+!------------------------------!
+Je me suis fait du souci pour toi.
+!------------------------------!
+Ich hab mir Sorgen um dich
+gemacht.
+!------------------------------!
+Ero molto preoccupato per te.
+!------------------------------!
+Me tenías preocupado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Worried? Well, that's a neat trick,
+considering you haven't got a heart to
+feel with.
+!------------------------------!
+Ah ouais ? C'est mignon, mais tu sais
+bien que les Simili n'ont pas de cœur
+et ne ressentent donc rien.
+!------------------------------!
+Sorgen? Netter Versuch,
+so ganz ohne Herz zum Fühlen.
+!------------------------------!
+Preoccupato? Beh, è molto
+curioso... visto che i Nessuno
+non hanno neanche un cuore.
+!------------------------------!
+¿Preocupado? Es todo un detalle,
+considerando que los incorpóreos
+no tenemos corazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+W-wait here.
+I'll go buy us some ice cream!
+!------------------------------!
+Attends-moi ici !
+Je vais nous acheter une glace !
+!------------------------------!
+W-Warte hier!
+Ich kauf uns ein Eis!
+!------------------------------!
+A-Aspetta qui!
+Vado a comprare dei gelati!
+!------------------------------!
+¡Espera aquí!
+¡Voy a comprar helado
+para los dos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

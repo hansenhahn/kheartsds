@@ -1,0 +1,20 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Huh? There's something behind this oil drum.
+!------------------------------!
+ROXAS
+Hein ? Il y a quelque chose derrière ce baril.
+!------------------------------!
+ROXAS
+Hä? Da ist was hinter dem Ölfass.
+!------------------------------!
+ROXAS
+Uh? C'è qualcosa dietro
+questo barile.
+!------------------------------!
+ROXAS
+¿Eh? Hay algo tras ese bidón.
+!------------------------------!
+!******************************!

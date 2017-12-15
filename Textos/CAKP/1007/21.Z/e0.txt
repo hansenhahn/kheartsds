@@ -1,0 +1,45 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This is where I did recon before.
+
+!------------------------------!
+ROXAS
+C'est ici que je suis venu l'autre fois.
+!------------------------------!
+ROXAS
+Hier war ich vorher schon mal.
+!------------------------------!
+ROXAS
+Ho già perlustrato questa zona.
+!------------------------------!
+ROXAS
+Aquí ya miré antes.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Then we can return here later.
+The rest of the castle needs to be explored first.
+!------------------------------!
+XALDIN
+Alors on y reviendra plus tard.
+Il faut d'abord explorer le reste du château.
+!------------------------------!
+XALDIN
+Dann kommen wir hier später wieder hin.
+Zuerst muss der Rest des Schlosses erforscht werden.
+!------------------------------!
+XALDIN
+Allora possiamo tornarci in seguito.
+Dobbiamo esplorare il resto del castello.
+!------------------------------!
+XALDIN
+Entonces volveremos luego.
+Antes debemos explorar más.
+!------------------------------!
+!******************************!

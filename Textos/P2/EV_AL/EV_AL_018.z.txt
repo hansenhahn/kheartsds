@@ -1,0 +1,67 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Never would've guessed this was here.
+!------------------------------!
+Je ne pensais pas qu'il y aurait
+un endroit pareil ici...
+!------------------------------!
+Ich wäre nie darauf gekommen,
+dass so was hier sein könnte.
+!------------------------------!
+Non avrei mai immaginato che
+ci fosse un posto simile qui.
+!------------------------------!
+Nunca habría adivinado
+que aquí hubiese algo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll say.
+This is a nice little bonus.
+!------------------------------!
+Sympa comme découverte.
+!------------------------------!
+Das kann man wohl sagen.
+Das ist ein netter kleiner
+Bonus.
+!------------------------------!
+È vero.
+Un piccolo bonus non fa mai male.
+!------------------------------!
+Creo que es un hallazgo
+extraordinario.
+!------------------------------!
+!******************************!

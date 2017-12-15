@@ -1,0 +1,148 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're awake.
+!------------------------------!
+Tu es réveillé.
+!------------------------------!
+Du bist wach.
+!------------------------------!
+Sei sveglio.
+!------------------------------!
+Te has despertado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did you ever find out what happened at
+Castle Oblivion?
+!------------------------------!
+Sait-on ce qu'il s'est passé au
+Manoir Oblivion finalement ?
+!------------------------------!
+Hast du herausgefunden, was
+mit den Leuten im Schloss des
+Entfallens passiert ist?
+!------------------------------!
+Hai più scoperto che
+cosa è successo al
+Castello dell'Oblio?
+!------------------------------!
+¿Has llegado a descubrir qué
+pasó con la gente en el
+Castillo del Olvido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're looking into what befell them.
+!------------------------------!
+Nous essayons de le déterminer.
+!------------------------------!
+Das untersuchen wir noch.
+!------------------------------!
+Stiamo cercando di capire che
+cosa sia capitato a loro.
+!------------------------------!
+Estamos en ello.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Them<E2><80><9D>!? How many?
+You still don't know?
+!------------------------------!
+Donc on ne sait toujours rien ?
+Ni qui a disparu ?
+!------------------------------!
+Das weißt du immer noch nicht?
+!------------------------------!
+"Loro"?!? Ma quanti sono?
+Non lo sai ancora?
+!------------------------------!
+¿Aún no lo sabes?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What I know is that I don't owe you any
+explanations. Now get to work.
+!------------------------------!
+Ce que je sais, c'est que je ne te dois
+aucune explication. Allez, au travail !
+!------------------------------!
+Ich weiß, dass ich dir keine
+Erklärung schulde. Jetzt geh
+an die Arbeit.
+!------------------------------!
+So solo che non ti devo alcuna
+spiegazione. Forza, al lavoro.
+!------------------------------!
+Lo único que sé es que no te
+debo explicaciones.
+Y ahora, a trabajar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You'll be on your own for a while.
+Wherever our other members are,
+they're certainly not here to help.
+!------------------------------!
+Tu seras seul pendant quelque temps.
+Où que soient les autres membres,
+ils ne sont pas ici pour nous aider.
+!------------------------------!
+Du wirst eine Weile auf dich
+alleine gestellt sein.
+!------------------------------!
+Per un po' dovrai arrangiarti.
+Ovunque siano finiti i nostri
+membri, non sono qui ad aiutarci.
+!------------------------------!
+Pronto te podrás valer tú solo.
+Estén donde estén los miembros,
+no están aquí para ayudar.
+!------------------------------!
+!******************************!

@@ -1,0 +1,301 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I gotta check in with the boss, or he's
+gonna let me have it.
+!------------------------------!
+Je dois aller voir le boss ou ça
+va encore chauffer pour moi.
+!------------------------------!
+Ich muss zum Boss, sonst macht
+er mich fertig.
+!------------------------------!
+Devo andare subito dal capo,
+altrimenti me la vedrò brutta.
+!------------------------------!
+Tengo que personarme ante el
+jefe o me va a caer una buena.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You haven't RTC'd yet?
+!------------------------------!
+Tu n'es pas encore RÀC ?
+!------------------------------!
+Du bist noch nicht zum Schloss
+zurückgekehrt?
+!------------------------------!
+Non sei ancora tornato al
+castello?
+!------------------------------!
+¿Aún no has VAC?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm? Nah.
+!------------------------------!
+Hein ? Nan.
+!------------------------------!
+Hm? Nee.
+!------------------------------!
+Mmm? No.
+!------------------------------!
+¿Mmm? No.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, why come here?
+!------------------------------!
+Pourquoi es-tu venu ici ?
+!------------------------------!
+Und warum bist du hier?
+!------------------------------!
+Allora perché sei venuto qui?
+!------------------------------!
+Bueno, ¿y por qué has
+venido aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess I needed some time to sort out
+my feelings.
+!------------------------------!
+Il me fallait du temps pour essayer de
+comprendre ce que j'éprouve.
+!------------------------------!
+Ich brauchte etwas Zeit,
+um meine Gefühle zu ordnen.
+!------------------------------!
+Avevo bisogno di un po' di tempo
+per capire i miei sentimenti.
+!------------------------------!
+Supongo que necesito tiempo para
+poner en orden mis sentimientos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whatever, mister I-don't-have-a-
+heart.
+!------------------------------!
+C'est ça, monsieur
+je-n'ai-pas-de-cœur...
+!------------------------------!
+Was auch immer,
+Herr ich-habe-kein-Herz.
+!------------------------------!
+Come vuoi, mister
+"io non ho un cuore".
+!------------------------------!
+Lo que usted diga,
+señor yo-no-tengo-corazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, your ice cream's melting.
+Eat up.
+!------------------------------!
+Hé, ta glace est en train de fondre.
+Mange-la.
+!------------------------------!
+Hey, dein Eis schmilzt.
+Iss auf.
+!------------------------------!
+Ehi, il tuo gelato si sta
+sciogliendo. Mangia.
+!------------------------------!
+Eh, tu helado se está
+derritiendo. Cómetelo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thanks.
+!------------------------------!
+Oui, merci.
+!------------------------------!
+Danke.
+!------------------------------!
+Grazie.
+!------------------------------!
+Gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know, I started inviting Xion up
+here while you were gone.
+!------------------------------!
+Tu sais quoi ? J'ai invité Xion à monter
+ici pendant ton absence.
+!------------------------------!
+Weißt du, ich habe Xion öfter
+hierher eingeladen, während du
+weg warst.
+!------------------------------!
+Ho iniziato a invitare Xion
+quassù, mentre tu non c'eri.
+!------------------------------!
+¿Sabes?, empecé a invitar a Xion
+a subir aquí mientras tú no
+estabas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion? Really?
+!------------------------------!
+Xion ? Vraiment ?
+!------------------------------!
+Xion? Wirklich?
+!------------------------------!
+Xion? Dici sul serio?
+!------------------------------!
+¿A Xion? ¿De verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. I promised her the three of us
+could have ice cream together<E2><80><95>you
+know, once you got back.
+!------------------------------!
+Oui, je lui ai promis qu'on irait manger
+des glaces tous les trois une fois que
+tu serais rentré.
+!------------------------------!
+Ja, ich habe ihr versprochen,
+wir drei würden zusammen Eis
+essen - wenn du zurück bist.
+!------------------------------!
+Sì. Le ho promesso che avremmo
+mangiato il gelato tutti insieme...
+quando saresti tornato indietro.
+!------------------------------!
+Sí. Le prometí que los tres
+comeríamos helados juntos...
+cuando volvieras, y tal.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me and her are friends now.
+!------------------------------!
+On est amis maintenant elle et moi.
+!------------------------------!
+Sie und ich sind jetzt Freunde.
+!------------------------------!
+Io e lei siamo diventati amici.
+!------------------------------!
+Ella y yo ahora somos amigos.
+!------------------------------!
+!******************************!

@@ -1,0 +1,249 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0A.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good.
+Those Heartless are called Shadows.
+!------------------------------!
+Beau travail. Ces Sans-cœur étaient
+des Ombres.
+!------------------------------!
+Gut.
+Diese Herzlosen nennt man
+Schattenlurche.
+!------------------------------!
+Ottimo.
+Quegli Heartless sono
+chiamati Shadow.
+!------------------------------!
+Muy bien. Esos
+sincorazón se llaman sombras.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But what are Heartless?
+!------------------------------!
+C'est quoi un Sans-cœur ?
+!------------------------------!
+Aber was sind Herzlose?
+!------------------------------!
+Ma cosa sono gli Heartless?
+!------------------------------!
+Pero ¿qué son los sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Dark creatures who roam about,
+searching for hearts. They come in two
+larger varieties.
+!------------------------------!
+Ce sont de sombres créatures qui
+errent à la recherche de cœurs et
+sont divisées en deux espèces.
+!------------------------------!
+Dunkle Kreaturen, die immer
+auf der Suche nach Herzen sind.
+Es gibt zwei größere Arten.
+!------------------------------!
+Creature oscure in cerca di
+cuori. Ne esistono due
+grandi varietà.
+!------------------------------!
+Son criaturas siniestras que
+vagan en busca de corazones.
+Hay dos tipos generales.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The ones you just defeated are known
+as Purebloods.
+!------------------------------!
+Ceux que tu viens de vaincre sont
+des Pur-sang.
+!------------------------------!
+Die, die du gerade besiegt hast,
+nennt man Reinblüter.
+!------------------------------!
+Quelli che hai appena sconfitto
+sono chiamati Purosangue.
+!------------------------------!
+Los que acabas de derrotar son
+los purasangre.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Purebloods don't release any hearts
+when you defeat them.
+!------------------------------!
+Les Pur-sang ne laissent pas de
+cœur quand tu les neutralises.
+!------------------------------!
+Reinblüter lassen keine Herzen
+fallen, wenn du sie besiegst.
+!------------------------------!
+I Purosangue non rilasciano
+cuori quando vengono sconfitti.
+!------------------------------!
+Los purasangre no sueltan
+corazones cuando los derrotas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+In other words, don't bother with them.
+Your mission is to collect hearts, after
+all.
+!------------------------------!
+Alors ne t'embête pas avec eux.
+Après tout, ta mission consiste
+à récupérer des cœurs.
+!------------------------------!
+Also brauchst du dich nicht um
+sie zu kümmern. Immerhin lautet
+deine Mission, Herzen zu sammeln.
+!------------------------------!
+Quindi cerca di ignorarli.
+Del resto, la tua missione
+è raccogliere cuori.
+!------------------------------!
+En otras palabras, no
+luches contra ellos. Tu misión
+es recoger corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The other variety<E2><80><95>
+!------------------------------!
+L'autre espèce est...
+!------------------------------!
+Die andere Art ...
+!------------------------------!
+L'altra variante...
+!------------------------------!
+La otra variedad...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph... Is right over there.
+!------------------------------!
+Ha... juste là !
+!------------------------------!
+Hmpf ... Ist hier drüben.
+!------------------------------!
+Umpf... È proprio quella.
+!------------------------------!
+Vaya... Está justo ahí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Forget about the Shadows.
+!------------------------------!
+Ne t'occupe pas des Ombres, Roxas.
+!------------------------------!
+Vergiss die Schattenlurche.
+!------------------------------!
+Dimenticati degli Shadow.
+!------------------------------!
+Olvídate ahora de las sombras
+y ocúpate de estos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Take these out, Roxas.
+They are your real targets.
+!------------------------------!
+Neutralise ceux-ci.
+Ce sont eux tes vraies cibles.
+!------------------------------!
+Erledige sie, Roxas.
+Das sind deine wahren Ziele.
+!------------------------------!
+Eliminali, Roxas.
+Sono i tuoi veri bersagli.
+!------------------------------!
+Acaba con ellos, Roxas.
+Esos son tus objetivos.
+!------------------------------!
+!******************************!

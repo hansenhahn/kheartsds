@@ -1,0 +1,44 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:35
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/45.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This garden belongs to the Queen.
+And it's private. No trespassing.
+Thank you.
+!------------------------------!
+Ce sont les jardins privés de la Reine.
+Interdiction d'entrer, merci.
+!------------------------------!
+Dieser Garten gehört der
+Königin und ist privat.
+Kein Zutritt.
+!------------------------------!
+Questo giardino appartiene alla Regina.
+Ed è proprietà privata.
+L'ingresso è vietato. Grazie.
+!------------------------------!
+Estos son los jardines de
+la Reina. Prohibido el paso.
+Gracias.
+!------------------------------!
+!******************************!

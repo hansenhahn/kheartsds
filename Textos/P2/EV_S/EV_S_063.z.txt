@@ -1,0 +1,260 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thanks, Roxas.
+You can have this back.
+!------------------------------!
+Merci, Roxas.
+Tu peux la reprendre.
+!------------------------------!
+Danke, Roxas.
+Du kannst es wiederhaben.
+!------------------------------!
+Grazie, Roxas.
+Ora puoi riprenderlo.
+!------------------------------!
+Gracias, Roxas.
+Te la devuelvo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did it help?
+Do you remember how it works now?
+!------------------------------!
+Ça t'a aidée ?
+Tu te souviens de comment
+ça fonctionne maintenant ?
+!------------------------------!
+Hat es geholfen?
+Weißt du wieder, wie es geht?
+!------------------------------!
+Ha funzionato?
+Ti sei ricordata come evocare
+il tuo Keyblade?
+!------------------------------!
+¿Te ha ayudado? ¿Ya
+recuerdas cómo funciona?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know...
+Let me give it another try.
+!------------------------------!
+Je ne sais pas...
+Laisse-moi réessayer.
+!------------------------------!
+Keine Ahnung ...
+Lass es mich noch mal
+versuchen.
+!------------------------------!
+Non lo so...
+Farò un ultimo tentativo.
+!------------------------------!
+No lo sé...
+Deja que lo intente de nuevo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You did it!
+!------------------------------!
+Tu as réussi !
+!------------------------------!
+Du hast es geschafft!
+!------------------------------!
+Ce l'hai fatta!
+!------------------------------!
+¡Lo has conseguido!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't believe it!
+Roxas, it worked! Thank you so much!
+!------------------------------!
+Je n'y crois pas !
+Roxas, ça a marché ! Merci !
+!------------------------------!
+Das glaub ich nicht!
+Roxas, es hat geklappt!
+Vielen, vielen Dank!
+!------------------------------!
+Non posso crederci!
+Ha funzionato, Roxas!
+Grazie infinite!
+!------------------------------!
+¡No puedo creerlo! ¡Roxas,
+ha funcionado! ¡Muchas gracias!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't wait to see Axel's face when we
+tell him about this. C'mon!
+!------------------------------!
+J'ai hâte de voir la tête d'Axel
+quand il saura ça. Viens !
+!------------------------------!
+Ich kann es gar nicht erwarten,
+Axels Gesicht zu sehen, wenn wir
+ihm das erzählen. Komm!
+!------------------------------!
+Chissà che faccia farà Axel
+quando gli racconteremo tutto!
+Andiamo!
+!------------------------------!
+Estoy impaciente por ver la
+cara de Axel cuando se lo
+contemos. ¡Vamos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay!
+!------------------------------!
+Oui !
+!------------------------------!
+Okay!
+!------------------------------!
+OK!
+!------------------------------!
+¡Vale!
+!------------------------------!
+!******************************!

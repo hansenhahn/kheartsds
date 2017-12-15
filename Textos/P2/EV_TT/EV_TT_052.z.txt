@@ -1,0 +1,246 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:36
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There ya go.
+Good job.
+!------------------------------!
+C'est bien.
+Beau travail.
+!------------------------------!
+Jawohl.
+Gut gemacht.
+!------------------------------!
+Ecco fatto.
+Ottimo lavoro.
+!------------------------------!
+Así se hace.
+Buen trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thanks.
+!------------------------------!
+Merci...
+!------------------------------!
+Ja.
+!------------------------------!
+Sì.
+!------------------------------!
+Gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But don't go thinking you can just run
+and jump your way through every
+mission.
+!------------------------------!
+Mais ne va pas croire qu'il suffit de
+courir et de sauter pendant les
+missions, OK ?
+!------------------------------!
+Aber glaub ja nicht, dass du Missionen
+nur mit Rennen und Springen
+überstehst.
+!------------------------------!
+Ehi, come sei umile!
+Ma non pensare di affrontare
+le missioni con leggerezza.
+!------------------------------!
+Pero no te creas que cumplirás las
+misiones corriendo y saltando.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You've gotta BE AWARE.
+!------------------------------!
+Il faut être à l'affût !
+!------------------------------!
+Du musst AUF DER HUT SEIN.
+!------------------------------!
+Devi sempre stare ATTENTO.
+!------------------------------!
+Tienes que ser precavido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What...what do you mean?
+!------------------------------!
+Euh... c'est quoi ça ?
+!------------------------------!
+Was ... Was meinst du damit?
+!------------------------------!
+In... In che senso?
+!------------------------------!
+¿Qué... qué quieres decir?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You hafta look around. Sometimes what
+you're after is sitting right under your
+nose. Got it memorized?
+!------------------------------!
+Il faut regarder autour de soi.
+Parfois, ce qu'on cherche est juste
+sous notre nez. Tu t'en souviendras ?
+!------------------------------!
+Du musst die Augen offen halten.
+Manchmal ist das, was du suchst,
+direkt vor dir. Alles klar?
+!------------------------------!
+Devi guardarti intorno. A volte
+ciò che cerchi è proprio sotto
+il tuo naso. L'hai memorizzato?
+!------------------------------!
+Mira a tu alrededor. A veces
+lo que buscas está delante
+de tus narices. ¿Memorizado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Y...yeah, I think so.
+!------------------------------!
+Oui, je crois...
+!------------------------------!
+J-Ja, glaub schon.
+!------------------------------!
+P-Penso di sì.
+!------------------------------!
+Sí... sí, creo que sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, then, time for a road test.
+!------------------------------!
+Allez, c'est l'heure de la mise en
+pratique.
+!------------------------------!
+Na gut, dann wird's jetzt Zeit für
+einen Probelauf.
+!------------------------------!
+Bene, è il momento di
+una prova sul campo.
+!------------------------------!
+Bien, hagamos una prueba.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There's a treasure chest somewhere in
+these passages. I want you to find it.
+!------------------------------!
+Il y a un coffre à trésor quelque part
+dans cette zone. Je veux que tu le
+trouves.
+!------------------------------!
+Hier ist irgendwo eine
+Schatztruhe. Ich möchte, dass
+du sie findest.
+!------------------------------!
+C'è un forziere da qualche
+parte in questi passaggi.
+Voglio che tu lo trovi.
+!------------------------------!
+Hay un cofre del tesoro en la
+zona. Quiero que lo encuentres.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's all I have to do?
+!------------------------------!
+C'est tout ? C'est ça la mission ?
+!------------------------------!
+Mehr soll ich nicht tun?
+!------------------------------!
+Tutto qui quello che
+devo fare?
+!------------------------------!
+¿Y ya está?
+¿Esa es la misión?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know, don't hurt yourself.
+Anyway, remember to look around.
+!------------------------------!
+Je sais, c'est quasiment infaisable...
+M'enfin, n'oublie pas de regarder
+autour de toi.
+!------------------------------!
+Ich weiß, tu dir nicht weh.
+Und denk dran, dich umzusehen.
+!------------------------------!
+Sì, e cerca di non farti male.
+Ricorda di guardarti intorno
+con estrema attenzione.
+!------------------------------!
+¿Qué pasa, te parece poco?
+No olvides mirar a tu alrededor.
+!------------------------------!
+!******************************!

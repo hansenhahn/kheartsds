@@ -1,0 +1,163 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+1:104
+!******************************!
+&.[HDR].2&
+1:106
+!******************************!
+&.[HDR].&
+*.000001000000000000000F00.*
+!******************************!
+&.[HDR].2&
+1:106
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huff...huff...
+!------------------------------!
+Pff... pff...
+!------------------------------!
+<3C>Schnauf<3E> ... <3C>schnauf<3E>  ...
+!------------------------------!
+Uff... Uff...
+!------------------------------!
+Uf... uf...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What am I doing?
+Getting worked up over some device.
+!------------------------------!
+Qu'est-ce que je fabrique ?
+Je me fatigue pour un dispositif.
+!------------------------------!
+Was tu ich da?
+Arbeite fieberhaft an irgendeinem
+Apparat.
+!------------------------------!
+Cosa sto facendo?
+Tutta questa fatica per un
+semplice dispositivo...
+!------------------------------!
+¿Qué estoy haciendo?
+Volverme loco por un
+dispositivo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like I've got any clue what the
+Organization even uses it for...
+!------------------------------!
+Et je ne sais même pas ce que
+l'Organisation compte en faire...
+!------------------------------!
+Als hätte ich eine Ahnung davon,
+wofür die Organisation ihn braucht ...
+!------------------------------!
+E non so nemmeno come rientri
+nei piani dell'Organizzazione...
+!------------------------------!
+Como si tuviera alguna pista
+de para qué lo usa la
+Organización...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Everything's a mystery.
+They didn't even tell me about Xion.
+!------------------------------!
+Comment pourrais-je les comprendre
+alors que mes amis sont un mystère
+pour moi ?
+!------------------------------!
+Alles ist ein Rätsel.
+Sie haben mir nicht mal was
+über Xion gesagt.
+!------------------------------!
+Come posso capire tutto questo,
+quando persino i miei amici
+sono un mistero per me?
+!------------------------------!
+Todo es un misterio.
+Ni siquiera me han hablado de
+Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph, the biggest mystery is me<E2><80><95>
+the idiot who keeps doing everything
+he's told.
+!------------------------------!
+Enfin... c'est moi le plus grand de tous
+les mystères. L'idiot qui obéit toujours
+aux ordres.
+!------------------------------!
+Hmpf, und ich bin das größte
+Rätsel. Der Idiot, der immer
+tut, was man ihm sagt.
+!------------------------------!
+Forse io sono il mistero più
+grande... Uno stupido che fa
+sempre ciò che gli viene detto.
+!------------------------------!
+Mmf, yo soy el mayor misterio.
+El idiota que siempre hace todo
+lo que le dicen.
+!------------------------------!
+!******************************!

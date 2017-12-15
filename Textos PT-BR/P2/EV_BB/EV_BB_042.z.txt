@@ -1,0 +1,132 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:31
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oops.
+!------------------------------!
+Oups.
+!------------------------------!
+Ups.
+!------------------------------!
+Ops.
+!------------------------------!
+Ups.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess I had the wrong room.
+!------------------------------!
+Je me suis trompé de pièce.
+!------------------------------!
+Das war wohl das falsche Zimmer.
+!------------------------------!
+A quanto pare ho sbagliato
+stanza.
+!------------------------------!
+Creo que me he equivocado
+de habitación.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph, useless.
+Not even fit to act as a guide, are you?
+!------------------------------!
+Pff, quel bon à rien.
+Même pas capable de te repérer,
+hein ?
+!------------------------------!
+Hmpf, nutzlos.
+Du bist nicht mal als Führer
+zu gebrauchen, oder?
+!------------------------------!
+Umpf, che delusione.
+Non hai nemmeno un
+briciolo di orientamento, eh?
+!------------------------------!
+Buf, es inútil... No vales gran
+cosa como guía, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I just got a little turned around.
+The beast's room is this way.
+!------------------------------!
+Je me suis trompé, c'est tout.
+Les appartements de la bête
+sont de ce côté-ci.
+!------------------------------!
+Ich hab mich bloß etwas
+verlaufen. Das Zimmer des Biests
+ist hier entlang.
+!------------------------------!
+Mi sono solo confuso.
+La stanza della Bestia
+è da questa parte.
+!------------------------------!
+Solo me he despistado un poco.
+La habitación de la bestia es
+por aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm sure.
+Try not to embarrass yourself further.
+!------------------------------!
+Ben voyons...
+Allez, essaie de ne pas te tromper
+cette fois.
+!------------------------------!
+Sicher doch.
+Blamier dich bloß nicht 
+noch ein Mal.
+!------------------------------!
+Lo spero. Cerca di non
+coprirti ancora di ridicolo.
+!------------------------------!
+No me cabe duda. Intenta no
+ponerte más en evidencia.
+!------------------------------!
+!******************************!

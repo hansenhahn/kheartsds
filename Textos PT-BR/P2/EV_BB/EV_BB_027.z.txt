@@ -1,0 +1,310 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+2:55
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/19.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Those horrid creatures plaguing the
+castle have kept the master from
+seeing Belle for days...
+!------------------------------!
+Ces horribles créatures qui ont envahi
+le château empêchent le maître de
+voir Belle depuis trop longtemps...
+!------------------------------!
+Wegen dieser schrecklichen
+Kreaturen konnte der Herr Belle
+in letzter Zeit nicht sehen ...
+!------------------------------!
+Per colpa di quei mostri che
+hanno invaso il castello, il
+padrone non vede Belle da giorni...
+!------------------------------!
+Las horribles criaturas que plagan
+el castillo impiden que el amo
+y Bella se vean estos días.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There has to be some way to bring the
+two of them together!
+!------------------------------!
+On doit trouver un moyen de les
+réunir tous les deux !
+!------------------------------!
+Es muss einen Weg geben,
+die beiden zusammenzubringen!
+!------------------------------!
+Dev'esserci un modo
+per farli avvicinare!
+!------------------------------!
+¡Ha de haber alguna manera de
+que hagan las paces!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The clock...
+!------------------------------!
+L'horloge...
+!------------------------------!
+Die Uhr ...
+!------------------------------!
+L'orologio...
+!------------------------------!
+El reloj...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He mentioned Belle.
+!------------------------------!
+Il a parlé de Belle.
+!------------------------------!
+Sie hat Belle erwähnt.
+!------------------------------!
+Ha parlato di Belle.
+!------------------------------!
+Ha mencionado a Bella.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Remember the last time we were here?
+The candelabra was talking about the
+same thing.
+!------------------------------!
+Tu te souviens de la dernière fois
+qu'on est venus ? Le chandelier
+disait la même chose.
+!------------------------------!
+Erinnerst du dich an das letzte
+Mal? Da hat der Kerzenständer
+über dasselbe gesprochen.
+!------------------------------!
+Ricordi l'ultima volta che siamo
+stati qui? Il candelabro stava
+parlando della stessa cosa.
+!------------------------------!
+¿Recuerdas la última vez que
+vinimos? El candelabro hablaba
+de lo mismo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The servants seem awfully interested in
+making sure Belle and their master get
+along.
+!------------------------------!
+Les domestiques ont l'air de vouloir
+à tout prix que Belle et leur maître
+se réconcilient.
+!------------------------------!
+Die Diener wollen unbedingt,
+dass sich Belle und ihr Herr
+gut verstehen.
+!------------------------------!
+I servitori sembrano disposti a
+tutto pur di far riavvicinare
+Belle al loro padrone...
+!------------------------------!
+Los criados parecen desesperados
+por conseguir que su amo y Bella
+se reconcilien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You think it's strange?
+!------------------------------!
+Tu trouves ça étrange ?
+!------------------------------!
+Findest du das seltsam?
+!------------------------------!
+Che ci trovi di tanto strano?
+!------------------------------!
+¿Y te parece raro?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Only that they seem to be in such a rush
+about it.
+!------------------------------!
+Ce que je trouve étrange, c'est
+qu'ils ont l'air pressés par le
+temps !
+!------------------------------!
+Nur, dass sie es dabei so eilig
+zu haben scheinen.
+!------------------------------!
+Solo il fatto che siano
+così preoccupati.
+!------------------------------!
+Solo que parecen tener mucha
+prisa en ello.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+True...
+!------------------------------!
+C'est vrai...
+!------------------------------!
+Stimmt ...
+!------------------------------!
+È vero.
+!------------------------------!
+Es cierto...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, let's just focus on our target.
+!------------------------------!
+Allez, concentrons-nous sur
+notre cible.
+!------------------------------!
+Tja, konzentrieren wir uns
+auf unser Ziel.
+!------------------------------!
+Beh, per ora concentriamoci
+sul nostro bersaglio.
+!------------------------------!
+Bueno, centrémonos en
+nuestro objetivo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+D'accord.
+!------------------------------!
+Ja.
+!------------------------------!
+Giusto.
+!------------------------------!
+De acuerdo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We have to slip by here without being
+seen.
+!------------------------------!
+Il faut qu'on se faufile sans être vus.
+!------------------------------!
+Wir müssen hier vorbeikommen,
+ohne gesehen zu werden.
+!------------------------------!
+Dobbiamo riuscire a passare
+senza farci scoprire.
+!------------------------------!
+Tenemos que colarnos por aquí
+sin que nos vean.
+!------------------------------!
+!******************************!

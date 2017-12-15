@@ -1,0 +1,512 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How'd you find such a great place?
+!------------------------------!
+Comment as-tu découvert un endroit
+aussi magnifique ?
+!------------------------------!
+Wie hast du so einen tollen Ort
+gefunden?
+!------------------------------!
+Come hai fatto a trovare
+un posto così bello?
+!------------------------------!
+¿Cómo descubriste un
+lugar tan genial?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heeere ya go.
+!------------------------------!
+Et voilà.
+!------------------------------!
+Hieeer, bitte schön.
+!------------------------------!
+Eeecco a te!
+!------------------------------!
+Aquíi tieneees.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sea-salt ice cream.
+!------------------------------!
+C'est une glace à l'eau de mer.
+!------------------------------!
+Meersalz-Eiscreme.
+!------------------------------!
+Un gelato salmastro.
+!------------------------------!
+Helado salado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well?
+Go on, try it.
+!------------------------------!
+Vas-y, goûte.
+!------------------------------!
+Na los, probier mal.
+!------------------------------!
+Beh?
+Forza, assaggialo.
+!------------------------------!
+¿Y bien?
+Vamos, pruébalo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay...
+!------------------------------!
+D'accord...
+!------------------------------!
+Okay.
+!------------------------------!
+OK...
+!------------------------------!
+Vale.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's sweet.
+But kinda salty, too.
+!------------------------------!
+Oh, c'est sucré...
+et un peu salé à la fois.
+!------------------------------!
+Schmeckt süß.
+Aber auch ein bisschen salzig.
+!------------------------------!
+È dolce.
+Ma anche un po' salato.
+!------------------------------!
+Es dulce.
+Pero un poco salado también.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's really good, right?
+Me and Axel always meet up here for
+ice cream after work.
+!------------------------------!
+C'est vraiment bon, hein ?
+Axel et moi on se retrouve ici
+après le travail pour en manger.
+!------------------------------!
+Echt gut, was?
+Axel und ich treffen uns hier
+immer nach der Arbeit.
+!------------------------------!
+Davvero buono, eh?
+Io e Axel veniamo sempre qui a
+mangiare un gelato, dopo il lavoro.
+!------------------------------!
+Está muy bueno, ¿no?
+Axel y yo siempre quedamos
+aquí para tomar uno.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sea-salt is Axel's favorite.
+!------------------------------!
+Il adore les glaces à l'eau de mer.
+!------------------------------!
+Meersalz, Axels Lieblingssorte.
+!------------------------------!
+Il gelato salmastro è il preferito di Axel.
+!------------------------------!
+Salado, como le gusta
+a Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sounds like it's yours, too!
+!------------------------------!
+Toi aussi, on dirait !
+!------------------------------!
+Und deine wohl auch!
+!------------------------------!
+E anche il tuo, mi pare!
+!------------------------------!
+¡Y me parece que
+a ti también!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh, yeah.
+!------------------------------!
+C'est vrai.
+!------------------------------!
+Hm, ja.
+!------------------------------!
+Eh, infatti!
+!------------------------------!
+Je, sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't remember it too well, but Axel
+said he took me here my very first day
+with the Organization.
+!------------------------------!
+Je ne m'en souviens pas vraiment, mais
+Axel m'a dit qu'il m'avait emmené ici le
+jour où j'ai rejoint l'Organisation.
+!------------------------------!
+Ich kann mich zwar nicht dran erinnern,
+aber Axel sagt, er hätte mich an
+meinem ersten Tag hierher mitgenommen.
+!------------------------------!
+Non mi ricordo molto bene, ma Axel
+mi ha detto che mi ha portato qui il mio
+primo giorno all'Organizzazione.
+!------------------------------!
+No lo recuerdo bien, pero Axel
+dice que me trajo aquí en mi
+primer día en la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And then he bought me some ice cream
+again after my first mission. Said it was
+the <E2><80><9C>icing on the cake.<E2><80><9D>
+!------------------------------!
+Et après ma première mission, il m'a
+acheté une glace et m'a dit que je
+l'avais bien méritée.
+!------------------------------!
+Und nach meiner ersten Mission
+hat er mir hier wieder ein Eis gekauft.
+Er meinte, das wäre das Sahnehäubchen.
+!------------------------------!
+E poi mi ha offerto un altro gelato
+dopo la mia prima missione. Ha
+detto che era la "ricompensa".
+!------------------------------!
+Tras mi primera misión, me
+invitó a uno. Dijo que era
+"la guinda del pastel".
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A little something extra?
+!------------------------------!
+C'est un petit extra alors ?
+!------------------------------!
+Eine kleine Belohnung?
+!------------------------------!
+Qualcosina in più?
+!------------------------------!
+¿Un pequeño extra?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Exactly.
+!------------------------------!
+Exactement.
+!------------------------------!
+Genau.
+!------------------------------!
+Esatto.
+!------------------------------!
+Exacto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You guys must be close.
+!------------------------------!
+Vous devez être proches tous
+les deux.
+!------------------------------!
+Ihr seid bestimmt gut befreundet.
+!------------------------------!
+Dovete essere molto legati.
+!------------------------------!
+Debéis de estar muy unidos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel's my first friend.
+!------------------------------!
+Axel est mon ami.
+!------------------------------!
+Axel ist mein erster Freund.
+!------------------------------!
+Axel è stato il mio
+primo amico.
+!------------------------------!
+Axel es mi primer amigo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Your...friend?
+!------------------------------!
+Ton... ami ?
+!------------------------------!
+Dein ... Freund?
+!------------------------------!
+Il tuo... amico?
+!------------------------------!
+¿Tu... amigo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, do you think I could be a friend?
+!------------------------------!
+Dis, Roxas, je pourrais être votre amie
+moi aussi, tu crois ?
+!------------------------------!
+Roxas, glaubst du, ich könnte
+mit euch befreundet sein?
+!------------------------------!
+Roxas, secondo te potrei essere
+vostra amica?
+!------------------------------!
+Roxas, ¿puedo ser tu amiga?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+When Axel gets back, let's ask him.
+Then all three of us can have ice
+cream together!
+!------------------------------!
+Attendons qu'Axel revienne pour le lui
+demander. On pourra peut-être manger
+des glaces ensemble comme ça !
+!------------------------------!
+Fragen wir Axel, wenn er zurück ist.
+Dann können wir zu dritt Eis essen!
+!------------------------------!
+Lo chiederemo ad Axel, quando
+tornerà. Così potremo mangiare
+un gelato tutti e tre insieme!
+!------------------------------!
+Cuando Axel vuelva, se lo
+preguntaremos. ¡Y los tres
+podremos tomar helado juntos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay!
+!------------------------------!
+D'accord !
+!------------------------------!
+Okay!
+!------------------------------!
+OK!
+!------------------------------!
+¡Vale!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

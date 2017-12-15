@@ -1,0 +1,308 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:19
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+1:76
+!******************************!
+&.[HDR].2&
+1:76
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This cave's bigger than it looks from
+the outside... Hey, I think we lost him.
+!------------------------------!
+Cette caverne est bien plus grande
+qu'il n'y paraît. Je crois qu'on l'a
+perdu de vue.
+!------------------------------!
+Die Höhle ist größer, als sie
+von draußen aussieht ...
+Hey, wir haben ihn verloren.
+!------------------------------!
+Questa caverna è molto più grande
+di quanto sembra dall'esterno.
+Ehi, temo che l'abbiamo perso.
+!------------------------------!
+Esta cueva es más grande de lo
+que parece desde fuera. Creo que
+lo hemos perdido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, what now?
+!------------------------------!
+On fait quoi maintenant ?
+!------------------------------!
+Und was jetzt?
+!------------------------------!
+Che facciamo?
+!------------------------------!
+¿Y ahora, qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess we'll have to give up for now.
+Switch back to heart collection.
+!------------------------------!
+On va laisser tomber pour le
+moment. C'est reparti pour la
+recherche des cœurs !
+!------------------------------!
+Schätze, wir müssen aufgeben.
+Sammeln wir weiter Herzen.
+!------------------------------!
+Per ora lasciamo perdere.
+Torniamo a raccogliere cuori.
+!------------------------------!
+Supongo que tendremos que
+dejarlo por ahora. Sigamos
+buscando corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You don't want to look for him?
+!------------------------------!
+Tu ne veux pas qu'on essaie
+de le retrouver ?
+!------------------------------!
+Willst du nicht nach ihm
+suchen?
+!------------------------------!
+Non ti va di cercarlo?
+!------------------------------!
+¿No quieres buscarlo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nah. I would've liked to know what he
+was up to, but hey.
+!------------------------------!
+Ben, j'aurais bien voulu
+découvrir ce qu'il mijotait,
+mais bon...
+!------------------------------!
+Nein. Ich wüsste gerne, was
+er vorhat, aber hey.
+!------------------------------!
+No. Avrei tanto voluto scoprire
+le sue intenzioni, ma...
+!------------------------------!
+No. Me habría gustado saber qué
+tramaba. Pero, eh...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just finding out about this cave is
+enough of a feather in our cap for
+today.
+!------------------------------!
+Déjà, on a trouvé cette caverne
+et ça, c'est énorme. Et
+suffisant pour aujourd'hui.
+!------------------------------!
+Dass wir diese Höhle gefunden
+haben reicht an Glanzleistungen
+für heute.
+!------------------------------!
+La scoperta di questa caverna
+è già più che sufficiente,
+almeno per oggi.
+!------------------------------!
+Descubrir esta cueva ya es
+bastante éxito para nosotros
+por hoy.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Plus, searching a place this big would
+be a royal pain.
+!------------------------------!
+Et puis franchement, j'ai pas
+vraiment envie de fouiller
+cet endroit immense.
+!------------------------------!
+Außerdem wäre es viel zu viel
+Arbeit, so eine große Höhle
+zu untersuchen.
+!------------------------------!
+Inoltre, l'idea di perlustrare un posto
+così grande non mi attira molto.
+!------------------------------!
+Además, registrar un lugar
+como este sería un engorro
+mayúsculo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What happened to this being an
+important part of the job?
+!------------------------------!
+Je croyais que ça faisait
+partie du boulot...
+!------------------------------!
+Und was ist jetzt
+mit dem wichtigen Bestandteil
+unseres Berufs?
+!------------------------------!
+Ma non avevi detto che è una parte
+essenziale del nostro lavoro?
+!------------------------------!
+¿Pero no decías que era una
+parte importante del trabajo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like I said, flexible thinking.
+!------------------------------!
+Comme je l'ai dit, il faut
+savoir faire preuve
+d'initiative !
+!------------------------------!
+Wie ich schon sagte:
+Flexibilität.
+!------------------------------!
+Ragionamento flessibile,
+Roxas, ricordi?
+!------------------------------!
+También he dicho que hay que
+ser de ideas flexibles.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha. Oh, I see...
+!------------------------------!
+Ha ha ha. Je vois...
+!------------------------------!
+Ha, ha. Oh, ich verstehe ...
+!------------------------------!
+Ah ah. Oh, capisco...
+!------------------------------!
+Ja, ja. Ah, ya veo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, let's just get this mission over
+and done with.
+!------------------------------!
+Allez, finissons-en avec cette
+mission.
+!------------------------------!
+Hey, jetzt lass uns diese Mission
+endlich erledigen.
+!------------------------------!
+Bene, ora vediamo di concludere
+questa missione.
+!------------------------------!
+Venga, acabemos la misión
+de una vez por todas.
+!------------------------------!
+!******************************!

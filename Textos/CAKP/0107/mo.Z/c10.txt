@@ -1,0 +1,51 @@
+&.[HDR].&
+*.000004000000962203000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+OLETTE
+I'm not making it up!
+!------------------------------!
+OLETTE
+Je n'invente rien !
+!------------------------------!
+OLETTE
+Ich sage die Wahrheit!
+!------------------------------!
+OLETTE
+Non mi sto inventando tutto!
+!------------------------------!
+OLETTE
+¡Que no me lo invento!
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+OLETTE
+Whose idea was it to have the usual spot be under
+the tracks? You need earplugs in there.
+!------------------------------!
+OLETTE
+Qui a eu l'idée que le repaire soit sous
+les rails ? Ça nous casse les oreilles.
+!------------------------------!
+OLETTE
+Wer hatte die tolle Idee, den Treffpunkt
+unter die Gleise zu verlegen? Hier braucht
+man ja Ohrenschützer!
+!------------------------------!
+OLETTE
+Chi ha voluto creare il ritrovo sotto i binari?
+Là sotto servono i tappi per le orecchie.
+!------------------------------!
+OLETTE
+ ¿A quién se le ocurrió poner ese lu-
+ gar bajo las vías? Ahí nece-
+ sitas tapones para los oídos.
+!------------------------------!
+!******************************!

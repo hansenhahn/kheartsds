@@ -1,0 +1,148 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+2:52
+!******************************!
+&.[HDR].2&
+2:53
+!******************************!
+&.[HDR].2&
+2:54
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mudou de idéia?
+!------------------------------!
+Tu t'es décidé ?
+!------------------------------!
+Hast du dich entschieden?
+!------------------------------!
+Allora, hai deciso?
+!------------------------------!
+¿Ya te has hecho a la idea?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que a Keyblade me escolheu?
+Eu tenho que saber.
+!------------------------------!
+Pourquoi la Keyblade m'a-t-elle
+choisi ? Je dois le savoir.
+!------------------------------!
+Warum hat das Schlüsselschwert
+mich ausgewählt? Das muss ich
+wissen.
+!------------------------------!
+Perché il Keyblade ha
+scelto me? Devo saperlo.
+!------------------------------!
+¿Por qué me eligió a mí la llave
+espada? Tengo que saberlo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não pode trair a Ordem!
+Desperte o lado ruim deles 
+e eles te destroem!
+!------------------------------!
+Tu ne peux pas trahir l'Organisation !
+Si c'est le cas, ils te détruiront !
+!------------------------------!
+Du kannst dich nicht gegen die
+Organisation wenden. Sie werden
+dich vernichten!
+!------------------------------!
+Non puoi metterti contro
+l'Organizzazione! Loro non
+esiteranno a distruggerti!
+!------------------------------!
+¡No puedes volverte contra la
+Organización! ¡Ponte a malas con
+ellos, y te destruirán!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ninguém iria sentir minha falta.
+!------------------------------!
+Je ne manquerai à personne.
+!------------------------------!
+Niemand würde mich vermissen.
+!------------------------------!
+Nessuno sentirebbe
+la mia mancanza.
+!------------------------------!
+Nadie me echaría de menos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso não é verdade.
+!------------------------------!
+C'est faux...
+!------------------------------!
+Das stimmt nicht ...
+!------------------------------!
+Non è vero.
+!------------------------------!
+No es cierto...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu iria.
+!------------------------------!
+À moi si.
+!------------------------------!
+Ich würde dich vermissen.
+!------------------------------!
+Io la sentirei eccome.
+!------------------------------!
+Yo lo haría.
+!------------------------------!
+!******************************!

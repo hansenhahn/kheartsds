@@ -1,0 +1,34 @@
+Select a slot to save data.
+!******************************!
+Existing data in the selected slot
+will be overwritten.
+!******************************!
+Overwrite data in Slot %d?
+!******************************!
+Create new save data in Slot %d?
+!******************************!
+%d munny
+!******************************!
+Yes
+!******************************!
+No
+!******************************!
+Save complete.
+!******************************!
+:
+!******************************!
+LV %d
+!******************************!
+Unable to write data to this slot.
+Turn power OFF and reinsert the Game Card.
+!******************************!
+Saving...
+Do not turn power OFF or remove the Game Card.
+!******************************!
+The data in this slot is corrupt.
+!******************************!
+Unable to read the data in this slot.
+Turn power OFF and reinsert the Game Card.
+!******************************!
+Proceed without saving clear data?
+!******************************!

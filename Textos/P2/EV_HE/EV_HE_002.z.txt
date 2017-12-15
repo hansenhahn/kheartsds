@@ -1,0 +1,388 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right. Let's make with the
+investigating and haul it back home.
+!------------------------------!
+Bon, au boulot !
+On mène l'enquête et
+on rentre vite fait.
+!------------------------------!
+Okay. Schließen wir
+die Untersuchungen ab und
+kehren nach Hause zurück.
+!------------------------------!
+Bene, chiudiamo in fretta
+questa indagine e
+torniamocene a casa.
+!------------------------------!
+Muy bien. Investiguemos
+y volvamos a casa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What are we investigating?
+!------------------------------!
+Qu'est-ce qu'on cherche ?
+!------------------------------!
+Was untersuchen wir denn?
+!------------------------------!
+Che cosa dobbiamo scoprire?
+!------------------------------!
+¿Qué investigamos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're investigating what's to
+investigate. Maybe there's new recruits
+around.
+!------------------------------!
+Ce qu'il y a à chercher.
+On trouvera peut-être de nouvelles
+recrues dans le coin.
+!------------------------------!
+Wir untersuchen alles, was
+zu untersuchen ist. Vielleicht
+gibt's hier neue Rekruten.
+!------------------------------!
+Dobbiamo scoprire quello che
+c'è da scoprire. Forse ci sono
+nuove reclute in giro.
+!------------------------------!
+Lo que haya que investigar.
+Puede que haya nuevos
+reclutas por ahí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+New recruits? What kind of people does
+the Organization look for?
+!------------------------------!
+De nouvelles recrues ? Quel genre
+de gens recherche l'Organisation ?
+!------------------------------!
+Neue Rekruten ...? Welche Leute
+sucht die Organisation?
+!------------------------------!
+Nuove reclute? Chi sta cercando
+l'Organizzazione, di preciso?
+!------------------------------!
+¿Nuevos reclutas? ¿Qué tipo de
+gente busca la Organización?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nobodies.
+!------------------------------!
+Des Simili.
+!------------------------------!
+Niemande.
+!------------------------------!
+Nessuno.
+!------------------------------!
+Incorpóreos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean...with a capital N.
+!------------------------------!
+Des Simili ?
+!------------------------------!
+Niemand?
+Ach, du meinst mit <E2><80><9E>e<E2><80><9C> am Ende.
+!------------------------------!
+Nessuno...?
+Ah, intendi quelli con la N maiuscola.
+!------------------------------!
+¿Incorpóreos...?
+Ah, con mayúscula.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bingo. You know somebody turns into a
+Heartless if the darkness gets their
+heart, right?
+!------------------------------!
+Tu sais que les gens se changent en
+Sans-cœur si les ténèbres s'emparent
+de leur cœur, pas vrai ?
+!------------------------------!
+Bingo. Du weißt ja, dass ein Jemand
+zu einem Herzlosen wird, wenn die
+Dunkelheit sein Herz erfasst hat.
+!------------------------------!
+Esatto. Se l'oscurità entra nel
+cuore di una persona, questa
+diventa un Heartless, ricordi?
+!------------------------------!
+Bingo. Ya sabes que te vuelves
+un sincorazón si la oscuridad te
+arrebata el corazón, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, say this person's heart is strong<E2><80><95>
+real strong. Sometimes, you wind up
+with a sort of byproduct: a Nobody.
+!------------------------------!
+Mais si le cœur d'une personne est
+puissant, celle-ci ne devient pas un
+Sans-cœur, mais un Simili.
+!------------------------------!
+Sagen wir, das Herz ist stark ...
+sehr stark. Manchmal gibt es eine
+Art Nebenprodukt: einen Niemand.
+!------------------------------!
+Beh, se il cuore di questa
+persona è forte, molto forte...
+viene generato un Nessuno.
+!------------------------------!
+Si el corazón de esa persona es
+muy fuerte, puede darse una
+anomalía: un incorpóreo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Take the strongest of those<E2><80><95>the real
+cream of the crop<E2><80><95>stick 'em in a room,
+and you've got us: the Organization.
+!------------------------------!
+Et si tu prends les Simili les plus forts
+et que tu les réunis tous, tu obtiens la
+crème de la crème. Nous, l'Organisation.
+!------------------------------!
+Nimm die stärksten von ihnen, die
+allerbesten, steck sie in einen Raum
+und du hast uns: die Organisation.
+!------------------------------!
+Metti i Nessuno più potenti tutti
+in una stanza... e il risultato
+siamo noi: l'Organizzazione.
+!------------------------------!
+Coge a los incorpóreos más fuertes,
+la flor y nata, reúnelos
+y tendrás a la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I didn't know everybody was such an
+elite...
+!------------------------------!
+Je ne savais pas qu'on faisait tous
+partie d'une élite...
+!------------------------------!
+Ich wusste gar nicht,
+dass alle hier Elite sind ...
+!------------------------------!
+Non sapevo che fossimo
+tutti così "speciali"...
+!------------------------------!
+No sabía que todo el mundo
+fuera tan elitista...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh... Elite?
+As if.
+!------------------------------!
+Ha, ha... une élite ?
+Mais non.
+!------------------------------!
+Ha, ha ... Elite?
+Von wegen.
+!------------------------------!
+Eh eh... "Speciali"?
+Macché.
+!------------------------------!
+Je, je... ¿Elitista?
+Por así decirlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You and Xion are the real exceptional
+ones.
+!------------------------------!
+Xion et toi êtes les membres les
+plus exceptionnels.
+!------------------------------!
+Du und Xion, ihr seid die
+wirklich Außergewöhnlichen.
+!------------------------------!
+Solo tu e Xion lo siete
+veramente.
+!------------------------------!
+Tú y Xion sois los
+verdaderamente excepcionales.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? Why?
+!------------------------------!
+Ah bon ? Pourquoi ?
+!------------------------------!
+Was? Warum?
+!------------------------------!
+Che cosa? Perché?
+!------------------------------!
+¿Qué? ¿Por qué?
+!------------------------------!
+!******************************!

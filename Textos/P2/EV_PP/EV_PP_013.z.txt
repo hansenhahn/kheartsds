@@ -1,0 +1,415 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+1:13
+!******************************!
+&.[HDR].2&
+1:13
+!******************************!
+&.[HDR].2&
+1:11
+!******************************!
+&.[HDR].2&
+1:13
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[HDR].2&
+mi/ob/88.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There's that ship...
+!------------------------------!
+C'est le navire...
+!------------------------------!
+Da ist das Schiff ...
+!------------------------------!
+Ecco la nave...
+!------------------------------!
+Ahí está ese barco...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Caught you!
+!------------------------------!
+Je t'ai eue !
+!------------------------------!
+Erwischt!
+!------------------------------!
+Presa!
+!------------------------------!
+¡Te pillé!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And there's those guys.
+!------------------------------!
+Et voilà les types de l'autre jour.
+!------------------------------!
+Und da sind diese Kerle.
+!------------------------------!
+Ed ecco anche quei tizi.
+!------------------------------!
+Y ahí están esos tipos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I've finally clipped your pestering little
+wings, eh, Tinker Bell?
+!------------------------------!
+J'ai enfin réussi à te mettre le
+grappin dessus, hein, Clochette ?
+!------------------------------!
+Hab ich dir endlich die Flügel
+gestutzt, was, Naseweis?
+!------------------------------!
+Finalmente ho tarpato le tue piccole
+fastidiose ali, eh Trilli?
+!------------------------------!
+Al fin te he cortado tus
+molestas alitas,
+¿eh, Campanilla?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Serves you right for buzzing about in
+me business!
+!------------------------------!
+Ça t'apprendra à te mêler de mes
+affaires !
+!------------------------------!
+Das ist dafür, dass du dich
+ständig in meine Angelegenheiten
+einmischst!
+!------------------------------!
+Così impari a ficcare il naso
+in affari che non ti riguardano!
+!------------------------------!
+Te lo tienes merecido por
+entrometerte en mis
+asuntos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Planning to interfere with me treasure
+hunt, were you? Well, change of plans!
+!------------------------------!
+Tu comptais faire tomber ma chasse
+au trésor à l'eau, pas vrai ? Eh bien
+ce ne sera pas pour aujourd'hui !
+!------------------------------!
+Du wolltest wohl meine Schatzjagd
+sabotieren! Tja, Planänderung!
+!------------------------------!
+Volevi ostacolare la mia caccia
+al tesoro, eh? Beh, non oggi!
+!------------------------------!
+¿Querías desbaratar mi caza del
+tesoro, eh? ¡Pues hoy no es tu
+día!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Smee! We're returning to the ship.
+!------------------------------!
+M. Mouche ! On retourne sur le navire.
+!------------------------------!
+Smee! Wir kehren zum Schiff zurück.
+!------------------------------!
+Spugna! Torniamo sulla nave.
+!------------------------------!
+¡Smee! Volvemos al barco.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm right behind ya, Captain!
+!------------------------------!
+Oui, Capitaine !
+!------------------------------!
+Bin direkt hinter Ihnen, Käpt'n!
+!------------------------------!
+Vi seguo, Capitano!
+!------------------------------!
+¡Estoy justo detrás de usted,
+capitán!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There there, now, Miss Bell. Be a good
+little pixie for us, won't you?
+!------------------------------!
+Doucement, Clochette.
+Sois une gentille fille, d'accord ?
+!------------------------------!
+Sieh an, Fräulein Naseweis.
+Jetzt sei eine gute kleine
+Fee, okay?
+!------------------------------!
+Buona, signorina Trilli. Cerca di
+essere una fatina buona, eh?
+!------------------------------!
+Bueno, pequeña Campanilla...
+Será mejor que te portes bien,
+¿entendido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tinker Bell?
+!------------------------------!
+Clochette ?
+!------------------------------!
+Naseweis?
+!------------------------------!
+Trilli?
+!------------------------------!
+¿Campanilla?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is that her name?
+They caught her!?
+!------------------------------!
+C'est comme ça qu'elle s'appelle ?
+Ils l'ont attrapée ?
+!------------------------------!
+Heißt sie so?
+Sie haben sie erwischt?!
+!------------------------------!
+È il suo nome?
+L'hanno catturata?!
+!------------------------------!
+¿Ese es su nombre?
+¿La han cogido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I have to help her!
+!------------------------------!
+Je dois l'aider !
+!------------------------------!
+Ich muss ihr helfen!
+!------------------------------!
+Devo aiutarla!
+!------------------------------!
+¡Tengo que ayudarla!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...she doesn't really have anything
+to do with the mission.
+!------------------------------!
+Mais... elle n'a rien à voir avec
+la mission.
+!------------------------------!
+Aber ... sie hat eigentlich nichts
+mit der Mission zu tun.
+!------------------------------!
+Anche se... non c'entra
+nulla con la missione.
+!------------------------------!
+Pero... realmente no tiene nada
+que ver con la misión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So what. I'm going.
+!------------------------------!
+Et alors ? Tant pis, j'y vais !
+!------------------------------!
+Na und? Ich gehe.
+!------------------------------!
+Non importa. Devo intervenire.
+!------------------------------!
+¿Y qué? Voy a ayudarla.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She helped me fly before. 
+!------------------------------!
+C'est grâce à elle que j'ai pu
+voler après tout.
+!------------------------------!
+Sie hat mir immerhin geholfen
+zu fliegen.
+!------------------------------!
+Lei mi ha aiutato a volare.
+!------------------------------!
+Antes ella me ayudó a volar. 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And all I did was keep blowing her off.
+!------------------------------!
+Et moi, je n'ai rien fait pour elle.
+!------------------------------!
+Und ich hab sie verjagt.
+!------------------------------!
+Mentre io l'ho sempre delusa.
+!------------------------------!
+Y yo no hice más que apartarla
+como a una mosca.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can worry about today's mission once
+I know she's safe.
+!------------------------------!
+Je m'occuperai de la mission une
+fois qu'elle sera hors de danger.
+!------------------------------!
+Ich kann mich um die Mission
+kümmern, wenn sie in Sicherheit ist.
+!------------------------------!
+Mi occuperò della missione odierna
+solo dopo aver saputo che lei è salva.
+!------------------------------!
+Ya me ocuparé de la misión de
+hoy cuando sepa que está a salvo.
+!------------------------------!
+!******************************!

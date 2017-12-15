@@ -1,0 +1,250 @@
+&.[HDR].&
+*.000004000000641802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><83><8E><E3><83><BC><E3><83><90><E3><83><87><E3><82><A3><E3><81><A0><E3><81><A3><E3><81><A6><E3><81><A1><E3><82><83><E3><82><93><E3><81><A8><E4><BC><91><E3><81><BE><E3><81><AA><E3><81><84><E3><81><A8>
+<E3><81><84><E3><82><8D><E3><81><84><E3><82><8D><E5><9B><9E><E5><BE><A9><E3><81><97><E3><81><AD><E3><83><BC><E3><82><88><E3><81><AA><EF><BC><81>
+!------------------------------!
+DEMYX
+Hey, even us Nobodies need our rest, right?
+Exhaustion kills!
+!------------------------------!
+DEMYX
+Hé, même les Simili comme nous ont besoin
+de repos, pas vrai ?
+!------------------------------!
+DEMYX
+Auch wir Niemande brauchen mal 'ne
+Pause. Zu viel Arbeit ist tödlich!
+!------------------------------!
+DEMYX
+Ehi, anche noi Nessuno dobbiamo riposare,
+no? Lavorare troppo fa male!
+!------------------------------!
+DEMYX
+Los nadies también tenemos
+derecho a descansar, ¿no?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000641802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><82><88><E3><81><86><E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><EF><BC><81>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E4><BF><BA><E3><81><8C><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AE><E8><AA><BF><E6><9F><BB><E8><83><BD><E5><8A><9B><E3><82><92><E3><83><81><E3><82><A7><E3><83><83><E3><82><AF><E3><81><97><E3><81><A6><E3><82><84><E3><82><8B><E3><82><88>
+!------------------------------!
+DEMYX
+Hey, Roxas! Pop quiz, hotshot<E2><80><95>let's see how you
+are at recon.
+!------------------------------!
+DEMYX
+Hé, Roxas ! Je voudrais voir comment tu t'en sors
+avec la reconnaissance.
+!------------------------------!
+DEMYX
+Hey, Roxas! Zwischenfrage, du Ass...
+Wie gut kannst du aufklären?
+!------------------------------!
+DEMYX
+Ehi, Roxas! Compito a
+sorpresa sulla ricognizione!
+!------------------------------!
+DEMYX
+¡Eh, Roxas! Examen sorpresa:
+a ver qué tal se te da explorar.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>52<E3><81><A7><E9><9A><A0><E3><82><8C><E3><81><A6><E3><82><8B><E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92>
+<E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><99><E3><82><93><E3><81><A0>
+!------------------------------!
+Uncover all the Heartless in Mission 52.
+They're hidden well!
+!------------------------------!
+Trouve tous les Sans-cœur de la mission 52.
+Ils sont bien cachés !
+!------------------------------!
+Finde alle Herzlosen in Mission 52.
+Sie sind gut versteckt!
+!------------------------------!
+Trova tutti gli Heartless
+della Missione 52.
+Sono nascosti bene!
+!------------------------------!
+Descubre a todos los sincorazón
+de la misión 52, si los encuentras.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><A7><E6><80><AA><E3><81><97><E3><81><84><E5><A0><B4><E6><89><80><E3><82><92><E8><AA><BF><E6><9F><BB><E3><81><97><E3><81><A6>
+<E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><9F><E3><82><89><E5><90><88><E6><A0><BC><E3><81><A0>
+!------------------------------!
+Just make sure to examine any spot that looks
+suspicious.
+!------------------------------!
+Il te suffit d'inspecter chaque endroit suspect.
+!------------------------------!
+Untersuche alle verdächtigen Punkte.
+!------------------------------!
+Assicurati di controllare ogni
+luogo che sembra sospetto.
+!------------------------------!
+Sólo has de investigar cualquier
+sitio que parezca sospechoso.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><93><E3><81><98><E3><82><83><E3><80><81><E7><B5><82><E3><82><8F><E3><81><A3><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><82><8D><E3><82><88>
+<EF><BC><88><E3><81><9D><E3><81><AE><E5><88><86><E3><80><81><E4><BF><BA><E3><81><AF><E3><83><A9><E3><82><AF><E3><81><A7><E3><81><8D><E3><82><8B><E3><81><AA><EF><BC><81><EF><BC><89>
+!------------------------------!
+Let me know when you're done so I can get Saïx
+off my case alr<E2><80><95>er, so I can reward you!
+!------------------------------!
+Préviens-moi quand tu auras fini pour que Saïx
+me lâche la... euh, te récompense !
+!------------------------------!
+Sag Bescheid, wenn du fertig bist,
+dann hab ich Saïx vom Ha...
+äh, dann kann ich dich belohnen!
+!------------------------------!
+Avvisami quando hai finito,
+così potrò levarmi Saïx dalle...
+Ehm, così potrò ricompensarti!
+!------------------------------!
+Avísame cuando termines para
+que Saïx me deje tranq... digo...
+para encargarte otra misión.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000631801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><8A><E3><81><A4><E3><81><8B><E3><82><8C><EF><BC><81>
+<E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><9F><E3><81><BF><E3><81><A6><E3><81><87><E3><81><A0><E3><81><AA>
+!------------------------------!
+DEMYX
+Wow, nice going! You found 'em all!
+!------------------------------!
+DEMYX
+Ah, bien joué ! Tu les as tous trouvés !
+!------------------------------!
+DEMYX
+Wow, sehr gut! Du hast sie alle gefunden!
+!------------------------------!
+DEMYX
+Wow, ben fatto! Li hai trovati tutti!
+!------------------------------!
+DEMYX
+¡Muy bien hecho! ¡Los has
+pillado a todos!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><93><E3><82><8C><E3><82><84><E3><82><8B><E3><82><88><EF><BC><81>
+<EF><BC><88><E3><82><BF><E3><83><80><E5><83><8D><E3><81><8D><E3><81><95><E3><81><9B><E3><82><8B><E3><81><AE><E3><82><82><E6><82><AA><E3><81><84><E3><81><97><E3><81><AA><E2><80><A6><EF><BC><89>
+!------------------------------!
+Here, take this, man.
+(Gotta earn back some karma after pushing my work
+on you.)
+!------------------------------!
+Tiens, prends ça. (Faut bien se racheter...)
+!------------------------------!
+Hier, für dich, Mann.
+(Brauche etwas Karma, nachdem ich
+ dir meine Arbeit aufgebrummt habe.)
+!------------------------------!
+Accetta questo, amico.
+(Altrimenti mi sentirei
+TROPPO in colpa.)
+!------------------------------!
+Toma esto, tío (no quiero
+sentirme culpable por haberme
+escaqueado).
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><83><80><E3><83><BC><E3><82><AF><E3><82><A4><E3><83><B3><E3><82><B4><E3><83><83><E3><83><88><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Dark Ingot
+!------------------------------!
+Lingot noir obtenu !
+!------------------------------!
+Erhalten: Dunkler Barren
+!------------------------------!
+Ottieni: Lingotto oscuro
+!------------------------------!
+Obtenido: lingote oscuro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>52<E3><81><A7>
+<E9><9A><A0><E3><82><8C><E3><81><A6><E3><82><8B><E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92>
+!------------------------------!
+DEMYX
+Did you manage to find all the Heartless in
+Mission 52?
+!------------------------------!
+DEMYX
+As-tu réussi à trouver tous les Sans-cœur de la
+mission 52 ?
+!------------------------------!
+DEMYX
+Hast du alle Herzlosen
+in Mission 52 gefunden?
+!------------------------------!
+DEMYX
+Sei riuscito a trovare tutti gli Heartless
+della Missione 52?
+!------------------------------!
+DEMYX
+¿Has encontrado ya a los
+sincorazón de la misión 52?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><A7><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><99><E3><81><A3><E3><81><A6><E3><82><84><E3><81><A4>
+<E3><81><82><E3><82><8C><E3><80><81><E7><B5><82><E3><82><8F><E3><81><A3><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+Looks like you haven't uncovered 'em all.
+Be sure to examine any suspicious spots!
+!------------------------------!
+On dirait que non. Tu dois inspecter les moindres
+recoins, OK ?
+!------------------------------!
+Du hast noch nicht alle gefunden.
+Untersuche alle verdächtigen Punkte.
+!------------------------------!
+Sembra tu non li abbia trovati tutti...
+Assicurati di controllare ogni luogo sospetto.
+!------------------------------!
+Sólo has de investigar cualquier
+sitio que parezca sospechoso.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E2><80><A6><E3><81><BE><E3><81><A0><E5><85><A8><E9><83><A8><E8><AA><BF><E3><81><B9><E3><82><89><E3><82><8C><E3><81><A6><E3><81><AD><E3><81><87><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E7><B5><82><E3><82><8F><E3><81><A3><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><82><8D><E3><82><88>
+<EF><BC><88><E3><81><9D><E3><81><AE><E5><88><86><E3><80><81><E4><BF><BA><E3><81><AF><E3><83><A9><E3><82><AF><E3><81><A7><E3><81><8D><E3><82><8B><E3><81><AA><EF><BC><81><EF><BC><89>
+!------------------------------!
+Let me know when you're done!
+(I'll be riiight here, buddy.)
+!------------------------------!
+Préviens-moi quand tu les auras tous trouvés !
+(Je ne bouge pas d'ici, oui, oui.)
+!------------------------------!
+Sag mir Bescheid, wenn du  fertig bist!
+(Ich warte genau hier, Kumpel.)
+!------------------------------!
+Dimmi quando hai finito!
+(Tanto io sono sempre qui, amico.)
+!------------------------------!
+Aún no has terminado.
+Avísame cuando los tengas
+a todos (aquí estaré, colega).
+!------------------------------!
+!******************************!

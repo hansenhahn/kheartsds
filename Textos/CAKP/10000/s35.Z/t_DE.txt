@@ -1,0 +1,289 @@
+&.[HDR].&
+*.000004000000521802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><BB><E5><8B><99><E5><85><88><E3><81><A7><E5><BC><B7><E3><81><84><E3><83><A4><E3><83><84><E3><81><A8><E3><81><AF><E4><BC><9A><E3><81><84><E3><81><9F><E3><81><8F><E3><81><AD><E3><81><87><E3><81><AA><E2><80><A6>
+!------------------------------!
+DEMYX
+I just hope I don't bump into any nasties out there...
+!------------------------------!
+DEMYX
+J'espère que je ne tomberai pas sur des ennemis
+là-bas...
+!------------------------------!
+DEMYX
+Hoffentlich triffst du dort draußen
+nicht auf irgendwelche Biester ...
+!------------------------------!
+DEMYX
+Spero di non fare brutti incontri là fuori...
+!------------------------------!
+DEMYX
+Espero no toparme con ningún
+bicho desagradable ahí fuera...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000521802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><8A><E3><81><84><E3><80><81><E3><82><B7><E3><82><AA><E3><83><B3><E3><81><AE><E8><A9><B1><E8><81><9E><E3><81><84><E3><81><9F><E3><81><8B><EF><BC><9F>
+<E6><98><A8><E6><97><A5><E7><9B><B8><E5><BD><93><E3><83><A4><E3><83><90><E3><82><A4><E3><81><AE><E3><81><A8><E6><88><A6><E3><81><A3><E3><81><9F><E3><82><89><E3><81><97><E3><81><84><E3><81><9C>
+!------------------------------!
+DEMYX
+Hey, did you hear about Xion?
+Word is, she fought one tough customer.
+!------------------------------!
+DEMYX
+Hé, t'es au courant pour Xion ? Il paraît qu'elle a
+affronté un vrai costaud.
+!------------------------------!
+DEMYX
+Hey, hast du von Xion gehört? Sie soll
+gegen 'nen echt zähen Kerl gekämpft haben.
+!------------------------------!
+DEMYX
+Ehi, hai sentito di Xion? Pare
+abbia affrontato un vero mostro.
+!------------------------------!
+DEMYX
+¿Has oído lo de Xion? Dicen que
+lidió con un cliente muy duro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><84><E3><81><8D><E3><81><AA><E3><82><8A><E3><81><9D><E3><82><93><E3><81><AA><E3><81><AE><E3><81><A8><E3><81><B6><E3><81><A4><E3><81><8B><E3><81><A3><E3><81><9F><E3><82><89><E3><83><A4><E3><83><99><E3><83><BC><E3><82><88><E3><81><AA>
+<E4><BA><8B><E5><89><8D><E8><AA><BF><E6><9F><BB><E3><81><AF><E3><81><A1><E3><82><83><E3><82><93><E3><81><A8><E3><82><84><E3><81><A3><E3><81><A8><E3><81><8B><E3><81><AD><E3><81><87><E3><81><A8><E3><81><AA>
+<E3><81><A7><E3><82><82><E3><80><81><E8><AA><BF><E6><9F><BB><E3><81><A3><E3><81><A6><E3><82><81><E3><82><93><E3><81><A9><E3><81><8F><E3><81><95><E3><81><84><E3><82><93><E3><81><A0><E3><82><88><E3><81><AA><E2><80><A6>
+!------------------------------!
+Ugh, the thought of bumping into a guy like that...
+See why recon's important? Not that you'll catch
+me enjoying it.
+!------------------------------!
+Ah, rien que l'idée de tomber sur un adversaire
+pareil... Tu comprends que la reconnaissance est
+importante ? C'est pas mon fort, mais bon..
+!------------------------------!
+Puh, die Vorstellung auf so einen Kerl
+zu treffen ...  Deswegen ist Aufklärung
+so wichtig. Nicht, dass ich scharf drauf bin.
+!------------------------------!
+Uh, mi viene la pelle d'oca al solo pensiero.
+Capisci perché la ricognizione è importante?
+Non che mi piaccia, ovvio...
+!------------------------------!
+Toparse con alguien así...
+¿Ves por qué es importante
+explorar? Aunque no me guste...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><81><86><E3><81><A0><EF><BC><81><E3><80><80><E4><BF><BA><E3><81><8C><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AE><E8><AA><BF><E6><9F><BB><E3><81><AE><E8><85><95><E3><82><92><E3><81><BF><E3><81><A6><E3><82><84><E3><82><8B><E3><82><88>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>45<E3><81><A7><E9><9A><A0><E3><82><8C><E3><81><A6><E3><82><8B><E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92>
+<E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><99><E3><82><93><E3><81><A0>
+!------------------------------!
+Hey, how about you show me how it's done?
+Go scout out Mission 45 and find all the hidden
+Heartless.
+!------------------------------!
+Hé, tu voudrais pas me montrer comment faire ?
+Pars en éclaireur dans la mission 45 et trouve
+tous les Sans-cœur cachés.
+!------------------------------!
+Hey, zeig du mir, wie's geht!
+Erkunde Mission 45 und finde
+alle versteckten Herzlosen.
+!------------------------------!
+Ehi, perché non mi mostri come
+si fa? Trova tutti gli Heartless
+nascosti della Missione 45!
+!------------------------------!
+¿Y si me enseñas cómo se hace?
+Encuentra a los sincorazón que se
+esconden en la misión 45.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><A7><E6><80><AA><E3><81><97><E3><81><84><E5><A0><B4><E6><89><80><E3><82><92><E8><AA><BF><E6><9F><BB><E3><81><97><E3><81><A6>
+<E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><9F><E3><82><89><E3><81><84><E3><81><84><E3><82><82><E3><81><AE><E3><82><84><E3><82><8B><E3><82><88><EF><BC><81>
+<EF><BC><88><E3><81><9D><E3><81><AE><E6><96><B9><E3><81><8C><E4><BF><BA><E3><81><AF><E3><82><B5><E3><83><9C><E3><82><8C><E3><81><A6><E3><83><A9><E3><82><AF><E3><81><A0><E3><81><97><EF><BC><89>
+!------------------------------!
+Examine any spot that looks fishy.
+Track them all down<E2><80><95>I'll make it up to you!
+(And get to kick back in the meantime.)
+!------------------------------!
+Si tu vois quelque chose de louche, inspecte-le !
+Je te revaudrai ça si tu les trouves tous (et je
+pourrai me reposer pendant ce temps-là).
+!------------------------------!
+Wenn dir was auffällt, sieh's dir an!
+Ich werde dich entschädigen. (Und kann
+in der Zwischenzeit zurückschlagen.)
+!------------------------------!
+Controlla ogni luogo che sembra sospetto.
+Trovali tutti... Saprò sdebitarmi!
+(E intanto mi riposerò un po'...)
+!------------------------------!
+Si ves algo raro, examínalo.
+Te compensaré (y mientras
+tanto podré relajarme un rato).
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000511801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><8A><E3><81><A3><EF><BC><81>
+<E3><81><A1><E3><82><83><E3><82><93><E3><81><A8><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><9F><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><AA>
+!------------------------------!
+DEMYX
+Ooh! You found 'em all!
+!------------------------------!
+DEMYX
+Oh ! Tu les as tous trouvés !
+!------------------------------!
+DEMYX
+Ohh! Du hast alle gefunden!
+!------------------------------!
+DEMYX
+Oh! Li hai trovati tutti!
+!------------------------------!
+DEMYX
+¡Vaya! ¡Los has encontrado
+a todos!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E6><80><AA><E3><81><97><E3><81><84><E5><A0><B4><E6><89><80><E3><82><92><E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><AE><E3><81><AF><E4><BB><BB><E5><8B><99><E3><81><AE><E5><9F><BA><E6><9C><AC><E3><81><A0>
+<E7><89><87><E3><81><A3><E7><AB><AF><E3><81><8B><E3><82><89><E8><AA><BF><E3><81><B9><E3><82><8D><E3><82><88><EF><BC><81>
+!------------------------------!
+Investigating suspicious spots is the first lesson in
+Recon 101!
+!------------------------------!
+Inspecter les endroits suspects est la première
+leçon dans le petit manuel du bon éclaireur !
+!------------------------------!
+Verdächtige Orte zu untersuchen
+ist die erste Lektion bei
+Aufklärung 101!
+!------------------------------!
+Perlustrare i luoghi sospetti
+è la regola numero uno di
+ogni buon ricognitore!
+!------------------------------!
+¡Investigar sitios sospechosos
+es la primera lección que
+aprende todo explorador!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><88><E3><81><9D><E3><81><86><E3><81><99><E3><82><8C><E3><81><B0><E4><BF><BA><E3><81><8C><E8><AA><BF><E3><81><B9><E3><81><AA><E3><81><8F><E3><81><A6><E3><81><99><E3><82><80><E3><81><97><E3><81><AA><EF><BC><89>
+!------------------------------!
+(Getting somebody else to do it for you is lesson
+ number two.)
+!------------------------------!
+(Et la deuxième leçon : envoyer quelqu'un à sa
+ place...)
+!------------------------------!
+(Dafür zu sorgen, dass es jemand
+ anders für dich macht, ist Lektion
+ Nummer zwei.)
+!------------------------------!
+(E trovare qualcuno che lo
+faccia al posto tuo è la
+regola numero due.)
+!------------------------------!
+(Conseguir que otro lo haga
+por ti es la segunda lección).
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E5><87><8D><E3><81><A6><E3><81><A4><E3><81><8F><E9><AD><94><E7><9F><B3><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Frost Gem
+!------------------------------!
+Gemme glaciale obtenue !
+!------------------------------!
+Erhalten: Cyanitstein
+!------------------------------!
+Ottieni: Gemma gelante
+!------------------------------!
+Obtenida: piedra fría.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>45<E3><81><AE>
+<E9><9A><A0><E3><82><8C><E3><81><A6><E3><82><8B><E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92>
+!------------------------------!
+DEMYX
+So, how about those hidden Heartless in Mission 45?
+!------------------------------!
+DEMYX
+Alors, as-tu trouvé tous les Sans-cœur cachés
+dans la mission 45 ?
+!------------------------------!
+DEMYX
+Und? Was ist mit den versteckten
+Herzlosen in Mission 45?
+!------------------------------!
+DEMYX
+Allora, come va con gli Heartless
+nascosti della Missione 45?
+!------------------------------!
+DEMYX
+¿Qué hay de esos sincorazón
+escondidos de la misión 45?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><A7><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><99><E3><81><A3><E3><81><A6><E3><82><84><E3><81><A4>
+<E3><81><82><E3><82><8C><E3><80><81><E7><B5><82><E3><82><8F><E3><81><A3><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+You find 'em all yet?
+Just examine any spot that looks fishy.
+It's that simple!
+!------------------------------!
+T'as pas encore fini ? Il te suffit juste d'inspecter
+les endroits louches ! C'est simple comme bonjour !
+!------------------------------!
+Schon gefunden? Du musst dir
+nur verdächtige Orte genauer
+ansehen!
+!------------------------------!
+Li hai trovati? Non devi
+fare altro che controllare i
+luoghi che sembrano sospetti!
+!------------------------------!
+¿Los has encontrado ya?
+¡Investiga los rincones
+sospechosos! ¡Así de fácil!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><9F><E3><82><89>
+<E3><81><84><E3><81><84><E3><82><82><E3><81><AE><E3><82><84><E3><82><8B><E3><82><88><EF><BC><81>
+<EF><BC><88><E3><81><9D><E3><81><AE><E6><96><B9><E3><81><8C><E4><BF><BA><E3><81><AF><E3><82><B5><E3><83><9C><E3><82><8C><E3><81><A6><E3><83><A9><E3><82><AF><E3><81><A0><E3><81><97><EF><BC><89>
+!------------------------------!
+Find 'em all, and I'll give you something sweet, man.
+(Anything to avoid the work...)
+!------------------------------!
+Je te donnerai quelque chose si tu les trouves tous.
+(Quoi que ce soit pour éviter d'avoir à travailler...)
+!------------------------------!
+Wenn du sie alle findest,
+gibt's was Süßes, Mann.
+(Bloß nicht arbeiten ...)
+!------------------------------!
+Trovali tutti e ti darò
+una cosa fantastica.
+(Tutto per evitare la fatica...)
+!------------------------------!
+Si los encuentras todos, te
+daré algo muy chulo, tío.
+(Con tal de escaquearme...)
+!------------------------------!
+!******************************!

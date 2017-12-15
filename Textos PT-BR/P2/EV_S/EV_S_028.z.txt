@@ -1,0 +1,421 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ob/36.z
+!******************************!
+&.[HDR].2&
+mi/ob/59.z
+!******************************!
+&.[HDR].2&
+mi/ob/38.z
+!******************************!
+&.[HDR].2&
+mi/ob/38.z
+!******************************!
+&.[HDR].2&
+mi/ob/3B.z
+!******************************!
+&.[HDR].2&
+mi/ob/3B.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+world_root
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, para onde os Heartless 
+vão quando são destruídos?
+!------------------------------!
+Dis, où vont les Sans-cœur quand
+ils sont détruits ?
+!------------------------------!
+Hey, wo gehen Herzlose hin, wenn
+sie besiegt wurden?
+!------------------------------!
+Ehi, che fine fanno gli Heartless
+quando vengono distrutti?
+!------------------------------!
+Eh, ¿adónde van los sincorazón
+cuando los destruimos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pra lugar algum. Eles já eram.
+Só o coração que tinham sobram.
+!------------------------------!
+Nulle part. Ils disparaissent pour
+de bon et seul leur cœur reste.
+!------------------------------!
+Sie gehen nirgendwo hin.
+Sie sind einfach weg. Nur ihre
+Herzen bleiben übrig.
+!------------------------------!
+Non vanno da nessuna parte.
+Spariscono e basta.
+Resta solo il loro cuore.
+!------------------------------!
+No van a ninguna parte.
+Desaparecen. Solo quedan sus
+corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas os corações vão pra algum lugar:
+Kingdom Hearts.
+!------------------------------!
+Cependant, les cœurs eux vont
+quelque part : à Kingdom Hearts.
+!------------------------------!
+Aber die Herzen gehen nach
+Kingdom Hearts.
+!------------------------------!
+Poi i cuori confluiscono tutti
+nei Kingdom Hearts.
+!------------------------------!
+Pero los corazones sí que van
+a algún sitio:
+a Kingdom Hearts.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então e se uma pessoa sem um coração é
+destruída, tipo um Nobody como eu ou você?
+Algum parte de nós ainda sobra?
+!------------------------------!
+Alors si quelqu'un qui n'a pas de
+cœur comme toi et moi est détruit,
+en reste-t-il quelque chose ?
+!------------------------------!
+Was passiert, wenn jemand ohne
+Herz, wie wir, besiegt wird?
+Bleibt von uns etwas zurück?
+!------------------------------!
+E se qualcuno privo di cuore, un
+Nessuno come noi due, viene eliminato?
+Resta qualche parte di noi?
+!------------------------------!
+¿Y si se destruye a alguien que
+no tiene corazón, como tú o yo?
+¿Queda algo de nosotros?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Até parece. Nem era para a gente <E2><80><9C>ser<E2><80><9D>,
+em primeiro lugar. O que tem para ser
+deixado pra trás?
+!------------------------------!
+Non. Nous ne sommes même pas censés
+exister, alors que pourrions-nous
+laisser derrière nous ?
+!------------------------------!
+Von wegen. Uns dürfte es
+eigentlich gar nicht geben.
+Was soll da übrig bleiben?
+!------------------------------!
+Macché. Noi non dovremmo
+neanche esistere. Cosa
+potrebbe mai restare?
+!------------------------------!
+Nada. Para empezar, ni siquiera
+se supone que podemos "ser".
+¿Qué ha de quedar de nosotros?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então quem estiver no Castelo Oblívio...
+!------------------------------!
+Donc la victime au Manoir Oblivion...
+!------------------------------!
+Dann sind die, die zum Schloss
+des Entfallens geschickt wurden ...
+!------------------------------!
+Allora chiunque fosse al Castello
+dell'Oblio...
+!------------------------------!
+¿Y la gente que hemos enviado
+al Castillo del Olvido...?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Se foi.
+!------------------------------!
+C'est de l'histoire ancienne.
+!------------------------------!
+Geschichte.
+!------------------------------!
+Spariti.
+!------------------------------!
+Se han ido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E nunca mais irei vê-los de novo?
+!------------------------------!
+Je ne reverrai plus jamais cette
+personne alors ?
+!------------------------------!
+Und ich werde sie nie wiedersehen?
+!------------------------------!
+E non li rivedremo mai più?
+!------------------------------!
+¿Y nunca los volveré a ver?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não.
+!------------------------------!
+Non.
+!------------------------------!
+Nein.
+!------------------------------!
+Mai più.
+!------------------------------!
+No.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+Oh...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você vem?
+!------------------------------!
+Tu viens ?
+!------------------------------!
+Kommst du?
+!------------------------------!
+Vieni?
+!------------------------------!
+¿Vienes?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+Ah... sim.
+!------------------------------!
+Hein ? Oui, oui...
+!------------------------------!
+Hm? Oh, ja ...
+!------------------------------!
+Uh?
+Oh... sì.
+!------------------------------!
+¿Eh? Ah, sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nngh?!
+O que tá... havendo...
+!------------------------------!
+Argh !
+Que... qu'est-ce qu'il m'arrive ?
+!------------------------------!
+Nngh!?
+Was geht ... hier vor ...?!
+!------------------------------!
+Nngh?!?
+Cosa sta... succedendo...
+!------------------------------!
+¡Agh!
+¿Qué... sucede...?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!

@@ -1,0 +1,34 @@
+Escolha onde salvar.
+!******************************!
+Dados existentes no espaço
+escolhido serão sobrescritos.
+!******************************!
+Sobrescrever dados no Espaço %d?
+!******************************!
+Criar novo jogo no Espaço %d?
+!******************************!
+%d munny
+!******************************!
+Sim
+!******************************!
+Não
+!******************************!
+Gravação completada.
+!******************************!
+:
+!******************************!
+NV %d
+!******************************!
+Não é possível escrever os dados neste espaço.
+Desligue o DS e reinsira o Cartucho.
+!******************************!
+Gravando...
+Não desligue o DS ou retire o Cartucho.
+!******************************!
+Os dados neste espaço estão corrompidos.
+!******************************!
+Não é possível ler os dados neste espaço.
+Desligue o DS e reinsira o Cartucho.
+!******************************!
+Avançar sem gravar dados?
+!******************************!

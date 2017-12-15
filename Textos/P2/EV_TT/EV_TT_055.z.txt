@@ -1,0 +1,317 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0A.z
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, was it?
+I never properly introduced myself.
+!------------------------------!
+Roxas, c'est ça ? Désolé, je ne me
+suis pas présenté dans les règles.
+!------------------------------!
+Roxas, richtig?
+Ich hab mich gar nicht
+richtig vorgestellt.
+!------------------------------!
+Roxas, vero?
+Non mi sono ancora presentato.
+!------------------------------!
+Eres Roxas, ¿no?
+No me he presentado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I am Marluxia, Number <E2><85><A7><E2><85><A0>.
+!------------------------------!
+Je suis le Numéro XI, Marluxia.
+!------------------------------!
+Ich bin Marluxia, Nummer XI.
+!------------------------------!
+Io sono il N° XI, Marluxia.
+!------------------------------!
+Soy el número XI, Marluxia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay.
+So what do I have to do today?
+!------------------------------!
+Enchanté. Bon, qu'est-ce qu'on doit
+faire aujourd'hui ?
+!------------------------------!
+Okay.
+Was müssen wir heute tun?
+!------------------------------!
+Va bene.
+Cosa devo fare oggi?
+!------------------------------!
+Vale.
+¿Qué toca hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Today, your job is to collect hearts.
+!------------------------------!
+Aujourd'hui, tu dois récupérer des
+cœurs.
+!------------------------------!
+Deine heutige Aufgabe ist
+das Sammeln von Herzen.
+!------------------------------!
+Oggi il tuo compito
+sarà quello di raccogliere
+cuori.
+!------------------------------!
+Hay que recoger corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um, how do I do that?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Ähm, wie geht das?
+!------------------------------!
+In che modo?
+!------------------------------!
+Pero... ¿cómo lo hago?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, could you summon your Keyblade
+for me?
+!------------------------------!
+Roxas, peux-tu invoquer ta Keyblade ?
+!------------------------------!
+Roxas, kannst du dein
+Schlüsselschwert für mich
+beschwören?
+!------------------------------!
+Roxas, potresti evocare
+il tuo Keyblade per me?
+!------------------------------!
+Roxas, ¿podrías invocar tu
+llave espada?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well...sure, all right.
+!------------------------------!
+Euh oui, bien sûr...
+!------------------------------!
+... Ja, aber sicher.
+!------------------------------!
+...Uh, sì, certo.
+!------------------------------!
+Sí, por supuesto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lucky Number <E2><85><A7><E2><85><A2>...
+At last, a chosen wielder of the
+Keyblade amongst our ranks.
+!------------------------------!
+Parfait, Numéro <E2><85><A7><E2><85><A2>. Tu as été choisi
+pour manier le pouvoir de la Keyblade...
+!------------------------------!
+Gut, Nummer <E2><85><A7><E2><85><A2>.
+Endlich jemand in unseren Reihen,
+der das Schlüsselschwert führen kann.
+!------------------------------!
+Bene, N° <E2><85><A7><E2><85><A2>.
+Sei stato scelto per utilizzare
+il potere del Keyblade...
+!------------------------------!
+Muy bien, número <E2><85><A7><E2><85><A2>.
+Has sido elegido para blandir
+el poder de la llave espada...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whoa, what are those?
+!------------------------------!
+Waouh, qu'est-ce que c'est que ça ?
+!------------------------------!
+Hey, was ist das?
+!------------------------------!
+Whoa, e quelli cosa sono?
+!------------------------------!
+¡Cielos! ¿Qué es esto?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph.
+Nothing to be feared.
+!------------------------------!
+Ha ! Tu n'as rien à craindre.
+!------------------------------!
+Hmpf.
+Nichts, wovor man Angst
+haben müsste.
+!------------------------------!
+Umpf.
+Non c'è niente di cui
+preoccuparsi.
+!------------------------------!
+Bah.
+Nada que debas temer.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, Roxas, shall we put that power of
+yours to a little test?
+!------------------------------!
+Allez, au travail, Roxas !
+!------------------------------!
+Okay, Roxas, sollen wir
+deine Kräfte mal testen?
+!------------------------------!
+Bene, Roxas, che ne diresti di
+mettere alla prova il tuo
+potere?
+!------------------------------!
+Bien, Roxas, vamos a ver cómo
+lo haces. Usa tu llave espada...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Use your Keyblade...and defeat those
+Heartless.
+!------------------------------!
+Utilise ta Keyblade et bats ces
+Sans-cœur.
+!------------------------------!
+Benutze dein Schlüsselschwert
+... und besiege diese Herzlosen.
+!------------------------------!
+Usa il tuo Keyblade
+e sconfiggi quegli Heartless.
+!------------------------------!
+y derrota a esos sincorazón.
+!------------------------------!
+!******************************!

@@ -1,0 +1,94 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/21.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No... It's still missing something!
+!------------------------------!
+Non... Il manque encore quelque
+chose !
+!------------------------------!
+Nein ... Etwas fehlt noch!
+!------------------------------!
+No... Manca ancora qualcosa!
+!------------------------------!
+No... ¡Sigue faltando algo!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Something new.
+Something fresh...
+!------------------------------!
+Il nous faut du nouveau.
+Quelque chose d'exceptionnel !
+!------------------------------!
+Etwas Neues muss her.
+Etwas Unverbrauchtes ...
+!------------------------------!
+Qualcosa di nuovo.
+Qualcosa di originale...
+!------------------------------!
+Necesita algo nuevo.
+¡Algo fresco!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I want this Halloween to be a festival
+of fantastical frights!
+!------------------------------!
+Je veux que cet Halloween soit
+un spectacle extraordinaire de
+funestes surprises !
+!------------------------------!
+Dieses Halloween soll ein echtes
+Spektakel voller fantastischer
+Schrecken werden!
+!------------------------------!
+Voglio che questo Halloween
+sia spaventoso
+e sorprendente!
+!------------------------------!
+¡Quiero que este Halloween sea
+un espectáculo de sorpresas
+terroríficas!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+There must be something.
+!------------------------------!
+Hmm... Il y a forcément quelque
+chose.
+!------------------------------!
+Hm ...
+Es muss etwas geben.
+!------------------------------!
+Mmm...
+Dev'esserci qualcosa.
+!------------------------------!
+Mmm...
+Tiene que haber algo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

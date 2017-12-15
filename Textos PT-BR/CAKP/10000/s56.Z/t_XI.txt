@@ -1,0 +1,238 @@
+&.[HDR].&
+*.0000040000008E1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E5><A5><B3><E3><81><AE><E5><AD><90><E3><81><AF><E8><87><AA><E5><88><86><E3><82><88><E3><82><8A><E5><BC><B1><E3><81><84><E5><A5><B4><E3><81><AB><E3><81><AF>
+<E8><88><88><E5><91><B3><E3><81><8C><E3><81><AA><E3><81><84><E3><81><8C><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AF><E3><81><A9><E3><81><86><E3><81><8B><E3><81><AA><EF><BC><9F>
+!------------------------------!
+XIGBAR
+Chicks don't dig weaklings, kiddo.
+Better keep at it.
+!------------------------------!
+XIGBAR
+Les filles n'aiment pas les faiblards, gamin.
+Alors entraîne-toi.
+!------------------------------!
+XIGBAR
+Mädels stehen nicht auf Weicheier,
+Kleiner. Halt dich lieber ran.
+!------------------------------!
+XIGBAR
+Le donne non amano i
+deboli, bello. Fai meglio a continuare.
+!------------------------------!
+XIGBAR
+Las chicas detestan a los 
+canijos, chico. No lo olvides.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008E1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><B5><E3><81><B5><E3><81><B5><E2><80><A6><E5><A5><B3><E3><81><AE><E5><AD><90><E3><81><AF><E9><9B><A3><E3><81><97><E3><81><84><E3><81><AA>
+!------------------------------!
+XIGBAR
+Heh heh. Girls, am I right?
+Life's biggest mystery.
+!------------------------------!
+XIGBAR
+Hé, hé, c'est les filles, je parie ?
+Le plus grand mystère de tous.
+!------------------------------!
+XIGBAR
+Hi, hi. Mädchen, stimmt's?
+Das größte Rätsel der Welt.
+!------------------------------!
+XIGBAR
+Eh eh. Ragazze, eh?
+La vita è un bel mistero.
+!------------------------------!
+XIGBAR
+Je, je. Chicas, ¿a que sí?
+El mayor misterio de la vida.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><82><E3><81><A3><E3><81><A8><E3><82><82><E5><A5><B3><E3><81><AE><E5><AD><90><E3><81><AF>
+<E8><87><AA><E5><88><86><E3><82><88><E3><82><8A><E5><BC><B1><E3><81><84><E5><A5><B4><E3><81><AB><E8><88><88><E5><91><B3><E3><81><8C><E3><81><AA><E3><81><84><E3><81><A3><E3><81><A6><E3><83><8F><E3><83><8A><E3><82><B7>
+!------------------------------!
+One thing that IS clear, though, is that no girl
+wants to be with a guy weaker than she is.
+!------------------------------!
+Mais une chose est claire : aucune fille ne veut
+être avec un type plus faible qu'elle.
+!------------------------------!
+Aber eins IST klar. Kein Mädchen
+will mit einem Typen zusammen sein,
+der schwächer ist, als es selbst.
+!------------------------------!
+Una cosa è certa, però: le
+ragazze non vogliono stare
+con tipi più deboli di loro.
+!------------------------------!
+Lo que está claro es que
+ninguna chica querrá estar
+con alguien más débil que ella.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><82><93><E3><81><AA><E3><82><8F><E3><81><91><E3><81><A7><E5><BC><B1><E3><81><84><E5><9D><8A><E3><82><84><E3><81><AB>
+<E7><89><B9><E8><A8><93><E3><83><A1><E3><83><8B><E3><83><A5><E3><83><BC><E3><82><92><E7><94><A8><E6><84><8F><E3><81><97><E3><81><A6><E3><82><84><E3><81><A3><E3><81><9F><E3><81><9E>
+!------------------------------!
+So, nice guy that I am, I've got a special exercise
+for you<E2><80><95>bulk you up a little.
+!------------------------------!
+Comme je suis gentil, je t'ai préparé un
+entraînement pour te renforcer.
+!------------------------------!
+Nett wie ich bin, hab ich ein
+spezielles Trainingsprogramm
+für dich ... damit du stärker wirst.
+!------------------------------!
+Quindi, dato che sono gentile, ho un esercizio
+speciale per te... per rinforzarti un po'.
+!------------------------------!
+Y como soy tan enrollado,
+te pondré un entrenamiento
+especial para fortalecerte.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><95><E3><82><A1><E3><82><A4><E3><83><8A><E3><83><AB><E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><81><A7>50<E4><BD><93><E4><BB><A5><E4><B8><8A><E3><81><AE><E6><95><B5><E3><81><AB>
+<E3><83><88><E3><83><89><E3><83><A1><E3><82><92><E3><81><95><E3><81><97><E3><81><A6><E3><81><93><E3><81><84>
+<E6><B8><88><E3><82><93><E3><81><A0><E3><82><89><E3><80><81><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><82><8D>
+!------------------------------!
+Go finish off 50 plus enemies with a Final Limit, then
+come back and check in with me.
+!------------------------------!
+Achève 50 ennemis ou plus avec un
+hypersurpassement, puis reviens me voir.
+!------------------------------!
+Besiege 50 oder mehr Gegner
+mit einem Endlimit und komm
+wieder her.
+!------------------------------!
+Finisci almeno 50 nemici con un Limite
+finale, poi torna subito qui da me.
+!------------------------------!
+Acaba con 50 enemigos o más
+usando límites finales,
+y luego ven a verme.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D1801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E7><89><B9><E8><A8><93><E3><83><A1><E3><83><8B><E3><83><A5><E3><83><BC><E3><82><92><E3><81><93><E3><81><AA><E3><81><97><E3><81><A6><E3><81><8D><E3><81><9F><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E5><B0><91><E3><81><97><E3><81><AF><E3><83><95><E3><82><A1><E3><82><A4><E3><83><8A><E3><83><AB><E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><81><AE><E6><89><B1><E3><81><84><E3><81><8C><E4><B8><8A><E9><81><94><E3><81><97><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+XIGBAR
+Hey, looks like you're done.
+Feel like you've mastered those Final Limits?
+!------------------------------!
+XIGBAR
+Hé, on dirait que t'as réussi. Tu crois avoir
+maîtrisé l"hypersurpassement ?
+!------------------------------!
+XIGBAR
+Hey, du bist fertig. Und?
+Beherrschst du das Endlimit?
+!------------------------------!
+XIGBAR
+Ehi, ce l'hai fatta.
+Credi di avere imparato a usare i Limiti finali?
+!------------------------------!
+XIGBAR
+Vaya, veo que has terminado.
+¿Te consideras un experto?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><93><E3><82><8C><E3><81><AF><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><81><A0><E3><80><80><E5><A4><A7><E4><BA><8B><E3><81><AB><E4><BD><BF><E3><81><88><E3><82><88><E5><9D><8A><E3><82><84>
+!------------------------------!
+XIGBAR
+Here's a treat, kiddo.
+Put it to good use.
+!------------------------------!
+XIGBAR
+Voici un petit cadeau pour toi. Fais-en bon usage.
+!------------------------------!
+Hier ist eine Belohnung, Kleiner.
+Vergeude sie nicht.
+!------------------------------!
+Ecco un regalo per te,
+ragazzo. Usalo al meglio.
+!------------------------------!
+Toma un regalo, chico.
+Dale buen uso.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><81><A8><E3><81><A9><E3><82><8D><E3><81><8F><E7><B5><90><E6><99><B6><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Lightning Crystal
+!------------------------------!
+Cristal grondant obtenu !
+!------------------------------!
+Erhalten: Donnerkristall
+!------------------------------!
+Ottieni: Cristallo tuono
+!------------------------------!
+Obtenido: cristal luminoso.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E4><BF><BA><E3><81><AE><E7><89><B9><E8><A8><93><E3><83><A1><E3><83><8B><E3><83><A5><E3><83><BC><E3><81><AF><E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F>
+!------------------------------!
+XIGBAR
+How's that exercise going?
+Feeling the burn yet?
+!------------------------------!
+XIGBAR
+Comment se passe l'entraînement ?
+Tu commences à fatiguer ?
+!------------------------------!
+XIGBAR
+Wie läuft das Training?
+Brennt es schon?
+!------------------------------!
+XIGBAR
+Come va l'addestramento?
+Inizi a faticare?
+!------------------------------!
+XIGBAR
+¿Qué tal el entrenamiento?
+¿Estás quemado ya?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BB><8A><E3><81><AE><E3><81><A8><E3><81><93><E3><82><8D><E3><83><95><E3><82><A1><E3><82><A4><E3><83><8A><E3><83><AB><E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><81><A7>
+<E3><83><88><E3><83><89><E3><83><A1><E3><82><92><E3><81><95><E3><81><97><E3><81><9F><E3><81><AE><E3><81><AF>%d<E4><BD><93><E3><81><8B><E2><80><A6>
+50<E4><BD><93><E5><80><92><E3><81><97><E3><81><9F><E3><82><89><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><82><92><E3><82><84><E3><82><8B><E3><81><A3><E3><81><A6><E3><83><8F><E3><83><8A><E3><82><B7>
+!------------------------------!
+Let's see, your running total for Final Limit kills
+is %d. Rack up 50, and you get an A+.
+!------------------------------!
+Voyons... Tu as eu %d ennemis
+avec un hypersurpassement.
+Atteins les 50 pour réussir.
+!------------------------------!
+Mal sehen, du hast bis jetzt
+%d Endlimit-Siege. Bringst du's
+auf 50, kriegst du eine 1+.
+!------------------------------!
+Finora hai sconfitto %d
+nemici con un Limite finale.
+Arriva a 50 e avrai un'A+.
+!------------------------------!
+A ver, llevas %d. Cuando llegues a
+50 límites finales te pondré un
+sobresaliente.
+!------------------------------!
+!******************************!

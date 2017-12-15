@@ -1,0 +1,282 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Salut, Roxas.
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Ehi, Roxas.
+!------------------------------!
+Ey, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's you and me again today.
+!------------------------------!
+On repart ensemble aujourd'hui.
+!------------------------------!
+Heute sind wir wieder
+zusammen im Einsatz.
+!------------------------------!
+Oggi lavoreremo di nuovo
+insieme.
+!------------------------------!
+Hoy volvemos a salir tú y yo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay.
+!------------------------------!
+OK.
+!------------------------------!
+Okay.
+!------------------------------!
+OK.
+!------------------------------!
+Vale.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Check in with Saïx when<E2><80><95>
+Well, you know the drill.
+!------------------------------!
+Va voir Saïx quand...
+Bah, tu connais la chanson !
+!------------------------------!
+Melde dich bei Saïx, wenn ...
+Ach, du weißt schon.
+!------------------------------!
+Parla con Saïx quando...
+Ah, ormai lo sai.
+!------------------------------!
+Persónate ante Saïx cuando...
+Bueno, ya conoces el rollo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know what they've cooked up
+for us, but let's get it done with style,
+huh?
+!------------------------------!
+Je ne sais pas ce qu'ils nous
+réservent, mais faisons-le
+avec classe, OK ?
+!------------------------------!
+Ich weiß nicht, was sie sich
+für uns ausgedacht haben, aber
+erledigen wir es stilvoll, okay?
+!------------------------------!
+Non so cosa ci aspetta oggi,
+ma cerchiamo di risolvere
+tutto con stile, d'accordo?
+!------------------------------!
+No sé qué habrán pensado para
+nosotros, pero hagámoslo con
+clase, ¿vale?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+OK.
+!------------------------------!
+Okay.
+!------------------------------!
+D'accordo.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, by the way, Roxas, today will be
+your first really-real mission.
+!------------------------------!
+Au fait, Roxas... Aujourd'hui, c'est
+ta première vraie mission.
+!------------------------------!
+Oh, ganz nebenbei, Roxas, heute
+hast du deine erste echte Mission.
+!------------------------------!
+Ah, dimenticavo... Quella
+di oggi sarà la tua prima,
+vera missione, Roxas.
+!------------------------------!
+Ah, por cierto, Roxas, la de hoy
+será tu primera misión en serio.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That means you should definitely prep
+your weapon beforehand.
+!------------------------------!
+Alors prépare bien ton arme !
+!------------------------------!
+Du solltest deine Waffe
+besser vorbereiten.
+!------------------------------!
+Il che significa che prima devi
+preparare le armi.
+!------------------------------!
+Asegúrate de tener
+a punto el arma.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, and if you want to practice what
+you've learned so far, we've got the
+Holo-Missions all set up for you.
+!------------------------------!
+Si tu veux t'entraîner à ce que tu as
+appris jusqu'à maintenant, c'est à ça
+que servent les holo-missions.
+!------------------------------!
+Oh, und wenn du das Gelernte üben
+willst, haben wir die Holo-Missionen
+für dich vorbereitet.
+!------------------------------!
+Oh, se vuoi ripassare tutto ciò che
+hai imparato finora, affronta
+pure le olo-missioni.
+!------------------------------!
+Si quieres practicar lo que has
+aprendido de momento, tienes
+las holomisiones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Holo-Missions?
+!------------------------------!
+Les holo-missions ?
+!------------------------------!
+Holo-Missionen?
+!------------------------------!
+Olo-missioni?
+!------------------------------!
+¿Holomisiones?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yup. Basically, they're a way to
+re-experience missions you've already
+been assigned.
+!------------------------------!
+Oui. En gros, tu peux refaire les
+missions qui t'ont été confiées
+auparavant.
+!------------------------------!
+Ja. Damit kannst du bereits
+abgeschlossene Missionen noch
+einmal erleben.
+!------------------------------!
+Sì. In pratica sono un modo
+per affrontare nuovamente le
+missioni che ti sono già state assegnate.
+!------------------------------!
+Sí. Básicamente, son una manera
+de volver a realizar las
+misiones que ya has completado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

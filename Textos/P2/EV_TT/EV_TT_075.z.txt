@@ -1,0 +1,304 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0B.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sheesh, about time.
+Worst. Mission. Ever...
+!------------------------------!
+Eh ben... c'est pas trop tôt !
+C'est la pire mission de toute
+l'histoire...
+!------------------------------!
+Puh, wird auch langsam Zeit.
+Schlimmste. Mission. Aller Zeiten.
+!------------------------------!
+Ah, finalmente.
+La peggiore... missione...
+della storia...
+!------------------------------!
+Vaya, ya era hora. Ha sido
+la peor misión del mundo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you're our big-shot Keyblade wielder,
+then we're in deep doo-doo.
+!------------------------------!
+Si c'est toi l'expert de la Keyblade,
+on n'est pas sortis de l'auberge.
+!------------------------------!
+Wenn du unser großer
+Schlüsselschwertmeister bist,
+dann haben wir ein echtes Problem.
+!------------------------------!
+E tu saresti il nostro asso nella
+manica? Siamo messi bene...
+!------------------------------!
+Si tú eres nuestro portador de
+la llave espada, vamos apañados.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, can't you even hold up your end of
+a conversation?
+!------------------------------!
+Est-ce que t'es capable d'aligner au
+moins trois mots ou pas ?
+!------------------------------!
+Mann, kannst du nicht mal
+deinen Mund aufmachen?
+!------------------------------!
+Ugh, non sai nemmeno reggere
+una normale conversazione?
+!------------------------------!
+¿Ni siquiera eres capaz de 
+mantener una conversación?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You'd better pull it together, or we'll
+never finish Kingdom Hearts.
+!------------------------------!
+Ressaisis-toi ou Kingdom Hearts ne
+sera jamais complété.
+!------------------------------!
+Reiß dich zusammen oder
+Kingdom Hearts wird niemals komplett.
+!------------------------------!
+Datti da fare, altrimenti non
+riusciremo mai a completare
+i Kingdom Hearts.
+!------------------------------!
+Como no espabiles, Kingdom
+Hearts jamás se completará.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Unless, of course, we put somebody
+else on Keyblade duty...
+!------------------------------!
+À moins bien sûr qu'on ne trouve
+quelqu'un d'autre pour manier la
+Keyblade...
+!------------------------------!
+Es sei denn, wir finden jemand
+anderen für das Schlüsselschwert ...
+!------------------------------!
+A meno che non troviamo
+qualcun altro in grado di
+utilizzare il Keyblade.
+!------------------------------!
+A no ser, claro, que le
+asignemos la llave espada
+a otro...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+You have somebody else?
+!------------------------------!
+Pourquoi ? Il y a quelqu'un d'autre ?
+!------------------------------!
+Was?
+Es gibt einen anderen?
+!------------------------------!
+Perché?
+Avete qualcun altro?
+!------------------------------!
+¿Qué?
+¿Es que hay alguien más?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+None of your beeswax.
+!------------------------------!
+C'est pas tes oignons !
+!------------------------------!
+Geht dich nichts an.
+!------------------------------!
+Fatti gli affaracci tuoi.
+!------------------------------!
+Eso no es de tu incumbencia.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You just worry about defeating
+Heartless and collecting hearts for us.
+!------------------------------!
+Occupe-toi de vaincre des Sans-cœur
+et de récupérer des cœurs pour nous.
+!------------------------------!
+Kümmere du dich darum,
+Herzlose zu besiegen und
+Herzen für uns zu sammeln.
+!------------------------------!
+Tu pensa solo a sconfiggere
+gli Heartless e a raccogliere
+i cuori per noi.
+!------------------------------!
+Tú preocúpate por derrotar a
+los sincorazón y recoger sus
+corazones para nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe, one day, you'll be almost
+mediocre at it.
+!------------------------------!
+T'es bon qu'à ça de toute façon !
+!------------------------------!
+Vielleicht wirst du ja
+eines Tages wenigstens
+mittelmäßig darin sein.
+!------------------------------!
+È comunque l'unica cosa di cui tu sia
+capace.
+!------------------------------!
+¡Que es para lo único que vales!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, let's go<E2><80><95>before you kill any more
+of my brain cells.
+!------------------------------!
+Allez, on rentre.
+!------------------------------!
+Uff, gehen wir, bevor mir noch
+deinetwegen sämtliche
+Gehirnzellen absterben.
+!------------------------------!
+Ugh, andiamocene, mi
+stai facendo venire il
+mal di testa.
+!------------------------------!
+Vámonos, antes de que
+me dejes sin neuronas.
+!------------------------------!
+!******************************!

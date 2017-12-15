@@ -1,0 +1,1429 @@
+&.[HDR].&
+*.000004000000A52205000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Shh... I hear voices.
+Somebody's in here.
+!------------------------------!
+ROXAS
+Chut... j'entends des voix. Il y a quelqu'un ici.
+!------------------------------!
+ROXAS
+Psst ... Ich höre Stimmen.
+Hier ist jemand.
+!------------------------------!
+ROXAS
+Shhh... Sento delle voci.
+Qui dentro c'è qualcuno.
+!------------------------------!
+ROXAS
+Chitón... Voces.
+Hay alguien.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VOICE
+...Master won't even...to Belle...
+
+!------------------------------!
+VOIX
+Maître refuse... même Belle...
+!------------------------------!
+? ? ? ?
+... Der Herr will nicht einmal ... mit Belle ...
+!------------------------------!
+VOCE
+Il padrone non... con Belle...
+!------------------------------!
+? ? ? ?
+El amo no... ni siquiera
+a Bella...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+<E2><80><9C>Master<E2><80><9D>? Then it must be the servants.
+Come away, lest you draw any attention. 
+!------------------------------!
+XALDIN
+<E2><80><9C>Maître<E2><80><9D> ? Sûrement des domestiques.
+Viens, n'attirons pas leur attention.
+!------------------------------!
+XALDIN
+<E2><80><9E>Herr<E2><80><9C>? Dann müssen das die Diener sein.
+Komm weg, bevor sie uns noch sehen. 
+!------------------------------!
+XALDIN
+"Padrone"? Devono essere i suoi
+servitori. Non avvicinarti troppo.
+!------------------------------!
+XALDIN
+¿"Amo"? Serán los criados.
+Vamos antes de que nos vean. 
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Right.
+
+!------------------------------!
+ROXAS
+D'accord.
+!------------------------------!
+ROXAS
+Ja.
+!------------------------------!
+ROXAS
+D'accordo.
+!------------------------------!
+ROXAS
+Vale.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Scratch marks...
+
+!------------------------------!
+ROXAS
+Des marques de griffes...
+!------------------------------!
+ROXAS
+Kratzspuren ...
+!------------------------------!
+ROXAS
+Dei graffi...
+!------------------------------!
+ROXAS
+Arañazos...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Work of the beast's claws, no doubt.
+He's not what you'd call a tidy fighter, is he?
+!------------------------------!
+XALDIN
+C'est sans doute la bête qui a fait ça.
+Il se bat comme un forcené, on dirait.
+!------------------------------!
+XALDIN
+Zweifellos von den Klauen des Biestes.
+Es kämpft nicht gerade sauber, was?
+!------------------------------!
+XALDIN
+Devono essere gli artigli della Bestia.
+Non sembra molto preciso...
+!------------------------------!
+XALDIN
+Zarpazos de la bestia.
+No es un luchador limpio, ¿eh?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+It looks as though he was fighting a losing battle.
+
+
+!------------------------------!
+Mais ce combat a l'air perdu d'avance.
+!------------------------------!
+Sieht aus, als hätte es
+einen aussichtslosen Kampf gekämpft.
+!------------------------------!
+È come se stesse combattendo una
+battaglia persa in partenza.
+!------------------------------!
+Es como si hubiera librado
+una batalla desesperada.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Let's see what's behind Door Number Two...
+
+!------------------------------!
+ROXAS
+Voyons ce qu'il y a derrière la deuxième porte.
+!------------------------------!
+ROXAS
+Sehen wir mal, was hinter
+Tür Nummer Zwei ist ...
+!------------------------------!
+ROXAS
+Vediamo che c'è dietro la
+"Porta numero due"...
+!------------------------------!
+ROXAS
+Veamos qué hay tras
+la Puerta Dos...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Roxas!
+We have to keep a low profile, you fool.
+!------------------------------!
+XALDIN
+Roxas ! On doit rester discrets !
+!------------------------------!
+XALDIN
+Roxas!
+Wir dürfen nicht entdeckt werden!
+!------------------------------!
+XALDIN
+Roxas! Non dobbiamo
+farci scoprire, stupido!
+!------------------------------!
+XALDIN
+¡Roxas!
+Que no deben vernos, bobo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+No more throwing doors open.
+I won't have it.
+
+!------------------------------!
+Arrête d'ouvrir les portes. T'as compris ?
+!------------------------------!
+Du öffnest keine Türen mehr.
+Das lass ich nicht zu.
+!------------------------------!
+Non puoi aprire tutte le
+porte che vedi.
+!------------------------------!
+XALDIN
+No vuelvas a abrir así.
+No pienso tolerarlo.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Tracks... The beast's footprints.
+
+!------------------------------!
+ROXAS
+Des traces... de la bête.
+!------------------------------!
+ROXAS
+Spuren ... Die Fußspuren des Biestes.
+!------------------------------!
+ROXAS
+Delle impronte...
+Sembrano quelle della Bestia.
+!------------------------------!
+ROXAS
+Huellas... de la bestia.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+He must have battled Heartless here.
+
+!------------------------------!
+XALDIN
+Il doit avoir affronté des Sans-cœur
+à cet endroit.
+!------------------------------!
+XALDIN
+Es muss hier gegen Herzlose
+gekämpft haben.
+!------------------------------!
+XALDIN
+Deve aver combattuto contro
+gli Heartless proprio qui.
+!------------------------------!
+XALDIN
+Aquí debió de luchar
+con los sincorazón.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Why would he want to fight them, though?
+What's in it for him?
+!------------------------------!
+ROXAS
+Mais pourquoi les affronte-t-il ?
+À quoi ça pourrait lui servir ?
+!------------------------------!
+ROXAS
+Aber warum bekämpft es sie?
+Was kann es damit gewinnen?
+!------------------------------!
+ROXAS
+Ma perché si oppone a loro?
+Che cosa lo spinge a farlo?
+!------------------------------!
+ROXAS
+¿Y por qué los combate?
+¿A él qué más le da?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+If I had the answers, I wouldn't be here listening to
+your questions.
+!------------------------------!
+XALDIN
+Si je le savais, je ne serais pas là à écouter tes
+questions idiotes.
+!------------------------------!
+XALDIN
+Wenn ich das wüsste, wäre ich nicht hier,
+um mir deine Fragen anzuhören.
+!------------------------------!
+XALDIN
+Se avessi delle risposte, non sarei
+qui ad ascoltare le tue domande.
+!------------------------------!
+XALDIN
+Si conociera las respuestas,
+no estaría aquí escuchándote.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Look at the way the stones have been kicked up.
+Another sign the beast fought the Heartless?
+!------------------------------!
+ROXAS
+Regarde ces pavés... Encore un signe de combat
+entre la bête et les Sans-cœur ?
+!------------------------------!
+ROXAS
+Die Steine wurden umhergeworfen. Noch eine
+Spur des Kampfes zwischen Biest und Herzlosen?
+!------------------------------!
+ROXAS
+Guarda le pietre: sono tutte rivoltate.
+La Bestia ha combattuto anche qui?
+!------------------------------!
+ROXAS
+Mira esas piedras. ¿Otro
+indicio de lucha?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+And also a sign that his power far exceeds anything
+I anticipated... Perfect.
+!------------------------------!
+XALDIN
+Et aussi un signe que sa puissance dépasse toutes
+mes espérances... Parfait.
+!------------------------------!
+XALDIN
+Und ein weiterer Beweis seiner gewaltigen Stärke
+... Perfekt.
+!------------------------------!
+XALDIN
+Sì, e a quanto pare è molto più
+potente del previsto... Eccellente.
+!------------------------------!
+XALDIN
+Y la prueba de su
+gran poder. Perfecto.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This way leads out to some kind of bridge.
+
+!------------------------------!
+ROXAS
+Ce chemin mène à une sorte de pont.
+!------------------------------!
+ROXAS
+Der Weg hier führt zu einer Brücke.
+!------------------------------!
+ROXAS
+Da questa parte si arriva
+a una specie di ponte.
+!------------------------------!
+ROXAS
+Esto lleva a una
+especie de puente.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+The only route into the castle...
+Remember that, Roxas.
+!------------------------------!
+XALDIN
+C'est la seule entrée vers le château...
+Souviens-t'en, Roxas.
+!------------------------------!
+XALDIN
+Der einzige Weg ins Schloss ...
+Merk dir das, Roxas.
+!------------------------------!
+XALDIN
+L'unico ingresso del castello...
+Ricordatelo bene, Roxas.
+!------------------------------!
+XALDIN
+La única ruta al castillo...
+No lo olvides, Roxas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+If a giant Heartless were to attack, it would be
+through here.
+!------------------------------!
+XALDIN
+Si un Sans-cœur devait attaquer, c'est de là
+qu'il arriverait !
+!------------------------------!
+XALDIN
+Ein riesiger Herzloser könnte nur
+von hier aus angreifen.
+!------------------------------!
+XALDIN
+Se un Heartless gigante dovesse
+attaccare, lo farebbe da qui.
+!------------------------------!
+XALDIN
+Si atacara un sincorazón
+gigante, lo haría por aquí.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Okay... But that's kind of a big if.
+
+!------------------------------!
+ROXAS
+Oui, enfin... <E2><80><9C>si<E2><80><9D>.
+!------------------------------!
+ROXAS
+Okay ... Aber das ist ziemlich
+unwahrscheinlich.
+!------------------------------!
+ROXAS
+Giusto... Anche se spero
+non accada mai.
+!------------------------------!
+ROXAS
+Vale... Pero es un supuesto
+muy hipotético.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+What do they use such a big, open room for?
+
+!------------------------------!
+ROXAS
+À quoi peut bien leur servir une pièce vide aussi
+grande ?
+!------------------------------!
+ROXAS
+Wofür braucht man einen so großen,
+offenen Raum?
+!------------------------------!
+ROXAS
+A che serve una stanza
+così grande e spaziosa?
+!------------------------------!
+ROXAS
+¿Para qué usarán una
+sala tan grande?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Why, it's a ballroom.
+And quite the lovely one, at that.
+!------------------------------!
+XALDIN
+C'est une salle de bal. Un bel endroit.
+!------------------------------!
+XALDIN
+Das ist ein Ballsaal.
+Und dazu noch ein ziemlich schöner.
+!------------------------------!
+XALDIN
+È una sala da ballo.
+Molto affascinante, oltretutto.
+!------------------------------!
+XALDIN
+Es un salón de baile.
+Y precioso, además.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+No place for a creature as hideous as our host...
+And it seems he agrees with me.
+
+!------------------------------!
+Trop beau pour une créature aussi monstrueuse
+que notre hôte, à ce qu'il semble.
+!------------------------------!
+Kein Ort für jemanden so monströses wie unseren
+Gastgeber ... Und er scheint mir da zuzustimmen.
+!------------------------------!
+Non è adatta al mostruoso
+padrone del castello...
+E lui pare concordare.
+!------------------------------!
+No es lugar para alguien como
+nuestro anfitrión. Y él
+parece creer lo mismo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+How do you figure?
+
+!------------------------------!
+ROXAS
+Pourquoi dis-tu ça ?
+!------------------------------!
+ROXAS
+Wie kommst du darauf?
+!------------------------------!
+ROXAS
+Come fai a dirlo?
+!------------------------------!
+ROXAS
+¿Cómo lo sabes?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+There are Heartless here, but I see no traces of a
+struggle.
+!------------------------------!
+XALDIN
+Il y a des Sans-cœur ici, mais aucun signe de lutte.
+!------------------------------!
+XALDIN
+Hier sind zwar Herzlose, aber kein Zeichen
+eines Kampfes.
+!------------------------------!
+XALDIN
+Qui ci sono degli Heartless,
+ma nessuna traccia di scontri.
+!------------------------------!
+XALDIN
+Hay sincorazón aquí,
+pero ni rastro de lucha.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+I can only take that to mean that he is avoiding this
+place.
+!------------------------------!
+XALDIN
+Apparemment, il évite soigneusement
+cet endroit.
+!------------------------------!
+XALDIN
+Das kann nur heißen, dass er diesen
+Ort meidet.
+!------------------------------!
+XALDIN
+Ciò può solo significare che
+lui evita questo posto.
+!------------------------------!
+XALDIN
+Eso sólo puede significar que
+no le gusta este lugar.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's pretty here.
+
+!------------------------------!
+ROXAS
+C'est joli ici.
+!------------------------------!
+ROXAS
+Schön hier.
+!------------------------------!
+ROXAS
+Qui è davvero carino.
+!------------------------------!
+ROXAS
+Es un sitio bonito.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+How would you compare it to the rest of the castle?
+
+!------------------------------!
+XALDIN
+Comment trouves-tu cet endroit comparé
+au reste du château ?
+!------------------------------!
+XALDIN
+Wie ist er im Vergleich zum Rest
+des Schlosses?
+!------------------------------!
+XALDIN
+Come ti sembra rispetto
+al resto del castello?
+!------------------------------!
+XALDIN
+¿En qué se diferencia
+del resto del castillo?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Hmm... It's brighter, I guess.
+Most of the castle's pretty dark.
+!------------------------------!
+ROXAS
+Hmm... il est plus lumineux, je dirais.
+Le reste du château est très sombre.
+!------------------------------!
+ROXAS
+Hmm ... Es ist heller, schätze ich.
+Der größte Teil des Schlosses ist ziemlich dunkel.
+!------------------------------!
+ROXAS
+Mmm... Qui è più luminoso?
+Il castello è piuttosto tetro.
+!------------------------------!
+ROXAS
+Mm... Es más brillante, creo.
+El castillo es muy sombrío.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+This room will be too, in time.
+Dark with the beast's despair.
+!------------------------------!
+XALDIN
+Cette pièce finira par l'être elle aussi.
+Assombrie par le désespoir de la bête.
+!------------------------------!
+XALDIN
+Das wird dieser Raum mit der Zeit auch werden.
+Dunkel von der Verzweiflung des Biestes.
+!------------------------------!
+XALDIN
+Presto anche questa stanza diventerà
+buia come l'animo della Bestia.
+!------------------------------!
+XALDIN
+Y este lugar acabará igual.
+Por la desesperación del amo.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There's a balcony outside the doors here.
+!------------------------------!
+ROXAS
+Il y a un balcon derrière ces portes.
+!------------------------------!
+ROXAS
+Da draußen ist ein Balkon.
+!------------------------------!
+ROXAS
+C'è un terrazzo oltre le porte.
+!------------------------------!
+ROXAS
+Hay un balcón tras la puerta.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Fascinating, Roxas.
+Can you see anything else?
+!------------------------------!
+XALDIN
+Quel sens de l'observation, Roxas...
+Vois-tu autre chose ?
+!------------------------------!
+XALDIN
+Faszinierend, Roxas.
+Kannst du noch etwas sehen?
+!------------------------------!
+XALDIN
+Interessante, Roxas.
+Vedi qualcos'altro?
+!------------------------------!
+XALDIN
+Fascinante, Roxas.
+¿Ves algo más?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Not really. Just the stars.
+
+!------------------------------!
+ROXAS
+Pas vraiment. Juste les étoiles.
+!------------------------------!
+ROXAS
+Nicht wirklich Nur die Sterne.
+!------------------------------!
+ROXAS
+No, a parte le stelle.
+!------------------------------!
+ROXAS
+No. Solo las estrellas.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Anything else USEFUL?
+
+!------------------------------!
+XALDIN
+Autre chose d'utile cette fois ?
+!------------------------------!
+XALDIN
+Irgendwas NÜTZLICHES?
+!------------------------------!
+XALDIN
+Intendevo qualcosa di UTILE.
+!------------------------------!
+XALDIN
+¿Y algo útil?
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Nice sofa.
+
+!------------------------------!
+ROXAS
+Joli canapé.
+!------------------------------!
+ROXAS
+Nettes Sofa.
+!------------------------------!
+ROXAS
+Bel divano.
+!------------------------------!
+ROXAS
+Qué bonito sofá.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+No breaks, Roxas.
+
+!------------------------------!
+XALDIN
+Pas le temps de faire une pause, Roxas.
+!------------------------------!
+XALDIN
+Keine Pausen, Roxas.
+!------------------------------!
+XALDIN
+Non è il momento, Roxas.
+!------------------------------!
+XALDIN
+Nada de descansar, Roxas.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+No, I wasn't<E2><80><95> I didn't mean<E2><80><95>
+I was just saying...
+!------------------------------!
+ROXAS
+Non, je... C'est pas ce que je...
+C'était juste une remarque...
+!------------------------------!
+ROXAS
+Nein, ich wollte nicht ... Ich hatte nicht vor ...
+Ich meinte bloß ...
+!------------------------------!
+ROXAS
+No, non intendevo...
+Dicevo così per dire...
+!------------------------------!
+ROXAS
+No, si no pretendía...
+Solo decía que...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+The floor is all torn up.
+
+!------------------------------!
+ROXAS
+L'étage est dévasté.
+!------------------------------!
+ROXAS
+Der Fußboden ist ganz aufgerissen.
+
+!------------------------------!
+ROXAS
+Il pavimento è devastato.
+!------------------------------!
+ROXAS
+El suelo está hecho pedazos.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+He fought tooth and nail to stop the Heartless
+here...
+!------------------------------!
+XALDIN
+Il s'est battu de toutes ses forces pour
+chasser les Sans-cœur...
+!------------------------------!
+XALDIN
+Er hat bis zum Letzten gekämpft, um die Herzlosen
+hier aufzuhalten ...
+!------------------------------!
+XALDIN
+Ha cercato con tutte le sue
+forze di fermarli qui...
+!------------------------------!
+XALDIN
+Aquí luchó salvajemente para
+detener a los sincorazón...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+There must be something ahead.
+!------------------------------!
+Il doit y avoir quelque chose dans les parages.
+!------------------------------!
+Da vorne muss etwas sein.
+!------------------------------!
+Forse più avanti c'è qualcosa.
+!------------------------------!
+Debe de haber algo 
+más adelante.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000B00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+These gashes...
+Signs he fought here?
+!------------------------------!
+ROXAS
+Ces marques... Il s'est battu ici aussi ?
+!------------------------------!
+ROXAS
+Diese Kratzer ...
+Zeichen eines Kampfes?
+!------------------------------!
+ROXAS
+Questi sfregi...
+Ha combattuto anche qui?
+!------------------------------!
+ROXAS
+Esos surcos...
+¿Significan que luchó aquí?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Signs he fought hard.
+!------------------------------!
+XALDIN
+Oui, et avec acharnement !
+!------------------------------!
+XALDIN
+Zeichen eines harten Kampfes.
+!------------------------------!
+XALDIN
+Piuttosto duramente, oltretutto.
+!------------------------------!
+XALDIN
+Significan que luchó
+muy duro.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000C00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Cleaning supplies...
+
+!------------------------------!
+ROXAS
+Des produits d'entretien...
+!------------------------------!
+ROXAS
+Putzmittel ...
+!------------------------------!
+ROXAS
+Attrezzatura per le pulizie...
+!------------------------------!
+ROXAS
+Artículos de limpieza...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Stop wasting time.
+
+!------------------------------!
+XALDIN
+Arrête de perdre ton temps.
+!------------------------------!
+XALDIN
+Trödel nicht rum.
+!------------------------------!
+XALDIN
+Non perdiamo tempo.
+!------------------------------!
+XALDIN
+Deja de perder el tiempo.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000D00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Did this get knocked over in an earthquake?
+
+!------------------------------!
+ROXAS
+On dirait qu'il y a eu un tremblement de terre !
+!------------------------------!
+ROXAS
+Ist das bei einem Erdbeben umgefallen?
+!------------------------------!
+ROXAS
+Sembra che qui ci sia
+stato un terremoto!
+!------------------------------!
+ROXAS
+¿Ha habido un terremoto aquí?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Use your eyes. These are claw marks.
+The beast destroyed this himself.
+!------------------------------!
+XALDIN
+Ouvre les yeux. Ce sont des marques de griffes.
+La bête a tout détruit elle-même.
+!------------------------------!
+XALDIN
+Benutz deine Augen. Das sind Spuren von Klauen.
+Das Biest hat das selbst angerichtet.
+!------------------------------!
+XALDIN
+Guarda bene, ci sono segni di artigli.
+Dev'essere stata la Bestia.
+!------------------------------!
+XALDIN
+Mira bien. Son arañazos.
+Esto lo hizo la bestia.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+It was victim to either a stray blow whilst he fought
+the Heartless, or else some other rage he felt
+compelled to vent.
+!------------------------------!
+Soit il est tombé en affrontant des
+Sans-cœur, soit il a été pris d'un
+accès de rage.
+!------------------------------!
+Es hat entweder einen Schlag bei einem Kampf
+gegen die Herzlosen abbekommen oder ist
+einem Wutanfall zum Opfer gefallen.
+!------------------------------!
+Forse è stato un colpo mentre la
+Bestia combatteva gli Heartless...
+oppure lui voleva soltanto sfogarsi.
+!------------------------------!
+Acabó así mientras él luchaba
+con los sincorazón, o en
+algún otro momento de rabia.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000E00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+These picture frames have been knocked all over
+the place.
+!------------------------------!
+ROXAS
+Ces cadres ont tous été arrachés.
+!------------------------------!
+ROXAS
+Diese Bilderrahmen liegen hier überall
+verstreut.
+!------------------------------!
+ROXAS
+Queste cornici sono state
+scagliate dappertutto.
+!------------------------------!
+ROXAS
+Los marcos están
+tirados por todas partes.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+The beast can't control his rage.
+It muddles the heart, poisons the mind...
+!------------------------------!
+XALDIN
+La bête ne contrôle pas sa rage, celle qui
+assombrit le cœur et empoisonne l'esprit...
+!------------------------------!
+XALDIN
+Das Biest hat seine Wut nicht im Griff.
+Sie verwirrt das Herz, vergiftet den Verstand ...
+!------------------------------!
+XALDIN
+La rabbia offusca la mente
+della Bestia, avvelenandola.
+!------------------------------!
+XALDIN
+La bestia carece de control.
+La rabia le ciega...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Weird statue, huh?
+
+!------------------------------!
+ROXAS
+Drôle de statue, hein ?
+!------------------------------!
+ROXAS
+Seltsame Statue, was?
+!------------------------------!
+ROXAS
+Strana statua, eh?
+!------------------------------!
+ROXAS
+Vaya estatua, ¿eh?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Art is beyond our ken, Roxas.
+It takes a heart to feel moved.
+!------------------------------!
+XALDIN
+Tu n'y connais rien à l'art, Roxas.
+Il faut un cœur pour s'émouvoir.
+!------------------------------!
+XALDIN
+Kunst übersteigt unseren Verstand, Roxas.
+Man braucht ein Herz, um sie zu begreifen.
+!------------------------------!
+XALDIN
+L'arte non fa per noi, Roxas.
+Serve un cuore per emozionarsi.
+!------------------------------!
+XALDIN
+No entendemos de arte, Roxas.
+Para eso hace falta corazón.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000001000000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000001100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000001200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+......
+
+!------------------------------!
+ROXAS
+...
+!------------------------------!
+ROXAS
+...
+!------------------------------!
+ROXAS
+...
+!------------------------------!
+ROXAS
+...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+What now, Roxas?
+I bade you return.
+!------------------------------!
+XALDIN
+Quoi encore, Roxas ? Il faut rentrer.
+!------------------------------!
+XALDIN
+Was ist, Roxas?
+Ich will zurück.
+!------------------------------!
+XALDIN
+Che ti prende, Roxas?
+Dobbiamo tornare indietro.
+!------------------------------!
+XALDIN
+¿Qué pasa ahora, Roxas?
+Te he dicho que volvemos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This Belle person...
+Why do you suppose she's here?
+!------------------------------!
+ROXAS
+Cette fameuse Belle...
+Pourquoi est-elle ici à ton avis ?
+!------------------------------!
+ROXAS
+Diese Belle ...
+Was glaubst du, warum sie hier ist?
+!------------------------------!
+ROXAS
+Quella Belle...
+Perché è qui, secondo te?
+!------------------------------!
+ROXAS
+Esa tal Bella...
+¿Por qué crees que está aquí?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+You think she isn't simply a prisoner?
+
+!------------------------------!
+XALDIN
+Tu crois que ce n'est pas qu'une simple prisonnière ?
+!------------------------------!
+XALDIN
+Glaubst du nicht, sie ist nur eine
+Gefangene?
+!------------------------------!
+XALDIN
+Credi che non sia una
+semplice prigioniera?
+!------------------------------!
+XALDIN
+¿No crees que sea
+una simple prisionera?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It didn't seem that way to me.
+Plus, she mentioned helping him.
+!------------------------------!
+ROXAS
+Ce n'est pas l'impression que j'ai eue.
+Et elle a aussi parlé de l'aider.
+!------------------------------!
+ROXAS
+Den Eindruck hatte ich nicht.
+Außerdem wollte sie ihm helfen.
+!------------------------------!
+ROXAS
+No, non mi sembrava.
+E in più voleva aiutarlo.
+!------------------------------!
+ROXAS
+No me lo ha parecido.
+Y, además, habló de ayudarlo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Help that beast?
+Hah, if I had a heart, I'd be laughing.
+!------------------------------!
+XALDIN
+Aider cette bête ?
+Ha, si j'avais un cœur, je rirais aux éclats.
+!------------------------------!
+XALDIN
+Dem Biest helfen?
+Ha, wenn ich ein Herz hätte, würde ich jetzt lachen.
+!------------------------------!
+XALDIN
+Aiutare quella Bestia? Se avessi
+un cuore, scoppierei a ridere.
+!------------------------------!
+XALDIN
+¿Ayudarlo? Si tuviera
+corazón, me echaría a reír.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000A52205000000010000001300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+......
+
+!------------------------------!
+ROXAS
+...
+!------------------------------!
+ROXAS
+...
+!------------------------------!
+ROXAS
+...
+!------------------------------!
+ROXAS
+...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Are you coming?
+
+!------------------------------!
+XALDIN
+Tu viens ?
+!------------------------------!
+XALDIN
+Kommst du?
+!------------------------------!
+XALDIN
+Allora, vieni?
+!------------------------------!
+XALDIN
+¿Vienes?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I still have some questions about that rose.
+
+!------------------------------!
+ROXAS
+J'ai encore des questions sur cette rose.
+!------------------------------!
+ROXAS
+Ich habe immer noch Fragen zu der Rose.
+!------------------------------!
+ROXAS
+Avrei qualche altra domanda
+su quella rosa.
+!------------------------------!
+ROXAS
+Aún tengo preguntas
+sobre la rosa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Now is not the time.
+Leave it.
+!------------------------------!
+XALDIN
+Ce n'est pas le moment. Laisse tomber.
+!------------------------------!
+XALDIN
+Dafür ist jetzt nicht der richtige Moment.
+Lass sie.
+!------------------------------!
+XALDIN
+Non è il momento.
+Lascia perdere.
+!------------------------------!
+XALDIN
+No es el momento.
+Déjala.
+!------------------------------!
+!******************************!

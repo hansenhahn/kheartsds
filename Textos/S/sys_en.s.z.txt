@@ -1,0 +1,6 @@
+Communication error.
+Press <A> to return to the Title Screen.
+!******************************!
+Unable to perform DS Wireless Communications.
+Press <A> to return to the Title Screen.
+!******************************!

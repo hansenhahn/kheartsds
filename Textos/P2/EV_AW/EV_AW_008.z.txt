@@ -1,0 +1,54 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(I wonder where that white rabbit went.
+ He was sure in a hurry.)
+!------------------------------!
+(Je me demande où est allé ce lapin.
+ Il était drôlement pressé.)
+!------------------------------!
+(Wo das weiße Kaninchen wohl
+ hin ist. Es hatte es ganz schön
+ eilig.)
+!------------------------------!
+(Chissà dov'è andato quel coniglio
+bianco... Andava molto di fretta.)
+!------------------------------!
+(Me pregunto adónde habrá ido
+ese conejo blanco. Tenía prisa,
+sin duda).
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

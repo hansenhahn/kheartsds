@@ -1,0 +1,182 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0A.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, não é?
+Eu ainda não havia me 
+apresentado direito.
+!------------------------------!
+Roxas, c'est ça ? Désolé, je ne me
+suis pas présenté dans les règles.
+!------------------------------!
+Roxas, richtig?
+Ich hab mich gar nicht
+richtig vorgestellt.
+!------------------------------!
+Roxas, vero?
+Non mi sono ancora presentato.
+!------------------------------!
+Eres Roxas, ¿no?
+No me he presentado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu sou Marluxia, o Número <E2><85><A7><E2><85><A0>.
+!------------------------------!
+Je suis le Numéro XI, Marluxia.
+!------------------------------!
+Ich bin Marluxia, Nummer XI.
+!------------------------------!
+Io sono il N° XI, Marluxia.
+!------------------------------!
+Soy el número XI, Marluxia.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá.
+O que tenho que fazer hoje?
+!------------------------------!
+Enchanté. Bon, qu'est-ce qu'on doit
+faire aujourd'hui ?
+!------------------------------!
+Okay.
+Was müssen wir heute tun?
+!------------------------------!
+Va bene.
+Cosa devo fare oggi?
+!------------------------------!
+Vale.
+¿Qué toca hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Número <E2><85><A7><E2><85><A2> de sorte...
+Enfim, um portador escolhido 
+da Keyblade na Ordem.
+!------------------------------!
+Parfait, Numéro <E2><85><A7><E2><85><A2>. Tu as été choisi
+pour manier le pouvoir de la Keyblade...
+!------------------------------!
+Gut, Nummer <E2><85><A7><E2><85><A2>.
+Endlich jemand in unseren Reihen,
+der das Schlüsselschwert führen kann.
+!------------------------------!
+Bene, N° <E2><85><A7><E2><85><A2>.
+Sei stato scelto per utilizzare
+il potere del Keyblade...
+!------------------------------!
+Muy bien, número <E2><85><A7><E2><85><A2>.
+Has sido elegido para blandir
+el poder de la llave espada...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph.
+Nada para se temer.
+!------------------------------!
+Ha ! Tu n'as rien à craindre.
+!------------------------------!
+Hmpf.
+Nichts, wovor man Angst
+haben müsste.
+!------------------------------!
+Umpf.
+Non c'è niente di cui
+preoccuparsi.
+!------------------------------!
+Bah.
+Nada que debas temer.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então, Roxas, vamos pôr 
+esse poder seu à prova?
+!------------------------------!
+Allez, au travail, Roxas !
+!------------------------------!
+Okay, Roxas, sollen wir
+deine Kräfte mal testen?
+!------------------------------!
+Bene, Roxas, che ne diresti di
+mettere alla prova il tuo
+potere?
+!------------------------------!
+Bien, Roxas, vamos a ver cómo
+lo haces. Usa tu llave espada...
+!------------------------------!
+!******************************!

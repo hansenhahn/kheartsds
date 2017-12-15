@@ -1,0 +1,381 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:15
+!******************************!
+&.[HDR].2&
+1:72
+!******************************!
+&.[HDR].2&
+mi/ob/51.z
+!******************************!
+&.[HDR].2&
+mi/ob/51.z
+!******************************!
+&.[HDR].2&
+mi/ob/82.z
+!******************************!
+&.[HDR].2&
+1:35
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/21.z
+!******************************!
+&.[HDR].2&
+mi/ch/2D.z
+!******************************!
+&.[HDR].2&
+mi/ob/26.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What could it be...
+What's missing?
+!------------------------------!
+Qu'est-ce que ça pourrait être...
+Que manque-t-il ?
+!------------------------------!
+Was könnte das sein ...
+Was fehlt?
+!------------------------------!
+Mmm, vediamo...
+Che cosa manca?
+!------------------------------!
+¿Qué... puede ser?
+¿Qué me falta?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What is it, Zero?
+I'm busy brainstorming...
+!------------------------------!
+Qu'y a-t-il, Zéro ?
+Je réfléchis, mon brave...
+!------------------------------!
+Was ist, Zero?
+Ich zerbreche mir gerade
+den Kopf ...
+!------------------------------!
+Che c'è, Zero?
+Non vedi che sto riflettendo?
+!------------------------------!
+¿Qué hay, Zero? Estoy ocupado
+dándole al coco...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is there something special about that
+balloon?
+!------------------------------!
+Ce ballon a-t-il quelque chose de
+particulier ?
+!------------------------------!
+Ist mit dem Ballon da
+irgendwas Besonderes?
+!------------------------------!
+Quel palloncino ha qualcosa
+di particolare?
+!------------------------------!
+¿Hay algo especial
+ en ese globo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, that was unexpected!
+A Heartless popped out.
+!------------------------------!
+Ça alors !
+Un Sans-cœur en est sorti.
+!------------------------------!
+Das kam unerwartet!
+Da ist ein Herzloser
+rausgekommen.
+!------------------------------!
+Beh, che bella sorpresa!
+È apparso un Heartless.
+!------------------------------!
+¡Vaya, qué insólito!
+Un sincorazón ha aparecido
+de la nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How strange. I certainly didn't put
+anything like that inside.
+!------------------------------!
+Étrange... Ce n'est pas moi qui ai
+placé cette chose à l'intérieur.
+!------------------------------!
+Wie seltsam. So was habe ich
+da nicht reingetan ...
+!------------------------------!
+Che strano. Io di certo non avevo
+messo nulla del genere lì dentro.
+!------------------------------!
+Qué raro. Yo no había
+puesto nada así dentro...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aha! Someone else must have decided
+to add a new level of terror by hiding a
+Heartless inside!
+!------------------------------!
+Ah-ha ! Quelqu'un d'autre a décidé
+d'y ajouter un peu de terreur en
+y cachant un Sans-cœur !
+!------------------------------!
+Aha! Jemand wollte die Sache
+noch schrecklicher machen und
+hat einen Herzlosen hineingetan!
+!------------------------------!
+Ah! Qualcuno ha deciso di
+aumentare il livello di
+terrore inserendo un Heartless!
+!------------------------------!
+¡Ajá! Alguien debe de haber de-
+cidido subir el nivel de terror
+metiendo a un sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'd better keep brainstorming, or
+they'll think of all the good ideas
+first...
+!------------------------------!
+Je ferais mieux de continuer à
+réfléchir ou les autres auront
+de meilleures idées que moi !
+!------------------------------!
+Ich überlege besser weiter,
+sonst haben die anderen alle
+guten Ideen zuerst ...
+!------------------------------!
+Devo spremermi le meningi,
+altrimenti qualcuno mi
+ruberà le idee migliori...
+!------------------------------!
+Mejor que me quede pensando
+o se les ocurrirán a ellos
+primero todas las buenas ideas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wait! I've got it!
+!------------------------------!
+Mais oui ! Je sais !
+!------------------------------!
+... Na klar! Ich hab's!
+!------------------------------!
+Ma certo! Ho trovato!
+!------------------------------!
+¡Espera! ¡Ya lo tengo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You were trying to give me a hint,
+weren't you, Zero? What a good boy!
+!------------------------------!
+Tu essayais de me prévenir, pas vrai,
+Zéro ? Gentil chien !
+!------------------------------!
+Du hast versucht, mir einen
+Hinweis zu geben, was Zero?
+So ein guter Junge!
+!------------------------------!
+È quello che stavi cercando di
+dirmi, vero Zero? Bravissimo!
+!------------------------------!
+Intentabas darme una pista,
+¿verdad, Zero? ¡Buen chico!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You deserve a treat.
+!------------------------------!
+Tu as bien mérité une petite
+friandise.
+!------------------------------!
+Du hast dir was Süßes verdient.
+!------------------------------!
+Meriti un premio.
+!------------------------------!
+Te mereces una golosina.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm going to run over to
+Dr. Finkelstein's lab right now!
+!------------------------------!
+Allez, je dois retourner dans le
+laboratoire du Dr Finklestein.
+!------------------------------!
+Ich muss schnell zurück
+zu Dr. Finkelsteins Labor.
+!------------------------------!
+Devo tornare subito al laboratorio
+del dottor Finkelstein.
+!------------------------------!
+¡Me voy corriendo al laboratorio
+del Dr. Finkelstein!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This new idea is really going to wow
+him!
+!------------------------------!
+Cette nouvelle idée va vraiment
+le surprendre !
+!------------------------------!
+Diese neue Idee wird ihn sicher
+umhauen!
+!------------------------------!
+La mia nuova idea lo manderà
+in visibilio!
+!------------------------------!
+¡Esta nueva idea realmente le
+va a dejar patidifuso!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So that floating doggy thing can sniff
+out Heartless?
+!------------------------------!
+Ce drôle de chien volant a senti
+le Sans-cœur ?
+!------------------------------!
+Das schwebende weiße Ding kann
+also Herzlose riechen?
+!------------------------------!
+Così quella specie di "cane" fluttuante
+può fiutare gli Heartless?
+!------------------------------!
+¿Así que esta especie de perrito
+flotante puede olfatear a los
+sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe if I give it a bone, it'll help me
+track them down.
+!------------------------------!
+Peut-être que si je lui donne un os,
+il me montrera où ils sont.
+!------------------------------!
+Wenn ich ihm 'nen Knochen gebe,
+verrät es mir vielleicht, wo ich
+denjenigen finde, den ich suche.
+!------------------------------!
+Se gli do un osso, forse potrà
+aiutarmi a rintracciarli.
+!------------------------------!
+Igual si le doy un hueso me
+ayuda a rastrearlos.
+!------------------------------!
+!******************************!

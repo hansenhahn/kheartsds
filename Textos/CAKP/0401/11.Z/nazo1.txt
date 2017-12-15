@@ -1,0 +1,350 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Now, how 'bout the lumber and rope?
+Roxas, gimme a damage assessment for the city.
+!------------------------------!
+Et qu'en est-il des poutres et des cordes ?
+Roxas, décris-moi les dégâts.
+!------------------------------!
+XIGBAR
+Was ist mit dem Holz und den Seilen?
+Roxas, gib mir einen Schadensbericht.
+!------------------------------!
+Che mi dici riguardo al legname
+e le funi? Fammi una valutazione
+dei danni alla città, Roxas.
+!------------------------------!
+¿Y qué hay de la madera y las
+cuerdas? Roxas, haz una
+valoración de los daños.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Well, from the look of it...
+!------------------------------!
+ROXAS
+Hmm, voyons voir...
+!------------------------------!
+ROXAS
+Nun, wie's aussieht ...
+!------------------------------!
+ROXAS
+Uhm, direi che...
+!------------------------------!
+ROXAS
+Bueno, por su aspecto...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+things could've been worse.
+!------------------------------!
+Ça aurait pu être pire.
+!------------------------------!
+sind die Schäden minimal.
+!------------------------------!
+... poteva andare molto peggio.
+!------------------------------!
+La cosa podría haber sido peor.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+the city was devastated.
+!------------------------------!
+La ville a été dévastée.
+!------------------------------!
+wurde die Stadt schwer verwüstet.
+!------------------------------!
+... la città è stata devastata.
+!------------------------------!
+La ciudad ha quedado arrasada.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's just a little wind and sand, right?
+!------------------------------!
+ROXAS
+Les dégâts ont l'air minimes, non ?
+!------------------------------!
+ROXAS
+Nur ein wenig Wind und etwas Sand,
+nicht wahr?
+!------------------------------!
+ROXAS
+In fin dei conti è solo un po'
+di vento e sabbia, no?
+!------------------------------!
+ROXAS
+Solo es un poco de viento y
+arena, ¿no?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+As if! Get your eyes checked, Roxas.
+!------------------------------!
+XIGBAR
+Mais non ! T'as pas les yeux en face des trous,
+Roxas.
+!------------------------------!
+XIGBAR
+Von wegen! Du solltest zum
+Augenarzt gehen, Roxas.
+!------------------------------!
+XIGBAR
+Macché! Ragionaci
+su, Roxas.
+!------------------------------!
+XIGBAR
+¡Pues no!
+Mírate la vista, Roxas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+All the building supplies lying around, and that
+scaffolding?
+!------------------------------!
+Il y a du matériel de construction partout et un
+échafaudage, non ?
+!------------------------------!
+All das herumliegende Baumaterial
+und dann noch die Gerüste?
+!------------------------------!
+Vedi tutti quei materiali edili?
+E quell'impalcatura?
+!------------------------------!
+¿Y todo ese material para
+construir y esos andamios?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+That means they're repairing the city, which means
+it's serious.
+!------------------------------!
+Ça veut dire qu'ils réparent la ville et que c'est
+donc du sérieux.
+!------------------------------!
+Das heißt, die Stadt wird repariert.
+Also wurde sie schwer getroffen.
+!------------------------------!
+Significa che stanno riparando la
+città, quindi i danni sono gravi.
+!------------------------------!
+Significa que están reparando
+la ciudad y que es grave.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This whole place is a wreck.
+!------------------------------!
+ROXAS
+La ville a été durement touchée.
+!------------------------------!
+ROXAS
+Der Ort ist eine einzige Ruine.
+!------------------------------!
+ROXAS
+Questo posto è un
+cumulo di macerie.
+!------------------------------!
+ROXAS
+Todo el lugar está hecho un
+desastre.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Yup, and that's not all.
+!------------------------------!
+XIGBAR
+En effet, mais ce n'est pas tout.
+!------------------------------!
+XIGBAR
+Richtig, aber das ist noch nicht alles.
+!------------------------------!
+XIGBAR
+Sì, ma c'è dell'altro.
+!------------------------------!
+XIGBAR
+Sí, y no solo eso.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+All the building supplies lying around, and that
+scaffolding?
+!------------------------------!
+Il y a du matériel de construction partout et un
+échafaudage, non ?
+!------------------------------!
+All das herumliegende Baumaterial
+und dann noch die Gerüste?
+!------------------------------!
+Vedi tutti quei materiali edili?
+E quell'impalcatura?
+!------------------------------!
+¿Y todo ese material para
+construir y esos andamios?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+They've been rebuilding.
+!------------------------------!
+Ça veut dire qu'ils reconstruisent.
+!------------------------------!
+Sie haben die Stadt wiederaufgebaut.
+!------------------------------!
+Stanno ricostruendo la città.
+!------------------------------!
+Lo están reconstruyendo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+<E2><80><9C>They,<E2><80><9D> who? The citizens?
+!------------------------------!
+ROXAS
+Qui ça ? Les habitants ?
+!------------------------------!
+ROXAS
+Wer denn? Die Einwohner?
+!------------------------------!
+ROXAS
+Chi? Gli abitanti?
+!------------------------------!
+ROXAS
+¿Quiénes? ¿Los ciudadanos?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Who else? And it looks like a major effort.
+!------------------------------!
+XIGBAR
+Ben oui, qui d'autre ? Et ça n'a pas l'air facile.
+!------------------------------!
+XIGBAR
+Wer sonst?
+Und es sieht nach 'ner Menge Arbeit aus.
+!------------------------------!
+XIGBAR
+E chi altri? Sembrano darsi
+molto da fare, oltretutto.
+!------------------------------!
+XIGBAR
+¿Quién si no?
+Y parece un arduo trabajo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+There may be somebody leading the operation.
+!------------------------------!
+Quelqu'un doit sûrement superviser les travaux.
+!------------------------------!
+Es gibt bestimmt jemanden,
+der die Arbeiten leitet.
+!------------------------------!
+Potrebbe esserci qualcuno
+che dirige le operazioni.
+!------------------------------!
+Puede que haya alguien
+dirigiendo las obras.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+You think so?
+!------------------------------!
+ROXAS
+Tu crois ?
+!------------------------------!
+ROXAS
+Meinst du?
+!------------------------------!
+ROXAS
+Dici?
+!------------------------------!
+ROXAS
+¿Eso crees?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+All right, Roxas. We've got what we came for.
+Let's RTC on outta here.
+!------------------------------!
+XIGBAR
+C'est bon, Roxas. On a eu ce qu'on voulait.
+Pour le moment, on rentre.
+!------------------------------!
+XIGBAR
+Gut, Roxas. Wir haben unseren Auftrag
+erledigt. Kehren wir zum Schloss zurück.
+!------------------------------!
+XIGBAR
+Bene, Roxas, qui il nostro lavoro
+è finito. Possiamo rientrare.
+!------------------------------!
+XIGBAR
+Bien, Roxas. Ya tenemos lo
+que queríamos. VAC.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Okay.
+!------------------------------!
+ROXAS
+OK.
+!------------------------------!
+ROXAS
+Okay.
+!------------------------------!
+ROXAS
+Bene.
+!------------------------------!
+ROXAS
+Vale.
+!------------------------------!
+!******************************!

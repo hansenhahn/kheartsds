@@ -1,0 +1,282 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/64.z
+!******************************!
+&.[HDR].2&
+mi/ob/64.z
+!******************************!
+&.[HDR].2&
+mi/ob/64.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mission accomplished.
+And what a strange mission it was.
+!------------------------------!
+Mission accomplie.
+Une mission bien étrange...
+!------------------------------!
+Mission erfüllt.
+War das ein seltsamer Auftrag.
+!------------------------------!
+Missione compiuta.
+Una missione molto strana, comunque.
+!------------------------------!
+Misión cumplida.
+Y vaya una misión más rara.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh, you have to at least give them
+points for trying.
+!------------------------------!
+Au moins, ils auront essayé.
+!------------------------------!
+He, du musst ihnen wenigstens
+Punkte für den Versuch geben.
+!------------------------------!
+Beh, non si può dire che
+non ci abbiano provato.
+!------------------------------!
+Bueno, al menos
+lo han intentado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wonder if she's okay...
+!------------------------------!
+Je me demande si elle va bien...
+!------------------------------!
+Ob es ihr wohl gut geht?
+!------------------------------!
+Chissà se lei sta bene...
+!------------------------------!
+Me pregunto si estará bien...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm? Oh, your tiny friend?
+!------------------------------!
+Qui ça ? Ton amie miniature ?
+!------------------------------!
+Hm? Oh, deiner kleinen Freundin?
+!------------------------------!
+Mmm? Oh, la tua amica minuscola?
+!------------------------------!
+¿Quién? Ah, ¿tu diminuta amiga?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+Maybe we should have gone with her.
+!------------------------------!
+Oui. J'aurais peut-être dû y aller
+avec elle.
+!------------------------------!
+Ja.
+Vielleicht hätten wir sie
+begleiten sollen.
+!------------------------------!
+Sì.
+Forse avremmo dovuto seguirla.
+!------------------------------!
+Sí. Quizá teníamos que
+haber ido con ella.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't think we had much choice.
+!------------------------------!
+On n'avait pas vraiment le choix.
+!------------------------------!
+Wir hatten doch keine Wahl.
+!------------------------------!
+Non avevamo altra scelta, temo.
+!------------------------------!
+No creo que tuviéramos
+mucha elección.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're not getting anywhere near that
+ship today.
+!------------------------------!
+Ce n'est pas aujourd'hui que nous
+irons sur ce navire.
+!------------------------------!
+Das Schiff liegt nicht
+auf unserem Weg.
+!------------------------------!
+Oggi non possiamo assolutamente
+avvicinarci a quella nave.
+!------------------------------!
+Hoy no nos vamos a acercar ni
+un poquito a ese barco.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Cheer up. She looked pretty determined.
+She'll be fine.
+!------------------------------!
+Allez, arrête. Elle n'a pas l'air de
+se laisser marcher sur les pieds.
+Tout ira bien.
+!------------------------------!
+Kopf hoch. Sie wirkte ziemlich
+entschlossen. Sie wird's schon
+schaffen.
+!------------------------------!
+Tranquillo, sembrava piuttosto
+determinata. Se la caverà.
+!------------------------------!
+Anímate. Ella parecía bastante
+de armas tomar. Estará bien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah... I guess so.
+!------------------------------!
+Oui... tu as sûrement raison.
+!------------------------------!
+Ja ... du hast wohl recht.
+!------------------------------!
+Sì... hai ragione.
+!------------------------------!
+Sí... Eso espero.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C'mon, let's RTC.
+!------------------------------!
+Allez, on rentre.
+!------------------------------!
+Komm schon, kehren wir
+zum Schloss zurück.
+!------------------------------!
+Forza, torniamo indietro.
+!------------------------------!
+Vamos, toca VAC.
+!------------------------------!
+!******************************!

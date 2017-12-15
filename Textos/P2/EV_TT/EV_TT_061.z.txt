@@ -1,0 +1,185 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/05.z
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Your mission today is to eliminate a set
+quantity of Heartless.
+!------------------------------!
+La mission d'aujourd'hui consiste
+à éliminer un certain nombre de
+Sans-cœur.
+!------------------------------!
+Heute lautet deine Mission,
+eine bestimmte Anzahl
+von Herzlosen auszuschalten.
+!------------------------------!
+La missione di oggi prevede
+di eliminare un certo
+numero di Heartless.
+!------------------------------!
+La misión de hoy es eliminar
+a varios sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Organization may call upon you to
+meet other objectives<E2><80><95>perform recon,
+for example.
+!------------------------------!
+En tant que membre de l'Organisation,
+on pourra te demander de participer
+à différentes missions.
+!------------------------------!
+Als Organisationsmitglied
+kannst du auf unterschiedliche
+Missionen geschickt werden.
+!------------------------------!
+L'Organizzazione potrà chiederti
+di svolgere altri compiti,
+ricognizioni per esempio.
+!------------------------------!
+La Organización te dará
+misiones: de reconocimiento,
+por ejemplo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But regardless of the task you have
+been given, your primary orders still
+hold.
+!------------------------------!
+Mais n'oublie pas que tu es le seul
+à pouvoir manier la Keyblade.
+!------------------------------!
+Aber unabhängig von den
+Missionszielen ist dein
+Hauptziel weiter gültig.
+!------------------------------!
+Ma indipendentemente dalle
+richieste ricevute, i tuoi ordini
+primari non cambiano.
+!------------------------------!
+Pero sea cual sea la misión,
+las órdenes básicas son las
+mismas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You and that Keyblade of yours serve
+us best by collecting hearts.
+!------------------------------!
+Alors ce n'est pas parce qu'on t'a
+confié une autre mission que tu
+ne dois pas récupérer des cœurs.
+!------------------------------!
+Du und dein Schlüsselschwert
+dienen uns am besten, indem
+ihr Herzen sammelt.
+!------------------------------!
+Tu e il tuo Keyblade
+siete più utili per raccogliere
+i cuori.
+!------------------------------!
+Tu tarea y la de tu llave espada
+es recoger corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, even if I'm given another job, I
+should keep taking out Heartless while
+I do it?
+!------------------------------!
+Donc je devrai toujours vaincre des
+Sans-cœur avec ma Keyblade ?
+!------------------------------!
+Ich soll also auch Herzlose
+ausschalten, wenn meine Mission
+eigentlich anders lautet?
+!------------------------------!
+Per cui anche se mi viene
+chiesto altro dovrò continuare
+a eliminare gli Heartless?
+!------------------------------!
+¿Entonces tengo que seguir
+eliminando a los sincorazón
+con mi llave espada?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Correct. Today, however, the two
+happily coincide.
+!------------------------------!
+C'est exact.
+Bon, on y va ?
+!------------------------------!
+Ganz genau.
+Heute stimmen diese Ziele
+aber glücklicherweise überein.
+!------------------------------!
+Esatto. Per fortuna
+oggi le due cose coincidono.
+!------------------------------!
+Correcto, aunque hoy
+coinciden ambas tareas.
+!------------------------------!
+!******************************!

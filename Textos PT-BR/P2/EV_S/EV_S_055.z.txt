@@ -1,0 +1,300 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:36
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[HDR].2&
+/ba/ch/ro/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/ax/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/xo/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/sa/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/xe/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/xi/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/xa/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/de/def.p.z
+!******************************!
+&.[HDR].2&
+/ba/ch/lu/def.p.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The time has arrived.
+!------------------------------!
+Notre attente touche à sa fin.
+!------------------------------!
+Es ist so weit.
+!------------------------------!
+La nostra attesa è finita.
+!------------------------------!
+Se acabó la espera.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look to the skies!
+!------------------------------!
+Regardez les cieux.
+!------------------------------!
+Schaut zum Himmel!
+!------------------------------!
+Osservate il cielo.
+!------------------------------!
+Mirad al cielo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There hangs the heart of all hearts<E2><80><95>
+Kingdom Hearts<E2><80><95>shining down on us at
+last.
+!------------------------------!
+Ici se trouve le cœur de tous les
+cœurs... Kingdom Hearts nous fait
+enfin l'honneur de nous illuminer.
+!------------------------------!
+Da ist das Herz aller Herzen ...
+Kingdom Hearts ... und es scheint
+endlich auf uns herab.
+!------------------------------!
+Ecco il cuore di tutti i cuori.
+Kingdom Hearts! Finalmente
+splendono su di noi.
+!------------------------------!
+Ahí pende el corazón supremo,
+Kingdom Hearts, vertiendo su
+luz sobre nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+See the countless hearts that have
+gathered? Hearts full of rage...hate...
+sadness...and bliss.
+!------------------------------!
+Voyez-vous ces innombrables cœurs
+rassemblés ? Des cœurs plein de rage,
+de haine, de tristesse... et de joie.
+!------------------------------!
+Seht ihr all die Herzen, die wir
+gesammelt haben? Herzen voller
+Wut, Hass, Trauer und Glück.
+!------------------------------!
+Vedete gli innumerevoli cuori?
+Cuori colmi di rabbia... ira...
+tristezza... e felicità.
+!------------------------------!
+¿Veis los incontables corazones
+reunidos? Llenos de ira... 
+odio... tristeza... y felicidad.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There, in the sky, hangs the promise of
+a new world.
+!------------------------------!
+Là, dans les cieux, se tient la
+promesse d'un monde nouveau.
+!------------------------------!
+Am Himmel steht das Versprechen
+einer neuen Welt.
+!------------------------------!
+Lassù, in alto nel cielo, c'è la
+promessa di un nuovo mondo.
+!------------------------------!
+Ahí en el cielo tenemos la
+promesa de un nuevo mundo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+My friends!
+!------------------------------!
+Mes amis !
+!------------------------------!
+Meine Freunde!
+!------------------------------!
+Amici miei!
+!------------------------------!
+¡Amigos míos!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Remember why we have organized<E2><80><95>
+all the things we hope to achieve.
+!------------------------------!
+N'oublions pas pourquoi nous nous
+sommes organisés et le but que
+nous souhaitons atteindre.
+!------------------------------!
+Erinnert euch an die Ziele
+der Organisation, an alles,
+was wir erreichen wollten.
+!------------------------------!
+Ricordate perché ci siamo uniti,
+e tutto ciò che speriamo di
+ottenere.
+!------------------------------!
+Recordad el motivo de nuestra
+organización, lo que hemos
+soñado con lograr.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The strength of the human heart is
+vast. Soon, though...we will have
+gained power over it!
+!------------------------------!
+La puissance du cœur humain est
+certes énorme, mais bientôt...
+nous la contrôlerons !
+!------------------------------!
+Die Stärke des menschlichen
+Herzens ist groß. Aber bald ...
+werden wir Macht darüber haben.
+!------------------------------!
+La potenza del cuore umano è
+enorme... Presto, però... sarà in
+nostro potere!
+!------------------------------!
+Es hora de conseguir aquello
+de lo que carecemos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Never again will it...have power over
+us.
+!------------------------------!
+Et elle n'aura alors plus jamais
+d'influence sur nous.
+!------------------------------!
+Nie wieder ... wird es Macht über
+uns haben.
+!------------------------------!
+Non avrà... mai più potere su di noi.
+!------------------------------!
+Pronto estará completo
+Kingdom Hearts. Y con él,
+también nosotros lo estaremos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

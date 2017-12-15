@@ -1,0 +1,4 @@
+11.Z LZSS
+_s.Z LZSS
+em0 None
+em0m None

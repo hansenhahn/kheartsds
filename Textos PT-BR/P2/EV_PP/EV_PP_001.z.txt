@@ -1,0 +1,67 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então é esta a Terra do Nunca...
+!------------------------------!
+Alors, c'est ça le Pays Imaginaire...
+!------------------------------!
+Das ist also Nimmerland ...
+!------------------------------!
+Eccomi all'Isola che non c'è...
+!------------------------------!
+Así que esto es el
+País de Nunca Jamás...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Qual era mesmo o nome daquele Heartless
+que tenho de procurar? Um Wavecrest?
+!------------------------------!
+C'est quoi déjà le Sans-cœur que
+je cherche ? Ah oui, un Tsunami !
+!------------------------------!
+Wie heißt noch mal der Herzlose,
+nach dem ich suche? Wellenberg?
+!------------------------------!
+Come si chiamava quell'Heartless
+che devo trovare? Crestaonda?
+!------------------------------!
+¿Cómo se llama ese sincorazón
+que ando buscando? ¿Crestaola?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Deve tá por aqui em algum lugar.
+!------------------------------!
+Il doit être quelque part par ici.
+!------------------------------!
+Er muss hier irgendwo sein.
+!------------------------------!
+Dev'essere qui da qualche parte.
+!------------------------------!
+Tiene que estar por aquí,
+en algún sitio.
+!------------------------------!
+!******************************!

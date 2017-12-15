@@ -1,0 +1,12 @@
+b0
+beast
+cmp
+e0
+info
+n0
+n1
+n2
+score
+tex1
+tex2
+_i

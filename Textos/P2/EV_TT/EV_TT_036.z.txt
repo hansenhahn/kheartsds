@@ -1,0 +1,377 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess you're all right.
+We're cool, man.
+!------------------------------!
+T'es plutôt doué.
+C'est cool ça !
+!------------------------------!
+Ich schätze, du bist ziemlich gut.
+Alles cool, Mann.
+!------------------------------!
+Te la cavi.
+Siamo a posto, amico.
+!------------------------------!
+Sí, eres bastante bueno.
+Buen rollo, colega.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uh...thanks?
+!------------------------------!
+Euh, doué ?
+!------------------------------!
+Äh ... danke?
+!------------------------------!
+Uhm... Grazie?
+!------------------------------!
+Eh... ¿gracias?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sorry for railing on you before.
+!------------------------------!
+Désolé de pas avoir été sympa avec
+toi tout à l'heure.
+!------------------------------!
+Entschuldige das vorhin.
+!------------------------------!
+Scusa per prima.
+!------------------------------!
+Perdona mis malos modos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hayner was only acting all grumpy
+because Seifer beat his record.
+!------------------------------!
+Hayner était grognon parce que
+Seifer avait battu son record.
+!------------------------------!
+Hayner war nur sauer, weil Seifer
+seinen Rekord geschlagen hat.
+!------------------------------!
+Hayner era così irritato perché
+Seifer ha battuto il suo record.
+!------------------------------!
+Hayner estaba malhumorado
+porque Seifer ha batido
+su récord.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey! That's enough from the peanut
+gallery!
+!------------------------------!
+Hé ! Ça suffit espèce de cafard !
+!------------------------------!
+Hey! Ruhe auf den billigen Plätzen!
+!------------------------------!
+Ehi! Basta parlare di
+queste sciocchezze!
+!------------------------------!
+¡Oye! ¡Ya está bien
+de cachondeo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hee hee...
+!------------------------------!
+Hi, hi, hi...
+!------------------------------!
+Hi, hi ...
+!------------------------------!
+Eh eh...
+!------------------------------!
+Je, je, je...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That includes you!
+!------------------------------!
+Toi aussi !
+!------------------------------!
+Du bist auch gemeint!
+!------------------------------!
+Vale anche per te!
+!------------------------------!
+¡Y eso también va por ti!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh.
+!------------------------------!
+Hé, hé, hé.
+!------------------------------!
+He, he.
+!------------------------------!
+Eh eh.
+!------------------------------!
+Je, je, je.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh great, now even the new guy is
+laughing at me.
+!------------------------------!
+Super... même le nouveau se moque
+de moi maintenant.
+!------------------------------!
+Na super, jetzt lacht mich sogar
+der Neue aus.
+!------------------------------!
+Oh, grandioso. Ora anche l'ultimo
+arrivato ride di me...
+!------------------------------!
+Genial, ahora hasta el nuevo
+se ríe de mí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, you said you were passing by.
+Does that mean you have to head off
+soon? Because if not<E2><80><95>
+!------------------------------!
+Comme ça, tu faisais que passer ?
+Est-ce que ça veut dire que tu dois
+repartir ? Parce que sinon...
+!------------------------------!
+Du wolltest also irgendwohin.
+Heißt das, du musst bald weiter?
+Weil, wenn nicht ...
+!------------------------------!
+Hai detto di essere solo di
+passaggio, no? Allora vattene
+alla svelta, altrimenti...
+!------------------------------!
+Decías que estabas de paso.
+¿Eso significa que vas a irte
+pronto? Porque si te quedas...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, I do. I should go.
+!------------------------------!
+Si, si, je vais devoir y aller.
+!------------------------------!
+Nein. Ich muss weiter.
+!------------------------------!
+Sì, ora devo proprio andare.
+!------------------------------!
+No, creo que debería irme.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right. Sorry for holding you up.
+We should get going too.
+!------------------------------!
+Ah OK, pardon de te retenir.
+On devrait y aller nous aussi.
+!------------------------------!
+Okay. Entschuldige, dass wir dich
+aufgehalten haben. Wir sollten auch
+gehen.
+!------------------------------!
+Bene. Scusa se ti abbiamo fatto
+perdere tempo. Dovremmo
+andarcene anche noi...
+!------------------------------!
+Vale. Perdona por entretenerte.
+Nosotros también deberíamos
+irnos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+Anyway, we'll see you later.
+!------------------------------!
+Oui.
+De toute façon, on se reverra !
+!------------------------------!
+Ja.
+Bis später dann.
+!------------------------------!
+Sì.
+Alla prossima!
+!------------------------------!
+Sí.
+En fin, nos vemos luego.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bye for now! Hope we can practice
+Grandstander again soon!
+!------------------------------!
+Allez, salut ! J'espère qu'on pourra
+encore s'entraîner ensemble au
+Lancer habile !
+!------------------------------!
+Bis bald! Ich hoffe wir können bald
+mal wieder zusammen trainieren!
+!------------------------------!
+A presto, allora! E spero di
+vederti di nuovo palleggiare!
+!------------------------------!
+¡Adiós, por ahora! ¡Espero que
+volvamos a practicar pronto!
+!------------------------------!
+!******************************!

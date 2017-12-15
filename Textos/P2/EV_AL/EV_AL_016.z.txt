@@ -1,0 +1,251 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[HDR].2&
+1:55
+!******************************!
+&.[HDR].2&
+mi/ob/80.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's he staring at that wall for,
+anyway?
+!------------------------------!
+Pourquoi est-ce qu'il reste planté
+devant ce mur ?
+!------------------------------!
+Warum starrt er die Wand da an?
+!------------------------------!
+Perché sta fissando quel muro?
+!------------------------------!
+¿Y por qué está mirando esa
+pared, por cierto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, we wouldn't be investigating if
+we knew all the answers.
+!------------------------------!
+Roxas, on ne serait pas en train
+de l'espionner si on le savait.
+!------------------------------!
+Roxas, wenn wir alles wüssten,
+müssten wir keine
+Nachforschungen anstellen.
+!------------------------------!
+Roxas, non saremmo qui a indagare
+se avessimo già tutte le risposte.
+!------------------------------!
+Roxas, no estaríamos
+investigando si supiéramos
+todas las respuestas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bingo!
+!------------------------------!
+Bingo !
+!------------------------------!
+Bingo!
+!------------------------------!
+Tombola!
+!------------------------------!
+¡Bingo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh heh!
+I finally found it!
+!------------------------------!
+Mouahaha !
+J'ai trouvé !
+!------------------------------!
+He, he, he!
+Endlich hab ich ihn gefunden!
+!------------------------------!
+Ah ah ah!
+Sì, l'ho trovato!
+!------------------------------!
+¡Je, je, je, je!
+¡Al fin la he encontrado!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Open sesames!
+!------------------------------!
+Hé, hé ! Sésame, ouvre-toi !
+!------------------------------!
+Sesam öffne dich!
+!------------------------------!
+Apriti sesamo!
+!------------------------------!
+¡Ábrete, sésamo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A hidden door in the middle of the city?
+Why? Where does it lead?
+!------------------------------!
+Une porte secrète en plein cœur
+de la ville ? Où mène-t-elle ?
+!------------------------------!
+Eine Geheimtür mitten in
+der Stadt? Wieso? Wo führt
+sie hin?
+!------------------------------!
+Un ingresso nascosto nel bel
+mezzo della città? Perché?
+E dove conduce?
+!------------------------------!
+¿Una puerta escondida en medio
+de la ciudad? ¿Para qué?
+¿Adónde llevará?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I think our friend there is about to
+show us.
+!------------------------------!
+Je crois que notre ami
+va nous le montrer.
+!------------------------------!
+Das wird uns unser Freund
+sicher gleich zeigen.
+!------------------------------!
+Credo che il nostro amico
+stia per mostrarcelo.
+!------------------------------!
+Creo que nuestro amigo
+está a punto de enseñárnoslo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Keep tailing him.
+And try to be subtle about it.
+!------------------------------!
+Suis-le.
+Et essaie de rester discret.
+!------------------------------!
+Bleib an ihm dran.
+Und zwar möglichst unauffällig.
+!------------------------------!
+Dobbiamo seguirlo.
+Senza dare nell'occhio,
+ovviamente.
+!------------------------------!
+Continúa siguiéndolo.
+Y procura pasar desapercibido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

@@ -1,0 +1,3 @@
+chara
+t_MO
+t_SA

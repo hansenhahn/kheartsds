@@ -1,0 +1,135 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:16
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel.
+I have a message from Lord Xemnas.
+!------------------------------!
+Axel, j'ai un message pour toi de
+la part du Seigneur Xemnas.
+!------------------------------!
+Axel!
+Ich habe eine Nachricht von
+Lord Xemnas.
+!------------------------------!
+Axel.
+Ho un messaggio da Lord
+Xemnas.
+!------------------------------!
+Axel. Tengo un mensaje de lord
+Xemnas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We have reason to believe one or more
+of the members assigned to C.O. intend
+to betray us.
+!------------------------------!
+Nous avons des raisons de penser
+qu'un ou plusieurs des membres
+envoyés au M.O. vont nous trahir.
+!------------------------------!
+Wir haben Grund zu der Annahme,
+dass eines oder mehrere der zugeteilten
+Mitglieder vorhaben, uns zu hintergehen. 
+!------------------------------!
+Abbiamo ragione di credere che
+uno o più membri assegnati
+al C.O. intendano tradirci.
+!------------------------------!
+Sospechamos que uno o más
+miembros asignados al CO planea
+traicionarnos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Find them, and dispose of them.
+!------------------------------!
+Trouve-les et débarrasse-nous d'eux.
+!------------------------------!
+Finde sie und lass sie verschwinden.
+!------------------------------!
+Trovali e sbarazzati di loro.
+!------------------------------!
+Descúbrelos y deshazte de ellos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And I take it that's straight from Lord
+Xemnas's lips, huh?
+!------------------------------!
+C'est un ordre direct du Seigneur
+Xemnas, j'imagine...
+!------------------------------!
+So hat es Lord Xemnas wortwörtlich
+gesagt, hm?
+!------------------------------!
+Immagino che sia Lord Xemnas
+in persona a sospettarlo, eh?
+!------------------------------!
+Una orden directa de parte
+de lord Xemnas, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

@@ -1,0 +1,216 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:4
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This should be fun, huh?
+Tripling up like this.
+!------------------------------!
+Ça devrait être sympa, hein ?
+Nous trois réunis.
+!------------------------------!
+Das macht bestimmt Spaß, was?
+So zu dritt.
+!------------------------------!
+Ci sarà da divertirsi, eh?
+Ora siamo in tre.
+!------------------------------!
+Esto es estupendo, ¿eh? Los tres
+juntos lo pasaremos en grande.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, I think this is my first three-man
+mission.
+!------------------------------!
+Je crois que c'est la première fois
+que je pars en mission à trois.
+!------------------------------!
+Ja, ich glaube das ist meine
+erste Drei-Mann-Mission.
+!------------------------------!
+Sì, credo che questa sia la
+mia prima missione in tre.
+!------------------------------!
+Sí, creo que esta es mi primera
+misión para tres.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just remember it's still a mission.
+We're not on a field trip, guys.
+!------------------------------!
+Mais n'oublions pas que c'est une
+mission. On n'est pas ici pour le
+plaisir.
+!------------------------------!
+Aber denkt dran, es ist immer
+noch eine Mission. Das ist
+kein Ausflug.
+!------------------------------!
+Ricordate che è pur sempre una
+missione. Non stiamo facendo
+una scampagnata, ragazzi.
+!------------------------------!
+No olvidéis que es una misión.
+No estamos de excursión, chicos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, yeah.
+It sure is nice to be back on my feet.
+!------------------------------!
+Oui, c'est vrai.
+En tout cas, je suis bien contente
+d'être remise d'aplomb.
+!------------------------------!
+Ja, ja.
+Schön, wieder auf den Beinen
+zu sein.
+!------------------------------!
+Sì, sì.
+È bello essere di nuovo in
+azione.
+!------------------------------!
+Que sí, que sí.
+Me alegro de estar
+en pie otra vez.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just don't push it, you hear me?
+We'll pick up the slack.
+!------------------------------!
+Ménage-toi quand même, d'accord ?
+Nous on se charge du plus gros.
+!------------------------------!
+Setz dich aber nicht zu sehr
+unter Druck, okay? Wir übernehmen
+den Rest.
+!------------------------------!
+Vedi di non esagerare, OK?
+Recupereremo con calma
+tutto il lavoro perso.
+!------------------------------!
+No te esfuerces mucho, ¿eh?
+Nosotros nos ocuparemos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I hear you.
+Thanks.
+!------------------------------!
+D'accord.
+Merci.
+!------------------------------!
+Alles klar.
+Danke.
+!------------------------------!
+Ho capito.
+Grazie.
+!------------------------------!
+Lo que tú digas.
+Gracias.
+!------------------------------!
+!******************************!

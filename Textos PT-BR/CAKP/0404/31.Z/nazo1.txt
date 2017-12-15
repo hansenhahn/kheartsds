@@ -1,0 +1,64 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Hunh.
+Então parece que os interruptores
+eram para esses degraus.
+!------------------------------!
+XION
+Oh...
+Les interrupteurs ont actionné ces marches.
+!------------------------------!
+XION
+Hrgh.
+Die Schalter waren also für diese Stufen.
+!------------------------------!
+XION
+Uh. Quindi gli interruttori erano
+per quei gradini.
+!------------------------------!
+XION
+Vaya. Así que los
+interruptores eran para estos
+escalones.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Vamos ver aonde levam.
+!------------------------------!
+ROXAS
+Voyons où ça mène.
+!------------------------------!
+ROXAS
+Mal sehen, wo sie hinführen.
+!------------------------------!
+ROXAS
+Vediamo dove conducono.
+!------------------------------!
+ROXAS
+Veamos adónde llevan.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Tá!
+!------------------------------!
+XION
+D'accord !
+!------------------------------!
+XION
+Okay!
+!------------------------------!
+XION
+Sì!
+!------------------------------!
+XION
+¡De acuerdo!
+!------------------------------!
+!******************************!

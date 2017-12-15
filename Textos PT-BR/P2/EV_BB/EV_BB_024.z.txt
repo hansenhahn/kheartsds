@@ -1,0 +1,741 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:34
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/16.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/04.z
+!******************************!
+&.[HDR].2&
+mi/ob/05.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mission accomplished.
+!------------------------------!
+Mission accomplie.
+!------------------------------!
+Mission erfüllt.
+!------------------------------!
+Missione compiuta.
+!------------------------------!
+Misión cumplida.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+!------------------------------!
+Oui.
+!------------------------------!
+Ja.
+!------------------------------!
+Già.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ready to head back?
+We can stop for ice cream and<E2><80><95>
+!------------------------------!
+Tu es prêt à rentrer ?
+On pourrait aller manger une
+glace et...
+!------------------------------!
+Bereit zurückzukehren?
+Wir könnten uns noch ein Eis
+holen und ...
+!------------------------------!
+Pronto a tornare indietro?
+Possiamo fermarci a
+prendere un gelato e...
+!------------------------------!
+¿Listo para volver?
+¿Paramos a buscar un heladito
+y...?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh!?
+!------------------------------!
+Hein ?
+!------------------------------!
+Huch!?
+!------------------------------!
+Uh?!
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Graaaaaaugh!
+!------------------------------!
+Grrrrrrrrrrrrr !
+!------------------------------!
+Graaaaaauhhh!
+!------------------------------!
+Graaaaaugh!
+!------------------------------!
+¡Graaaaaaugh!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Heartless do not belong here<E2><80><95>
+not in my castle!
+!------------------------------!
+Je ne tolérerai pas la présence de
+Sans-cœur en ma demeure !
+!------------------------------!
+Ich dulde keine Herzlosen
+in meinem Schloss!
+!------------------------------!
+Non voglio vedere Heartless qui...
+non nel mio castello!
+!------------------------------!
+¡No toleraré a ningún
+sincorazón en mi castillo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whoa...
+!------------------------------!
+Waouh...
+!------------------------------!
+Wow ...
+!------------------------------!
+Uah...
+!------------------------------!
+Guau...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So he has been fighting the Heartless.
+!------------------------------!
+Alors il se bat contre les
+Sans-cœur ?
+!------------------------------!
+Es bekämpft also die Herzlosen.
+!------------------------------!
+Sta lottando contro gli
+Heartless.
+!------------------------------!
+Así que ha estado combatiendo
+a los sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Apparently.
+!------------------------------!
+Il faut croire.
+!------------------------------!
+Offensichtlich.
+!------------------------------!
+Pare di sì.
+!------------------------------!
+Eso parece.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess this castle plays by different
+rules than ours.
+!------------------------------!
+Apparemment, ce château ne suit pas
+les mêmes règles que les nôtres.
+!------------------------------!
+In diesem Schloss herrschen
+anscheinend andere Regeln
+als unsere.
+!------------------------------!
+In questo castello vigono regole
+molto diverse dalle nostre.
+!------------------------------!
+Supongo que este castillo se
+rige por reglas distintas a las
+del nuestro.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you mean?
+!------------------------------!
+Comment ça ?
+!------------------------------!
+Was meinst du?
+!------------------------------!
+Che vuoi dire?
+!------------------------------!
+¿Qué quieres decir?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That beast is the master here, right?
+!------------------------------!
+Ce monstre est le maître des lieux,
+pas vrai ?
+!------------------------------!
+Das Monster ist hier der Herr,
+oder?
+!------------------------------!
+Quel mostro è il padrone
+di questo posto, vero?
+!------------------------------!
+Ese monstruo es el
+amo aquí, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+Oui.
+!------------------------------!
+Stimmt.
+!------------------------------!
+Sì.
+!------------------------------!
+Correcto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And Xemnas is our master, right?
+!------------------------------!
+Et Xemnas est notre maître à nous,
+non ?
+!------------------------------!
+Und unser Herr ist Xemnas, oder?
+!------------------------------!
+E Xemnas è il nostro "padrone",
+no?
+!------------------------------!
+Y Xemnas es nuestro amo, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right...?
+!------------------------------!
+Euh... oui ?
+!------------------------------!
+Stimmt ...?
+!------------------------------!
+Sì, e allora...?
+!------------------------------!
+¿Y bien...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But if Heartless showed up in our
+castle, we'd be the ones to get rid of
+them, not Xemnas.
+!------------------------------!
+Si des Sans-cœur envahissaient
+la citadelle, c'est nous qui nous
+en chargerions. Pas Xemnas.
+!------------------------------!
+Also, wenn bei uns Herzlose
+auftauchen würden, müssten wir
+sie bekämpfen, nicht Xemnas.
+!------------------------------!
+Se gli Heartless invadessero il
+nostro castello, saremmo
+noi a eliminarli, non Xemnas.
+!------------------------------!
+Si hubiera sincorazón
+en nuestro castillo, nos ocupa-
+ríamos nosotros, no Xemnas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, yeah. That's our job.
+!------------------------------!
+Bien sûr, c'est notre rôle.
+!------------------------------!
+Tja, ja. Das ist unser Job.
+!------------------------------!
+Beh, certo. È il nostro dovere.
+!------------------------------!
+Bueno, sí. Ese es
+nuestro trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Exactly. I figured it worked like that
+everywhere. I thought that's what
+being master meant.
+!------------------------------!
+Exactement. Je pensais que c'était
+partout pareil et que c'était ça,
+l'avantage d'être maître.
+!------------------------------!
+Genau. Ich dachte, es wäre
+überall so. Ich dachte, das würde
+das Herrsein ausmachen.
+!------------------------------!
+Esatto, ma pensavo fosse così
+ovunque, che questo significasse
+essere un "padrone".
+!------------------------------!
+Exacto. Me imaginaba que en to-
+das partes sería igual. Creía
+que eso era ser el amo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+After all, he's got servants here.
+!------------------------------!
+Après tout, il a des domestiques...
+!------------------------------!
+Immerhin hat er hier Diener.
+!------------------------------!
+Del resto, anche quel mostro
+ha dei servitori.
+!------------------------------!
+Al fin y al cabo, él
+tiene criados aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He shouldn't have to fight.
+!------------------------------!
+Il ne devrait pas avoir à se battre.
+!------------------------------!
+Er bräuchte nicht zu kämpfen.
+!------------------------------!
+Non dovrebbe combattere
+in prima persona.
+!------------------------------!
+No tiene por qué luchar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know that I'd call us Xemnas's
+servants, exactly...
+!------------------------------!
+Je ne sais pas si on est vraiment les
+domestiques de Xemnas...
+!------------------------------!
+Ich würde uns nicht gerade
+Xemnas' Diener nennen ...
+!------------------------------!
+Non so se possiamo considerarci
+i servitori di Xemnas...
+!------------------------------!
+No sabría decirte si somos 
+los criados de Xemnas
+exactamente...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But you're right.
+If he's taking the Heartless on himself,
+he must have a good reason.
+!------------------------------!
+mais tu as raison. Si c'est lui qui
+affronte les Sans-cœur, il doit
+avoir une bonne raison.
+!------------------------------!
+Aber du hast recht. Er muss einen
+guten Grund haben, es selbst mit
+den Herzlosen aufzunehmen.
+!------------------------------!
+Però hai ragione. Deve avere un
+ottimo motivo per combattere gli
+Heartless da solo.
+!------------------------------!
+Pero tienes razón. Si se ocupa
+de los sincorazón él mismo, debe
+de tener un buen motivo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like what?
+!------------------------------!
+Comme quoi ?
+!------------------------------!
+Der da wäre?
+!------------------------------!
+Per esempio?
+!------------------------------!
+¿Como cuál?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like...maybe he has something he wants
+to protect.
+!------------------------------!
+Peut-être... qu'il protège
+quelque chose.
+!------------------------------!
+Zum Beispiel ...
+Er muss etwas beschützen.
+!------------------------------!
+Per esempio...
+Beh, forse ha qualcosa che
+vuole proteggere.
+!------------------------------!
+Como... que quizá tenga
+algo que proteger.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+Hmm...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's call it a day, Roxas.
+Axel's probably waiting.
+!------------------------------!
+C'est bon pour aujourd'hui, Roxas.
+Axel doit nous attendre.
+!------------------------------!
+Machen wir Schluss, Roxas.
+Axel wartet bestimmt.
+!------------------------------!
+Per oggi basta così, Roxas.
+Axel ci starà aspettando.
+!------------------------------!
+Dejémoslo para otro día, Roxas.
+Axel ya nos estará esperando.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+!------------------------------!
+C'est vrai.
+!------------------------------!
+Ja.
+!------------------------------!
+D'accordo.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!

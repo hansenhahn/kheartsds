@@ -1,0 +1,295 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+1:32
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/24.z
+!******************************!
+&.[HDR].2&
+mi/ch/44.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ch/45.z
+!******************************!
+&.[HDR].2&
+mi/ch/46.z
+!******************************!
+&.[HDR].2&
+mi/ch/45.z
+!******************************!
+&.[HDR].2&
+mi/ch/46.z
+!******************************!
+&.[HDR].2&
+mi/ch/45.z
+!******************************!
+&.[HDR].2&
+mi/ch/46.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+R-reporting in, Your Majesty! So far,
+our search has failed to turn up any
+trio, including that which startled you.
+!------------------------------!
+Au rapport, Votre Majesté ! Pour le
+moment, nous n'avons pas retrouvé
+les trois individus recherchés.
+!------------------------------!
+M-Melde mich zu Diensten, Eure
+Majestät! Bisher konnten wir kein
+unsägliches Trio finden.
+!------------------------------!
+A-a rapporto, Vostra Maestà!
+Finora le nostre ricerche non ci hanno
+condotto al trio che vi ha infastidita.
+!------------------------------!
+¡I-informando a Su Majestad!
+De momento, no hemos dado con el
+trío que os ha asustado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The only place left to look is in the
+royal Rose Garden.
+!------------------------------!
+Il ne nous reste plus que vos jardins
+à inspecter.
+!------------------------------!
+Der einzige Ort, an dem wir noch
+nicht gesucht haben, ist der
+königliche Rosengarten.
+!------------------------------!
+L'unico luogo che ci resta da controllare
+è il giardino di rose.
+!------------------------------!
+El único lugar que queda por
+registrar son vuestros jardines
+privados
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nrrrgh...
+!------------------------------!
+Grrrrrr...
+!------------------------------!
+Nrrrgh ...
+!------------------------------!
+Nrrrgh...
+!------------------------------!
+Grrr...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then go! I want those suspicious
+scoundrels brought here to me.
+Sentences must be served!
+!------------------------------!
+ALLEZ-Y ! Je veux qu'on me ramène
+ces trois crapules afin que justice
+soit faite !
+!------------------------------!
+Dann geh! Ich will diese Schufte
+vor mir stehen sehen. Es gibt
+Strafen zu verbüßen!
+!------------------------------!
+Allora va'! Voglio che quelle canaglie
+sospette siano condotte qui da me.
+Deve essere fatta giustizia!
+!------------------------------!
+¡Pues hacedlo! Queremos que se
+traiga ante nos a esos bribones
+sospechosos. ¡Hay que juzgarlos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Looks like there's been trouble here.
+!------------------------------!
+On dirait qu'il s'est passé quelque
+chose ici.
+!------------------------------!
+Hört sich nach Ärger an.
+!------------------------------!
+Sembra che qui ci siano dei problemi.
+!------------------------------!
+Parece que ahí se ha
+montado una buena.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, bad time to drop in... Who's this
+suspicious trio they're after? Are we
+not the only outsiders here?
+!------------------------------!
+Oui, et ce n'est pas le moment d'être
+vus... Qui sont ces trois individus ?
+Ne sommes-nous pas les seuls intrus ?
+!------------------------------!
+Ja, schlechter Zeitpunkt
+für einen Besuch ...
+Was ist das für ein Trio? 
+!------------------------------!
+Sì, non mi sembra il momento migliore.
+Che cosa sarà mai quel "trio sospetto"?
+Forse non siamo gli unici estranei, qui?
+!------------------------------!
+Hemos llegado en mal momento...
+¿Quiénes son esos a los que buscan?
+¿No somos los únicos forasteros?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ahh... Perhaps we were right to chase
+your busy bunny friend.
+!------------------------------!
+Finalement... nous avons peut-être eu
+raison de suivre notre ami le lapin.
+!------------------------------!
+Ahh ... Anscheinend war es
+richtig, deinen kleinen
+Kaninchenfreund zu verfolgen.
+!------------------------------!
+Ahh... Forse abbiamo fatto bene a
+seguire il tuo coniglio preoccupato.
+!------------------------------!
+Aah... Quizá no hayamos hecho
+mal en seguir a tu peludo amigo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why's that?
+!------------------------------!
+Pourquoi ça ?
+!------------------------------!
+Wieso?
+!------------------------------!
+Perché?
+!------------------------------!
+¿Y eso por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Time to get to work, Roxas.
+Let's uncover this tricky tierce. 
+!------------------------------!
+C'est l'heure de se mettre au travail,
+Roxas. Découvrons qui sont ces trois
+<E2><80><9C>individus<E2><80><9D>. 
+!------------------------------!
+Zeit, sich an die Arbeit
+zu machen, Roxas. Decken wir
+dieses komplizierte Spiel auf.
+!------------------------------!
+Ora mettiamoci al lavoro, Roxas.
+Indaghiamo su quel fantomatico trio.
+!------------------------------!
+Es hora de ponerse manos a la
+obra, Roxas. Vamos a encontrar a
+ese escurridizo trío. 
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Heartless we're after must be in
+the one place they haven't looked yet.
+!------------------------------!
+Les Sans-cœur que nous cherchons
+doivent être dans le seul endroit que
+nous n'ayons pas encore exploré.
+!------------------------------!
+Der Herzlose muss an dem einen
+Ort sein, an dem sie noch nicht
+gesucht haben.
+!------------------------------!
+Gli Heartless che stiamo cercando
+devono essere nell'unico posto in
+cui non hanno ancora guardato.
+!------------------------------!
+Los sincorazón que buscamos
+deben de estar en el único lugar
+que aún no han registrado.
+!------------------------------!
+!******************************!

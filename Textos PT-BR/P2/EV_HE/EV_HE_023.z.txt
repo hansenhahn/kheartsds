@@ -1,0 +1,373 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[HDR].2&
+mi/ch/25.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Put some zing into it!
+Stay focused!
+!------------------------------!
+Mets-y du tien !
+Reste concentré !
+!------------------------------!
+Etwas mehr Leidenschaft!
+Konzentrier dich!
+!------------------------------!
+Sforzati di più!
+Resta concentrato!
+!------------------------------!
+¡Dale con más brío!
+¡Concéntrate!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, next exercise!
+Keep moving! No breaks!
+!------------------------------!
+Allez, exercice suivant !
+On continue ! Pas de pause !
+!------------------------------!
+Okay, nächste Übung!
+Bleib in Bewegung! Keine Pausen!
+!------------------------------!
+Bene, prossimo esercizio!
+Continua a muoverti!
+Senza mai fermarti!
+!------------------------------!
+¡Muy bien, siguiente ejercicio!
+¡Sigue moviéndote! ¡No pares!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+C'mon, you can take more than this!
+!------------------------------!
+Allez, tu peux faire mieux que ça !
+!------------------------------!
+Das kannst du besser!
+!------------------------------!
+Forza, puoi fare molto di più!
+!------------------------------!
+¡Vamos!
+¡Puedes conseguir más que eso!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Blegh... What a tyrant!
+!------------------------------!
+La vache... quel tortionnaire.
+!------------------------------!
+Puh ...
+Was für ein Sklaventreiber!
+!------------------------------!
+Bah... che aguzzino.
+!------------------------------!
+Buf... Menudo tirano.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Demyx?
+!------------------------------!
+Demyx ?
+!------------------------------!
+Demyx?
+!------------------------------!
+Demyx?
+!------------------------------!
+¿Demyx?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'd be running out the door in tears
+after ten minutes of that.
+!------------------------------!
+Je partirais en pleurant après dix
+minutes avec lui.
+!------------------------------!
+Ich würde nach zehn Minuten
+heulend wegrennen.
+!------------------------------!
+A me basterebbero dieci minuti
+di quel supplizio per fuggire in
+lacrime.
+!------------------------------!
+Yo saldría por la puerta
+llorando tras diez minutos
+de eso.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Done with all the Heartless outside
+already?
+!------------------------------!
+Tu en as déjà fini avec les
+Sans-cœur dehors ?
+!------------------------------!
+Bist du schon mit allen
+Herzlosen draußen fertig?
+!------------------------------!
+Hai già sistemato tutti gli
+Heartless all'esterno?
+!------------------------------!
+¿Ya has acabado con todos los
+sincorazón de fuera?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The what? Oh, right, uh...yeah!
+Yeah, they sure picked the wrong guy
+to mess with!
+!------------------------------!
+Les quoi ? Ah, euh... oui, oui !
+Ils auraient dû y réfléchir à deux
+fois avant de s'attaquer à moi !
+!------------------------------!
+Womit? Oh, ja, äh ... ja!
+Ja, die haben sich mit
+dem Falschen angelegt!
+!------------------------------!
+I cosa? Oh! Uh... certo!
+Hanno avuto la lezione che
+meritavano! Oh, come no!
+!------------------------------!
+¿Los qué? ¡Ah! Claro, eh... ¡sí!
+Sí, sin duda eligieron al tipo
+equivocado para jugar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I finished early, so I thought I'd drop
+by and see how you were doing.
+!------------------------------!
+J'ai fini vite alors je me suis dit
+que j'allais venir voir ce que tu
+faisais.
+!------------------------------!
+Ich bin früher fertig geworden,
+also wollte ich mal vorbeischauen
+und sehen, was du so treibst.
+!------------------------------!
+Ho finito in anticipo, quindi ho
+pensato di venire fin qui a
+vedere come te la cavavi.
+!------------------------------!
+He terminado antes, así que he
+pensado en pasar por aquí, a
+ver cómo te iba.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm still not done.
+!------------------------------!
+Moi je n'ai pas encore fini...
+!------------------------------!
+Ich bin immer noch nicht fertig ...
+!------------------------------!
+Non ho ancora finito...
+!------------------------------!
+Yo aún no he acabado...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah? Well, no biggie!
+I'll just find a comfy spot and kick back
+for a while.
+!------------------------------!
+Ah bon ? Bah, t'en fais pas !
+Je vais me trouver un endroit
+tranquille en attendant.
+!------------------------------!
+Nein? Nun, kein Thema!
+Ich such mir 'ne ruhige Ecke und
+entspanne ein bisschen.
+!------------------------------!
+Davvero? Beh, nessun problema!
+Troverò un posticino tranquillo
+in cui riposarmi un po'.
+!------------------------------!
+¿Ah, no? Bueno, no sufras.
+Yo buscaré un rincón cómodo y
+me relajaré un poco.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That guy is getting trained way harder
+than I was.
+!------------------------------!
+Eh ben ! Ce gars s'entraîne encore
+plus dur que moi !
+!------------------------------!
+Der wird viel härter
+trainiert als ich?
+!------------------------------!
+Quel tizio sta ricevendo
+un addestramento molto
+più duro del mio.
+!------------------------------!
+¿Por qué entrenan tanto a este
+tipo? ¿Tanto me supera
+en fuerza?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why's he getting yelled at like that
+when he's doing such a solid job?
+Is he that much stronger than me?
+!------------------------------!
+Il est incroyable et pourtant, Phil
+n'arrête pas de lui crier dessus. Il
+est vraiment plus fort que moi ?
+!------------------------------!
+Warum wird er so angetrieben,
+wenn er so gute Arbeit macht?
+Ist er so viel stärker als ich?
+!------------------------------!
+Perché lo tartassano tanto,
+quando sta facendo un lavoro così
+buono? È davvero più forte di me?
+!------------------------------!
+¿Por qué le da tanta caña si
+está haciendo un buen trabajo?
+¿Tanto me supera su fuerza?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

@@ -1,0 +1,666 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion?
+Hey... Xion!
+!------------------------------!
+Xion ? Xion !
+!------------------------------!
+Xion?
+Hey ... Xion!
+!------------------------------!
+Xion?
+Ehi... Xion!
+!------------------------------!
+¡Xion!
+¡Eh, Xion!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's the matter with you today?
+!------------------------------!
+Qu'est-ce qui t'arrive aujourd'hui ?
+!------------------------------!
+Was ist heute mit dir los?
+!------------------------------!
+Si può sapere cos'hai oggi?
+!------------------------------!
+¿Qué te pasa hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sorry.
+My mind's on other things.
+!------------------------------!
+Désolée, j'ai la tête ailleurs.
+!------------------------------!
+Entschuldige.
+Mir geht so viel durch den Kopf.
+!------------------------------!
+Scusa.
+Stavo pensando ad altro.
+!------------------------------!
+Lo siento. Tengo la
+cabeza en otras cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, why are we doing all this?
+Working for the Organization?
+!------------------------------!
+Roxas, pourquoi est-ce qu'on fait
+tout ça ? Pourquoi travaille-t-on
+pour l'Organisation ?
+!------------------------------!
+Roxas, warum tun wir das alles?
+Für die Organisation arbeiten?
+!------------------------------!
+Perché facciamo tutto questo,
+Roxas? Perché lavoriamo
+per l'Organizzazione?
+!------------------------------!
+Roxas, ¿por qué hacemos esto,
+trabajar para la Organización?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you mean, why?
+So we can get hearts of our own,
+right?
+!------------------------------!
+Comment ça <E2><80><9C>pourquoi<E2><80><9D> ?
+Pour avoir un cœur à nous, non ?
+!------------------------------!
+Was meinst du mit warum?
+Doch damit wir eigene Herzen
+bekommen, oder?
+!------------------------------!
+Come sarebbe a dire perché?
+Perché solo così potremo
+avere un cuore, ricordi?
+!------------------------------!
+¿Qué quieres decir con eso?
+Para conseguir un corazón, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why?
+What do we need hearts for?
+!------------------------------!
+Mais pourquoi ? À quoi ça nous servira
+d'avoir un cœur ?
+!------------------------------!
+Warum? Wofür brauchen wir
+Herzen?
+!------------------------------!
+Ma perché? A cosa
+ci serve un cuore?
+!------------------------------!
+¿Y para qué lo necesitamos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know.
+!------------------------------!
+Je n'en sais rien.
+!------------------------------!
+Das weiß ich nicht.
+!------------------------------!
+Non lo so.
+!------------------------------!
+No lo sé.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But I figure once we have them, we'll
+be in a better position to judge.
+!------------------------------!
+Mais une fois qu'on l'aura, on sera
+capables d'en juger.
+!------------------------------!
+Aber wenn wir erst welche haben,
+können wir das besser beurteilen.
+!------------------------------!
+Ma forse quando l'avremo
+ci sarà tutto più chiaro.
+!------------------------------!
+Pero supongo que cuando lo
+tengamos, estaremos en mejor
+situación para entenderlo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right?
+!------------------------------!
+Tu ne crois pas ?
+!------------------------------!
+Stimmt's?
+!------------------------------!
+Non credi?
+!------------------------------!
+¿No?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe.
+!------------------------------!
+Peut-être.
+!------------------------------!
+Vielleicht.
+!------------------------------!
+Può darsi.
+!------------------------------!
+Puede que sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I just wish I knew what I was doing here.
+How I got here...
+!------------------------------!
+J'aimerais juste savoir ce que je fais
+ici. Comment je suis arrivée ici...
+!------------------------------!
+Ich wünschte bloß, ich wüsste,
+was ich hier tue. Wie ich
+hier gelandet bin ...
+!------------------------------!
+È solo che vorrei sapere cosa
+ci facevo qui, come sono
+arrivata...
+!------------------------------!
+Me gustaría saber lo que estoy
+haciendo aquí.
+Cómo llegué a este lugar...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I started having the strangest dreams.
+!------------------------------!
+Je fais des cauchemars.
+!------------------------------!
+Ich habe seit Kurzem ganz
+merkwürdige Träume.
+!------------------------------!
+Ho iniziato a fare dei sogni
+stranissimi.
+!------------------------------!
+He empezado a tener
+sueños raros.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Echt?
+!------------------------------!
+Davvero?
+!------------------------------!
+¿En serio?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can never remember what they're
+about. I just wake up feeling like...
+like something is really wrong.
+!------------------------------!
+Je me réveille en sursaut et je ne me
+souviens pas de ce que c'était.
+!------------------------------!
+Ich kann mich nie an sie
+erinnern, aber ich fühle mich ...
+als wäre etwas nicht in Ordnung.
+!------------------------------!
+Non mi ricordo mai cosa ho
+sognato. Ma mi sveglio con la
+sensazione... che qualcosa non vada.
+!------------------------------!
+No los recuerdo, pero me
+levanto con la sensación
+de que algo va mal.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, if it makes you feel any better,
+Xigbar said you and me were pretty
+special. <E2><80><9C>Exceptional,<E2><80><9D> he said.
+!------------------------------!
+Si ça peut te rassurer, Xigbar a dit
+que toi et moi on était spéciaux.
+<E2><80><9C>Exceptionnels<E2><80><9D>, qu'il a dit.
+!------------------------------!
+Tja, wenn dir das hilft: Xigbar
+meinte, wir wären besonders,
+<E2><80><9E>außergewöhnlich<E2><80><9C>.
+!------------------------------!
+Beh, se ti fa sentire meglio,
+Xigbar ha detto che noi due
+siamo speciali. "Eccezionali".
+!------------------------------!
+Bueno, por si te sirve de algo,
+Xigbar dice que tú y yo somos
+especiales. Excepcionales.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...Special just means different.
+!------------------------------!
+Spéciaux... ça veut dire différents.
+!------------------------------!
+... Besonders heißt einfach nur
+anders.
+!------------------------------!
+..."Speciali"?
+È un altro modo per dire
+"diversi".
+!------------------------------!
+Especial sólo
+significa diferente.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Because I'm a mistake.
+!------------------------------!
+Parce que je suis une erreur.
+!------------------------------!
+Weil ich ein Fehler bin.
+!------------------------------!
+Io sono un errore.
+!------------------------------!
+Porque yo soy un error.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're not a mistake.
+!------------------------------!
+C'est faux.
+!------------------------------!
+Du bist kein Fehler.
+!------------------------------!
+No, non lo sei.
+!------------------------------!
+Nada de eso.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, we may both be exceptional,
+Roxas.
+!------------------------------!
+Il se peut que nous soyons
+exceptionnels tous les deux,
+Roxas.
+!------------------------------!
+Wir sind vielleicht beide
+außergewöhnlich, Roxas ...
+!------------------------------!
+Beh, forse siamo entrambi
+eccezionali, Roxas.
+!------------------------------!
+Bueno, puede que ambos seamos
+excepcionales, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But I don't think we're the same.
+!------------------------------!
+Mais je crois que nous sommes
+différents.
+!------------------------------!
+Aber ich glaube nicht, dass
+wir uns ähnlich sind.
+!------------------------------!
+Ma non credo che siamo uguali.
+!------------------------------!
+Pero no creo que seamos iguales.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion, wait<E2><80><95>
+!------------------------------!
+Xion, attends...
+!------------------------------!
+Xion, warte ...
+!------------------------------!
+Xion... Aspetta...
+!------------------------------!
+Xion... Espera...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heya, Roxas!
+!------------------------------!
+Salut, Roxas !
+!------------------------------!
+Hey, Roxas!
+!------------------------------!
+Ehi, Roxas!
+!------------------------------!
+¡Eh, Roxas!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Axel.
+!------------------------------!
+Ah... salut, Axel.
+!------------------------------!
+Hey, Axel.
+!------------------------------!
+Ciao, Axel.
+!------------------------------!
+Hola, Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion couldn't make it again today?
+!------------------------------!
+Xion n'est pas là aujourd'hui ?
+!------------------------------!
+Ist Xion heute nicht hier?
+!------------------------------!
+Xion non è di nuovo riuscita a
+venire qui oggi?
+!------------------------------!
+¿Xion tampoco ha llegado
+hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You just missed her.
+!------------------------------!
+Tu viens de la rater.
+!------------------------------!
+Du hast sie gerade verpasst.
+!------------------------------!
+Se n'è appena andata.
+!------------------------------!
+Acaba de marcharse.
+!------------------------------!
+!******************************!

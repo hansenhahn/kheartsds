@@ -1,0 +1,47 @@
+Escolha um arquivo para carregar.
+!******************************!
+(A) Carregar  (B) Cancelar
+!******************************!
+(X) Apagar Arquivo
+!******************************!
+Carregar arquivo %d?
+!******************************!
+Apagar arquivo %d?
+!******************************!
+Uma vez deletado o arquivo, se foi para sempre!
+!******************************!
+%d munny
+!******************************!
+Sim
+!******************************!
+Não
+!******************************!
+Apagando arquivo...
+Não desligue o DS ou
+retire o Cartucho.
+Arquivo %d foi apagado.
+!******************************!
+:
+!******************************!
+NV %d
+!******************************!
+Este arquivo está corrompido.
+!******************************!
+Arquivo %d está corrompido e não
+pode ser usado. Quer apagá-lo?
+!******************************!
+Falha no carregamento do arquivo.
+Desligue o DS e reinsira o Cartucho.
+!******************************!
+Iniciar a Comunicação Sem Fio do DS?
+!******************************!
+Começar a jogar como convidado?
+!******************************!
+Você não pode gravar enquanto joga como convidado.
+!******************************!
+Não é possível escrever os dados.
+!******************************!
+Não é possível ler os dados.
+!******************************!
+Desligue o DS e reinsira o Cartucho.
+!******************************!

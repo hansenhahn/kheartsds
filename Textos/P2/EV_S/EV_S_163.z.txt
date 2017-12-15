@@ -1,0 +1,838 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Explain yourself, Axel.
+!------------------------------!
+Explique-toi, Axel.
+!------------------------------!
+Was hast du dazu zu sagen, Axel?
+!------------------------------!
+Esigo una spiegazione, Axel.
+!------------------------------!
+Explícate, Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I didn't let her go. The old man needs
+to get his eyes checked. Anyway, she
+wasn't taking no for an answer.
+!------------------------------!
+Je l'ai pas laissée partir. Le vieux
+doit avoir la berlue. Et puis, de
+toute façon, elle aurait refusé.
+!------------------------------!
+Ich hab sie nicht gehen lassen.
+Der Alte sollte zum Augenarzt.
+Sie wollte einfach nicht hören.
+!------------------------------!
+Non l'ho lasciata andare. Il
+vecchio dovrebbe farsi visitare.
+Comunque lei si era già decisa.
+!------------------------------!
+Yo no la he dejado ir. El viejo
+está mal de la vista. Además,
+ella no atendía a razones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll give him that.
+Can't toss the blame around when I
+couldn't stop her either.
+!------------------------------!
+Ça je lui accorde. Je ne peux pas lui
+jeter la pierre alors que moi-même,
+je n'ai pas réussi à l'arrêter.
+!------------------------------!
+Er hat schon recht. Wir können ihm
+nicht die Schuld geben, denn ich
+konnte sie auch nicht aufhalten.
+!------------------------------!
+In questo ha ragione. È inutile
+cercare colpe, visto che non
+l'ho potuta fermare neanche io.
+!------------------------------!
+Eso es cierto. No se puede ir
+buscando culpables cuando yo
+tampoco he podido detenerla.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And now we're left with the one we
+can't use...
+!------------------------------!
+Pff, nous voilà coincés avec ceux
+qui ne servent à rien...
+!------------------------------!
+Und jetzt sitzen wir hier mit dem,
+den wir nicht gebrauchen können ...
+!------------------------------!
+Ora siamo rimasti
+con quello inutile...
+!------------------------------!
+Y ahora nos quedamos
+con el que no podemos usar...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What was that all about?
+!------------------------------!
+De quoi parlez-vous ?
+!------------------------------!
+Was sollte das alles?
+!------------------------------!
+Cosa sta succedendo?
+!------------------------------!
+¿De qué va todo esto?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Where's Xion?
+!------------------------------!
+Où est Xion ?
+!------------------------------!
+Wo ist Xion?
+!------------------------------!
+Dov'è Xion?
+!------------------------------!
+¿Dónde está Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She flew the coop.
+Flamesilocks here couldn't trouble
+himself to clip her wings.
+!------------------------------!
+Elle s'est défilée.
+Le rouquin n'a pas réussi à la
+supprimer.
+!------------------------------!
+Sie ist davongeflogen.
+Der Rotschopf hier konnte sich nicht
+überwinden, ihr die Flügel zu stutzen.
+!------------------------------!
+Ci ha lasciati.
+Il nostro amico pel di carota
+non è riuscito a tarparle le ali.
+!------------------------------!
+Ha ahuecado el ala.
+El pelirrojo este no ha querido
+molestarse en cortárselas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, he's kidding, right?
+!------------------------------!
+Dis-moi qu'il plaisante, Axel ?
+!------------------------------!
+Axel, er macht Witze, oder?
+!------------------------------!
+Dimmi che sta scherzando, Axel.
+!------------------------------!
+Axel, no lo dice
+en serio, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+As if. Your friend sat there sucking
+his thumb while Xion walked right off.
+...I'm going back to my room.
+!------------------------------!
+Mais non. Ton grand pote a laissé Xion
+prendre ses cliques et ses claques...
+Bon, je retourne dans ma chambre.
+!------------------------------!
+Von wegen. Dein Freund hat Däumchen
+gedreht, während Xion abgehauen ist.
+Ich geh jetzt zurück auf mein Zimmer.
+!------------------------------!
+Macché. Il tuo collega è rimasto
+a guardare mentre Xion se ne
+andava. Torno nella mia stanza.
+!------------------------------!
+Pues sí. Tu amiguito se quedó de
+brazos cruzados mientras Xion se
+largaba... Me voy a mi cuarto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What happened out there?
+!------------------------------!
+Que s'est-il passé ?
+!------------------------------!
+Was ist da draußen passiert?
+!------------------------------!
+Si può sapere cosa è successo?
+!------------------------------!
+¿Qué ha pasado ahí fuera?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look, nothing.
+!------------------------------!
+Rien.
+!------------------------------!
+Gar nichts.
+!------------------------------!
+Niente.
+!------------------------------!
+Mira, nada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion's gone!
+How is that nothing?
+!------------------------------!
+Xion est partie !
+Alors comment ça <E2><80><9C>rien<E2><80><9D> ?
+!------------------------------!
+Xion ist weg!
+Und du sagst <E2><80><9E>gar nichts<E2><80><9C>?
+!------------------------------!
+Xion non c'è più!
+Come fai a dire "niente"?
+!------------------------------!
+¡Xion se ha ido!
+¿Cómo que nada?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's just like Xigbar said.
+I couldn't stop her from going.
+!------------------------------!
+Comme l'a dit Xigbar, je n'ai pas
+pu l'empêcher de partir.
+!------------------------------!
+Es ist genau, wie Xigbar gesagt hat.
+Ich konnte sie nicht aufhalten.
+!------------------------------!
+È come ha detto Xigbar.
+Non sono riuscito a fermarla.
+!------------------------------!
+Es lo que ha dicho Xigbar.
+No he podido impedir
+que se fuera.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't give me that!
+Why not?
+!------------------------------!
+Ne me raconte pas de salades !
+Pourquoi ?
+!------------------------------!
+Hör auf damit!
+Warum nicht?
+!------------------------------!
+Non farmi ridere!
+Perché no?
+!------------------------------!
+¡No me vengas con esas!
+¿Cómo que no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas...
+Xion is like a mirror that reflects you.
+!------------------------------!
+Xion est comme un miroir
+qui te reflète.
+!------------------------------!
+Roxas ... Xion ist wie ein Spiegel,
+der dich reflektiert.
+!------------------------------!
+Xion... è come uno specchio
+che riflette la tua immagine.
+!------------------------------!
+Roxas...
+Xion es como un espejo
+en el que te reflejas tú.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was?
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Organization made her to duplicate
+your powers. She's a puppet.
+!------------------------------!
+C'est une marionnette qui a été
+créée pour reproduire tes pouvoirs.
+!------------------------------!
+Die Organisation hat sie dazu
+geschaffen, deine Kräfte zu
+duplizieren. Sie ist eine Puppe.
+!------------------------------!
+Lei è un fantoccio creato per
+duplicare i tuoi poteri.
+!------------------------------!
+Es una marioneta que se hizo
+para duplicar tus poderes.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Have you gone nuts?
+Xion's a person, not a puppet.
+!------------------------------!
+T'as perdu la tête ou quoi ?
+Xion est une personne,
+pas une marionnette.
+!------------------------------!
+Bist du verrückt geworden?
+Xion ist eine Person, keine Puppe.
+!------------------------------!
+Sei impazzito?
+Xion è una persona,
+non un fantoccio.
+!------------------------------!
+¿Te has vuelto loco o qué?
+Xion es una persona,
+no una marioneta.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She's smoke and mirrors, Roxas.
+!------------------------------!
+C'est un miroir qui te reflète,
+Roxas.
+!------------------------------!
+Sie ist einfach nur ein Spiegel,
+Roxas.
+!------------------------------!
+È uno specchio creato per
+rifletterti, Roxas.
+!------------------------------!
+Sólo es un espejo, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And when I looked in the mirror...
+It wasn't you I saw.
+!------------------------------!
+Mais je ne reconnaissais
+plus le reflet.
+!------------------------------!
+Und als ich in den Spiegel geblickt
+habe ... habe ich nicht dich
+gesehen.
+!------------------------------!
+Ma io non riconoscevo più
+quel riflesso.
+!------------------------------!
+Y cuando miraba ese espejo...
+no era a ti a quien yo veía.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know what you're talking about,
+but Xion is Xion. You can't expect her
+to be me.
+!------------------------------!
+Je ne sais pas de quoi tu parles,
+mais Xion est Xion. Elle ne peut
+pas être moi.
+!------------------------------!
+Ich weiß nicht, was du meinst, aber
+Xion ist Xion. Wie kommst du darauf,
+dass sie sich in mich verwandelt?
+!------------------------------!
+Non so di cosa stai parlando,
+ma Xion è sempre Xion!
+Lei non è me.
+!------------------------------!
+No sé de qué me hablas,
+pero Xion es Xion. No puedes
+esperar que sea yo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's not what I mean, Roxas.
+!------------------------------!
+Ce n'est pas ce que je veux dire,
+Roxas.
+!------------------------------!
+Das meine ich nicht, Roxas.
+!------------------------------!
+Non intendevo dire
+questo, Roxas.
+!------------------------------!
+No me refiero a eso, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It was only a matter of time before
+somebody had to break the mirror.
+!------------------------------!
+Tôt ou tard, quelqu'un aurait
+brisé le miroir.
+!------------------------------!
+Es war nur eine Frage der Zeit,
+bis jemand den Spiegel zerbrechen
+musste.
+!------------------------------!
+Prima o poi qualcuno avrebbe
+dovuto rompere lo specchio.
+!------------------------------!
+Solo era cuestión de tiempo
+que alguien rompiera
+el espejo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean destroy her.
+!------------------------------!
+L'aurait détruit, tu veux dire !
+!------------------------------!
+Du meinst, bis jemand sie tötet?
+!------------------------------!
+Distruggendola?!?
+!------------------------------!
+¿Te refieres a destruirla?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Answer me!
+!------------------------------!
+Réponds-moi !
+!------------------------------!
+Antworte mir!
+!------------------------------!
+Rispondimi!
+!------------------------------!
+¡Responde!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, if somebody doesn't, you'll...
+!------------------------------!
+Je dois la laisser faire ou tu...
+!------------------------------!
+Roxas, wenn niemand das tut,
+dann wirst du ...
+!------------------------------!
+Devo lasciarglielo fare,
+altrimenti tu...
+!------------------------------!
+Roxas, si alguien no lo hace,
+tú...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You won't be you anymore.
+!------------------------------!
+Tu ne seras plus jamais toi-même.
+!------------------------------!
+Du wirst nicht mehr du selbst sein.
+!------------------------------!
+Tu non sarai più te stesso.
+!------------------------------!
+Tú ya no serías tú.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll always be me!
+Your best friend<E2><80><95>just like Xion!
+!------------------------------!
+Je serai toujours le même !
+Ton meilleur ami, comme Xion !
+!------------------------------!
+Ich werde immer ich selbst sein!
+Dein bester Freund ... genau wie Xion!
+!------------------------------!
+Io sarò sempre me stesso!
+Sarò sempre il tuo migliore
+amico... proprio come Xion!
+!------------------------------!
+¡Yo siempre seré yo!
+Tu mejor amigo... ¡Como Xion!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, you're...you're not seeing the
+bigger picture. Any of it.
+!------------------------------!
+Roxas, tu... ne comprends pas toute
+l'étendue de cette histoire.
+Tu n'y comprends même rien.
+!------------------------------!
+Roxas, du ... du verstehst nicht den
+Zusammenhang. Du verstehst
+gar nichts.
+!------------------------------!
+Roxas, tu... non riesci a vedere
+il quadro d'insieme. Per nulla.
+!------------------------------!
+Roxas, tú... no estás viendo
+el conjunto. En absoluto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, forget this.
+!------------------------------!
+Rah, je laisse tomber.
+!------------------------------!
+Urgs, vergiss es.
+!------------------------------!
+Ah, lasciamo perdere.
+!------------------------------!
+Bah, olvídalo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas!
+!------------------------------!
+Roxas !
+!------------------------------!
+Roxas!
+!------------------------------!
+Roxas!
+!------------------------------!
+¡Roxas!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why can't you understand...
+!------------------------------!
+Pourquoi ne peux-tu pas comprendre...
+!------------------------------!
+Warum kannst du mich nicht
+verstehen ...?
+!------------------------------!
+Perché non capisci...
+!------------------------------!
+¿Por qué no puedes
+comprenderlo...?
+!------------------------------!
+!******************************!

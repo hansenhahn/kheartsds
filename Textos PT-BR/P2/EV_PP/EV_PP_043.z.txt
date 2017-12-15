@@ -1,0 +1,72 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+1:49
+!******************************!
+&.[HDR].2&
+1:11
+!******************************!
+&.[HDR].2&
+1:12
+!******************************!
+&.[HDR].2&
+1:13
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então era ele.
+Devia ser ele que tava atraindo
+todos esses Heartless.
+!------------------------------!
+Alors c'était bien ça. C'est lui qui
+doit attirer tous ces Sans-cœur.
+!------------------------------!
+Er war es also.
+Er ist es, der diese ganzen
+Herzlosen anzieht.
+!------------------------------!
+Allora è proprio lui.
+È lui che attira tutti quegli Heartless.
+!------------------------------!
+Así que se trataba de él.
+Debe de estar atrayendo a todos
+esos sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não sei direito por que, mas 
+acho que é algo para outro dia.
+!------------------------------!
+Je ne sais pas pourquoi, mais j'y
+réfléchirai un autre jour.
+!------------------------------!
+Ich weiß nicht warum, aber das
+ist jetzt auch nicht wichtig.
+!------------------------------!
+Non so perché, ma temo che oggi
+sia troppo tardi per scoprirlo.
+!------------------------------!
+No sé muy bien por qué, pero
+creo que eso ya lo averiguaré
+otro día.
+!------------------------------!
+!******************************!

@@ -1,0 +1,278 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All done with work?
+!------------------------------!
+T'as fini le boulot ?
+!------------------------------!
+Arbeit erledigt?
+!------------------------------!
+Hai finito il lavoro?
+!------------------------------!
+¿Has acabado con tu trabajo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yup.
+!------------------------------!
+Oui.
+!------------------------------!
+Jep.
+!------------------------------!
+Sì.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, you're not gonna believe this.
+!------------------------------!
+Axel, tu ne vas pas me croire,
+mais...
+!------------------------------!
+Axel, das wirst du nicht glauben.
+!------------------------------!
+Non ci crederai mai, Axel...
+!------------------------------!
+Axel, no me vas a creer.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I flew today.
+!------------------------------!
+j'ai volé aujourd'hui !
+!------------------------------!
+Ich bin heute geflogen.
+!------------------------------!
+Oggi ho volato.
+!------------------------------!
+Hoy he volado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Flew?
+!------------------------------!
+Volé ? Quoi, des cacahouètes ?
+!------------------------------!
+Geflogen?
+!------------------------------!
+Volato?
+!------------------------------!
+¿Volado?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, like a bird! Well, sort of.
+It's hard to explain...
+!------------------------------!
+Non, comme un oiseau ! Enfin presque...
+C'est dur à expliquer...
+!------------------------------!
+Ja, wie ein Vogel! Na ja, so
+in der Art. Ist schwer
+zu erklären.
+!------------------------------!
+Sì, come un uccello!
+Beh, più o meno.
+È difficile da spiegare.
+!------------------------------!
+Sí, como un pájaro. Algo
+así. Es difícil de explicar...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can imagine.
+!------------------------------!
+J'imagine...
+!------------------------------!
+Ich kann's mir vorstellen.
+!------------------------------!
+Posso immaginarlo.
+!------------------------------!
+Ya me lo imagino.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There's just no way to describe it.
+I've been waiting all day to tell you
+and Xion!
+!------------------------------!
+Il n'y a pas de mots pour le décrire.
+J'ai attendu toute la journée pour
+vous le dire à toi et à Xion !
+!------------------------------!
+Das kann man gar nicht
+beschreiben. Ich hab mich darauf
+gefreut, es dir und Xion zu erzählen!
+!------------------------------!
+È una cosa indescrivibile.
+Non vedevo l'ora di dirlo
+a te e a Xion!
+!------------------------------!
+No hay forma de describirlo.
+¡Llevo todo el día esperando
+para contároslo a Xion y a ti!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right...
+!------------------------------!
+...
+!------------------------------!
+Okay ...
+!------------------------------!
+Ah...
+!------------------------------!
+Vale...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Flying felt so natural<E2><80><95>like I'd done it
+before. Weird, huh?
+!------------------------------!
+C'était si simple... comme si ce n'était
+pas la première fois que je volais.
+C'est bizarre, hein ?
+!------------------------------!
+Zu fliegen fühlte sich so
+vertraut an ... als hätte ich das
+schon mal getan. Komisch, oder?
+!------------------------------!
+Volare mi sembrava molto
+naturale... come se l'avessi
+già fatto prima. Strano, eh?
+!------------------------------!
+Ha sido tan natural... Como si
+llevara toda la vida haciéndolo.
+Qué raro, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wish Xion would wake up so I could
+tell her all about it.
+!------------------------------!
+J'aimerais que Xion se réveille
+pour lui raconter ça.
+!------------------------------!
+Ich wünschte, Xion würde
+aufwachen, damit ich es ihr
+alles erzählen kann.
+!------------------------------!
+Quanto vorrei che Xion si
+svegliasse, così potrei
+raccontarle tutto...
+!------------------------------!
+Ojalá despertara Xion
+para poder contárselo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

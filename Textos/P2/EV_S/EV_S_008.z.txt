@@ -1,0 +1,291 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:23
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I swear, Hayner, it wasn't my fault!
+!------------------------------!
+C'est pas moi, je le jure !
+!------------------------------!
+Hayner, ich schwör's,
+das war nicht mein Fehler!
+!------------------------------!
+Lo giuro, Hayner, non sono stato io!
+!------------------------------!
+¡Te juro que no he sido yo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes it was!
+I saw you drop it!
+!------------------------------!
+Si c'est toi !
+Je t'ai vu la faire tomber !
+!------------------------------!
+Doch, war es!
+Ich hab gesehen, wie du's
+fallen gelassen hast!
+!------------------------------!
+Invece sì!
+Ho visto che l'hai fatto cadere tu!
+!------------------------------!
+¡Sí que has sido tú!
+¡Te he visto llegar último!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You owe me an ice cream!
+Get back here, Pence!
+!------------------------------!
+Tu me dois une glace !
+Reviens ici, Pence !
+!------------------------------!
+Du schuldest mir ein Eis!
+Komm zurück, Pence!
+!------------------------------!
+Ora mi devi un gelato!
+Torna qui, Pence!
+!------------------------------!
+¡Me debes un helado!
+¡Ven aquí, Pence!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Come on, Hayner!
+You can go one stinking day without
+ice cream!
+!------------------------------!
+Allez, Hayner !
+Tu peux bien te passer de glace
+une journée quand même !
+!------------------------------!
+Komm schon, Hayner!
+Du kannst auch mal einen Tag
+ohne Eis auskommen!
+!------------------------------!
+Oh, avanti, Hayner!
+Un giorno senza gelato
+non è la fine del mondo!
+!------------------------------!
+Vamos, Hayner.
+¿No te puedes pasar ni un
+maldito día sin un helado?
+!------------------------------!
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Hé, Roxas.
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Ehi, Roxas.
+!------------------------------!
+Ey, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's meet up for ice cream again after
+your next mission.
+!------------------------------!
+Revenons manger une glace ici après
+ta prochaine mission.
+!------------------------------!
+Lass uns nach der nächsten
+Mission ein Eis essen.
+!------------------------------!
+Troviamoci di nuovo a prendere un
+gelato dopo la tua prossima
+missione.
+!------------------------------!
+Después de la siguiente misión,
+tomaremos un helado aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I mean, who wants to spend their days
+just bouncing between work and the
+castle, right?
+!------------------------------!
+Personne n'a envie de passer tout son
+temps entre le boulot et la citadelle,
+pas vrai ?
+!------------------------------!
+Wer will schon immer nur
+zwischen Arbeit und Schloss
+hin- und herpendeln?
+!------------------------------!
+Seriamente, a chi piace passare tutte
+le giornate tra il lavoro e il
+castello?
+!------------------------------!
+¿Quién quiere pasarse el día
+yendo del trabajo al castillo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha, not me!
+!------------------------------!
+Ha, ha, ha, moi non !
+!------------------------------!
+Ha, ha, ich nicht!
+!------------------------------!
+Ah ah, a me no di certo!
+!------------------------------!
+¡Eh, yo no!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, I laughed...
+I guess we really are friends.
+!------------------------------!
+Hé, j'ai ri...
+On doit vraiment être amis alors.
+!------------------------------!
+Hey, ich habe gelacht ...
+Ich glaube, wir sind wirklich
+Freunde.
+!------------------------------!
+Ehi, ho riso...
+Forse siamo davvero amici.
+!------------------------------!
+¿Así que se trata de esto...?
+!------------------------------!
+!******************************!

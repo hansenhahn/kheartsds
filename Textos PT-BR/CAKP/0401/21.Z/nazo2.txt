@@ -1,0 +1,195 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Essas pessoas nunca conseguirão
+consertar a cidade rápid o bastante.
+!------------------------------!
+XIGBAR
+Ces gens ne pourront jamais reconstruire la ville
+à temps.
+!------------------------------!
+XIGBAR
+Die Leute werden die Stadt niemals
+schnell genug wiederaufbauen.
+!------------------------------!
+XIGBAR
+Questa gente non riuscirà a riparare
+la città abbastanza in fretta.
+!------------------------------!
+XIGBAR
+Nunca conseguirán reconstruir
+la ciudad bastante rápido.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+He he, que bom que não vivo aqui.
+!------------------------------!
+En tout cas, je suis bien content de ne pas vivre ici.
+!------------------------------!
+He, he, bin ich froh, dass ich nicht
+hier wohne.
+!------------------------------!
+Eh eh. Meno male che
+non vivo qui.
+!------------------------------!
+Je, je, me alegro
+de no vivir aquí.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Sem contar que precisam lidar 
+com todos os Heartless.
+!------------------------------!
+ROXAS
+Et ils doivent aussi s'occuper de tous ces
+Sans-cœur.
+!------------------------------!
+ROXAS
+Und dann müssen sie noch mit all
+den Herzlosen fertig werden.
+!------------------------------!
+ROXAS
+Senza contare gli Heartless.
+!------------------------------!
+ROXAS
+Además, tienen que vérselas
+con todos los sincorazón.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Aha! Boa observação, Roxas.
+!------------------------------!
+XIGBAR
+Ah-ha ! Tu as mis le doigt dessus, Roxas.
+!------------------------------!
+XIGBAR
+Aha! Da bist du auf was gestoßen,
+Roxas.
+!------------------------------!
+XIGBAR
+Ah! Hai colto nel segno, Roxas.
+!------------------------------!
+XIGBAR
+¡Ajá! Has hecho una buena
+apreciación, Roxas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Por quê?
+!------------------------------!
+ROXAS
+Ah bon ?
+!------------------------------!
+ROXAS
+Warum?
+!------------------------------!
+ROXAS
+In che senso?
+!------------------------------!
+ROXAS
+¿Por qué?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+A tempestade e os Heartless...
+!------------------------------!
+XIGBAR
+La tempête et les Sans-cœur...
+!------------------------------!
+XIGBAR
+Der Sturm und die Herzlosen.
+!------------------------------!
+XIGBAR
+La tempesta e gli Heartless...
+!------------------------------!
+XIGBAR
+La tormenta y los
+sincorazón...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+É possível que não seja uma coincidência.
+!------------------------------!
+Ça a peut-être un lien.
+!------------------------------!
+Möglich, dass die beiden was
+miteinander zu tun haben.
+!------------------------------!
+Forse c'è qualche legame.
+!------------------------------!
+Es posible que no sea
+una casualidad.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Acha que possuem uma conexão?
+!------------------------------!
+ROXAS
+Tu crois ?
+!------------------------------!
+ROXAS
+Glaubst du, es gibt da eine Verbindung?
+!------------------------------!
+ROXAS
+Credi che loro c'entrino qualcosa?
+!------------------------------!
+ROXAS
+¿Crees que hay una relación?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Muito bem, acho que isto é tudo
+o que podemos tirar por hoje.
+!------------------------------!
+XIGBAR
+Bon, c'est tout pour aujourd'hui.
+!------------------------------!
+XIGBAR
+Okay, ich glaube das reicht
+für einen Tag.
+!------------------------------!
+XIGBAR
+Bene, credo che per oggi possa bastare.
+!------------------------------!
+XIGBAR
+Bueno, creo que es todo lo
+que sacaremos por hoy.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos RTC.
+!------------------------------!
+On rentre.
+!------------------------------!
+Gehen wir zurück zum Schloss.
+!------------------------------!
+Rientriamo.
+!------------------------------!
+Venga, VAC.
+!------------------------------!
+!******************************!

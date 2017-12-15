@@ -1,0 +1,191 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/03.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, nada mal. Você está finalmente
+começando a entender como funciona.
+!------------------------------!
+Hmm, pas mal. Tu commences enfin à
+voir les choses dans leur ensemble.
+!------------------------------!
+Hmm, nicht schlecht. Endlich
+beginnst du, das Gesamtbild
+zu sehen.
+!------------------------------!
+Mmm, non male. Inizi a capire
+come funziona, finalmente.
+!------------------------------!
+Mmm, no está mal. Por fin estás
+comprendiendo de qué va todo
+esto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas enquanto aplaudo seu esforço,
+você precisa ser capaz de enxergar
+essas coisas logo à primeira vista.
+!------------------------------!
+Je suis fier de tes efforts, mais tu
+dois pouvoir cerner les choses au
+premier regard.
+!------------------------------!
+Aber, auch wenn ich dich lobe,
+du musst diese Dinge
+auf den ersten Blick sehen.
+!------------------------------!
+Apprezzo il tuo impegno,
+ma devi imparare a riconoscere
+le cose a prima vista.
+!------------------------------!
+Aunque aplaudo tus esfuerzos,
+debes ser capaz de ver estas
+cosas a simple vista.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah... tá.
+!------------------------------!
+Oui, j'ai compris...
+!------------------------------!
+Oh ... Okay.
+!------------------------------!
+Oh. Giusto...
+!------------------------------!
+Ah. De acuerdo...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Seu objetivo deve ser recolher 
+a maior quantidade de dados
+no menor tempo possível.
+!------------------------------!
+Ton objectif est de rassembler un
+maximum d'informations en un
+minimum de temps.
+!------------------------------!
+Du musst ein Maximum an
+Informationen in einem Minimum
+an Zeit gewinnen können.
+!------------------------------!
+Il tuo obiettivo è raccogliere il
+maggior numero di informazioni
+nel minor tempo possibile.
+!------------------------------!
+Debes obtener la máxima
+cantidad de datos posible
+en poco tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Perca muito tempo dsitraído, e 
+poderá correr o risco de ser visto.
+!------------------------------!
+Tu risques de te faire repérer si tu
+perds trop de temps à traîner.
+!------------------------------!
+Trödelst du zu lange herum,
+riskierst du, gesehen zu werden.
+!------------------------------!
+Se perdi troppo tempo,
+rischi di farti scoprire.
+!------------------------------!
+Si te distraes demasiado, te
+arriesgas a que te vean.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Às vezes os moradores podem estar atentos.
+Você precisa estar mais atento ainda.
+!------------------------------!
+Parfois, les autochtones seront
+méfiants et tu devras donc l'être
+encore plus qu'eux.
+!------------------------------!
+Manchmal sind die Einheimischen
+misstrauisch. Du musst noch
+misstrauischer sein.
+!------------------------------!
+Alcuni locali sono molto accorti,
+quindi tu dovrai esserlo
+ancora più di loro.
+!------------------------------!
+Hay lugareños muy perspicaces.
+Tú tienes que serlo más aún.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu entendi.
+!------------------------------!
+J'ai compris.
+!------------------------------!
+Ich verstehe.
+!------------------------------!
+Ho capito.
+!------------------------------!
+Entiendo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A missão de hoje foi apenas um exercício.
+Estou satisfeito. Vamos retornar.
+!------------------------------!
+Aujourd'hui, la mission n'était qu'un
+simple exercice, mais c'est bien.
+Allez, rentrons.
+!------------------------------!
+Die heutige Mission war nur
+eine Übung. Ich bin zufrieden.
+Gehen wir zurück.
+!------------------------------!
+La missione di oggi era solo
+un esercizio. Sono soddisfatto.
+Torniamo indietro.
+!------------------------------!
+Esta misión no ha sido más que
+un ejercicio, y me has
+complacido. Volvamos.
+!------------------------------!
+!******************************!

@@ -1,0 +1,299 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+1:24
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Still no Pink Concertos...
+!------------------------------!
+Toujours pas de Concerto rose
+en vue...
+!------------------------------!
+Immer noch keine Rosa Konzerte ...
+!------------------------------!
+Ancora niente Concerto Rosa...
+!------------------------------!
+Sigo sin ver ningún concierto rosado...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Looking for something?
+!------------------------------!
+Vous cherchez quelque chose ?
+!------------------------------!
+Sucht ihr etwas?
+!------------------------------!
+Cerchi qualcosa?
+!------------------------------!
+¿Buscáis algo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You again?
+!------------------------------!
+Encore vous ?
+!------------------------------!
+Du schon wieder?
+!------------------------------!
+Ancora tu?
+!------------------------------!
+¿Tú otra vez?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whom did you expect?
+Whatever it is you're looking for?
+!------------------------------!
+Qui d'autre ?
+Cherchez-vous quelque chose ?
+!------------------------------!
+Wen habt ihr erwartet?
+Was immer ihr auch sucht?
+!------------------------------!
+Chi ti aspettavi?
+Qualunque cosa tu stia cercando?
+!------------------------------!
+¿A quién esperabas?
+¿Pensabas que sería lo
+que andáis buscando?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If I were you, I'd ask...me!
+!------------------------------!
+À votre place... je me poserais
+la question !
+!------------------------------!
+Wenn ich ihr wäre, würde ich ...
+mich fragen!
+!------------------------------!
+Se fossi in te, chiederei a... me!
+!------------------------------!
+Si yo fuera tú...
+¡me preguntaría a mí!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know where the Heartless are?
+!------------------------------!
+Vous savez où sont les Sans-cœur ?
+!------------------------------!
+Du weißt, wo die Herzlosen sind?
+!------------------------------!
+Sai dove sono gli Heartless?
+!------------------------------!
+¿Sabes dónde están
+los sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naturally... But then it would be in my
+nature to lie.
+!------------------------------!
+Bien sûr... mais sachez qu'il est
+dans ma nature de mentir.
+!------------------------------!
+Natürlich ... Aber dann läge es
+in meiner Natur zu lügen.
+!------------------------------!
+Certamente... Ma mentire sarebbe nella
+mia natura.
+!------------------------------!
+Por supuesto... Pero estaría
+en mi naturaleza mentir...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Of course, the question is<E2><80><95>should I lie
+about in flowers, like the whats you're
+looking for, or just lie about in words?
+!------------------------------!
+Mais dans la nature se trouvent aussi
+de jolies fleurs, comme celles où se
+cachent ce que vous cherchez...
+!------------------------------!
+Euer Ziel liegt in den Blumen,
+während wir Tiger-Katzen
+in Worten lügen.
+!------------------------------!
+La domanda è: mentire sui fiori,
+dove si aggira la tua preda, 
+o mentire sulle parole?
+!------------------------------!
+Vuestra presa está en las flores,
+mientras que la de los
+Risones está en las palabras.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What a weird cat...
+!------------------------------!
+Quel étrange chat...
+!------------------------------!
+Was für eine komische Katze ...
+!------------------------------!
+Che strano gatto...
+!------------------------------!
+Qué gato tan raro...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Still, he gave us a nice reveal.
+!------------------------------!
+Et pourtant, il nous a donné un indice.
+!------------------------------!
+Trotzdem hat sie uns geholfen.
+!------------------------------!
+Però ci ha fornito un ottimo indizio.
+!------------------------------!
+Pese a todo, nos ha hecho una
+bonita revelación.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you mean?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Was meinst du?
+!------------------------------!
+In che senso?
+!------------------------------!
+¿Qué quieres decir?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Come on.
+Let's go find those Heartless.
+!------------------------------!
+Viens.
+Trouvons ces Sans-cœur.
+!------------------------------!
+Komm schon.
+Suchen wir die Herzlosen.
+!------------------------------!
+Forza.
+Andiamo a cercare quegli Heartless.
+!------------------------------!
+Venga. Vamos a buscar
+a esos sincorazón.
+!------------------------------!
+!******************************!

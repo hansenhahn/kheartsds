@@ -1,0 +1,231 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This room...
+
+!------------------------------!
+ROXAS
+Cette pièce...
+!------------------------------!
+ROXAS
+Dieses Zimmer ...
+!------------------------------!
+ROXAS
+Questa stanza...
+
+!------------------------------!
+ROXAS
+Esta sala...
+
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Yes, what about it?
+!------------------------------!
+XALDIN
+Oui, qu'y a-t-il ?
+!------------------------------!
+XALDIN
+Ja, was ist damit?
+!------------------------------!
+XALDIN
+Sì, che sai dirmi al riguardo?
+!------------------------------!
+XALDIN
+¿Sí, qué le pasa?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+This is the beast's room.
+!------------------------------!
+Ce sont les appartements de la bête.
+!------------------------------!
+Das ist das Zimmer des Biestes.
+!------------------------------!
+È la stanza della Bestia.
+!------------------------------!
+Es el cuarto de la bestia.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+This room looks just like the beast's.
+!------------------------------!
+On dirait les appartements de la bête.
+!------------------------------!
+Das Zimmer sieht aus, wie das des Biestes.
+!------------------------------!
+Somiglia alla stanza della Bestia.
+!------------------------------!
+Creo que es de la bestia.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This should be the beast's room.
+
+!------------------------------!
+ROXAS
+Ce sont sans doute les appartements de la bête.
+!------------------------------!
+ROXAS
+Das müsste das Zimmer des Biestes sein.
+!------------------------------!
+ROXAS
+Questa dovrebbe essere
+la stanza della Bestia.
+!------------------------------!
+ROXAS
+Este debe ser el cuarto
+de la bestia.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+<E2><80><9C>Should be<E2><80><9D>?
+Your words don't inspire much confidence.
+!------------------------------!
+XALDIN
+<E2><80><9C>Sans doute<E2><80><9D> ? Tu ne m'as pas l'air
+convaincu.
+!------------------------------!
+XALDIN
+<E2><80><9E>Müsste<E2><80><9C>?
+Das klingt nicht gerade vertrauenerweckend.
+!------------------------------!
+XALDIN
+"Dovrebbe"?
+Non mi sembri molto convinto.
+!------------------------------!
+XALDIN
+¿"Debe ser"? Tus palabras
+no inspiran mucha confianza.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, I sense the room may be occupied.
+Look in and see, Roxas.
+
+!------------------------------!
+J'ai l'impression que cette pièce est occupée.
+Regarde à l'intérieur, Roxas.
+!------------------------------!
+Hm, ich spüre, dass in dem Zimmer
+jemand ist. Sieh mal hinein, Roxas.
+!------------------------------!
+Mmm, forse dentro c'è qualcuno.
+Da' un'occhiata, Roxas.
+!------------------------------!
+Mm, este cuarto está ocupado.
+Echa un vistazo, Roxas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This room looks just like the beast's.
+!------------------------------!
+ROXAS
+On dirait les appartements de la bête.
+!------------------------------!
+ROXAS
+Dieses Zimmer sieht genau aus, wie das des Biestes.
+!------------------------------!
+ROXAS
+Questa stanza somiglia
+a quella della Bestia.
+!------------------------------!
+ROXAS
+Creo que es de la bestia.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Hmm, I sense someone may be inside.
+
+!------------------------------!
+XALDIN
+Hmm, je crois qu'il y a quelqu'un à l'intérieur.
+!------------------------------!
+XALDIN
+Hmm, ich spüre, dass in dem Zimmer
+jemand ist.
+!------------------------------!
+XALDIN
+Mmm, pare che dentro ci sia qualcuno.
+!------------------------------!
+XALDIN
+Mmm, creo que puede haber
+alguien dentro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Whoever it is must be important enough to warrant
+accommodations as fine as the master's.
+!------------------------------!
+XALDIN
+Qui que ce soit, cette personne doit être
+importante pour avoir droit à un tel traitement.
+!------------------------------!
+XALDIN
+Die Person muss wichtig genug sein, um die gleichen
+Annehmlichkeiten wie der Herr genießen zu dürfen.
+!------------------------------!
+XALDIN
+Dev'essere un ospite importante,
+per avere una stanza come questa.
+!------------------------------!
+XALDIN
+Y es alguien importante,
+a juzgar por el lujo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Peer inside and see who it is, Roxas.
+
+!------------------------------!
+XALDIN
+Regarde à l'intérieur pour voir qui c'est, Roxas.
+!------------------------------!
+XALDIN
+Sieh mal nach, wer es ist, Roxas.
+!------------------------------!
+XALDIN
+Da' un'occhiata all'interno e cerca di
+capire di chi si tratta, Roxas.
+!------------------------------!
+XALDIN
+Asómate y mira quién
+es, Roxas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000862201000000010000000000000007000F00.*
+!******************************!

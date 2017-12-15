@@ -1,0 +1,227 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Olette, what's Pence up to?
+!------------------------------!
+Olette, qu'est-ce qu'il fabrique
+Pence ?
+!------------------------------!
+Olette, was hat Pence vor?
+!------------------------------!
+Olette, che fine ha fatto Pence?
+!------------------------------!
+Olette, ¿qué trama Pence?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He said he was off on another of his
+<E2><80><9C>investigations<E2><80><9D> today.
+!------------------------------!
+Il a dit qu'il partait encore <E2><80><9C>enquêter<E2><80><9D>
+aujourd'hui.
+!------------------------------!
+Er sagte, er wäre heute wieder
+bei einer seiner <E2><80><9E>Erkundungen<E2><80><9C>.
+!------------------------------!
+Ha detto che oggi avrebbe
+condotto un'altra delle sue
+"indagini".
+!------------------------------!
+Ha dicho que iba a emprender
+otra de sus "investigaciones".
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He's been acting pretty dodgy lately<E2><80><95>
+all this sneaking around? I wonder
+what he's up to.
+!------------------------------!
+Il est bizarre en ce moment... c'est quoi
+ces cachoteries ? Je me demande
+ce qu'il mijote.
+!------------------------------!
+Er schleicht in letzter Zeit
+nur noch in der Gegend herum.
+Was er wohl vorhat?
+!------------------------------!
+Ultimamente è molto schivo...
+Perché tutta quella segretezza?
+Mi chiedo cos'abbia in mente.
+!------------------------------!
+Últimamente ha estado muy
+misterioso y reservado. Me
+pregunto qué se propone.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Beats me.
+!------------------------------!
+Aucune idée.
+!------------------------------!
+Wüsste ich auch gerne.
+!------------------------------!
+Non lo so.
+!------------------------------!
+Ni idea.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He freaked out when I swung by the
+usual spot yesterday. Whatever he was
+looking at, he hid it in a hurry.
+!------------------------------!
+Il était bizarre quand je suis allée au
+repaire hier. Je crois qu'il regardait
+quelque chose et il a paniqué.
+!------------------------------!
+Er ist ausgeflippt, als wir
+gestern an unserem Treffpunkt
+waren. Er hat irgendwas versteckt.
+!------------------------------!
+Ieri l'ho colto di sorpresa,
+quando sono andata al ritrovo.
+Ha nascosto in fretta qualcosa.
+!------------------------------!
+Casi le dio un ataque cuando
+me pasé por el lugar de siempre.
+No quiso enseñarme lo que hacía.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, now why would he do that?
+!------------------------------!
+Je me demande pourquoi...
+!------------------------------!
+Hmm, warum sollte er das tun?
+!------------------------------!
+Mmm, chissà di cosa si tratta.
+!------------------------------!
+Mmm... ¿Por qué se
+comportaría de ese modo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wonder where their <E2><80><9C>usual spot<E2><80><9D> is.
+!------------------------------!
+Cette histoire de repaire m'intrigue...
+!------------------------------!
+Wo wohl ihr <E2><80><9E>Treffpunkt<E2><80><9C> ist?
+!------------------------------!
+Mi domando dove sia
+il loro "ritrovo".
+!------------------------------!
+Me pregunto cuál será ese
+"lugar de siempre".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess we'll have to hunt around.
+!------------------------------!
+Trouvons-le.
+!------------------------------!
+Wir müssen uns wohl ein wenig
+umsehen.
+!------------------------------!
+Dovremo scoprirlo da soli.
+!------------------------------!
+Tendremos que echar un ojo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

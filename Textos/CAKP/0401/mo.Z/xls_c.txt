@@ -1,0 +1,869 @@
+&.[HDR].&
+*.000004000000AE2205000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Big door...
+!------------------------------!
+ROXAS
+Une grande porte...
+!------------------------------!
+ROXAS
+Eine große Tür ...
+!------------------------------!
+ROXAS
+Una porta enorme...
+!------------------------------!
+ROXAS
+Qué puerta tan grande...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Probably leads to the royal palace.
+!------------------------------!
+XIGBAR
+Elle doit sûrement mener au palais royal.
+!------------------------------!
+XIGBAR
+Führt wahrscheinlich zum
+königlichen Palast.
+!------------------------------!
+XIGBAR
+Forse conduce al palazzo reale.
+!------------------------------!
+XIGBAR
+Probablemente,
+lleva al palacio real.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Probably? Are you just guessing?
+!------------------------------!
+ROXAS
+Sûrement ? Tu essaies de deviner, c'est ça ?
+!------------------------------!
+ROXAS
+Wahrscheinlich?
+Ist das nur eine Vermutung?
+!------------------------------!
+ROXAS
+"Forse"? Stai tirando
+a indovinare?
+!------------------------------!
+ROXAS
+¿Probablemente?
+¿Solo lo supones?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+As if. Take a good look.
+High walls, ornamental carvings...
+!------------------------------!
+XIGBAR
+Mais non. Regarde bien. Un mur d'enceinte,
+des ornements...
+!------------------------------!
+XIGBAR
+Von wegen. Sieh mal genau hin.
+Hohe Mauern, Verzierungen ...
+!------------------------------!
+XIGBAR
+No. Osserva bene.
+Mura altissime, incisioni...
+!------------------------------!
+XIGBAR
+Seguro. Míralo bien.
+Paredes altas,
+bajorrelieves...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+The construction's different than the rest of the
+city.
+!------------------------------!
+La construction est différente de celle du reste
+de la ville.
+!------------------------------!
+Die Bauart unterscheidet sich
+vom Rest der Stadt.
+!------------------------------!
+La costruzione è diversa
+rispetto al resto della città.
+!------------------------------!
+Este edificio es distinto
+al resto de la ciudad.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Did those two come through here?
+!------------------------------!
+ROXAS
+Est-ce qu'ils sont venus de là ?
+!------------------------------!
+ROXAS
+Sind die beiden hier durchgekommen?
+!------------------------------!
+ROXAS
+Quei due sono passati di qui?
+!------------------------------!
+ROXAS
+¿Habrán pasado
+esos dos por aquí?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+This door's pretty solid, and the wall's high.
+!------------------------------!
+XIGBAR
+Cette porte a l'air robuste et le mur est haut.
+!------------------------------!
+XIGBAR
+Die Tür ist ziemlich massiv
+und die Mauer ist hoch.
+!------------------------------!
+XIGBAR
+Questa porta è molto solida,
+e il muro è davvero alto.
+!------------------------------!
+XIGBAR
+Esta puerta es muy sólida
+y el muro muy alto.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+The locals might be using the palace as a storm
+shelter.
+!------------------------------!
+Le palais doit servir d'abri contre la tempête aux
+gens d'ici.
+!------------------------------!
+Vielleicht haben die Leute hier den Palast
+als Schutz vor dem Sturm benutzt.
+!------------------------------!
+Forse i locali usano questo
+posto per ripararsi dalle tempeste.
+!------------------------------!
+Los lugareños deben de usar
+el palacio para refugiarse de
+la tormenta.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This gate is blocking the way.
+!------------------------------!
+ROXAS
+Cette porte bloque le passage.
+!------------------------------!
+ROXAS
+Das Tor versperrt den Weg.
+!------------------------------!
+ROXAS
+Questo cancello blocca
+la strada.
+!------------------------------!
+ROXAS
+Esta puerta corta el camino.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+And what a gate.
+This city must be big on security.
+!------------------------------!
+XIGBAR
+Et quelle porte ! Ils ne lésinent pas sur la sécurité
+ici.
+!------------------------------!
+XIGBAR
+Und was für ein Tor.
+Sicherheit wird hier wohl groß geschrieben.
+!------------------------------!
+XIGBAR
+E che cancello!
+Qui sono fissati con la sicurezza.
+!------------------------------!
+XIGBAR
+Y vaya puerta. Aquí
+no se andan con chiquitas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Well, we have to do something about it if we want to
+get past.
+!------------------------------!
+ROXAS
+Il doit y avoir un moyen de passer.
+!------------------------------!
+ROXAS
+Wir müssen irgendwas unternehmen,
+wenn wir da durch wollen.
+!------------------------------!
+ROXAS
+Beh, dobbiamo fare qualcosa
+se vogliamo superarlo.
+!------------------------------!
+ROXAS
+Bueno, pues tendremos que
+hacer algo si queremos pasar.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Is this a shop? It's deserted...
+!------------------------------!
+ROXAS
+Est-ce une boutique ? C'est désert...
+!------------------------------!
+ROXAS
+Ist das ein Laden? Hier ist niemand ...
+!------------------------------!
+ROXAS
+Questo sembra un negozio,
+ma è deserto...
+!------------------------------!
+ROXAS
+¿Esto es una tienda?
+Está vacía...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Yeah, as in <E2><80><9C>full of desert.<E2><80><9D>
+!------------------------------!
+XIGBAR
+Aussi désert que le désert...
+!------------------------------!
+XIGBAR
+Und dazu ist er noch voller Sand.
+!------------------------------!
+XIGBAR
+Sì, "deserto" è la
+parola giusta.
+!------------------------------!
+XIGBAR
+Sí, desierta.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+A sand dune, here?
+That's kind of odd.
+!------------------------------!
+ROXAS
+Une dune de sable ici ? C'est plutôt étrange...
+!------------------------------!
+ROXAS
+Eine Sanddüne, hier?
+Das ist merkwürdig.
+!------------------------------!
+ROXAS
+Una duna di sabbia... qui?
+Piuttosto strano.
+!------------------------------!
+ROXAS
+¿Una duna de arena, aquí?
+Qué raro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Different strokes, I guess.
+Maybe they like beach volleyball.
+!------------------------------!
+XIGBAR
+La différence peut choquer parfois. Va savoir,
+ils aiment peut-être le beach-volley par ici.
+!------------------------------!
+XIGBAR
+Reiner Zufall, schätze ich.
+Vielleicht mögen sie ja Beachvolleyball.
+!------------------------------!
+XIGBAR
+Sono tipi originali.
+Forse giocano con la sabbia.
+!------------------------------!
+XIGBAR
+Igual son artificiales...
+Les gustará el vóley playa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+You really think that's it?
+!------------------------------!
+ROXAS
+Tu crois que c'est ça ?
+!------------------------------!
+ROXAS
+Glaubst du wirklich?
+!------------------------------!
+ROXAS
+Dici sul serio?
+!------------------------------!
+ROXAS
+¿De verdad crees que es eso?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Ha ha ha, no.
+No, I don't.
+!------------------------------!
+XIGBAR
+Ha, ha, ha, mais non. Bien sûr que non.
+!------------------------------!
+XIGBAR
+Ha, ha, ha, nein.
+Nein, glaub ich nicht.
+!------------------------------!
+XIGBAR
+Ah ah ah! No...
+Scherzavo.
+!------------------------------!
+XIGBAR
+Ja, ja, no.
+No, no lo creo.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+These dishes are covered in sand.
+!------------------------------!
+ROXAS
+Ces plats sont couverts de sable.
+!------------------------------!
+ROXAS
+Hier ist alles total vollgesandet.
+!------------------------------!
+ROXAS
+Questi piatti sono coperti
+di sabbia.
+!------------------------------!
+ROXAS
+Estos platos están cubiertos
+de arena.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+What's all this lumber lying around for?
+!------------------------------!
+ROXAS
+À quoi peuvent bien servir ces poutres ?
+!------------------------------!
+ROXAS
+Warum liegt hier überall Holz herum?
+!------------------------------!
+ROXAS
+A che serve tutto questo
+legname sparso in giro?
+!------------------------------!
+ROXAS
+¿Qué hace toda esta
+madera por aquí?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This stall is half-buried in sand.
+!------------------------------!
+ROXAS
+Cet étal est à moitié enfoui dans le sable.
+!------------------------------!
+ROXAS
+Voll in den Sand gesetzt, sozusagen.
+!------------------------------!
+ROXAS
+Questo banchetto è sepolto
+sotto la sabbia.
+!------------------------------!
+ROXAS
+Este puesto está medio
+enterrado en la arena.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Remind me to build MY city someplace less dusty.
+!------------------------------!
+XIGBAR
+Rappelle-moi de ne jamais construire une ville dans
+un endroit pareil.
+!------------------------------!
+XIGBAR
+Erinnere mich daran, MEINE Stadt
+an einem weniger sandigen Ort zu bauen.
+!------------------------------!
+XIGBAR
+Già, ricordami di non costruire
+mai una città nel deserto.
+!------------------------------!
+XIGBAR
+Recuérdame que construya
+mi ciudad en un lugar
+menos polvoriento.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+The wall here is falling apart...
+I guess it's an old city?
+!------------------------------!
+ROXAS
+Ce mur est en train de s'effriter...
+Ce doit être une vieille ville, non ?
+!------------------------------!
+ROXAS
+Die Mauer ist eingestürzt ...
+Scheint eine alte Stadt zu sein.
+!------------------------------!
+ROXAS
+Qui il muro sta crollando...
+Che sia una città molto antica?
+!------------------------------!
+ROXAS
+Esta pared se está cayendo.
+Es una antigua ciudad, ¿no?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+As if. Look closer.
+!------------------------------!
+XIGBAR
+Mais non. Regarde de plus près.
+!------------------------------!
+XIGBAR
+Von wegen. Schau mal genau hin.
+!------------------------------!
+XIGBAR
+Macché. Guarda meglio.
+!------------------------------!
+XIGBAR
+Va a ser que no.
+Mira con más detenimiento.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+The bricks aren't eroded.
+This damage was all done recently.
+!------------------------------!
+Les briques ne sont pas abîmées.
+Les dégâts sont récents.
+!------------------------------!
+Die Ziegel sind nicht brüchig.
+Die Mauer ist erst vor Kurzem eingestürzt.
+!------------------------------!
+I mattoni non sono erosi.
+Questo muro è crollato di recente.
+!------------------------------!
+Los ladrillos no están
+erosionados.
+El daño es reciente.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+By what?
+!------------------------------!
+ROXAS
+Qu'est-ce qui a pu faire ça ?
+!------------------------------!
+ROXAS
+Wodurch?
+!------------------------------!
+ROXAS
+Ma per quale motivo?
+!------------------------------!
+ROXAS
+¿Qué lo habrá causado?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+No sand piles up here.
+!------------------------------!
+ROXAS
+Le sable n'est pas arrivé jusqu'ici.
+!------------------------------!
+ROXAS
+Hier sind keine Sandberge.
+!------------------------------!
+ROXAS
+Qui non ci sono mucchi
+di sabbia.
+!------------------------------!
+ROXAS
+Ninguna arena se
+amontona así.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Which means they must've just built this scaffold.
+!------------------------------!
+XIGBAR
+Ils doivent avoir construit cet échafaudage
+récemment.
+!------------------------------!
+XIGBAR
+Das heißt, dieses Gerüst wurde
+erst vor Kurzem gebaut.
+!------------------------------!
+XIGBAR
+Quindi questa impalcatura è
+stata costruita di recente.
+!------------------------------!
+XIGBAR
+Lo que significa que acaban
+de construir el andamio.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Are they selling pottery...or sand?
+!------------------------------!
+ROXAS
+Ils vendent quoi ici ? Des vases ou du sable ?
+!------------------------------!
+ROXAS
+Verkaufen sie hier Töpferwaren ...
+oder Sand?
+!------------------------------!
+ROXAS
+Ma qui vendono vasi...
+o sabbia?
+!------------------------------!
+ROXAS
+¿Venden cerámica... o arena?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000B00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Lumber, rope...
+What's all this for?
+!------------------------------!
+ROXAS
+Des poutres, des cordes...
+À quoi ça peut servir ?
+!------------------------------!
+ROXAS
+Holz, ein Seil ...
+Wozu ist das gut?
+!------------------------------!
+ROXAS
+Legname, corde...
+Che ci fa qui questa roba?
+!------------------------------!
+ROXAS
+Madera, cuerdas...
+¿Para qué es todo esto?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000C00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+A pile of rope? Hunh.
+!------------------------------!
+ROXAS
+Des cordes ? Hmm...
+!------------------------------!
+ROXAS
+Ein Haufen Seile? Hm.
+!------------------------------!
+ROXAS
+E tutte queste corde? Uhm.
+!------------------------------!
+ROXAS
+¿Un montón de cuerdas? Vaya.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000D00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There are signs here of somebody trying to clear
+the sand.
+!------------------------------!
+ROXAS
+On dirait que quelqu'un a essayé de déblayer
+le sable.
+!------------------------------!
+ROXAS
+Hier sieht's aus, als hätte jemand
+versucht, den Sand wegzuräumen.
+!------------------------------!
+ROXAS
+Sembra che qui qualcuno abbia
+cercato di spazzare via la sabbia.
+!------------------------------!
+ROXAS
+Hay señales de que alguien
+intenta quitar la arena.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000E00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Is this wood for scaffolding?
+!------------------------------!
+ROXAS
+Ce bois sert-il pour les échafaudages ?
+!------------------------------!
+ROXAS
+Ist das Holz für die Gerüste?
+!------------------------------!
+ROXAS
+È legname per le impalcature?
+!------------------------------!
+ROXAS
+¿Madera para andamios?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Look at the size of this dune.
+!------------------------------!
+ROXAS
+Quelle énorme dune...
+!------------------------------!
+ROXAS
+Was für eine riesige Düne ...
+!------------------------------!
+ROXAS
+Questa duna è immensa.
+!------------------------------!
+ROXAS
+Mira el tamaño de esa duna.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+It's 'cause we're next to the city gate.
+!------------------------------!
+XIGBAR
+C'est parce qu'on est près de la porte.
+!------------------------------!
+XIGBAR
+Wir müssen dicht am Eingang
+der Stadt sein.
+!------------------------------!
+XIGBAR
+Perché siamo accanto alle
+porte della città.
+!------------------------------!
+XIGBAR
+Es porque estamos junto a la
+puerta de la ciudad.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000001000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This door is boarded shut...
+!------------------------------!
+ROXAS
+Cette porte est condamnée...
+!------------------------------!
+ROXAS
+Diese Tür wurde zugenagelt ...
+!------------------------------!
+ROXAS
+Questa porta è sprangata...
+!------------------------------!
+ROXAS
+Esta puerta está entablada...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000001100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Check out all this sand...
+I don't think we're going outside.
+!------------------------------!
+ROXAS
+Regarde-moi tout ce sable...
+À mon avis, on ne pourra pas sortir.
+!------------------------------!
+ROXAS
+So viel Sand ...
+Da kommen wir nicht raus.
+!------------------------------!
+ROXAS
+Guarda quanta sabbia...
+Dubito che riusciremo a uscire.
+!------------------------------!
+ROXAS
+Mira toda esta arena...
+Dudo que consigamos salir.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Another storm is brewing.
+!------------------------------!
+XIGBAR
+Une autre tempête se prépare.
+!------------------------------!
+XIGBAR
+Ein neuer Sturm braut sich
+zusammen.
+!------------------------------!
+XIGBAR
+Presto arriverà un'altra tempesta.
+!------------------------------!
+XIGBAR
+Se acerca otra tormenta.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AE2205000000010000001200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This wall looks ready to collapse.
+!------------------------------!
+ROXAS
+Ce mur a l'air fragile.
+!------------------------------!
+ROXAS
+Diese Mauer stürzt wohl
+auch bald ein.
+!------------------------------!
+ROXAS
+Questo muro sembra sul
+punto di crollare.
+!------------------------------!
+ROXAS
+Esta pared parece a punto de
+caerse.
+!------------------------------!
+!******************************!

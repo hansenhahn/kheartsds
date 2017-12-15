@@ -1,0 +1,176 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, get this: they paired me with you
+today as a <E2><80><9C>slap on the wrist.<E2><80><9D>
+!------------------------------!
+Écoute-moi bien : je fais équipe avec
+toi aujourd'hui parce que je suis <E2><80><9C>puni<E2><80><9D>.
+!------------------------------!
+Hey, stell dir vor:
+Heute soll ich zur Strafe
+mit dir zusammenarbeiten.
+!------------------------------!
+Sai una cosa? Oggi mi hanno
+assegnato a te... come punizione.
+!------------------------------!
+Ojo al dato: hoy me han juntado
+contigo como castigo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+Why am I a slap on the wrist!?
+!------------------------------!
+Hein ?
+Pourquoi ce serait une punition ?
+!------------------------------!
+Was?!
+Wieso ist das eine Strafe!?
+!------------------------------!
+Ehi! Perché dovrei essere
+una punizione?!?
+!------------------------------!
+¡Eh!
+¿Por qué tiene que ser un castigo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, they just know how much I loathe
+babysitting...
+!------------------------------!
+Ils savent à quel point j'adore
+jouer les baby-sitters...
+!------------------------------!
+Tja, die wissen, wie sehr ich
+Babysitten hasse ...
+!------------------------------!
+Beh, sanno quanto io detesti
+farti da babysitter...
+!------------------------------!
+Bueno, saben lo mucho que
+detesto hacer de niñera...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, thanks!
+!------------------------------!
+Sympa, merci !
+!------------------------------!
+Oh, vielen Dank!
+!------------------------------!
+Oh, grazie tante!
+!------------------------------!
+Oh, gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Would it kill them to give me a day off?
+Look at these bags under my eyes.
+!------------------------------!
+Ça les tuerait de me donner un jour de
+repos ? Regarde les cernes que j'ai
+sous les yeux.
+!------------------------------!
+Würde es die umbringen, mir mal
+einen Tag frei zu geben? Sieh dir
+mal meine Augenringe an.
+!------------------------------!
+Perché non mi danno mai un
+giorno libero? Guarda, ormai
+ho le borse sotto gli occhi.
+!------------------------------!
+¿Tanto les cuesta darme
+un día libre? Mira qué
+ojeras tengo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pfft.
+All right, c'mon, partner.
+!------------------------------!
+M'enfin !
+Allez, viens, partenaire.
+!------------------------------!
+Pfft.
+Okay, komm, Partner.
+!------------------------------!
+Pft.
+Va bene, amico, andiamo.
+!------------------------------!
+Puf.
+Muy bien. Vamos, socio.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right behind ya.
+!------------------------------!
+Je te suis.
+!------------------------------!
+Bin gleich hinter dir.
+!------------------------------!
+Ti seguo.
+!------------------------------!
+Te sigo.
+!------------------------------!
+!******************************!

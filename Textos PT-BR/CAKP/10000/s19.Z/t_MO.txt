@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E3><82><88><E3><81><8F><E6><9D><A5><E3><81><9F><E3><82><AF><E3><83><9D>
+<E3><82><86><E3><81><A3><E3><81><8F><E3><82><8A><E8><A6><8B><E3><81><A6><E3><81><84><E3><81><8F><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+Saudações, kupo.
+Dê uma olhada nos meus artigos, kupo.
+!------------------------------!
+MOG
+Bienvenue, kupo. Jette un coup d'œil à ce que j'ai
+en stock, kupo.
+!------------------------------!
+MOGRY
+Grüße, kupo.
+Wirf einen Blick auf meine Waren, kupo.
+!------------------------------!
+MOGURI
+Salve, kupò.
+Guarda pure la mia mercanzia, kupò.
+!------------------------------!
+MOGURI
+Saludos, kupó. Echa un
+ojo a mis mercancías, kupó.
+!------------------------------!
+!******************************!

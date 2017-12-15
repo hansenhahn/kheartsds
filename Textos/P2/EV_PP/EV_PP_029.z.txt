@@ -1,0 +1,80 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ob/87.z
+!******************************!
+&.[HDR].2&
+mi/ob/A6.z
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[HDR].2&
+mi/ch/1D.z
+!******************************!
+&.[HDR].2&
+mi/ob/A8.z
+!******************************!
+&.[HDR].2&
+mi/ob/69.z
+!******************************!
+&.[HDR].2&
+mi/ob/AE.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+H-how did<E2><80><95> Why is<E2><80><95>?
+Me ship, it's...it's in tatters!
+!------------------------------!
+Mais, mais, mais !
+Mon navire... il est en miettes !
+!------------------------------!
+W-Wie konnte ... Warum ist ...?
+Mein Schiff, es ist ... zerstört!
+!------------------------------!
+M-ma come... Perché...?
+La mia nave... è un relitto!
+!------------------------------!
+¿Qué ha pasado...? ¿Por qué?
+Mi barco está...
+¡Está destrozado!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aw, cheer up, Captain...
+Our luck will turn around soon enough,
+I know it.
+!------------------------------!
+Ne vous en faites pas, Capitaine.
+La roue tourne, vous savez. Un jour,
+la chance nous sourira !
+!------------------------------!
+Ach, Kopf hoch, Käpt'n.
+Unser Glück wird sich schon bald
+wieder wenden, ganz bestimmt.
+!------------------------------!
+Oh, coraggio, Capitano.
+Presto la fortuna tornerà dalla
+vostra parte, me lo sento.
+!------------------------------!
+Ay, ánimo, capitán.
+Nuestra buena suerte volverá
+muy pronto. Lo sé.
+!------------------------------!
+!******************************!

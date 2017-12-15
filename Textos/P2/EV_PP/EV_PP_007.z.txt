@@ -1,0 +1,992 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ob/75.z
+!******************************!
+&.[HDR].2&
+mi/ob/6A.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Feels like it's been forever.
+!------------------------------!
+J'ai l'impression que ça fait une
+éternité...
+!------------------------------!
+Fühlt sich wie 'ne halbe
+Ewigkeit an.
+!------------------------------!
+Mi sembra un'eternità...
+!------------------------------!
+Parece que haya
+pasado toda una vida.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Since what?
+!------------------------------!
+Quoi donc ?
+!------------------------------!
+Was denn?
+!------------------------------!
+Da quando?
+!------------------------------!
+¿Desde cuándo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Since we got to talk like this.
+!------------------------------!
+Qu'on ne s'est pas parlé comme ça.
+!------------------------------!
+Dass wir so miteinander reden.
+!------------------------------!
+Da quando abbiamo parlato
+così l'ultima volta.
+!------------------------------!
+Desde que charlamos
+así por última vez.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Has it been that long?
+Time sure flies. Speaking of which...
+Isn't this the place?
+!------------------------------!
+Ah ouais ? Le temps passe vite.
+Mais au fait, ce n'est pas ici que
+tu as dit que tu avais volé ?
+!------------------------------!
+Tun wir das wirklich schon so lang?
+Die Zeit verfliegt. Übrigens ...
+Sind wir hier nicht richtig?
+!------------------------------!
+È passato così tanto tempo?
+Il tempo vola. A proposito...
+Il posto è questo, no?
+!------------------------------!
+¿Tanto? El tiempo vuela, sin
+duda. Por cierto... ¿No es este
+el lugar?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, yeah, this is it!
+Here, just watch!
+!------------------------------!
+Si, c'est ça ! Tiens, regarde !
+!------------------------------!
+Oh ja, wir sind da!
+Hier, sieh mal!
+!------------------------------!
+Ah, sì, è proprio questo!
+Guarda!
+!------------------------------!
+¡Sí, este es!
+¡Atento, mira!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uhh, what are you doing, Roxas?
+!------------------------------!
+Euh, qu'est-ce que tu fabriques,
+Roxas ?
+!------------------------------!
+Äh, was machst du da, Roxas?
+!------------------------------!
+Uh, che stai facendo, Roxas?
+!------------------------------!
+Estooo, ¿qué estás
+haciendo, Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh... That's so weird.
+I could fly before.
+!------------------------------!
+C'est bizarre...
+Je pouvais voler l'autre fois.
+!------------------------------!
+Hm ... Das ist ja seltsam.
+Ich konnte doch fliegen.
+!------------------------------!
+Uh...? Strano.
+Prima riuscivo a volare.
+!------------------------------!
+¿Eh?... Qué raro.
+Antes podía volar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess I must need that sparkly dust
+for it to work.
+!------------------------------!
+J'ai besoin de cette fameuse
+poudre scintillante, j'imagine.
+!------------------------------!
+Ich brauch wohl dieses
+leuchtende Pulver dafür.
+!------------------------------!
+Ho la sensazione che sia
+necessaria quella polvere luccicante.
+!------------------------------!
+Supongo que necesito ese
+polvillo brillante para hacerlo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Blast it all! Not again!?
+!------------------------------!
+Nom d'un œil de verre !
+Encore bredouille !
+!------------------------------!
+Verdammt! Nicht schon wieder!
+!------------------------------!
+Dannazione! Non di nuovo!
+!------------------------------!
+¡Porras!
+¡Otra vez no!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Hein ?
+!------------------------------!
+Hä?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know that voice...
+!------------------------------!
+Je reconnais cette voix...
+!------------------------------!
+Die Stimme kenn ich doch ...
+!------------------------------!
+Conosco questa voce...
+!------------------------------!
+Conozco esta voz...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You dig and dig, and all I get is more
+Heartless.
+!------------------------------!
+On creuse, on creuse, et tout ce
+qu'on trouve c'est ces satanés
+Sans-cœur !
+!------------------------------!
+Wir graben und graben und alles,
+was wir finden, sind mehr Herzlose.
+!------------------------------!
+Scaviamo e scaviamo, ma non
+troviamo altro che Heartless.
+!------------------------------!
+Cavamos y cavamos y no
+encontramos más que sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They're taking up too much of me time!
+!------------------------------!
+Argh ! Ces créatures me font perdre
+un temps précieux !
+!------------------------------!
+Die kosten mich einfach zu viel
+Zeit!
+!------------------------------!
+Mi stanno facendo perdere troppo tempo!
+!------------------------------!
+¡Me están haciendo perder
+demasiado tiempo!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We need to find that treasure before
+someone else does.
+!------------------------------!
+Il faut qu'on trouve ce trésor
+avant que quelqu'un d'autre
+ne mette la main dessus !
+!------------------------------!
+Wir müssen den Schatz finden,
+bevor's jemand anders tut.
+!------------------------------!
+Dobbiamo trovare quel tesoro prima
+che ci riesca qualcun altro.
+!------------------------------!
+Tenemos que encontrar el tesoro
+antes de que otro lo
+haga.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why it...it makes me blood boil!
+!------------------------------!
+J'en ai ma claque !
+!------------------------------!
+Das treibt mich noch zum Wahnsinn!
+!------------------------------!
+Perché... mi fa ribollire il sangue!
+!------------------------------!
+¡Me... me hace hervir la sangre!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Captain!?
+Where are you going, Captain?
+!------------------------------!
+Où allez-vous, Capitaine ?
+!------------------------------!
+Käpt'n!? Wo gehen Sie hin,
+Käpt'n?
+!------------------------------!
+Capitano?
+Dove state andando, Capitano?
+!------------------------------!
+Capitán, señor, ¿adónde va?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Back to the ship!
+!------------------------------!
+Sur le navire !
+!------------------------------!
+Zurück zum Schiff!
+!------------------------------!
+Torniamo sulla nave!
+!------------------------------!
+¡Vuelvo al barco!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll blast these scurvy meddlers into
+oblivion! Then maybe I can get back to
+having you dig in peace.
+!------------------------------!
+Je vais nous débarrasser de ces
+maudites vermines et ensuite,
+tu pourras creuser en paix.
+!------------------------------!
+Ich blase diese elenden Dinger
+in die Luft! Vielleicht können wir
+dann in Ruhe graben.
+!------------------------------!
+Spazzerò via tutti quei dannati
+ficcanaso! Così forse potrai
+tornare a scavare in santa pace!
+!------------------------------!
+¡Volaré en pedazos a esos
+dichosos entrometidos! Así
+podrás volver a cavar en paz.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you say so, Captain!
+!------------------------------!
+D'accord, Capitaine !
+!------------------------------!
+Wenn Sie meinen, Käpt'n!
+!------------------------------!
+Se lo dite voi, Capitano!
+!------------------------------!
+¡Lo que usted diga, capitán!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's their story?
+!------------------------------!
+C'est qui, ces deux-là ?
+!------------------------------!
+Was machen die?
+!------------------------------!
+Chi sono quelli?
+!------------------------------!
+¿Quiénes son?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Not sure, but they mentioned something
+about treasure maps last time.
+!------------------------------!
+Je ne sais pas, mais ils ont parlé de
+cartes au trésor l'autre fois.
+!------------------------------!
+Letztes Mal haben sie irgendwas
+von Schatzkarten geredet.
+!------------------------------!
+Non ne sono sicuro, ma l'ultima
+volta continuavano a parlare di
+certe mappe del tesoro.
+!------------------------------!
+No lo sé muy bien, pero la
+última vez mencionaron algo de
+unos mapas del tesoro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So what, they're digging for buried
+gold?
+!------------------------------!
+Ils cherchent de l'or enterré,
+c'est ça ?
+!------------------------------!
+Die graben nach Gold?
+!------------------------------!
+Quindi stanno cercando
+dell'oro sepolto?
+!------------------------------!
+¿Así que cavan para desenterrar
+oro escondido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+From the looks of it, all they're digging
+up is trouble.
+!------------------------------!
+De ce que j'en vois, ils cherchent
+surtout les ennuis.
+!------------------------------!
+Sieht eher danach aus, als würden
+sie nur Probleme ausgraben.
+!------------------------------!
+A quanto pare, finora hanno
+trovato solo guai.
+!------------------------------!
+Más bien parece que lo único que
+desentierran son problemas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. For some reason, Heartless
+spring up wherever they dig.
+!------------------------------!
+Oui. À chaque fois qu'ils creusent,
+des Sans-cœur apparaissent.
+!------------------------------!
+Stimmt. Aus irgendeinem Grund
+graben sie ständig Herzlose aus.
+!------------------------------!
+Già. Per qualche motivo,
+gli Heartless compaiono in
+ogni luogo in cui scavano.
+!------------------------------!
+Sí. Por alguna razón aparecen
+sincorazón cada vez que cavan.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean Heartless are hiding in the
+ground?
+!------------------------------!
+Tu veux dire que des Sans-cœur
+se cachent sous terre ?
+!------------------------------!
+Du meinst, die Herzlosen
+verstecken sich im Boden?
+!------------------------------!
+Quindi gli Heartless si
+nascondono sottoterra?
+!------------------------------!
+¿Quieres decir que los sincora-
+zón se ocultan bajo el suelo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm not so sure that's it.
+!------------------------------!
+Je ne suis pas sûr que ce soit
+vraiment ça.
+!------------------------------!
+Da bin ich mir nicht so sicher.
+!------------------------------!
+Non ne sono molto convinto.
+!------------------------------!
+No sé si se trata de eso.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You got a better explanation?
+!------------------------------!
+Tu as une meilleure explication ?
+!------------------------------!
+Hast du eine bessere Erklärung?
+!------------------------------!
+Hai una spiegazione migliore?
+!------------------------------!
+¿Tienes una explicación mejor?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look, I'm just saying.
+All I saw in the hole they dug was a
+wooden chest full of junk.
+!------------------------------!
+Écoute... tout ce que j'ai vu dans le
+trou qu'ils ont creusé, c'était un
+coffre en bois rempli de camelote.
+!------------------------------!
+Ich habe in dem Loch, das sie
+gegraben haben, einzig und allein
+eine Truhe voller Schrott gesehen.
+!------------------------------!
+Le mie sono soltanto ipotesi.
+Nella fossa che hanno scavato ho visto
+solo una cassa piena di cianfrusaglie.
+!------------------------------!
+Mira, solo sé que lo único que
+vi en el agujero que cavaron era
+un cofre lleno de chatarra.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And the Heartless were in the chest?
+!------------------------------!
+Et les Sans-cœur étaient dans ce
+coffre ?
+!------------------------------!
+Und die Herzlosen waren in der Truhe?
+!------------------------------!
+E gli Heartless erano in quella cassa?
+!------------------------------!
+¿Y los sincorazón
+estaban en el cofre?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I dunno. I think maybe something else is
+causing them to show up.
+!------------------------------!
+Aucune idée. Je pense qu'autre chose
+les a fait apparaître.
+!------------------------------!
+Weiß ich nicht. Vielleicht kommen
+sie auch woanders her.
+!------------------------------!
+Non lo so. Forse c'è qualcos'altro
+che li fa comparire dal nulla.
+!------------------------------!
+No sé. Creo que quizá haya algo
+más que haga que aparezcan.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like?
+!------------------------------!
+C'est-à-dire ?
+!------------------------------!
+Zum Beispiel?
+!------------------------------!
+Del tipo?
+!------------------------------!
+¿Como qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Didn't something seem kind of off to you
+about the guy in red?
+!------------------------------!
+Tu ne trouves pas le type en
+rouge un peu bizarre ?
+!------------------------------!
+Kam dir an dem Kerl in Rot
+nichts komisch vor?
+!------------------------------!
+Non hai notato qualcosa di strano in
+quel tizio vestito di rosso?
+!------------------------------!
+¿Crees que puede tener algo
+que ver el tipo ese de rojo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Off? Off how?
+!------------------------------!
+Bizarre ? Comment ?
+!------------------------------!
+Komisch? Wieso komisch?
+!------------------------------!
+Strano? In che senso?
+!------------------------------!
+¿Algo como qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well...right now we're just guessing.
+!------------------------------!
+Tout ça, ce ne sont que des
+suppositions.
+!------------------------------!
+Also ... im Moment können wir
+nur raten.
+!------------------------------!
+Beh... Mi pare che stiamo solo
+tirando a indovinare.
+!------------------------------!
+Bueno... por ahora,
+solo son conjeturas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's start by checking the places they
+dug up. Who knows, maybe we'll find our
+targets down there taking a nap.
+!------------------------------!
+Allons voir les trous qu'ils ont
+creusés. On trouvera peut-être nos
+cibles en train de dormir au fond.
+!------------------------------!
+Fangen wir dort an, wo sie schon
+gegraben haben. Vielleicht machen
+unsere Ziele gerade ein Nickerchen.
+!------------------------------!
+Iniziamo controllando i luoghi in cui
+hanno scavato. Chissà, forse potremo
+cogliere di sorpresa i nostri bersagli!
+!------------------------------!
+Miremos los lugares que han ca-
+vado. Quizás encontremos a los
+objetivos ahí abajo, dormiditos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+Stranger things have happened.
+!------------------------------!
+Oui. On a déjà vu plus étrange.
+!------------------------------!
+Ja.
+Mir ist schon Merkwürdigeres
+passiert.
+!------------------------------!
+Sì.
+Qui accadono molte cose strane.
+!------------------------------!
+Sí.
+Cosas más raras se han visto.
+!------------------------------!
+!******************************!

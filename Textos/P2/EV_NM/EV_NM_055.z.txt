@@ -1,0 +1,206 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:20
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There. Now you can say, <E2><80><9C>Mission
+accomplished.<E2><80><9D>
+!------------------------------!
+Voilà. Maintenant tu peux le dire :
+<E2><80><9C>mission accomplie<E2><80><9D> !
+!------------------------------!
+Da. Jetzt kannst du sagen:
+<E2><80><9E>Mission erfüllt<E2><80><9C>.
+!------------------------------!
+Bene, missione compiuta.
+Questa volta per davvero.
+!------------------------------!
+Mira, ahora ya puedes decir
+"misión cumplida".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You could have just told me that ice
+cube Heartless wasn't our target.
+!------------------------------!
+Tu aurais quand même pu me prévenir
+que le Sans-cœur d'avant n'était
+pas la cible !
+!------------------------------!
+Du hättest mir auch sagen können,
+dass dieser Eiswürfel-Herzlose
+nicht unser Ziel war.
+!------------------------------!
+Potevi dirmi che quell'Heartless di
+prima non era il nostro bersaglio.
+!------------------------------!
+Podrías haberme dicho antes que
+ese cubo de hielo sincorazón no
+era nuestro objetivo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But because I didn't, you learned a hard
+and valuable lesson.
+!------------------------------!
+Mais comme je ne t'ai rien dit,
+tu as appris une bonne leçon.
+!------------------------------!
+Aber weil ich es nicht gesagt habe,
+hast du eine schwere, aber wertvolle
+Lektion gelernt.
+!------------------------------!
+Ma in questo modo hai imparato una
+lezione molto importante sulla tua pelle.
+!------------------------------!
+Pero como no lo hice, tú has
+aprendido una valiosa lección.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And for the record, I did warn you to
+keep your head on straight.
+!------------------------------!
+Et pour ta gouverne, je t'ai bien
+dit de pas t'emballer, non ?
+!------------------------------!
+Und fürs Protokoll: Ich hab dir gesagt,
+dass du den Kopf hochnehmen sollst.
+!------------------------------!
+E, per la cronaca, ti avevo detto
+di mantenere il sangue freddo.
+!------------------------------!
+Y que conste que sí que te dije
+que te mantuvieras ojo avizor.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, yeah, but...
+!------------------------------!
+Oui, mais...
+!------------------------------!
+Nun, ja, aber ...
+!------------------------------!
+Beh, sì, ma...
+!------------------------------!
+Bueno, sí, pero...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh.
+Come on, kiddo. Let's RTC.
+!------------------------------!
+Hé, hé, hé...
+Allez, viens gamin, on rentre.
+!------------------------------!
+Hi, hi.
+Komm schon, Kleiner.
+Zurück zum Schloss.
+!------------------------------!
+Eh eh.
+Forza, ragazzo, torniamo al castello.
+!------------------------------!
+Je, je.
+Vamos, chico. Hay que VAC.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay.
+!------------------------------!
+D'accord.
+!------------------------------!
+Okay.
+!------------------------------!
+OK.
+!------------------------------!
+Vale.
+!------------------------------!
+!******************************!

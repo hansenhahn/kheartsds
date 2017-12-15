@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><BC><E3><82><AF><E3><82><B7><E3><82><AA><E3><83><B3><EF><BC><9E>
+<E4><BD><95><E3><81><8B><E7><94><A8><E3><81><A7><E3><81><99><E3><81><8B><EF><BC><9F>
+<E7><94><A8><E3><81><8C><E3><81><AA><E3><81><84><E3><81><AA><E3><82><89><E3><80><81><E3><81><82><E3><81><A1><E3><82><89><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><81><8F><E3><81><A0><E3><81><95><E3><81><84>
+!------------------------------!
+ZEXION
+Sim, o que é?
+Não desperdice meu tempo com conversas supérfluas.
+!------------------------------!
+ZEXION
+Oui, qu'est-ce qu'il y a ? Je n'ai pas de temps à
+perdre à discuter.
+!------------------------------!
+ZEXION
+Ja, was ist? Verschwende meine Zeit
+nicht mit unsinnigem Geschwätz.
+!------------------------------!
+ZEXION
+Cosa vuoi?
+Non ho tempo da perdere in chiacchiere.
+!------------------------------!
+ZEXIÓN
+¿Qué pasa? No me
+hagas perder el tiempo.
+!------------------------------!
+!******************************!

@@ -1,0 +1,288 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/67.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm sorry, Roxas...
+My taking your Keyblade must make
+things harder for you.
+!------------------------------!
+Désolée, Roxas...
+Ça ne doit pas te faciliter la tâche
+que je t'aie pris ta Keyblade.
+!------------------------------!
+Tut mir leid, Roxas ...
+Dass ich dein Schlüsselschwert
+habe, macht es für dich schwerer.
+!------------------------------!
+Scusami, Roxas... Per te
+dev'essere molto difficile,
+senza il tuo Keyblade.
+!------------------------------!
+Lo siento, Roxas... Haberte
+dejado sin la llave espada debe
+de haberte complicado las cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's fine.
+No need to worry about me.
+!------------------------------!
+C'est bon.
+Ne t'en fais pas pour moi !
+!------------------------------!
+Schon gut.
+Mach dir um mich keine Sorgen.
+!------------------------------!
+Sto bene.
+Non preoccuparti per me.
+!------------------------------!
+No pasa nada.
+No te preocupes por mí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How about you?
+Has using it jogged your memory at all?
+!------------------------------!
+Et toi alors ? Est-ce que le fait de
+l'utiliser t'a permis de te rappeler
+quelque chose ?
+!------------------------------!
+Was ist mit dir? Hat es deinem
+Gedächtnis auf die Sprünge
+geholfen?
+!------------------------------!
+E tu, invece?
+Almeno è servito a rinfrescarti
+un po' la memoria?
+!------------------------------!
+Y tú, ¿qué tal? ¿Usarla te ha
+refrescado un poco la memoria?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nothing yet... Sorry.
+!------------------------------!
+Pas encore... désolée.
+!------------------------------!
+Bisher nicht ... Tut mir leid.
+!------------------------------!
+Ancora niente... Scusa.
+!------------------------------!
+Aún nada... Lo siento.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't be.
+!------------------------------!
+Pas de souci.
+!------------------------------!
+Braucht es nicht.
+!------------------------------!
+Non devi scusarti.
+!------------------------------!
+No lo sientas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm sure it'll come back to you soon.
+Don't sweat it.
+!------------------------------!
+Je suis sûr que ça te reviendra.
+Ne t'en fais pas.
+!------------------------------!
+Es fällt dir bestimmt bald
+wieder ein. Versuch nicht,
+es zu erzwingen.
+!------------------------------!
+Sono sicuro che presto
+ricorderai tutto. Non avere
+fretta.
+!------------------------------!
+Seguro que la recobrarás pronto.
+No te apures.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah...
+Thanks, Roxas.
+!------------------------------!
+Oui...
+Merci, Roxas.
+!------------------------------!
+Ja ...
+Danke, Roxas.
+!------------------------------!
+Già...
+Grazie, Roxas.
+!------------------------------!
+Sí...
+Gracias, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look! Over there!
+!------------------------------!
+Là ! Regarde !
+!------------------------------!
+Sieh mal! Da drüben!
+!------------------------------!
+Guarda! Laggiù!
+!------------------------------!
+¡Mira! ¡Por ahí!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's our Heartless!
+You ready, Xion?
+!------------------------------!
+Voilà notre Sans-cœur !
+Prête, Xion ?
+!------------------------------!
+Das ist unser Herzloser!
+Bist du bereit, Xion?
+!------------------------------!
+È il nostro Heartless!
+Sei pronta, Xion?
+!------------------------------!
+¡Es nuestro sincorazón!
+¿Lista, Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Any time!
+!------------------------------!
+Quand tu veux !
+!------------------------------!
+Jederzeit!
+!------------------------------!
+Prontissima!
+!------------------------------!
+¡Cuando quieras!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!

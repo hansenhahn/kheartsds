@@ -1,0 +1,25 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E6><BA><96><E5><82><99><E3><81><AF><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><AE><E3><81><8B><EF><BC><9F>
+<E4><BF><BA><E3><81><AF><E3><81><84><E3><81><A4><E3><81><A7><E3><82><82><E8><A1><8C><E3><81><91><E3><82><8B><E3><81><9E>
+!------------------------------!
+LUXORD
+Pronto para começar?
+Podemos partir quando quiser.
+!------------------------------!
+LUXORD
+Tu es prêt ? Partons dès que ce sera le cas.
+!------------------------------!
+LUXORD
+Bereit zum Loslegen? Wir können sofort
+ los, wenn du so weit bist.
+!------------------------------!
+LUXORD
+Sei pronto a cominciare? Possiamo
+iniziare non appena sei pronto.
+!------------------------------!
+LUXORD
+¿Comenzamos? Podemos
+irnos en cuanto quieras.
+!------------------------------!
+!******************************!

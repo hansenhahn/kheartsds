@@ -1,0 +1,193 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/03.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora escute bem.
+Sua missão de hoje é efetuar
+o reconhecimento desta área.
+!------------------------------!
+Écoute-moi bien. Aujourd'hui, ta mission
+consiste à inspecter cette zone.
+!------------------------------!
+Hör mir gut zu.
+Heute ist deine Mission, dieses
+Gebiet zu erforschen.
+!------------------------------!
+Apri bene le orecchie. Per
+completare la missione odierna
+dovrai indagare in questa zona.
+!------------------------------!
+Escúchame bien.
+Tu misión es investigar esta zona.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Reconhe-o quê?
+O que aconteceu com lutar contra
+Heartless e coletar corações?
+!------------------------------!
+<E2><80><9C>Inspecter<E2><80><9D> ? Mais... et pour ce qui est
+de battre des Sans-cœur et de récu-
+pérer des cœurs alors ?
+!------------------------------!
+Erforschen? Aber was ist mit
+dem Bekämpfen von Herzlosen
+und Sammeln von Herzen?
+!------------------------------!
+Indagare? Ma non dovevo
+combattere gli Heartless e
+raccogliere i cuori?
+!------------------------------!
+¿Investigarla? ¿Y qué pasa con
+lo de derrotar a los sincorazón y
+recoger sus corazones?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, a Ordem não se resume a isso,
+garoto.
+!------------------------------!
+Oh, l'Organisation ne se résume pas
+qu'à ça, gamin.
+!------------------------------!
+Oh, es steckt noch viel mehr
+hinter der Organisation als das,
+Junge.
+!------------------------------!
+Ah, l'Organizzazione si occupa
+di molte altre cose, ragazzo.
+!------------------------------!
+Oh, la Organización también se
+ocupa de otras cosas, muchacho.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nosso trabalho não fluiria bem
+se não recolhêssemos o conhecimento
+necessário de antemão.
+!------------------------------!
+Nos missions ne se passeraient pas
+aussi bien si on ne réunissait pas
+des renseignements avant coup.
+!------------------------------!
+Unsere Arbeit würde nur halb so glatt
+laufen, wenn wir nicht vorher
+Informationen sammeln würden.
+!------------------------------!
+Il nostro lavoro non filerebbe
+così liscio se non raccogliessimo
+delle informazioni preliminari.
+!------------------------------!
+Nuestra labor no sería nada
+efectiva si no recopilásemos
+información de antemano.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Felizmente, você está em boas mãos.
+Estarei ao seu lado hoje para ajudá-lo
+a estimular essa mente insensata sua.
+!------------------------------!
+Heureusement que tu es entre de
+bonnes mains. Je serai là pour
+stimuler ta logique implacable...
+!------------------------------!
+Glücklicherweise bist du in guten
+Händen. Ich werde dir helfen, deinen
+gefühllosen Geist zu beleben.
+!------------------------------!
+Sei in buone mani, per fortuna.
+Oggi starò qui tutto il giorno a
+stimolare la tua inutile mente.
+!------------------------------!
+Pero estás en buenas manos.
+Te acompañaré para
+estimular tu insensata mente.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Primeiro, dê uma olhada em volta 
+da área imediata e relate qualquer 
+coisa incomum que achar.
+!------------------------------!
+Regarde autour de toi et relève
+tout ce qui te paraît étrange.
+!------------------------------!
+Sieh dich hier erst einmal um und
+erstatte über alles Ungewöhnliche
+Bericht.
+!------------------------------!
+Per prima cosa guardati intorno e
+riferisci su tutte le stranezze
+che trovi.
+!------------------------------!
+Primero echa un vistazo al
+lugar e infórmame de aquello
+que te parezca sospechoso.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E não vá para muito longe até tiver
+examinado minuciosamente todos os 
+indícios à mão.
+!------------------------------!
+Et ne pars pas tant que tu n'auras
+pas examiné tous les indices.
+!------------------------------!
+Und geh nicht, bevor du nicht
+sorgfältig alle verfügbaren Hinweise
+überprüft hast.
+!------------------------------!
+E non andartene in giro
+senza aver prima esaminato gli
+indizi più vicini.
+!------------------------------!
+Y no os vayáis muy lejos
+antes de haber analizado
+bien las pistas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

@@ -1,0 +1,102 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Hmm, os Jogos devem ser realizados bastante...
+!------------------------------!
+ROXAS
+Les Jeux doivent avoir lieu assez souvent...
+!------------------------------!
+ROXAS
+Die Spiele müssen ganz schön oft
+stattfinden ...
+!------------------------------!
+ROXAS
+Quindi i Giochi devono tenersi
+abbastanza spesso...
+!------------------------------!
+ROXAS
+Deben celebrarse juegos
+a menudo...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+E se as pessoas estão competindo para ver quem 
+é o mais forte, então Xigbar estava certo. 
+Talvez poderemos usar alguns deles.
+!------------------------------!
+Et si des gens s'affrontent pour savoir qui est
+le plus fort, alors Xigbar avait raison. On pourra
+peut-être utiliser certains d'entre eux.
+!------------------------------!
+Und wenn es hier darum geht, den Stärksten
+zu finden, dann hatte Xigbar recht und wir können
+vielleicht einige von ihnen gebrauchen.
+!------------------------------!
+E se servono a stabilire chi è il più forte,
+Xigbar aveva ragione. Qualcuno di
+loro potrebbe tornarci utile.
+!------------------------------!
+Xigbar tenía razón: si compiten por
+ser los más fuertes, podríamos usarlos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Quanto será que vai demorar para o próximo...?
+Bom, só sei que tenho que voltar.
+Ainda mais com os Heartless à solta..
+!------------------------------!
+Je me demande quand aura lieu le prochain
+tournoi... Mais je reviendrai sûrement,
+surtout avec tous ces Sans-cœur en liberté.
+!------------------------------!
+Wann wohl die nächsten Spiele stattfinden ...
+Ich komme auf jeden Fall wieder. Besonders
+bei frei herumlaufenden Herzlosen.
+!------------------------------!
+Chissà quando saranno i prossimi...
+Beh, tornerò sicuramente. Specialmente
+con tutti quegli Heartless a piede libero.
+!------------------------------!
+¿Cuándo serán los próximos?
+Bueno, volveré de todos modos.
+Con tanto sincorazón suelto...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Melhor eu VAC.
+!------------------------------!
+Allez, je devrais rentrer.
+!------------------------------!
+Ich sollte zum Schloss zurück.
+!------------------------------!
+Ora devo tornare al castello.
+!------------------------------!
+Debería VAC.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Não quero que Xigbar ache que
+só estou aqui por diversão.
+!------------------------------!
+Je ne voudrais pas que Xigbar croie
+que je prends du bon temps ici.
+!------------------------------!
+Xigbar soll nicht glauben, ich hätte hier
+jede Menge Spaß.
+!------------------------------!
+Altrimenti Xigbar potrebbe pensare che
+qui mi sto divertendo troppo.
+!------------------------------!
+No quiero que Xigbar piense
+que estoy perdiendo el tiempo.
+!------------------------------!
+!******************************!

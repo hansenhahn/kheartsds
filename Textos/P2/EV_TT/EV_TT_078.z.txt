@@ -1,0 +1,325 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+1:46
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/03.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We've been through the whole area.
+!------------------------------!
+Nous avons passé toute la zone au
+peigne fin...
+!------------------------------!
+Wir haben die ganze Gegend
+abgesucht.
+!------------------------------!
+Abbiamo setacciato l'intera
+zona.
+!------------------------------!
+Hemos explorado toda la zona...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, then, what have you learned?
+!------------------------------!
+Alors, qu'as-tu appris ?
+!------------------------------!
+Okay, und was hast du herausgefunden?
+!------------------------------!
+Bene, sai dirmi cosa hai
+scoperto?
+!------------------------------!
+¿Y bien? ¿Qué has averiguado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, umm...let's see. The town has a
+lot of overpasses and underpasses.
+And the tram seems to circle the plaza.
+!------------------------------!
+Ben, euh... que la ville est pleine de
+tunnels et de ponts. Et on dirait que
+le tram fait le tour de la place...
+!------------------------------!
+Ähm ... also ... In der Stadt gibt
+es viele Brücken. Und die
+Straßenbahn umkreist die Piazza ...
+!------------------------------!
+Beh, uhm... La città ha molti
+cavalcavia e sottopassaggi.
+E il tram fa il giro della piazza.
+!------------------------------!
+A ver... La ciudad tiene muchos
+túneles y puentes elevados.
+Y el tranvía rodea la plaza.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, and there was that entrance that
+looked like it led underground, but it
+was shuttered.
+!------------------------------!
+Oh, et il y avait aussi des entrées
+vers un passage souterrain, mais
+elles étaient toutes fermées.
+!------------------------------!
+Oh, und da war ein Eingang zu
+einer unterirdischen Passage,
+aber der war verschlossen.
+!------------------------------!
+Ah, ho anche visto un ingresso
+che sembrava condurre nel
+sottosuolo, ma era chiuso.
+!------------------------------!
+Ah, y había una entrada a
+un pasadizo subterráneo,
+pero estaba cerrada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Anything else?
+!------------------------------!
+Autre chose ?
+!------------------------------!
+Gab's noch mehr?
+!------------------------------!
+Nient'altro?
+!------------------------------!
+¿Algo más?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+Oh, umm... Err...
+!------------------------------!
+Hein ? Ben euh...
+!------------------------------!
+Hä?
+Oh, ähm ... Öh ...
+!------------------------------!
+Uh?
+Oh, uhm... Ehm...
+!------------------------------!
+¿Eh?
+Ah, pues... esto...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Never mind.
+Wouldn't want you to hurt yourself.
+!------------------------------!
+Je vois... Faudrait pas que tu te
+grilles les neurones non plus...
+!------------------------------!
+Schon gut.
+Ich will nicht, dass du dich
+überanstrengst.
+!------------------------------!
+Non importa.
+Non voglio certo metterti
+in difficoltà.
+!------------------------------!
+Es igual. No te vaya
+a dar algo, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're showing some improvement, at
+least, even if your natural talents do
+fall woefully short of my own.
+!------------------------------!
+Au moins, tu as fait quelques progrès,
+même si tes talents naturels sont à
+des années-lumière des miens.
+!------------------------------!
+Du hast dich verbessert, auch wenn
+du wesentlich weniger Talent hast
+als ich.
+!------------------------------!
+Mostri segni di miglioramento,
+anche se il tuo talento naturale
+resta di molto inferiore al mio.
+!------------------------------!
+Al menos estás mejorando,
+aunque tus dotes no son
+nada comparadas con las mías.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're done, boy.
+Go ahead and RTC.
+!------------------------------!
+C'est bon, gamin.
+Tu peux RÀC.
+!------------------------------!
+Du bist fertig, Junge.
+Kehre jetzt zum Schloss zurück.
+!------------------------------!
+Abbiamo finito, ragazzo.
+Puoi tornare al castello.
+!------------------------------!
+Hemos terminado, chico.
+VAC en seguida.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I could've figured it out if I had more
+time.
+!------------------------------!
+J'aurais pu faire mieux si j'avais eu
+plus de temps.
+!------------------------------!
+Mit mehr Zeit hätte ich
+es herausfinden können.
+!------------------------------!
+Avrei potuto fare di meglio,
+con più tempo a disposizione.
+!------------------------------!
+De haber tenido más tiempo
+lo habría averiguado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh? Is that so?
+Then take all the time you like.
+!------------------------------!
+Ah oui ? C'est vrai ?
+Alors prends tout ton temps.
+!------------------------------!
+Ach? Ist das so?
+Dann nimm dir so viel Zeit,
+wie du brauchst.
+!------------------------------!
+Oh, davvero?
+Allora prenditi tutto
+il tempo che vuoi.
+!------------------------------!
+¿No me digas?
+Pues tómate todo el tiempo
+que quieras.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But don't hold yourself up to my
+standards. Little steps for little minds.
+!------------------------------!
+Mais ne place pas la barre trop haut.
+Petit à petit pour les simples
+d'esprit...
+!------------------------------!
+Aber miss dich nicht an mir.
+Kleine Schritte für kleine Geister.
+!------------------------------!
+Ma non sforzarti di raggiungere
+il mio livello. Piccoli passi
+per una piccola mente...
+!------------------------------!
+Pero no intentes ponerte a mi
+altura. Los novatos tenéis que
+ir poquito a poco.
+!------------------------------!
+!******************************!

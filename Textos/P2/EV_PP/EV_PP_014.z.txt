@@ -1,0 +1,150 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+1:47
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Confound this useless map!
+!------------------------------!
+Espèce de bonne à rien de carte
+maudite !
+!------------------------------!
+Zum Klabauter mit dieser nutzlosen
+Karte!
+!------------------------------!
+Al diavolo questa stupida mappa!
+!------------------------------!
+¡Al diablo con este
+mapa de pacotilla!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But Captain, are ya sure ya want to
+tear it up like that?
+!------------------------------!
+Capitaine, vous ne devriez pas la
+déchirer comme ça.
+!------------------------------!
+Aber Käpt'n, sind Sie sicher,
+dass Sie sie zerreißen wollen?
+!------------------------------!
+Ma Capitano, siete sicuro di volerla
+strappare in questo modo?
+!------------------------------!
+Pero... capitán, señor, no debería
+romperlo así.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aye, we checked this one the other day.
+It's worthless!
+!------------------------------!
+On a déjà vérifié celle-là.
+Elle ne vaut pas un clou !
+!------------------------------!
+Wir haben sie doch schon.
+überprüft. Sie ist wertlos!
+!------------------------------!
+Sì, l'abbiamo già controllata l'altro giorno.
+È del tutto inutile!
+!------------------------------!
+Ya lo hemos comprobado.
+¡No vale un pimiento!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you say so, sir.
+!------------------------------!
+Si vous le dites, Capitaine...
+!------------------------------!
+Wenn Sie das sagen.
+!------------------------------!
+Se lo dite voi, Capitano.
+!------------------------------!
+Si usted lo dice, señor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Set a course, Mr. Smee!
+Take us to the next treasure spot!
+!------------------------------!
+Allons-y, M. Mouche !
+Direction le prochain trésor !
+!------------------------------!
+Kurs setzen, Herr Smee!
+Auf zum nächsten Schatz!
+!------------------------------!
+Traccia la rotta, Spugna!
+Portaci al prossimo tesoro!
+!------------------------------!
+Trace el rumbo, Sr. Smee.
+¡Llévenos hasta el siguiente
+cofre del tesoro!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A-aye, aye, Captain...
+!------------------------------!
+Oui, Capitaine !
+!------------------------------!
+A-Aye, aye, Käpt'n ...
+!------------------------------!
+A-agli ordini, Capitano!
+!------------------------------!
+¡S-sí, sí, capitán!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sounds like they're inside.
+!------------------------------!
+Je crois qu'ils sont à l'intérieur.
+!------------------------------!
+Klingt, als wären sie drinnen.
+!------------------------------!
+Pare che siano qui dentro.
+!------------------------------!
+Parece que están dentro.
+!------------------------------!
+!******************************!

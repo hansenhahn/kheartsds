@@ -1,0 +1,358 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Hey, Roxas...
+
+!------------------------------!
+XION
+Hé, Roxas...
+!------------------------------!
+XION
+Hey, Roxas ...
+!------------------------------!
+XION
+Ehi, Roxas...
+!------------------------------!
+XION
+Oye, Roxas...
+
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+There's something I think everybody in this castle
+has in common.
+!------------------------------!
+Je crois que tous les occupants de ce
+château ont quelque chose en commun.
+!------------------------------!
+Ich glaube, alle in diesem Schloss
+haben etwas gemeinsam.
+!------------------------------!
+Secondo me tutti gli abitanti di questo
+castello hanno una cosa in comune.
+!------------------------------!
+Me estoy dando cuenta de que,
+en este castillo, todos
+tienen algo en común.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+That none of them are human?
+!------------------------------!
+Aucun d'eux n'est humain
+!------------------------------!
+Es sind alles keine Menschen.
+!------------------------------!
+Che nessuno di loro sia umano?
+!------------------------------!
+No son humanos.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+That they're all human?
+!------------------------------!
+Ils sont tous humains
+!------------------------------!
+Es sind alles Menschen.
+!------------------------------!
+Che siano tutti umani?
+!------------------------------!
+Son todos humanos.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+You mean that none of them are human?
+
+!------------------------------!
+ROXAS
+Oui, aucun d'eux n'est humain.
+!------------------------------!
+ROXAS
+Ja, das sind alles keine Menschen.
+!------------------------------!
+ROXAS
+Credi che nessuno di loro sia umano?
+!------------------------------!
+ROXAS
+Sí, no son humanos.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Right. There was that walking candelabra, and the
+master is some kind of beast...
+!------------------------------!
+XION
+En effet. On a vu un chandelier parlant
+et le maître est une sorte de bête...
+!------------------------------!
+XION
+Stimmt. Da war ein gehender Kerzenständer
+und der Schlossherr ist ein Monster ...
+!------------------------------!
+XION
+Esatto. Abbiamo visto un candelabro
+ambulante e un padrone "mostruoso"...
+!------------------------------!
+XION
+Justo. Hay un candelabro que
+habla y el amo es una bestia.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There are no signs of people living here, but I hear
+something behind all these doors.
+!------------------------------!
+ROXAS
+Il n'y a aucun signe de vie humaine par ici,
+mais j'entends du bruit derrière ces portes.
+!------------------------------!
+ROXAS
+Es gibt kein Zeichen von Bewohnern, aber
+ich höre etwas hinter all diesen Türen.
+!------------------------------!
+ROXAS
+Pare che qui non viva nessuno, ma
+sento qualcosa dietro tutte queste porte.
+!------------------------------!
+ROXAS
+No se ve a nadie, pero oigo
+algo detrás de las puertas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+They might be more servants.
+
+!------------------------------!
+Ce sont peut-être d'autres domestiques.
+!------------------------------!
+Vielleicht noch mehr Diener.
+!------------------------------!
+Potrebbero esserci altri servitori.
+!------------------------------!
+Puede que sean más criados.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+I wonder what happened in this castle.
+
+!------------------------------!
+XION
+Je me demande ce qu'il s'est passé dans ce
+château.
+!------------------------------!
+XION
+Was in diesem Schloss wohl passiert ist?
+!------------------------------!
+XION
+Chissà che cosa è successo
+in questo castello!
+!------------------------------!
+XION
+¿Qué habrá pasado aquí?
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+They all seem to be human.
+
+!------------------------------!
+ROXAS
+Oui, je crois qu'ils sont tous humains.
+!------------------------------!
+ROXAS
+Ja, ich glaube, es sind alles Menschen.
+!------------------------------!
+ROXAS
+Sembrano tutti umani.
+!------------------------------!
+ROXAS
+Sí, son todos humanos.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Uh, Roxas... Did you forget about the candelabra
+and the beast who owns the place?
+!------------------------------!
+XION
+Euh, Roxas... as-tu oublié le chandelier et
+le monstre à qui appartient cet endroit ?
+!------------------------------!
+XION
+Äh, Roxas ... Hast du den Kerzenständer vergessen
+und das Monster dem dieser Ort gehört?
+!------------------------------!
+XION
+Uh, Roxas... Hai già dimenticato quel
+candelabro e la bestia, il padrone del castello?
+!------------------------------!
+XION
+Eh, Roxas... ¿El candelabro y
+el monstruo ese también?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Well, they talk like regular people.
+
+!------------------------------!
+ROXAS
+Ben, ils parlent comme des gens normaux, non ?
+!------------------------------!
+ROXAS
+Aber sie reden wie normale Menschen.
+!------------------------------!
+ROXAS
+Beh, mi sembra che parlino
+normalmente.
+!------------------------------!
+ROXAS
+Bueno, hablan como
+la gente normal.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+That's true...
+There is something human about them.
+!------------------------------!
+XION
+C'est vrai, oui... Ils ont quelque chose d'humain.
+!------------------------------!
+XION
+Das stimmt ...
+Sie haben etwas Menschliches an sich.
+!------------------------------!
+XION
+Questo è vero...
+Hanno qualcosa di umano.
+!------------------------------!
+XION
+Eso es cierto...
+Hay algo humano en ellos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+I wonder what happened to everybody.
+
+!------------------------------!
+XION
+Je me demande ce qu'il leur est arrivé.
+!------------------------------!
+XION
+Was ihnen wohl zugestoßen ist?
+!------------------------------!
+XION
+Chissà che cosa è successo
+in questo castello!
+!------------------------------!
+XION
+Me pregunto qué les
+pasó a todos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+That's a question for next time.
+
+!------------------------------!
+ROXAS
+On trouvera la réponse à cette question
+la prochaine fois.
+!------------------------------!
+ROXAS
+Die Frage stellen wir uns nächstes Mal.
+!------------------------------!
+ROXAS
+Lo scopriremo la prossima volta.
+!------------------------------!
+ROXAS
+Esa es una pregunta
+para otra visita.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Yeah, you're right.
+
+!------------------------------!
+XION
+Oui, tu as raison.
+!------------------------------!
+XION
+Ja, du hast recht.
+!------------------------------!
+XION
+Sì, hai ragione.
+!------------------------------!
+XION
+Sí, tienes razón.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+C'mon, let's RTC.
+
+!------------------------------!
+ROXAS
+Allez, on rentre.
+!------------------------------!
+ROXAS
+Komm, kehren wir zum Schloss zurück.
+!------------------------------!
+ROXAS
+Forza, torniamo indietro.
+!------------------------------!
+ROXAS
+Venga, vamos a VAC.
+
+!------------------------------!
+!******************************!

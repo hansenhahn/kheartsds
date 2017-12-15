@@ -1,0 +1,545 @@
+&.[HDR].&
+*.000004000000B22205000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+The statues, the architecture...
+Everything about this place is amazing.
+!------------------------------!
+ROXAS
+Les statues, l'architecture...
+Cet endroit est absolument fantastique.
+!------------------------------!
+ROXAS
+Die Statuen, die Architektur ...
+Alles hier ist so beeindruckend.
+!------------------------------!
+ROXAS
+Le statue, l'architettura...
+Questo posto è straordinario.
+!------------------------------!
+ROXAS
+Las estatuas, la arquitectura...
+Aquí todo es alucinante.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+This building has gotta be the Coliseum.
+!------------------------------!
+Ce doit être le Colisée.
+!------------------------------!
+Das muss die Arena sein.
+!------------------------------!
+Dev'essere lo stadio dell'Olimpo.
+!------------------------------!
+Esto será el Coliseo.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I have to jump just to touch this statue's knees.
+Good thing no real warriors are this tall!
+!------------------------------!
+ROXAS
+Il faut sauter pour toucher le genou de cette statue.
+Heureusement qu'aucun guerrier n'est aussi grand !
+!------------------------------!
+ROXAS
+Gott, ist die Statue groß.
+Gut, dass es in echt keine so großen Krieger gibt!
+!------------------------------!
+ROXAS
+Non arrivo neanche al ginocchio di
+questa statua. Davvero incredibile!
+!------------------------------!
+ROXAS
+A la estatua no le llego ni a las rodillas.
+¡Los guerreros no serán tan altos!
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's a leaderboard... First place: <E2><80><9C>Hercules.<E2><80><9D>
+Hmm...
+!------------------------------!
+ROXAS
+C'est un classement... 1ère place : <E2><80><9C>Hercule<E2><80><9D>.
+Hmm...
+!------------------------------!
+ROXAS
+Eine Rangliste ... Erster Platz: <E2><80><9E>Hercules<E2><80><9C>.
+Hm ...
+!------------------------------!
+ROXAS
+Una classifica...
+Primo posto: "Ercole". Mmm.
+!------------------------------!
+ROXAS
+Otro marcador. Primer puesto:
+Hércules. Hum.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It looks like a leaderboard... First place: <E2><80><9C>Sora.<E2><80><9D>
+Hunh.
+!------------------------------!
+ROXAS
+On dirait un classement...
+1ère place : <E2><80><9C>Sora<E2><80><9D>. Hmm.
+!------------------------------!
+ROXAS
+Wieder eine Rangliste... Erster Platz: <E2><80><9E>Sora<E2><80><9C>.
+Hm ...
+!------------------------------!
+ROXAS
+Un'altra classifica...
+Primo posto: "Sora". Mmm.
+!------------------------------!
+ROXAS
+Otro marcador. Primer puesto:
+Sora. Hum.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+What are all these leaderboards for?
+!------------------------------!
+ROXAS
+À quoi peuvent bien servir ces classements ?
+!------------------------------!
+ROXAS
+Wozu sind all die Ranglisten gut?
+!------------------------------!
+ROXAS
+A che servono tutte
+queste classifiche?
+!------------------------------!
+ROXAS
+¿Para qué son los marcadores?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There are a bunch of names on the board with
+numbers next to them<E2><80><95>some kind of leaderboard?
+!------------------------------!
+ROXAS
+Il y a plusieurs noms inscrits sur le tableau avec
+des nombres à côté. Serait-ce un classement ?
+!------------------------------!
+ROXAS
+Da sind Namen mit Zahlen daneben
+auf der Tafel ... eine Rangliste?
+!------------------------------!
+ROXAS
+Ci sono un sacco di nomi e numeri.
+Che sia una specie di classifica?
+!------------------------------!
+ROXAS
+Hay unos nombres en el marcador
+con números. ¿Qué significarán?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Are those<E2><80><95> Yeah, there are clouds right outside
+the window! Where is this place!?
+!------------------------------!
+ROXAS
+Est-ce... mais oui, ce sont des nuages derrière
+la fenêtre ! C'est quoi cet endroit ?
+!------------------------------!
+ROXAS
+Sind das ... Ja, vor dem Fenster
+sind Wolken! Wo bin ich hier?!
+!------------------------------!
+ROXAS
+Ma quelle... Fuori ci sono delle
+nuvole! Dove sono finito?!
+!------------------------------!
+ROXAS
+Hay nubes fuera de la ventana.
+¿Dónde está este lugar?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Columns around the door... Maybe this is some kind
+of temple? They use lightning bolts as a symbol.
+!------------------------------!
+ROXAS
+Des colonnes entourent la porte... C'est peut-être
+un temple ? Les éclairs servent de symbole.
+!------------------------------!
+ROXAS
+Säulen vor der Tür ... Vielleicht ist das ja
+ein Tempel? Hier sind lauter Blitzzeichen.
+!------------------------------!
+ROXAS
+Colonne intorno alla porta... Che sia un
+tempio? Ci sono dei simboli a forma di saetta. 
+!------------------------------!
+ROXAS
+Columnas... ¿será un templo?
+Su símbolo es el relámpago.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS:
+<E2><80><9C>How to Train Like a Champ.<E2><80><9D>
+!------------------------------!
+ROXAS:
+<E2><80><9C>Comment s'entraîner comme un champion<E2><80><9D>
+!------------------------------!
+ROXAS:
+<E2><80><9E>Trainieren wie ein Champion<E2><80><9C>.
+!------------------------------!
+ROXAS
+"Come addestrare un campione".
+!------------------------------!
+ROXAS
+"Entrenar como un campeón."
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>You can't train if you don't chain!
+  Wanna rack up points? Then chain, chain, chain.
+  No chain, no gain!<E2><80><9D>
+!------------------------------!
+<E2><80><9C>Pas d'entraînement sans enchaînement !
+  Envie de points ? Alors il faut enchaîner.
+  Pas de chaîne, pas de veine !<E2><80><9D>
+!------------------------------!
+<E2><80><9E>Zum Trainieren musst du Ketten schaffen!
+  Viele Punkte gibt's nur mit Ketten.
+  Jede Wette, ohne Kette kein Erfolg!<E2><80><9C>
+!------------------------------!
+"Il segreto sono le catene!
+  Vuoi fare molti punti? Catene e ancora catene.
+  Le catene non fanno altro che bene!"
+!------------------------------!
+"Sin cadena, no entrenas.
+¿Quieres puntos? Cadena.
+¡Sin cadena, das pena!"
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay...
+I think they want me to chain.
+!------------------------------!
+D'accord...
+Je crois que je dois faire des chaînes.
+!------------------------------!
+Okay ...
+Ich soll also Ketten machen.
+!------------------------------!
+Bene...
+Forse devo ricorrere alle catene.
+!------------------------------!
+Vale... Quieren que haga
+cadenas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This trophy looks different from the others.
+!------------------------------!
+ROXAS
+Ce trophée a l'air différent des autres.
+!------------------------------!
+ROXAS
+Diese Trophäe sieht anders aus,
+als die anderen.
+!------------------------------!
+ROXAS
+Questo trofeo sembra diverso dagli altri.
+!------------------------------!
+ROXAS
+Este trofeo es distinto al resto.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Look at all these trophies...
+This one here definitely outshines them all.
+!------------------------------!
+ROXAS
+Regardez-moi tous ces trophées...
+Celui-ci les éclipse tous.
+!------------------------------!
+ROXAS
+So viele Trophäen ...
+Das hier ist auf jeden Fall die schönste.
+!------------------------------!
+ROXAS
+Quanti trofei...
+Questo però è il più bello di tutti.
+!------------------------------!
+ROXAS
+Menudos trofeos...
+Aunque este se lleva la palma.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+I saw these lightning bolt symbols on the doors
+outside...
+!------------------------------!
+J'ai vu ces symboles d'éclair sur
+les portes à l'extérieur...
+!------------------------------!
+Ich habe diese Blitzzeichen auf den Türen
+draußen gesehen ...
+!------------------------------!
+Ho visto questi stessi simboli a forma
+di saetta all'esterno, sulle porte...
+!------------------------------!
+Había símbolos de relámpago
+en las puertas de fuera...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000B00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There's a trophy sitting here...
+!------------------------------!
+ROXAS
+Il y a un trophée ici...
+!------------------------------!
+ROXAS
+Wieder eine Trophäe ...
+!------------------------------!
+ROXAS
+Un altro trofeo...
+!------------------------------!
+ROXAS
+Otro trofeo...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+This one's kind of elaborate...
+Are those horns?
+!------------------------------!
+Celui-ci est plutôt élaboré...
+Et ça, ce sont des cornes ?
+!------------------------------!
+Sehr schön gearbeitet ...
+Sind das Hörner?
+!------------------------------!
+Questo è molto elaborato...
+Che siano corna?
+!------------------------------!
+Este es muy elaborado.
+¿Eso son cuernos?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000C00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This trophy is shaped like a shield.
+!------------------------------!
+ROXAS
+Ce trophée est en forme de bouclier.
+!------------------------------!
+ROXAS
+Diese Trophäe sieht aus wie ein Schild.
+!------------------------------!
+ROXAS
+Questo trofeo è a forma di scudo.
+!------------------------------!
+ROXAS
+Este tiene forma de escudo.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000D00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+These must be trophies for the Games.
+!------------------------------!
+ROXAS
+Ce sont sûrement les trophées des Jeux.
+!------------------------------!
+ROXAS
+Das müssen Trophäen für die Spiele sein.
+!------------------------------!
+ROXAS
+Devono essere i trofei per i Giochi.
+!------------------------------!
+ROXAS
+Supongo que habrá trofeos.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000E00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Are these the actual trophies?
+Do the winners not get to take them home?
+!------------------------------!
+ROXAS
+Est-ce que ce sont les vrais trophées ?
+Les vainqueurs ne les emportent pas chez eux ?
+!------------------------------!
+ROXAS
+Sind das die echten Trophäen?
+Dürfen die Gewinner die nicht mitnehmen?
+!------------------------------!
+ROXAS
+Che siano i veri trofei?
+I vincitori non possono portarseli a casa?
+!------------------------------!
+ROXAS
+¿Son trofeos de verdad?
+¿Los ganadores se llevan uno?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Now I know why they have these big warrior statues
+out front.
+!------------------------------!
+ROXAS
+Maintenant je sais pourquoi il y a ces
+énormes statues de guerriers devant.
+!------------------------------!
+ROXAS
+Jetzt weiß ich, warum vor dem Eingang
+diese großen Kriegerstatuen stehen.
+!------------------------------!
+ROXAS
+Ora capisco perché davanti hanno
+messo queste grosse statue di guerrieri.
+!------------------------------!
+ROXAS
+Ahora entiendo por qué tienen
+esos grandes guerreros fuera.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+What's with the swords, though?
+Do you have to use a sword in the Games?
+!------------------------------!
+Mais et les épées alors ?
+Faut-il savoir manier l'épée pour participer aux Jeux ?
+!------------------------------!
+Aber was ist mit den Schwertern?
+Braucht man bei den Spielen Schwerter?
+!------------------------------!
+Ma che cosa sono queste spade?
+Nei Giochi bisogna combattere con la spada?
+!------------------------------!
+¿Y esas espadas? ¿Han falta
+para los juegos?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000B22205000000010000001000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Let me just double check...
+Okay, first place was Hercules. Got it.
+!------------------------------!
+ROXAS
+Je vais vérifier. OK, la première place
+c'était Hercule. C'est noté.
+!------------------------------!
+ROXAS
+Das muss ich noch mal nachsehen ...
+Okay, Erster war Hercules. Hab ich.
+!------------------------------!
+ROXAS
+Controlliamo meglio...
+Allora, al primo posto c'era Ercole.
+!------------------------------!
+ROXAS
+Volveré a comprobar...
+Vale, primero, Hércules.
+!------------------------------!
+!******************************!

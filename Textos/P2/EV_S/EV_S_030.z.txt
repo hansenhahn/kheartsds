@@ -1,0 +1,236 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:30
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé must have begun her work...
+!------------------------------!
+Naminé a dû se mettre à la
+tâche...
+!------------------------------!
+Wir hatten recht.
+Naminé funkt bereits dazwischen.
+!------------------------------!
+Naminé deve aver iniziato a
+lavorare...
+!------------------------------!
+Estábamos en lo cierto.
+Naminé ya ha empezado a
+interferir.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Will he wake from this?
+!------------------------------!
+Se réveillera-t-il ?
+!------------------------------!
+Wird er davon aufwachen?
+!------------------------------!
+E lui si sveglierà?
+!------------------------------!
+¿Se despertará?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I am told he will<E2><80><95>provided she strips
+the hero of all his memories.
+!------------------------------!
+On m'a dit que ce serait le cas si
+elle réussissait à priver le héros
+de tous ses souvenirs.
+!------------------------------!
+Mir wurde gesagt, das passiert,
+wenn er die letzte Erinnerung an
+sein vormaliges Ich verliert.
+!------------------------------!
+Mi è stato detto di sì...
+se lei priverà l'eroe
+di tutti i suoi ricordi.
+!------------------------------!
+Me han dicho que sí, una vez sea
+despojado de los recuerdos de
+su anterior yo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then much hinges on Castle Oblivion.
+!------------------------------!
+Tout dépend du Manoir Oblivion alors.
+!------------------------------!
+Dann hängt viel vom Schloss
+des Entfallens ab.
+!------------------------------!
+Allora tutto dipende dal
+Castello dell'Oblio.
+!------------------------------!
+Entonces, mucho depende
+del Castillo del Olvido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We needn't stop collecting hearts.
+Number <E2><85><A7><E2><85><A3> has gained power over the
+Keyblade, just as we intended.
+!------------------------------!
+Nous devons continuer à amasser des
+cœurs. Xion a pu maîtriser le pouvoir
+de la Keyblade, comme nous le pensions.
+!------------------------------!
+Wir sollten nicht aufhören, Herzen
+zu sammeln. Xion ist mit dem
+Schlüsselschwert stärker geworden.
+!------------------------------!
+Dobbiamo continuare con i cuori.
+Xion è in grado di controllare
+il Keyblade, come volevamo.
+!------------------------------!
+No tenemos que dejar de recoger
+corazones. Xion ha dominado la
+llave espada, como queríamos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion can fill Roxas's shoes for the time
+being.
+!------------------------------!
+Elle pourra remplacer Roxas
+en attendant.
+!------------------------------!
+Sie kann vorerst Roxas ersetzen.
+!------------------------------!
+Ora potrà prendere il posto di
+Roxas, almeno per il momento.
+!------------------------------!
+Podrá ocupar el puesto de Roxas
+cuando llegue el momento.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And the chamber?
+Have you found it?
+!------------------------------!
+Et la salle ? L'as-tu trouvée ?
+!------------------------------!
+Und die Kammer?
+Hast du sie gefunden?
+!------------------------------!
+E la sala?
+L'hai trovata?
+!------------------------------!
+¿Y la cámara?
+¿La habéis encontrado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_pt1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, sir. I would say progress is slow...
+if we had actually made any.
+!------------------------------!
+Désolé, Monsieur. J'aimerais que ce soit
+le cas, mais nous n'avançons pas.
+!------------------------------!
+Nein, Sir.
+Es geht sehr langsam voran ...
+wenn überhaupt.
+!------------------------------!
+No, purtroppo... Progrediamo lentamente...
+Sempre se lo facciamo...
+!------------------------------!
+Lo siento, señor. No hay
+progresos al respecto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_pt1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, sleep has taken you yet again...
+!------------------------------!
+Ainsi le sommeil t'a rattrapé...
+!------------------------------!
+Dann hat dich also wieder
+der Schlaf übermannt ...
+!------------------------------!
+Quindi il sonno ha avuto
+ancora la meglio su di te...
+!------------------------------!
+Así que el sueño se ha vuelto
+a adueñar de ti...
+!------------------------------!
+!******************************!

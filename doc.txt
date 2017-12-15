@@ -1,0 +1,91 @@
+** Arquivos Genéricos de Texto 1
+Descrição: Containeres de arquivos de textos.
+Header:
+	(u32)	Endereço Base
+
+Chunks:
+	\x03\x02 : 28 Bytes - Nomes dos Vídeos
+		(u16) : Deve ser 7 - Tamanho Chunk 
+		(u32) : Se 2 o próximo valor é válido
+		(U32) : Endereço relativo do nome do vídeo
+	
+	\x00\x05 : 12 Bytes - Endereço da próxima estrutura
+		(u16) : Deve ser 3 - Tamanho Chunk
+		(u32) : Endereço relativo da estrutura no fim do arquivo
+		(u32) : Endereço relativo da próxima estrutura
+
+	\x00\x03 :  4 Bytes - Finaliza o Header
+		(u16) : Deve ser 1 - Tamanho Chunk
+
+	\x00\x0a :  8 Bytes - Início do Header
+		(u16) : Deve ser 2 - Tamanho Chunk
+		(u32) : Tamanho ??
+
+	\x00\x0f : 12 Bytes - Desconhecido
+		(u16) : Deve ser 3 - Tamanho Chunk
+		(u32)
+		(u32)	
+
+	\x00\x12 : 12 Bytes - Desconhecido
+		(u16) : Deve ser 3 - Tamanho Chunk
+		(u32)
+		(u32)
+
+	\x00\x01 :  8 Bytes 
+		(u16) : Deve ser 2 - Tamanho Chunk
+		(u32) : Tamanho do Header
+
+	\x03\x00 : 20 Bytes - Desconhecido
+		(u16) : Deve ser 5 - Tamanho Chunk
+		(u32) : ??
+		(u32) : ??
+		(u32) : ??
+		(u32) : ??
+
+	\x03\x01\ :  12 Bytes - Legenda:
+		(u16) : Deve ser 3 - Tamanho Chunk
+		(u32) : Deve ser 2
+		(u32) : Endereço Relativo da Legenda
+			Ínicio Legendas + Relativo
+
+	\x03\x03\ :  12 Bytes - Endereço da próxima estrutura de Legenda
+		(u16) : Deve ser 3 - Tamanho Chunk
+		(u32) : Deve ser 1
+		(u32) : Tempo, ou Momento de execução?
+
+	\x03\x04 :  4 Bytes - Finaliza Estrutura Legenda
+		(u16) : Deve ser 1 - Tamanho do Chunk
+
+
+	\x02\x3f :  28 Bytes - Estrutura Diálogos Normais
+		(u16) : Deve ser 7
+		(u32) : Deve ser 40h
+		(u32) : Endereço relativo da estrutura "Texto"
+		(u32) : Deve ser 1
+		(u32) : Deve ser 1
+		(u32) : Deve ser 1
+		(u32) : Deve ser 0
+
+	\x02\x40 :  60 Bytes - Estrutura Diálogo Condicional
+		(u16) : Deve ser Fh
+		(u32) : Deve ser 40h
+		(u32) : Endereço relativo a estrutura "Pergunta"
+		(u32) : Deve ser 1
+		(u32) : Deve ser 1
+		(u32) : Deve ser 1
+		(u32) : Deve ser 2
+		(u32) : Deve ser 40h
+		(u32) : Endereço relativo a estrutura "Opção 1"
+		(u32) : Deve ser 1
+		(u32) : Deve ser 0
+		(u32) : Deve ser 40h
+		(u32) : Endereço relativo a estrutura "Opção 2"	
+		(u32) : Deve ser 1
+		(u32) : Deve ser 0
+
+	\x02\x4f : 20 Bytes -
+		(u16) : Deve ser 5
+
+	\x02\x03
+
+	\x02\x40

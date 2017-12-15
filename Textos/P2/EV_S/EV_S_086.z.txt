@@ -1,0 +1,528 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Xion!
+!------------------------------!
+Salut, Xion !
+!------------------------------!
+Hey, Xion!
+!------------------------------!
+Ehi, Xion!
+!------------------------------!
+¡Eh, Xion!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas?
+!------------------------------!
+Roxas ?
+!------------------------------!
+Roxas?
+!------------------------------!
+Roxas?
+!------------------------------!
+¿Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't you have a mission?
+!------------------------------!
+Tu n'es pas en mission ?
+!------------------------------!
+Hast du gar keine Mission?
+!------------------------------!
+Non hai una missione?
+!------------------------------!
+¿No tienes una misión?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. They sent me here today.
+!------------------------------!
+Si, ils m'ont envoyé ici aujourd'hui.
+!------------------------------!
+Doch. Ich wurde heute hier
+hingeschickt.
+!------------------------------!
+Sì. Oggi mi hanno mandato qui.
+!------------------------------!
+Sí. Hoy me han enviado aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really?
+Me too...
+!------------------------------!
+Vraiment ?
+Moi aussi...
+!------------------------------!
+Echt?
+Ich auch ...
+!------------------------------!
+Davvero?
+Anche a me...
+!------------------------------!
+¿De verdad?
+Y a mí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, I'm sorry.
+!------------------------------!
+Désolée, Roxas.
+!------------------------------!
+Roxas, es tut mir leid.
+!------------------------------!
+Mi dispiace, Roxas.
+!------------------------------!
+Roxas, lo siento.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I shouldn't have run off like that
+yesterday.
+!------------------------------!
+Je n'aurais pas dû m'enfuir
+comme ça hier.
+!------------------------------!
+Ich hätte gestern nicht einfach
+wegrennen sollen.
+!------------------------------!
+Ieri non avrei dovuto
+andarmene in quel modo.
+!------------------------------!
+Ayer no tendría
+que haber salido corriendo así.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whatever, it didn't bother me.
+!------------------------------!
+Ne t'en fais pas, ça ne m'a
+pas dérangé.
+!------------------------------!
+Schon gut, hat mir nichts
+ausgemacht.
+!------------------------------!
+Non importa, Xion.
+!------------------------------!
+No te preocupes, no me molestó.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I was upset.
+I messed up a mission really bad.
+!------------------------------!
+J'étais en colère.
+J'avais raté une mission.
+!------------------------------!
+Ich war sauer.
+Ich hatte bei einer Mission
+schwer versagt.
+!------------------------------!
+Ero arrabbiata.
+Avevo rovinato la missione.
+!------------------------------!
+Estaba alterada. Estropeé
+la misión a base de bien.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't suppose you heard about the
+guy pretending to be one of us?
+The Organization impostor?
+!------------------------------!
+Tu as peut-être entendu parler de
+celui qui se fait passer pour l'un des
+nôtres... l'imposteur de l'Organisation ?
+!------------------------------!
+Du hast nicht zufällig
+von dem Kerl gehört, der sich
+als einer von uns ausgibt?
+!------------------------------!
+Hai sentito parlare del tizio che
+si spacciava per uno di noi?
+L'impostore nell'Organizzazione?
+!------------------------------!
+Supongo que no habrás oído
+hablar del tío que se hizo pasar
+por uno de nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I was ordered to take him out...but I
+couldn't beat him.
+!------------------------------!
+Je l'ai affronté, mais il m'a battue.
+!------------------------------!
+Ich sollte ihn erledigen ...
+konnte ihn aber nicht besiegen.
+!------------------------------!
+Mi era stato ordinato di
+eliminarlo, ma non sono
+riuscita a batterlo.
+!------------------------------!
+Me ordenaron derrotarlo,
+pero no pude con él.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx was so mad, he called me a
+<E2><80><9C>mistake.<E2><80><9D>
+!------------------------------!
+Saïx était furieux et m'a traitée
+d'erreur.
+!------------------------------!
+Saïx war so wütend, dass er
+mich einen <E2><80><9E>Fehler<E2><80><9C> genannt hat.
+!------------------------------!
+Saïx si è arrabbiato moltissimo
+e ha detto che sono un
+"errore".
+!------------------------------!
+Saïx se enfureció tanto que
+me llamó "error".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh...
+Gosh, I'm sorry...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh ...
+Tut mir echt leid ...
+!------------------------------!
+Oh...
+Caspita, mi dispiace...
+!------------------------------!
+Oh...
+Vaya, lo siento.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't be. That jerk can say whatever
+he wants. I can take it.
+!------------------------------!
+Bah, cet imbécile peut dire ce
+qu'il veut. Je m'en fiche !
+!------------------------------!
+Braucht es nicht. Der Idiot kann
+mich nennen, was er will.
+Ich kann das ab.
+!------------------------------!
+Tranquillo. Non mi interessa ciò
+che dice quello sbruffone...
+Proprio per niente.
+!------------------------------!
+No pasa nada. Que diga lo que
+quiera. Ni caso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Xion...
+Why don't we work together today?
+!------------------------------!
+Hé, Xion... Ça te dirait qu'on fasse
+équipe aujourd'hui ?
+!------------------------------!
+Hey, Xion ...
+Wollen wir heute zusammenarbeiten?
+!------------------------------!
+Ehi, Xion...
+Ti va di lavorare insieme?
+!------------------------------!
+Oye, Xion... ¿Por qué
+no trabajamos juntos hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh? How?
+!------------------------------!
+Hein ? Comment ça ?
+!------------------------------!
+Was? Wie?
+!------------------------------!
+Uh? E come?
+!------------------------------!
+¿Eh? ¿Cómo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's double up our missions.
+If we team up, we should be able to cut
+through the work faster.
+!------------------------------!
+Regroupons nos deux missions.
+On ira plus vite à deux.
+!------------------------------!
+Legen wir unsere Missionen
+zusammen. Gemeinsam sind wir
+schneller fertig.
+!------------------------------!
+Affrontiamo insieme le nostre
+missioni, così riusciremo a
+finirle più in fretta.
+!------------------------------!
+Haciendo turnos dobles.
+Si colaboramos, podremos
+acabar mucho antes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well...okay.
+Maybe we'll finish early and have more
+time for ice cream.
+!------------------------------!
+C'est d'accord. Comme ça, on
+aura peut-être plus de temps
+après pour manger une glace.
+!------------------------------!
+Also ... okay. Dann werden wir
+vielleicht früher fertig und
+haben mehr Zeit zum Eisessen.
+!------------------------------!
+Oh... va bene.
+Se finiremo prima, avremo
+più tempo per il gelato!
+!------------------------------!
+Bueno... Vale.
+Si terminamos pronto, tendremos
+más tiempo para tomar un helado.
+!------------------------------!
+!******************************!

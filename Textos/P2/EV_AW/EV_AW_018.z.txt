@@ -1,0 +1,170 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/45.z
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We can't get through.
+!------------------------------!
+On ne peut pas passer.
+!------------------------------!
+Da können wir nicht durch.
+!------------------------------!
+Non possiamo passare.
+!------------------------------!
+No podemos pasar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Can't we?
+!------------------------------!
+Tu crois ?
+!------------------------------!
+Und wie wir das können.
+!------------------------------!
+Davvero?
+!------------------------------!
+¿Ah, no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But there's a guard.
+!------------------------------!
+Il y a un garde.
+!------------------------------!
+Aber da ist eine Wache.
+!------------------------------!
+C'è una guardia.
+!------------------------------!
+Es que hay un guardia.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There are odds for everything...
+The trick is in the timing.
+!------------------------------!
+Il faut toujours tenter sa chance.
+L'important, c'est le timing.
+!------------------------------!
+Alles ist möglich ...
+Wir müssen bloß den richtigen
+Zeitpunkt abwarten.
+!------------------------------!
+Tutto ha una probabilità di riuscita.
+Il segreto è nel tempismo.
+!------------------------------!
+Hay una oportunidad para todo.
+El truco está en saber verla.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hit the window just right, and a long
+shot will pay off big.
+!------------------------------!
+Patience est mère de toutes les
+vertus.
+!------------------------------!
+Triff das Fenster zur rechten Zeit
+und großer Erfolg ist nicht weit.
+!------------------------------!
+Scegliere il momento giusto porta
+sempre a ottimi risultati.
+!------------------------------!
+Ya sabes lo que dicen,
+ la oportunidad la pintan calva.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ohhh! So you mean if we wait till he's
+not looking, we can probably sneak by.
+!------------------------------!
+Oh ! Tu veux dire que si on attend
+qu'il regarde ailleurs, on pourra se
+faufiler en douce ?
+!------------------------------!
+Ohh! Du meinst also, wir sollen
+warten, bis sie nicht hinsieht und
+dann vorbeischleichen.
+!------------------------------!
+Ah, ho capito! Possiamo aspettare
+che volga lo sguardo dall'altra parte,
+in modo da passare indisturbati.
+!------------------------------!
+¡Aah! Te refieres a que, si
+esperamos a que no mire, quizá
+podamos colarnos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!

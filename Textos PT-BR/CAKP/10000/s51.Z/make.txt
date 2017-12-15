@@ -1,0 +1,6 @@
+chara
+t_AX
+t_MO
+t_SA
+t_XA
+t_XO

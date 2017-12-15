@@ -1,0 +1,736 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Well, well... We have made quite the discovery,
+haven't we?
+!------------------------------!
+XALDIN
+Bien... nous avons fait une sacrée
+découverte, pas vrai ?
+!------------------------------!
+XALDIN
+Schön, schön ... Wir haben eine ganz schöne
+Entdeckung gemacht, oder?
+!------------------------------!
+XALDIN
+Bene, bene... Abbiamo fatto una
+scoperta importante, non credi?
+!------------------------------!
+XALDIN
+Vaya, vaya... Menudo
+descubrimiento, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+You mean...
+!------------------------------!
+ROXAS
+Tu parles de...
+!------------------------------!
+ROXAS
+Meinst du ...
+!------------------------------!
+ROXAS
+Ti riferisci...
+!------------------------------!
+ROXAS
+¿Te refieres a... 
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+the woman?
+!------------------------------!
+la jeune fille ?
+!------------------------------!
+die Frau?
+!------------------------------!
+... alla donna?
+!------------------------------!
+la mujer?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+the rose?
+!------------------------------!
+la rose ?
+!------------------------------!
+die Rose?
+!------------------------------!
+... alla rosa?
+!------------------------------!
+la rosa?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Belle, was it?
+
+!------------------------------!
+ROXAS
+Belle, c'est ça ?
+!------------------------------!
+ROXAS
+Belle war der Name?
+!------------------------------!
+ROXAS
+Si chiama Belle, vero?
+!------------------------------!
+ROXAS
+Bella, ¿no?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Ah, yes, Belle.
+Indeed, there may be meat to pick there.
+!------------------------------!
+XALDIN
+Oui, Belle...
+C'est un sujet intéressant.
+!------------------------------!
+XALDIN
+Ah, ja, Belle.
+In der Tat, mit ihr muss es irgendwas auf sich haben.
+!------------------------------!
+XALDIN
+Ah, sì, Belle.
+Scommetto che c'entra qualcosa.
+!------------------------------!
+XALDIN
+Ah, sí, Bella.
+Sí, creo que es importante.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+I sense she has some role to play in this castle's
+farce.
+!------------------------------!
+Je sens qu'elle a un rôle à jouer dans cette
+mascarade.
+!------------------------------!
+Ich spüre, dass sie eine wichtige Rolle
+in diesem Stück spielt.
+!------------------------------!
+Deve avere un ruolo ben preciso
+nella storia di questo castello.
+!------------------------------!
+Creo que tiene un papel en
+la mascarada de este castillo.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+But I spoke of that rose.
+What do you make of it?
+!------------------------------!
+Mais je parlais de la rose. Qu'en penses-tu ?
+!------------------------------!
+Aber ich habe von der Rose gesprochen.
+Was hältst du von ihr?
+!------------------------------!
+Ma in realtà parlavo di quella rosa.
+Che ne pensi?
+!------------------------------!
+Pero me refería a esa rosa.
+¿Qué me dices de ella?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It looked fake.
+!------------------------------!
+On dirait qu'elle est fausse.
+!------------------------------!
+Sie sah unecht aus.
+!------------------------------!
+... sembrava finta.
+!------------------------------!
+Parecía falsa.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It looked important to him.
+!------------------------------!
+Elle a l'air importante à ses yeux.
+!------------------------------!
+Sie ist ihm anscheinend wichtig.
+!------------------------------!
+... sembrava importante per lui.
+!------------------------------!
+Parecía importante.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+No rose is going to survive long under glass.
+It's gotta be fake.
+!------------------------------!
+ROXAS
+Une rose normale se serait fanée sous cette
+cloche. Ce doit être une fausse.
+!------------------------------!
+ROXAS
+Keine Rose überlebt lange unter Glas.
+Sie muss unecht sein.
+!------------------------------!
+ROXAS
+Le rose non possono sopravvivere sotto
+una campana di vetro. Dev'essere finta.
+!------------------------------!
+ROXAS
+Las rosas no sobreviven bajo
+un cristal. Será falsa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Ah, but then you're making an assumption: that it's
+just another rose.
+!------------------------------!
+XALDIN
+Tu penses donc qu'elle n'a rien d'extraordinaire.
+!------------------------------!
+XALDIN
+Ah, aber das setzt voraus, dass es
+eine ganz gewöhnliche Rose ist.
+!------------------------------!
+XALDIN
+Ah, questa è una tua ipotesi.
+Ma sappi che non è una rosa comune.
+!------------------------------!
+XALDIN
+Ah, estás asumiendo que
+se trata de una rosa vulgar.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+He obviously takes really good care of it.
+!------------------------------!
+ROXAS
+Apparemment, il en prend vraiment soin.
+!------------------------------!
+ROXAS
+Er pflegt sie anscheinend äußerst gut.
+!------------------------------!
+ROXAS
+La Bestia la conserva con grande cura.
+!------------------------------!
+ROXAS
+Es evidente que la ha
+cuidado mucho.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Precisely, Roxas.
+That is no ordinary rose.
+!------------------------------!
+XALDIN
+Exactement, Roxas. Ce n'est pas une rose
+ordinaire.
+!------------------------------!
+XALDIN
+Exakt, Roxas.
+Das ist keine gewöhnliche Rose.
+!------------------------------!
+XALDIN
+Esatto, Roxas.
+Quella non è una rosa comune.
+!------------------------------!
+XALDIN
+Exacto, Roxas. No
+se trata de una rosa vulgar.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+What do you care about some flower?
+
+!------------------------------!
+ROXAS
+Pourquoi est-ce que cette fleur t'intéresse
+à ce point ?
+!------------------------------!
+ROXAS
+Was kümmert dich eine Blume?
+!------------------------------!
+ROXAS
+Perché sei tanto interessato
+a un semplice fiore?
+!------------------------------!
+ROXAS
+¿Ahora te da por las flores?
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Well, tell me what you make of it.
+!------------------------------!
+XALDIN
+Qu'est-ce que tu en penses, toi ?
+
+!------------------------------!
+XALDIN
+Sag mir, was du von ihr hältst.
+!------------------------------!
+XALDIN
+Beh, dimmi che ne pensi tu...
+!------------------------------!
+XALDIN
+Venga, dime qué te parece.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It looked fake.
+!------------------------------!
+On dirait qu'elle est fausse.
+!------------------------------!
+Sie sah unecht aus.
+!------------------------------!
+... sembrava finta.
+!------------------------------!
+Parecía falsa.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It looked important to him.
+!------------------------------!
+Elle a l'air importante à ses yeux.
+!------------------------------!
+Sie ist ihm anscheinend wichtig.
+!------------------------------!
+... sembrava importante per lui.
+!------------------------------!
+Parecía importante.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+No rose is going to survive long under glass.
+It's gotta be fake.
+!------------------------------!
+ROXAS
+Une rose normale se serait fanée sous cette
+cloche. Ce doit être une fausse.
+!------------------------------!
+ROXAS
+Keine Rose überlebt lange unter Glas.
+Sie muss unecht sein.
+!------------------------------!
+ROXAS
+Le rose non possono sopravvivere sotto
+una campana di vetro. Dev'essere finta.
+!------------------------------!
+ROXAS
+Las rosas no sobreviven bajo
+un cristal. Será falsa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Ah, but then you're making an assumption: that it's
+just another rose.
+!------------------------------!
+XALDIN
+Tu penses donc qu'elle n'a rien d'extraordinaire.
+!------------------------------!
+XALDIN
+Ah, aber das setzt voraus, dass es
+eine ganz gewöhnliche Rose ist.
+!------------------------------!
+XALDIN
+Ah, questa è una tua ipotesi.
+Ma sappi che non è una rosa comune.
+!------------------------------!
+XALDIN
+Ah, estás asumiendo que
+se trata de una rosa vulgar.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+He obviously takes really good care of it.
+!------------------------------!
+ROXAS
+Apparemment, il en prend vraiment soin.
+!------------------------------!
+ROXAS
+Er pflegt sie anscheinend äußerst gut.
+!------------------------------!
+ROXAS
+La Bestia la conserva con grande cura.
+!------------------------------!
+ROXAS
+Es evidente que la ha
+cuidado mucho.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Precisely, Roxas.
+That is no ordinary rose.
+!------------------------------!
+XALDIN
+Exactement, Roxas. Ce n'est pas une rose
+ordinaire.
+!------------------------------!
+XALDIN
+Exakt, Roxas.
+Das ist keine gewöhnliche Rose.
+!------------------------------!
+XALDIN
+Esatto, Roxas.
+Quella non è una rosa comune.
+!------------------------------!
+XALDIN
+Exacto, Roxas. No
+se trata de una rosa vulgar.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+To him, at least, it seems to hold more value than
+anything else in the castle.
+!------------------------------!
+XALDIN
+À ses yeux, cette rose à l'air d'avoir plus
+d'importance que quoi que ce soit d'autre.
+!------------------------------!
+XALDIN
+Sie scheint ihm wichtiger zu sein
+als alles andere in diesem Schloss.
+!------------------------------!
+XALDIN
+Sembra più importante di qualsiasi altra
+cosa nel castello, almeno per lui.
+!------------------------------!
+XALDIN
+Para él, al menos, parece más
+valiosa que el castillo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+You saw the room.
+It was in tatters<E2><80><95>save one corner.
+!------------------------------!
+XALDIN
+Tu as vu ses appartements. Ils étaient dévastés,
+sauf à un endroit.
+!------------------------------!
+XALDIN
+Du hast das Zimmer gesehen.
+Es war zertrümmert ... bis auf eine Ecke.
+!------------------------------!
+XALDIN
+Hai visto la stanza. Era
+devastata, eccetto un angolo...
+!------------------------------!
+XALDIN
+Ya viste el cuarto. Estaba
+destrozado, salvo un rincón.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Maybe that's why he's been fighting the Heartless.
+
+!------------------------------!
+ROXAS
+C'est peut-être pour ça qu'il combat les
+Sans-cœur.
+!------------------------------!
+ROXAS
+Vielleicht bekämpft er deshalb die Herzlosen.
+
+!------------------------------!
+ROXAS
+Forse è per questo motivo
+che lotta contro gli Heartless.
+!------------------------------!
+ROXAS
+Tal vez por eso luche
+contra los sincorazón.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+He wants to protect the rose?
+
+!------------------------------!
+Pour protéger la rose.
+!------------------------------!
+Weil er die Rose beschützen will?
+
+!------------------------------!
+Che voglia proteggere la rosa?
+!------------------------------!
+¿Quiere proteger la rosa?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Of course.
+Some strange power surrounds it...
+!------------------------------!
+XALDIN
+Évidemment. Elle possède un étrange pouvoir...
+!------------------------------!
+XALDIN
+Natürlich.
+Sie ist von einer seltsamen Macht umgeben ...
+!------------------------------!
+XALDIN
+Certo.
+Emana uno strano potere...
+!------------------------------!
+XALDIN
+Claro.
+Un extraño poder la rodea.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+The Heartless are drawn to it.
+
+!------------------------------!
+Elle attire les Sans-cœur.
+!------------------------------!
+Die Herzlosen werden von ihr angezogen.
+!------------------------------!
+Un potere che attira gli Heartless.
+!------------------------------!
+Atrae a los sincorazón.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Then his fight is far from over...
+
+!------------------------------!
+ROXAS
+Alors son combat est loin d'être terminé...
+!------------------------------!
+ROXAS
+Dann ist sein Kampf noch lange nicht
+vorbei ...
+!------------------------------!
+ROXAS
+Quindi la sua battaglia
+sarà ancora lunga...
+!------------------------------!
+ROXAS
+Entonces la lucha
+no ha terminado...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Our work here is done, Roxas.
+The beast's weakness is clear.
+!------------------------------!
+XALDIN
+Nous en avons fini ici, Roxas. La faiblesse de la
+bête ne fait plus aucun doute.
+!------------------------------!
+XALDIN
+Unsere Arbeit hier ist erledigt, Roxas.
+Der Schwachpunkt des Biestes steht fest.
+!------------------------------!
+XALDIN
+Qui il nostro lavoro è finito, Roxas.
+Il punto debole della Bestia è chiaro.
+!------------------------------!
+XALDIN
+Nuestra tarea ha concluido.
+Ya conocemos su debilidad.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It is?
+
+!------------------------------!
+ROXAS
+Comment ça ?
+!------------------------------!
+ROXAS
+Tut er das?
+!------------------------------!
+ROXAS
+Ah sì?
+!------------------------------!
+ROXAS
+¿Sí?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+To hold something dear is to let it hold you.
+His heart is in thrall to it, don't you see?
+!------------------------------!
+XALDIN
+Quand on tient à quelque chose, on en est prisonnier.
+Le cœur devient esclave, tu comprends ?
+!------------------------------!
+XALDIN
+An etwas zu hängen hält einen gefangen.
+Sein Herz ist gefangen, siehst du das nicht?
+!------------------------------!
+XALDIN
+Si diventa schiavi di ciò a cui si tiene di più.
+Il suo cuore è schiavo della rosa, capisci?
+!------------------------------!
+XALDIN
+Apegarse a las cosas es darles
+poder. Como ha hecho él.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+And that, Roxas, is ample weakness.
+
+!------------------------------!
+XALDIN
+C'est un peu comme l'amour. Et ça, Roxas, c'est une
+grande faiblesse.
+!------------------------------!
+XALDIN
+Genau wie bei der Liebe.
+Und das, Roxas, ist eine eindeutige Schwäche.
+!------------------------------!
+XALDIN
+E questa è una grande debolezza, Roxas.
+!------------------------------!
+XALDIN
+Es muy parecido al amor.
+Una gran debilidad, Roxas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I'm not sure I follow.
+
+!------------------------------!
+ROXAS
+Je ne suis pas sûr de comprendre.
+!------------------------------!
+ROXAS
+Ich kann nicht ganz folgen.
+!------------------------------!
+ROXAS
+Non riesco a capire.
+!------------------------------!
+ROXAS
+No sé si te entiendo.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Nor should you. You have no heart to love with.
+Come. We return.
+!------------------------------!
+XALDIN
+C'est normal. Tu n'as pas de cœur, tu ne peux
+donc pas aimer. Allez, on s'en va.
+!------------------------------!
+XALDIN
+Das sollst du auch nicht. Du hast kein Herz.
+Komm. Wir gehen zurück.
+!------------------------------!
+XALDIN
+Non ne dubito. Serve un cuore
+per amare. Vieni, torniamo indietro.
+!------------------------------!
+XALDIN
+Es lógico. No tienes corazón.
+Vamos. Hemos de volver.
+!------------------------------!
+!******************************!

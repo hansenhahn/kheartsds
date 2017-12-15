@@ -1,0 +1,354 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+2:52
+!******************************!
+&.[HDR].2&
+2:53
+!******************************!
+&.[HDR].2&
+2:54
+!******************************!
+&.[HDR].2&
+mi/ch/47.z
+!******************************!
+&.[HDR].2&
+mi/ch/12.z
+!******************************!
+&.[HDR].2&
+mi/ob/B0.z
+!******************************!
+&.[HDR].2&
+mi/ob/B1.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+ro_w13600_b
+!******************************!
+&.[DCA].Bip.&
+ro_w14600_b
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quem é você?
+!------------------------------!
+Qui es-tu ?
+!------------------------------!
+Wer bist du?
+!------------------------------!
+Chi sei?
+!------------------------------!
+¿Quién eres?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que isso importa?
+Estou aqui por você.
+!------------------------------!
+Qu'est-ce que ça peut faire ?
+Je suis là pour toi.
+!------------------------------!
+Ist doch egal.
+Ich bin deinetwegen hier.
+!------------------------------!
+Non ha importanza.
+Sono qui per te.
+!------------------------------!
+¿Qué importa eso?
+Estoy aquí por ti.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que está tentando me impedir?
+!------------------------------!
+Pourquoi essaies-tu de m'arrêter ?
+!------------------------------!
+Warum versuchst du
+mich aufzuhalten?
+!------------------------------!
+Perché vuoi fermarmi?
+!------------------------------!
+¿Por qué intentas detenerme?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Porque quero de volta o 
+resto das memórias do Sora.
+!------------------------------!
+Parce que je veux récupérer le reste
+des souvenirs de Sora.
+!------------------------------!
+Weil ich den Rest von Soras
+Erinnerungen zurückhaben will.
+!------------------------------!
+Perché rivoglio indietro
+i ricordi di Sora.
+!------------------------------!
+Porque quiero recuperar el resto
+de los recuerdos de Sora.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+ro_w13600_b
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sora, Sora, Sora!
+Chega de Sora!
+!------------------------------!
+Sora, Sora, Sora !
+J'en ai assez de ce Sora !
+!------------------------------!
+Sora, Sora, Sora!
+Genug von diesem Sora!
+!------------------------------!
+Sora, Sora... Sora!
+Ne ho abbastanza di
+questo Sora!
+!------------------------------!
+¡Sora, Sora, Sora!
+¡Basta ya de Sora!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem algum tipo de plano?
+!------------------------------!
+As-tu un plan ?
+!------------------------------!
+Hast du einen Plan?
+!------------------------------!
+Cosa hai intenzione di fare?
+!------------------------------!
+¿Tienes algún plan?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu vou libertar Kingdom Hearts!
+Aí tudo vai voltar a ser como era.
+!------------------------------!
+Je vais libérer Kingdom Hearts !
+Et tout redeviendra comme avant !
+!------------------------------!
+Ich werde Kingdom Hearts
+freilassen. Dann wird alles
+wieder so, wie es war!
+!------------------------------!
+Libererò i Kingdom Hearts!
+Così tutto tornerà come prima!
+!------------------------------!
+¡Voy a liberar Kingdom Hearts!
+Así, todo podrá volver a ser
+como era.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu, e Axel, e... e ela poderemos
+tomar picolé juntos de novo...
+!------------------------------!
+Axel, moi et... elle, nous pourrons de
+nouveau manger des glaces ensemble...
+!------------------------------!
+Axel, ich und ... und sie
+werden wieder Eis miteinander
+essen können ...
+!------------------------------!
+Io, Axel e... lei potremo di
+nuovo mangiare il gelato
+insieme...
+!------------------------------!
+Axel... ella y yo podremos
+comer helado juntos...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Bip.&
+ro_w14600_b
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ela? Dix Xion?
+É difícil se lembrar do 
+nome dela agora, né?
+!------------------------------!
+Elle ? Tu veux parler de Xion ?
+C'est dur de se souvenir rien
+que de son nom, pas vrai ?
+!------------------------------!
+Sie? Meinst du Xion?
+Es fällt schon schwer, sich nur
+an den Namen zu erinnern, nicht?
+!------------------------------!
+Lei? Stai parlando di Xion?
+Ormai è difficile persino
+ricordarsi il suo nome, eh?
+!------------------------------!
+¿Ella? ¿Te refieres a Xion?
+Cuesta mucho recordar su
+nombre, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+De qualquer jeito, não posso 
+deixar que faça algo sem pensar.
+!------------------------------!
+Quoi qu'il en soit, je dois t'empêcher
+de faire quoi que ce soit d'insensé.
+!------------------------------!
+Wie dem auch sei, ich kann
+nicht zulassen, dass du
+etwas Verrücktes tust.
+!------------------------------!
+In ogni caso, devo impedirti
+di compiere una simile follia.
+!------------------------------!
+En cualquier caso, no puedo per-
+mitir que hagas ninguna locura.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu tenho que encontrar esse tal de 
+Sora, e libertar Kingdom Hearts é 
+o único jeito.
+!------------------------------!
+Je dois trouver ce Sora et la seule
+façon qui soit, c'est de libérer
+Kingdom Hearts !
+!------------------------------!
+Ich muss diesen Sora finden
+und Kingdom Hearts freilassen.
+!------------------------------!
+Troverò quel Sora, e l'unico
+modo per riuscirci è liberare
+i Kingdom Hearts!
+!------------------------------!
+Tengo que encontrar a ese Sora,
+¡y el único modo es liberar
+Kingdom Hearts!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu quero a Xion de volta.
+Eu quero a minha vida de volta!
+!------------------------------!
+Je veux retrouver Xion.
+Je veux retrouver ma vie !
+!------------------------------!
+Ich will Xion zurück.
+Ich will mein Leben zurück!
+!------------------------------!
+Rivoglio indietro Xion.
+Rivoglio la mia vita!
+!------------------------------!
+Quiero recuperar a Xion.
+¡Quiero recuperar mi vida!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Se tentar fazer contato com 
+Kingdom Hearts, a última coisa 
+que terá é sua vida de volta.
+!------------------------------!
+Je ne sais pas ce que tu penses
+pouvoir faire, mais tu ne peux
+pas libérer Kingdom Hearts.
+!------------------------------!
+Wenn du mit Kingdom Hearts
+Kontakt aufnimmst, bekommst du
+dein Leben auch nicht zurück.
+!------------------------------!
+Non so cosa pensi di fare,
+ma non puoi liberare i
+Kingdom Hearts.
+!------------------------------!
+Si intentas contactar con
+Kingdom Hearts, no será
+tu vida lo que conseguirás.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A Ordem irá destrui-lo.
+!------------------------------!
+L'Organisation te détruira.
+!------------------------------!
+Die Organisation wird dich
+vernichten.
+!------------------------------!
+L'Organizzazione ti distruggerà.
+!------------------------------!
+La Organización te destruirá.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quieto!
+!------------------------------!
+Ferme-la !
+!------------------------------!
+Halt die Klappe!
+!------------------------------!
+Taci!
+!------------------------------!
+¡Cállate!
+!------------------------------!
+!******************************!

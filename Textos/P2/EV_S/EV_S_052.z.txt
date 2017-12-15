@@ -1,0 +1,286 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Together?
+!------------------------------!
+Ensemble ?
+!------------------------------!
+Zusammen?
+!------------------------------!
+Insieme?
+!------------------------------!
+¿Juntos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, is it a problem?
+!------------------------------!
+Oui. Ça pose un problème ?
+!------------------------------!
+Ja, ist das ein Problem?
+!------------------------------!
+Sì, è un problema?
+!------------------------------!
+Sí, ¿algún problema?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What in the world would possess you to
+ask at a time like this?
+!------------------------------!
+Qu'est-ce qui vous prend de me
+demander ça dans un moment
+pareil...
+!------------------------------!
+Was in aller Welt hat euch
+geritten, so etwas zu so einer
+Zeit zu fragen ...
+!------------------------------!
+Che vi è preso per
+avanzare questa richiesta
+in un momento simile?
+!------------------------------!
+¿Cómo puedes preguntarme eso
+en un momento como este?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're shorthanded as it is.
+And yet you expect me to say yes?
+!------------------------------!
+On manque d'hommes et vous
+croyez vraiment que je vais
+accepter ?
+!------------------------------!
+Wir leiden an Personalmangel.
+Und ich soll trotzdem zustimmen?
+!------------------------------!
+Siamo già a corto di uomini.
+Vi aspettate che vi dia il
+permesso?
+!------------------------------!
+Somos muy pocos.
+¿Esperas que te diga que sí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why not? Seems like a good idea to me.
+Put two half-pints together and you
+get a whole.
+!------------------------------!
+Pourquoi pas ? Ça me semble une
+bonne idée. Si on met deux moitiés
+ensemble ça fait un tout.
+!------------------------------!
+Warum nicht? Hört sich nach 'ner
+guten Idee an. Zwei halbe Gläser
+ergeben ein volles.
+!------------------------------!
+Perché no? A me sembra una
+buona idea. Del resto...
+l'unione fa la forza, no?
+!------------------------------!
+¿Por qué no? Me parece una buena
+idea. Con dos medias pintas
+se hace una pinta entera.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you let us pair up, we can do tougher
+missions for you, no problem.
+!------------------------------!
+Si tu nous laisses faire équipe, on
+pourra accomplir des missions plus
+dangereuses sans problème.
+!------------------------------!
+Zusammen können wir schwierigere
+Missionen erledigen.
+!------------------------------!
+Se ci lasci lavorare insieme,
+potremo completare facilmente
+anche le missioni più dure.
+!------------------------------!
+Si dejas que colaboremos,
+podremos cumplir misiones
+más difíciles para ti.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fine. As you wish.
+!------------------------------!
+Très bien.
+Faites comme vous voudrez.
+!------------------------------!
+Okay. Wie ihr wollt.
+!------------------------------!
+D'accordo. Come volete.
+!------------------------------!
+Bien. Como quieras.
+!------------------------------!
+!******************************!

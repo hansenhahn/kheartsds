@@ -1,0 +1,87 @@
+Recipes
+!******************************!
+Stock
+!******************************!
+Continue
+!******************************!
+Done
+!******************************!
+Clear All Slots
+!******************************!
+Store This Deck
+!******************************!
+Retrieve a Deck
+!******************************!
+Confirm changes to your panel arrangement and
+return to the main menu.
+!******************************!
+Continue installing and arranging panels.
+!******************************!
+Store the current panel arrangement in one of three
+decks.
+!******************************!
+Replace the current panel arrangement with one of
+your stored decks.
+!******************************!
+Uninstall all panels and return them to your stock.
+!******************************!
+Return all currently installed
+panels to your stock?
+!******************************!
+All panels have been
+returned to your stock.
+!******************************!
+Yes
+!******************************!
+No
+!******************************!
+Deck 1
+!******************************!
+Deck 2
+!******************************!
+Deck 3
+!******************************!
+Store this panel arrangement
+in Deck %d?
+!******************************!
+Your panel arrangement has
+been stored in Deck %d.
+!******************************!
+Replace this panel
+arrangement with Deck %d?
+!******************************!
+Your panel arrangement has
+been replaced with Deck %d.
+!******************************!
+Slots
+!******************************!
+Abilities
+!******************************!
+Links
+!******************************!
+Missing some panels
+!******************************!
+You can't install that here.
+Link zones must not overlap or overhang.
+!******************************!
+You can't install that here.
+The panel only works inside a link zone.
+!******************************!
+You can't install that here.
+The panel is incompatible with this link zone.
+!******************************!
+You can't install that.
+Only one weapon panel is allowed.
+!******************************!
+You can't install that.
+Only one ring panel is allowed.
+!******************************!
+You can't install that.
+Only one of each ability panel is allowed.
+!******************************!
+You can't install this on top of the parent panel.
+!******************************!
+You can't install panels in locked slots.
+!******************************!
+Two Keyblades
+!******************************!

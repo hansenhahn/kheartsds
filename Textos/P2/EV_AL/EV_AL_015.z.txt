@@ -1,0 +1,542 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+1:75
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Where is it? It's gotta be around here
+somewheres...
+!------------------------------!
+Où est l'entrée ?
+Elle devrait être par ici...
+!------------------------------!
+Wo ist er bloß?!
+Er muss hier irgendwo sein ...
+!------------------------------!
+Dov'è? Deve essere
+qui vicino da qualche parte...
+!------------------------------!
+¿Dónde está?
+Tiene que estar por aquí,
+en algún sitio...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now who is that?
+And what's he up to?
+!------------------------------!
+Qui c'est celui-là ?
+Et qu'est-ce qu'il fabrique ?
+!------------------------------!
+Wer ist das?
+Und was hat er vor?
+!------------------------------!
+E quello chi è?
+E che sta facendo?
+!------------------------------!
+¿Y quién es ese?
+¿Y qué pretende?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He wasn't here the last time I came by,
+that's for sure.
+!------------------------------!
+En tout cas, il n'était pas là
+la dernière fois, c'est sûr.
+!------------------------------!
+Letztes Mal war er nicht hier.
+So viel steht fest.
+!------------------------------!
+Non c'era l'ultima volta
+che sono stato qui.
+Ne sono sicuro.
+!------------------------------!
+No estaba la última vez que pasé
+por aquí, eso te lo aseguro.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+Hmm...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Grrr... Well, I ain't givin' up till I find
+a way in!
+!------------------------------!
+Nom d'un cornichon !
+Je n'abandonnerai pas tant que
+je n'aurai pas trouvé l'entrée !
+!------------------------------!
+Grr ... Ich gebe nicht auf,
+solange ich keinen Eingang
+gefunden habe!
+!------------------------------!
+Accidenti!
+Non mi arrenderò finché non
+avrò trovato il modo di entrare!
+!------------------------------!
+¡Grrr!
+¡No pienso parar hasta que
+encuentre la manera de entrar!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And once I find the lamp that's stashed
+down there...
+!------------------------------!
+Et une fois que j'aurai trouvé la lampe
+cachée là-dedans...
+!------------------------------!
+Und wenn ich die Lampe
+da unten erst gefunden habe ...
+!------------------------------!
+E quando troverò la lampada
+nascosta lì dentro...
+!------------------------------!
+Cuando encuentre la lámpara
+que se esconde ahí abajo...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh heh...
+All my wishes'll come true.
+!------------------------------!
+Hé, hé, hé...
+Tous mes vœux seront exaucés !
+!------------------------------!
+Hi, hi, hi ...
+Werden sich all meine Wünsche
+erfüllen.
+!------------------------------!
+Eh eh eh...
+Tutti i miei desideri
+diventeranno realtà.
+!------------------------------!
+Je, je, je...
+Todos mis deseos se harán
+realidad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He thinks some lamp is gonna grant his
+wishes?
+!------------------------------!
+Il pense qu'une lampe peut exaucer
+ses vœux ?
+!------------------------------!
+Er glaubt, eine Lampe erfüllt
+ihm seine Wünsche?
+!------------------------------!
+Crede che una lampada
+possa esaudire i suoi desideri?
+!------------------------------!
+¿Cree que una lámpara le
+concederá sus deseos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, strange guy.
+!------------------------------!
+N'importe quoi...
+!------------------------------!
+Ja, komischer Kerl.
+!------------------------------!
+Già, che tipo strano.
+!------------------------------!
+Sí, qué tipo tan raro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Change of plans, Roxas!
+Our new mission is following Lunkhead
+there.
+!------------------------------!
+Changement de plan, Roxas !
+Notre nouvelle mission consiste
+à suivre ce type.
+!------------------------------!
+Neuer Plan, Roxas!
+Unsere neue Mission lautet:
+dem Klops da folgen.
+!------------------------------!
+Cambio di programma, Roxas!
+La nostra nuova missione è
+seguire quel babbeo.
+!------------------------------!
+Cambio de planes, Roxas.
+Nuestra nueva misión es seguir
+al ceporro ese.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was?
+!------------------------------!
+Che cosa?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...we're out on heart collection.
+Won't we get in trouble if we just<E2><80><95>
+!------------------------------!
+Mais on doit récupérer des cœurs.
+On va avoir des ennuis si...
+!------------------------------!
+Aber ... wir sollen doch
+Herzen sammeln. Bekommen wir
+keinen Ärger, wenn wir einfach ...
+!------------------------------!
+Ma... dobbiamo raccogliere i cuori.
+Potremmo cacciarci
+nei guai se non...
+!------------------------------!
+Pero... hemos salido a recoger
+corazones. No nos meteremos en
+problemas si nos limitamos...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Looking into any suspicious characters
+you come across is an important part
+of the job.
+!------------------------------!
+Enquêter sur les individus bizarres
+fait aussi partie du boulot.
+!------------------------------!
+Verdächtige Personen zu
+beschatten ist ein wichtiger
+Teil unseres Berufs.
+!------------------------------!
+Indagare sulle persone sospette
+che si incontrano è una parte
+essenziale del nostro lavoro.
+!------------------------------!
+Investigar a los sospechosos
+que encuentres es una parte
+importante del trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But wouldn't you still call it disobeying
+orders?
+!------------------------------!
+Mais ce n'est pas
+désobéir aux ordres ?
+!------------------------------!
+Aber missachten wir damit
+nicht unsere Befehle?
+!------------------------------!
+Ma non sarebbe come
+disobbedire agli ordini?
+!------------------------------!
+¿Pero no crees que sigue siendo
+desobedecer órdenes?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, I'd call it flexible thinking.
+Got it memorized?
+!------------------------------!
+Non, c'est faire preuve
+d'initiative. Tu t'en
+souviendras ?
+!------------------------------!
+Nein. Ich würde eher von
+Flexibilität sprechen.
+Alles klar?
+!------------------------------!
+No, io preferisco chiamarlo
+"ragionamento flessibile".
+L'hai memorizzato?
+!------------------------------!
+No, creo que es tener las ideas
+flexibles. ¿Lo has memorizado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Plus, we'll still have plenty of time to
+collect hearts afterwards. No harm,
+no foul.
+!------------------------------!
+Et on aura tout le temps de
+trouver des cœurs après !
+!------------------------------!
+Außerdem haben wir danach
+immer noch jede Menge Zeit,
+Herzen zu sammeln.
+!------------------------------!
+E poi avremo tutto il tempo di
+cercare cuori dopo aver seguito
+quel tizio. Non ti preoccupare.
+!------------------------------!
+Además, después aún tendremos
+mucho tiempo para recoger
+corazones. No haremos nada malo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess...
+!------------------------------!
+Bon d'accord...
+!------------------------------!
+Na gut ...
+!------------------------------!
+Se lo dici tu...
+!------------------------------!
+Supongo...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good, then we're agreed.
+!------------------------------!
+Génial !
+!------------------------------!
+Gut, dann sind wir uns
+ja einig.
+!------------------------------!
+Bene, allora è deciso.
+!------------------------------!
+Bien, entonces,
+estamos de acuerdo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now the key here is to keep your eyes
+on him, Roxas.
+!------------------------------!
+Alors le truc, c'est de ne pas
+le perdre de vue.
+!------------------------------!
+Roxas, das Wichtigste ist,
+ihn nicht aus den Augen
+zu lassen.
+!------------------------------!
+Ora l'importante è non perderlo
+mai di vista, Roxas.
+!------------------------------!
+Ahora, la clave está en no
+perderlo de vista, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just make sure he doesn't lay eyes on
+you, follow?
+!------------------------------!
+Mais il ne faut pas que lui te voie,
+compris ?
+!------------------------------!
+Und natürlich, dass du ihm
+nicht unter die Augen kommst!
+!------------------------------!
+Ma cerca di non farti
+vedere da lui, capito?
+!------------------------------!
+Pero asegúrate de que él no te
+vea, ¿entendido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

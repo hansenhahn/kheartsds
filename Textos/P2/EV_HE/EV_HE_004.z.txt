@@ -1,0 +1,64 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wuh-oh. Looks like conversation hour's
+over. Time to tidy up, Roxas.
+!------------------------------!
+Cette conversation a assez duré.
+Mettons-nous au travail, Roxas.
+!------------------------------!
+Oh, oh. Unser Kaffeekränzchen
+ist vorbei. Zeit zum
+Aufräumen, Roxas.
+!------------------------------!
+Oh-oh. Pare che il tempo
+delle chiacchiere sia finito.
+È l'ora delle pulizie, Roxas.
+!------------------------------!
+Uoh-oh. Parece que se acabó la
+hora de conversar. Manos a
+la obra, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

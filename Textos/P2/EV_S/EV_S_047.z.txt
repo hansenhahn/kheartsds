@@ -1,0 +1,308 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/52.z
+!******************************!
+&.[HDR].2&
+mi/ch/51.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Rise and shine, sleepyhead.
+!------------------------------!
+Ça va, la Belle au Bois Dormant ?
+!------------------------------!
+Aufgewacht, Schlafmütze.
+!------------------------------!
+Buongiorno, dormiglione.
+!------------------------------!
+Despierta, dormilón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sorry... I was up late.
+Couldn't sleep.
+!------------------------------!
+Désolé... je me suis couché tard.
+Je n'arrivais pas à dormir.
+!------------------------------!
+Entschuldige ... Ich war lange auf.
+Konnte nicht schlafen.
+!------------------------------!
+Scusa... Mi sono addormentato
+tardi. Non riuscivo a dormire.
+!------------------------------!
+Lo siento... Me acosté tarde.
+No podía dormir.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I asked Saïx about Xion.
+!------------------------------!
+J'ai parlé de Xion à Saïx.
+!------------------------------!
+Ich habe Saïx wegen Xion gefragt.
+!------------------------------!
+Ho parlato di Xion con Saïx.
+!------------------------------!
+Le he preguntado a
+Saïx acerca de Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And?
+!------------------------------!
+Et ?
+!------------------------------!
+Und?
+!------------------------------!
+E...?
+!------------------------------!
+¿Y...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Your friend was sent out on a mission,
+but never RTC'd.
+!------------------------------!
+Elle est partie en mission
+et n'est jamais rentrée.
+!------------------------------!
+Sie ist von einer Mission nicht
+zurückgekehrt.
+!------------------------------!
+Xion è via per una missione,
+non ha mai fatto ritorno.
+!------------------------------!
+Salió a una misión y nunca VAC.
+
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...why not?
+Shouldn't the mission be done by now?
+!------------------------------!
+Pourquoi ? Elle n'a pas réussi à
+accomplir sa mission, c'est ça ?
+!------------------------------!
+Aber ... weshalb?
+Konnte sie ihre Befehle nicht erfüllen?
+!------------------------------!
+Ma... perché? La missione non dovrebbe
+ormai essere stata completata?
+!------------------------------!
+¿Por qué? ¿Acaso no pudo
+completar la misión?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I dunno. But we'll find out what
+happened soon enough.
+!------------------------------!
+J'en sais rien.
+Mais on va le découvrir bientôt.
+!------------------------------!
+Keine Ahnung.
+Aber das werden wir bald
+herausfinden.
+!------------------------------!
+Non lo so.
+Ma scopriremo presto cos'è successo.
+!------------------------------!
+No lo sé. Pero muy pronto
+lo averiguaremos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why's that?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Wieso?
+!------------------------------!
+Come sarebbe a dire?
+!------------------------------!
+¿Por qué lo dices?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You and me get to go track Xion down.
+That's our mission today.
+!------------------------------!
+Toi et moi, on va aller la chercher.
+C'est notre mission d'aujourd'hui.
+!------------------------------!
+Wir beide werden nach ihr
+suchen. Das ist unsere
+heutige Mission.
+!------------------------------!
+Io e te andremo a cercare Xion.
+Sarà la nostra missione odierna.
+!------------------------------!
+Tú y yo vamos a buscarla.
+Esta es nuestra misión para hoy.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean it!?
+!------------------------------!
+C'est vrai ?
+!------------------------------!
+Ernsthaft!?
+!------------------------------!
+Dici sul serio?!?
+!------------------------------!
+¿En serio?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, I made it all up.
+Go back to bed.
+!------------------------------!
+Non, je plaisante.
+Va te recoucher.
+!------------------------------!
+Nein, das hab ich mir alles
+ausgedacht. Du kannst dich
+wieder hinlegen.
+!------------------------------!
+No, ho inventato tutto.
+Torna a dormire.
+!------------------------------!
+No, me lo he inventado todo.
+Vuélvete a la cama.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...Yes, I mean it!
+Hurry up and get ready, will ya?
+!------------------------------!
+Hé, la Terre appelle Roxas !
+Allez, dépêche-toi de te préparer !
+!------------------------------!
+... Ja, ich meins ernst!
+Jetzt mach dich schon fertig,
+okay?
+!------------------------------!
+...Sì, sono serio!
+Sbrigati a prepararti ora, OK?
+!------------------------------!
+Eh...
+Mira, date prisa y prepárate,
+¿estamos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

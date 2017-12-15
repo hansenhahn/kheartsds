@@ -1,0 +1,233 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/61.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm... She went to that ship all by
+herself. I hope she's okay.
+!------------------------------!
+Elle est partie sur le navire toute
+seule... J'espère qu'il ne lui
+arrivera rien.
+!------------------------------!
+Hmm ... Sie ist ganz alleine
+zu dem Schiff. Ich hoffe,
+es geht ihr gut.
+!------------------------------!
+Mmm... Ha raggiunto la nave da
+sola. Spero che se la caverà.
+!------------------------------!
+Mmm... Se ha ido a ese barco
+sola. Espero que no le pase
+nada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe I should have gone with her...
+!------------------------------!
+J'aurais peut-être dû y aller
+finalement...
+!------------------------------!
+Vielleicht hätte ich sie
+begleiten sollen.
+!------------------------------!
+Forse avrei dovuto accompagnarla...
+!------------------------------!
+Igual yo también tendría que
+haber ido con ella...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx wouldn't like it if I got mixed up in
+anything unrelated to the mission.
+!------------------------------!
+Mais Saïx serait furieux si je me
+laissais distraire de ma mission...
+!------------------------------!
+Saïx würde es nicht gefallen, wenn
+ich in etwas verwickelt würde, was
+nichts mit der Mission zu tun hat.
+!------------------------------!
+Saïx ha detto di ignorare tutto ciò
+che non riguarda la missione.
+!------------------------------!
+Pero a Saïx no le gustaría que
+me apartara de la misión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But then again, without her I never
+would've found the target.
+!------------------------------!
+Mais je dois bien avouer que sans elle,
+je n'aurais jamais trouvé ma cible.
+!------------------------------!
+Aber ohne sie hätte ich das Ziel
+nie gefunden.
+!------------------------------!
+Ma senza di lei non avrei
+mai trovato il bersaglio.
+!------------------------------!
+Pero, por otro lado, sin ella
+nunca habría encontrado al
+objetivo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wonder why she picked me.
+!------------------------------!
+Je me demande pourquoi elle m'a
+choisi.
+!------------------------------!
+Warum sie wohl mich ausgewählt hat?
+!------------------------------!
+Mi chiedo perché lei abbia
+scelto proprio me, comunque.
+!------------------------------!
+Me pregunto por qué
+me habrá escogido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's like...
+!------------------------------!
+C'est comme si...
+!------------------------------!
+Als hätte sie ...
+!------------------------------!
+È come se...
+!------------------------------!
+Es como...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's like she knew I would believe her<E2><80><95>
+that I could fly.
+!------------------------------!
+Comme si elle savait déjà que j'allais
+la croire... que je serais capable de
+voler.
+!------------------------------!
+Als hätte sie gewusst, dass ich ihr
+glauben würde ... dass ich fliegen
+könnte.
+!------------------------------!
+Come se sapesse che mi sarei
+fidato di lei... che avrei creduto
+di poter volare.
+!------------------------------!
+Es como si hubiera sabido que
+creería en ella, que podría
+volar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Funny...
+I almost feel like I've done it before.
+!------------------------------!
+C'est drôle... j'ai l'impression
+d'avoir déjà fait ça avant.
+!------------------------------!
+Komisch ...
+Fühlt sich an, als hätte ich
+das schon mal getan.
+!------------------------------!
+Strano...
+Ho come l'impressione di averlo
+già fatto in passato.
+!------------------------------!
+Qué curioso...
+Me siento casi como si ya lo
+hubiera hecho antes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

@@ -1,0 +1,187 @@
+&.[HDR].&
+*.0000040000004C1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><82><B2><E3><83><BC><E3><83><A0><E3><81><AB><E8><A1><8C><E3><81><8D><E8><A9><B0><E3><81><BE><E3><82><8B><E3><81><A8><E3><81><8D><E3><82><82><E3><81><82><E3><82><8B>
+<E6><B7><B1><E3><81><8F><E6><B0><97><E3><81><AB><E3><81><97><E3><81><AA><E3><81><84><E3><81><93><E3><81><A8><E3><81><A0>
+!------------------------------!
+LUXORD
+Finding oneself stumped is part of playing games.
+Don't let it get to you.
+!------------------------------!
+LUXORD
+Se faire éliminer, ça fait partie du jeu.
+Ne te laisse pas abattre.
+!------------------------------!
+LUXORD
+Zu verlieren gehört zum Spielen
+dazu. Mach dir nichts draus.
+!------------------------------!
+LUXORD
+Perdere fa parte del gioco.
+Non scoraggiarti.
+!------------------------------!
+LUXORD
+Que te desplumen es parte
+del juego. No te rindas por eso.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000004C1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><81><A9><E3><81><86><E3><81><97><E3><81><9F><EF><BC><9F><E8><90><BD><E3><81><A1><E8><BE><BC><E3><82><93><E3><81><A7><E3><81><84><E3><82><8B><E3><81><AE><E3><81><8B><EF><BC><9F>
+<E6><B0><97><E6><99><B4><E3><82><89><E3><81><97><E3><81><AB><E3><82><B2><E3><83><BC><E3><83><A0><E3><81><A7><E3><82><82><E3><81><A9><E3><81><86><E3><81><A0>
+!------------------------------!
+LUXORD
+Why the long face?
+Here, how about a game to liven things up?
+!------------------------------!
+LUXORD
+C'est quoi cette tête ? Ça te dirait un petit jeu pour
+te remonter le moral ?
+!------------------------------!
+LUXORD
+Warum das lange Gesicht?
+Wie wär's mit einem Spielchen?
+!------------------------------!
+LUXORD
+Cos'è quel muso lungo?
+Ti va di giocare un po' per movimentare le cose?
+!------------------------------!
+LUXORD
+¿A qué viene esa cara?
+¿Quieres jugar para animarte?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>37<E3><81><A7>
+50<E7><82><B9><E4><BB><A5><E4><B8><8A><E3><81><AE><E3><82><B9><E3><82><B3><E3><82><A2><E3><82><92><E3><83><9E><E3><83><BC><E3><82><AF><E3><81><97><E3><81><9F><E3><82><89><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AE><E5><8B><9D><E3><81><A1><E3><81><A0>
+<E7><B5><82><E3><82><8F><E3><81><A3><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AE><E3><81><A8><E3><81><93><E3><82><8D><E3><81><AB><E6><88><BB><E3><81><A3><E3><81><A6><E3><81><93><E3><81><84>
+!------------------------------!
+Score at least 50 points in Mission 37, and you win.
+Come see me once you're done.
+!------------------------------!
+C'est gagné si tu arrives à marquer au moins
+50 points pendant la mission 37. Viens me
+voir quand ce sera fait.
+!------------------------------!
+Du gewinnst, wenn du in Mission
+37 mindestens 50 Punkte schaffst.
+Komm her, wenn du's schaffst.
+!------------------------------!
+Fai più di 50 punti nella Missione 37 e
+vincerai. Poi torna da me.
+!------------------------------!
+Si consigues más de 50 puntos
+en la misión 37, ganas tú. Ven a
+verme cuando hayas acabado.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000004B1801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+50<E7><82><B9><E4><BB><A5><E4><B8><8A><E3><81><AE><E3><82><B9><E3><82><B3><E3><82><A2><E3><82><92><E5><87><BA><E3><81><97><E3><81><9F><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E6><96><B0><E3><81><97><E3><81><84><E3><82><B2><E3><83><BC><E3><83><A0><E2><80><A6><E7><89><B9><E5><88><A5><E4><BB><BB><E5><8B><99><E3><82><92><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AB><E8><A8><97><E3><81><9D><E3><81><86>
+!------------------------------!
+LUXORD
+It seems you've scored at least 50 points.
+Here's a new game. A mission.
+!------------------------------!
+LUXORD
+On dirait que tu as marqué au moins 50 points.
+Voici un nouveau jeu : une mission.
+!------------------------------!
+LUXORD
+Du hast die 50 Punkte geschafft.
+Jetzt neues Spiel. Eine Mission.
+!------------------------------!
+LUXORD
+Hai totalizzato più di 50 punti.
+C'è una nuova partita per te. Una missione.
+!------------------------------!
+LUXORD
+Veo que tienes 50 puntos.
+Te daré una nueva misión.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><B2><E3><83><BC><E3><83><A0><E3><81><AE><E8><A9><B3><E7><B4><B0><E3><81><AF><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AB><E8><81><9E><E3><81><8F><E3><81><8C><E3><81><84><E3><81><84>
+!------------------------------!
+Saïx will have the details for you.
+!------------------------------!
+Saïx t'en dira davantage.
+!------------------------------!
+Saïx hat die Einzelheiten für dich.
+!------------------------------!
+Saïx ti darà tutti i dettagli.
+!------------------------------!
+Saïx te dará los detalles.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+A new mission is now available!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E6><B0><97><E6><99><B4><E3><82><89><E3><81><97><E3><81><AE><E3><82><B2><E3><83><BC><E3><83><A0><E3><81><AF><E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F>
+!------------------------------!
+LUXORD
+How about a game to liven things up a bit?
+!------------------------------!
+LUXORD
+Ça te dirait un petit jeu pour pimenter tout ça ?
+!------------------------------!
+LUXORD
+Wie wär's zur Abwechslung mal
+mit einem kleinen Spielchen?
+!------------------------------!
+LUXORD
+Ti va di fare un gioco per
+movimentare un po' le cose?
+!------------------------------!
+LUXORD
+¿Quieres echar una partida
+para animarte un poco?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>37<E3><81><A7>
+50<E7><82><B9><E4><BB><A5><E4><B8><8A><E3><81><AE><E3><82><B9><E3><82><B3><E3><82><A2><E3><82><92><E5><87><BA><E3><81><9B><E3><81><B0>
+<E9><9D><A2><E7><99><BD><E3><81><84><E3><82><B2><E3><83><BC><E3><83><A0><E3><82><92><E3><83><97><E3><83><AC><E3><82><BC><E3><83><B3><E3><83><88><E3><81><97><E3><82><88><E3><81><86>
+!------------------------------!
+If you can score at least 50 points in Mission 37,
+I'll fill you in on an even more interesting game.
+!------------------------------!
+Si tu arrives à marquer au moins 50 points pendant
+la mission 37, je te montrerai un jeu encore plus
+intéressant.
+!------------------------------!
+Wenn du in Mission 37 mindestens
+50 Punkte schaffst, gibt's ein
+noch interessanteres Spiel.
+!------------------------------!
+Ottieni più di 50 punti nella
+Missione 37 e ti farò partecipare
+a una partita ancora più interessante.
+!------------------------------!
+Si consigues más de 50 puntos
+en la misión 37, te plantearé
+un juego más interesante.
+!------------------------------!
+!******************************!
