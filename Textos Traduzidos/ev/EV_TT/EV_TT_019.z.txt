@@ -1,0 +1,627 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:34
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sem Xion...
+!------------------------------!
+Pas de Xion...
+!------------------------------!
+Keine Xion ...
+!------------------------------!
+Nessuna traccia di Xion...
+!------------------------------!
+Xion no está...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sem Heartless também.
+!------------------------------!
+Et pas de Sans-cœur non plus.
+!------------------------------!
+Und auch kein Herzloser.
+!------------------------------!
+E nemmeno del nostro Heartless.
+!------------------------------!
+Ni tampoco el sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+O que vocês tão fazendo aqui?
+!------------------------------!
+Hé, mais qu'est-ce que vous faites ici ?
+!------------------------------!
+Huch?
+Was macht ihr hier unten?
+!------------------------------!
+Uh?
+E voi cosa ci fate qui?
+!------------------------------!
+¿Eh?
+¿Y vosotros qué hacéis aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Perderam alguma coisa?
+!------------------------------!
+Vous avez perdu quelque chose ?
+!------------------------------!
+Habt ihr was verloren?
+!------------------------------!
+Avete perso qualcosa?
+!------------------------------!
+¿Habéis perdido algo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É, pode se dizer que sim.
+!------------------------------!
+On peut dire ça, oui.
+!------------------------------!
+Ja, das könnte man so sagen.
+!------------------------------!
+Sì, più o meno.
+!------------------------------!
+Sí, podría decirse que sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ouvimos um boato de 
+um gemido estranho...
+!------------------------------!
+On a entendu parler d'un drôle de
+gémissement.
+!------------------------------!
+Wir haben Gerüchte über
+ein seltsames Stöhnen gehört.
+!------------------------------!
+Abbiamo sentito parlare di
+strani suoni simili a un gemito.
+!------------------------------!
+Hemos oído rumores sobre
+un extraño gemido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Gemido estranho...
+!------------------------------!
+Un gémissement...
+!------------------------------!
+Seltsames Stöhnen ...
+!------------------------------!
+Uno strano gemito...
+!------------------------------!
+Un extraño gemido...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah! Está falando da ventilação ali?
+!------------------------------!
+Ah, ça ? Mais ça vient de là-haut !
+!------------------------------!
+Oh! Meint ihr vielleicht
+den Spalt da oben?
+!------------------------------!
+Oh! State parlando di
+quell'accesso lassù?
+!------------------------------!
+¡Ah! ¿Puede ser eso que
+suena ahí arriba?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O ar que vem por ele faz muito
+barulho. Aí parece meio que um
+gemido.
+!------------------------------!
+Quand le vent s'engouffre dans le
+tuyau, ça fait du bruit. On pourrait
+confondre ça avec un gémissement.
+!------------------------------!
+Durch den Spalt da pfeift
+der Wind und erzeugt ein Echo.
+Hört sich wie ein Stöhnen an.
+!------------------------------!
+Il vento che passa di lì produce
+molti echi. Suona come un
+gemito.
+!------------------------------!
+El aire que pasa por ese
+conducto resuena con mucho eco.
+Se parece bastante a un gemido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quê?
+Ugh, fala sério...
+!------------------------------!
+Quoi ? Oh, c'est pas vrai...
+!------------------------------!
+Was?
+Uff, das kann doch nicht
+wahr sein ...
+!------------------------------!
+Cosa?
+Ugh, accidenti...
+!------------------------------!
+¿Qué?
+Madre mía, tanto para esto...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então... vocês disseram
+que perderam uma coisa?
+!------------------------------!
+Alors comme ça, vous avez perdu
+quelque chose ?
+!------------------------------!
+Ihr habt also etwas verloren?
+!------------------------------!
+Allora... avete detto di
+aver perso qualcosa?
+!------------------------------!
+¿Y qué decís que habéis perdido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uma PESSOA.
+Amiga nossa.
+!------------------------------!
+Oui, enfin plutôt quelqu'un...
+Une amie à nous.
+!------------------------------!
+JEMANDEN,
+eine Freundin von uns.
+!------------------------------!
+Qualcuno, piuttosto.
+Una nostra amica.
+!------------------------------!
+A una amiga nuestra.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, foi mal.
+Espero que encontre ela logo.
+!------------------------------!
+Oh, désolé.
+J'espère que vous la retrouverez vite.
+!------------------------------!
+Oh, das tut mir leid.
+Ich hoffe, ihr findet sie bald.
+!------------------------------!
+Oh, mi dispiace.
+Vi auguro di trovarla presto.
+!------------------------------!
+Vaya, pues lo siento.
+Espero que la encontréis.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Valeu.
+!------------------------------!
+Merci.
+!------------------------------!
+Danke.
+!------------------------------!
+Grazie.
+!------------------------------!
+Gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E qual sua história?
+Por que tá aqui em baixo?
+!------------------------------!
+Mais et toi ?
+Que fais-tu ici ?
+!------------------------------!
+Und du?
+Weshalb bist du hier unten?
+!------------------------------!
+E tu che ci dici?
+Cosa fai in questo posto?
+!------------------------------!
+¿Y tú?
+¿Por qué estás aquí abajo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu?
+He he, isso é segredo.
+!------------------------------!
+Moi ? Hé, hé, c'est un secret.
+!------------------------------!
+Ich?
+He, he, das ist ein Geheimnis.
+!------------------------------!
+Io?
+Eh eh, è un segreto.
+!------------------------------!
+¿Yo?
+Je, je, je... es un secreto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, acho que não fomos apresentados.
+!------------------------------!
+Je ne crois pas m'être présenté.
+!------------------------------!
+Hey, wir haben uns
+noch gar nicht vorgestellt.
+!------------------------------!
+Ehi, non ci siamo
+neanche presentati.
+!------------------------------!
+Creo que no nos hemos
+presentado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sou Pence.
+Se precisarem de alguma coisa,
+podem contar sempre comigo.
+!------------------------------!
+Moi, c'est Pence.
+Si jamais vous avez besoin de quelque
+chose, je serai ravi de vous aider.
+!------------------------------!
+Ich bin Pence.
+Falls ihr was brauchen solltet,
+ich helfe immer gerne.
+!------------------------------!
+Io sono Pence.
+Se vi serve qualcosa,
+vi darò volentieri una mano.
+!------------------------------!
+Me llamo Pence.
+Si necesitáis algo, estaré
+encantado de ayudaros.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hum, valeu.
+!------------------------------!
+Merci, c'est gentil.
+!------------------------------!
+Ähm, danke.
+!------------------------------!
+Uhm, grazie.
+!------------------------------!
+Vaya, gracias.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nada. Nos vemos depois.
+!------------------------------!
+Bon, ben à plus tard.
+!------------------------------!
+Alles klar, bis später dann.
+!------------------------------!
+OK, ci vediamo!
+!------------------------------!
+De nada. Nos vemos luego.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, não deu em nada.
+!------------------------------!
+C'était une fausse piste.
+!------------------------------!
+Tja, das war wohl
+eine Sackgasse.
+!------------------------------!
+Siamo finiti in un vicolo
+cieco, insomma.
+!------------------------------!
+Bueno, de aquí no sacamos nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É, a gente só descobriu 
+mesmo o nome desse menino.
+!------------------------------!
+Oui... et tout ce qu'on a appris,
+c'est le nom de ce garçon.
+!------------------------------!
+Ja, wir haben nur den Namen
+von dem Typen rausgefunden.
+!------------------------------!
+Sì, tutto quel che abbiamo
+scoperto è stato il nome
+di quel tizio.
+!------------------------------!
+Sí, lo único que hemos
+averiguado ha sido el nombre
+de ese tipo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hora de voltar pra cidade...
+!------------------------------!
+Retournons en ville...
+!------------------------------!
+Zeit, wieder in die Stadt
+zu gehen ...
+!------------------------------!
+Torniamo in città...
+!------------------------------!
+Habrá que volver a la ciudad.
+!------------------------------!
+!******************************!

@@ -1,0 +1,382 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+2:55
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[HDR].2&
+mi/ch/18.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Surely there must be some way to get
+Belle and the master to forgive each
+other...
+!------------------------------!
+Il y a sûrement un moyen de
+réconcilier Belle et le maître.
+Si rien ne change...
+!------------------------------!
+Es muss einen Weg geben, Belle
+und den Herrn zu versöhnen.
+Andernfalls ...
+!------------------------------!
+Ci dev'essere un modo per far
+sì che Belle e il padrone si perdonino...
+Altrimenti...
+!------------------------------!
+Seguro que hay alguna manera de
+conseguir que Bella y el amo
+hagan las paces. Si no...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's that candelabra.
+!------------------------------!
+C'est le chandelier.
+!------------------------------!
+Da ist der Kerzenständer.
+!------------------------------!
+Di nuovo quel candelabro.
+!------------------------------!
+Es ese candelabro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, the one we saw before.
+!------------------------------!
+Oui, celui de l'autre fois.
+!------------------------------!
+Ja, der, den wir schon einmal
+gesehen haben.
+!------------------------------!
+Sì, è lo stesso dell'altra volta.
+!------------------------------!
+Sí, el que hemos visto antes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If they don't...I shall be a table
+decoration forever!
+!------------------------------!
+Je risque de rester une décoration
+de table jusqu'à la fin de mes jours !
+!------------------------------!
+Non! Meine Tage als
+Tischdekoration zu verbringen
+ist unerträglich!
+!------------------------------!
+... dovrò vivere per sempre
+come un misero soprammobile!
+!------------------------------!
+¡No! ¡Pasar el resto de mis
+días como centro de mesa es una
+idea insoportable!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No<E2><80><95>I will speak to Mademoiselle Belle.
+Perhaps she can talk some sense into
+him...
+!------------------------------!
+Je vais parler à mademoiselle Belle.
+Elle parviendra peut-être à le
+ramener à la raison...
+!------------------------------!
+Ich fange mit Belle an. Sie wird
+dem Herrn etwas Verstand
+beibringen ...
+!------------------------------!
+No... Parlerò a Belle. Forse lei
+riuscirà a far ragionare il
+padrone...
+!------------------------------!
+Empezaré por Bella. Ella podrá
+hacer que al amo entre un poco
+en razón...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't get it.
+The candelabra doesn't want to be a
+candelabra?
+!------------------------------!
+Je ne comprends pas...
+Le chandelier ne veut pas être
+un chandelier ?
+!------------------------------!
+Ich kapier's nicht.
+Der Kerzenständer will kein
+Kerzenständer sein?
+!------------------------------!
+Non capisco.
+Il candelabro... non vuole
+essere un candelabro?
+!------------------------------!
+No lo entiendo.
+¿El candelabro no quiere ser un
+candelabro?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So this Belle person lives here in the
+castle.
+!------------------------------!
+Une certaine Belle vit donc ici,
+dans ce château.
+!------------------------------!
+Diese Belle lebt also hier
+im Schloss.
+!------------------------------!
+Abbiamo scoperto che in questo
+castello vive una certa Belle.
+!------------------------------!
+Así que una persona llamada
+Bella vive aquí, en el castillo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He said something about getting her and
+the master to forgive each other.
+I guess they've been arguing.
+!------------------------------!
+Il a parlé de les réconcilier elle et
+le maître. Ils doivent être fâchés.
+!------------------------------!
+Er hat von einer Versöhnung
+gesprochen. Die beiden müssen
+gestritten haben.
+!------------------------------!
+Ha detto di voler far rappacificare
+lei e il padrone. Forse hanno
+litigato.
+!------------------------------!
+Ha dicho algo de conseguir que
+ella y el amo hagan las paces.
+Se habrán estado peleando.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She'd have to be brave to stand up to
+a beast like that.
+!------------------------------!
+Elle doit être drôlement courageuse
+pour affronter un monstre pareil.
+!------------------------------!
+Sie muss ganz schön viel Mut
+haben, es mit so einem Monster
+aufzunehmen.
+!------------------------------!
+Dev'essere molto coraggiosa per
+affrontare un simile mostro. 
+!------------------------------!
+Tiene que ser muy valiente para
+plantar cara a un monstruo así.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're assuming Belle's human.
+!------------------------------!
+Tu penses que Belle est une jeune
+fille ?
+!------------------------------!
+Du setzt voraus, dass sie
+ein Mensch ist.
+!------------------------------!
+Sempre che Belle sia umana.
+!------------------------------!
+Estás dando por supuesto que
+Bella es humana.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So far nobody else seems to be.
+!------------------------------!
+Pourtant, il n'y a aucun être humain
+ici, apparemment.
+!------------------------------!
+Bisher ist das niemand hier.
+!------------------------------!
+Qui non abbiamo trovato ancora
+nessuno che lo sia.
+!------------------------------!
+Y de momento, nadie
+aquí parece serlo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good point.
+!------------------------------!
+Bien vu.
+!------------------------------!
+Guter Punkt.
+!------------------------------!
+Giusto.
+!------------------------------!
+Buena observación.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, we're not here to worry about her.
+Let's find the Heartless we're after.
+!------------------------------!
+On n'est pas là pour se soucier d'elle.
+Trouvons le Sans-cœur que nous
+cherchons.
+!------------------------------!
+Wir sind aber nicht wegen ihr
+hier. Suchen wir den Herzlosen.
+!------------------------------!
+Beh, non siamo venuti fin qui
+per preoccuparci di lei.
+Dobbiamo trovare l'Heartless.
+!------------------------------!
+Bueno, no hemos venido aquí a
+ocuparnos de ella. Demos con ese
+sincorazón que buscamos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+D'accord.
+!------------------------------!
+Stimmt.
+!------------------------------!
+Hai ragione.
+!------------------------------!
+De acuerdo.
+!------------------------------!
+!******************************!

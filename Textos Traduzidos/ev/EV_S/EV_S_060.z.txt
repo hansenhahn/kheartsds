@@ -1,0 +1,578 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Salut, Roxas.
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Ciao, Roxas.
+!------------------------------!
+Hola, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Morning, Xion.
+!------------------------------!
+Bonjour, Xion.
+!------------------------------!
+Morgen, Xion.
+!------------------------------!
+Buongiorno, Xion.
+!------------------------------!
+Buenos días, Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You ready for another day?
+!------------------------------!
+Prêt pour une nouvelle journée ?
+!------------------------------!
+Bereit für einen neuen Tag?
+!------------------------------!
+Pronto a un'altra giornata?
+!------------------------------!
+¿Listo para un día más?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion, Roxas.
+I need you on separate missions today.
+!------------------------------!
+Xion, Roxas.
+J'ai besoin de vous séparément pour
+deux missions différentes aujourd'hui.
+!------------------------------!
+Xion, Roxas.
+Heute müsst ihr auf getrennte
+Missionen gehen.
+!------------------------------!
+Xion, Roxas.
+Oggi vi dividerete.
+!------------------------------!
+Xion, Roxas; hoy os
+necesito en misiones separadas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? Why?
+!------------------------------!
+Quoi ? Mais pourquoi ?
+!------------------------------!
+Was? Wieso?
+!------------------------------!
+Cosa? Perché?
+!------------------------------!
+¿Qué? ¿Pero por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Two major Heartless targets have
+surfaced in two separate worlds.
+!------------------------------!
+Deux Sans-cœur importants sont
+apparus dans deux mondes différents.
+!------------------------------!
+Es sind zwei große Herzlose
+in zwei unterschiedlichen Welten
+aufgetaucht.
+!------------------------------!
+Due Heartless di grande
+importanza sono comparsi
+in due mondi diversi.
+!------------------------------!
+Dos sincorazón muy poderosos han
+aparecido en dos mundos distintos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, you take Beast's Castle.
+Xion, you go to Agrabah.
+!------------------------------!
+Roxas, tu pars pour le Château de
+la Bête. Toi, Xion, tu vas à Agrabah.
+!------------------------------!
+Roxas, du nimmst das Schloss
+des Biestes.
+Xion, du gehst nach Agrabah.
+!------------------------------!
+Roxas, tu ti occuperai del
+Castello della Bestia.
+Xion, tu andrai ad Agrabah.
+!------------------------------!
+Roxas, tú irás al Castillo de Bestia.
+Xion, tú irás a Agrabah.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But how can<E2><80><95>
+Never mind.
+!------------------------------!
+Mais euh...
+Non rien.
+!------------------------------!
+Aber wie kann ...
+Schon gut.
+!------------------------------!
+Ma come...
+Ah, non importa.
+!------------------------------!
+¿Pero cómo...?
+Bueno, no importa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Whoa, you're gonna send Roxas to
+Beast's Castle? I dunno...
+!------------------------------!
+Quoi, tu veux envoyer Roxas tout seul
+dans le Château de la Bête ?
+!------------------------------!
+Ui, du schickst Roxas
+zum Schloss des Biestes?
+Ich weiß ja nicht ...
+!------------------------------!
+Vuoi mandare Roxas al
+Castello della Bestia? Uh...
+!------------------------------!
+¿Qué? ¿Que vas a enviar a Roxas
+al Castillo de Bestia?
+No acabo de verlo claro...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I was just there yesterday for recon,
+remember? I saw the Heartless you're
+talking about.
+!------------------------------!
+J'y suis allé hier en éclaireur, tu te
+souviens ? J'ai vu le Sans-cœur en
+question.
+!------------------------------!
+Ich war gestern dort, weißt du
+noch? Ich habe den Herzlosen
+gesehen, den du meinst.
+!------------------------------!
+Ieri sono stato in ricognizione
+laggiù, ricordi? Ho visto
+quell'Heartless con i miei occhi...
+!------------------------------!
+No olvides que estuve allí ayer en
+una misión de reconocimiento. Pude
+ver al sincorazón del que hablas...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You don't want to pit Roxas against
+that thing. Not by himself.
+!------------------------------!
+Roxas n'est pas capable d'affronter
+cette chose. En tout cas, pas tout
+seul.
+!------------------------------!
+Du kannst Roxas nicht gegen
+das Ding kämpfen lassen.
+Nicht alleine.
+!------------------------------!
+È meglio che Roxas non
+affronti da solo quel mostro.
+!------------------------------!
+Dudo mucho que quieras permiti<EF><BD><92>
+a Roxas enfrentarse a esa cosa.
+No por sí solo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If I send them both, who's going to
+handle the Heartless in Agrabah?
+!------------------------------!
+Si je les envoie tous les deux, qui va
+s'occuper du Sans-cœur à Agrabah ?
+!------------------------------!
+Wenn ich sie beide schicke,
+wer kümmert sich dann
+um den Herzlosen in Agrabah?
+!------------------------------!
+Se li mandassi entrambi,
+chi penserebbe all'Heartless
+di Agrabah?
+!------------------------------!
+Si envío a los dos, ¿quién se hará
+cargo del sincorazón de Agrabah?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I will.
+!------------------------------!
+Moi.
+!------------------------------!
+Ich.
+!------------------------------!
+Io.
+!------------------------------!
+Yo lo haré.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You?
+!------------------------------!
+Toi ?
+!------------------------------!
+Du?
+!------------------------------!
+Tu?
+!------------------------------!
+¿Tú?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sure, I'm a big boy.
+!------------------------------!
+Oui, je suis un grand garçon.
+!------------------------------!
+Klar, ich bin schon groß.
+!------------------------------!
+Certo. Ho le spalle larghe.
+!------------------------------!
+Claro. Soy un chico duro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Except you can't collect hearts.
+!------------------------------!
+Mais tu ne peux pas récupérer
+de cœurs.
+!------------------------------!
+Aber du kannst keine Herzen
+sammeln.
+!------------------------------!
+Ma dimentichi che non puoi
+raccogliere i cuori.
+!------------------------------!
+Pero no puedes recolectar corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So what?
+I'll keep the Heartless out of trouble,
+then they can hit it another day.
+!------------------------------!
+Et alors ? Je vais empêcher le
+Sans-cœur de faire du dégât
+jusqu'à ce qu'ils arrivent.
+!------------------------------!
+Und? Ich pass auf, dass der
+Herzlose keinen Ärger macht und
+sie kümmern sich später um ihn.
+!------------------------------!
+E allora? Allontanerò quel
+mostro, così loro due potranno
+sistemarlo nei prossimi giorni.
+!------------------------------!
+¿Y qué? Al menos evitaré que el
+sincorazón cause problemas. Ellos
+podrán encargarse de él otro día.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is that okay with you, Saïx?
+!------------------------------!
+Ça te va, Saïx ?
+!------------------------------!
+Ist das okay, Saïx?
+!------------------------------!
+Per te va bene, Saïx?
+!------------------------------!
+¿Te parece bien, Saïx?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fine. But this is the last day.
+Starting tomorrow, you both work solo.
+!------------------------------!
+D'accord, mais c'est la dernière fois.
+Dès demain, vous travaillerez chacun
+de votre côté.
+!------------------------------!
+Okay. Aber heute ist euer
+letzter Tag. Ab morgen geht ihr
+allein auf Mission.
+!------------------------------!
+D'accordo. Ma questa sarà
+l'ultima volta. Da domani
+lavorerete da soli.
+!------------------------------!
+De acuerdo. Pero que sea la última vez.
+A partir de mañana trabajáis solos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right.
+!------------------------------!
+D'accord.
+!------------------------------!
+Okay.
+!------------------------------!
+Va bene.
+!------------------------------!
+Vale.
+!------------------------------!
+!******************************!

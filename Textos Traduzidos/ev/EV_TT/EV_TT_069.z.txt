@@ -1,0 +1,430 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/04.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lutou bem.
+!------------------------------!
+Beau combat.
+!------------------------------!
+Gut gekämpft.
+!------------------------------!
+Ben fatto.
+!------------------------------!
+Buen combate.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É?
+!------------------------------!
+Ah oui ?
+!------------------------------!
+Ja?
+!------------------------------!
+Sì?
+!------------------------------!
+¿En serio?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Os membros da Ordem são convocados
+frequentemente para conduzir
+missões solo.
+!------------------------------!
+Il arrive souvent que les membres de
+l'Organisation doivent partir seuls
+en mission.
+!------------------------------!
+Organisationsmitglieder werden oft
+auf Einzelmissionen geschickt.
+!------------------------------!
+I membri dell'Organizzazione
+spesso devono condurre delle
+missioni in solitario.
+!------------------------------!
+A veces la Organización te
+mandará hacer misiones en solitario.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A única pessoa com que pode 
+contar aqui fora é você mesmo.
+!------------------------------!
+Tu ne pourras alors compter que
+sur toi-même.
+!------------------------------!
+Dabei musst du dich
+auf dich selbst verlassen.
+!------------------------------!
+In questo caso l'unica persona
+su cui puoi contare... sei tu.
+!------------------------------!
+La única persona en la que
+puedes confiar es en ti mismo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É, eu reparei. Nngh...
+!------------------------------!
+Je vois...
+!------------------------------!
+Ist mir schon aufgefallen.
+Nngh ...
+!------------------------------!
+Capisco...
+!------------------------------!
+Ya veo. Uf...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você e essa Keyblade são de 
+grande valor para a Ordem.
+!------------------------------!
+Ta Keyblade et toi êtes très précieux
+aux yeux de l'Organisation.
+!------------------------------!
+Du und das Schlüsselschwert
+sind für die Organisation
+von großem Wert.
+!------------------------------!
+Tu e quel Keyblade siete
+fondamentali per
+l'Organizzazione.
+!------------------------------!
+Tu llave espada y tú sois muy
+valiosos para la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Em seu trabalho, contudo, há riscos.
+Cada missão irá colocá-lo contra 
+cada vez mais Heartless.
+!------------------------------!
+Et ton travail comporte des risques.
+Au fil des missions, tu vas devoir
+affronter encore plus de Sans-cœur.
+!------------------------------!
+Deine Aufgabe ist gefährlich.
+Auf jeder Mission wirst du
+auf mehr Herzlose treffen.
+!------------------------------!
+E il tuo incarico però comporta gravi
+rischi. In ogni missione dovrai
+affrontare sempre più Heartless.
+!------------------------------!
+Y tu trabajo es peligroso.
+En cada misión te enfrentarás
+a más y más sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And I have to face them if we're gonna
+complete Kingdom Hearts, right?
+!------------------------------!
+Et je suis censé les vaincre pour
+compléter Kingdom Hearts, c'est ça ?
+!------------------------------!
+Und ich muss sie besiegen,
+um Kingdom Hearts zu
+vervollständigen, ja?
+!------------------------------!
+E io devo sconfiggerli per aiutare a
+completare i Kingdom Hearts, giusto?
+!------------------------------!
+Y debo enfrentarme a ellos
+para completar Kingdom
+Hearts, ¿cierto?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Correto.
+!------------------------------!
+Oui, en effet.
+!------------------------------!
+Genau.
+!------------------------------!
+Esatto.
+!------------------------------!
+Exacto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então o que vai acontecer quando 
+Kingdom Hearts for completado?
+!------------------------------!
+Que se passera-t-il quand ce sera fini
+et que Kingdom Hearts sera entier ?
+!------------------------------!
+Was geschieht,
+wenn Kingdom Hearts
+vollendet ist?
+!------------------------------!
+E che cosa succede quando vengono
+completati i Kingdom Hearts?
+!------------------------------!
+¿Y qué pasará cuando todo esto
+ haya terminado y Kingdom Hearts
+ esté completo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que bem isso vai fazer pra nós?
+!------------------------------!
+À quoi ça nous servira ?
+!------------------------------!
+Was haben wir davon?
+!------------------------------!
+Noi cosa ne ricaviamo?
+!------------------------------!
+¿Qué haremos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nós iremos nos unir a ele.
+Você e eu iremos ganhar
+nossos próprios corações.
+!------------------------------!
+Nous ne ferons qu'un avec lui.
+Toi et moi, nous obtiendrons
+notre propre cœur.
+!------------------------------!
+Wir werden uns mit ihm vereinen.
+Wir werden unsere eigenen
+Herzen bekommen.
+!------------------------------!
+Ci uniremo a essi. Io e te
+avremo dei cuori tutti per noi.
+!------------------------------!
+Nos uniremos a él.
+Y recibiremos nuestros propios
+corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não entendo...
+!------------------------------!
+Je ne comprends pas...
+!------------------------------!
+Das verstehe ich nicht.
+!------------------------------!
+Non capisco...
+!------------------------------!
+No lo entiendo...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quando a hora chegar, você irá.
+!------------------------------!
+Tu comprendras en temps et en heure.
+!------------------------------!
+Das wirst du sehen, wenn es
+so weit ist.
+!------------------------------!
+Capirai tutto, quando
+giungerà il momento.
+!------------------------------!
+A su debido momento, lo harás.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Enquanto isso, há ações a serem
+feitas, e só você pode fazê-las.
+!------------------------------!
+Mais pour le moment, tu dois remplir
+ton devoir et toi seul peux le faire.
+!------------------------------!
+In der Zwischenzeit warten
+viele Taten auf dich, die nur
+von dir bewältigt werden können.
+!------------------------------!
+Nel frattempo abbiamo diverse
+azioni da compiere, e solo tu
+puoi occupartene.
+!------------------------------!
+Mientras tanto, hay misiones que
+cumplir y solo tú puedes hacerlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então precisa de mim.
+!------------------------------!
+Donc vous avez besoin de moi ?
+!------------------------------!
+Ich werde also gebraucht.
+!------------------------------!
+Allora avete bisogno di me.
+!------------------------------!
+Entonces, ¿me necesitáis?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim.
+!------------------------------!
+Oui.
+!------------------------------!
+Ja.
+!------------------------------!
+Sì.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+São boas ações?
+!------------------------------!
+Mais est-ce que ce sont de bonnes
+actions ?
+!------------------------------!
+Sind das auch gute Taten?
+!------------------------------!
+Ma... sono buone azioni?
+!------------------------------!
+¿Son buenas obras?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Boas para a Ordem.
+!------------------------------!
+Pour l'Organisation, oui.
+!------------------------------!
+Gut für die Organisation.
+!------------------------------!
+Sì, almeno per la nostra
+Organizzazione.
+!------------------------------!
+Lo son para la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá...
+!------------------------------!
+Ah, je vois...
+!------------------------------!
+Okay ...
+!------------------------------!
+OK...
+!------------------------------!
+Ya veo...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Devemos retornar.
+!------------------------------!
+Allez, on devrait rentrer.
+!------------------------------!
+Wir sollten zurückkehren.
+!------------------------------!
+Ora dobbiamo rientrare.
+!------------------------------!
+Deberíamos regresar.
+!------------------------------!
+!******************************!

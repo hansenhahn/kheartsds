@@ -1,0 +1,297 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Graaaaaaaaaugh!
+!------------------------------!
+Grrrrrrrr !
+!------------------------------!
+Graaaaaauhhh!
+!------------------------------!
+Graaaaaaaaaugh!
+!------------------------------!
+¡Graaaaaaaaaugh!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The last rose petal is about to fall...
+When it does, I'll lose<E2><80><95>
+!------------------------------!
+Le dernier pétale de cette rose va
+bientôt tomber. Et alors, je perdrai...
+!------------------------------!
+Ich ... Ich will ihn zurück!
+!------------------------------!
+Io... lo rivoglio indietro!
+!------------------------------!
+¡Quiero... quiero recuperarlo!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No! I can't bear it<E2><80><95>I don't even want
+to think about it!
+!------------------------------!
+Non ! C'est hors de question !
+Je ne veux même pas y penser !
+!------------------------------!
+Gib mir meinen Körper zurück!
+Ich brauche Zeit. Mehr Zeit,
+als diese Rose gewährt!
+!------------------------------!
+Ridatemi il mio corpo!
+Ho bisogno di tempo, più di
+quanto la rosa possa darmene!
+!------------------------------!
+¡Quiero mi cuerpo!... Necesito
+tiempo. ¡Más tiempo del que esa
+rosa me dará!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The rose?
+!------------------------------!
+Un pétale de rose ?
+!------------------------------!
+Die Rose?
+!------------------------------!
+La rosa?
+!------------------------------!
+¿La rosa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How fascinating. Then his beastly form
+must be tied to it somehow.
+!------------------------------!
+Fascinant ! Sa transformation a
+donc un rapport avec cette rose.
+!------------------------------!
+Faszinierend. Seine monströse
+Gestalt scheint irgendwie
+an sie gebunden zu sein.
+!------------------------------!
+Interessante. La sua forma
+mostruosa deve essere legata
+alla rosa.
+!------------------------------!
+Fascinante. Entonces, su forma
+de bestia debe de estar unida a
+ella de algún modo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's related to the spell?
+!------------------------------!
+Elle serait liée au sortilège ?
+!------------------------------!
+Steht sie in Verbindung
+mit dem Zauber?
+!------------------------------!
+La rosa c'entra qualcosa
+con l'incantesimo?
+!------------------------------!
+¿Está relacionada
+con el hechizo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes. It seems if he doesn't complete
+some task in the rose's lifetime, he
+stays a beast.
+!------------------------------!
+Oui. Et on dirait que s'il n'accomplit
+pas une certaine tâche avant qu'elle
+ne flétrisse, il restera une bête à jamais.
+!------------------------------!
+Ja. Er muss wohl in der Lebenszeit
+der Rose eine Aufgabe erfüllen
+oder für immer ein Biest bleiben.
+!------------------------------!
+Sì. Se la Bestia non conclude alcune
+cose prima che la rosa muoia,
+non riacquisterà le sue sembianze umane.
+!------------------------------!
+Sí. Parece que, si no completa
+alguna tarea en la vida de la
+rosa, seguirá siendo una bestia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+One of his servants did mention
+something about time running out.
+!------------------------------!
+Mais oui ! L'un de ses domestiques
+a dit que le temps pressait.
+!------------------------------!
+Einer seiner Diener sagte,
+die Zeit laufe ab.
+!------------------------------!
+Uno dei suoi servitori ha detto
+che il tempo sta per scadere.
+!------------------------------!
+Uno de sus criados dijo algo de
+que se acababa el tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The key to his cursed form...
+Heh heh, this morsel will prove useful.
+!------------------------------!
+La clé de sa transformation...
+Hé, hé, ça nous sera utile.
+!------------------------------!
+Der Schlüssel zu dem Fluch ...
+Hi, hi, diese Info wird sich sicher
+noch als nützlich erweisen.
+!------------------------------!
+La chiave della sua forma
+mostruosa... Eh eh, questo
+potrebbe tornarci utile.
+!------------------------------!
+La clave de su forma maldita...
+Je, je. Este dato resultará
+útil.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you mean?
+!------------------------------!
+Comment ça ?
+!------------------------------!
+Was meinst du?
+!------------------------------!
+In che senso?
+!------------------------------!
+¿Qué quieres decir?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'd only waste my time attempting to
+explain it to you. Come along. We must
+return.
+!------------------------------!
+Je perdrais mon temps à essayer de
+t'expliquer. Allez, on rentre.
+!------------------------------!
+Zu versuchen, es dir zu erklären,
+wäre reine Zeitverschwendung.
+Komm. Wir müssen zurück.
+!------------------------------!
+Cercare di spiegartelo sarebbe
+solo una perdita di tempo.
+Avanti, torniamo indietro.
+!------------------------------!
+Perdería el tiempo intentando
+explicártelo. Vamos, debemos
+volver.
+!------------------------------!
+!******************************!

@@ -1,0 +1,1255 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+2:23
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Olha lá ele!
+!------------------------------!
+Le voilà !
+!------------------------------!
+Da ist er!
+!------------------------------!
+Eccolo!
+!------------------------------!
+¡Ahí va!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu pego!
+!------------------------------!
+Je vais l'attraper !
+!------------------------------!
+Ich krieg ihn noch!
+!------------------------------!
+Lo prendo io!
+!------------------------------!
+¡Yo lo cojo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huff, huff...
+Por que... temos que brincar...
+com algo que involve correr?
+!------------------------------!
+Pff, pff...
+Pourquoi... est-ce qu'on... joue toujours
+à des jeux... où il faut courir ?
+!------------------------------!
+<3C>Schnauf, schnauf<3E>... Warum ...
+müssen wir Spiele spielen ...
+bei denen man laufen muss?
+!------------------------------!
+Uff, uff... Perché dobbiamo
+fare sempre dei giochi...
+in cui bisogna correre...?
+!------------------------------!
+Uf, uf...
+¿Por qué... jugamos a cosas...
+en las que hay que... correr?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não vai fugir!
+Pega ele!
+!------------------------------!
+Tu nous échapperas pas !
+Sur lui !
+!------------------------------!
+Du entkommst mir nicht!
+Hinterher!
+!------------------------------!
+Non ci sfuggirai!
+Seguiamolo!
+!------------------------------!
+¡No te escaparás!
+¡A por él!
+!------------------------------!
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que bom te encontrar aqui.
+!------------------------------!
+Je suis étonné de te trouver ici
+dis donc !
+!------------------------------!
+Was für ein Zufall, dich hier
+zu treffen.
+!------------------------------!
+È strano incontrarti qui.
+!------------------------------!
+Me alegro de verte aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oi, Axel.
+!------------------------------!
+Salut, Axel.
+!------------------------------!
+Hey, Axel.
+!------------------------------!
+Ehi, Axel.
+!------------------------------!
+Eh, Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aah, dormi como uma pedra.
+!------------------------------!
+Ah... j'ai dormi comme un bébé moi !
+!------------------------------!
+Puh, ich hab wie ein Stein
+geschlafen.
+!------------------------------!
+Uff, ho dormito come un sasso.
+!------------------------------!
+Uf, he dormido como una marmota.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que tá rolando lá em baixo?
+As crianças tão nas férias de verão?
+... Nah, nã dá. É muito cedo ainda.
+!------------------------------!
+Qu'est-ce qui se passe en bas ?
+Les gamins sont en vacances d'été ?
+C'est encore trop tôt pourtant...
+!------------------------------!
+Was ist los? Sind die Kinder
+hier in den Sommerferien?
+Nein, dazu ist es zu früh.
+!------------------------------!
+Che succede? I ragazzini stanno
+facendo le vacanze estive?
+Nah, è ancora troppo presto.
+!------------------------------!
+¿Qué pasa aquí? ¿Han llegado
+las vacaciones de verano para
+los niños? Imposible, es muy pronto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Férias de verão?
+O que é isso?
+!------------------------------!
+Les vacances d'été ?
+C'est quoi ?
+!------------------------------!
+Sommerferien?
+Was ist das?
+!------------------------------!
+Vacanze estive?
+Cosa sarebbero?
+!------------------------------!
+¿Vacaciones de verano?
+¿Y eso qué es?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um sonho que se realiza, é isso o que é.
+Um mês inteiro livre.
+!------------------------------!
+Le bonheur, voilà ce que c'est !
+Un mois de libre !
+!------------------------------!
+Ein wahr gewordener Traum ...
+ein ganzer Monat frei.
+!------------------------------!
+Un sogno che diventa realtà...
+Un intero mese di vacanza.
+!------------------------------!
+Un sueño hecho realidad.
+Un mes entero sin trabajar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um mês?!
+!------------------------------!
+Un mois ?
+!------------------------------!
+Ein Monat!?
+!------------------------------!
+Un mese?!?
+!------------------------------!
+¡¿Un mes?!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E como fazem pra não ficar loucos?
+!------------------------------!
+Comment font-ils pour ne pas devenir
+fous ?
+!------------------------------!
+Sind die noch ganz bei Trost?
+!------------------------------!
+Come fanno a resistere?
+!------------------------------!
+¿Y cómo hacen para
+no volverse locos?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nem sei como passar um dia livre.
+!------------------------------!
+Je ne sais même pas quoi faire
+d'un jour de libre.
+!------------------------------!
+Ich weiß ja nicht einmal etwas
+mit einem freien Tag anzufangen.
+!------------------------------!
+Io faccio fatica a riempire
+una sola giornata di vacanza.
+!------------------------------!
+Yo no sé ni cómo ocupar un día.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, eles recebem uma ajudinha.
+Os professores dão um monte de
+deveres de casa.
+!------------------------------!
+Ben, ils sont un peu aidés faut dire.
+Leurs professeurs leur donnent
+plein de devoirs.
+!------------------------------!
+Da schaffen die Lehrer schon
+Abhilfe, sie verteilen
+jede Menge Hausaufgaben.
+!------------------------------!
+Beh, a questo ci pensano i loro
+insegnanti, che li sommergono
+letteralmente di compiti.
+!------------------------------!
+Bueno, tienen un poco de ayuda.
+Sus profesores les ponen
+muchos deberes.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pode crer, acaba sem você se dar conta.
+!------------------------------!
+Entre ça et le fait de prendre du bon
+temps, les vacances passent vite.
+!------------------------------!
+Vertrau mir, sie sind schneller
+vorbei, als du blinzeln kannst.
+!------------------------------!
+In questo modo le vacanze
+finiscono senza che tu te
+ne accorga.
+!------------------------------!
+En serio, pasan sin
+que te des cuenta.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+Eu poderia passar uma semana, talvez.
+!------------------------------!
+Hmm...
+Je pourrais peut-être le supporter
+pendant une semaine.
+!------------------------------!
+Hm ...
+Mit einer Woche könnte ich
+vielleicht klarkommen.
+!------------------------------!
+Mmm...
+Forse potrei resistere al
+massimo una settimana.
+!------------------------------!
+Mmm... Quizá podría
+soportarlo una semana.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Boa parte das crianças passam suas
+férias de verão só à toa com os amigos.
+!------------------------------!
+La plupart des enfants passent
+leurs vacances à jouer.
+!------------------------------!
+Die meisten Kinder hängen
+die ganzen Sommerferien
+nur mit ihren Freunden herum.
+!------------------------------!
+Quasi tutti i ragazzini
+trascorrono le vacanze estive
+a oziare con gli amici.
+!------------------------------!
+La mayoría de los niños pasa
+las vacaciones haciendo el
+tonto con sus amigos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eles deixam o dever de casa 'té o 
+final e aí se ajudam pra terminar.
+!------------------------------!
+Ils gardent les devoirs jusqu'au
+dernier moment et ils s'entraident
+à la fin.
+!------------------------------!
+Sie sparen sich die Hausaufgaben
+bis zuletzt auf und helfen sich
+dann gegenseitig.
+!------------------------------!
+Non fanno i compiti subito, ma
+li finiscono insieme appena
+prima che riprenda la scuola.
+!------------------------------!
+Dejan los deberes para el final
+y luego se ayudan unos a otros
+para acabarlos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Parece divertido, eu acho.
+!------------------------------!
+Ça doit être sympa.
+!------------------------------!
+Hört sich nach Spaß an.
+!------------------------------!
+Sembra divertente.
+!------------------------------!
+Parece divertido...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É. Eu não pensava muito nisso 
+desde que virei um Nobody.
+!------------------------------!
+Oui. Je n'y avais pas vraiment repensé
+depuis que je suis devenu un Simili.
+!------------------------------!
+Ja. Ich habe gar nicht mehr
+daran gedacht, seit ich
+ein Niemand bin.
+!------------------------------!
+Già. Non ci avevo mai pensato,
+da quando sono un Nessuno.
+!------------------------------!
+Sí. No había pensado mucho en
+ello desde que me convertí en
+un incorpóreo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então como cê passaria o dia?
+!------------------------------!
+Qu'est-ce que tu faisais toi
+pendant tes vacances ?
+!------------------------------!
+Und was hast du heute so gemacht?
+!------------------------------!
+Allora, come hai trascorso
+la giornata?
+!------------------------------!
+¿Cómo pasarías tú el día?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, pessoal.
+Por que eu sabia que estariam aqui?
+!------------------------------!
+Salut, les garçons.
+Je ne m'attendais vraiment pas
+à vous trouver ici dites donc !
+!------------------------------!
+Hey, Leute.
+Woher wusste ich, dass ihr
+hier seid?
+!------------------------------!
+Ehi, ragazzi.
+Sapevo che vi avrei trovati qui.
+!------------------------------!
+Eh, chicos.
+Sabía que estaríais aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então, acabou indo a algum lugar?
+!------------------------------!
+T'es allée quelque part finalement ?
+!------------------------------!
+Und, warst du unterwegs?
+!------------------------------!
+Alla fine sei andata da
+qualche parte?
+!------------------------------!
+¿Qué, has ido a alguna parte?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não... por quê? 
+Vocês foram a algum lugar sem mim?
+!------------------------------!
+Non, pourquoi ?
+Vous êtes allés quelque part
+sans moi ?
+!------------------------------!
+Nein ... wieso?
+Wart ihr irgendwo ohne mich?
+!------------------------------!
+No... perché?
+Avete fatto qualcosa senza di
+me?
+!------------------------------!
+No... ¿Por qué?
+¿Vosotros habéis ido a alguna
+parte sin mí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel foi.
+Foi pra cama.
+!------------------------------!
+Axel oui.
+Il est allé au lit.
+!------------------------------!
+Axel.
+Er hat sich hingelegt.
+!------------------------------!
+Axel sì.
+Ha dormito tutto il giorno.
+!------------------------------!
+Axel sí ha ido.
+A dormir.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha ha!
+Que férias são essas?
+!------------------------------!
+Ha, ha, ha !
+C'est quoi ce genre de vacances ?
+!------------------------------!
+Ha, ha, ha!
+Was ist das denn für ein Urlaub?
+!------------------------------!
+Ah ah ah!
+Non è il modo di passare
+una vacanza!
+!------------------------------!
+¡Ja, ja, ja!
+¿Qué clase de vacaciones
+son ésas?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, diferente dos dois preguiçosos,
+eu trabalhei duro pra caramba!
+!------------------------------!
+Contrairement à vous deux, moi
+je bosse comme un acharné !
+!------------------------------!
+Hey, im Gegensatz zu euch
+Faulpelzen streng ich mich
+ganz schön an!
+!------------------------------!
+Ehi, io lavoro parecchio, a
+differenza di voi scansafatiche!
+!------------------------------!
+¡Eh, a diferencia de vosotros,
+so vagos, yo trabajo mucho!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha, talvez só esteja fora de forma!
+!------------------------------!
+Bah, t'es un vieux pépé, c'est tout !
+!------------------------------!
+Ha, vielleicht bis du ja nicht
+in Form!
+!------------------------------!
+Ah, forse sei solo fuori forma!
+!------------------------------!
+Ja, será que no estás en forma.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É... de volta ao trabalho amanhã.
+!------------------------------!
+On reprend le travail demain.
+!------------------------------!
+Morgen geht's wieder
+an die Arbeit.
+!------------------------------!
+Domani si torna al lavoro.
+!------------------------------!
+Mañana volvemos al trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É...
+!------------------------------!
+Oui...
+!------------------------------!
+Ja ...
+!------------------------------!
+Già...
+!------------------------------!
+Sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espero que a gente tenha 
+outras férias logo.
+!------------------------------!
+J'espère qu'on aura droit à d'autres
+vacances bientôt.
+!------------------------------!
+Ich hoffe, wir bekommen bald
+wieder Urlaub.
+!------------------------------!
+Spero che ci concederanno
+presto un'altra vacanza.
+!------------------------------!
+A ver cuándo vuelven
+las vacaciones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, antes que eu esqueça... 
+Talvez eu não veja os dois 
+por um tempinho.
+!------------------------------!
+Oh, avant que j'oublie... je ne vous
+reverrai peut-être pas avant un
+bon bout de temps.
+!------------------------------!
+Oh, bevor ich's vergesse ...
+Wir werden uns wohl eine Weile
+nicht sehen.
+!------------------------------!
+Ah, dimenticavo... Forse non
+ci vedremo per un po'.
+!------------------------------!
+Oh, antes de que se me olvide...
+Puede que no nos veamos
+en algún tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã? Por quê?
+!------------------------------!
+Hein ? Pourquoi ça ?
+!------------------------------!
+Was? Warum nicht?
+!------------------------------!
+Uh? Perché?
+!------------------------------!
+¿Eh? ¿Y eso?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vão me enviar prum recon por uns dias.
+!------------------------------!
+Ils m'envoient quelques jours
+en reconnaissance.
+!------------------------------!
+Sie schicken mich ein paar Tage
+auf Aufklärungsmission.
+!------------------------------!
+Mi mandano in ricognizione
+per qualche giorno.
+!------------------------------!
+Me envían a una misión de
+reconocimiento de varios
+días de duración.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Onde?
+!------------------------------!
+Où ça ?
+!------------------------------!
+Wohin?
+!------------------------------!
+Dove?
+!------------------------------!
+¿Dónde?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não posso dizer.
+!------------------------------!
+Je ne peux pas le dire.
+!------------------------------!
+Darf ich nicht sagen.
+!------------------------------!
+Non posso dirtelo.
+!------------------------------!
+No puedo decirlo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que quer dizer com <E2><80><9C>não posso dizer<E2><80><9D>?
+!------------------------------!
+C'est quoi cette histoire ?
+!------------------------------!
+Was soll das heißen?
+!------------------------------!
+Come sarebbe a dire?
+!------------------------------!
+¿Qué quieres decir con eso?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É confidencial.
+!------------------------------!
+C'est classé secret défense.
+!------------------------------!
+Es ist geheim.
+!------------------------------!
+Sono informazioni riservate.
+!------------------------------!
+Que es información clasificada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas pensei que a gente fosse amigos.
+!------------------------------!
+Mais je pensais qu'on était amis ?
+!------------------------------!
+Aber ich dachte,
+wir wären Freunde.
+!------------------------------!
+Ma pensavo fossimo amici.
+!------------------------------!
+Pero creía que éramos amigos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, não vou ficar contando TODOS meus
+segredos obscuros. Gardou na memória?
+Aposto que guarda umas coisinhas de mim.
+!------------------------------!
+Je vois pas pourquoi je devrais vous
+dire tous mes secrets. Vous devez
+me cacher des choses vous aussi.
+!------------------------------!
+Hey, ich werde dir nicht ALL
+meine Geheimnisse verraten.
+Du hast doch bestimmt auch welche. 
+!------------------------------!
+Non posso confidarvi TUTTI i
+miei segreti oscuri. Capito?
+Di sicuro ne avete anche voi.
+!------------------------------!
+Eh, no voy a contaros todos mis
+secretos. ¿Memorizado? Seguro
+que también me ocultáis cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não tenho nenhum segredo obscuro.
+!------------------------------!
+Je n'ai pas de secrets moi.
+!------------------------------!
+Ich habe keine Geheimnisse.
+!------------------------------!
+Io non ho alcun "segreto
+oscuro".
+!------------------------------!
+Yo no tengo secretos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha, relaxa, beleza?
+Tô brincando.
+!------------------------------!
+Ha, ha, détends-toi, tu veux ?
+Je plaisante.
+!------------------------------!
+Ha, ha, entspann dich, ja?
+Ist nur Spaß.
+!------------------------------!
+Ah ah, tranquillo, Roxas!
+Stavo scherzando.
+!------------------------------!
+Ja, ja. Relájate, ¿vale?
+Era una broma.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Só tenho que ficar de boca calada,
+ou senão Saïx vai pegar no meu pé.
+!------------------------------!
+Je ne dois rien dire sinon Saïx
+va s'occuper de mon cas.
+!------------------------------!
+Ich muss den Mund halten, sonst
+bekomme ich Ärger mit Saïx.
+!------------------------------!
+Il fatto è che devo tenere la
+bocca cucita, altrimenti dovrò
+vedermela con Saïx.
+!------------------------------!
+Si abro el pico en este asunto,
+Saïx me crucifica.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sabe como ele é.
+!------------------------------!
+Vous savez comment il peut être
+des fois.
+!------------------------------!
+Du kennst ihn.
+!------------------------------!
+Sai com'è lui.
+!------------------------------!
+Ya sabéis cómo es.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He, é.
+!------------------------------!
+Ça oui.
+!------------------------------!
+He, ja.
+!------------------------------!
+Eh, certo.
+!------------------------------!
+Sí, ya.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tenta não estragar nada 
+enquanto eu tiver fora.
+!------------------------------!
+Essayez de pas tout bousiller
+pendant mon absence.
+!------------------------------!
+Vermasselt nicht alles,
+während ich weg bin.
+!------------------------------!
+Cercate di non combinare guai
+mentre sono via.
+!------------------------------!
+Intentad no liarlo todo mientras
+estoy fuera.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E quem disse que vamos fazer isso?
+!------------------------------!
+Pourquoi on ferait ça ?
+!------------------------------!
+Warum sollten wir das?
+!------------------------------!
+Per chi ci hai preso?
+!------------------------------!
+¿Y eso a qué viene?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, levando em conta seu histórico...
+!------------------------------!
+Ben, vu vos états de service...
+!------------------------------!
+Na, bei euren bisherigen
+Leistungen ...
+!------------------------------!
+Beh, considerando i
+vostri trascorsi...
+!------------------------------!
+Bueno, teniendo en cuenta
+vuestro historial... 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei!
+Não me faça ir até aí!
+!------------------------------!
+Oh, tais-toi !
+!------------------------------!
+Hey!
+Ich komm gleich mal rüber!
+!------------------------------!
+Pft, pensa per te!
+!------------------------------!
+¡Eh!
+¡No me hagas ir!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

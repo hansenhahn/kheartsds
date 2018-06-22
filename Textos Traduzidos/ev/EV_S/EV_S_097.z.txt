@@ -1,0 +1,555 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, about Xion...
+!------------------------------!
+Axel, à propos de Xion...
+!------------------------------!
+Axel, wegen Xion ...
+!------------------------------!
+Axel, riguardo a Xion...
+!------------------------------!
+Axel, con respecto a Xion...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx told me what happened this
+morning.
+!------------------------------!
+Saïx m'a raconté ce qu'il s'est
+passé ce matin.
+!------------------------------!
+Saïx hat mir erzählt, was heute
+Morgen passiert ist.
+!------------------------------!
+Stamattina Saïx mi ha detto
+cosa è successo.
+!------------------------------!
+Saïx me ha contado lo sucedido
+esta mañana.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why does he hate her so much?
+!------------------------------!
+Pourquoi est-ce qu'il la déteste
+autant ?
+!------------------------------!
+Warum hasst er sie so?
+!------------------------------!
+Perché la odia tanto?
+!------------------------------!
+¿Por qué la odia tanto?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Listen to you.
+!------------------------------!
+Écoute-toi.
+!------------------------------!
+Du solltest dich mal hören.
+!------------------------------!
+Ma ti sei sentito?
+!------------------------------!
+¿Pero tú te oyes?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How come you do that?
+Talk like you're a real person.
+!------------------------------!
+Tu parles comme si tu étais une
+vraie personne.
+!------------------------------!
+Wieso tust du das?
+Reden, als wärst du
+eine normale Person.
+!------------------------------!
+Come fai? Parli come se
+fossi una persona vera.
+!------------------------------!
+¿Cómo puedes ser así?
+Hablas como una persona.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why? What did I say?
+!------------------------------!
+Quoi ? Qu'est-ce que j'ai dit ?
+!------------------------------!
+Warum?
+Was hab ich denn gesagt?
+!------------------------------!
+Cosa? Perché?
+!------------------------------!
+¿Por qué? ¿Qué he dicho?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know how real people talk.
+!------------------------------!
+Je ne sais pas comment parlent
+les vrais gens.
+!------------------------------!
+Ich weiß nicht,
+wie normale Leute reden.
+!------------------------------!
+Io non so come parlano
+le persone vere.
+!------------------------------!
+No sé cómo habla la gente real.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I mean, sometimes you sound like you
+really are heartsick or something.
+!------------------------------!
+Parfois, on a l'impression que tu
+as mal au cœur.
+!------------------------------!
+Ich meine, manchmal hörst du
+dich echt an, als wärst du
+verzweifelt oder so.
+!------------------------------!
+Voglio dire che a volte sembri...
+parlare con il cuore.
+!------------------------------!
+A veces es como si sintieras
+nostalgia, o algo así.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+When I saw her lying there...
+I couldn't stop thinking that she'll
+never wake up.
+!------------------------------!
+Quand je l'ai vue allongée là...
+je me suis dit qu'elle n'allait
+peut-être jamais se réveiller.
+!------------------------------!
+Als ich sie da hab liegen
+sehen ... hatte ich Angst, sie
+würde nie wieder aufwachen.
+!------------------------------!
+Da quando l'ho vista in quel
+modo... non ho smesso di pensare
+che lei non si risveglierà più.
+!------------------------------!
+Cuando la vi ahí tumbada...
+No podía dejar de pensar que
+nunca despertaría.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She will.
+!------------------------------!
+Elle le fera.
+!------------------------------!
+Das wird sie sicher.
+!------------------------------!
+Lo farà.
+!------------------------------!
+Lo hará.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx called her <E2><80><9C>broken.<E2><80><9D>
+!------------------------------!
+Saïx a dit qu'elle était <E2><80><9C>cassée<E2><80><9D>.
+!------------------------------!
+Saïx hat gesagt, sie wäre <E2><80><9E>kaputt<E2><80><9C>.
+!------------------------------!
+Saïx ha detto che è "difettosa".
+!------------------------------!
+Saïx dijo que estaba "rota".
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+Hm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, if it cheers you up, I'm probably
+a lot more broken than her.
+!------------------------------!
+Si ça peut te rassurer, je suis
+sûrement beaucoup plus cassé
+qu'elle.
+!------------------------------!
+Wenn dich das aufheitert,
+ich bin wahrscheinlich viel
+kaputter als sie.
+!------------------------------!
+Beh, se può consolarti, forse io
+sono molto più difettoso di lei.
+!------------------------------!
+Bueno, por si te sirve de algo,
+probablemente yo lo esté
+aún más que ella.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx knows something about her.
+!------------------------------!
+Saïx sait quelque chose sur elle.
+!------------------------------!
+Saïx weiß etwas über sie.
+!------------------------------!
+Saïx sa molte cose su Xion.
+!------------------------------!
+Saïx sabe algo sobre ella.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why me and her are special Nobodies.
+!------------------------------!
+Il sait pourquoi elle et moi sommes
+des Simili spéciaux.
+!------------------------------!
+Warum sie und ich
+besondere Niemande sind.
+!------------------------------!
+Ad esempio, perché io e Xion
+siamo dei Nessuno speciali.
+!------------------------------!
+Por qué somos
+incorpóreos especiales.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well...
+!------------------------------!
+Hmm...
+!------------------------------!
+Tja ...
+!------------------------------!
+Beh...
+!------------------------------!
+Bien...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If it's gonna keep you up at night,
+I could ask him for you.
+!------------------------------!
+Je vais lui poser la question
+si tu veux.
+!------------------------------!
+Ich kann ihn ja mal fragen,
+wenn es dir sogar schlaflose
+Nächte bereitet.
+!------------------------------!
+Se questo dubbio non ti fa dormire
+la notte, potrei chiederlo a lui.
+!------------------------------!
+Si te va a quitar el sueño,
+puedo preguntárselo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really!?
+!------------------------------!
+C'est vrai ?
+!------------------------------!
+Echt!?
+!------------------------------!
+Davvero?!?
+!------------------------------!
+¿De verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes, really! Sheesh, sit down.
+I'll ask, but don't get your hopes up.
+!------------------------------!
+Oui, oui ! Allez, assieds-toi.
+Je vais lui demander, mais
+ne sois pas trop optimiste.
+!------------------------------!
+Ja, echt! Mensch, setz dich hin.
+Ich werde fragen, aber mach dir
+keine großen Hoffnungen.
+!------------------------------!
+Sì, davvero! Dai, siediti.
+Parlerò con lui, ma non
+posso garantirti niente.
+!------------------------------!
+¡Sí, de verdad! Eh, calma.
+Se lo preguntaré,
+pero no te emociones.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Straight answers aren't exactly his
+specialty.
+!------------------------------!
+Il n'est pas du genre à donner
+des réponses claires.
+!------------------------------!
+Klare Antworten sind nicht
+gerade seine Spezialität.
+!------------------------------!
+Le risposte dirette non sono
+la sua specialità.
+!------------------------------!
+Las respuestas claras no son lo
+que se dice su especialidad.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He's more likely to tell you than he is
+me.
+!------------------------------!
+En tout cas, il y a plus de chances
+pour qu'il te réponde à toi.
+!------------------------------!
+Wahrscheinlich würde er es eher
+dir erzählen als mir.
+!------------------------------!
+Lo so, ma con me non
+parlerebbe mai.
+!------------------------------!
+Es más probable que te lo
+cuente a ti que a mí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+True.
+!------------------------------!
+C'est vrai.
+!------------------------------!
+Stimmt.
+!------------------------------!
+È vero.
+!------------------------------!
+Cierto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I just hope she wakes up soon.
+!------------------------------!
+J'espère qu'elle va se réveiller
+bientôt.
+!------------------------------!
+Hoffentlich wacht sie bald
+wieder auf.
+!------------------------------!
+Spero che si svegli presto.
+!------------------------------!
+Espero que despierte pronto.
+!------------------------------!
+!******************************!

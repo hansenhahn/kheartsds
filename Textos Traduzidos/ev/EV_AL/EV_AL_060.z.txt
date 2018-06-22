@@ -1,0 +1,105 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+1:9
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, who are you bozos!?
+!------------------------------!
+Vous êtes qui, vous ?
+!------------------------------!
+Hey, wer seid ihr Trottel!?
+!------------------------------!
+Ehi, voi chi diavolo siete?!
+!------------------------------!
+Eh, ¿quiénes sois vosotros,
+tipejos?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph!
+Here for the magic lamp, are ya?
+!------------------------------!
+Vous cherchez la lampe magique,
+c'est ça ?
+!------------------------------!
+Hmpf!
+Du bist wegen der magischen
+Lampe hier, oder?
+!------------------------------!
+Umpf!
+Siete qui per la lampada
+magica, eh?!
+!------------------------------!
+¡Buf! ¿Habéis venido a por la
+lámpara maravillosa, verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't try and play dumb with me!
+!------------------------------!
+Jouez pas aux idiots avec moi !
+!------------------------------!
+Hör auf, dich dumm zu stellen!
+!------------------------------!
+Non fare il finto tonto!
+!------------------------------!
+¡No te hagas el tonto conmigo!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You listen up an' listen good!
+That lamp is official property of Pete<E2><80><95>
+that's me! Ya got it?
+!------------------------------!
+Écoutez-moi bien ! Cette lampe
+appartient officiellement à Pat
+Hibulaire, c'est clair ?
+!------------------------------!
+Hört mir gut zu! Die Lampe
+ist offizielles Eigentum
+von Karlo ... mir, verstanden?
+!------------------------------!
+Apri bene le orecchie!
+Quella lampada appartiene
+a Pietro, che sono io, intesi?
+!------------------------------!
+¡Escuchadme bien! Esta
+lámpara es propiedad de
+Pete... ¡mía! ¿Entendido?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So you goons can keep your dirty mitts
+off!
+!------------------------------!
+Alors venez pas mettre vos sales
+pattes dessus !
+!------------------------------!
+Haltet also eure dreckigen Pfoten
+fern!
+!------------------------------!
+Non osate toccarla con le
+vostre luride manacce!
+!------------------------------!
+¡Así que apartad vuestras
+sucias manazas, renacuajos!
+!------------------------------!
+!******************************!

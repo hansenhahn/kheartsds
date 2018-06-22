@@ -1,0 +1,53 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/26.z
+!******************************!
+&.[HDR].2&
+mi/ch/1A.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It'll cause a big scene if we're spotted.
+Let's find another way around.
+!------------------------------!
+Ce sera un fiasco si on nous voit.
+Trouvons un autre chemin.
+!------------------------------!
+Wenn sie uns sehen, gibt's
+Theater. Suchen wir einen
+Weg drum herum.
+!------------------------------!
+Se ci scoprissero, potremmo ritrovarci in
+un bel guaio. Prendiamo un'altra strada.
+!------------------------------!
+Vaya escenita si nos vieran.
+Busquemos otro camino de vuelta.
+!------------------------------!
+!******************************!

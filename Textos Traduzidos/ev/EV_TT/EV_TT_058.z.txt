@@ -1,0 +1,109 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0A.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Esses são o que chamamos 
+de Heartless-Emblema.
+!------------------------------!
+Ceux-là étaient ce qu'on appelle des
+Sans-cœur emblèmes.
+!------------------------------!
+Die nennen wir Emblem-Herzlose.
+!------------------------------!
+Quelli erano i cosiddetti
+Heartless Emblema.
+!------------------------------!
+Esas criaturas son
+sincorazón emblemáticos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que eles são tão especiais?
+!------------------------------!
+Qu'est-ce qu'ils ont de spécial ?
+!------------------------------!
+Was ist das Besondere
+an denen?
+!------------------------------!
+Che hanno di speciale?
+!------------------------------!
+¿Por qué son tan especiales?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não reparou?
+Corações apareceram quando 
+você os derrotou.
+!------------------------------!
+Tu as vu, des cœurs sont apparus
+quand tu les as vaincus, non ?
+!------------------------------!
+Hast du gesehen? Als du sie
+besiegt hast, sind Herzen
+erschienen.
+!------------------------------!
+Sono apparsi dei cuori quando
+li hai sconfitti. L'hai notato?
+!------------------------------!
+¿Te has fijado? Cuando los
+derrotas, aparecen corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É...
+!------------------------------!
+Oui.
+!------------------------------!
+Stimmt ...
+!------------------------------!
+Giusto...
+!------------------------------!
+Ya...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Seu trabalho é coletar esses corações.
+!------------------------------!
+Ton travail à toi consiste à récupérer
+ces cœurs.
+!------------------------------!
+Deine Aufgabe ist es,
+diese Herzen zu sammeln.
+!------------------------------!
+Il tuo compito è quello
+di raccogliere cuori.
+!------------------------------!
+Tu tarea es recogerlos.
+!------------------------------!
+!******************************!

@@ -1,0 +1,571 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nice work.
+That's a good run for one day.
+!------------------------------!
+Beau travail.
+C'est tout pour aujourd'hui.
+!------------------------------!
+Gute Arbeit.
+Das reicht für heute.
+!------------------------------!
+Ottimo lavoro.
+Per oggi può bastare.
+!------------------------------!
+Buen trabajo.
+Ha sido un buen tute por un día.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I gotta tell ya, kid.
+I'm impressed.
+!------------------------------!
+Tu sais quoi, petit ?
+Tu m'impressionnes.
+!------------------------------!
+Ich muss schon sagen, Kleiner.
+Ich bin beeindruckt.
+!------------------------------!
+Lo ammetto, ragazzo.
+Sono davvero colpito.
+!------------------------------!
+Tengo que decírtelo, chico.
+Estoy impresionado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I think you're ready for the big time.
+So, I'm clearing ya to enter the Games!
+!------------------------------!
+À mon avis, tu peux passer aux choses
+sérieuses. Je t'autorise à participer
+aux Jeux !
+!------------------------------!
+Ich glaube, du bist so weit.
+Du kannst jetzt jederzeit an
+den Spielen teilnehmen!
+!------------------------------!
+Credo tu sia pronto per fare
+sul serio. Ti autorizzo a
+partecipare ai Giochi!
+!------------------------------!
+Creo que ya estás listo para lo
+grande. ¡Tienes permiso
+para participar en los juegos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You are!?
+!------------------------------!
+C'est vrai ?
+!------------------------------!
+Wirklich!?
+!------------------------------!
+Davvero?!
+!------------------------------!
+¿En serio?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yup. You can try for the Rookie Cup,
+anyway.
+!------------------------------!
+Oui, enfin... à la Coupe novice déjà
+pour commencer.
+!------------------------------!
+Jep. Erst mal beim Pokal für
+Anfänger.
+!------------------------------!
+Sì. Puoi aspirare alla Coppa delle
+Reclute, per lo meno.
+!------------------------------!
+Sí. Puedes aspirar a la Copa de
+Novatos, al menos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I figure, you may not place, but at least
+you'll put up a decent show.
+!------------------------------!
+Tu ne seras peut-être pas le
+vainqueur, mais je pense que
+tu devrais bien t'en tirer.
+!------------------------------!
+Auch wenn du keinen vorderen
+Platz belegst, wirst du eine
+anständige Show abliefern.
+!------------------------------!
+Probabilmente non riuscirai a
+vincere, ma scommetto che
+ti farai valere.
+!------------------------------!
+Puede que no pises el podio,
+pero imagino que darás un
+espectáculo decente.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+In the meantime, we'll keep you up to
+your elbows in training<E2><80><95>so stay sharp!
+!------------------------------!
+En attendant, on va poursuivre
+l'entraînement pour que tu ne
+faiblisses pas !
+!------------------------------!
+In der Zwischenzeit trainieren
+wir ordentlich weiter ... damit du
+in Form bleibst!
+!------------------------------!
+Nel frattempo continueremo ad
+allenarci costantemente per
+restare in forma!
+!------------------------------!
+Mientras tanto, te haremos
+sudar entrenando para que estés
+en forma.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Speaking of which, who was that you
+were training before me?
+!------------------------------!
+Au fait, c'était qui celui que
+vous entraîniez avant moi ?
+!------------------------------!
+Wo wir gerade davon sprechen,
+wer war das, den du vor mir
+trainiert hast?
+!------------------------------!
+A proposito, chi era quel tizio
+che stavi allenando prima di me?
+!------------------------------!
+Por cierto, ¿quién era ese al
+que estabas entrenando antes?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, Herc? He's another student of mine.
+Been at it a long time now.
+!------------------------------!
+Qui ça, Herc ? C'est un autre de mes
+poulains. Je l'entraîne depuis un bon
+bout de temps.
+!------------------------------!
+Ach, Herc? Ein weiterer Schüler
+von mir. Ist schon 'ne Weile
+dabei.
+!------------------------------!
+Oh, Erc? È uno dei miei allievi.
+Lo è da molto tempo, a dire il
+vero.
+!------------------------------!
+Ah, ¿Herc? Es otro aprendiz
+mío. Ya lleva en ello un buen
+tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why were you working him so much
+harder than you do me?
+!------------------------------!
+Pourquoi est-ce que vous étiez
+beaucoup plus dur avec lui
+qu'avec moi ?
+!------------------------------!
+Warum lässt du ihn so viel
+härter trainieren als mich?
+!------------------------------!
+Perché il suo addestramento
+era molto più duro del mio?
+!------------------------------!
+¿Por qué le haces trabajar
+mucho más duro que a mí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is he that strong?
+!------------------------------!
+Il est fort à ce point ?
+!------------------------------!
+Ist er so stark?
+!------------------------------!
+È davvero così forte?
+!------------------------------!
+¿Tan fuerte es?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, sure. He's a hero, kid.
+If I put a squirt like you through that,
+you'd croak on me.
+!------------------------------!
+Évidemment. Lui, c'est un héros, petit.
+Si je te poussais autant que lui,
+tu tomberais d'épuisement !
+!------------------------------!
+Aber sicher. Er ist ein Held,
+Kleiner. Du würdest ein solches
+Training nicht durchhalten.
+!------------------------------!
+Beh, lui è un eroe, ragazzo.
+Al suo posto ti spezzeresti
+la schiena, credimi.
+!------------------------------!
+Bueno, claro. Él es un héroe,
+chico. Si pongo a un piltrafilla
+como tú con eso, se rompería.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And it's not just that.
+!------------------------------!
+Et ce n'est pas tout.
+!------------------------------!
+Und das ist nicht das Einzige.
+!------------------------------!
+Ma non è solo questo.
+!------------------------------!
+Y no es solo eso.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Was?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Of all the heroes I've trained, he's
+special. Maybe the best.
+!------------------------------!
+De tous les héros que j'ai
+entraînés, c'est peut-être
+le meilleur.
+!------------------------------!
+Er ist etwas ganz Besonderes.
+Er ist vielleicht der Beste,
+den ich je trainiert habe.
+!------------------------------!
+Tra tutti gli eroi che ho
+allenato, lui è speciale. Forse
+il migliore.
+!------------------------------!
+De todos los héroes que he
+forjado, él es especial.
+Puede que el mejor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I got high hopes for him.
+He's gonna be <E2><80><9C>the one<E2><80><9D>!
+!------------------------------!
+Je fonde beaucoup d'espoir sur lui.
+C'est pour ça que je le pousse
+autant.
+!------------------------------!
+Ich setze große Hoffnungen
+in ihn. Er wird mein <E2><80><9E>Goldkind<E2><80><9C>.
+!------------------------------!
+Ripongo grandi speranze in lui.
+Sarà lui l'eroe più forte.
+!------------------------------!
+Tengo grandes esperanzas
+puestas en él.
+Será el mejor, el más grande.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ahem...
+Enough talk about Herc.
+!------------------------------!
+Hum, hum ! Mais assez parlé d'Herc.
+!------------------------------!
+Ähem!
+Genug zu Herc.
+!------------------------------!
+Ehm...
+Basta parlare di Erc.
+!------------------------------!
+¡Ejem!
+Basta de hablar de Herc.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You just worry about getting in shape
+for the tournament. I got two words of
+advice for ya...
+!------------------------------!
+Toi, assure-toi d'être en pleine forme
+pour les Jeux. Je ne dirai que deux
+mots :
+!------------------------------!
+Kümmer du dich darum,
+für das Turnier in Form zu sein.
+Ich habe zwei Hinweise für dich ...
+!------------------------------!
+Dovresti pensare a metterti in
+forma per i Giochi. Ho un paio
+di consigli per te...
+!------------------------------!
+Tú preocúpate de ponerte en
+forma para el torneo. Te daré
+un consejo en dos palabras.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eat.
+!------------------------------!
+Manger
+!------------------------------!
+Essen.
+!------------------------------!
+Mangia.
+!------------------------------!
+Come.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sleep.
+!------------------------------!
+Dormir
+!------------------------------!
+Schlafen.
+!------------------------------!
+Riposati.
+!------------------------------!
+Duerme.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Train!
+!------------------------------!
+S'entraîner !
+!------------------------------!
+Trainieren!
+!------------------------------!
+Allenati!
+!------------------------------!
+¡Entrena!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Remember, I got expectations for you
+too, kid.
+!------------------------------!
+N'oublie pas que j'ai foi en toi, petit.
+!------------------------------!
+Vergiss nicht, ich setze große
+Erwartungen in dich, Kleiner.
+!------------------------------!
+Ho grandi aspettative
+anche per te, ragazzo.
+!------------------------------!
+Recuerda: también tengo esperan-
+zas puestas en ti, chico.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(So people work you harder when they
+ have expectations?)
+!------------------------------!
+(Alors les gens vous poussent
+ plus quand ils ont foi en vous ?)
+!------------------------------!
+(Arbeiten die Leute härter, wenn sie
+ Erwartungen haben?)
+!------------------------------!
+(Quindi la gente esige molto di
+più quando ha certe
+aspettative?)
+!------------------------------!
+(¿Así que la gente se afana más
+cuando tiene esperanzas?)
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(The Organization expects me to do hard
+ missions all the time.)
+!------------------------------!
+(L'Organisation me confie toujours des
+ missions très difficiles...)
+!------------------------------!
+(Die Organisation erwartet von mir
+ die ganze Zeit, dass ich harte
+ Missionen erfülle.)
+!------------------------------!
+(L'Organizzazione si aspetta che
+io porti a termine le missioni più
+difficili, sempre e comunque.)
+!------------------------------!
+(La Organización siempre espera
+que yo haga misiones difíciles).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Aren't expectations the same thing as
+ orders?)
+!------------------------------!
+(Est-ce que c'est comparable ?
+ Avoir foi en quelqu'un et lui
+ donner des ordres ?)
+!------------------------------!
+(Sind Erwartungen nicht das Gleiche
+ wie Befehle?)
+!------------------------------!
+(Quindi che differenza c'è tra
+le aspettative e gli ordini?)
+!------------------------------!
+(¿Son las esperanzas lo mismo
+que las órdenes?)
+!------------------------------!
+!******************************!

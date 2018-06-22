@@ -1,0 +1,102 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:44
+!******************************!
+&.[HDR].2&
+mi/ch/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/01.z
+!******************************!
+&.[HDR].2&
+mi/ob/00.z
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wonder if he's off chasing those
+horrid creatures again. He's had to do
+that every day for weeks...
+!------------------------------!
+Est-il encore en train de pourchasser
+ces affreuses créatures ? Il ne fait
+plus que ça depuis des semaines...
+!------------------------------!
+Ist er schon wieder hinter
+diesen Dingern her? Er macht
+seit Wochen nichts anderes ...
+!------------------------------!
+Sta ancora inseguendo
+quelle creature? Ormai
+sono settimane che lo fa...
+!------------------------------!
+¿Ya ha vuelto a salir a cazar a
+esas cosas? Lleva así todos los
+días desde hace dos semanas...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wish there were some way I could
+help.
+!------------------------------!
+J'aimerais tellement pouvoir l'aider.
+!------------------------------!
+Ich wünschte ich könnte helfen.
+!------------------------------!
+Vorrei che ci fosse un
+modo per aiutarlo...
+!------------------------------!
+Ojalá hubiera alguna manera de
+poder ayudar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Perhaps I'll ask Cogsworth and the
+others.
+!------------------------------!
+Je sais ! Je vais demander conseil
+à Big Ben et aux autres !
+!------------------------------!
+Uuh, ich weiß!
+Ich frage von Unruh und
+die anderen!
+!------------------------------!
+Ah, ho trovato!
+Chiederò aiuto a
+Tockins e agli altri!
+!------------------------------!
+¡Les preguntaré a
+Din Don y a los demás!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm sure that together we can figure
+something out.
+!------------------------------!
+Je suis sûre qu'on trouvera une idée
+si on s'y met tous ensemble.
+!------------------------------!
+Wenn wir zusammenarbeiten,
+fällt uns bestimmt etwas ein.
+!------------------------------!
+Collaborando, sono sicura
+che troveremo una soluzione.
+!------------------------------!
+Seguro que podremos dar con
+algo si cooperamos.
+!------------------------------!
+!******************************!

@@ -1,0 +1,131 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/17.z
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He just isn't himself lately...
+I wonder what's happened.
+!------------------------------!
+Il n'est pas lui-même ces jours-ci...
+Je me demande ce qu'il s'est passé.
+!------------------------------!
+Er ist in letzter Zeit nicht
+mehr er selbst ...
+Was wohl passiert ist?
+!------------------------------!
+Lo vedo strano, ultimamente...
+Chissà cosa è successo...
+!------------------------------!
+Últimamente no
+parece el mismo...
+Me pregunto qué habrá ocurrido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll go ask the others. Maybe they know
+of some way I can help.
+!------------------------------!
+Je devrais demander aux autres ce
+qu'ils en pensent.
+!------------------------------!
+Ich sollte die anderen fragen,
+was sie glauben.
+!------------------------------!
+Andrò a chiedere agli altri
+che cosa ne pensano.
+!------------------------------!
+Iré a preguntarles a los demás.
+Quizá me digan en qué puedo
+ayudar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The beast has been acting strange?
+!------------------------------!
+La bête se comporte bizarrement ?
+!------------------------------!
+Das Biest verhält sich seltsam?
+!------------------------------!
+La Bestia si comporta
+in modo strano?
+!------------------------------!
+¿Han visto a la bestia portarse
+de forma rara?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why do I get the feeling this has
+something to do with Xaldin...
+!------------------------------!
+Pourquoi ai-je le sentiment que ça a
+quelque chose à voir avec Xaldin...
+!------------------------------!
+Woher hab ich bloß das Gefühl,
+dass Xaldin etwas damit
+zu tun hat ...
+!------------------------------!
+Perché continuo a pensare
+che Xaldin c'entri qualcosa...?
+!------------------------------!
+¿Por qué me da que esto tiene
+algo que ver con Xaldin?...
+!------------------------------!
+!******************************!

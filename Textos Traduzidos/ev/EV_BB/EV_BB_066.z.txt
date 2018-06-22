@@ -1,0 +1,215 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xaldin seemed awfully interested in the
+beast...
+!------------------------------!
+Xaldin avait l'air de beaucoup
+s'intéresser à la bête...
+!------------------------------!
+Xaldin schien besonders
+interessiert an dem Biest
+zu sein.
+!------------------------------!
+Xaldin sembrava molto
+interessato alla Bestia...
+!------------------------------!
+Xaldin parecía muy interesado
+en la bestia...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe he's in here.
+!------------------------------!
+Il est peut-être ici.
+!------------------------------!
+Vielleicht ist er hier drinnen.
+!------------------------------!
+Forse è qui dentro.
+!------------------------------!
+Puede que esté aquí dentro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+2:46
+!******************************!
+&.[HDR].2&
+2:47
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/16.z
+!******************************!
+&.[HDR].2&
+mi/ob/48.z
+!******************************!
+&.[HDR].2&
+mi/ob/47.z
+!******************************!
+&.[HDR].2&
+mi/ob/03.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No... I won't believe it.
+He must have been lying.
+!------------------------------!
+Non... je ne peux pas le croire.
+Il doit avoir menti.
+!------------------------------!
+Nein ... das glaube ich nicht.
+Er muss gelogen haben.
+!------------------------------!
+No... Non ci credo.
+Deve aver mentito.
+!------------------------------!
+No... No lo creo.
+Él me debe de haber mentido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Belle, betray me? He said she would
+take everything from me.
+!------------------------------!
+Belle, me trahir ? Il a dit qu'elle me
+prendrait tout ce que je possède.
+!------------------------------!
+Belle soll mich verraten?
+Er sagte, sie würde mir
+alles nehmen.
+!------------------------------!
+Belle non può tradirmi!
+Però lui ha detto che Belle
+mi priverà di tutto.
+!------------------------------!
+¿Bella, traicionarme? Él ha
+dicho que ella me lo arrebataría
+todo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's not possible. I trust her!
+!------------------------------!
+C'est impossible. J'ai confiance
+en elle !
+!------------------------------!
+Das ist unmöglich.
+Ich vertraue ihr!
+!------------------------------!
+Non è possibile. Mi fido di lei!
+!------------------------------!
+Eso no es posible.
+¡Confío en ella!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(He, who? Xaldin?)
+!------------------------------!
+(Qui ça <E2><80><9C>il<E2><80><9D> ? Xaldin ?)
+!------------------------------!
+(Wer ist <E2><80><9E>er<E2><80><9C>? Xaldin?)
+!------------------------------!
+("Lui" chi...?
+Sta parlando di Xaldin?)
+!------------------------------!
+(¿Él, quién? ¿Xaldin?)
+!------------------------------!
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It sounds like Xaldin made some kind of
+contact.
+!------------------------------!
+Apparemment, Xaldin est entré en
+contact avec lui.
+!------------------------------!
+Hört sich an, als hätte Xaldin
+Kontakt aufgenommen.
+!------------------------------!
+Pare che Xaldin sia entrato
+in contatto con la Bestia.
+!------------------------------!
+Parece como si Xaldin hubiera
+establecido alguna especie de
+contacto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then he might still be somewhere in the
+castle...
+!------------------------------!
+Il est peut-être encore dans le
+château...
+!------------------------------!
+Dann ist er vielleicht noch
+irgendwo im Schloss ...
+!------------------------------!
+Allora potrebbe essere ancora
+nel castello, da qualche parte...
+!------------------------------!
+Entonces puede que esté por
+alguna parte del castillo...
+!------------------------------!
+!******************************!

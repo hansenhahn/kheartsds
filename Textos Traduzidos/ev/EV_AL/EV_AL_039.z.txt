@@ -1,0 +1,191 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+1:90
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/26.z
+!******************************!
+&.[HDR].2&
+mi/ch/1A.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you mean, <E2><80><9C>it disappeared<E2><80><9D>?
+!------------------------------!
+Comment ça <E2><80><9C>elle a disparu<E2><80><9D> ?
+!------------------------------!
+Was meinst du damit, er sei
+<E2><80><9E>verschwunden<E2><80><9C>?
+!------------------------------!
+"Scomparsa"? In che senso?!
+!------------------------------!
+¿A qué te refieres
+con "desaparecido"?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's just like I said<E2><80><95>the sandstorm
+moving across the desert up and
+vanished.
+!------------------------------!
+Eh bien la tempête de sable dans
+le désert s'est dissipée et elle a
+disparu, voilà !
+!------------------------------!
+Das, was ich sage!
+Der Sandsturm ist über die Wüste
+gefegt und verschwunden.
+!------------------------------!
+Ti assicuro che è così!
+La tempesta che spazzava il
+deserto è svanita nel nulla.
+!------------------------------!
+¡A eso mismo! La tormenta de
+arena se ha ido por el desierto
+y se ha desvanecido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now we can finally go outside the city
+again.
+!------------------------------!
+On va pouvoir enfin sortir de
+la ville !
+!------------------------------!
+Jetzt können wir endlich wieder
+aus der Stadt raus.
+!------------------------------!
+Ora possiamo uscire dalla
+città, finalmente.
+!------------------------------!
+Por fin podemos volver a salir
+de la ciudad.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, that's wonderful!
+What a relief.
+!------------------------------!
+Quel bonheur !
+Et quel soulagement...
+!------------------------------!
+Wunderbar!
+Was für eine Erleichterung ...
+!------------------------------!
+Beh, è magnifico!
+Che sollievo...
+!------------------------------!
+¡Bueno, qué maravilla!
+¡Qué alivio!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hold on... We still need to watch out
+for the Heartless.
+!------------------------------!
+Oui, enfin... Les Sans-cœur
+n'ont pas disparu, eux...
+!------------------------------!
+Warte ... wir müssen immer noch
+auf die Herzlosen aufpassen.
+!------------------------------!
+Aspetta... Dobbiamo comunque
+fare attenzione agli Heartless.
+!------------------------------!
+Debemos tener cuidado con
+los sincorazón que quedan allí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They've been sighted around Agrabah
+even after the storm cleared up.
+You'll have to be careful, Jasmine.
+!------------------------------!
+Ils sont restés en ville bien
+que la tempête se soit dissipée,
+alors sois prudente !
+!------------------------------!
+Sie wurden um Agrabah gesichtet,
+auch nachdem der Sturm vorbei
+war, also Vorsicht, Jasmin.
+!------------------------------!
+Sono stati avvistati intorno ad
+Agrabah anche dopo la tempesta.
+Fa' attenzione, Jasmine.
+!------------------------------!
+Los han visto por Agrabah aun
+después de terminar la tormenta.
+Ten mucho cuidado, Yasmín.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm gonna go make sure everything's
+okay.
+!------------------------------!
+Je vais m'assurer que tout va bien de
+mon côté.
+!------------------------------!
+Ich werd mich mal darum kümmern,
+dass alles in Ordnung ist.
+!------------------------------!
+Andrò ad assicurarmi che
+tutto sia a posto.
+!------------------------------!
+Me aseguraré de que todo
+está tranquilo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right.
+I want you to be safe too, Aladdin.
+!------------------------------!
+D'accord. Sois prudent, toi aussi.
+!------------------------------!
+Okay. Pass aber auf dich auf,
+Aladdin.
+!------------------------------!
+D'accordo.
+Fa' attenzione anche tu, Aladdin.
+!------------------------------!
+Muy bien. Ten mucho
+cuidado tú también, Al.
+!------------------------------!
+!******************************!

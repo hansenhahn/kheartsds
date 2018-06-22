@@ -1,0 +1,56 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[HDR].2&
+mi/ob/63.z
+!******************************!
+&.[HDR].2&
+mi/ob/68.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fogo! Fogo e mais fogo!
+Mande esses Heartless
+direto pro fundo do mar!
+!------------------------------!
+Branle-bas de combat !
+Que ces satanés Sans-cœur servent
+de nourriture aux poissons !
+!------------------------------!
+Feuer! Feuer frei!
+Schickt diese Herzlosen auf
+den Meeresgrund!
+!------------------------------!
+Fuoco, fuoco, fuocooo!
+Quegli Heartless devono
+diventare cibo per pesci!
+!------------------------------!
+¡Fuego! ¡Fuego a discreción!
+¡Enviad a esos sincorazón
+directos al cofre del muerto!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, sim, Capitão!
+!------------------------------!
+Oui, Capitaine !
+!------------------------------!
+Aye, aye, Käpt'n!
+!------------------------------!
+Agli ordini, Capitano!
+!------------------------------!
+¡Sí, sí, señor!
+!------------------------------!
+!******************************!

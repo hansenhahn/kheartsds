@@ -1,0 +1,306 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+2:11
+!******************************!
+&.[HDR].2&
+2:55
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[HDR].2&
+mi/ch/18.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Stop. We're not alone.
+!------------------------------!
+Stop. Il y a quelqu'un.
+!------------------------------!
+Stopp. Wir haben Gesellschaft.
+!------------------------------!
+Fermo. Abbiamo compagnia.
+!------------------------------!
+Alto. No estamos solos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It is horrible...
+This monstrous infestation has to end!
+!------------------------------!
+C'est affreux...
+Cette invasion doit prendre
+fin au plus vite !
+!------------------------------!
+Wie schrecklich ...
+Diese monströse Plage muss
+aufhören!
+!------------------------------!
+È terribile...
+Questa invasione di
+mostri deve finire!
+!------------------------------!
+Esto es terrible...
+¡Esta plaga de monstruos
+tiene que acabar!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If only there was some way we could be
+rid of them for good...
+!------------------------------!
+Si seulement nous pouvions nous
+débarrasser d'eux pour de bon...
+!------------------------------!
+Wenn wir sie bloß irgendwie
+loswerden könnten.
+!------------------------------!
+Se solo ci fosse un modo
+per sbarazzarci di loro...
+!------------------------------!
+Si hubiera alguna manera de
+poder librarse de ellos
+de una vez por todas...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But like this... What can I do!?
+I don't even have arms to hold a
+sword!
+!------------------------------!
+Mais je ne suis plus un être humain !
+Je ne peux même pas porter une
+épée !
+!------------------------------!
+Mit meinem alten Körper könnte
+ich beim Kämpfen helfen, aber
+so ... Ich kann ja kaum weglaufen.
+!------------------------------!
+Ma che potrei fare con questo aspetto?
+Non posso neanche tenere
+in mano una spada!
+!------------------------------!
+Pero en este estado... ¿qué
+podemos hacer? ¡Ni siquiera
+tengo brazos para blandir una espada!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He must be like the others<E2><80><95>another
+human under the spell.
+!------------------------------!
+Alors lui aussi a été victime du
+sortilège ?
+!------------------------------!
+Alter Körper? Dann ist er auch
+ein verzauberter Mensch.
+!------------------------------!
+Anche lui dev'essere come gli altri,
+ un umano sotto l'effetto
+ di un incantesimo.
+!------------------------------!
+Debe de ser como los otros...
+un humano hechizado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It would seem everyone here underwent
+some sort of transformation.
+!------------------------------!
+Tous les gens qui vivaient dans ce
+château ont été transformés on
+dirait...
+!------------------------------!
+Scheint, als wären hier alle
+verwandelt worden.
+!------------------------------!
+Pare che qui si siano
+trasformati tutti.
+!------------------------------!
+Parece que aquí todo el mundo ha
+sufrido alguna clase de
+transformación.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How do you suppose they wound up
+under a spell?
+!------------------------------!
+À ton avis, pourquoi ont-ils tous
+été frappés par le sortilège ?
+!------------------------------!
+Wie mag es wohl
+zu der Verzauberung gekommen sein?
+!------------------------------!
+Ma perché hanno subito un
+incantesimo del genere, secondo
+te?
+!------------------------------!
+¿Y cómo supones que cayeron
+bajo el influjo del hechizo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I couldn't say. We may find some clue in
+the beast's room.
+!------------------------------!
+Je n'en sais rien, mais on trouvera
+peut-être des indices dans les
+appartements de la bête.
+!------------------------------!
+Keine Ahnung. Vielleicht finden
+wir ja im Zimmer des Biests
+einen Hinweis.
+!------------------------------!
+Ancora non lo so, ma potremmo
+trovare qualche indizio nella
+stanza della Bestia.
+!------------------------------!
+No sabría decirlo. Puede que
+encontremos alguna pista en la
+habitación de la bestia.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's just past here.
+!------------------------------!
+C'est par ici.
+!------------------------------!
+Es liegt gleich hier entlang.
+!------------------------------!
+È da questa parte.
+!------------------------------!
+Está justo ahí detrás.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then let us be going.
+Don't get spotted, Roxas.
+!------------------------------!
+Allons-y.
+Et sois discret, Roxas.
+!------------------------------!
+Dann lass uns los.
+Lass dich nicht sehen, Roxas.
+!------------------------------!
+Allora andiamo.
+Non farti scoprire, Roxas.
+!------------------------------!
+Pues adelante.
+Que no te detecten, Roxas.
+!------------------------------!
+!******************************!

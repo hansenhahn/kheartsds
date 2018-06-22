@@ -1,0 +1,72 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/15.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/13.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uau! Tipo... UAU!
+Nunca tinha visto alguém ir 
+tão bem no Perfomance assim!
+!------------------------------!
+Waouh ! Alors là... waouh ! Je n'ai
+jamais vu quelqu'un se débrouiller
+aussi bien au Lancer habile !
+!------------------------------!
+Wow! Einfach ... einfach wow!
+So einen guten Ballkünstler hab ich
+noch nie gesehen!
+!------------------------------!
+Ehi! Davvero incredibile!
+Non ho mai visto nessuno
+palleggiare in quel modo!
+!------------------------------!
+¡Caramba! Es... ¡caramba!
+¡Nunca había visto a nadie
+tan bueno en una exhibición!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nem eu! Foi incrível!
+!------------------------------!
+Moi non plus ! C'est incroyable !
+!------------------------------!
+Ich auch nicht! Das war fantastisch!
+!------------------------------!
+Neanch'io!
+È stato straordinario!
+!------------------------------!
+¡Ni yo! ¡Ha sido asombroso!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

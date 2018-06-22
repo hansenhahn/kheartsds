@@ -1,0 +1,69 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+ points...
+Well, we'll just hope you got a steep
+learning curve.
+!------------------------------!
+ points...
+Espérons juste que tu sois
+lent au démarrage, hein ?
+!------------------------------!
+ Punkte ...
+Ich hoffe, du lernst schnell dazu.
+!------------------------------!
+ punti...
+Beh, speriamo tu ci faccia
+presto la mano!
+!------------------------------!
+ puntos...
+Bueno, esperemos que solo sea
+un principio difícil.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Next time, go for 100 points minimum!
+!------------------------------!
+Vise les 100 points la prochaine
+fois !
+!------------------------------!
+Versuch nächstes Mal
+mindestens 100 Punkte
+zu erreichen!
+!------------------------------!
+La prossima volta cerca di
+ottenere almeno 100 punti!
+!------------------------------!
+¡Ve a por los 100 puntos
+la próxima vez como mínimo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

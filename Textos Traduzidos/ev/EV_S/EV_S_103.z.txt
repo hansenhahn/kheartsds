@@ -1,0 +1,398 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, well. It lives.
+There's just no keeping you down.
+!------------------------------!
+C'est impossible de t'arrêter, hein...
+!------------------------------!
+Sieh an, es lebt.
+Du kannst es einfach nicht
+lassen, oder ...
+!------------------------------!
+Non c'è modo di tenerti
+tranquilla, eh...?
+!------------------------------!
+Bien, bien, está viva.
+No te puedes estar
+quieta, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx, I want to go with Roxas today on
+his mission.
+!------------------------------!
+Saïx, je veux partir en mission
+avec Roxas aujourd'hui.
+!------------------------------!
+Saïx, ich will heute mit Roxas
+auf seine Mission.
+!------------------------------!
+Saïx, oggi voglio accompagnare
+Roxas durante la sua missione.
+!------------------------------!
+Saïx, hoy quiero acompañar
+a Roxas en su misión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You belong in your room.
+!------------------------------!
+Tu dois rester dans ta chambre.
+!------------------------------!
+Du gehörst in dein Zimmer.
+!------------------------------!
+Devi restare nella tua stanza.
+!------------------------------!
+Tú te quedas en tu habitación.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, hey, Xion!
+About time you crawled out of bed.
+!------------------------------!
+Hé, salut, Xion !
+Il était temps que tu sortes du lit
+dis donc.
+!------------------------------!
+Oh, hey, Xion!
+Wird auch mal Zeit, dass du
+aus dem Bett kommst.
+!------------------------------!
+Ehi, ehi, Xion!
+Finalmente ti sei alzata.
+!------------------------------!
+¡Oh, ey, Xion!
+Ya era hora de que
+salieras de la piltra.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Morning, Axel.
+!------------------------------!
+Bonjour, Axel.
+!------------------------------!
+Morgen, Axel.
+!------------------------------!
+Buongiorno, Axel.
+!------------------------------!
+Buenas, Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas will team up with Axel today, as
+scheduled. Xion, I'm afraid I neglected
+to pencil you in.
+!------------------------------!
+Roxas va faire équipe avec Axel
+aujourd'hui. Comme prévu. Toi Xion,
+tu restes en stand-by.
+!------------------------------!
+Roxas und Axel gehen heute wie
+geplant zusammen auf Mission.
+Xion du kannst nicht mit.
+!------------------------------!
+Oggi Roxas farà coppia con
+Axel, come previsto. Tu sei a
+riposo, Xion.
+!------------------------------!
+Hoy Roxas acompañará a Axel,
+como estaba previsto. Xion, me
+temo que no estás en la lista.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't keep me pent up in here.
+I need the exercise.
+!------------------------------!
+Je ne veux pas rester enfermée ici.
+J'ai besoin de me dépenser.
+!------------------------------!
+Pferch mich hier nicht ein.
+Ich brauche Übung.
+!------------------------------!
+Non tenermi rinchiusa qui dentro.
+Ho bisogno di esercitarmi.
+!------------------------------!
+No me dejes aquí encerrada.
+Necesito hacer ejercicio.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll look after her.
+I promise not to let her out of my sight.
+!------------------------------!
+Je veillerai sur elle.
+Je ne la quitterai pas des yeux,
+c'est promis.
+!------------------------------!
+Ich pass auf sie auf.
+Ich werde sie nicht
+aus den Augen lassen.
+!------------------------------!
+Ci penserò io a lei.
+Prometto che non la
+perderò mai di vista.
+!------------------------------!
+Yo cuidaré de ella.
+Te prometo que no la
+perderé de vista.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+...
+!------------------------------!
+Hm ...
+!------------------------------!
+...
+!------------------------------!
+Mm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fine.
+Go, if that's what suits you.
+!------------------------------!
+Soit.
+Faites comme vous voulez.
+!------------------------------!
+Okay.
+Geh, wenn du möchtest.
+!------------------------------!
+Va bene.
+Se è questo che vuoi...
+!------------------------------!
+Está bien.
+Ve, si es lo que quieres.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

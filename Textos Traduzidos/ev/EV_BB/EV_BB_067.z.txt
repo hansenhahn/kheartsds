@@ -1,0 +1,317 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xaldin!
+!------------------------------!
+Xaldin !
+!------------------------------!
+Xaldin!
+!------------------------------!
+Xaldin!
+!------------------------------!
+¡Xaldin!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas... Why are you here?
+!------------------------------!
+Roxas... Qu'est-ce que tu fais là ?
+!------------------------------!
+Roxas ... Was machst du hier?
+!------------------------------!
+Roxas... Che ci fai qui?
+!------------------------------!
+Roxas... ¿Qué haces aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You never RTC'd from your last mission.
+I came to get you.
+!------------------------------!
+Tu n'es pas rentré après la dernière
+mission, alors je suis venu te
+chercher.
+!------------------------------!
+Du bist von deiner letzten
+Mission nicht zurückgekehrt.
+Ich wollte dich zurückholen.
+!------------------------------!
+Non sei tornato al castello
+dopo l'ultima missione.
+Sono venuto a cercarti.
+!------------------------------!
+No has VAC desde tu última
+misión. He venido a buscarte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph. How presumptuous.
+!------------------------------!
+Ha, on aura tout vu...
+!------------------------------!
+Hmpf. Wie aufdringlich.
+!------------------------------!
+Umpf. Che presuntuoso.
+!------------------------------!
+Vaya. Qué presuntuoso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's kept you here so long?
+!------------------------------!
+Pourquoi as-tu mis autant de temps ?
+!------------------------------!
+Was hat dich hier so lange
+aufgehalten?
+!------------------------------!
+Perché sei rimasto qui?
+!------------------------------!
+¿Qué te retiene aquí tanto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just making a few preparations.
+!------------------------------!
+Je m'occupais de quelques
+préparatifs.
+!------------------------------!
+Ich treffe nur ein paar
+Vorbereitungen.
+!------------------------------!
+Dovevo ultimare i preparativi.
+!------------------------------!
+Solo estaba haciendo unos
+cuantos preparativos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Preparations for what?
+!------------------------------!
+Des préparatifs de quoi ?
+!------------------------------!
+Vorbereitungen wofür?
+!------------------------------!
+Preparativi per che cosa?
+!------------------------------!
+¿Preparativos para qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It won't be long now.
+Things here should become quite
+interesting.
+!------------------------------!
+Ce ne sera plus très long.
+Les choses ici devraient prendre
+une tournure très intéressante.
+!------------------------------!
+Es wird jetzt nicht mehr lange
+dauern. Bald wird es hier
+richtig interessant.
+!------------------------------!
+Presto lo scoprirai.
+Qui le cose si faranno
+molto interessanti.
+!------------------------------!
+No tardaré mucho. Las cosas
+aquí se están poniendo muy
+interesantes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Is that why he made contact with the
+ beast?)
+!------------------------------!
+(Est-ce pour cette raison qu'il est
+ entré en contact avec la bête ?)
+!------------------------------!
+(Hat er deshalb Kontakt
+ zum Biest aufgenommen?)
+!------------------------------!
+(È per questo che è entrato
+in contatto con la Bestia?)
+!------------------------------!
+(¿Es por eso que ha establecido
+contacto con la bestia?)
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A shame you've wasted your time.
+We return immediately.
+!------------------------------!
+Dommage que tu aies perdu ton temps.
+Nous rentrons sur-le-champ.
+!------------------------------!
+Eine Schande, dass du so viel
+Zeit vergeudet hast. Wir kehren
+unverzüglich zurück.
+!------------------------------!
+Mi dispiace che tu abbia
+sprecato il tuo tempo.
+Torniamo indietro, forza.
+!------------------------------!
+Lástima que hayas perdido el
+tiempo. Regresamos de inmediato.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fine...
+!------------------------------!
+D'accord...
+!------------------------------!
+Okay ...
+!------------------------------!
+Va bene...
+!------------------------------!
+Bien...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

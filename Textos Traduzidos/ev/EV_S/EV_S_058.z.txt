@@ -1,0 +1,1156 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Another successful day?
+!------------------------------!
+Encore une journée bien remplie ?
+!------------------------------!
+Wieder ein erfolgreicher Tag?
+!------------------------------!
+Un'altra giornata trionfale?
+!------------------------------!
+¿Otro día fructífero?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Of course!
+Where'd they send you, Axel?
+!------------------------------!
+Eh oui !
+Où est-ce qu'ils t'ont envoyé,
+Axel ?
+!------------------------------!
+Na klar!
+Wo haben sie dich hingeschickt,
+Axel?
+!------------------------------!
+Certamente!
+Dove ti hanno mandato, Axel?
+!------------------------------!
+¡Pues claro!
+¿Adónde te han enviado, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The place you guys hit yesterday.
+!------------------------------!
+Là où vous étiez hier.
+!------------------------------!
+Dahin, wo ihr gestern wart.
+!------------------------------!
+Nello stesso luogo che avete
+visitato ieri.
+!------------------------------!
+Adonde vosotros ayer.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean the castle with the talking
+candelabra?
+!------------------------------!
+Le château avec le chandelier
+parlant ?
+!------------------------------!
+Meinst du das Schloss mit
+dem sprechenden Kerzenständer?
+!------------------------------!
+Ah, il castello con quel
+candelabro parlante?
+!------------------------------!
+¿Te refieres al castillo del
+candelabro parlante?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's the one. They needed me to do a
+little digging through the dust and
+cobwebs. How 'bout you?
+!------------------------------!
+C'est ça. Ils voulaient que je fouille
+un peu les lieux. Et vous ?
+!------------------------------!
+Genau. Ich sollte mich etwas
+umsehen. Und ihr?
+!------------------------------!
+Proprio quello. Volevano che
+indagassi un po' più a fondo.
+E voi?
+!------------------------------!
+Justo. Querían que husmeara
+un poco entre el polvo y las
+telarañas. ¿Y vosotros?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heart collection in Agrabah.
+Same as usual.
+!------------------------------!
+On a récupéré des cœurs à Agrabah.
+La routine quoi.
+!------------------------------!
+Herzen sammeln in Agrabah.
+So wie immer.
+!------------------------------!
+Raccolta di cuori ad Agrabah.
+Solita routine.
+!------------------------------!
+Recogida de corazones en
+Agrabah. Como siempre.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're really getting the hang of
+working together, huh?
+!------------------------------!
+Vous faites une équipe du tonnerre
+tous les deux, hein ?
+!------------------------------!
+Ihr werdet langsam ein richtig
+gutes Team, was?
+!------------------------------!
+Ci state prendendo gusto
+a lavorare insieme, eh?
+!------------------------------!
+Os empieza a gustar lo de
+trabajar juntos, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know how much longer we can
+fool the other members, though.
+!------------------------------!
+Mais je ne sais pas combien de temps
+on va encore pouvoir duper les autres.
+!------------------------------!
+Ich weiß aber nicht, wie lange
+wir die anderen noch an der Nase
+herumführen können.
+!------------------------------!
+Ma temo che prima o poi
+qualcuno ci scoprirà...
+!------------------------------!
+Pero no sé cuánto tiempo más
+podremos engañar a los demás.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Relax, we'll be fine.
+!------------------------------!
+Tout ira bien.
+!------------------------------!
+Entspann dich,
+wir kommen schon klar.
+!------------------------------!
+Rilassati, andrà tutto bene.
+!------------------------------!
+Todo irá bien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't be too sure.
+They're not stupid.
+!------------------------------!
+N'en sois pas si sûr.
+Ils ne sont pas idiots.
+!------------------------------!
+Sei dir da nicht zu sicher.
+Die sind nicht blöd.
+!------------------------------!
+Non esserne così sicuro.
+Non sono stupidi.
+!------------------------------!
+No sé yo...
+No son idiotas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess we'll just have to cross our
+fingers.
+!------------------------------!
+Alors croisons les doigts.
+!------------------------------!
+Wir können nur die Daumen drücken.
+!------------------------------!
+Quindi è meglio tenere
+le dita incrociate.
+!------------------------------!
+Pues entonces habrá que
+cruzar los dedos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, maybe Saïx and Xigbar are tough
+to fool, but come on<E2><80><95>Demyx?
+!------------------------------!
+Peut-être que Saïx et Xigbar ne sont
+pas idiots, mais Demyx franchement... 
+!------------------------------!
+Saïx und Xigbar sind vielleicht
+schwer zu überlisten, aber
+komm schon ... Demyx?
+!------------------------------!
+Forse è difficile fregare Saïx e
+Xigbar, ma... Demyx?
+!------------------------------!
+Puede que Saïx y Xigbar no lo
+sean, pero, vamos... ¿Demyx? 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ouch! Roxas, that's not cool.
+!------------------------------!
+Roxas...
+C'est pas sympa !
+!------------------------------!
+Autsch, Roxas.
+Das war jetzt
+aber nicht nett.
+!------------------------------!
+Oh! Roxas,
+non sono cose da dire.
+!------------------------------!
+Roxas.
+Te has pasado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But look at him! All he does is play his
+sitar all the time.
+!------------------------------!
+Mais tu l'as vu ?
+Il passe ses journées à jouer du sitar.
+!------------------------------!
+Aber sieh ihn dir doch an!
+Er macht die ganze Zeit nichts
+anderes als Sitar spielen.
+!------------------------------!
+Ma l'hai visto?
+Non fa altro che suonare
+il sitar tutto il giorno.
+!------------------------------!
+¡Pero míralo!
+No hace más que tocar el sitar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't think you give him enough credit.
+He works just as hard as<E2><80><95>
+!------------------------------!
+Je crois que tu le sous-estimes.
+Il travaille aussi dur que...
+!------------------------------!
+Du zollst ihm zu wenig Respekt.
+Er arbeitet genauso hart wie ...
+!------------------------------!
+Non è affatto come credi.
+Lui lavora sodo come tutti...
+!------------------------------!
+Le subestimas.
+Trabaja tanto como el que...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay, no he doesn't.
+But I'm pretty sure he has a job.
+!------------------------------!
+Oui bon, OK t'as raison.
+Mais il part en mission lui aussi.
+!------------------------------!
+Okay, macht er nicht.
+Aber er hat bestimmt
+eine Aufgabe.
+!------------------------------!
+Beh, no, hai ragione.
+Ma avrà di sicuro un compito.
+!------------------------------!
+Bueno, no.
+Pero va a las misiones.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know, I've seen Demyx out in the
+field, rocking out on that sitar of his.
+!------------------------------!
+Je l'ai déjà vu sur le terrain
+avec son sitar.
+!------------------------------!
+Ich habe ihn und seine Sitar
+schon im Einsatz gesehen.
+!------------------------------!
+Sai, io l'ho visto in azione
+con il suo sitar.
+!------------------------------!
+Lo he visto por ahí con ese
+sitar suyo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What does that accomplish?
+!------------------------------!
+Et il faisait quoi ?
+!------------------------------!
+Und was hat er getan?
+!------------------------------!
+A fare cosa?
+!------------------------------!
+¿Haciendo qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, for all you know, he's out there
+fighting Heartless and doing recon<E2><80><95>
+just the same as you.
+!------------------------------!
+Comme nous.
+Neutralisation de Sans-cœur,
+exploration...
+!------------------------------!
+Das Gleiche wie du.
+Er erledigt Herzlose, macht
+Aufklärungsarbeit ...
+!------------------------------!
+Beh, credo proprio che si
+occupi di eliminare gli Heartless,
+andare in ricognizione... proprio come te.
+!------------------------------!
+Lo mismo que nosotros. Cargarse 
+a los sincorazón, reconocimiento...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But I've heard him say he wasn't cut
+out for combat.
+!------------------------------!
+Pourtant, je l'ai déjà entendu dire
+qu'il n'était pas fait pour le combat.
+!------------------------------!
+Aber er sagt von sich selbst,
+er wäre nicht für den Kampf
+geschaffen.
+!------------------------------!
+Ma l'ho sentito che diceva che non è
+tagliato per i combattimenti.
+!------------------------------!
+Pero dijo que no estaba hecho
+para luchar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess everybody in the Organization
+is good at different things.
+!------------------------------!
+J'imagine que chaque membre de
+l'Organisation a ses forces et ses
+faiblesses.
+!------------------------------!
+Jedes Mitglied der Organisation
+verfügt über eine spezielle
+Fähigkeit.
+!------------------------------!
+Forse ogni membro
+dell'Organizzazione ha una
+sua specialità.
+!------------------------------!
+Supongo que, en la
+Organización, a cada uno se
+le dan bien cosas diferentes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's right.
+Everybody's unique.
+!------------------------------!
+C'est vrai.
+Tout le monde est unique.
+!------------------------------!
+Das stimmt.
+Jeder ist einzigartig.
+!------------------------------!
+Proprio così.
+Siamo tutti diversi.
+!------------------------------!
+Es cierto.
+Somos todos únicos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Even Nobodies?
+Don't you need a heart to be unique?
+!------------------------------!
+Même les Simili ?
+Est-ce qu'il ne faut pas un cœur
+pour être unique ?
+!------------------------------!
+Auch Niemande?
+Braucht man nicht ein Herz,
+um einzigartig zu sein?
+!------------------------------!
+Anche i Nessuno?
+Non serve un cuore per
+essere... unici?
+!------------------------------!
+¿Hasta los incorpóreos? ¿No hace
+falta un corazón para ser único?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, I think we have other things that
+set us apart.
+!------------------------------!
+Oh, je crois qu'il y a d'autres
+choses qui nous différencient.
+!------------------------------!
+Oh, ich glaube, uns zeichnen
+andere Dinge aus.
+!------------------------------!
+Oh, credo ci siano altre cose
+che ci differenziano.
+!------------------------------!
+Oh, yo creo que tenemos otras
+cosas que nos hacen únicos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like our pasts.
+!------------------------------!
+Notre passé, par exemple.
+!------------------------------!
+Wie unsere Vergangenheit.
+!------------------------------!
+Il nostro passato, per esempio.
+!------------------------------!
+Como nuestro pasado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What past?
+!------------------------------!
+Quel passé ?
+!------------------------------!
+Welche Vergangenheit?
+!------------------------------!
+Quale passato?
+!------------------------------!
+¿Qué pasado?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You remember stuff from before?
+!------------------------------!
+Tu te souviens de ta vie d'avant toi ?
+!------------------------------!
+Kannst du dich erinnern?
+!------------------------------!
+Ricordi qualcosa della
+tua vita precedente?
+!------------------------------!
+¿Tú recuerdas cosas de antes?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's one of the things that makes the
+Organization members special.
+!------------------------------!
+C'est ce qui fait que les membres de
+l'Organisation sont spéciaux.
+!------------------------------!
+Das ist eine der Besonderheiten
+an den Mitgliedern
+der Organisation.
+!------------------------------!
+È una delle cose che rende
+speciali i membri
+dell'Organizzazione.
+!------------------------------!
+Ésa es una de las cosas que
+hacen especiales a los
+miembros de la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Unlike lesser Nobodies, we remember
+who we were.
+!------------------------------!
+Contrairement aux Simili inférieurs,
+nous nous souvenons de ce que
+nous étions.
+!------------------------------!
+Im Gegensatz zu geringeren
+Niemanden können wir uns daran
+erinnern, wer wir einmal waren.
+!------------------------------!
+A differenza dei Nessuno
+inferiori, noi ricordiamo
+il nostro passato.
+!------------------------------!
+Al contrario que los
+incorpóreos menores, nosotros
+recordamos quiénes fuimos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't.
+!------------------------------!
+Ce n'est pas mon cas.
+!------------------------------!
+Ich kann das nicht.
+!------------------------------!
+Io no.
+!------------------------------!
+Yo no.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me neither.
+!------------------------------!
+Moi non plus.
+!------------------------------!
+Ich auch nicht.
+!------------------------------!
+Neanche io.
+!------------------------------!
+Ni yo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well...maybe that right there is what
+makes YOU unique.
+!------------------------------!
+Euh... ben c'est peut-être ça qui fait
+que vous êtes uniques.
+!------------------------------!
+Tja ... dann ist das vielleicht
+das, was EUCH einzigartig macht.
+!------------------------------!
+Beh... forse voi siete unici
+proprio per questo.
+!------------------------------!
+Bueno, puede que eso sea lo
+que os hace únicos a vosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What kind of person were you like
+before you were a Nobody?
+!------------------------------!
+Dis, à quoi ressemblais-tu avant de
+devenir un Simili ?
+!------------------------------!
+Wie warst du so, als du noch
+kein Niemand warst?
+!------------------------------!
+Che tipo di persona eri prima
+di diventare un Nessuno?
+!------------------------------!
+¿Cómo eras tú antes de
+ser un incorpóreo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me? Oh, I dunno.
+Same guy, more or less.
+!------------------------------!
+Moi ? Oh, je sais pas trop...
+J'étais pareil que maintenant,
+plus ou moins.
+!------------------------------!
+Ich? Oh, keine Ahnung.
+Im Großen und Ganzen genauso
+wie jetzt.
+!------------------------------!
+Io? Oh, non saprei.
+La stessa, più o meno.
+!------------------------------!
+¿Yo? Oh, no sé.
+Igual, más o menos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lucky.
+I wish I could remember.
+!------------------------------!
+Tu as de la chance.
+J'aimerais pouvoir me souvenir.
+!------------------------------!
+Glückspilz.
+Ich wünschte, ich könnte mich
+erinnern.
+!------------------------------!
+Hai una bella fortuna.
+Anch'io vorrei ricordare.
+!------------------------------!
+Qué suerte.
+Ojalá yo pudiera recordar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Trust me, you're not missing much.
+Who needs baggage, right?
+!------------------------------!
+Crois-moi, tu ne rates pas grand-
+chose. Personne n'a besoin de son
+bagage émotionnel, pas vrai ?
+!------------------------------!
+Glaub mir, du versäumst nicht
+viel. Wer braucht schon
+überschüssigen Ballast.
+!------------------------------!
+Fidati, non ti perdi molto.
+I ricordi sono solo un peso.
+!------------------------------!
+No te pierdes gran cosa, créeme.
+Los recuerdos no son más
+que una carga.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But I can't remember anything<E2><80><95>
+not even my first week as a Nobody.
+!------------------------------!
+Mais je ne me souviens de rien, pas
+même de ma première semaine en
+tant que Simili.
+!------------------------------!
+Aber ich kann mich an gar nichts
+erinnern ... nicht einmal an meine
+erste Woche als Niemand.
+!------------------------------!
+Ma io non ricordo nulla, neanche
+la mia prima settimana da
+Nessuno.
+!------------------------------!
+Pero es que yo no recuerdo
+nada, ni mi primera semana
+como incorpóreo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Man, whatever.
+You have trouble remembering things
+from five seconds ago.
+!------------------------------!
+Bah, on s'en fiche ! Déjà que t'as
+du mal à te souvenir de ce qu'il
+s'est passé il y a cinq minutes...
+!------------------------------!
+Mannomann. Du hast sogar
+Probleme, dich an Sachen von
+vor fünf Sekunden zu erinnern.
+!------------------------------!
+Pazienza. Del resto,
+non ricordi nemmeno cosa
+è successo cinque secondi fa.
+!------------------------------!
+Bueno, hombre. Tú tienes
+problemas para recordar cosas
+que pasaron hace cinco segundos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, thanks!
+!------------------------------!
+Sympa, merci !
+!------------------------------!
+Oh, vielen Dank!
+!------------------------------!
+Oh, grazie tante!
+!------------------------------!
+¡Oh, gracias!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm like you, Roxas. I don't remember
+much from the beginning either.
+!------------------------------!
+Je suis comme toi, Roxas.
+Je ne me souviens pas non
+plus du commencement.
+!------------------------------!
+Ich bin wie du, Roxas. Ich kann
+mich auch an kaum etwas
+erinnern.
+!------------------------------!
+Io sono come te, Roxas.
+Non ricordo quasi nulla.
+!------------------------------!
+Nos parecemos, Roxas. Yo tampoco
+recuerdo mucho del principio.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You two do have a lot in common.
+!------------------------------!
+Vous avez vraiment beaucoup de points
+communs tous les deux.
+!------------------------------!
+Ihr beide habt viel gemeinsam.
+!------------------------------!
+Voi due avete molto in comune.
+!------------------------------!
+Tenéis muchas cosas en común.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wonder what kind of guy I was
+before...
+!------------------------------!
+Je me demande à quoi je ressemblais
+avant...
+!------------------------------!
+Wie ich wohl früher mal war ...
+!------------------------------!
+Chissà che persona
+ero in passato...
+!------------------------------!
+Me pregunto cómo
+era yo antes...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

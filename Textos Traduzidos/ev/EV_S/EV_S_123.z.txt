@@ -1,0 +1,621 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:40
+!******************************!
+&.[HDR].2&
+mi/ch/0F.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/12.z
+!******************************!
+&.[HDR].2&
+mi/ob/22.z
+!******************************!
+&.[HDR].2&
+mi/ob/23.z
+!******************************!
+&.[HDR].2&
+mi/ob/A2.z
+!******************************!
+&.[DCA].Bip.&
+S_Book_1
+!******************************!
+&.[DCA].Bip.&
+S_Book_2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wasn't sure I'd see you again.
+!------------------------------!
+Je n'étais pas sûre de te revoir.
+!------------------------------!
+Ich wusste nicht, ob ich dich
+noch mal wiedersehen würde.
+!------------------------------!
+Non ero sicura di rivederti.
+!------------------------------!
+No sabía si íbamos
+a volver a vernos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You made me a promise.
+!------------------------------!
+Tu m'as fait une promesse.
+!------------------------------!
+Du hast mir ein Versprechen
+gegeben.
+!------------------------------!
+Mi avevi fatto una promessa.
+!------------------------------!
+Me hiciste una promesa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+To look after Sora.
+I remember.
+!------------------------------!
+De veiller sur Sora.
+Oui, je m'en souviens.
+!------------------------------!
+Mich um Sora zu kümmern,
+ich weiß.
+!------------------------------!
+Ho promesso di badare a Sora.
+Me lo ricordo.
+!------------------------------!
+Cuidar de Sora.
+Lo recuerdo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm sorry... I'm not sure I've kept
+that promise very well.
+!------------------------------!
+Désolée... mais je crois que je n'ai pas
+vraiment réussi à tenir cette
+promesse.
+!------------------------------!
+Tut mir leid ... Ich glaube nicht,
+dass ich dieses Versprechen
+richtig eingehalten habe.
+!------------------------------!
+Scusa... Non sono sicura
+di averla mantenuta bene.
+!------------------------------!
+Lo siento... Creo que no he
+sido muy diligente en cumplirla.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What happened?
+!------------------------------!
+Que s'est-il passé ?
+!------------------------------!
+Was ist passiert?
+!------------------------------!
+Cosa è successo?
+!------------------------------!
+¿Qué ha pasado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Some of Sora's memories are missing.
+!------------------------------!
+Il manque certains des souvenirs
+de Sora.
+!------------------------------!
+Ein paar von Soras Erinnerungen
+sind verschwunden.
+!------------------------------!
+Mancano alcuni ricordi di Sora.
+!------------------------------!
+Sora ha perdido
+parte de sus recuerdos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How can that be?
+!------------------------------!
+Comment est-ce possible ?
+!------------------------------!
+Wie kann das sein?
+!------------------------------!
+Come è possibile?
+!------------------------------!
+¿Cómo es posible?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They're escaping through Sora's
+Nobody into a third person<E2><80><95>
+!------------------------------!
+Ils s'échappent du Simili de Sora et
+passent dans une troisième personne...
+!------------------------------!
+Sie fließen durch Soras Niemand
+in eine dritte Person ...
+!------------------------------!
+Stanno passando dal Nessuno
+di Sora a una terza persona...
+!------------------------------!
+Están escapando a través de su
+incorpóreo a un tercero...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+and now they're starting to become a
+part of her.
+!------------------------------!
+Et maintenant, ils deviennent une
+partie d'elle.
+!------------------------------!
+und jetzt werden sie zu einem Teil
+von ihr.
+!------------------------------!
+e ora iniziano a diventare
+parte di lei.
+!------------------------------!
+y ahora están empezando a
+convertirse en parte de ella.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You can't get the memories back out?
+!------------------------------!
+Et tu ne peux pas récupérer ces
+souvenirs ?
+!------------------------------!
+Können die Erinnerungen denn
+nicht wieder zurück?
+!------------------------------!
+Non puoi recuperare i ricordi?
+!------------------------------!
+¿No puedes hacerlos regresar?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If they're still separate...then yes,
+I think so.
+!------------------------------!
+S'ils sont toujours séparés...
+alors oui, je crois que je peux.
+!------------------------------!
+Solange sie noch voneinander
+getrennt sind ... ja.
+Das glaube ich zumindest.
+!------------------------------!
+Penso di sì... ma solo se
+sono ancora separati.
+!------------------------------!
+Si siguen separados... sí.
+Creo que sí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But if they join with her memories,
+things get a lot more complicated.
+!------------------------------!
+Mais s'ils se recoupent avec ses
+propres souvenirs à elle, ce sera
+bien plus compliqué.
+!------------------------------!
+Aber wenn sie sich mit ihren
+Erinnerungen verbinden, wird
+alles viel komplizierter.
+!------------------------------!
+Se dovessero unirsi ai suoi,
+le cose diventerebbero molto
+più complicate.
+!------------------------------!
+Pero si se unen a los recuerdos
+de ella, las cosas
+se complicarán más.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I would need to untangle her memory
+before I could finish Sora's...
+!------------------------------!
+Il faudra que je démêle ses souvenirs
+à elle avant de pouvoir compléter
+ceux de Sora...
+!------------------------------!
+Ich müsste ihr Gedächtnis erst
+entwirren, bevor ich Soras
+wieder in Ordnung bringen könnte.
+!------------------------------!
+Dovrei districare la sua memoria
+per completare quella di Sora...
+!------------------------------!
+Tendría que desenmarañar sus
+recuerdos antes de
+terminar con los de Sora...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What was supposed to take months
+might take years.
+!------------------------------!
+Ce qui était censé durer des mois
+pourrait prendre des années.
+!------------------------------!
+Was Monate dauern sollte, könnte
+jetzt Jahre dauern.
+!------------------------------!
+E un lavoro che doveva durare
+mesi potrebbe richiedere diversi
+anni.
+!------------------------------!
+Se supone que tardaría
+meses, incluso años.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+DiZ would be furious.
+!------------------------------!
+DiZ serait furieux.
+!------------------------------!
+Das wäre fatal.
+!------------------------------!
+DiZ si arrabbierebbe molto.
+!------------------------------!
+DiZ se enfurecería.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So what's the solution?
+!------------------------------!
+Quelle est la solution ?
+!------------------------------!
+Und was jetzt?
+!------------------------------!
+Allora qual è la soluzione?
+!------------------------------!
+¿Y qué solución hay?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If I try to just jump in and rearrange
+her memory...
+!------------------------------!
+Si j'essaie de démêler ses souvenirs
+à elle sans plus attendre...
+!------------------------------!
+Wenn ich einfach versuche,
+ihr Gedächtnis neu zu ordnen ...
+!------------------------------!
+Se decidessi di intervenire
+e riordinare la sua memoria...
+!------------------------------!
+Si me precipito e intento
+arreglarle la memoria...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...then I risk Sora waking up to find out
+that nobody remembers him anymore.
+!------------------------------!
+il se peut que Sora se réveille et
+découvre que plus personne ne se
+souvient de lui.
+!------------------------------!
+... riskiere ich, dass Sora aufwacht
+und herausfindet, dass sich niemand
+an ihn erinnert.
+!------------------------------!
+Sora potrebbe svegliarsi e
+scoprire che nessuno si
+ricorda di lui.
+!------------------------------!
+me arriesgo a que Sora despierte
+y se dé cuenta de que
+nadie se acuerda de él.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't do that to him.
+!------------------------------!
+Je ne peux pas lui faire ça.
+!------------------------------!
+Das kann ich ihm nicht antun.
+!------------------------------!
+Non posso fargli questo.
+!------------------------------!
+No puedo hacerle eso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's too late either way.
+His awakening will have to be delayed.
+!------------------------------!
+Il est trop tard de toute façon.
+Son réveil va devoir être différé.
+!------------------------------!
+Es ist so oder so zu spät.
+Sein Erwachen muss hinausgezögert
+werden.
+!------------------------------!
+In ogni caso è troppo tardi.
+Il suo risveglio dovrà
+essere rimandato.
+!------------------------------!
+Sea como sea, es demasiado
+tarde. Habrá que
+retrasar su despertar.
+!------------------------------!
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I never imagined Sora's Nobody and
+the other one would fight so hard to
+be their own people.
+!------------------------------!
+Je n'aurais jamais imaginé que le Simili
+de Sora et l'autre se démènent autant
+pour avoir leur propre existence.
+!------------------------------!
+Ich hätte nie gedacht, dass Soras
+Niemand und die andere so kämpfen
+würden, um eigenständig zu sein.
+!------------------------------!
+Non pensavo che quella persona
+e il Nessuno di Sora avrebbero
+lottato così duramente.
+!------------------------------!
+Nunca pensé que dos incorpóreos
+lucharían tanto por convertirse
+en personas reales.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Unfortunately, the only real solution...
+is for them both to go away.
+!------------------------------!
+Mais la seule véritable solution...
+c'est qu'ils disparaissent tous les
+deux.
+!------------------------------!
+Leider besteht die einzige wirkliche
+Lösung darin, dass sie beide
+sterben.
+!------------------------------!
+Purtroppo, l'unica vera
+soluzione... è che
+spariscano entrambi.
+!------------------------------!
+Por desgracia,
+la única solución...
+es que se vayan los dos.
+!------------------------------!
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did you know her face was blank at
+first?
+!------------------------------!
+Savais-tu qu'elle n'avait pas de
+visage au début ?
+!------------------------------!
+Wusstest du, dass sie zunächst kein
+Gesicht hatten?
+!------------------------------!
+Lo sapevi che all'inizio
+non aveva un volto?
+!------------------------------!
+¿Sabías que, al principio, su
+rostro estaba vacío?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Only now can you see someone.
+!------------------------------!
+Ce n'est que maintenant qu'on peut
+voir quelqu'un.
+!------------------------------!
+Erst jetzt kann man jemanden
+erkennen.
+!------------------------------!
+Solo ora si riesce a
+riconoscere qualcuno.
+!------------------------------!
+Solo ahora se puede
+ver a alguien.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That proves some of Sora's memories
+are inside her.
+!------------------------------!
+Ceci prouve que des souvenirs
+de Sora sont en elle.
+!------------------------------!
+Das beweist, dass einige von Soras
+Erinnerungen in ihr stecken.
+!------------------------------!
+Ciò dimostra che alcuni ricordi
+di Sora sono dentro di lei.
+!------------------------------!
+Eso demuestra que parte de los
+recuerdos de Sora
+siguen en su interior.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Some inside her, some inside Sora...
+others inside Sora's Nobody...
+!------------------------------!
+Certains en elle, d'autres en Sora...
+et d'autres encore dans le Simili
+de Sora...
+!------------------------------!
+Ein paar in ihr und ein paar in Sora ...
+und ein paar in Soras Niemand ...
+!------------------------------!
+Alcuni dentro di lei, alcuni
+dentro Sora... e altri dentro il
+Nessuno di Sora.
+!------------------------------!
+Algunos en ella, otros
+en Sora... y otros en
+el incorpóreo de Sora...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't sort it out anymore.
+All I can do is pick up the pieces once
+what has to be done, is done.
+!------------------------------!
+Je suis impuissante. Tout ce que je
+peux faire, c'est attendre l'inéluctable
+et ramasser les morceaux.
+!------------------------------!
+Ich komm ganz durcheinander.
+Ich kann erst etwas machen,
+nachdem das Notwendige getan wurde.
+!------------------------------!
+Ormai non posso più distinguerli.
+Posso soltanto raccogliere
+i pezzi quando tutto sarà finito.
+!------------------------------!
+Ya no logro distinguirlos. Solo
+puedo ordenar las piezas una
+vez haya hecho lo que debo.
+!------------------------------!
+!******************************!
+&.[HDR].2&
+2:40
+!******************************!
+&.[HDR].2&
+mi/ch/0F.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/12.z
+!******************************!
+&.[HDR].2&
+mi/ob/22.z
+!******************************!
+&.[HDR].2&
+mi/ob/23.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ri.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, then.
+!------------------------------!
+Alors qu'il en soit ainsi.
+!------------------------------!
+Also gut.
+!------------------------------!
+D'accordo.
+!------------------------------!
+Muy bien.
+!------------------------------!
+!******************************!

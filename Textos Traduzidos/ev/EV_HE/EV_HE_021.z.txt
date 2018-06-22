@@ -1,0 +1,544 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're out on heart collection today,
+right? Sigh... I'm so not cut out for
+combat.
+!------------------------------!
+On est ici pour récupérer des cœurs
+aujourd'hui, c'est ça ? Pff... je ne suis
+vraiment pas fait pour le combat moi.
+!------------------------------!
+Wir sind heute auf Herzsammlung,
+oder? <3C>Seufz<3E> ... Ich bin nicht
+fürs Kämpfen gemacht.
+!------------------------------!
+Oggi dobbiamo raccogliere
+cuori, no? Uff... Combattere
+non è il mio forte.
+!------------------------------!
+Hoy hemos salido a buscar
+corazones, ¿no? Ay... No estoy
+demasiado hecho para el combate.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Would it kill them to give me a recon
+mission or...I don't know, something
+un-violent?
+!------------------------------!
+Ils ne pourraient pas me donner une
+mission d'exploration ou euh... enfin,
+quelque chose de non-violent, quoi !
+!------------------------------!
+Die könnten mir ruhig mal eine
+Aufklärungsmission oder ...
+was Gewaltloses geben.
+!------------------------------!
+Perché non mi assegnano una
+missione di ricognizione...
+o qualcosa di non-violento?
+!------------------------------!
+¿Debo matarlos para que me den
+misiones de reconocimiento o...
+no sé, algo menos violento?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(The Coliseum's our best bet for
+ finding a whole pack of Heartless at
+ once.)
+!------------------------------!
+(Le Colisée est le meilleur endroit
+ pour trouver des hordes de
+ Sans-cœur.)
+!------------------------------!
+(In der Arena findet man sicher
+ ein ganzes Rudel Herzlose
+ auf einmal.)
+!------------------------------!
+(Se vogliamo sconfiggere un
+gran numero di Heartless,
+lo stadio è il posto migliore.)
+!------------------------------!
+(El Coliseo es la mejor apuesta
+para encontrar a una manada
+entera de sincorazón a la vez).
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Follow me, Demyx.
+!------------------------------!
+Suis-moi, Demyx.
+!------------------------------!
+Folge mir, Demyx.
+!------------------------------!
+Seguimi, Demyx.
+!------------------------------!
+Sígueme, Demyx.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We'll find the Heartless in here.
+!------------------------------!
+Les Sans-cœur sont dans le Colisée.
+!------------------------------!
+Wir werden die Herzlosen hier drin
+finden.
+!------------------------------!
+Qui dentro troveremo
+gli Heartless.
+!------------------------------!
+Encontraremos a los sincorazón
+aquí dentro.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay, right on...
+Ooh, but should we just go waltzing in?
+Won't someone see?
+!------------------------------!
+OK, je te suis... Mais euh... on y va
+comme ça ? On ne risque pas de
+se faire repérer ?
+!------------------------------!
+Okay, los geht's ... Oh, sollen
+wir da einfach reinspazieren?
+Wird das nicht jemand sehen?
+!------------------------------!
+Bene, come vuoi...
+Oh, ma possiamo entrare così?
+Qualcuno potrebbe vederci.
+!------------------------------!
+Vale, vamos... Oh, ¿pero cómo
+podemos entrar como si nada?
+¿No nos verá alguien?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't worry. We'll just say you're
+another aspiring hero here for some
+training.
+!------------------------------!
+C'est bon. On dira que tu es un autre
+héros en herbe qui vient s'entraîner.
+!------------------------------!
+Keine Sorge. Wir sagen einfach,
+du wärst ein neuer Heldenschüler
+auf dem Weg zum Training.
+!------------------------------!
+Non preoccuparti. Diremo
+che sei un nuovo apprendista
+eroe che vuole allenarsi.
+!------------------------------!
+No pasa nada. Diremos que eres
+otro aspirante a héroe que ha
+venido a entrenar un poco.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Trust me, it'll be fine.
+!------------------------------!
+Ça va marcher, fais-moi confiance.
+!------------------------------!
+Vertrau mir, das wird schon werden.
+!------------------------------!
+Fidati, andrà tutto liscio.
+!------------------------------!
+Confía en mí. Saldrá bien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wait, training!? That sounds like work,
+which means sweating. Which is gross.
+!------------------------------!
+S'entraîner ? Ça veut dire que
+je vais devoir transpirer ?
+Quelle horreur...
+!------------------------------!
+Warte, Training!? Das hört sich
+nach Arbeit an und das bedeutet
+Schweiß und der ist eklig.
+!------------------------------!
+Allenamento? Suona come
+lavorare, che è faticoso. E come
+sudare, che non è bello!
+!------------------------------!
+Espera, ¿entrenar? Eso suena a
+trabajar, que implica sudar,
+lo cual es ordinario.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's that, or stay out here.
+!------------------------------!
+C'est soit ça, soit tu restes ici.
+!------------------------------!
+Entweder das oder draußen bleiben.
+!------------------------------!
+Preferisci restare qui fuori?
+!------------------------------!
+O eso o te quedas aquí fuera.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, actually...
+!------------------------------!
+Ben en fait...
+!------------------------------!
+Hmm, ehrlich gesagt ...
+!------------------------------!
+Uhm, ecco...
+!------------------------------!
+Mm, la verdad...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah!
+!------------------------------!
+C'est d'accord !
+!------------------------------!
+Ja!
+!------------------------------!
+Sì!
+!------------------------------!
+¡Sí!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was?
+!------------------------------!
+Che cosa?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We'll split up!
+And, uh...form two strike forces!
+!------------------------------!
+Séparons-nous ! Oui, euh... formons
+deux équipes distinctes !
+!------------------------------!
+Wir trennen uns!
+Und bilden, äh ...
+zwei Angriffsformationen!
+!------------------------------!
+Ci divideremo!
+E formeremo due... ehm...
+squadre d'assalto!
+!------------------------------!
+¡Nos dividiremos!
+¡Y, eh... formaremos dos
+fuerzas de ataque!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll handle the Heartless out here.
+You take the ones inside.
+!------------------------------!
+Moi, je m'occupe des Sans-cœur
+ici et toi, tu te charges de ceux
+qui sont à l'intérieur.
+!------------------------------!
+Ich kümmere mich um die
+Herzlosen hier draußen und du
+nimmst dir die drinnen vor.
+!------------------------------!
+Io mi occupo degli Heartless
+qui fuori, tu di quelli all'interno.
+!------------------------------!
+Yo me encargaré de los
+sincorazón de fuera.
+Y tú, de los de dentro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Covering a broader range means more
+efficient collection, right?
+!------------------------------!
+Si on couvre une zone plus large,
+on devrait récupérer plus de cœurs,
+non ?
+!------------------------------!
+So können wir ein größeres
+Gebiet abdecken und noch mehr
+Herzen sammeln, oder?
+!------------------------------!
+In questo modo potremo
+raccogliere molti più cuori,
+non credi?
+!------------------------------!
+Cubrir un terreno mayor implica
+una cosecha de corazones más
+eficiente, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess?
+!------------------------------!
+C'est ça...
+!------------------------------!
+Vielleicht.
+!------------------------------!
+Davvero?
+!------------------------------!
+Supongo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(And while you collect those hearts,
+ maybe I can collect some Z's...)
+!------------------------------!
+(Et pendant que tu récupéreras des
+ cœurs, je prendrai du bon temps...)
+!------------------------------!
+(Und während du Herzen sammelst,
+ kann ich vielleicht
+ ein Nickerchen machen ...)
+!------------------------------!
+(E mentre tu pensi ai cuori,
+io penserò a schiacciare
+un bel pisolino...)
+!------------------------------!
+(Mientras tú recoges corazones,
+puede que yo cuente
+ovejitas...)
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's the matter?
+!------------------------------!
+Qu'est-ce qu'il y a ?
+!------------------------------!
+Was ist?
+!------------------------------!
+Che ti prende?
+!------------------------------!
+¿Cuál es el problema?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nothing!
+Well, good luck in there, Roxas.
+!------------------------------!
+Rien !
+Allez, bonne chance, Roxas.
+!------------------------------!
+Nichts!
+Alles Gute, Roxas.
+!------------------------------!
+Niente!
+Allora buona fortuna, Roxas.
+!------------------------------!
+¡Nada!
+Bueno, suerte ahí dentro, Roxas.
+!------------------------------!
+!******************************!

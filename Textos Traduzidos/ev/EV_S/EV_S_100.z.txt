@@ -1,0 +1,287 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/51.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Salut, Roxas.
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Ehi, Roxas.
+!------------------------------!
+Eh, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Find out anything about Xion?
+!------------------------------!
+Alors, tu sais quelque chose
+sur Xion ?
+!------------------------------!
+Hast du was über Xion
+herausgefunden?
+!------------------------------!
+Scoperto niente su Xion?
+!------------------------------!
+¿Has averiguado algo sobre Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I talked to Saïx.
+!------------------------------!
+J'ai parlé à Saïx.
+!------------------------------!
+Ich habe mit Saïx gesprochen. 
+!------------------------------!
+Ho parlato con Saïx.
+!------------------------------!
+He hablado con Saïx.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really!?
+What did he say?
+!------------------------------!
+Et ?
+Qu'est-ce qu'il a dit ?
+!------------------------------!
+Wirklich!?
+Was hat er gesagt?
+!------------------------------!
+Davvero?!?
+Cosa ha detto?
+!------------------------------!
+¡¿Sí?!
+¿Y qué te ha dicho?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+His...his lips were sealed.
+Sorry, man, I tried.
+!------------------------------!
+Pas un mot. Désolé, mon pote.
+J'ai essayé pourtant.
+!------------------------------!
+Seine ... Lippen waren verschlossen.
+Tut mir leid, Mann, ich hab's
+versucht.
+!------------------------------!
+Non ha vuotato il sacco.
+Mi dispiace, amico.
+Io ci ho provato.
+!------------------------------!
+Sus... sus labios están sellados.
+Lo siento, tío, lo intenté.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's okay.
+!------------------------------!
+Tant pis.
+!------------------------------!
+Schon okay.
+!------------------------------!
+Non fa niente.
+!------------------------------!
+No pasa nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But he did say he would take back
+calling her broken<E2><80><95>IF she proves
+herself more capable going forward.
+!------------------------------!
+Mais il a quand même juré de ne plus
+dire qu'elle était cassée si elle se
+montrait capable de progresser.
+!------------------------------!
+Aber er sagte, er würde das mit
+dem kaputt zurücknehmen, WENN
+sie sich als fähig erwiese.
+!------------------------------!
+Ma ha detto che smetterà di
+definirla "difettosa" se lei si
+dimostrerà più capace.
+!------------------------------!
+Pero dijo que dejaría de
+llamarla rota... si demuestra
+que es capaz de continuar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The best thing you can do for her now
+is keep up the good work.
+!------------------------------!
+Ce que tu peux faire de mieux pour
+elle maintenant, c'est travailler dur.
+!------------------------------!
+Das Beste, was du für sie
+tun kannst, ist weiter
+so gute Arbeit zu leisten.
+!------------------------------!
+Ora la cosa migliore che
+puoi fare per lei è continuare
+a impegnarti al massimo.
+!------------------------------!
+Lo mejor que puedes hacer ahora
+es seguir con tu buen trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I will! Thanks, Axel.
+That's great news!
+!------------------------------!
+D'accord ! Merci, Axel.
+C'est une bonne nouvelle !
+!------------------------------!
+Werd ich! Danke, Axel.
+Das sind tolle Neuigkeiten.
+!------------------------------!
+Lo farò! Grazie, Axel.
+Sono ottime notizie!
+!------------------------------!
+¡Así lo haré! Gracias, Axel.
+¡Qué buenas noticias!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, sorry, Roxas...
+!------------------------------!
+Désolé, Roxas...
+!------------------------------!
+Uff, tut mir leid, Roxas ...
+!------------------------------!
+Uff, mi dispiace, Roxas...
+!------------------------------!
+Uf, lo siento, Roxas...
+!------------------------------!
+!******************************!

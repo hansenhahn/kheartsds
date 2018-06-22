@@ -1,0 +1,124 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, let's get started.
+You ready?
+!------------------------------!
+Bon, on passe à l'entraînement.
+T'es prêt ?
+!------------------------------!
+Okay, legen wir los.
+Bist du bereit?
+!------------------------------!
+Bene, cominciamo.
+Sei pronto?
+!------------------------------!
+Bueno, empecemos de una vez.
+¿Listo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uhh...
+!------------------------------!
+Euh...
+!------------------------------!
+Ähh ...
+!------------------------------!
+Uh...
+!------------------------------!
+Estooo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Hmm, I'm not finished with my recon.)
+!------------------------------!
+(Hmm, je n'ai pas fini d'explorer
+les lieux.)
+!------------------------------!
+(Hmm, ich muss mich noch weiter
+ umsehen.)
+!------------------------------!
+(Non ho ancora completato
+la mia ricognizione.)
+!------------------------------!
+(Mmm, aún no he terminado el
+reconocimiento.)
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? You forget to tie your sandals?
+Get a move on!
+!------------------------------!
+Qu'est-ce qu'il y a ?
+T'as oublié de prendre ton
+petit-déj' ? Allez, on s'active !
+!------------------------------!
+Hast du etwa vergessen, deine
+Sandalen zu schnüren? Mach schon!
+!------------------------------!
+Che c'è? Ti sei dimenticato
+di allacciarti i sandali?
+Datti una mossa!
+!------------------------------!
+¿Qué? ¿Te has olvidado de atarte
+las sandalias? ¡Espabila!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Every second counts.
+I'll be waitin' for ya right here.
+!------------------------------!
+Chaque seconde compte, petit !
+Allez, je t'attends ici.
+!------------------------------!
+Jede Sekunde zählt.
+Ich warte genau hier auf dich.
+!------------------------------!
+Ogni secondo è prezioso.
+Resterò ad aspettarti qui.
+!------------------------------!
+Cada segundo cuenta.
+Te estaré esperando aquí mismo.
+!------------------------------!
+!******************************!

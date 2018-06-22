@@ -1,0 +1,157 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/24.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/4B.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, my fur and whiskers!
+I'm late, I'm late, for a very important
+date!
+!------------------------------!
+Par mes moustaches, je suis en
+retard ! J'ai rendez-vous quelque
+part !
+!------------------------------!
+Oh, bei meinen Barthaaren! Ich
+komme zu spät zu einer äußerst
+wichtigen Verabredung!
+!------------------------------!
+Oh, poffare, poffarissimo!
+È tardi, è tardi!
+Farò tardi all'appuntamento!
+!------------------------------!
+¡Oh, por mi pelo y mis bigotes!
+Llego tarde, tarde, tarde a una
+cita importante.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000000000007000F00.*
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Dear me! I mustn't make Her Highness
+wait<E2><80><95>I'm late, I'm late, I'm late!
+!------------------------------!
+Je ne dois pas faire attendre
+Sa Majesté ! Je suis en retard,
+en retard !
+!------------------------------!
+Mein Gott! Ich darf Ihre Majestät
+nicht warten lassen ... ich komme
+zu spät, zu spät, zu spät!
+!------------------------------!
+Povero me! Non posso far attendere
+Sua Maestà. È tardi, è tardi, è tardi!
+!------------------------------!
+¡Oh, cielos! No puedo hacer esperar
+a Su Maj... ¡Qué tarde! ¡Tardísimo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No time to say goodbye<E2><80><95> Hello...
+I'm late, I'm late, I'm late!
+!------------------------------!
+Je n'ai pas le temps de dire au
+revoir ! Je suis en retard,
+en retard. 
+!------------------------------!
+Keine Zeit, Tschüs zu sagen ...
+Hallo ... ich komme zu spät,
+zu spät, zu spät!
+!------------------------------!
+Non c'è tempo per salutare. Salve!
+È tardi, è tardi, è tardi!
+!------------------------------!
+No tengo tiempo de decir adiós...
+Oh, hola... ¡Llego tarde! ¡Tarde!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's his big rush?
+Maybe I should have a look up ahead.
+!------------------------------!
+Pourquoi est-il si pressé ?
+Je devrais peut-être le suivre.
+!------------------------------!
+Warum beeilt es sich so?
+Vielleicht sollte ich mal
+nachsehen.
+!------------------------------!
+Perché tutta quella fretta?
+Forse dovrei dare un'occhiata
+più avanti.
+!------------------------------!
+¿A qué viene tanta prisa? Igual
+debería echar un vistazo por
+ahí delante.
+!------------------------------!
+!******************************!

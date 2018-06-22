@@ -1,0 +1,370 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion is gone.
+!------------------------------!
+Xion est partie.
+!------------------------------!
+Xion ist weg.
+!------------------------------!
+Xion se n'è andata.
+!------------------------------!
+Xion se ha ido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What!? Whoa whoa, time out...
+You mean she, like, flew the coop?
+!------------------------------!
+Quoi ? Comment ça <E2><80><9C>partie<E2><80><9D> ?
+Elle a pris la poudre d'escampette ?
+!------------------------------!
+Was!? Hey, Moment mal ... Weg!?
+Du meinst, sie ist davongeflogen?
+!------------------------------!
+Ehi, aspetta un attimo... COSA?
+Ci ha piantati in asso?!?
+!------------------------------!
+Eh, eh, tiempo... ¿Quieres decir
+que ha ahuecado el ala?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hah, preposterous. What would drive
+her to choose her own demise?
+!------------------------------!
+Ha, c'est absurde ! Qu'est-ce qui
+pourrait la pousser vers sa propre
+perte ?
+!------------------------------!
+Ha, grotesk. Warum würde sie
+ihren eigenen Untergang
+heraufberschwören?
+!------------------------------!
+Ah, non posso crederci.
+Perché avrebbe scelto di
+autodistruggersi?
+!------------------------------!
+Ja, qué absurdo. ¿Qué le lleva-
+ría a escoger su muerte?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+On the contrary.
+No one is to go looking for Xion without
+my express permission.
+!------------------------------!
+C'est tout le contraire.
+Personne n'ira la chercher
+sans ma permission.
+!------------------------------!
+Im Gegenteil.
+Ohne meine Erlaubnis wird
+niemand nach ihr suchen.
+!------------------------------!
+Le cose non stanno così.
+Nessuno può andare a cercarla
+senza la mia autorizzazione.
+!------------------------------!
+Todo lo contrario.
+Nadie va a ir en busca de Xion
+sin mi permiso expreso.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? Why not!?
+!------------------------------!
+Quoi ? Pourquoi ?
+!------------------------------!
+Was? Warum nicht!?
+!------------------------------!
+Cosa? Perché no?!?
+!------------------------------!
+¿Qué? ¿Y por qué no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Your <E2><80><9C>friend<E2><80><9D> will be left alone.
+Or would you rather we find some
+punishment?
+!------------------------------!
+Elle restera seule.
+Ou préfères-tu t'en débarrasser
+de tes propres mains ?
+!------------------------------!
+Deine <E2><80><9E>Freundin<E2><80><9C> wird in Ruhe
+gelassen. Oder möchtest du,
+dass wir sie bestrafen?
+!------------------------------!
+Verrà abbandonata a se stessa.
+Oppure preferisci che
+la distruggiamo?
+!------------------------------!
+Tu "amiga" irá a su aire.
+¿O prefieres que la castiguemos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'd rather you get her back!
+!------------------------------!
+Je préfère que tu la ramènes ici !
+!------------------------------!
+Ich möchte, dass du sie
+zurückholst.
+!------------------------------!
+Preferirei che voi la
+riportaste indietro!
+!------------------------------!
+¡Preferiría que la
+hicieras volver!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And why would we do that?
+!------------------------------!
+Et pourquoi le ferais-je ?
+!------------------------------!
+Und warum sollte ich das?
+!------------------------------!
+E perché dovremmo farlo?
+!------------------------------!
+¿Y por qué deberíamos hacerlo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Rrgh...
+!------------------------------!
+Grr...
+!------------------------------!
+Argh ...
+!------------------------------!
+Rrgh...
+!------------------------------!
+Grrr...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All will be revealed when the time
+comes.
+!------------------------------!
+Tout sera révélé le moment venu.
+!------------------------------!
+Alles wird enthüllt werden,
+wenn die richtige Zeit
+gekommen ist.
+!------------------------------!
+Tutto sarà chiarito al
+momento opportuno.
+!------------------------------!
+Todo se explicará cuando
+llegue el momento.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm... Which means, if the time doesn't
+come, things can stay as they are...
+!------------------------------!
+Mais... si ce moment ne vient jamais,
+les choses peuvent rester ce qu'elles
+sont...
+!------------------------------!
+Hmm ... dann ... bleibt alles
+so wie es ist, wenn die Zeit
+nicht kommt?
+!------------------------------!
+Mmm... Allora finché non
+arriverà quel momento... le cose
+dovranno restare così...
+!------------------------------!
+Mm... Y si no llega el momento,
+las cosas se quedarán como
+están, claro...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lord Xemnas has spoken.
+Obey, or face your end.
+!------------------------------!
+Vous avez reçu vos ordres.
+Obéissez ou vous en subirez
+les conséquences.
+!------------------------------!
+Lord Xemnas hat gesprochen.
+Gehorcht oder sterbt.
+!------------------------------!
+Avete i vostri ordini.
+Obbedite... o sarete annientati.
+!------------------------------!
+Lord Xemnas ha hablado.
+Obedece o morirás.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

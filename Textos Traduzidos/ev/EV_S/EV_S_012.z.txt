@@ -1,0 +1,403 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ob/57.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vou sentir saudades deste negócio
+de picolé que fazemos.
+!------------------------------!
+Ça va me manquer de manger des
+glaces avec toi.
+!------------------------------!
+Ich werde unser Eisessen vermissen.
+!------------------------------!
+Mi mancheranno questi
+gelati in compagnia.
+!------------------------------!
+Echaré de menos esos helados
+que nos comemos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã? Por quê?
+!------------------------------!
+Hein ? Pourquoi ça ?
+!------------------------------!
+Hä? Wie bitte?
+!------------------------------!
+Uh? Perché?
+!------------------------------!
+¿Eh? ¿Por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A partir de amanhã, vou ficar fora.
+!------------------------------!
+Je m'en vais à partir de demain.
+!------------------------------!
+Ab morgen bin ich weg.
+!------------------------------!
+Da domani sarò via.
+!------------------------------!
+Mañana estaré muy lejos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh ...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Já que tu é meu parceiro, 
+acho que posso te contar.
+!------------------------------!
+Mais comme t'es mon pote, je vais
+te mettre au jus...
+!------------------------------!
+Du bist mein Freund, dir kann
+ich's ja anvertrauen ...
+!------------------------------!
+A te posso dirlo,
+visto che siamo amici...
+!------------------------------!
+Como somos colegas, supongo que
+te lo puedo contar...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vou ficar no Castelo Oblívio
+por um tempo.
+!------------------------------!
+Je vais devoir rester quelque temps
+au Manoir Oblivion.
+!------------------------------!
+Ab morgen bin ich eine Weile
+im Schloss des Entfallens.
+!------------------------------!
+Resterò al Castello
+dell'Oblio per un po'.
+!------------------------------!
+Estaré en el Castillo del
+Olvido un tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que é isso?
+!------------------------------!
+C'est quoi ?
+!------------------------------!
+Was ist das?
+!------------------------------!
+Cosa sarebbe?
+!------------------------------!
+¿Castillo del Olvido?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A Ordem tem um segundo castelo 
+que fica num mundo entre mundos.
+!------------------------------!
+L'Organisation possède un autre
+bâtiment dans l'Entremonde.
+C'est le Manoir Oblivion.
+!------------------------------!
+Die Organisation hat ein zweites
+Schloss in der Zwischenwelt.
+!------------------------------!
+L'Organizzazione ha un altro
+castello nel mondo tra i mondi.
+!------------------------------!
+La Organización tiene un segundo
+castillo, en el mundo entre
+mundos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É chamado de Castelo Oblívio
+Guardou na memória?
+!------------------------------!
+Le <E2><80><9C>Manoir Oblivion<E2><80><9D>.
+Tu t'en souviendras ?
+!------------------------------!
+Es heißt Schloss des Entfallens.
+Gespeichert?
+!------------------------------!
+Si chiama Castello dell'Oblio.
+L'hai memorizzato?
+!------------------------------!
+Se llama Castillo del Olvido.
+¿Lo has memorizado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim.
+Queria que as pessoas me 
+contassem essas coisas.
+!------------------------------!
+Oui.
+J'aimerais que les gens me disent
+ce genre de choses...
+!------------------------------!
+Ja.
+Ich wünschte, man würde mir
+solche Dinge sagen.
+!------------------------------!
+Sì.
+Vorrei che queste cose
+mi fossero dette.
+!------------------------------!
+Sí. Ojalá me contasen esan cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, tenho que voltar e me preparar.
+Que divertido... Bom, sem pressa, tá?
+!------------------------------!
+Bon, je dois rentrer pour préparer
+mes affaires. Quelle plaie... Mais
+toi, tu peux prendre ton temps.
+!------------------------------!
+Okay, ich muss zurück und packen.
+Ein echtes Vergnügen ...
+Lass du dir ruhig Zeit.
+!------------------------------!
+Beh, devo tornare a casa e
+prepararmi. Che divertimento...
+Tu fai pure con calma.
+!------------------------------!
+Bueno, tengo que volver para
+prepararme. Qué divertido...
+Es igual, tómate tu tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+atari
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+atari
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!

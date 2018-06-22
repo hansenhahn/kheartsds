@@ -1,0 +1,340 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_pt1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Are you certain we've taken suitable
+measures with Xion and Roxas?
+!------------------------------!
+Êtes-vous sûr que nous avons pris
+les bonnes mesures concernant Xion
+et Roxas ?
+!------------------------------!
+Bist du sicher, dass wir bei Xion
+und Roxas die richtigen Maßnahmen
+ergriffen haben?
+!------------------------------!
+Sei sicuro che abbiamo
+adottato le misure giuste
+con Xion e Roxas?
+!------------------------------!
+¿Seguro que hemos tomado
+las medidas apropiadas
+con Xion y Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I will admit, Xion has strayed from our
+original designs.
+!------------------------------!
+Une chose est sûre, Xion s'est
+écartée de nos intentions.
+!------------------------------!
+Ich muss zugeben, Xion weicht
+von unseren ursprünglichen,
+Plänen ab.
+!------------------------------!
+Xion non ha rispettato i nostri
+piani originari, questo è certo.
+!------------------------------!
+Xion se ha apartado de nuestros
+designios, debo admitirlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_pt1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But this unpredictable behavior is
+proving to have an interesting side
+effect.
+!------------------------------!
+Mais son comportement imprévisible
+a des effets secondaires intéressants.
+!------------------------------!
+Aber ihre Unberechenbarkeit
+hat auch einen interessanten
+Nebeneffekt.
+!------------------------------!
+Ma il suo comportamento
+imprevedibile è un effetto
+collaterale interessante.
+!------------------------------!
+Pero su impredecible
+comportamiento está teniendo
+curiosos efectos secundarios.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Ach ja?
+!------------------------------!
+Sul serio?
+!------------------------------!
+¿De veras?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We wanted the Key.
+!------------------------------!
+Ça a commencé avec la Keyblade.
+!------------------------------!
+Wir wollten den Schlüssel.
+!------------------------------!
+Tutto ha avuto inizio
+con la chiave.
+!------------------------------!
+Nosotros queríamos la llave.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion's exposure to Roxas effected a
+transfer of its power, just as we had
+hoped.
+!------------------------------!
+Le fait que Xion côtoie Roxas lui a
+permis de la manier, comme nous
+l'espérions.
+!------------------------------!
+Xions Nähe zu Roxas gab ihr
+Macht darüber, genau wie wir
+gehofft hatten.
+!------------------------------!
+Il contatto con Roxas ha
+permesso a Xion di controllarla,
+proprio come speravamo.
+!------------------------------!
+La proximidad de Xion con Roxas
+tuvo el efecto de darle poder
+sobre ella, como esperábamos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Had things stopped there, Xion would
+have been an unequivocal success.
+!------------------------------!
+Si ça s'était arrêté là, elle aurait
+été une réussite indéniable.
+!------------------------------!
+Wenn das alles gewesen wäre,
+hätten wir einen großen Erfolg
+gefeiert.
+!------------------------------!
+Se si fosse fermata lì,
+per noi sarebbe stato un
+successo fenomenale.
+!------------------------------!
+De haber acabado la cosa ahí,
+Xion habría sido un éxito total.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But then, through Roxas, Sora himself
+began to shape <E2><80><9C>it<E2><80><9D> into <E2><80><9C>her,<E2><80><9D> giving
+Xion a sense of identity.
+!------------------------------!
+Mais ensuite, via Roxas, Sora lui-même
+a commencé à la modeler et lui a donné
+un sentiment d'identité.
+!------------------------------!
+Aber dann begann Sora sie durch
+Roxas zu formen und verlieh ihr
+ein eigenes Bewusstsein.
+!------------------------------!
+Ma poi Sora ha iniziato a
+influenzarla attraverso Roxas,
+dandole una falsa identità.
+!------------------------------!
+Pero entonces, a través de
+Roxas, Sora empezó a transformar
+a Xion, a darle una identidad.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I was ready to scrap the whole
+project...
+!------------------------------!
+J'étais prêt à annuler l'ensemble
+du projet...
+!------------------------------!
+Ich war bereit, das gesamte Projekt
+abzubrechen ...
+!------------------------------!
+Ero pronto ad annullare
+l'intero progetto...
+!------------------------------!
+Estaba a punto de cancelar
+el proyecto...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then, it occurred to me: Xion is keeping
+Sora's memories trapped by claiming
+them as her own.
+!------------------------------!
+mais je me suis dit que Xion
+piégerait les souvenirs de Sora
+et se les approprierait.
+!------------------------------!
+Dann erkannte ich, dass Xion Soras
+Erinnerungen gefangen hielt, weil sie
+glaubte, es wären ihre eigenen.
+!------------------------------!
+Ma mi sono reso conto che
+Xion conserva i ricordi di Sora
+credendo che siano i suoi.
+!------------------------------!
+Pero entonces me di cuenta: Xion
+mantiene cautivos los recuerdos de
+Sora al reclamarlos como suyos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Keeping her close to Roxas will prevent
+Sora from ever waking.
+!------------------------------!
+Si elle reste près de Roxas,
+Sora ne se réveillera jamais.
+!------------------------------!
+Wenn sie in Roxas' Nähe bleibt,
+wird Sora nie erwachen.
+!------------------------------!
+Se la teniamo vicino a Roxas,
+Sora non potrà mai svegliarsi.
+!------------------------------!
+Si se mantiene cerca de Roxas,
+Sora no despertará nunca.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_pt1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I see.
+And what do you want to do about the
+impostor in black?
+!------------------------------!
+Je vois.
+Et que suis-je censé faire de
+l'imposteur en noir ?
+!------------------------------!
+Ich verstehe.
+Und was hast du mit dem
+schwarzen Hochstapler vor?
+!------------------------------!
+Capisco.
+E cosa intendi fare riguardo
+all'impostore vestito di nero?
+!------------------------------!
+Ya veo.
+¿Y qué quieres hacer con
+respecto al impostor de negro?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xe.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That gadfly? See that he stays away
+from Roxas. He only poses a threat if
+his buzzing reaches Xion's ears.
+!------------------------------!
+Cette mouche du coche ? Éloigne-le
+de Roxas. Il ne constituera une menace
+que s'il s'approche de Xion.
+!------------------------------!
+Ihn von Roxas fernhalten. Aber er ist
+gut für Xion ... das perfekte Mittel,
+um ihre Identität zu zementieren.
+!------------------------------!
+Quel tormento? Assicurati che stia
+lontano da Roxas. È una minaccia solo
+se le sue parole raggiungono Xion.
+!------------------------------!
+Mantenerlo lejos de Roxas. Pero
+cerca de Xion. Será
+perfecto para cimentar su identidad.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then we are back on track.
+!------------------------------!
+Alors, nous pouvons continuer.
+!------------------------------!
+Dann sind wir jetzt wieder auf Kurs.
+!------------------------------!
+Allora siamo tornati
+sulla strada giusta.
+!------------------------------!
+Entonces seguimos con ello.
+!------------------------------!
+!******************************!

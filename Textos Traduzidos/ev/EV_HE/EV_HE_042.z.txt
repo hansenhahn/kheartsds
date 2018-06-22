@@ -1,0 +1,636 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm... I wonder how I'm gonna get
+signed up.
+!------------------------------!
+Hmm... je me demande comment je vais
+faire pour pouvoir m'inscrire.
+!------------------------------!
+Hm ... Wie man sich wohl
+anmeldet?
+!------------------------------!
+Mmm... Chissà come
+posso iscrivermi...
+!------------------------------!
+Mmm... Me pregunto cómo voy a
+conseguir inscribirme.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Am I seein' things!?
+Rookie, is that you?
+!------------------------------!
+Hé !
+C'est bien toi, bleusaille ?
+!------------------------------!
+Hab ich Halluzinationen?!
+Grünschnabel, bist du das?
+!------------------------------!
+Ho le allucinazioni?!
+Recluta, sei proprio tu?
+!------------------------------!
+¡Eeey!
+¿Novato, eres tú?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh? Oh, uh...hey.
+!------------------------------!
+Hein ? Oh, euh... bonjour.
+!------------------------------!
+Huch? Oh, äh ... hey.
+!------------------------------!
+Uh? Oh, uh... Ciao.
+!------------------------------!
+¿Eh? Oh, uh... ey.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I haven't seen you in ages.
+How are ya?
+!------------------------------!
+Comment ça va ? Ça fait un bail.
+!------------------------------!
+Hab dich ja ewig nicht
+gesehen. Wie geht's?
+!------------------------------!
+Non ti vedo da un
+pezzo. Come va?
+!------------------------------!
+Hacía siglos que no te veía.
+¿Cómo te va?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm hanging in there.
+!------------------------------!
+On fait aller.
+!------------------------------!
+Ich lass mich nicht unterkriegen.
+!------------------------------!
+Si tira avanti.
+!------------------------------!
+Voy tirando.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's good. 'Cause that vanishing act
+you pulled at the end of the last Games
+had me worried.
+!------------------------------!
+Je me suis fait un sang d'encre quand
+t'as disparu après la fin des Jeux de
+l'autre fois.
+!------------------------------!
+Gut, ich hab mir Sorgen um dich gemacht,
+nachdem du am Ende der letzten
+Spiele einfach verschwunden bist.
+!------------------------------!
+Bene, perché quando sei svanito
+nel nulla alla fine degli ultimi
+Giochi mi sono preoccupato!
+!------------------------------!
+Me alegro. Estaba preocupado
+por cómo te esfumaste al acabar
+los últimos juegos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sorry...
+!------------------------------!
+Désolé...
+!------------------------------!
+Tut mir leid ...
+!------------------------------!
+Scusa...
+!------------------------------!
+Lo siento...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, I figured you musta pulled through.
+No lousy Heartless is gonna wipe the
+floor with one of my boys.
+!------------------------------!
+M'enfin, je me suis dit que tu devais
+aller bien. Aucun Sans-cœur ne fait
+jamais le poids face à mes poulains.
+!------------------------------!
+Hab mir schon gedacht, dass du
+es schaffst. Kein Herzloser kann
+es mit meinen Jungs aufnehmen.
+!------------------------------!
+Beh, ero sicuro che te la saresti
+cavata. Nessun lurido Heartless avrà
+la meglio su uno dei miei ragazzi.
+!------------------------------!
+Supuse que saldrías adelante.
+Ningún vil sincorazón barre el
+suelo con uno de mis chicos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Speakin' of which, when were ya
+plannin' to tell me you weren't the guy
+Herc sent?
+!------------------------------!
+Mais au fait, quand est-ce que tu
+comptais me dire que t'étais pas
+celui qu'Herc m'avait envoyé ?
+!------------------------------!
+Wann wolltest du mir eigentlich
+sagen, dass du nicht derjenige
+bist, den Herc geschickt hat?
+!------------------------------!
+A proposito, quando intendevi
+dirmi che non eri la recluta
+trovata da Erc?
+!------------------------------!
+Por cierto, ¿y cuándo pensabas
+decirme que no eras el chico que
+envió Herc?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, if you'd have just liste<E2><80><95>
+!------------------------------!
+Ben, si vous m'aviez écou...
+!------------------------------!
+Also, wenn du mir einfach mal
+zugehört hä...
+!------------------------------!
+Beh, se mi avessi ascolt...
+!------------------------------!
+Bueno, si me hubieras escucha...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This whole time I thought you were the
+Champ's top pick!
+!------------------------------!
+Pendant tout ce temps, j'ai cru que
+t'étais le petit protégé du champion !
+!------------------------------!
+Ich dachte die ganze Zeit,
+du wärst der Liebling des
+Champs gewesen.
+!------------------------------!
+Ero convinto che fossi il nuovo
+pupillo del nostro campione!
+!------------------------------!
+¡Todo ese tiempo pensando
+que eras la gran elección del
+campeón!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay, let's start over, Roxas.
+Where ya really from? Who sent ya?
+!------------------------------!
+Bon, on va reprendre du début.
+D'où viens-tu ? Et qui t'envoie ?
+!------------------------------!
+Okay, fangen wir noch mal neu
+an, Roxas. Wo kommst du her?
+Wer hat dich geschickt?
+!------------------------------!
+Va bene, ricominciamo da capo, Roxas.
+Da dove vieni? Chi ti ha mandato
+qui?
+!------------------------------!
+Bien, empecemos otra vez, Roxas.
+¿De dónde vienes realmente?
+¿Quién te envía?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Umm...well...
+!------------------------------!
+Eh bien...
+!------------------------------!
+Ähm ... tja ...
+!------------------------------!
+Uhm... Ecco...
+!------------------------------!
+Umm... Bueno...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I, uh... Hmm.
+!------------------------------!
+Je euh... Hum hum.
+!------------------------------!
+Ich, äh ... Hm.
+!------------------------------!
+Io, uh... Mmm.
+!------------------------------!
+Yo, estoo... Mmm.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Say no more.
+I get the picture.
+!------------------------------!
+Plus un mot.
+J'ai compris.
+!------------------------------!
+Das reicht.
+Hab schon kapiert.
+!------------------------------!
+Basta così.
+Ho capito tutto.
+!------------------------------!
+No digas más.
+Ya me lo imagino.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You do!?
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Hast du!?
+!------------------------------!
+Ah sì?
+!------------------------------!
+¿Ah, sí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sure, everybody's got a thing or two
+they wanna keep hush-hush.
+!------------------------------!
+Oui. Tout le monde a ses petits
+secrets.
+!------------------------------!
+Klar doch, jeder hat seine
+kleinen Geheimnisse.
+!------------------------------!
+Certo, ognuno di noi ha qualcosa
+di cui preferisce non parlare.
+!------------------------------!
+Claro, todo el mundo tiene una o
+dos cosillas que quiere tapar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Forget it<E2><80><95>doesn't matter.
+Let me get to the good news!
+!------------------------------!
+T'en fais pas, on s'en balance.
+J'ai une bonne nouvelle à t'annoncer !
+!------------------------------!
+Ist auch egal. Kommen wir
+zu den guten Neuigkeiten!
+!------------------------------!
+Lascia perdere, non importa.
+Ora passiamo alle buone notizie!
+!------------------------------!
+Olvídalo, no importa.
+¡Deja que te cuente
+las buenas noticias!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh yeah?
+What good news?
+!------------------------------!
+Ah oui ?
+Laquelle ?
+!------------------------------!
+Ach ja?
+Was für gute Neuigkeiten?
+!------------------------------!
+Uh?
+Quali buone notizie?
+!------------------------------!
+¿Sí?
+¿Qué buenas noticias?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Games are bein' held again today.
+You got perfect timing, kid.
+You want in?
+!------------------------------!
+Les Jeux ont lieu aujourd'hui aussi.
+Tu tombes à pic, petit.
+Tu veux y participer ?
+!------------------------------!
+Heute finden wieder Spiele statt.
+Du kommst genau richtig, Kleiner.
+Willst du mitmachen?
+!------------------------------!
+Oggi ci saranno altri Giochi.
+Hai un tempismo perfetto,
+ragazzo. Vuoi partecipare?
+!------------------------------!
+Los juegos vuelven a celebrarse
+hoy. Llegas justo a tiempo,
+chico. ¿Quieres participar?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This time you might even walk home with
+the title.
+!------------------------------!
+Cette fois, tu pourrais bien
+remporter le titre.
+!------------------------------!
+Diesmal hast du sogar Chancen
+auf den Titel.
+!------------------------------!
+Forse questa volta riuscirai a
+portarti a casa il titolo.
+!------------------------------!
+Igual esta vez puede que vuelvas
+a casa con el título y todo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But<E2><80><95>you sure you don't mind?
+!------------------------------!
+Vous êtes sûr que ça ne vous
+dérange pas ?
+!------------------------------!
+Aber ... Hast du auch sicher
+nichts dagegen?
+!------------------------------!
+Ma... sicuro che posso
+partecipare?
+!------------------------------!
+Pero... ¿seguro que
+no te importa?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sure I'm sure!
+!------------------------------!
+Bien sûr que non !
+!------------------------------!
+Nicht im Geringsten!
+!------------------------------!
+Certo che sono sicuro!
+!------------------------------!
+¡Pues claro que no!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just gimme a holler when you're all set.
+!------------------------------!
+Préviens-moi quand tu seras prêt.
+!------------------------------!
+Sag mir einfach Bescheid,
+wenn du so weit bist.
+!------------------------------!
+Fammi un fischio quando sei
+pronto.
+!------------------------------!
+Pégame un toque
+cuando estés listo.
+!------------------------------!
+!******************************!

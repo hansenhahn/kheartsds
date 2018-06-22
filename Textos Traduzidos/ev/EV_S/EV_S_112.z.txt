@@ -1,0 +1,419 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You think that sparkly dust would work
+in other worlds?
+!------------------------------!
+Dis, tu crois que cette poudre magique
+fonctionnerait dans d'autres mondes ?
+!------------------------------!
+Glaubst du, dass funkelnder
+Staub auch in anderen Welten
+funktioniert?
+!------------------------------!
+Credi che la polvere magica
+possa funzionare anche in
+altri mondi?
+!------------------------------!
+¿Crees que ese polvo brillante
+funcionará en otros mundos?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I dunno about that...
+!------------------------------!
+Aucune idée...
+!------------------------------!
+Damit kenn ich mich nicht aus ...
+!------------------------------!
+Non lo so...
+!------------------------------!
+No tengo ni idea...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wow, you two sure flew through your
+mission.
+!------------------------------!
+Vous avez survolé la mission on dirait.
+!------------------------------!
+Wow, ihr zwei seid ja richtig
+durch eure Mission geflogen.
+!------------------------------!
+Avete completato la missione
+a una velocità incredibile.
+!------------------------------!
+Guau, habéis cumplido la misión
+como si fuerais volando.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh, if you only knew.
+!------------------------------!
+Ha, tu ne crois pas si bien dire !
+!------------------------------!
+He, wenn du wüsstest.
+!------------------------------!
+Eh, puoi dirlo forte...
+!------------------------------!
+Si te lo cuento, no te lo crees.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion...
+!------------------------------!
+Xion...
+!------------------------------!
+Xion ...
+!------------------------------!
+Xion...
+!------------------------------!
+Xion...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sorry I'm late.
+I had my hands full today.
+!------------------------------!
+Désolée du retard.
+J'étais très occupée aujourd'hui.
+!------------------------------!
+Tut mir leid, dass ich zu spät bin.
+Ich hatte heute alle Hände
+voll zu tun.
+!------------------------------!
+Scusate, sono in ritardo.
+Oggi ho avuto molto da fare.
+!------------------------------!
+Perdonad el retraso.
+Hoy tenía mucho que hacer.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So I was about to tell you, today me
+and Axel actually flew!
+!------------------------------!
+Tu sais quoi ? Axel et moi
+on a volé aujourd'hui !
+!------------------------------!
+Ich wollte dir gerade erzählen,
+dass Axel und ich heute
+wirklich geflogen sind!
+!------------------------------!
+Lo sai che oggi io e Axel
+abbiamo volato per davvero?
+!------------------------------!
+Iba a decirte que Axel y yo
+hoy hemos volado de verdad.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You flew?
+!------------------------------!
+Vous avez volé ?
+!------------------------------!
+Ihr seid geflogen?
+!------------------------------!
+Avete volato?
+!------------------------------!
+¿Habéis volado?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. There's this sparkly dust that
+makes it possible.
+!------------------------------!
+Oui, c'est possible avec une espèce
+de poudre.
+!------------------------------!
+Ja. Dieser funkelnde Staub
+macht es möglich.
+!------------------------------!
+Sì, usando una specie
+di polvere magica.
+!------------------------------!
+Sí, gracias a un polvo brillante
+que lo ha hecho posible.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I was wondering why you two looked so
+happy. Lucky...
+!------------------------------!
+Je me demandais aussi pourquoi vous
+aviez l'air aussi contents. Vous en
+avez de la chance...
+!------------------------------!
+Und ich hab mich schon
+gewundert, warum ihr so
+glücklich ausseht. Glückspilze ...
+!------------------------------!
+In effetti mi chiedevo perché
+siete così felici. Buon per voi...
+!------------------------------!
+Ya decía yo que parecíais muy
+contentos. Qué suerte...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's wrong?
+Did something happen again?
+!------------------------------!
+Qu'est-ce qu'il y a ?
+Il s'est encore passé quelque
+chose ?
+!------------------------------!
+Was ist?
+Ist wieder was passiert?
+!------------------------------!
+Che c'è?
+È successo qualcosa?
+!------------------------------!
+¿Qué te pasa?
+¿Ha ocurrido algo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nah, it's nothing...
+!------------------------------!
+Non, ce n'est rien...
+!------------------------------!
+Nee, ist nichts ...
+!------------------------------!
+Nah, non è niente...
+!------------------------------!
+No, no es nada...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

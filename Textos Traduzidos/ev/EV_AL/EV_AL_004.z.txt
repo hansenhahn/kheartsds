@@ -1,0 +1,627 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+1:90
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/26.z
+!******************************!
+&.[HDR].2&
+mi/ch/1A.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You should get some rest, Aladdin.
+!------------------------------!
+Tu devrais te reposer, Aladdin.
+!------------------------------!
+Du solltest dich ausruhen,
+Aladdin.
+!------------------------------!
+Dovresti riposare, Aladdin.
+!------------------------------!
+¿Estás bien?
+Deberías descansar, Aladdín.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll be okay. Besides, the sandstorm's
+finally let up<E2><80><95>now's our chance to
+patch up the city.
+!------------------------------!
+Ne t'en fais pas. La tempête de sable
+s'est enfin calmée. Profitons-en
+pour remettre la ville en état.
+!------------------------------!
+Der Sandsturm hat
+nachgelassen ... Unsere Chance,
+die Stadt zu reparieren.
+!------------------------------!
+Non preoccuparti. Finalmente
+la tempesta si è placata.
+Ora possiamo ricostruire la città.
+!------------------------------!
+Me recuperaré. Además, por fin
+amainó la tormenta. Es la
+ocasión de arreglar la ciudad.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's true, but still...
+!------------------------------!
+C'est vrai, mais...
+!------------------------------!
+Stimmt schon, aber ...
+!------------------------------!
+È vero, ma...
+!------------------------------!
+Cierto, pero aun así...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You'll run yourself ragged at this rate.
+!------------------------------!
+Tu vas t'épuiser à ce rythme-là.
+!------------------------------!
+Bei dem Tempo
+bringst du dich noch um.
+!------------------------------!
+Di questo passo resterai
+senza forze.
+!------------------------------!
+A este paso, acabarás
+hecho polvo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Jasmine, you don't need to worry<E2><80><95>
+I'm fine. And since we don't know when
+the next storm will hit...
+!------------------------------!
+Jasmine, arrête de t'en faire pour moi.
+Comme on ne sait pas quand
+la prochaine tempête va frapper...
+!------------------------------!
+Jasmin, hör auf, dir Sorgen
+zu machen. Wer weiß, wann der
+nächste Sturm kommt.
+!------------------------------!
+Sta' tranquilla, Jasmine, sto
+bene. Ma visto che non sappiamo
+quando arriverà la prossima tempesta...
+!------------------------------!
+Yasmín, no te preocupes.
+Estoy bien, pero no sabemos
+cuándo caerá otra tormenta...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...we need to get everything running
+again before it does.
+!------------------------------!
+Il faut qu'on répare tout ça
+le plus vite possible !
+!------------------------------!
+Vorher müssen wir hier alles
+wieder zum Laufen bringen.
+!------------------------------!
+... dobbiamo approfittarne per
+sistemare tutto prima di
+allora.
+!------------------------------!
+así que hay que ponerse
+en marcha.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If only Genie were around...
+!------------------------------!
+Si seulement le Génie était là...
+!------------------------------!
+Wenn Dschinni doch bloß
+hier wäre.
+!------------------------------!
+Se solo ci fosse il Genio...
+!------------------------------!
+Si al menos Genio
+estuviera por aquí...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I miss him, too, but this isn't a job for
+magic.
+!------------------------------!
+Il me manque à moi aussi, mais sa magie
+ne servirait à rien.
+!------------------------------!
+Ich vermisse ihn auch, aber
+seine Magie wäre hier
+fehl am Platz.
+!------------------------------!
+Manca molto anche a me,
+ma questo non è un lavoro
+di magia.
+!------------------------------!
+Yo también lo echo de menos,
+pero su magia no servirá
+para este trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agrabah's our city.
+We need to be the ones to fix it up.
+!------------------------------!
+Agrabah est notre ville.
+C'est à nous de la reconstruire.
+!------------------------------!
+Agrabah ist unsere Stadt.
+Wir sollten sie auch wieder
+aufbauen.
+!------------------------------!
+Agrabah è la nostra città.
+Dobbiamo essere noi a ricostruirla.
+!------------------------------!
+Agrabah es nuestra ciudad.
+Hemos de ser nosotros quienes
+la reconstruyamos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Of course, you're right...
+!------------------------------!
+Oui, tu as raison...
+!------------------------------!
+Du hast natürlich recht ...
+!------------------------------!
+Sì. Hai ragione...
+!------------------------------!
+Claro, tienes razón...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now, I should get back to work.
+!------------------------------!
+Allez, je dois me remettre au travail.
+!------------------------------!
+Ich sollte mich mal wieder
+an die Arbeit machen.
+!------------------------------!
+Bene, devo tornare al lavoro.
+!------------------------------!
+Muy bien, debería
+volver al trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wait. I'll help, too.
+!------------------------------!
+Attends-moi ! Je vais t'aider !
+!------------------------------!
+Warte. Ich helfe mit.
+!------------------------------!
+Aspetta. Darò una mano anch'io.
+!------------------------------!
+Espera. Yo también
+echaré una mano.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So that guy must be spearheading the
+city repair efforts.
+!------------------------------!
+Ce doit être lui qui supervise les
+travaux de reconstruction.
+!------------------------------!
+Der Kerl da muss
+die Oberaufsicht über
+die Reparaturarbeiten haben.
+!------------------------------!
+Quindi quel tizio sta dirigendo i
+lavori di ricostruzione della città.
+!------------------------------!
+Así que es ese chico el que
+dirige las obras de reparación
+de la ciudad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The question is, why him?
+He doesn't look like royalty.
+!------------------------------!
+Je me demande bien pourquoi.
+Il n'a pas l'air de faire partie de la
+famille royale.
+!------------------------------!
+Warum gerade der?
+Er sieht nicht gerade
+adelig aus.
+!------------------------------!
+Ma perché proprio lui?
+Non ha un aspetto molto "regale".
+!------------------------------!
+La pregunta es ¿por qué él?
+No parece de la realeza.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Does he have to be?
+!------------------------------!
+Et ?
+!------------------------------!
+Muss er das sein?
+!------------------------------!
+E con ciò?
+!------------------------------!
+¿Y tiene que serlo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's not easy getting people to follow
+you, especially when it involves work.
+!------------------------------!
+Ce n'est pas facile de convaincre les
+gens d'obéir, surtout quand il
+s'agit de travailler.
+!------------------------------!
+Es ist nicht leicht, Menschen
+zum Arbeiten zu bringen.
+!------------------------------!
+Non è facile farsi ascoltare dalle
+persone, soprattutto quando
+c'è il lavoro di mezzo.
+!------------------------------!
+No es fácil conseguir que la
+gente te siga, especialmente si
+hay trabajo de por medio.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's the kind of thing you'd expect
+somebody in the palace to be doing.
+They already call the shots, right?
+!------------------------------!
+C'est le genre de chose dont se
+chargent plutôt les gens du palais,
+mais il a l'air de gérer, non ?
+!------------------------------!
+Von einem, der im Palast wohnt,
+kann man das erwarten. Der ist
+das Befehlen gewohnt.
+!------------------------------!
+Di solito è la gente di palazzo
+a occuparsi di queste cose.
+Sono loro a decidere per tutti, no?
+!------------------------------!
+Es la clase de cosas que esperas
+que hagan los de palacio. Son
+los que cortan el bacalao, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+True.
+!------------------------------!
+Si.
+!------------------------------!
+Stimmt wohl.
+!------------------------------!
+È vero.
+!------------------------------!
+Es cierto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But he definitely wasn't royalty...
+The girl next to him<E2><80><95>now SHE was
+royalty.
+!------------------------------!
+Mais ce qui est sûr, c'est qu'il n'est
+pas de la famille royale. En revanche,
+la fille, si !
+!------------------------------!
+Aber er war auf keinen Fall
+adelig ... Das Mädchen an
+seiner Seite ... das war adelig.
+!------------------------------!
+Ma lui non è proprio un sovrano...
+Al contrario della ragazza
+accanto a lui.
+!------------------------------!
+Pero, definitivamente, él no era
+de la realeza... Aunque la chica
+que tenía al lado sí que lo era.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So what now?
+Do we look around inside the palace?
+!------------------------------!
+Qu'est-ce qu'on fait maintenant ?
+On va jeter un coup d'œil dans
+le palais ?
+!------------------------------!
+Und jetzt?
+Sehen wir uns im Palast um?
+!------------------------------!
+E adesso?
+Diamo un'occhiata dentro il palazzo?
+!------------------------------!
+¿Y ahora, qué?
+¿Echamos un vistazo por el
+palacio?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No need. We have our answers, and we
+even got a peek at their leaders.
+!------------------------------!
+C'est inutile. On a eu nos réponses
+et on a même pu voir leurs chefs.
+!------------------------------!
+Nicht nötig. Wir haben unsere
+Antworten und haben sogar ihre
+Anführer gesehen.
+!------------------------------!
+Non serve. Abbiamo le risposte,
+e abbiamo anche scoperto chi
+comanda da queste parti.
+!------------------------------!
+No es necesario. Ya tenemos las
+respuestas e incluso hemos visto
+a sus líderes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good, then we can go home?
+!------------------------------!
+On peut rentrer, alors ?
+!------------------------------!
+Gut, können wir dann
+nach Hause?
+!------------------------------!
+Bene, allora possiamo tornare a casa?
+!------------------------------!
+Bien. Entonces, ¿podemos volver
+a casa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why, Roxas?
+Did you leave the toaster plugged in?
+!------------------------------!
+Pourquoi ?
+T'as laissé le four allumé ?
+!------------------------------!
+Warum, Roxas? Hast du
+etwa den Toaster angelassen?
+!------------------------------!
+Perché Roxas? Hai paura di
+perdere il treno?
+!------------------------------!
+¿Por qué, Roxas? ¿Te has dejado
+abierto el gas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know why.
+!------------------------------!
+Arrête.
+Tu sais pourquoi.
+!------------------------------!
+Du weißt warum.
+!------------------------------!
+Sai perché...
+!------------------------------!
+Ya sabes por qué.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh.
+C'mon, let's RTC.
+!------------------------------!
+Hé, hé.
+Allez, viens, on rentre.
+!------------------------------!
+Hi, hi.
+Komm schon, kehren wir
+zum Schloss zurück.
+!------------------------------!
+Eh eh.
+Forza, torniamo al castello.
+!------------------------------!
+Je, je.
+Venga, a VAC.
+!------------------------------!
+!******************************!

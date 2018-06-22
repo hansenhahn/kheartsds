@@ -1,0 +1,920 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ever heard of knocking?
+!------------------------------!
+On t'a jamais appris à frapper avant
+d'entrer ?
+!------------------------------!
+Schon mal was von Anklopfen gehört?
+!------------------------------!
+Non ti hanno insegnato
+a bussare?
+!------------------------------!
+¿No sabes llamar?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tell me what Xion has been doing.
+!------------------------------!
+Dis-moi ce qu'a fait Xion.
+!------------------------------!
+Sag mir, was Xion so getan hat.
+!------------------------------!
+Voglio sapere come sta
+andando Xion.
+!------------------------------!
+Cuéntame qué ha estado
+haciendo Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How should I know?
+I'm not spying on her.
+!------------------------------!
+Comment je le saurais ?
+Je ne l'espionne pas.
+!------------------------------!
+Woher soll ich das wissen?
+Ich spioniere ihr doch nicht
+nach.
+!------------------------------!
+Come faccio a saperlo?
+Non la sto mica spiando.
+!------------------------------!
+¿Y cómo quieres que lo sepa?
+No me dedico a espiarla.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......?
+But the two of you are close.
+!------------------------------!
+Mais vous êtes proches tous les deux.
+!------------------------------!
+Aber ihr beide steht euch
+sehr nahe.
+!------------------------------!
+Ho notato che voi due
+siete molto vicini.
+!------------------------------!
+Pero tenéis mucha amistad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So what, now I've gotta rat on my
+friends to you?
+!------------------------------!
+Et alors ? Il faudrait que je balance
+mes amis pour te faire plaisir ?
+!------------------------------!
+Und, deswegen soll ich jetzt
+meine Freunde verraten?
+!------------------------------!
+E allora? Perché dovrei
+fare la spia?
+!------------------------------!
+¿Y? ¿Pretendes que traicione
+a mis amigos por ti?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Get out of my room, man.
+!------------------------------!
+Sors de ma chambre, mec.
+!------------------------------!
+Raus aus meinem Zimmer, Mann!
+!------------------------------!
+Vattene subito, amico.
+!------------------------------!
+Sal de mi cuarto, tío.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You and Xion will be executing your
+next mission together.
+!------------------------------!
+Xion et toi vous exécuterez la
+prochaine mission ensemble.
+!------------------------------!
+Du und Xion werdet die nächste
+Mission gemeinsam ausführen.
+!------------------------------!
+Tu e Xion affronterete la
+prossima missione insieme.
+!------------------------------!
+Xion y tú iréis juntos en
+vuestra próxima misión.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes, sir, thank you, sir.
+You paid me a personal visit just to
+tell me that?
+!------------------------------!
+Oh, merci, mon bon monsieur...
+T'es venu me voir juste pour
+me dire ça ?
+!------------------------------!
+Zu Befehl, vielen Dank. Und um
+mir das zu sagen, stattest du mir
+einen persönlichen Besuch ab?
+!------------------------------!
+Oh, signorsì signore.
+Sei venuto qui a trovarmi
+solo per riferirmelo?
+!------------------------------!
+Sí, señor. Gracias, señor.
+¿Has venido a verme sólo para
+contarme eso?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We also need you to go back to Castle
+Oblivion.
+!------------------------------!
+Il faut aussi que tu retournes
+au Manoir Oblivion.
+!------------------------------!
+Wir müssen zurück zum Schloss
+des Entfallens.
+!------------------------------!
+Inoltre, vogliamo farti tornare
+al Castello dell'Oblio.
+!------------------------------!
+También necesitamos que vuelvas
+al Castillo del Olvido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We, or you?
+!------------------------------!
+Ça vient de qui ?
+!------------------------------!
+Wir oder du?
+!------------------------------!
+Volete... o VUOI?
+!------------------------------!
+¿Lo necesitáis o lo necesitas?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That castle hasn't given up all its
+secrets.
+!------------------------------!
+Ce manoir n'a pas délivré tous
+ses secrets.
+!------------------------------!
+Wir haben noch nicht alle
+Geheimnisse des Schlosses
+herausgefunden.
+!------------------------------!
+Quel castello custodisce
+altri segreti.
+!------------------------------!
+Ese castillo no nos ha revelado
+todos sus secretos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And there's one in particular Lord
+Xemnas is especially interested in.
+!------------------------------!
+Et il y en a un qui intéresse le
+Seigneur Xemnas tout particu-
+lièrement.
+!------------------------------!
+Und an einem ist Lord Xemnas
+besonders interessiert.
+!------------------------------!
+E uno di questi segreti interessa
+particolarmente a Lord Xemnas.
+!------------------------------!
+Y hay uno que le interesa
+especialmente a lord Xemnas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean the chamber.
+!------------------------------!
+Tu veux parler de la salle ?
+!------------------------------!
+Du meinst die Kammer.
+!------------------------------!
+Ti riferisci alla sala, eh?
+!------------------------------!
+Te refieres a la cámara.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We turned that place inside out.
+If it's there, we're not gonna find it
+by just looking.
+!------------------------------!
+On a fouillé cet endroit de fond en
+comble. Si elle est vraiment là-bas,
+on ne la trouvera pas si facilement.
+!------------------------------!
+Wir haben dort alles auf den
+Kopf gestellt. Wenn es sie gibt,
+reicht es nicht, sich umzusehen.
+!------------------------------!
+Laggiù abbiamo guardato
+ovunque, ma di quella sala
+nessuna traccia.
+!------------------------------!
+Exploramos el lugar de cabo a
+rabo. Si está ahí, no la
+encontraremos con solo mirar.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+...
+!------------------------------!
+Hmm ...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then let me give you another incentive.
+!------------------------------!
+Laisse-moi te donner une autre
+information.
+!------------------------------!
+Dann lass mir dir einen
+weiteren Anreiz geben.
+!------------------------------!
+Allora lascia che ti dia
+un altro incentivo...
+!------------------------------!
+Entonces, deja que te ofrezca
+otro incentivo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé isn't the only one who can trace
+her beginnings to Castle Oblivion.
+Xion comes from there, too.
+!------------------------------!
+Naminé n'est pas la seule qui puisse
+remonter jusqu'au Manoir Oblivion.
+Xion vient de là-bas elle aussi.
+!------------------------------!
+Naminé ist nicht die Einzige,
+deren Anfänge im Schloss des
+Entfallens liegen. Xion auch.
+!------------------------------!
+Non solo il passato di Naminé
+risale al Castello dell'Oblio.
+Ma anche Xion proviene da là.
+!------------------------------!
+Naminé no es la única que
+procede del Castillo del Olvido.
+Xion también viene de allí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+...
+!------------------------------!
+Was?
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Two of your favorite people.
+!------------------------------!
+Tes deux chouchoutes.
+!------------------------------!
+Zwei deiner liebsten Personen.
+!------------------------------!
+Sono due persone
+a cui tieni molto.
+!------------------------------!
+Dos de tus mejores amigas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Still think another visit is a waste of
+time?
+!------------------------------!
+Alors, crois-tu encore qu'une autre
+visite là-bas soit une perte de temps ?
+!------------------------------!
+Denkst du immer noch,
+ein weiterer Besuch wäre
+reine Zeitverschwendung?
+!------------------------------!
+Credi che un'altra visita sia
+una perdita di tempo?
+!------------------------------!
+¿Sigues pensando que la visita
+sería una pérdida de tiempo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph... Whatever.
+!------------------------------!
+Bah... peu importe.
+!------------------------------!
+Hmpf ... Wie auch immer.
+!------------------------------!
+Umpf... Va bene.
+!------------------------------!
+Mmm... Vale.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're the one who wants me to go.
+Don't try and dress it up as a favor.
+!------------------------------!
+C'est toi qui veux que j'y aille.
+Ne fais pas passer ça pour
+une faveur.
+!------------------------------!
+Du bist derjenige, der will,
+dass ich gehe. Versuch nicht,
+es als Gefallen zu verkaufen.
+!------------------------------!
+Sei tu che mi costringi ad
+andare. Non farlo sembrare un
+favore personale.
+!------------------------------!
+Eres tú quien quieres que vaya.
+No intentes que parezca que me
+estás haciendo un favor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph.
+!------------------------------!
+...
+!------------------------------!
+Hmpf ...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let me guess...
+!------------------------------!
+Laisse-moi deviner...
+!------------------------------!
+Lass mich raten ...
+!------------------------------!
+Lasciami indovinare...
+!------------------------------!
+Deja que lo adivine...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That chamber will tell you everything
+you don't know about Xemnas's true
+agenda. Is that the idea?
+!------------------------------!
+Cette salle te révélera toutes les
+intentions secrètes de Xemnas.
+C'est ça l'idée, non ?
+!------------------------------!
+Die Kammer wird dir alles über
+Xemnas wahre Ziele verraten.
+Geht es darum?
+!------------------------------!
+Quella sala ti dirà tutto ciò che
+ancora non sai sui veri piani
+di Xemnas, non è così?
+!------------------------------!
+Esa cámara te revelará todo lo
+que no sabes sobre los planes de
+Xemnas. Es así, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Chamber of Repose, and its
+antipode, the Chamber of Waking...
+!------------------------------!
+La Salle du Sommeil et son contraire,
+la Salle de l'Éveil...
+!------------------------------!
+Die Kammer der Ruhe und ihr
+Gegenstück, die Kammer
+des Erwachens ...
+!------------------------------!
+La Sala del riposo e il suo
+opposto, la Sala del risveglio...
+!------------------------------!
+La Cámara del Reposo y su
+contraria, la Cámara
+del Despertar...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xemnas isn't telling us something.
+!------------------------------!
+Xemnas nous cache quelque chose.
+!------------------------------!
+Xemnas verheimlicht uns etwas.
+!------------------------------!
+Xemnas ci nasconde qualcosa.
+!------------------------------!
+Xemnas se niega a contar nada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And the missing chamber, the Chamber
+of Waking<E2><80><95>it holds all the answers.
+!------------------------------!
+Et la salle manquante, celle de l'Éveil,
+renferme toutes les réponses.
+!------------------------------!
+Und die fehlende Kammer, die
+Kammer des Erwachens ...
+sie enthält alle Antworten.
+!------------------------------!
+La Sala del risveglio, quella che
+non riusciamo a trovare...
+contiene tutte le risposte.
+!------------------------------!
+Y la cámara desaparecida, la
+del Despertar... alberga
+todas las respuestas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We need those answers to gain the
+upper hand<E2><80><95>
+!------------------------------!
+Il nous faut ces réponses pour
+prendre le dessus...
+!------------------------------!
+Wir brauchen diese Antworten,
+um die Oberhand zu gewinnen ...
+!------------------------------!
+E ci servono queste risposte
+per avere la meglio...
+!------------------------------!
+Las necesitamos para
+ganar ventaja... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+for our own reasons.
+!------------------------------!
+dans notre intérêt.
+!------------------------------!
+für unsere eigenen Ziele.
+!------------------------------!
+e raggiungere i nostri scopi.
+!------------------------------!
+Por buenas razones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+...
+!------------------------------!
+Hmm ...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look, I knew Vexen and Zexion would
+be obstacles.
+!------------------------------!
+Écoute, je savais que Vexen et Zexion
+poseraient problème.
+!------------------------------!
+Pass auf. Ich wusste, dass
+Vexen und Zexion im Weg
+stehen würden.
+!------------------------------!
+Senti, sapevo che Vexen e
+Zexion sarebbero stati
+d'intralcio.
+!------------------------------!
+Mira, sabía que Vexen y Zexion
+serían un estorbo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's why they're not here anymore.
+!------------------------------!
+C'est pour ça qu'ils ne sont plus là.
+!------------------------------!
+Deshalb weilen sie nicht mehr
+unter uns.
+!------------------------------!
+Ecco perché non ci sono più.
+!------------------------------!
+Por eso ya no están aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+When have I ever complained about the
+dirty work?
+!------------------------------!
+Quand est-ce que je me suis plaint
+de me salir les mains ?
+!------------------------------!
+Hab ich mich jemals über
+die Drecksarbeit beklagt?
+!------------------------------!
+Quando mai mi sono rifiutato
+di sporcarmi le mani?
+!------------------------------!
+¿Cuándo me he quejado
+por tener que encargarme
+del trabajo sucio?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I cleared the way to the top for you.
+!------------------------------!
+J'ai libéré la voie qui mène
+au sommet pour toi.
+!------------------------------!
+Ich habe dir den Weg zur Spitze
+freigemacht.
+!------------------------------!
+Sono stato io a spianarti la
+strada fino al vertice.
+!------------------------------!
+Te he despejado el camino
+hacia la cumbre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just do me a favor and don't trip on
+the way up.
+!------------------------------!
+Veille à ne pas trébucher en chemin.
+!------------------------------!
+Tu mir nur einen Gefallen und
+komm auf deinem Weg nach oben
+nicht ins Stolpern.
+!------------------------------!
+Vedi di non inciampare
+proprio adesso.
+!------------------------------!
+Así que, hazme un favor, y
+no tropieces al ascender.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A solo mission in Castle Oblivion...
+!------------------------------!
+Une mission en solo dans
+le Manoir Oblivion...
+!------------------------------!
+Eine Einzelmission im Schloss
+des Entfallens.
+!------------------------------!
+Una missione in solitario
+al Castello dell'Oblio...
+!------------------------------!
+Una misión en solitario
+en el Castillo del Olvido...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Expect the orders soon.
+!------------------------------!
+Tu recevras les ordres bientôt.
+!------------------------------!
+Erwarte deine Befehle in Kürze.
+!------------------------------!
+Presto avrai i tuoi ordini.
+!------------------------------!
+Las órdenes llegarán pronto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé...and Xion?
+!------------------------------!
+Naminé... et Xion ?
+!------------------------------!
+Naminé ... und Xion?
+!------------------------------!
+Naminé... e Xion?
+!------------------------------!
+Naminé... ¿y Xion?
+!------------------------------!
+!******************************!

@@ -1,0 +1,114 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+2:22
+!******************************!
+&.[HDR].2&
+2:23
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Beleza, vamos acabar com isto logo.
+!------------------------------!
+Allez, faisons vite.
+!------------------------------!
+Okay, bringen wir die Sache
+schnell hinter uns.
+!------------------------------!
+OK, vediamo di sbrigarci.
+!------------------------------!
+Venga, hagamos esto rapidito.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Qual era o alvo de hoje mesmo?
+Um Guardian?
+!------------------------------!
+C'est quoi déjà la cible d'aujourd'hui ?
+Un Gardien ?
+!------------------------------!
+Was war das heutige Ziel noch
+mal? Ein Wächter?
+!------------------------------!
+Oggi qual è il nostro bersaglio?
+Un Guardiano?
+!------------------------------!
+¿Quién era el objetivo de hoy?
+¿Un custodio?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+Ah, é. Acho que sim.
+!------------------------------!
+Je crois...
+!------------------------------!
+Was?
+Oh, ja, ich glaube schon ...
+!------------------------------!
+Eh?
+Sì, mi sembra...
+!------------------------------!
+Creo que sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tu é um completo zumbi.
+Quer que eu vá ter toda a diversão 
+enquanto você tenta descobrir? Bora.
+!------------------------------!
+Tu veux que ce soit moi qui fasse tout
+le boulot pendant que tu réfléchis ?
+Allez, on se réveille, mec !
+!------------------------------!
+Du bist so ein Zombie!
+Soll ich den ganzen Spaß
+etwa alleine haben? Komm!
+!------------------------------!
+Sei proprio un cadavere...
+Vuoi lasciarmi tutto lo spasso mentre
+cerchi di ricordarlo? Sveglia, Roxas.
+!------------------------------!
+¿Quieres que me dé una vuelta
+mientras tú lo averiguas? Venga,
+espabila de una vez.
+!------------------------------!
+!******************************!

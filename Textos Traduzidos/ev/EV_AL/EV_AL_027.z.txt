@@ -1,0 +1,322 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/1B.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ob/29.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(That monkey...
+ I saw him here last time, too.)
+!------------------------------!
+(Ce petit singe... je l'ai vu l'autre fois
+ aussi.)
+!------------------------------!
+(Der Affe ...
+ Den hab ich letztes Mal
+ auch gesehen.)
+!------------------------------!
+(Quella scimmia...
+L'ho vista anche l'ultima volta.)
+!------------------------------!
+(Ese mono...
+También lo vi la última vez).
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Roxas, look...
+!------------------------------!
+Hé, Roxas, regarde...
+!------------------------------!
+Hey, Roxas, guck mal ...
+!------------------------------!
+Ehi, Roxas, guarda...
+!------------------------------!
+Eh, Roxas, mira...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He must've dropped it.
+!------------------------------!
+Il a laissé tomber ça.
+!------------------------------!
+Das muss er fallen gelassen haben.
+!------------------------------!
+Deve averla lasciata cadere.
+!------------------------------!
+Se le debe de haber caído.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Where'd he swipe something like this?)
+!------------------------------!
+(Où a-t-il pu trouver ça ?)
+!------------------------------!
+(Wo hat er so was her?)
+!------------------------------!
+(Dove avrà rubato una
+cosa del genere?)
+!------------------------------!
+(¿De dónde habrá
+birlado algo así?)
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you think?
+Should we just leave it?
+!------------------------------!
+Qu'est-ce que tu en penses ?
+On la prend ?
+!------------------------------!
+Was meinst du?
+Sollen wir's hier lassen?
+!------------------------------!
+Che ne pensi?
+Dovremmo lasciarla qui?
+!------------------------------!
+¿Qué te parece?
+¿Deberíamos dejarla aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's up to you, Xion.
+!------------------------------!
+C'est comme tu veux, Xion.
+!------------------------------!
+Mach, was du willst, Xion.
+!------------------------------!
+Fa' come preferisci, Xion.
+!------------------------------!
+Tú decides, Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We may not get a chance to return it,
+but if you don't pick it up, somebody
+else will.
+!------------------------------!
+Mais vu qu'on ne sait pas à qui elle
+appartient, quelqu'un d'autre risque
+de s'en emparer si on la laisse ici.
+!------------------------------!
+Wenn du's nicht nimmst,
+wird es jemand anders
+mitnehmen.
+!------------------------------!
+Forse non potremo restituirla,
+ma se non la prendiamo
+noi lo farà qualcun altro.
+!------------------------------!
+Puede que no tengamos ocasión de
+devolverla, pero si no la coges
+tú, otro lo hará.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, then I guess I'll hold onto it.
+It might come in handy.
+!------------------------------!
+OK, alors je la garde.
+Ça pourrait servir.
+!------------------------------!
+Hm, dann behalt ich's.
+Vielleicht erweist es sich
+noch als nützlich.
+!------------------------------!
+Mmm, allora la tengo io.
+Potrebbe sempre tornarci utile.
+!------------------------------!
+Mm, entonces, supongo que la
+cogeré. Puede que resulte útil.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay.
+Let's head for the cave.
+!------------------------------!
+Parfait.
+Entrons dans la caverne.
+!------------------------------!
+Okay.
+Auf zur Höhle.
+!------------------------------!
+Va bene.
+Raggiungiamo la caverna.
+!------------------------------!
+De acuerdo.
+Dirijámonos a la cueva.
+!------------------------------!
+!******************************!

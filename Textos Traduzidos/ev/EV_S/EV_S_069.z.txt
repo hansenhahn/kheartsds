@@ -1,0 +1,244 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, man, you missed your amigos.
+Team Axel already left.
+!------------------------------!
+Ben alors ? T'as raté tes potes.
+L'équipe Axel est déjà partie.
+!------------------------------!
+Hey, Mann, du hast deine Freunde
+verpasst. Team Axel ist schon los.
+!------------------------------!
+Ehi, hai perso i tuoi amigos.
+La Squadra Axel è già partita.
+!------------------------------!
+Eh, tus amigos ya no están.
+El equipo Axel se ha marchado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Team Axel?
+!------------------------------!
+L'équipe Axel ?
+!------------------------------!
+Team Axel?
+!------------------------------!
+Squadra Axel?
+!------------------------------!
+¿Equipo Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, he and Xion teamed up for the
+day. Which means they get to work half
+as hard. Which is so totally unfair.
+!------------------------------!
+Ouais, Xion et lui sont partis ensemble.
+Ce qui veut dire qu'ils vont travailler
+moitié moins. Et ça c'est pas juste.
+!------------------------------!
+Ja, er und Xion sind heute
+gemeinsam unterwegs, müssen also
+nur halb so hart arbeiten. Unfair.
+!------------------------------!
+Sì, oggi lavora insieme a Xion.
+Scommetto che è una missione
+facile, e questo non è giusto.
+!------------------------------!
+Sí, Xion y él van juntos hoy.
+Vamos, que trabajarán la mitad.
+Lo cual es totalmente injusto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Today you get to work with me, tiger.
+!------------------------------!
+Aujourd'hui, tu feras équipe avec moi,
+mon grand.
+!------------------------------!
+Heute arbeiten wir zusammen,
+Tiger.
+!------------------------------!
+Oggi ti toccherà lavorare
+con me, tigre.
+!------------------------------!
+Hoy te toca conmigo, fiera.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't call me <E2><80><9C>tiger.<E2><80><9D>
+!------------------------------!
+Ne m'appelle pas <E2><80><9C>mon grand<E2><80><9D>.
+!------------------------------!
+Nenn mich nicht <E2><80><9E>Tiger<E2><80><9C>.
+!------------------------------!
+Non chiamarmi "tigre".
+!------------------------------!
+No me llames "fiera".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hah! You like <E2><80><9C>kiddo<E2><80><9D> better?
+Or maybe you're mad because Poppet
+got the best nickname?
+!------------------------------!
+Ha ! Tu préfères <E2><80><9C>gamin<E2><80><9D> alors ?
+Ou peut-être que t'es jaloux parce
+que la poulette a le meilleur surnom ?
+!------------------------------!
+Ha! Gefällt dir <E2><80><9E>Kleiner<E2><80><9C>
+besser? Oder bist du sauer, dass
+Schätzchen den besten Spitznamen hat?
+!------------------------------!
+Ah! Preferisci "ragazzino"?
+O sei arrabbiato perché l'idiota
+ha avuto il soprannome migliore?
+!------------------------------!
+¡Ja! ¿Prefieres "chaval"?
+¿No te habrás enfadado porque a
+Encanto le ha tocado el mejor mote?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, never mind.
+!------------------------------!
+...
+!------------------------------!
+Uff, vergiss es.
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Today we get to go explore a new
+world together.
+!------------------------------!
+Aujourd'hui, on va explorer
+un nouveau monde.
+!------------------------------!
+Heute werden wir zusammen
+eine neue Welt erforschen.
+!------------------------------!
+Oggi esploreremo insieme
+un nuovo mondo.
+!------------------------------!
+Hoy vamos a explorar un nuevo
+mundo juntos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pack up, tiger, and let's get moving.
+!------------------------------!
+Allez, prépare-toi, MON GRAND !
+!------------------------------!
+Pack deine Sachen, Tiger
+und los geht's.
+!------------------------------!
+Preparati, tigre. Si parte.
+!------------------------------!
+Venga, fiera, en marcha.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

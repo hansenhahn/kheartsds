@@ -1,0 +1,117 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right, Herc. That's it for today.
+Rest up for the next one!
+!------------------------------!
+C'est bon, Herc. C'est tout pour
+aujourd'hui. Repose-toi avant
+le prochain grand combat !
+!------------------------------!
+Okay, Herc. Das war's für
+heute. Ruh dich für den
+nächsten Kampf aus!
+!------------------------------!
+Bene, Erc. Per oggi basta così.
+Riposati in vista del prossimo incontro!
+!------------------------------!
+Muy bien, Herc.
+Ya basta por hoy.
+Descansa para la próxima..
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, there's my rookie!
+Ready for today's training, kid?
+Just say the word.
+!------------------------------!
+Ah, voilà mon poulain !
+Prêt pour l'entraînement, petit ?
+Préviens-moi quand ce sera le cas.
+!------------------------------!
+Hey, da ist ja mein Anfänger!
+Bereit fürs Training, Kleiner?
+Sag mir, wenn's losgehen kann.
+!------------------------------!
+Ehi, eccoti! Pronto per la
+sessione di oggi, ragazzo?
+Iniziamo quando vuoi!
+!------------------------------!
+¡Eh, aquí está mi aprendiz!
+¿Listo para el entrenamiento de
+hoy, chico? Solo di la palabra.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um, okay.
+!------------------------------!
+Euh, d'accord...
+!------------------------------!
+Äh, okay.
+!------------------------------!
+Uhm, va bene...
+!------------------------------!
+Um... Vale.
+!------------------------------!
+!******************************!

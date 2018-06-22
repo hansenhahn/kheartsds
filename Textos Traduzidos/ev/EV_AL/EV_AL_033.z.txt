@@ -1,0 +1,127 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:19
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+1:80
+!******************************!
+&.[HDR].2&
+mi/ob/29.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No way!
+It clicked right into place!
+!------------------------------!
+Génial !
+Ça s'est emboîté sans problème !
+!------------------------------!
+Das gibt's nicht!
+Er ist gleich eingerastet ...
+!------------------------------!
+Non posso crederci!
+Combaciano perfettamente!
+!------------------------------!
+¡Toma!
+¡Ha encajado perfectamente!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Guess that explains where the monkey
+found it.
+!------------------------------!
+C'est sans doute ici que
+le singe l'a trouvée.
+!------------------------------!
+Das erklärt dann wohl,
+wo ihn der Affe herhatte.
+!------------------------------!
+Questo spiega dove l'aveva
+trovata quella scimmia.
+!------------------------------!
+Supongo que esto explica dónde
+la encontró ese mono.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If it was here to begin with, it should
+probably stay here.
+!------------------------------!
+Si elle était ici à l'origine,
+on devrait l'y laisser.
+!------------------------------!
+Hier kommt er her und hier
+sollte er dann wohl auch
+bleiben.
+!------------------------------!
+Se era qui fin dall'inizio,
+qui dovrebbe restare.
+!------------------------------!
+Si estaba aquí en un principio,
+probablemente debería quedarse
+aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ready to dig a little deeper?
+!------------------------------!
+On continue ?
+!------------------------------!
+Wollen wir uns weiter umsehen?
+!------------------------------!
+Sei pronto a indagare più a fondo?
+!------------------------------!
+¿Listo para investigarun poco más?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

@@ -1,0 +1,245 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sora is having a powerful effect on
+her.
+!------------------------------!
+Sora a un puissant effet sur elle.
+!------------------------------!
+Sora hat einen starken Einfluss
+auf sie.
+!------------------------------!
+Sora sta avendo un effetto
+molto potente su di lei.
+!------------------------------!
+Sora está ejerciendo
+un poderoso influjo sobre ella.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes, it was not supposed to gain a
+mind of its own<E2><80><95>nor become the person
+we see.
+!------------------------------!
+Normalement, elle n'aurait pas dû être
+capable de se forger son propre
+esprit et de changer son apparence.
+!------------------------------!
+Zugegeben, sie sollte weder ein
+eigenes Bewusstsein entwickeln
+noch ihr Aussehen verändern.
+!------------------------------!
+Non avrebbe dovuto formarsi
+una coscienza né cambiare
+il suo aspetto esteriore.
+!------------------------------!
+Sí, ella no tendría que haber
+desarrollado una mente propia
+ni convertirse en una persona.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But in the end, it only proves the
+puppet is the more worthy vessel.
+!------------------------------!
+Mais finalement, cela prouve son
+utilité en tant que réceptacle.
+!------------------------------!
+Aber alles in allem zeigt das auch,
+wie wertvoll sie als <E2><80><9E>Gefäß<E2><80><9C> ist.
+!------------------------------!
+Ma tutto ciò dimostra che
+abbiamo fatto bene a scegliere
+lei.
+!------------------------------!
+Pero en última instancia,
+eso solo demuestra que es
+la que más vale como anfitriona.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+At last, the time has come.
+Saïx, are the devices ready?
+!------------------------------!
+Le moment est enfin venu.
+Saïx, les dispositifs sont-ils prêts ?
+!------------------------------!
+Endlich ist es so weit.
+Saïx, sind die Geräte bereit?
+!------------------------------!
+Finalmente il momento è giunto.
+Saïx, i dispositivi sono pronti?
+!------------------------------!
+Ha llegado la hora. Saïx,
+¿están listas las máquinas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All three will be operable in a matter of
+days.
+!------------------------------!
+Les trois seront opérationnels
+dans quelques jours.
+!------------------------------!
+Alle drei werden in wenigen Tagen
+betriebsbereit sein.
+!------------------------------!
+Saranno tutti e tre operativi
+nel giro di qualche giorno.
+!------------------------------!
+Las tres estarán operativas
+en cuestión de días.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good.
+!------------------------------!
+Parfait.
+!------------------------------!
+Gut.
+!------------------------------!
+Bene.
+!------------------------------!
+Bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you want to do with Roxas?
+!------------------------------!
+Que voulez-vous faire de Roxas ?
+!------------------------------!
+Was willst du mit Roxas anfangen?
+!------------------------------!
+Cosa facciamo con Roxas?
+!------------------------------!
+¿Qué quieres hacer con Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Both of them have connections to Sora,
+but we only need one of them under our
+thumb.
+!------------------------------!
+Les deux sont liés à Sora, mais
+il ne nous en faut qu'un seul.
+!------------------------------!
+Beide sind mit Sora verbunden,
+aber wir brauchen nur einen von
+ihnen unter unserer Kontrolle.
+!------------------------------!
+Sono entrambi legati a Sora,
+ma per noi è sufficiente
+controllarne solo uno.
+!------------------------------!
+Ambos tienen conexiones con
+Sora, pero solo necesitamos
+a uno bajo nuestro control.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let Xion take from Roxas the rest of
+what he has to give...
+!------------------------------!
+Que Xion prenne à Roxas ce qu'il
+lui reste à donner...
+!------------------------------!
+Lass Xion Roxas' ganze Kraft
+nehmen ...
+!------------------------------!
+Lasciamo che Xion attinga
+al potere di Roxas... fino
+all'ultima goccia.
+!------------------------------!
+Dejemos que Xion le arrebate a
+Roxas lo que le queda...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Or, let him destroy her first and get it
+all back. It makes no difference to me.
+!------------------------------!
+ou qu'il la détruise en premier et
+récupère tout. Cela ne fait aucune
+différence à mes yeux.
+!------------------------------!
+Oder lass ihn sie zuerst vernichten
+und alles zurückholen. Das ist mir
+egal.
+!------------------------------!
+Oppure che la distrugga lui, e si
+riprenda tutto il suo potere. Per
+me non fa alcuna differenza.
+!------------------------------!
+o que él la destruya primero y
+lo recupere. Me es indiferente.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Either way, Sora's power will be ours.
+!------------------------------!
+Quoi qu'il advienne, le pouvoir de
+Sora sera nôtre.
+!------------------------------!
+So oder so werden Soras Kräfte
+uns gehören.
+!------------------------------!
+In entrambi i casi, il potere
+di Sora sarà nostro.
+!------------------------------!
+En cualquier caso, el poder de
+Sora será nuestro.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

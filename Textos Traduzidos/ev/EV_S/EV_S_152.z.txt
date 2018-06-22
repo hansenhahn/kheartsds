@@ -1,0 +1,588 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel!
+!------------------------------!
+Axel !
+!------------------------------!
+Axel!
+!------------------------------!
+Axel!
+!------------------------------!
+¡Axel!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You need something?
+!------------------------------!
+Tu veux quelque chose ?
+!------------------------------!
+Brauchst du etwas?
+!------------------------------!
+Ti serve qualcosa?
+!------------------------------!
+¿Necesitas algo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? No...I just...
+!------------------------------!
+Quoi ? Non... c'est juste...
+!------------------------------!
+Was? Nein ... Es ist nur ...
+!------------------------------!
+Cosa? No... Io...
+!------------------------------!
+¿Cómo? No... Yo solo...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Something's wrong with Roxas.
+I thought you might know what's up.
+!------------------------------!
+Roxas ne va pas bien.
+Je me demandais si tu savais
+ce qu'il se passait.
+!------------------------------!
+Mit Roxas stimmt etwas nicht.
+Ich dachte, du wüsstest vielleicht
+Bescheid.
+!------------------------------!
+Roxas ha qualcosa che non va.
+Pensavo che tu sapessi
+cosa gli sta succedendo.
+!------------------------------!
+Le pasa algo a Roxas.
+Pensé que igual
+sabrías el qué.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He says the Keyblade wears him out now
+when he goes to use it.
+!------------------------------!
+Il dit qu'utiliser la Keyblade le fatigue.
+!------------------------------!
+Er sagt, das Schlüsselschwert
+schwächt ihn auf einmal, wenn er
+es benutzt.
+!------------------------------!
+Dice che usare il Keyblade
+è molto faticoso per lui, da
+un po' di tempo a questa parte.
+!------------------------------!
+Dice que la llave espada lo
+deja agotado cuando va a usarla.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And suddenly I find myself fighting the
+same way he does...
+!------------------------------!
+Et moi, je me suis mise à me battre
+de la même façon que lui...
+!------------------------------!
+Und ich kämpfe plötzlich genauso
+wie er ...
+!------------------------------!
+E all'improvviso io mi ritrovo
+a combattere esattamente
+come lui...
+!------------------------------!
+Y ahora, de repente, empiezo
+a luchar como él...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, you know him better than me.
+!------------------------------!
+Bah, tu le connais mieux que moi.
+!------------------------------!
+Nun, du kennst ihn besser als ich.
+!------------------------------!
+Beh, tu lo conosci meglio di me.
+!------------------------------!
+Bueno, tú lo
+conoces mejor que yo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why...why would you say that?
+!------------------------------!
+Mais... pourquoi dis-tu ça ?
+!------------------------------!
+Wie ... wie kommst du darauf?
+!------------------------------!
+Perché... Perché devi dire così?
+!------------------------------!
+¿Por qué... por qué dices eso?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ask yourself what's doing it to him.
+!------------------------------!
+Demande-toi ce qui provoque
+ça chez lui.
+!------------------------------!
+Frag dich selbst, was der Grund
+dafür sein könnte.
+!------------------------------!
+Secondo te cosa gli
+sta succedendo?
+!------------------------------!
+Pregúntate qué es lo que
+le está haciendo eso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm not sure.
+!------------------------------!
+Je ne sais pas.
+!------------------------------!
+Ich bin mir nicht sicher.
+!------------------------------!
+Non lo so.
+!------------------------------!
+No estoy segura.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, you're not sure?
+What, did they forget to build you with
+common sense?
+!------------------------------!
+Tu en es sûre ? Ce ne serait
+pas à cause de ce que tu es ?
+!------------------------------!
+Du bist dir nicht sicher?
+Haben sie vergessen, dir gesunden
+Menschenverstand einzubauen?
+!------------------------------!
+Sicura che non sia tutto
+causato... come dire... da ciò
+che sei?
+!------------------------------!
+¿Que no estás segura?
+¿Acaso se olvidaron de darte
+sentido común?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......!
+!------------------------------!
+Hein ?
+!------------------------------!
+...!
+!------------------------------!
+...!
+!------------------------------!
+¡...!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, come on, don't look shocked.
+You already knew you're a Replica.
+!------------------------------!
+Oh, arrête, tu le sais bien.
+Tu es une réplique.
+!------------------------------!
+Ach, komm, jetzt guck nicht so
+geschockt. Du wusstest doch,
+dass du eine Kopie bist.
+!------------------------------!
+Oh, avanti, l'hai sempre saputo.
+Tu sei una copia.
+!------------------------------!
+Vamos, no te quedes de piedra.
+Ya lo sabías: eres una réplica.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A puppet whose original purpose was to
+duplicate Roxas's powers.
+!------------------------------!
+Une marionnette dont le but est
+de copier les pouvoirs de Roxas.
+!------------------------------!
+Eine Puppe, deren ursprünglicher
+Zweck darin bestand, Roxas Kräfte
+zu duplizieren.
+!------------------------------!
+Un fantoccio costruito per
+duplicare i poteri di Roxas.
+!------------------------------!
+Un títere cuyo objetivo
+original era duplicar los
+poderes de Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If he's getting weaker and you're
+getting stronger...
+!------------------------------!
+S'il s'affaiblit et que tu te
+renforces...
+!------------------------------!
+Wenn er schwächer wird und du
+gleichzeitig stärker wirst ...
+!------------------------------!
+Se lui diventa sempre più debole
+e tu sempre più forte...
+!------------------------------!
+Si él es cada vez más débil
+y tú cada vez más fuerte...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, that just means you're borrowing
+a little more than you oughta be.
+!------------------------------!
+ça veut dire que tu lui empruntes
+plus que tu ne devrais.
+!------------------------------!
+Tja, dann heißt das, dass du dir
+etwas mehr leihst, als du solltest.
+!------------------------------!
+...significa che stai prendendo
+in prestito più potere di
+quanto dovresti.
+!------------------------------!
+Bueno, eso solo significa que le
+estás cogiendo algo más de lo
+que deberías.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What should I do, then?
+!------------------------------!
+Que dois-je faire ?
+!------------------------------!
+Und was soll ich jetzt machen?
+!------------------------------!
+Cosa devo fare?
+!------------------------------!
+¿Qué debo hacer, entonces?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't make that decision for you.
+You're no puppet in my book.
+!------------------------------!
+Je ne peux pas décider à ta place.
+Pour moi, tu n'es pas une marionnette.
+!------------------------------!
+Die Entscheidung kann ich dir nicht
+abnehmen. Du bist in meinem Buch
+keine Puppe.
+!------------------------------!
+Non posso decidere per te.
+Io non ti considero un fantoccio.
+!------------------------------!
+No puedo tomar la decisión
+por ti. No eres un títere
+de mi propiedad.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're my best friend.
+Mine and Roxas's. Got it memorized?
+!------------------------------!
+Tu es notre meilleure amie
+à Roxas et à moi.
+Tu t'en souviendras ?
+!------------------------------!
+Du bist meine beste Freundin.
+Meine und Roxas'. Alles klar?
+!------------------------------!
+Sei la mia migliore amica.
+La mia e di Roxas.
+L'hai memorizzato?
+!------------------------------!
+Eres uno de mis mejores amigos.
+Y también de Roxas.
+¿Te haces a la idea de una vez?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah...
+!------------------------------!
+Oui...
+!------------------------------!
+Ja ...
+!------------------------------!
+Sì...
+!------------------------------!
+Sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Can I ask you one other thing?
+!------------------------------!
+Puis-je te demander autre chose ?
+!------------------------------!
+Kann ich dich noch etwas fragen?
+!------------------------------!
+Posso chiederti un'ultima cosa?
+!------------------------------!
+¿Puedo preguntarte una cosa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What's that?
+!------------------------------!
+Quoi donc ?
+!------------------------------!
+Und das wäre?
+!------------------------------!
+Dimmi.
+!------------------------------!
+Dime.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I saw a boy today who looks just like
+Roxas.
+!------------------------------!
+J'ai vu un garçon aujourd'hui qui
+ressemblait à Roxas comme deux
+gouttes d'eau.
+!------------------------------!
+Ich habe heute einen Jungen
+gesehen, der genau wie Roxas
+aussah.
+!------------------------------!
+Oggi ho visto un ragazzo
+molto simile a Roxas.
+!------------------------------!
+Hoy he visto a un niño
+idéntico a Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is he who I think he is?
+!------------------------------!
+Est-il celui que je crois ?
+!------------------------------!
+Ist er der, für den ich ihn halte?
+!------------------------------!
+È chi penso che sia...?
+!------------------------------!
+¿Es quien creo que es?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

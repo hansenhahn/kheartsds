@@ -1,0 +1,261 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+1:35
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/21.z
+!******************************!
+&.[HDR].2&
+mi/ch/22.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então, Doutor? O que acha?!
+Coloquei algumas novas <E2><80><9C>ideias<E2><80><9D> no
+lugar para o próximo Halloween.
+!------------------------------!
+Alors, Docteur ? Que pensez-vous de
+mes nouvelles <E2><80><9C>idées<E2><80><9D>
+pour le prochain Halloween ?
+!------------------------------!
+Und, Doktor? Was denken Sie!?
+Ich habe ein paar neue <E2><80><9E>Ideen<E2><80><9C>
+für Halloween umgesetzt.
+!------------------------------!
+Allora, Dottore? Che ne pensa?
+Ho qualche nuova "idea"
+per il prossimo Halloween.
+!------------------------------!
+¿Y bien, doctor? ¿Qué te parece?
+He puesto en práctica algunas
+"ideas" para este Halloween.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É?
+!------------------------------!
+Hmm...
+!------------------------------!
+Oh?
+!------------------------------!
+Oh?
+!------------------------------!
+¿Ah?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Hand
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Esses balões contém uma travessura
+aterrorizante! Quem toca irá levar
+um belo de um susto!
+!------------------------------!
+Ceci renferme un tour terrorifiant !
+Celui qui le touchera aura droit à
+un sacré choc !
+!------------------------------!
+Die Ballons haben's in sich!
+Wer sie berührt, kann sich
+auf einen Schock gefasst machen!
+!------------------------------!
+Questi palloncini hanno un effetto
+terrificante! Basta un tocco per
+restare elettrizzati!
+!------------------------------!
+¡Estos globos tienen un truco de
+lo más terrorífico! Quien los
+toque, se llevará un buen susto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sei, sei! Interessante...
+!------------------------------!
+Je vois, je vois !
+Ce n'est pas mal du tout...
+!------------------------------!
+Aha, aha! Interessant ...
+!------------------------------!
+Capisco! Interessante...
+!------------------------------!
+Ya veo, ya veo.
+Muy interesante...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Conte-me sepmre que tiver 
+mais alguma <E2><80><9C>ideia<E2><80><9D>, Jack.
+!------------------------------!
+Continue à chercher des idées.
+Je compte sur toi, Jack !
+!------------------------------!
+Sag mir auf jeden Fall Bescheid,
+wenn du wieder so eine <E2><80><9E>Idee<E2><80><9C>
+haben solltest, Jack!
+!------------------------------!
+Tienimi al corrente di ogni
+altra "idea" che avrai, Jack.
+!------------------------------!
+Procura contarme todas las
+ideas que se te vayan
+ocurriendo, Jack.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pode deixar, Doutor!
+!------------------------------!
+Pas de problème !
+!------------------------------!
+Mach ich, Doktor!
+!------------------------------!
+Lo farò, Dottore!
+!------------------------------!
+¡Claro, doctor!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm... Mas não é o bastante.
+Ainda falta algo para meu Halloween 
+horripilante ficar perfeito...
+!------------------------------!
+Hmm, ce n'est pas encore suffisant.
+Il manque encore quelque chose à
+mon parfait Halloween horrifiant...
+!------------------------------!
+Hm, es reicht immer noch nicht.
+Zu einem richtig schrecklichen
+Halloween fehlt noch etwas ...
+!------------------------------!
+Mmm, così non basta, però...
+Al mio Halloween spaventosamente
+perfetto manca ancora qualcosa...
+!------------------------------!
+Mmm, pero no basta todavía.
+A mi Halloween petrificante
+aún le falta algo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Travessura aterrorizante?
+Tem algo dentro?
+!------------------------------!
+Un tour terrorifiant ?
+Il y a quelque chose à l'intérieur ?
+!------------------------------!
+Die haben's in sich ...?
+Ist da etwas drinnen?
+!------------------------------!
+Un effetto terrificante?
+Che ci sia qualcosa all'interno?
+!------------------------------!
+¿Un truco terrorífico?...
+¿Habrá algo dentro?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000000000007000F00.*
+!******************************!

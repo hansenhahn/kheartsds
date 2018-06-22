@@ -1,0 +1,207 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/38.z
+!******************************!
+&.[HDR].2&
+mi/ob/38.z
+!******************************!
+&.[HDR].2&
+mi/ob/3B.z
+!******************************!
+&.[HDR].2&
+mi/ob/3B.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey there, kiddo.
+!------------------------------!
+Salut, l'avorton.
+!------------------------------!
+Hey, Kleiner!
+!------------------------------!
+Ciao, ragazzino.
+!------------------------------!
+¿Qué hay, chico?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh!?
+!------------------------------!
+Hein ?
+!------------------------------!
+Was!?
+!------------------------------!
+Uh?!
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Looks like you're doing pretty well here.
+!------------------------------!
+Tu te débrouilles pas mal, on dirait.
+!------------------------------!
+Du scheinst hier ja richtig gut
+voranzukommen.
+!------------------------------!
+Vedo che te la stai
+cavando piuttosto bene.
+!------------------------------!
+Parece que te va muy bien
+por aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xigbar!? What are you<E2><80><95>
+Don't try and tell me you're a trainee,
+too?
+!------------------------------!
+Xigbar ? Mais que... Ne me dis pas
+que tu t'entraînes, toi aussi ?
+!------------------------------!
+Xigbar!? Was willst du ...?
+Jetzt sag nicht, dass du
+auch ein Schüler bist.
+!------------------------------!
+Xigbar?! Ma che...?
+Non dirmi che sei una
+recluta anche tu!
+!------------------------------!
+¿Xigbar? ¿Qué estás...? ¿No me
+digas que tú también eres
+un aprendiz?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+As if! I just dropped in to see how our
+little wannabe hero is doing. I care
+about your future, Roxas.
+!------------------------------!
+Mais non ! Je suis juste venu voir
+comment tu t'en sors. Je me soucie
+de ton avenir, Roxas.
+!------------------------------!
+Von wegen! Ich wollte nur mal sehen,
+was unser Möchtegernheld so macht.
+Deine Zukunft ist mir wichtig, Roxas.
+!------------------------------!
+Ma no! Volevo solo vedere come
+stava il nostro eroe in erba.
+Ci tengo al tuo futuro, Roxas.
+!------------------------------!
+¡Quita! Solo me he dejado caer,
+a ver cómo va el pequeño héroe.
+Me preocupa tu futuro, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just dropped in? You could have told
+me you were entering!
+!------------------------------!
+Juste venu voir ? Tu aurais pu me
+dire que tu allais participer aux
+Jeux !
+!------------------------------!
+Nur mal sehen? Du hättest mir
+sagen können, dass du auch hier bist!
+!------------------------------!
+Che storia è mai questa?!
+Potevi almeno avvisarmi!
+!------------------------------!
+¿Solo te has dejado caer?
+¡Podías haberme dicho que
+ibas a participar!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Try to make it look real, Roxas!
+!------------------------------!
+Fais comme si c'était réel, Roxas !
+!------------------------------!
+Versuch's möglichst echt
+aussehen zu lassen, Roxas!
+!------------------------------!
+Fa' del tuo meglio, Roxas!
+!------------------------------!
+¡Intenta que parezca
+de verdad, Roxas!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!

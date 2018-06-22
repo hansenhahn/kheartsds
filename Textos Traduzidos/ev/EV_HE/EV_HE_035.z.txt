@@ -1,0 +1,284 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're doin' great, kid!
+Win the next match, and the title's
+yours!
+!------------------------------!
+C'est super, petit !
+Gagne le prochain match et
+tu seras le tenant du titre !
+!------------------------------!
+Du schlägst dich toll, Kleiner!
+Gewinn den nächsten Kampf
+und der Titel gehört dir!
+!------------------------------!
+Stai andando alla grande!
+Vinci il prossimo incontro
+e il titolo sarà tuo!
+!------------------------------!
+¡Lo estás haciendo muy bien,
+chico! Gana el siguiente
+combate y el título es tuyo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+Ça marche.
+!------------------------------!
+Okay.
+!------------------------------!
+Certo.
+!------------------------------!
+De acuerdo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know much about the guy you're
+up against in the finals, but...
+!------------------------------!
+Je ne connais pas bien celui que tu
+vas affronter en finale, mais...
+!------------------------------!
+Ich weiß nicht viel über
+deinen Finalgegner, aber ...
+!------------------------------!
+Non so dirti molto sul tizio che
+dovrai affrontare in finale,
+ma...
+!------------------------------!
+No sé mucho del tipo contra el
+que te vas a enfrentar en la
+final, pero...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+From the look of him, I'd say he's been
+through a few fights.
+!------------------------------!
+à le voir, je crois qu'on peut dire
+que c'est plus un débutant.
+!------------------------------!
+So wie er aussieht, hat er schon
+so einige Kämpfe gesehen.
+!------------------------------!
+Basta guardarlo per capire che
+ha combattuto molte battaglie.
+!------------------------------!
+A juzgar por su aspecto, diría
+que lleva unos cuantos
+combates a sus espaldas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Stay sharp!
+!------------------------------!
+Sois prudent !
+!------------------------------!
+Pass auf dich auf!
+!------------------------------!
+Sta' all'erta!
+!------------------------------!
+¡No bajes la guardia!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I will.
+!------------------------------!
+D'accord.
+!------------------------------!
+Das werde ich.
+!------------------------------!
+Lo farò.
+!------------------------------!
+No lo haré.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You've come this far!
+Don't let anybody else walk outta here
+with your title!
+!------------------------------!
+T'es arrivé jusqu'ici alors ne laisse
+personne te piquer ton titre !
+!------------------------------!
+Jetzt bist du schon so weit
+gekommen! Lass dir den Titel
+nicht einfach wegschnappen!
+!------------------------------!
+Dopo tutta la fatica che hai
+fatto, non lasciarti sfuggire
+quel titolo, ragazzo!
+!------------------------------!
+¡Has llegado muy lejos!
+¡No dejes que nadie salga de
+aquí con tu título!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Remember<E2><80><95>I'm expectin' stuff from
+you, kid!
+!------------------------------!
+J'ai foi en toi, petit !
+!------------------------------!
+Denk immer dran ... Ich setze
+große Erwartungen
+in dich, Kleiner!
+!------------------------------!
+Ricordati, ho grandi aspettative
+su di te, ragazzo!
+!------------------------------!
+Recuerda, ¡tengo mis esperanzas
+puestas en ti, chico!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Expecting...
+You mean you order me to win?
+!------------------------------!
+Foi en moi...
+Vous m'ordonnez de gagner, c'est ça ?
+!------------------------------!
+Erwartungen ...
+Du meinst, du befiehlst mir
+zu gewinnen?
+!------------------------------!
+Aspettative...
+Quindi mi ordini di vincere?
+!------------------------------!
+Esperanzas...
+¿Te refieres a que me
+ordenas que gane?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Order you?
+What are you talkin' about?
+!------------------------------!
+Ordonner ?
+Mais de quoi tu parles ?
+!------------------------------!
+Befehlen?
+Wovon redest du?
+!------------------------------!
+Ordinarti di vincere?
+Che stai dicendo?
+!------------------------------!
+¿Darte órdenes?
+¿De qué me estás hablando?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It means I have faith you can win.
+!------------------------------!
+Ce que je veux dire, c'est que j'ai foi
+en le fait que tu puisses gagner.
+!------------------------------!
+Es bedeutet, ich vertraue darauf,
+dass du gewinnen kannst.
+!------------------------------!
+Significa che ho fiducia in te.
+So che puoi farcela.
+!------------------------------!
+Quiere decir que tengo fe
+en que puedes ganar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Faith...
+!------------------------------!
+Foi...
+!------------------------------!
+Vertrauen ...
+!------------------------------!
+Fiducia...
+!------------------------------!
+Fe...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right. Now get out there and knock some
+heads!
+!------------------------------!
+Allez, donne le meilleur de toi !
+!------------------------------!
+Richtig. Und jetzt geh da raus
+und gib denen was auf die Nuss!
+!------------------------------!
+Bene. Ora scendi in campo
+e dimostra quanto vali!
+!------------------------------!
+Eso es. ¡Y ahora, sal ahí y
+rompe algunas cabezas!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

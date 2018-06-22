@@ -1,0 +1,245 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/47.z
+!******************************!
+&.[HDR].2&
+mi/ob/58.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why am I doing this?
+Why am I going back to the castle?
+!------------------------------!
+Pourquoi est-ce que je fais ça ?
+Pourquoi rentrer à la citadelle ?
+!------------------------------!
+Warum tu ich das?
+Warum gehe ich zurück
+zum Schloss?
+!------------------------------!
+Perché lo sto facendo?
+Perché sto tornando al castello?
+!------------------------------!
+¿Por qué estoy haciendo esto?
+¿Por qué vuelvo al castillo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+There's nothing there for me.
+!------------------------------!
+Il n'y a rien pour moi là-bas.
+!------------------------------!
+Dort wartet nichts auf mich.
+!------------------------------!
+Laggiù non c'è niente per me.
+!------------------------------!
+Ahí no me espera nada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How can I keep working for them if
+they're gonna leave me in the dark?
+!------------------------------!
+Comment pourrais-je continuer à
+travailler pour eux s'ils me laissent
+dans l'ignorance ?
+!------------------------------!
+Wie kann ich weiter für sie
+arbeiten, wenn sie mich
+im Dunkeln lassen?
+!------------------------------!
+Come posso lavorare per loro se
+continuano a tenermi all'oscuro
+di tutto?
+!------------------------------!
+¿Cómo puedo seguir trabajando
+para ellos cuando no me cuentan
+nada?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What am I saying...
+This isn't about them, or Xion.
+!------------------------------!
+Qu'est-ce que je raconte...
+Ça n'a rien à voir avec eux
+ou avec Xion.
+!------------------------------!
+Was rede ich denn da ...
+Hierbei geht's nicht um sie
+oder Xion.
+!------------------------------!
+Ma cosa sto dicendo...
+Tutto ciò non riguarda loro, né Xion.
+!------------------------------!
+¿Pero qué estoy diciendo...?
+No se trata de ellos,
+ni de Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's about me.
+Whatever <E2><80><9C>me<E2><80><9D> is.
+!------------------------------!
+Il s'agit de moi.
+Peu importe ce que je suis...
+!------------------------------!
+Es geht um mich.
+Was auch immer <E2><80><9E>mich<E2><80><9C> bedeutet.
+!------------------------------!
+Riguarda me.
+Chiunque io sia.
+!------------------------------!
+Se trata de mí.
+Sea lo que sea "mí".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I feel like I'm the only person who
+doesn't know.
+!------------------------------!
+J'ai l'impression d'être le seul
+à ne rien savoir.
+!------------------------------!
+Es kommt mir vor, als wäre ich
+der Einzige, der das nicht weiß.
+!------------------------------!
+Mi sembra di essere l'unico
+a non saperlo.
+!------------------------------!
+Me siento como si fuera la única
+persona que no lo supiera.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Have I got anything left?
+Any place I really belong?
+!------------------------------!
+Me reste-t-il encore quelque chose ?
+Ai-je ma place quelque part ?
+!------------------------------!
+Ist mir noch irgendetwas
+geblieben? Gehöre ich irgendwo
+hin?
+!------------------------------!
+Mi è rimasto qualcosa?
+C'è un posto a cui appartengo?
+!------------------------------!
+¿Me queda algo?
+¿Algún lugar al que pertenecer
+realmente?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Any friends...I still belong with?
+!------------------------------!
+Des amis... qui soient les miens ?
+!------------------------------!
+Habe ich irgendwelche
+Freunde ... zu denen ich
+gehöre?
+!------------------------------!
+O amici che posso
+davvero considerare tali?
+!------------------------------!
+¿Algún amigo...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+namida_r
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

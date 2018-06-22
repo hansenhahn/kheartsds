@@ -1,0 +1,556 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:34
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/14.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Correto!
+Bem, promessa é promessa.
+Vou contar o que sei.
+!------------------------------!
+Vous avez bien répondu !
+Bon, une promesse est une promesse.
+Je vais vous dire ce que je sais.
+!------------------------------!
+Richtig!
+Okay, versprochen ist
+versprochen.
+Ich sage euch, was ich weiß.
+!------------------------------!
+Esatto! Bene, una promessa è
+una promessa. Vi dirò tutto
+quello che ho scoperto.
+!------------------------------!
+¡Correcto!
+Bien, cumplo mis promesas.
+Os diré todo lo que sé.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então, tive vasculhando por aí, 
+e descobri que as Maravilhas da
+cidade possuem todas uma ligação!
+!------------------------------!
+J'ai mené ma petite enquête et j'ai
+découvert que les Sept mystères de
+la ville ont tous un lien entre eux !
+!------------------------------!
+Ich habe herausgefunden, dass
+alle Wunder etwas gemeinsam
+haben.
+!------------------------------!
+In seguito alle mie indagini,
+ho capito che le meraviglie della
+città sono collegate!
+!------------------------------!
+¡He investigado mucho y he
+descubierto que las maravillas
+están todas conectadas!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No... sentido que são todos inventados.
+Nada mais que lendas urbanas idiotas e
+boatos.
+!------------------------------!
+Parce qu'en fait... tout est faux.
+C'est que des légendes urbaines
+et des rumeurs.
+!------------------------------!
+Sie sind alle erfunden.
+Nichts als moderne Märchen und
+Gerüchte.
+!------------------------------!
+Infatti... sono tutte frottole!
+Non sono altro che leggende
+metropolitane senza fondamento.
+!------------------------------!
+En el sentido en que son todas
+falsas. No son más que estúpidas
+leyendas urbanas y rumores.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O quê?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was?
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tipo, as escadas que você falou...
+Farsa total. A verdade sobre ela
+é meio embaraçosa.
+!------------------------------!
+Les marches dont tu parlais...
+c'est n'importe quoi ! La vérité
+là-dessus est toute bête.
+!------------------------------!
+Diese Treppe zum Beispiel?
+Totaler Blödsinn. Die Wahrheit
+ist einfach nur enttäuschend.
+!------------------------------!
+Come quegli scalini che dicevi:
+solo un falso. La verità
+è a dir poco imbarazzante.
+!------------------------------!
+Sí, por ejemplo, los escalones
+son una patraña. Es una
+auténtica vergüenza.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+'Tão é só mais uma cidade sem graça, hein?
+!------------------------------!
+C'est juste une ville comme les autres,
+alors ?
+!------------------------------!
+Nur ein einfaches, verschlafenes
+Städtchen also?
+!------------------------------!
+Una città semplice e
+sonnacchiosa, eh?
+!------------------------------!
+¿Entonces no es más que otra
+ciudad aburrida?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mal, pessoal. Perderam seu tempo.
+Bem, talvez menos a Oitava Maravilha...
+!------------------------------!
+Oui, désolé. Les gens inventent des
+rumeurs pour tuer l'ennui. Sauf qu'il y
+a peut-être bien un huitième mystère.
+!------------------------------!
+Tut mir ja leid. Alles reine
+Zeitverschwendung. Außer
+vielleicht das achte Wunder ...
+!------------------------------!
+Mi dispiace deludervi, ma qui non
+c'è nessuna "meraviglia" che si
+rispetti. A parte l'ottava...
+!------------------------------!
+Lo siento, chicos. Son rumores
+propagados por gente aburrida.
+Bueno, menos la octava.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem uma Oitava?!
+!------------------------------!
+Un huitième mystère ?
+!------------------------------!
+Es gibt ein achtes!?
+!------------------------------!
+Esiste l'ottava?!?
+!------------------------------!
+¡¿Hay una octava maravilla?!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A da árvore. Lá no bosque.
+!------------------------------!
+Celui sur l'arbre... dans les bois.
+!------------------------------!
+Das mit dem Baum.
+Draußen im Wald?
+!------------------------------!
+Sì, quella che riguarda l'albero.
+Quello nel bosco, intendo dire.
+!------------------------------!
+Sí, la del árbol.
+El que está en el bosque.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem uma árvore onde, se você sacudir ela, 
+todo o lugar começa a fazer uns barulhos.
+Frufru, frufru, FRUFRU!
+!------------------------------!
+Apparemment, si vous secouez un des
+arbres, tout l'endroit se met à mugir.
+!------------------------------!
+Es gibt einen Baum, wenn man
+den schüttelt, dann fängt ein
+furchtbares Geraschel an.
+!------------------------------!
+C'è un albero che quando viene
+scosso sembra far muovere
+tutto attorno!
+!------------------------------!
+Parece que hay un árbol que si
+lo sacudes, se oye un aullido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+... Estranho, né? Ainda não fui lá ver, 
+então não posso falar muita coisa.
+!------------------------------!
+Bizarre, hein ? Je suis toujours pas
+allé enquêter là-bas, alors je peux
+pas vous en dire plus.
+!------------------------------!
+... Schräg, oder? Ich war allerdings
+noch nicht da, kann euch also
+nicht viel dazu sagen.
+!------------------------------!
+Strano, eh? Non sono ancora
+andato a indagare, quindi non
+posso dirvi molto di più.
+!------------------------------!
+Qué raro, ¿verdad? Todavía no
+he ido a investigar, así que no
+puedo contaros gran cosa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas as pessoas disseram que se sentiram
+como se estivessem sendo observadas lá...
+mesmo que esteja, ou pareça, deserto.
+!------------------------------!
+Mais les gens racontent qu'ils se
+sentent observés là-bas, même
+quand il n'y a personne...
+!------------------------------!
+Aber die Leute erzählen, sie
+fühlen sich dort beobachtet.
+Obwohl der Ort verlassen ist.
+!------------------------------!
+Però si dice che in quel luogo
+ci si senta osservati, anche
+quando non c'è nessuno.
+!------------------------------!
+Pero dicen que quienes van
+allí se sienten vigilados.
+Aunque el lugar está desierto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem esquisito.
+!------------------------------!
+C'est étrange.
+!------------------------------!
+Sehr merkwürdig.
+!------------------------------!
+Molto strano.
+!------------------------------!
+Pues sí que es extraño.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não seria muito uma Maravilha se não
+fosse! Estou pretendendo ir descobrir
+o trque por trás disso depois.
+!------------------------------!
+Évidemment, sinon ce serait pas
+un mystère ! Et je compte bien le
+résoudre !
+!------------------------------!
+Vielleicht ist er das aber auch
+nicht! Ich wollte den Trick
+später herausfinden.
+!------------------------------!
+Certo, altrimenti non sarebbe
+una meraviglia, no?!? Presto
+scoprirò il suo segreto.
+!------------------------------!
+¡Menuda maravilla sería si no
+lo fuera! Iba a desentrañar
+su misterio más tarde.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Boa sorte aí.
+!------------------------------!
+Ah, OK.
+!------------------------------!
+Viel Glück dabei.
+!------------------------------!
+Buona fortuna...
+!------------------------------!
+Ya veo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Valeu! Bem, tenho que voltar pra minha
+investigação. Tentem guardar isso, tá?
+!------------------------------!
+D'ailleurs, je devrais reprendre mon
+enquête. Et euh... essayez de garder
+ça pour vous, OK ?
+!------------------------------!
+Ich sollte meine Erkundungen
+wieder aufnehmen. Erzählt bitte
+nichts weiter, okay?
+!------------------------------!
+Grazie! Ora dovrei proprio
+tornare alle mie indagini. Voi...
+uh, acqua in bocca, d'accordo?
+!------------------------------!
+Por cierto, debería
+volver a mi investigación.
+Procurad no hacer ruido, ¿vale?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso não valeu de nada.
+!------------------------------!
+On n'a pas appris grand-chose.
+!------------------------------!
+Das war nicht sehr hilfreich.
+!------------------------------!
+È stata una grandissima
+perdita di tempo.
+!------------------------------!
+Menuda pérdida de tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Talvez sim, talvez não.
+!------------------------------!
+Peut-être ou peut-être pas.
+!------------------------------!
+Vielleicht, vielleicht war es
+das aber auch.
+!------------------------------!
+Forse no.
+!------------------------------!
+Puede que sí, puede que no.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+!------------------------------!
+Hein ?
+!------------------------------!
+Was?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele disse que as pessoas têm 
+sentido um tipo de presença 
+no bosque fora da cidade, né?
+!------------------------------!
+Il a dit que les gens se sentent
+observés dans le bois en dehors
+de la ville, non ?
+!------------------------------!
+Er sagte, die Leute würden sich
+draußen im Wald beobachtet
+fühlen, oder?
+!------------------------------!
+Ha detto che la gente si sente
+osservata nel bosco appena
+fuori città, giusto?
+!------------------------------!
+Ha dicho que la gente sentía una
+presencia extraña en el bosque,
+en las afueras, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Talvez esse seja o alvo da Xion.
+!------------------------------!
+C'est peut-être la cible de Xion.
+!------------------------------!
+Vielleicht ist das Xions Ziel.
+!------------------------------!
+Forse si tratta del
+bersaglio di Xion.
+!------------------------------!
+Quizá sea el objetivo de Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá...
+Vamos dar uma conferida.
+!------------------------------!
+Allons voir ça.
+!------------------------------!
+Okay ...
+Sehen wir mal nach.
+!------------------------------!
+Va bene...
+Andiamo a controllare.
+!------------------------------!
+Vayamos a comprobarlo.
+!------------------------------!
+!******************************!

@@ -1,0 +1,775 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/16.z
+!******************************!
+&.[HDR].2&
+mi/ch/17.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:66
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[HDR].2&
+1:51
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No! Oh, no!
+!------------------------------!
+Non ! Oh non !
+!------------------------------!
+Nein! Oh nein!
+!------------------------------!
+No! Oh, no!
+!------------------------------!
+¡No! ¡Oh, no!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Someone's coming.)
+!------------------------------!
+(Quelqu'un approche.)
+!------------------------------!
+(Jemand kommt.)
+!------------------------------!
+(Arriva qualcuno.)
+!------------------------------!
+(Viene alguien).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What happened? Are you all right...
+!------------------------------!
+Que s'est-il passé ?
+Tu es blessé ?
+!------------------------------!
+Was ist passiert?
+Du armes Ding ...
+!------------------------------!
+Che è successo? Stai bene?
+!------------------------------!
+¿Qué ha pasado? Pobrecito...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+Belle... Get back inside...
+It's too dangerous...
+!------------------------------!
+Ah... Belle... Retourne... à l'intérieur.
+C'est dangereux ici...
+!------------------------------!
+Nngh ... Belle. Geh wieder ...
+rein. Hier ist es gefährlich ...
+!------------------------------!
+Nngh... Belle. Torna dentro...
+Qui è pericoloso...
+!------------------------------!
+Urg... Bella. Vuelve... dentro.
+Es peligroso...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm taking you with me.
+!------------------------------!
+Pas question de te laisser là !
+!------------------------------!
+Ich nehme dich mit.
+!------------------------------!
+Ti porterò con me.
+!------------------------------!
+Tú te vienes conmigo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No...
+I have to stop...those things...
+!------------------------------!
+Je dois rester ici pour...
+arrêter ces choses...
+!------------------------------!
+Nein ... ich muss hierbleiben
+und diese Dinge ... aufhalten ...
+!------------------------------!
+No... Devo restare qui per
+fermare... quelle cose...
+!------------------------------!
+No... Tengo que detener...
+a esas cosas...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But they're gone.
+You don't have to fight any more.
+!------------------------------!
+Elles sont parties !
+Tu n'as plus à te battre.
+!------------------------------!
+Sie sind weg!
+Du brauchst nicht mehr
+zu kämpfen.
+!------------------------------!
+Sono sparite!
+Non devi più combattere...
+!------------------------------!
+¡Se han largado!
+Ya no tienes que luchar más.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Bip.&
+Bone_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Good... That's good. I managed to keep
+them from...getting in...
+!------------------------------!
+Ah... c'est bien. Je les ai empêchées
+de... d'entrer...
+!------------------------------!
+Gut ... Das ist gut. Ich konnte
+verhindern, dass sie ...
+hineinkommen ...
+!------------------------------!
+Bene... Molto bene.
+Sono riuscito a impedir loro...
+di entrare...
+!------------------------------!
+Bien... está bien.
+He impedido...
+que entren...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Please<E2><80><95>you must stop doing this.
+It's too much.
+!------------------------------!
+Tu dois te ménager.
+!------------------------------!
+Du musst damit aufhören,
+dir so viel zuzumuten.
+!------------------------------!
+Ti prego, non farlo più.
+È troppo pericoloso.
+!------------------------------!
+Tienes que dejar de hacer
+esto. Es demasiado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If something were to happen to you...
+I don't know what I'd...
+!------------------------------!
+S'il t'arrivait malheur...
+je ne...
+!------------------------------!
+Wenn dir etwas zustieße ...
+Das könnte ich nicht ...
+!------------------------------!
+Se ti succedesse
+qualcosa... io...
+!------------------------------!
+Si algo te pasara... yo no...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Belle... I couldn't bear to see you...
+or the others hurt.
+!------------------------------!
+Belle... je ne voulais pas qu'il
+vous arrive quelque chose,
+à toi et aux autres !
+!------------------------------!
+Belle ... ich könnte es nicht
+ertragen, wenn dir oder den
+anderen etwas zustieße.
+!------------------------------!
+Belle... Non potevo vedere
+te... e gli altri... soffrire.
+!------------------------------!
+Bella... No podría soportar
+verte a ti... o a los demás
+heridos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A master protects his castle...
+I don't want to lose you.
+!------------------------------!
+Un maître doit protéger son château...
+Je ne veux pas te perdre.
+!------------------------------!
+Ein Herr muss sein Schloss
+verteidigen ... Ich will dich
+nicht verlieren.
+!------------------------------!
+Un buon padrone deve
+proteggere il suo castello...
+Non volevo perderti.
+!------------------------------!
+Un amo protege su castillo...
+No quiero perderte.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm right here...
+!------------------------------!
+Je suis avec toi...
+!------------------------------!
+Ich bin doch da ...
+!------------------------------!
+Sono qui...
+!------------------------------!
+No me he ido...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(So he wasn't fighting to protect the
+ rose.)
+!------------------------------!
+(Alors il ne se battait pas pour
+ protéger la rose.)
+!------------------------------!
+(Er hat also nicht die Rose
+ beschützt.)
+!------------------------------!
+(Quindi non combatteva
+per proteggere la rosa.)
+!------------------------------!
+(Así que no luchaba por
+proteger la rosa).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(He was protecting the people in the
+ castle.)
+!------------------------------!
+(Ce sont les habitants du château qu'il
+ protégeait.)
+!------------------------------!
+(Er hat die Bewohner des
+ Schlosses beschützt.)
+!------------------------------!
+(Ma per difendere gli
+abitanti del castello.)
+!------------------------------!
+(Estaba protegiendo a la gente
+del castillo).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Protecting her.)
+!------------------------------!
+(Et elle...)
+!------------------------------!
+(Er hat sie beschützt.)
+!------------------------------!
+(Per proteggere lei.)
+!------------------------------!
+(Y a ella).
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(She's what matters most to him.)
+!------------------------------!
+(C'est elle qui a le plus d'importance
+ à ses yeux.)
+!------------------------------!
+(Sie ist ihm am allerwichtigsten.)
+!------------------------------!
+(È la cosa più importante per
+lui.)
+!------------------------------!
+(Ella es lo que más le importa).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(But...Xaldin said it was the rose.)
+!------------------------------!
+(Pourtant... Xaldin a dit qu'il s'agissait
+ de la rose.)
+!------------------------------!
+(Aber ... Xaldin meinte, es wäre
+ die Rose.)
+!------------------------------!
+(Anche se... Xaldin era convinto
+che combattesse per la rosa.)
+!------------------------------!
+(Pero... Xaldin dijo
+que era la rosa).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Feh. Cloying nonsense.
+!------------------------------!
+Bah, c'est du grand n'importe quoi !
+!------------------------------!
+Pah. Totaler Unsinn.
+!------------------------------!
+Bah. Che mucchio
+di idiozie nauseanti.
+!------------------------------!
+Buf... Tonterías empalagosas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xaldin... When did you get here?
+!------------------------------!
+Xaldin... depuis quand es-tu ici ?
+!------------------------------!
+Xaldin ... Seit wann bist du hier?
+!------------------------------!
+Xaldin...
+Da quanto sei qui?
+!------------------------------!
+Xaldin... ¿Cuándo has llegado?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's none of your concern.
+!------------------------------!
+Ça ne te regarde pas.
+!------------------------------!
+Das geht dich nichts an.
+!------------------------------!
+Non sono affari tuoi.
+!------------------------------!
+Eso no te incumbe.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph. Love, from a beast?
+How utterly ridiculous.
+!------------------------------!
+Pff, comment une bête pourrait-elle
+aimer ? C'est ridicule.
+!------------------------------!
+Hmpf. Liebe von einem Biest?
+Wie absolut lächerlich.
+!------------------------------!
+Umpf. Una bestia capace di
+amare? A dir poco ridicolo.
+!------------------------------!
+Buf. Amor, ¿de una bestia?
+¿Habrase visto mayor ridiculez?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Love? What's that?
+!------------------------------!
+Aimer ? Qu'est-ce que c'est ?
+!------------------------------!
+Liebe? Was ist das?
+!------------------------------!
+"Amare"? Che cosa significa?
+!------------------------------!
+¿Amor? ¿Qué es eso?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's an emotion.
+The one deluding those two as we speak.
+!------------------------------!
+C'est une émotion.
+C'est ce qui fait perdre la tête
+aux deux êtres ici présents.
+!------------------------------!
+Das ist ein Gefühl. Und zwar
+jenes, das die beiden gerade
+in die Irre führt.
+!------------------------------!
+È una semplice emozione.
+Un'emozione che al momento
+sta ingannando quei due.
+!------------------------------!
+Es una emoción.
+La que está engañando a esos
+dos mientras hablamos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh...
+!------------------------------!
+Ah...
+!------------------------------!
+Oh ...
+!------------------------------!
+Oh...
+!------------------------------!
+Oh...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They think the power of love will save
+them? That's the stuff of poetry, not
+practicality.
+!------------------------------!
+Ils pensent que le pouvoir de l'amour
+pourra les sauver ? C'est de la
+poésie fleur bleue, pas la vraie vie.
+!------------------------------!
+Sie glauben, die Macht der Liebe
+würde sie retten? Das gibt es nur
+im Märchen, nicht wirklich.
+!------------------------------!
+Pensano che il potere dell'amore
+li salverà? Romanticherie
+prive di fondamento.
+!------------------------------!
+¿Creen que el poder del amor los
+salvará? Eso es cuestión de
+poesía, no de pragmatismo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Love is a power?
+!------------------------------!
+L'amour est un pouvoir ?
+!------------------------------!
+Liebe ist eine Macht?
+!------------------------------!
+L'amore... è un potere?
+!------------------------------!
+¿El amor tiene poder?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+None you or I will ever grasp.
+!------------------------------!
+Que ni toi ni moi ne connaîtrons jamais.
+!------------------------------!
+Keine, die du oder ich jemals
+spüren werden.
+!------------------------------!
+Io e te non potremmo mai capire.
+!------------------------------!
+Ninguno que tú o yo podamos
+aprehender nunca.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nor will they, for long. The love
+between them will wither and die.
+Love never lasts.
+!------------------------------!
+Eux si, mais plus pour longtemps.
+L'amour qui existe entre eux finira par
+s'éteindre, car l'amour ne dure jamais.
+!------------------------------!
+Genau wie die beiden, auf lange
+Sicht. Ihre Liebe wird bald
+verblühen. Liebe dauert nie lange.
+!------------------------------!
+E neanche loro, se è per questo.
+Il loro amore appassirà e si
+spegnerà. Non dura mai in eterno.
+!------------------------------!
+Ni ellos por mucho tiempo. El
+amor entre ellos se marchitará
+y morirá. El amor nunca perdura.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But you don't have a heart.
+How would you know?
+!------------------------------!
+Mais tu n'as pas de cœur, alors
+comment peux-tu le savoir ?
+!------------------------------!
+Aber du hast kein Herz.
+Woher willst du das wissen?
+!------------------------------!
+Ma tu non hai un cuore.
+Come fai a dirlo?
+!------------------------------!
+Pero tú no tienes corazón,
+¿cómo lo sabes?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I have eyes, and a brain.
+We have no further business here.
+Try not to dawdle.
+!------------------------------!
+J'ai des yeux et une cervelle.
+Nous n'avons plus rien à faire
+ici, alors ne traîne pas.
+!------------------------------!
+Ich habe Augen und ein Gehirn.
+Unsere Aufgabe hier ist
+erledigt. Trödel nicht rum.
+!------------------------------!
+Ho gli occhi, e un cervello.
+Qui abbiamo finito.
+Basta perdere tempo.
+!------------------------------!
+Tengo ojos y cerebro.
+Ya no tenemos más asuntos aquí.
+Procura no entretenerte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That still doesn't explain what love is...
+!------------------------------!
+Ça ne m'explique toujours pas ce
+qu'est l'amour...
+!------------------------------!
+Das erklärt immer noch nicht,
+was Liebe ist ...
+!------------------------------!
+Non ho ancora capito cosa
+sia questo "amore"...
+!------------------------------!
+Eso sigue sin explicar qué es
+el amor...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is love fighting to protect what's
+important to you?
+!------------------------------!
+L'amour consiste-t-il à protéger ce
+qui est important à nos yeux ?
+!------------------------------!
+Ist Liebe, das zu beschützen,
+was einem wichtig ist?
+!------------------------------!
+Significa combattere per proteggere
+ciò che riteniamo importante?
+!------------------------------!
+¿Es amor luchar para proteger
+lo que es importante para ti?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Where does its power come from?
+!------------------------------!
+D'où provient son pouvoir ?
+!------------------------------!
+Woher kommt ihre Macht?
+!------------------------------!
+Ma da dove scaturisce il suo potere?
+!------------------------------!
+¿De dónde viene ese poder?
+!------------------------------!
+!******************************!

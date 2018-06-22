@@ -1,0 +1,257 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/03.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E isso conclui a missão de hoje.
+Alguma dúvida ou pergunta?
+!------------------------------!
+C'est tout pour aujourd'hui.
+As-tu des questions ?
+!------------------------------!
+Damit ist die Mission erledigt.
+Irgendwelche Fragen?
+!------------------------------!
+E qui finisce la missione odierna.
+Qualche domanda?
+!------------------------------!
+Aquí termina la lección de hoy.
+¿Alguna duda o pregunta?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Humm...
+Quantas vezes vou ter que fazer isto?
+!------------------------------!
+Euh... est-ce que je devrai faire
+ça souvent ?
+!------------------------------!
+Ähm ...
+Wie oft muss ich so was machen?
+!------------------------------!
+Uhm...
+Dovrò farlo molto spesso?
+!------------------------------!
+Eeh...
+¿Tendré que hacer esto a menudo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quantas vezes a Ordem precisar saber
+mais sobre um mundo, naturalmente.
+!------------------------------!
+Dès que l'Organisation aura besoin
+d'en savoir plus sur un monde, oui.
+!------------------------------!
+Wann immer die Organisation
+mehr Informationen über eine Welt
+braucht, natürlich.
+!------------------------------!
+Ogni volta che l'Organizzazione
+ha bisogno di informazioni su
+un certo mondo, ovviamente.
+!------------------------------!
+Siempre que la Organización
+necesite información sobre un
+mundo, claro está.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Cada mundo é único, com seu 
+próprio terreno, valores, 
+população de Heartless...
+!------------------------------!
+Chaque monde est unique, avec son
+propre terrain, ses valeurs, sa
+population de Sans-cœur...
+!------------------------------!
+Jede Welt ist einzigartig, mit eigenem
+Gelände, eigenen Werten und eigener
+Herzlosenbevölkerung ...
+!------------------------------!
+Ogni mondo è unico. Il tipo di
+terreno, i valori e gli Heartless
+possono variare molto...
+!------------------------------!
+Cada mundo es único y tiene
+sus propios terrenos, valores,
+población de sincorazón...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+qualquer número de variáveis que
+poderiam ser de vantagem para nós
+nas missões à frente.
+!------------------------------!
+Ce sont des facteurs qui pourraient
+s'avérer cruciaux pour une mission
+à venir.
+!------------------------------!
+... alles Faktoren, die für die nächste
+Mission von entscheidender
+Bedeutung sein können.
+!------------------------------!
+La conoscenza di tutti questi
+fattori è fondamentale per
+il successo delle missioni.
+!------------------------------!
+Toda una serie de factores que
+podrían ser cruciales para
+nuestras misiones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espera, <E2><80><9C>cada mundo<E2><80><9D>?
+Quer dizer que há mais de um?
+!------------------------------!
+Comment ça, <E2><80><9C>chaque monde<E2><80><9D> ?
+Ça veut dire qu'il y en a plusieurs ?
+!------------------------------!
+Moment, <E2><80><9E>jede Welt<E2><80><9C>?
+Gibt es etwa mehr als eine?
+!------------------------------!
+"Ogni mondo"?
+Vuoi dire che ce n'è
+più di uno?
+!------------------------------!
+¡Un momento! ¿"Cada mundo"?
+¿Significa que hay más de uno?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, garoto. Não achou que ficaria
+aqui matutando para sempre, pensou?
+!------------------------------!
+Oui, gamin. Tu ne pensais pas venir
+ici infiniment, si ?
+!------------------------------!
+Ja, Junge. Du hast doch nicht
+geglaubt, du würdest ewig hier
+herumschleichen, oder?
+!------------------------------!
+Certo, ragazzo. Pensavi di
+restare qui per sempre?
+!------------------------------!
+Claro, muchacho. No creerías que
+ibas a estar aquí cavilando para
+siempre, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você visitará vários mundos por várias
+razões... mas nosso objetivo básico
+permanece o mesmo.
+!------------------------------!
+Tu visiteras de nombreux mondes pour
+tout un tas de raisons, mais notre but
+ultime sera toujours le même.
+!------------------------------!
+Du wirst viele Welten aus den
+verschiedensten Gründen besuchen.
+Aber unser Ziel bleibt das gleiche.
+!------------------------------!
+Visiterai molti mondi, con varie
+missioni da compiere... ma il
+nostro scopo finale è solo uno.
+!------------------------------!
+Visitarás muchos mundos por
+diversos motivos... pero nuestro
+objetivo sigue siendo el mismo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Kingdom Hearts.
+!------------------------------!
+Kingdom Hearts ?
+!------------------------------!
+Kingdom Hearts.
+!------------------------------!
+Completare i Kingdom Hearts.
+!------------------------------!
+Kingdom Hearts.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso mesmo.
+Agora venha.
+!------------------------------!
+C'est ça.
+Allez, suis-moi.
+!------------------------------!
+Genau.
+Komm jetzt.
+!------------------------------!
+Esatto.
+Ora seguimi.
+!------------------------------!
+Eso es.
+Y ahora vámonos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

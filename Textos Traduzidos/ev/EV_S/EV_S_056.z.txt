@@ -1,0 +1,583 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Calf
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, you two. How'd work go?
+Think you can keep pulling off double
+duty?
+!------------------------------!
+Salut, vous deux ! Alors comment ça
+s'est passé ? Vous pensez pouvoir
+y arriver ?
+!------------------------------!
+Hey, ihr beiden. Wie war
+die Arbeit? Meint ihr, ihr
+könntet Doppelschichten schieben?
+!------------------------------!
+Ehi, voi due. Come è andata?
+Pensate di cavarvela con
+gli straordinari?
+!------------------------------!
+Eh, vosotros dos. ¿Cómo vais?
+¿Podréis hacerlo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So far so good.
+!------------------------------!
+Ça se passe bien pour l'instant.
+!------------------------------!
+So weit, so gut.
+!------------------------------!
+Finora tutto bene.
+!------------------------------!
+Hasta ahora, todo va bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas took today's Heartless out in no
+time flat.
+!------------------------------!
+Roxas a éliminé les Sans-cœur en
+deux temps trois mouvements.
+!------------------------------!
+Roxas hat den Herzlosen heute
+in null Komma nichts erledigt.
+!------------------------------!
+Roxas ha sconfitto l'Heartless
+di oggi in un batter d'occhio.
+!------------------------------!
+Roxas se ha cargado a los
+sincorazón en un santiamén.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, great. Keep it up.
+!------------------------------!
+Super !
+Continuez comme ça.
+!------------------------------!
+Großartig.
+Weiter so.
+!------------------------------!
+Oh, perfetto.
+Continuate così.
+!------------------------------!
+Qué bien.
+Seguid así.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_R_Calf
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't know why we need to continue
+fighting Heartless like this.
+!------------------------------!
+Je ne comprends pas pourquoi on doit
+continuer à affronter les Sans-cœur.
+!------------------------------!
+Ich weiß nicht, warum wir weiter
+so gegen die Herzlosen kämpfen
+müssen.
+!------------------------------!
+Non capisco perché dobbiamo
+continuare a combattere gli
+Heartless in questo modo.
+!------------------------------!
+No sé por qué tenemos que
+seguir luchando contra los
+sincorazón de esta manera.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sure you do.
+We have to finish Kingdom Hearts.
+!------------------------------!
+Mais si, tu sais bien.
+On doit compléter Kingdom Hearts.
+!------------------------------!
+Doch, das weißt du.
+Wir müssen Kingdom Hearts
+vervollständigen.
+!------------------------------!
+Beh, perché dobbiamo
+completare i Kingdom Hearts.
+!------------------------------!
+Claro que lo sabes.
+Tenemos que completar
+Kingdom Hearts.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We finally got our first glimpse of it
+today, remember?
+!------------------------------!
+On a enfin pu l'apercevoir aujourd'hui,
+tu te souviens ?
+!------------------------------!
+Wir haben heute zum ersten Mal
+einen Blick darauf erhaschen
+können, weißt du noch?
+!------------------------------!
+Oggi abbiamo avuto la prima
+occasione di vederli, ricordate?
+!------------------------------!
+Hoy por fin hemos podido
+verlo, ¿no te acuerdas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, but what is it?
+<E2><80><9C>The heart of all hearts<E2><80><9D>?
+!------------------------------!
+Oui, mais qu'est-ce que c'est ?
+<E2><80><9C>Le cœur de tous les cœurs<E2><80><9D> ?
+!------------------------------!
+Ja, aber was ist es?
+<E2><80><9E>Das Herz aller Herzen<E2><80><9C>?
+!------------------------------!
+Sì, ma cosa sarebbero?
+"Il cuore di tutti i cuori"?
+!------------------------------!
+Sí, pero ¿qué es exactamente
+este "corazón supremo"?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's where all the hearts you and I
+collect wind up.
+!------------------------------!
+Tous les cœurs que nous récupérons
+toi et moi finissent là-bas.
+!------------------------------!
+Alle Herzen, die wir sammeln,
+gehen dorthin.
+!------------------------------!
+È dove confluiscono tutti i cuori
+che io e te raccogliamo.
+!------------------------------!
+Todos los corazones que
+recogemos acaban en él.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Exactly. It's because of you two and
+the Keyblade that we're finally making
+some progress.
+!------------------------------!
+C'est ça. C'est grâce à vous deux et à
+la Keyblade qu'on peut enfin progresser.
+!------------------------------!
+Genau. Dank euch beiden und
+dem Schlüsselschwert machen wir
+endlich Fortschritte.
+!------------------------------!
+Esatto. È solo grazie a voi due
+e al Keyblade se stiamo facendo
+qualche progresso. Era ora!
+!------------------------------!
+Exacto. Gracias a vosotros y
+a la llave espada, por fin
+estamos haciendo progresos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We might finally get hearts of our own.
+!------------------------------!
+On pourra peut-être enfin avoir
+un cœur à nous.
+!------------------------------!
+Vielleicht bekommen wir auch
+eigene Herzen.
+!------------------------------!
+Finalmente anche noi potremo
+avere dei cuori.
+!------------------------------!
+Quizá podamos conseguir
+nuestros propios corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>The strength of the human heart is
+ vast,<E2><80><9D> Xemnas said.
+!------------------------------!
+Xemnas a dit que la puissance du
+cœur humain était énorme.
+!------------------------------!
+Xemnas hat gesagt: <E2><80><9E>Die Macht
+des menschlichen Herzens
+ist groß.<E2><80><9C>
+!------------------------------!
+Xemnas ha detto che
+la forza del cuore umano è enorme.
+!------------------------------!
+Sí, eso es lo que dijo Xemnas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, but what do we need with it?
+!------------------------------!
+Mais qu'est-ce que ça peut faire ?
+Pourquoi est-ce qu'on aurait besoin
+d'un cœur ?
+!------------------------------!
+Ja, aber wozu brauchen wir sie?
+!------------------------------!
+Sì, ma perché ci servono dei cuori?
+!------------------------------!
+¿Pero qué más da?
+¿Para qué queremos corazones?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Are you crazy?
+!------------------------------!
+T'as perdu la tête ou quoi ?
+!------------------------------!
+Bist du irre?
+!------------------------------!
+Stai scherzando?!?
+!------------------------------!
+¿Estás majara?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I just don't understand why having a
+heart is so important. Do you?
+!------------------------------!
+Je ne comprends pas pourquoi avoir
+un cœur est si important. Toi oui ?
+!------------------------------!
+Ich versteh nicht, warum es
+so wichtig ist, ein Herz
+zu haben. Du etwa?
+!------------------------------!
+Non capisco perché sia tanto
+importante avere un cuore.
+!------------------------------!
+Es que no entiendo por qué es
+tan importante tener corazón.
+¿Tú sí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Kind of a strange time to bring it up...
+!------------------------------!
+Le moment est bizarrement choisi
+pour en parler...
+!------------------------------!
+Seltsamer Zeitpunkt, um damit
+anzufangen ...
+!------------------------------!
+Beh, non mi sembra il momento
+opportuno per pensarci...
+!------------------------------!
+Vaya un momento para sacar
+el tema, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But don't you ever stop and wonder?
+We're fighting for something we don't
+know anything about.
+!------------------------------!
+Tu ne te poses jamais la question ?
+Pourquoi est-ce qu'on se bat pour
+quelque chose dont on ignore tout ?
+!------------------------------!
+Aber wunderst du dich nie
+darüber? Wir kämpfen für etwas,
+über das wir nichts wissen.
+!------------------------------!
+Ma te lo sei mai chiesto?
+Stiamo combattendo per qualcosa
+di cui non sappiamo nulla.
+!------------------------------!
+¿Es que nunca te lo preguntas?
+Luchamos por algo de lo que
+no sabemos nada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas... We're fighting because we
+want to know what it's about.
+!------------------------------!
+Roxas... on se bat justement parce
+qu'on veut savoir de quoi il s'agit.
+!------------------------------!
+Roxas ... Wir kämpfen, weil wir
+herausfinden wollen, wozu das
+gut ist.
+!------------------------------!
+Roxas... Combattiamo proprio per
+sapere di cosa si tratta.
+!------------------------------!
+Roxas, luchamos porque
+queremos saber lo que es.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah...
+Yeah, I guess you're right.
+!------------------------------!
+Oui...
+Oui, tu dois avoir raison.
+!------------------------------!
+Ja ...
+Schätze, du hast recht.
+!------------------------------!
+Già...
+Forse hai ragione.
+!------------------------------!
+Sí...
+Sí, supongo que tienes razón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

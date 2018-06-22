@@ -1,0 +1,403 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's no use.
+We're never gonna find her.
+!------------------------------!
+Ça ne sert à rien.
+Je ne sais pas où elle est.
+!------------------------------!
+Es hat keinen Sinn.
+Wir werden sie nie finden.
+!------------------------------!
+È tutto inutile.
+Non so dove sia.
+!------------------------------!
+Es inútil.
+Nunca la encontraremos...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You sure there isn't someplace you're
+forgetting to check?
+!------------------------------!
+Tu es sûr que tu n'oublies pas
+un endroit où chercher ?
+!------------------------------!
+Bist du sicher, dass du keinen
+Ort vergessen hast, an dem sie
+sein könnte?
+!------------------------------!
+Sicuro di non aver dimenticato
+un posto in cui controllare?
+!------------------------------!
+¿Seguro que no se te
+ha olvidado ningún sitio?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I've been everywhere I know how to
+get to.
+!------------------------------!
+Je suis allé dans tous les endroits
+que je connais.
+!------------------------------!
+Ich bin überall gewesen, wo ich
+hinkonnte.
+!------------------------------!
+Sono andato in tutti i posti
+che potevo raggiungere.
+!------------------------------!
+He estado en todos los sitios
+que conozco.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right...
+!------------------------------!
+Je vois...
+!------------------------------!
+Gut ...
+!------------------------------!
+OK...
+!------------------------------!
+Vale...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The only place I haven't looked is
+Castle Oblivion.
+!------------------------------!
+Le seul endroit où je ne sois pas
+allé, c'est le Manoir Oblivion.
+!------------------------------!
+Der einzige Ort, an dem ich noch
+nicht gesucht habe, ist das
+Schloss des Entfallens.
+!------------------------------!
+L'unico posto che non ho
+controllato è il Castello
+dell'Oblio.
+!------------------------------!
+El único lugar en el que no
+he buscado es el
+Castillo del Olvido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion was asking about it, remember?
+!------------------------------!
+Xion en a parlé, tu te souviens ?
+!------------------------------!
+Xion hat danach gefragt,
+weißt du noch?
+!------------------------------!
+Xion era interessata a
+quel luogo, ricordi?
+!------------------------------!
+Xion preguntó por él,
+¿recuerdas?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And the day before she disappeared,
+you said she was put on an important
+mission.
+!------------------------------!
+Et la veille de sa disparition, tu as
+dit qu'on lui avait confié une
+mission importante.
+!------------------------------!
+Und an dem Tag, bevor sie
+verschwand, hast du gesagt,
+sie hätte eine wichtige Mission.
+!------------------------------!
+E il giorno prima che sparisse,
+mi avevi detto che aveva una
+missione importante.
+!------------------------------!
+Y el día antes de desaparecer,
+me dijiste que le encomendaron
+una misión importante.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, but...
+The place has been cleaned out, man.
+There's nothing there.
+!------------------------------!
+Oui, mais...
+L'endroit a été vidé, mon pote.
+Il n'y a plus rien là-bas.
+!------------------------------!
+Ja, aber ...
+Der Ort wurde gesäubert, Mann.
+Dort ist nichts mehr.
+!------------------------------!
+Sì, ma... Quel posto
+è stato ripulito, amico.
+Laggiù non c'è più niente.
+!------------------------------!
+Sí, pero...
+han limpiado el sitio, tío.
+Ya no queda nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion might be there.
+!------------------------------!
+Xion y est peut-être.
+!------------------------------!
+Xion könnte dort sein.
+!------------------------------!
+Xion potrebbe essere lì.
+!------------------------------!
+Xion podría estar allí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know...that's where she comes
+from. Castle Oblivion.
+!------------------------------!
+Tu sais... c'est de là qu'elle vient.
+Du Manoir Oblivion.
+!------------------------------!
+Weißt du ... sie stammt von dort.
+Aus dem Schloss des Entfallens.
+!------------------------------!
+Sai... lei viene proprio da lì.
+Dal Castello dell'Oblio.
+!------------------------------!
+Ya sabes... ella procede de
+allí, del Castillo del Olvido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What? Really!?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Wie bitte? Wirklich?
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Qué? ¿De verdad...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's probably why she was asking
+about it.
+!------------------------------!
+C'est sûrement pour ça qu'elle
+posait des questions là-dessus.
+!------------------------------!
+Darum hat sie danach gefragt.
+!------------------------------!
+Forse è per questo che era
+tanto interessata.
+!------------------------------!
+Probablemente por eso preguntara
+por ello.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I had no idea...
+!------------------------------!
+Je ne savais pas...
+!------------------------------!
+Ich hatte ja keine Ahnung ...
+!------------------------------!
+Non lo sapevo...
+!------------------------------!
+No tenía ni idea.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, neither did I.
+!------------------------------!
+Moi non plus.
+!------------------------------!
+Hey, ich auch nicht.
+!------------------------------!
+Neanche io.
+!------------------------------!
+Ey, ni yo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I only found out about it a little while
+ago myself.
+!------------------------------!
+Je l'ai appris il n'y a pas si longtemps.
+!------------------------------!
+Ich hab's auch erst vor Kurzem
+herausgefunden.
+!------------------------------!
+L'ho scoperto poco fa.
+!------------------------------!
+Me enteré hace muy poco
+y por mis propios medios.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She must have a lot of questions.
+!------------------------------!
+Elle doit se poser tout un tas
+de questions.
+!------------------------------!
+Sie muss eine Menge Fragen haben.
+!------------------------------!
+Deve avere molte domande...
+!------------------------------!
+Debía de tener muchas preguntas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Poor Xion...
+!------------------------------!
+Pauvre Xion...
+!------------------------------!
+Arme Xion ...
+!------------------------------!
+Povera Xion...
+!------------------------------!
+Pobre Xion...
+!------------------------------!
+!******************************!

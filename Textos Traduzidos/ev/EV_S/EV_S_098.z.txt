@@ -1,0 +1,205 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:16
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...Hey, that was uncalled for!
+!------------------------------!
+Hé, c'était pas nécessaire !
+!------------------------------!
+... Hey, das wäre nicht nötig
+gewesen!
+!------------------------------!
+Ehi, non era necessario!
+!------------------------------!
+... ¡Eh, eso no era necesario!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I warned you to keep out of this.
+!------------------------------!
+Je t'avais dit de ne pas t'en mêler.
+!------------------------------!
+Ich hab dich gewarnt,
+du solltest dich da raushalten.
+!------------------------------!
+Ti avevo detto di starne fuori.
+!------------------------------!
+Te advertí que te
+mantuvieras al margen de esto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And I told you I can't.
+I have to know what Xion's deal is.
+!------------------------------!
+Et moi je t'ai dit que c'était pas possible.
+Je dois savoir ce qui se passe avec
+Xion.
+!------------------------------!
+Und ich hab dir gesagt, dass ich
+das nicht kann. Ich muss wissen,
+was mit Xion los ist.
+!------------------------------!
+E io ti ho detto che non posso.
+Devo sapere la verità su Xion.
+!------------------------------!
+Y yo te dije que no puedo.
+Tengo que saber
+qué pasa con Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why can't you be straight with me for
+once?
+!------------------------------!
+Pourquoi tu ne serais pas franc
+avec moi pour une fois ?
+!------------------------------!
+Warum kannst du nicht einmal
+ehrlich zu mir sein?
+!------------------------------!
+Perché non puoi parlarmi
+chiaramente, una volta tanto?
+!------------------------------!
+¿Por qué no puedes ser claro
+conmigo por una vez?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just like you're always honest with me?
+!------------------------------!
+Comme si tu l'étais avec moi...
+!------------------------------!
+So wie du immer ehrlich
+zu mir bist?
+!------------------------------!
+Tu sei sempre stato
+onesto con me?
+!------------------------------!
+¿Tan claro como tú
+honesto conmigo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay, you've got me there.
+!------------------------------!
+OK, tu marques un point.
+!------------------------------!
+Okay, da hast du mich erwischt.
+!------------------------------!
+D'accordo, lo ammetto...
+!------------------------------!
+Vale, ahí tienes razón.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion has no right to be among our
+number.
+!------------------------------!
+Xion n'a aucun droit de faire partie
+des nôtres.
+!------------------------------!
+Xion hat kein Recht zu uns
+zu gehören.
+!------------------------------!
+Xion non ha alcun diritto
+di restare tra noi.
+!------------------------------!
+Xion no tiene derecho
+a estar entre nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why not?
+!------------------------------!
+Pourquoi ça ?
+!------------------------------!
+Warum nicht?
+!------------------------------!
+Perché no?
+!------------------------------!
+¿Por qué no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What is it you two see in that thing?
+Just look at it.
+!------------------------------!
+Qu'est-ce que vous voyez en cette
+chose, tous les deux ?
+Non, mais regarde-la.
+!------------------------------!
+Was seht ihr beiden bloß in
+diesem Ding? Seht es euch
+doch bloß einmal an.
+!------------------------------!
+Cosa ci vedete voi due in quella cosa?
+Basta guardarla.
+!------------------------------!
+¿Que veis en ella?
+Yo solo veo una cosa.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!

@@ -1,0 +1,458 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph, still as dark and empty as ever.
+It's practically a cave. A fitting home
+for a beast.
+!------------------------------!
+Ha, c'est toujours aussi vide et
+lugubre qu'avant. L'antre parfait
+pour une bête...
+!------------------------------!
+Hmpf, immer noch genauso dunkel
+und leer. Wie eine Höhle.
+Passend für ein Biest.
+!------------------------------!
+Umpf, buio e deserto, come al
+solito. Sembra più una caverna.
+La dimora ideale per una bestia.
+!------------------------------!
+Tan frío y oscuro como siempre.
+Prácticamente es una cueva. Un
+hogar apropiado para la bestia.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The castle's master?
+!------------------------------!
+Une bête ?
+!------------------------------!
+Biest?
+!------------------------------!
+Il padrone del castello?
+!------------------------------!
+¿Bestia?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You've seen him, haven't you?
+Every inch a monster.
+!------------------------------!
+Tu as vu ce monstre, non ?
+Tu appellerais ça comment, toi ?
+!------------------------------!
+Du hast es doch gesehen, oder?
+Wie soll man das sonst nennen?
+!------------------------------!
+L'hai visto, no?
+Sembrava proprio un mostro.
+!------------------------------!
+Ya lo has visto, ¿no? ¿De qué
+lo tacharías, sino de bestia?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So you've done a little exploring here
+on your own, then.
+!------------------------------!
+Donc, tu es déjà venu explorer
+cet endroit tout seul.
+!------------------------------!
+Du hast dich hier also etwas
+alleine umgesehen.
+!------------------------------!
+Allora hai già esplorato questo
+posto per conto tuo, eh?
+!------------------------------!
+Entonces, supongo que también
+has estado explorando por tu
+cuenta.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes... I suspect it was some kind of
+spell that left him in that state.
+!------------------------------!
+Oui... Je crois que c'est un
+sortilège qui l'a transformé
+en bête.
+!------------------------------!
+Ja ... Ich vermute, dass es
+durch irgendeinen Zauberspruch
+verwandelt wurde.
+!------------------------------!
+Sì... Sospetto che abbia assunto
+quell'aspetto mostruoso a causa
+di una specie d'incantesimo.
+!------------------------------!
+Sí... Sospecho que fue algún
+tipo de hechizo lo que lo dejó
+en este estado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A spell?
+!------------------------------!
+Un sortilège ?
+!------------------------------!
+Ein Zauberspruch?
+!------------------------------!
+Un incantesimo?
+!------------------------------!
+¿Un hechizo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The data we've collected suggests he
+was human, originally.
+!------------------------------!
+D'après ce que nous avons pu
+apprendre, c'était un être humain
+autrefois.
+!------------------------------!
+Die Informationen, die wir
+gesammelt haben, lassen vermuten,
+dass es einmal ein Mensch war.
+!------------------------------!
+Secondo i dati che abbiamo
+raccolto, un tempo era umano.
+!------------------------------!
+Los datos que tenemos apuntan a
+que fue humano, en un origen.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The exact sequence of events is
+unclear, but it was a spell that forced
+him to live as that...thing.
+!------------------------------!
+Le déroulement des évènements reste
+vague, mais il a été frappé par un
+sortilège.
+!------------------------------!
+Der genaue Ablauf der Ereignisse
+ist unklar, aber der Spruch hat
+ihn in dieses ... Ding verwandelt.
+!------------------------------!
+L'esatta sequenza degli eventi è
+poco chiara, ma è stato un
+incantesimo a ridurlo... così.
+!------------------------------!
+Lo que pasó no está claro, pero
+fue un hechizo lo que lo obligó
+a vivir como esa... cosa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wow...
+That can't be fun.
+!------------------------------!
+Et moi qui le traitais de monstre
+depuis tout ce temps...
+!------------------------------!
+Wow ... Und wir haben ihn
+die ganze Zeit als Monster
+bezeichnet ...
+!------------------------------!
+Uah... Io l'ho sempre considerato
+un mostro come tutti gli altri...
+!------------------------------!
+Guau... Y todo este tiempo yo
+pensando que era un monstruo...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're here to analyze, not sympathize.
+Let's begin hunting for clues.
+!------------------------------!
+Nous sommes ici pour analyser, pas
+pour compatir. Allez, cherchons
+des indices.
+!------------------------------!
+Wir sind zum Analysieren hier,
+nicht zum Sympathisieren.
+Suchen wir nach Hinweisen.
+!------------------------------!
+Siamo qui per analizzare, non
+per farci intenerire. Iniziamo
+a cercare degli indizi.
+!------------------------------!
+Hemos venido a analizar, no a
+simpatizar. Empecemos a buscar
+pistas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right.
+!------------------------------!
+D'accord.
+!------------------------------!
+Okay.
+!------------------------------!
+D'accordo.
+!------------------------------!
+Muy bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We'll leave the beast's chambers for
+later. Let's search the rest of the
+castle first.
+!------------------------------!
+Nous examinerons les appartements
+de la bête plus tard. Commençons
+par explorer le reste du château.
+!------------------------------!
+Die Gemächer des Biests kommen
+später. Durchsuchen wir zuerst
+den Rest des Schlosses.
+!------------------------------!
+Ignoriamo le stanze della
+Bestia, per ora. Dobbiamo
+controllare il resto del castello.
+!------------------------------!
+Dejemos los aposentos de la bes-
+tia para más tarde. Primero, re-
+gistremos el resto del castillo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you say so.
+!------------------------------!
+Comme tu voudras.
+!------------------------------!
+Wenn du das sagst.
+!------------------------------!
+Come vuoi.
+!------------------------------!
+Como quieras.
+!------------------------------!
+!******************************!

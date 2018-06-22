@@ -1,0 +1,647 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ob/33.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nngh...my head...
+!------------------------------!
+Oh... ma tête...
+!------------------------------!
+Nngh ... Mein Kopf ...
+!------------------------------!
+Nngh... La testa...
+!------------------------------!
+Uf... Mi cabeza...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+This is the last you'll ever see of
+these walls, Xion.
+!------------------------------!
+C'est la dernière fois que tu verras
+cet endroit, Xion.
+!------------------------------!
+Das ist das Letzte, was du je
+von diesen Mauern sehen wirst,
+Xion.
+!------------------------------!
+Devi andartene subito
+da qui, Xion.
+!------------------------------!
+Es la última vez que ves
+estos muros, Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel...
+!------------------------------!
+Axel...
+!------------------------------!
+Axel ...
+!------------------------------!
+Axel...
+!------------------------------!
+Axel...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What are you...doing here...?
+!------------------------------!
+Que fais-tu... ici ?
+!------------------------------!
+Was ... machst du hier?
+!------------------------------!
+Cosa... ci fai qui...?
+!------------------------------!
+¿Qué haces... aquí...?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Orders.
+Nothing to do with you.
+!------------------------------!
+Je dois obéir aux ordres.
+Ça n'a rien à voir avec toi.
+!------------------------------!
+Befehle.
+Hat nichts mit dir zu tun.
+!------------------------------!
+Ordini.
+Tu non c'entri.
+!------------------------------!
+Cumplir órdenes.
+No tiene nada que ver contigo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm not sure what you thought you'd
+find in an empty place like this.
+!------------------------------!
+Je ne sais pas ce que tu pensais
+trouver dans un endroit vide
+comme celui-ci...
+!------------------------------!
+Was dachtest du denn, was du an
+einem so verlassenen Ort wie diesem
+finden würdest?
+!------------------------------!
+Non so cosa pensavi di trovare
+in un luogo vuoto come questo.
+!------------------------------!
+No sé qué esperabas encontrar
+en un lugar vacío como este.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't lie to me!
+I know this is where I come from!
+The answers are here.
+!------------------------------!
+Ne me mens pas !
+Je sais que c'est l'endroit d'où
+je viens ! Les réponses sont ici.
+!------------------------------!
+Lüg mich nicht an!
+Ich weiß, dass ich von hier stamme!
+Hier sind die Antworten.
+!------------------------------!
+Non mentirmi!
+So che io provengo da qui!
+Le risposte sono tutte qui.
+!------------------------------!
+¡No me mientas! ¡Sé que
+procedo de este lugar!
+Las respuestas están aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Weren't you given some other mission?
+!------------------------------!
+Ne t'avait-on pas confié une
+autre mission ?
+!------------------------------!
+Hast du keine andere Mission?
+!------------------------------!
+Non ti avevano affidato
+un'altra missione?
+!------------------------------!
+¿No tenías otra misión?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Forearm
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Hand
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You can't just throw orders to the
+wind, Xion.
+!------------------------------!
+Tu n'as pas le droit de désobéir
+aux ordres, Xion.
+!------------------------------!
+Du kannst Befehle nicht einfach so
+in den Wind schlagen, Xion.
+!------------------------------!
+Non puoi ignorare gli
+ordini, Xion.
+!------------------------------!
+No se pueden ignorar las
+órdenes así, Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Or else what?
+They'll turn me into a Dusk?
+!------------------------------!
+Sinon, ils me changeront en...
+quelque chose de pire qu'un
+Reflet, c'est ça ?
+!------------------------------!
+Sonst was?
+Werden sie mich in einen Dämmerling
+verwandeln?
+!------------------------------!
+Mi trasformeranno in...
+una cosa peggiore dei Simili.
+!------------------------------!
+Y si no, ¿qué?...
+¿Me convertirán en un umbrío?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Not even a Dusk. They'll skip right
+past that and destroy you outright.
+!------------------------------!
+Ils passeront à l'étape suivante
+et te détruiront.
+!------------------------------!
+Schlimmer. Sie werden das überspringen
+und dich gleich auslöschen.
+!------------------------------!
+Ti distruggeranno sul posto,
+senza pensarci due volte.
+!------------------------------!
+Ni siquiera eso.
+Pasarán a destruirte por
+completo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Because I'm useless?
+!------------------------------!
+Parce que je ne sers plus à rien ?
+!------------------------------!
+Weil ich nutzlos bin?
+!------------------------------!
+Perché sono inutile?
+!------------------------------!
+¿Porque no sirvo para nada?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, I didn't say that.
+!------------------------------!
+Non, je n'ai pas dit ça.
+!------------------------------!
+Nein, das hab ich nicht gesagt.
+!------------------------------!
+Non ho detto questo.
+!------------------------------!
+No, yo no he dicho eso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_Clavicle
+!******************************!
+&.[DCA].Bip.&
+Bip01_L_UpperArm
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Turn around and go home, Xion.
+!------------------------------!
+Fais demi-tour, Xion.
+!------------------------------!
+Kehr um und geh nach Hause, Xion.
+!------------------------------!
+Tornatene a casa, Xion.
+!------------------------------!
+Vete a casa, Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel, I'm remembering things...
+About who I was.
+!------------------------------!
+Axel, je me souviens de choses...
+de qui j'étais.
+!------------------------------!
+Axel, ich erinnere mich an Dinge ...
+Ich erinnere mich daran,
+wer ich war.
+!------------------------------!
+Axel, ricordo delle cose...
+Sul mio passato.
+!------------------------------!
+Axel, estoy recordando cosas...
+sobre quién era antes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, stop remembering.
+Nothing good will come of it.
+!------------------------------!
+Eh bien, arrête de te souvenir.
+Ça ne donnera rien de bon.
+!------------------------------!
+Hör auf damit.
+Das bringt nichts Gutes.
+!------------------------------!
+Allora smetti di ricordare.
+Non ne verrà nulla di buono.
+!------------------------------!
+Pues deja de hacerlo.
+No sacarás nada bueno.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I have dreams every night.
+You're in them, Axel!
+!------------------------------!
+Je fais des rêves toutes les nuits.
+Et tu es dedans, Axel !
+!------------------------------!
+Ich träume jede Nacht.
+Du tauchst in meinen Träumen auf,
+Axel.
+!------------------------------!
+Ogni notte faccio dei sogni.
+E tu ci sei sempre, Axel!
+!------------------------------!
+Tengo sueños todas las noches.
+¡Y tú apareces en ellos, Axel!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Then they sure ain't memories.
+How could I be part of your past?
+Use your head, Xion.
+!------------------------------!
+Alors ce ne sont pas des souvenirs.
+Comment pourrais-je faire partie de
+ton passé ? Réfléchis, Xion.
+!------------------------------!
+Dann sind das keine Erinnerungen.
+Wie sollte ich in deiner Vergangenheit
+auftauchen? Denk doch mal nach, Xion.
+!------------------------------!
+Allora non sono ricordi.
+Come potrei far parte del tuo
+passato? Rifletti, Xion.
+!------------------------------!
+Pues no pueden ser recuerdos.
+¿Cómo iba a estar yo en tu
+pasado? Usa la cabeza, Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You can't fool me. We've met before,
+Axel, right here in this castle!
+!------------------------------!
+Tu mens. On s'est déjà rencontrés,
+Axel. Ici, dans cet endroit !
+!------------------------------!
+Du kannst mich nicht für dumm
+verkaufen. Wir haben uns schon mal
+getroffen, Axel, in diesem Schloss.
+!------------------------------!
+Smettila di ingannarmi. Noi ci
+siamo già incontrati, Axel...
+in questo stesso castello!
+!------------------------------!
+No puedes engañarme. Nos
+conocimos antes, Axel,
+en este mismo castillo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Have not.
+!------------------------------!
+C'est faux.
+!------------------------------!
+Haben wir nicht.
+!------------------------------!
+No.
+!------------------------------!
+No es así.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Go home, Xion.
+Don't keep Roxas waiting.
+!------------------------------!
+Rentre, Xion.
+Ne fais pas attendre Roxas.
+!------------------------------!
+Geh nach Hause, Xion.
+Lass Roxas nicht warten.
+!------------------------------!
+Torna a casa, Xion.
+Roxas ti sta aspettando.
+!------------------------------!
+Vete a casa, Xion.
+No hagas esperar a Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Please, Axel, just...help me!
+I need to know who I am.
+!------------------------------!
+Pitié, Axel... aide-moi !
+Je dois savoir qui je suis...
+!------------------------------!
+Bitte, Axel ... hilf mir!
+Ich muss wissen, wer ich bin ...
+!------------------------------!
+Ti prego, Axel... devi aiutarmi!
+Voglio sapere chi sono...
+!------------------------------!
+Axel, por favor, solo ayúdame...
+Debo saber quién soy...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey<E2><80><95>stop!
+Xion, stay out of there!
+!------------------------------!
+Hé, arrête !
+Xion, n'entre pas là !
+!------------------------------!
+Hey ... stopp!
+Xion, nicht da rein!
+!------------------------------!
+Ehi... ferma!
+Xion, allontanati da lì!
+!------------------------------!
+Eh... ¡Alto!
+¡Xion, fuera de aquí!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

@@ -1,0 +1,113 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que são essas coisas?!
+Que tipo de criatura se 
+alimenta de Heartless?
+!------------------------------!
+Mais qu'est-ce que c'était ?
+Quelle sorte de créature peut
+bien se nourrir de Sans-cœur ?
+!------------------------------!
+Was SIND das für Dinger?
+Welches Wesen ernährt sich
+von Herzlosen?!
+!------------------------------!
+Che sono quelle cose?
+Che razza di creatura può
+nutrirsi di Heartless?
+!------------------------------!
+¿Qué son esas cosas?
+¿Qué clase de criatura
+se alimenta de sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que isso explica a queda 
+na população de Heartless... 
+!------------------------------!
+C'est sûrement pour ça qu'il y
+a moins de Sans-cœur dans
+les parages...
+!------------------------------!
+Das erklärt dann wohl, warum
+es immer weniger Herzlose gibt ...
+!------------------------------!
+Questo spiega perché gli Heartless
+sono sempre di meno...
+!------------------------------!
+Supongo que esto explica el
+descenso del número de
+sincorazón...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Talvez seja melhor ver o que
+está acontecendo fora da cidade.
+!------------------------------!
+Je devrais aller jeter un coup d'œil
+dans les environs de la ville.
+!------------------------------!
+Vielleicht sollte ich mal sehen,
+was vor der Stadt passiert.
+!------------------------------!
+Forse dovrei andare a vedere cosa sta
+succedendo fuori città...
+!------------------------------!
+Será mejor que vaya a ver
+qué se cuece en las afueras
+de la ciudad.
+!------------------------------!
+!******************************!

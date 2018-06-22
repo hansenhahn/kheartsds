@@ -1,0 +1,338 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Now here's an unlikely trio.
+Me, Xigbar, and Xion?
+!------------------------------!
+Tiens, tiens, quel drôle de trio.
+Xigbar, Xion et moi ?
+!------------------------------!
+Was für ein seltenes Trio.
+Ich, Xigbar und Xion?
+!------------------------------!
+Un trio davvero insolito.
+Io, Xigbar e Xion?
+!------------------------------!
+Esto sí que es un trío insólito.
+¿Xigbar, Xion y yo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Worried I'll slow you down?
+!------------------------------!
+T'as peur que je te ralentisse ?
+!------------------------------!
+Meint ihr, ich halte euch auf?
+!------------------------------!
+Hai paura che vi rallenti?
+!------------------------------!
+Lo siento, si soy una rémora...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+'Course not.
+Touchy, touchy...
+!------------------------------!
+Mais non.
+T'es susceptible, dis donc...
+!------------------------------!
+Selbstverständlich nicht.
+Empfindlich, empfindlich ...
+!------------------------------!
+Certo che no.
+Siamo permalosi, eh?
+!------------------------------!
+Por supuesto que no.
+Qué susceptible eres...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's just not every day we get to go
+for a stroll with Number <E2><85><A1> himself.
+Ain't that right, Xion?
+!------------------------------!
+C'est juste que c'est pas tous les
+jours qu'on bosse avec le N°<E2><85><A1> en
+personne. Pas vrai, Xion ?
+!------------------------------!
+Wir haben nicht jeden Tag das
+Vergnügen, mit Nr. II zu arbeiten.
+Nicht wahr, Xion?
+!------------------------------!
+È solo che non succede tutti i
+giorni di lavorare con il N° <E2><85><A1>
+in persona, vero Xion?
+!------------------------------!
+Es que no ocurre todos los días
+esto de trabajar con el n.<C2><BA> <E2><85><A1> en
+persona. ¿No es verdad, Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah.
+!------------------------------!
+Oui.
+!------------------------------!
+Allerdings.
+!------------------------------!
+Già.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, you three are teamed up for the
+day?
+!------------------------------!
+Hé, vous faites équipe tous les trois
+aujourd'hui ?
+!------------------------------!
+Hey, arbeitet ihr drei heute
+zusammen?
+!------------------------------!
+Ehi, oggi lavorerete in squadra?
+!------------------------------!
+Eh, ¿los tres formáis equipo
+para hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You have your own mission, Roxas.
+!------------------------------!
+Tu as ta propre mission, Roxas.
+!------------------------------!
+Du hast deine eigene Mission,
+Roxas.
+!------------------------------!
+Tu hai già una missione, Roxas.
+!------------------------------!
+Tú tienes tu misión, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't trade with Xigbar or something?
+!------------------------------!
+Je ne pourrais pas échanger avec
+Xigbar ?
+!------------------------------!
+Kann ich nicht mit Xigbar tauschen?
+!------------------------------!
+Non posso scambiarmi
+con Xigbar?
+!------------------------------!
+¿Y no me puedo cambiar
+con Xigbar o algo así?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What an extraordinarily childish notion.
+Do you need Axel to walk you
+everywhere now?
+!------------------------------!
+Assez d'enfantillages ! As-tu
+besoin qu'Axel t'accompagne
+partout où tu vas ?
+!------------------------------!
+Was für eine kindische Haltung.
+Soll dich Axel etwa überallhin
+begleiten?
+!------------------------------!
+Ragioni come un bambino
+viziato. Vuoi che Axel ti
+accompagni dappertutto?
+!------------------------------!
+Qué idea tan infantil.
+¿Necesitas que Axel te lleve
+siempre de la manita?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No...I didn't<E2><80><95>
+Never mind.
+!------------------------------!
+Non je...
+Peu importe.
+!------------------------------!
+Nein ... Ich wollte nicht ...
+Vergiss es.
+!------------------------------!
+No... Non intendevo dire questo.
+Lasciamo perdere.
+!------------------------------!
+No... Yo no...
+No importa.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+They can handle their mission.
+You hurry up and see to your own.
+!------------------------------!
+Ils sont assez grands pour se charger
+de leur mission.
+Toi, occupe-toi de la tienne.
+!------------------------------!
+Die schaffen ihre Mission schon.
+Und du siehst zu, dass du deine
+schaffst.
+!------------------------------!
+Loro se la caveranno.
+Tu sbrigati e pensa alla
+tua missione.
+!------------------------------!
+Ellos pueden ocuparse de su
+misión. Tú apresúrate y céntrate
+en la tuya.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

@@ -1,0 +1,578 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas.
+How has the game been treating you?
+!------------------------------!
+Roxas.
+Est-ce que tu tires ton épingle du jeu ?
+!------------------------------!
+Roxas.
+Wie ist es dir so ergangen?
+!------------------------------!
+Roxas.
+Come va la vita?
+!------------------------------!
+Roxas.
+¿Cómo te van las cosas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uhh...fine, I guess.
+!------------------------------!
+Euh... oui, je crois.
+!------------------------------!
+Ähh ... gut, schätze ich.
+!------------------------------!
+Uh... Abbastanza bene.
+!------------------------------!
+Ah... Bien, supongo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx shuffled us together for today's
+mission. I wager we'll make a good
+enough team.
+!------------------------------!
+Saïx nous a tirés au sort pour la
+mission d'aujourd'hui. À mon avis,
+on devrait faire une bonne équipe.
+!------------------------------!
+Saïx schickt uns heute zusammen
+auf Mission. Würde sagen,
+wir geben ein gutes Team ab.
+!------------------------------!
+Saïx ci ha messo nella stessa
+squadra per la missione odierna.
+Scommetto che andremo bene.
+!------------------------------!
+Saïx nos ha emparejado
+para la misión de hoy. Haremos
+un gran equipo, seguro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I don't see why not.
+!------------------------------!
+Oui.
+!------------------------------!
+Ich kann nichts erkennen,
+was dagegen spräche.
+!------------------------------!
+Credo proprio di sì.
+!------------------------------!
+No veo por qué no.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh, by the way, did you hear about what
+happened to Xion?
+!------------------------------!
+Au fait, sais-tu ce qu'il est arrivé
+à Xion ?
+!------------------------------!
+Oh, hast du eigentlich gehört,
+was mit Xion passiert ist?
+!------------------------------!
+Oh, A proposito, hai sentito
+cosa è successo a Xion?
+!------------------------------!
+Por cierto, ¿te has enterado
+de lo de Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, what!?
+!------------------------------!
+Non, quoi ?
+!------------------------------!
+Nein, was!?
+!------------------------------!
+No, cosa?!?
+!------------------------------!
+No. ¿Qué pasa?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+She bungled her last mission and has
+been in a deep sleep ever since. Can't
+win them all, I suppose.
+!------------------------------!
+Elle a raté sa dernière mission et ne
+s'est pas réveillée depuis. Bah, on ne
+peut pas gagner à tous les coups !
+!------------------------------!
+Sie hat bei ihrer letzten
+Mission versagt und schläft
+seitdem tief und fest.
+!------------------------------!
+Dopo aver fallito una missione,
+è caduta in un sonno profondo.
+Non si può vincere sempre, eh?
+!------------------------------!
+Falló en su última misión y
+está profundamente dormida.
+No se puede ganar siempre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion!
+!------------------------------!
+Xion !
+!------------------------------!
+Xion!
+!------------------------------!
+Xion!
+!------------------------------!
+¡Xion!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And where do you think you are going,
+Roxas?
+!------------------------------!
+Où vas-tu, Roxas ?
+!------------------------------!
+Wo willst du hin, Roxas?
+!------------------------------!
+Dove credi di andare, Roxas?
+!------------------------------!
+¿Adónde crees que vas,
+Roxas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+To see Xion.
+!------------------------------!
+Voir Xion.
+!------------------------------!
+Zu Xion.
+!------------------------------!
+Da Xion.
+!------------------------------!
+A ver a Xion.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But you have a mission.
+!------------------------------!
+Tu as une mission qui t'attend.
+!------------------------------!
+Aber du hast eine Mission.
+!------------------------------!
+Ma hai una missione.
+!------------------------------!
+Pero tienes una misión.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Which I'll do!
+!------------------------------!
+Je sais !
+!------------------------------!
+Kümmere ich mich später drum!
+!------------------------------!
+Ci penserò dopo!
+!------------------------------!
+¡Y pienso cumplirla!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You cannot help your comrade.
+Xion will not wake up.
+!------------------------------!
+Tu ne peux pas l'aider.
+Elle ne se réveillera pas.
+!------------------------------!
+Du kannst ihr nicht helfen.
+Xion wird nicht aufwachen.
+!------------------------------!
+Non puoi aiutarla.
+Xion non si sveglierà.
+!------------------------------!
+No puedes ayudarla.
+Xion no va a despertar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's not the point!
+I should still be with her.
+!------------------------------!
+Je m'en fiche !
+Il faut que j'aille auprès d'elle.
+!------------------------------!
+Ich sollte trotzdem bei ihr sein.
+!------------------------------!
+Non è questo il punto!
+Devo stare al suo fianco.
+!------------------------------!
+¡Esa no es la cuestión!
+Aun así, he de estar con ella.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you care?
+The creature is broken. Defective.
+!------------------------------!
+Mais pourquoi lui portes-tu tant
+d'intérêt ? Elle est cassée...
+défectueuse.
+!------------------------------!
+Was kümmert dich das?
+Die Kreatur ist kaputt. Defekt.
+!------------------------------!
+Perché tieni tanto a lei?
+La creatura è difettosa. È un errore.
+!------------------------------!
+¿A ti qué más te da? Está
+rota. Es un producto defectuoso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't call her that!
+!------------------------------!
+Ne dis pas ça d'elle !
+!------------------------------!
+Red nicht so über sie!
+!------------------------------!
+Non chiamarla così!
+!------------------------------!
+¡No le llames eso!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll call that thing whatever I want.
+How we deal with Xion is no concern of
+yours.
+!------------------------------!
+J'appelle cette chose comme je veux.
+La façon dont nous traitons Xion ne
+te concerne en aucun cas.
+!------------------------------!
+Ich rede über das Ding, wie ich will.
+Was wir mit Xion machen, geht
+dich nichts an.
+!------------------------------!
+Io la chiamo come voglio.
+Il modo in cui trattiamo Xion
+non ti riguarda.
+!------------------------------!
+Le llamaré lo que me parezca.
+Ni se te ocurra cuestionar
+nuestra forma de tratarla.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I didn't ask you if it was!
+!------------------------------!
+Je ne t'ai rien demandé !
+!------------------------------!
+Ich hab dich nicht
+um deine Meinung gebeten.
+!------------------------------!
+Invece sì!
+!------------------------------!
+¡No lo he hecho!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Look at you, Roxas.
+Up in arms over a nobody.
+!------------------------------!
+Elle n'est personne, Roxas.
+!------------------------------!
+Sieh dich doch mal an, Roxas.
+Ganz aufgelöst wegen
+eines Niemands.
+!------------------------------!
+Guardati, Roxas.
+Tutto agitato per un Nessuno.
+!------------------------------!
+Mírate, Roxas. Sufriendo
+por quien no puede sentir.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We're all Nobodies!
+!------------------------------!
+Comme nous tous, les Simili !
+!------------------------------!
+Wir sind alle Niemande!
+!------------------------------!
+Qui siamo tutti Nessuno!
+!------------------------------!
+¡Como todos nosotros!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Settle down. Xion's failings won't
+affect your standing with us. You've
+nothing to worry about.
+!------------------------------!
+Calme-toi. Ses échecs ne compromettent
+en aucun cas ta présence parmi nous.
+Ne t'en fais pas.
+!------------------------------!
+Beruhig dich. Ihre Fehler
+wirken sich nicht auf dich aus.
+Du brauchst keine Angst zu haben.
+!------------------------------!
+Calmati. I fallimenti di Xion non
+mineranno la nostra valutazione
+nei tuoi confronti. Non temere.
+!------------------------------!
+Cálmate. Su fracaso no afectará
+a tu posición. No tienes
+de qué preocuparte.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Won't affect my<E2><80><95>
+What is WRONG with you?
+Look, I'll do my mission<E2><80><95>later.
+!------------------------------!
+Ne compromettent pas ma...
+Mais c'est quoi ton problème ?
+Je m'occuperai de la mission plus tard.
+!------------------------------!
+Wirken sich nicht ...
+GEHT'S noch? Ich werde meine
+Mission erledigen ... später.
+!------------------------------!
+Non mineranno la vostra... Si può
+sapere cosa stai dicendo?!? La
+mia missione viene... DOPO!
+!------------------------------!
+¿Que no afectará a mi...?
+¿Pero a ti qué te pasa? Mira,
+cumpliré con la misión... luego.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

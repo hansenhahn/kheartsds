@@ -1,0 +1,350 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ob/44.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/21.z
+!******************************!
+&.[HDR].2&
+mi/ch/22.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pronto, é perfeito!
+Não acha, Doutor?
+!------------------------------!
+Voilà, c'est parfait !
+Pas vrai, Docteur ?
+!------------------------------!
+Da, das ist perfekt!
+Findest du nicht auch, Doktor?
+!------------------------------!
+Sì, è perfetto!
+Non crede, Dottore?
+!------------------------------!
+¡Vaya, es perfecto!
+¿No te parece, doctor?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, sim, realmente é bom...
+!------------------------------!
+J'avoue, ce n'est pas mal.
+!------------------------------!
+Hmm, ja, das ist schon was ...
+!------------------------------!
+Mmm, sì, davvero niente male...
+!------------------------------!
+Mm, sí, da bastante el pego...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um precursor do terror e do tormento!
+!------------------------------!
+C'est un sombre présage de frayeurs
+et de tourments !
+!------------------------------!
+Ein dunkler Vorbote
+des Schreckens und der Qual!
+!------------------------------!
+Un oscuro messaggero
+di terrore e disperazione!
+!------------------------------!
+¡Es el heraldo del terror
+y el tormento!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Furtivo e esperto, aparece do nada 
+com gavinhas negras sinistras 
+brotando de suas mãos!
+!------------------------------!
+Furtif et futé, il sort de nulle part
+avec d'affreuses vrilles noires
+en guise de hachoir !
+!------------------------------!
+Er taucht aus dem Nichts auf und
+aus den Händen wachsen ihm
+schaurige schwarze Tentakel.
+!------------------------------!
+Furtivo e astuto, appare dal
+nulla con tentacoli neri che
+gli spuntano dalle mani!
+!------------------------------!
+Sigiloso y astuto, sale de la
+nada con horribles zarcillos
+negros brotando de sus manos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Debaixo de seu capote, possui
+um arsenal de inúmeras bombas!
+!------------------------------!
+Sous sa cape se cache un nombre
+incalculable de bombes !
+!------------------------------!
+Unter seinem Mantel versteckt er
+unzählige Bomben!
+!------------------------------!
+E sotto il suo mantello...
+nasconde un tremendo
+arsenale di bombe!
+!------------------------------!
+Bajo el abrigo, esconde un arsenal
+incontable de bombas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um monstrengo assim é garantia de
+mergulha todos nas profundezas do 
+medo!
+!------------------------------!
+Un tel ennemi effrayera les gens
+à coup sûr !
+!------------------------------!
+So ein Unhold jagt garantiert
+jedem einen gewaltigen
+Schrecken ein.
+!------------------------------!
+Un mostro come questo
+farà accapponare la pelle
+anche ai meno paurosi!
+!------------------------------!
+¡Garantizado que un engendro así
+sumirá a la gente en los abismos
+del miedo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fascinante. E pretende fazer disto
+a peça central do próximo Halloween?
+!------------------------------!
+Fascinant. Et tu comptes en faire
+le clou du prochain Halloween ?
+!------------------------------!
+Faszinierend. Und das soll an
+Halloween die Hauptattraktion
+sein?
+!------------------------------!
+Affascinante. Sarà questo
+il momento culminante del
+prossimo Halloween?
+!------------------------------!
+Fascinante. ¿Y planeas
+convertirlo en el eje central
+del próximo Halloween?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim! 
+A ideia veio a mim há um tempo atrás.
+!------------------------------!
+Ça oui ! J'en ai eu l'idée tout à
+l'heure.
+!------------------------------!
+Jawohl! Die Idee ist mir
+erst vor Kurzem gekommen.
+!------------------------------!
+Proprio così! Ho avuto questa
+idea solo pochi minuti fa.
+!------------------------------!
+¡Sí! Se me acaba de ocurrir
+la idea hace un momento.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, você tem meu total apoio.
+Que ideia original você teve
+desta vez, Jack.
+!------------------------------!
+Je te donne mon feu vert.
+C'est une idée novatrice que
+tu as eue cette fois, Jack.
+!------------------------------!
+Du hast meine Unterstützung.
+Diesmal hast du dir richtig
+was einfallen lassen, Jack.
+!------------------------------!
+Beh, hai la mia piena approvazione.
+Questa volta hai avuto
+proprio un'idea originale, Jack.
+!------------------------------!
+Bien, cuentas con mi aprobación.
+Qué idea tan original has tenido
+esta vez, Jack.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fico feliz por ter gostado. 
+Mal posso esperar para ir
+construir vários desses!
+!------------------------------!
+Dans ce cas, je vais commencer
+à en construire d'autres !
+!------------------------------!
+Schön, dass sie dir gefällt. Ich
+kann's kaum erwarten, noch
+mehr davon zu bauen!
+!------------------------------!
+Sono contento che le piaccia. Non vedo
+l'ora di iniziare a costruirne altri!
+!------------------------------!
+Genial. ¡Estoy deseando ponerme
+manos a la obra para construir
+más!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espere um pouco...
+!------------------------------!
+Hmm...
+!------------------------------!
+Ähm ...
+!------------------------------!
+Un momento...
+!------------------------------!
+Mm...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Essa coisa era para ser... eu?
+!------------------------------!
+Est-ce que c'est censé être...
+moi ?
+!------------------------------!
+Soll das Ding da etwa ...
+ich sein?
+!------------------------------!
+Questo... dovrei essere io?
+!------------------------------!
+¿Esta cosa... soy yo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não consigo ver nada assim.
+!------------------------------!
+Ce n'est pas très ressemblant.
+!------------------------------!
+Ich sehe keine Ähnlichkeit.
+!------------------------------!
+Non mi somiglia per niente.
+!------------------------------!
+Porque no le veo el parecido.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000000000007000F00.*
+!******************************!

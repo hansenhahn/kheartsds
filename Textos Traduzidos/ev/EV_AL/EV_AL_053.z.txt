@@ -1,0 +1,195 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+1:75
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Hein ?
+!------------------------------!
+Huch?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Ack!)
+!------------------------------!
+(Oups !)
+!------------------------------!
+(Argh!)
+!------------------------------!
+(Argh!)
+!------------------------------!
+(¡Diablos!)
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I coulda swore somebody was watchin'
+me... Next I'll be jumpin' at my own
+shadow.
+!------------------------------!
+J'aurais juré qu'on m'observait...
+Je dois avoir des hallucinations.
+!------------------------------!
+Ich könnte schwören, jemand
+hat mich beobachtet ... Hier
+muss es spuken.
+!------------------------------!
+Avrei giurato che qualcuno mi
+stesse osservando...
+Devo stare calmo.
+!------------------------------!
+Juraría que alguien me estaba
+mirando... ¡Me asusta mi
+propia sombra!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Grrr... Great! I had to go and lose my
+place! Now I gotta start lookin' from
+the beginning.
+!------------------------------!
+Argh, j'ai perdu le fil maintenant !
+Faut que je recommence du début !
+!------------------------------!
+Grr ... na toll! Ich hab den
+roten Faden verloren! Jetzt
+muss ich von vorn anfangen.
+!------------------------------!
+Grrr, accidenti. Ho perso
+il filo! Ora devo ricominciare
+a cercare da capo!
+!------------------------------!
+¡Argh!... ¡Me he
+desconcentrado! ¡Tendré
+que empezar desde el principio!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, he's sharper than he looks.
+!------------------------------!
+Hmm, il est plus malin
+qu'il n'en a l'air.
+!------------------------------!
+Hm, er ist schlauer,
+als er aussieht.
+!------------------------------!
+Mmm, è più furbo di
+quanto sembra.
+!------------------------------!
+Mm, es más astuto de lo que
+parece.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Be careful not to let him out of your
+field of vision, Roxas.
+!------------------------------!
+Ne le laisse pas sortir de ton champ
+de vision, Roxas.
+!------------------------------!
+Lass ihn bloß nicht
+aus den Augen, Roxas.
+!------------------------------!
+Non farlo uscire dal tuo
+campo visivo, Roxas.
+!------------------------------!
+No pierdas el contacto
+visual con él, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And obviously you'll need to stay out
+of his.
+!------------------------------!
+Et toi, tu ne dois surtout pas entrer
+dans le sien.
+!------------------------------!
+Und komm ihm nicht unter seine.
+!------------------------------!
+E tu non entrare nel suo,
+naturalmente.
+!------------------------------!
+Y, obviamente, que él no lo
+establezca contigo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
