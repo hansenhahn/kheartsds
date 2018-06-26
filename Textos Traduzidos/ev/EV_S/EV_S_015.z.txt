@@ -28,7 +28,7 @@ mi/mo/sa.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hoje marca a prmiera vez que vocês
+Hoje marca a primeira vez que vocês
 dois irão para uma missão juntos.
 !------------------------------!
 Vous faites équipe ensemble pour

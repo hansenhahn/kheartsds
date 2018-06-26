@@ -19,9 +19,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hmm, I'm not on recon today, so I
-should probably steer clear of the
-Coliseum.
+Hmm, não estou numa missão de recon
+hoje, então acho que devo evitar o
+Coliseu.
 !------------------------------!
 Je ne suis pas ici pour enquêter
 aujourd'hui, alors ça ne sert à
@@ -49,8 +49,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All I have to do is defeat some
-Heartless and then I can head home.
+Só tenho que derotar uns Heartless
+e então posso voltar pra casa.
 !------------------------------!
 Je suis juste censé éliminer des
 Sans-cœur, puis rentrer.

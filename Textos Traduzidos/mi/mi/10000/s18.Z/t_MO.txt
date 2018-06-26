@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E3><82><88><E3><81><8F><E6><9D><A5><E3><81><9F><E3><82><AF><E3><83><9D>
+<E2><80><A6><E4><BB><8A><E6><97><A5><E3><81><AF><E3><81><AA><E3><82><93><E3><81><A0><E3><81><8B><E5><AC><89><E3><81><97><E3><81><9D><E3><81><86><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+Saudações... kupo?
+Só sorrisos hoje, não é, kupo?
+!------------------------------!
+MOG
+Bienvenue... kupo ?
+C'est pas la joie aujourd'hui, kupo.
+!------------------------------!
+MOGRY
+Sei gegrüßt ... kupo?
+Ist es nicht ein schöner Tag, kupo?
+!------------------------------!
+MOGURI
+Salve... kupò?
+Oggi abbiamo un bel sorriso, eh, kupò?
+!------------------------------!
+MOGURI
+Saludos, kupó. Hoy estás
+muy sonriente, kupó.
+!------------------------------!
+!******************************!

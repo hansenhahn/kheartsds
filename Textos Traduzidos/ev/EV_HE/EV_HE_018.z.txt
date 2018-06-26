@@ -22,8 +22,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All right.
-That's enough for today.
+Beleza.
+Isso é o bastante por hoje.
 !------------------------------!
 Bon, ça suffit pour aujourd'hui.
 !------------------------------!
@@ -46,9 +46,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Actually, it's more than enough.
-Between givin' that Heartless pest a
-pounding and all the training you put in...
+Na verdade, é mais do que o bastante.
+Entre dar uma surra nessa praga de
+Heartless e todo o seu treinamento...
 !------------------------------!
 C'est même plus qu'assez. Entre le
 combat contre les Sans-cœur et
@@ -70,7 +70,7 @@ todo el entrenamiento hecho...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ya know, you could really...
+Sabe, você poderia...
 !------------------------------!
 Tu aurais bien besoin...
 !------------------------------!
@@ -90,7 +90,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Uh-huh?
+Hã?
 Could really what?
 !------------------------------!
 Besoin de quoi ?
@@ -108,8 +108,8 @@ Potrei fare che cosa?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Could really use more practice.
-Trust me. You're gonna need it.
+Poderia praticar mais.
+Confie em mim. Vai precisar.
 !------------------------------!
 De t'entraîner encore !
 Tu en auras besoin.
@@ -137,8 +137,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(Well, I've collected enough hearts.
- I guess I'll RTC.)
+(Bem, já coletei corações o bastante
+ Acho que vou VAC.)
 !------------------------------!
 (Bon, j'ai récupéré assez de cœurs.
  Je devrais rentrer.)

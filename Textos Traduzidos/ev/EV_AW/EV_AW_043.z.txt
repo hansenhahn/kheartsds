@@ -85,8 +85,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's nearly here now. Are you quite
-prepared? If not, well...good-bye...
+Já está bem perto. Está bem preparado?
+Se não, bem... foi bom te conhecer...
 !------------------------------!
 Elle est presque là. Êtes-vous prêt ?
 Si ce n'est pas le cas, je n'aimerais

@@ -13,7 +13,7 @@ mi/ch/1C.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, who are you bozos!?
+Ei, quem são vocês, bozos?!
 !------------------------------!
 Vous êtes qui, vous ?
 !------------------------------!
@@ -29,7 +29,7 @@ tipejos?
 *.NULO.*
 !------------------------------!
 Hmph!
-Here for the magic lamp, are ya?
+Querem a lâmpada mágica, né?
 !------------------------------!
 Vous cherchez la lampe magique,
 c'est ça ?
@@ -49,7 +49,7 @@ lámpara maravillosa, verdad?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Don't try and play dumb with me!
+Nem tenta se fazer de bobo com eu!
 !------------------------------!
 Jouez pas aux idiots avec moi !
 !------------------------------!
@@ -63,9 +63,9 @@ Non fare il finto tonto!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You listen up an' listen good!
-That lamp is official property of Pete<E2><80><95>
-that's me! Ya got it?
+Escuta bem, mas escuta direito!
+Esta lâmpada é propriedade oficial
+de Bafo... que sou eu! Tá entendido?
 !------------------------------!
 Écoutez-moi bien ! Cette lampe
 appartient officiellement à Pat
@@ -87,8 +87,8 @@ Pete... ¡mía! ¿Entendido?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So you goons can keep your dirty mitts
-off!
+Então, seus panacas, é melhor ficar
+com essas suas mãozinhas sujas longe.
 !------------------------------!
 Alors venez pas mettre vos sales
 pattes dessus !

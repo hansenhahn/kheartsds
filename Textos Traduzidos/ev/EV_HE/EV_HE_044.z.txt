@@ -19,8 +19,8 @@ mi/ch/41.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Attaboy, Roxas!
-That's what I like to see!
+Isso aí, Roxas!
+É disso que eu gosto de ver!
 !------------------------------!
 Hourra ! Bien joué, Roxas !
 C'est magnifique !
@@ -38,9 +38,9 @@ Così mi piaci!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You musta been stickin' to your training
-while you were gone. Trust me, kid, it
-shows.
+Você deve ter se dedicado ao seu
+treinamento enquanto esteve fora.
+Pode acreditar, filho, dá pra notar.
 !------------------------------!
 Tu t'es entraîné de ton côté,
 hein ? Je t'assure que ça se
@@ -62,8 +62,8 @@ se nota.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Keep up those workouts, and you're
-gonna get a lot stronger.
+Continue praticando e você vai ficar
+muito mais forte.
 !------------------------------!
 Continue comme ça et tu deviendras
 fort comme un lion.
@@ -84,7 +84,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I will.
+Tudo bem.
 !------------------------------!
 C'est promis.
 !------------------------------!
@@ -116,8 +116,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Good. Now, I gotta head back inside to
-get ready for the next match, but, uh...
+Ótimo. Agora tenho que voltar pra
+dentro e me preparar pra próxima
+partida, mas, uh...
 !------------------------------!
 Il faut que je retourne à l'intérieur
 pour préparer le prochain match,
@@ -142,7 +143,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What?
+O quê?
 !------------------------------!
 Quoi ?
 !------------------------------!
@@ -156,7 +157,7 @@ Che c'è?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nothin', nothin'.
+Nada, nada.
 !------------------------------!
 Rien, rien.
 !------------------------------!
@@ -170,8 +171,8 @@ Nada, nada.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, all right then...
-I'm gonna go.
+Bem, tudo bem então...
+Estou indo.
 !------------------------------!
 Bon, eh bien...
 je vais devoir y aller.
@@ -204,7 +205,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, Roxas...
+Ei, Roxas...
 !------------------------------!
 Au fait, Roxas...
 !------------------------------!
@@ -230,7 +231,7 @@ Bip01_Spine
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah?
+Oi?
 !------------------------------!
 Oui ?
 !------------------------------!
@@ -244,7 +245,7 @@ Sì?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Don't be a stranger.
+Volte quando quiser.
 !------------------------------!
 Ne me laisse pas tomber.
 !------------------------------!
@@ -285,8 +286,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What, he wants me to come back?
-For what? More training?
+Quê, ele quer que eu volte?
+Pra quê? Mais treino?
 !------------------------------!
 Quoi, il veut que je revienne ?
 Pour m'entraîner encore plus ?
@@ -308,8 +309,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hunh, weird.
-Well, the mission's done.
+Hunh, estranho.
+Bem, a missão está encerrada.
 !------------------------------!
 Bizarre...
 Bon, mission accomplie !
@@ -328,8 +329,8 @@ Bueno, la misión está terminada.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Time to go grab Axel and see if we can
-find Xion.
+Hora de me juntar ao Axel e ver
+se podemos encontrar Xion.
 !------------------------------!
 C'est le moment de rejoindre Axel
 et d'essayer de trouver Xion.

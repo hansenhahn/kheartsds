@@ -31,7 +31,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, Roxas!
+E aí, Roxas!
 !------------------------------!
 Salut, Roxas !
 !------------------------------!
@@ -48,7 +48,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Axel... You're back!
+Axel... Você voltou!
 !------------------------------!
 Axel... tu es rentré !
 !------------------------------!
@@ -65,7 +65,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yup, I just got home.
+Aham, 'cabei de chegar.
 !------------------------------!
 Ouais, à l'instant.
 !------------------------------!
@@ -110,8 +110,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-How ya holding up?
-Where's Xion?
+Tudo sussa?
+Onde tá a Xion?
 !------------------------------!
 Comment ça va ?
 Où est Xion ?
@@ -132,7 +132,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-She's not here yet.
+Ela não chegou ainda.
 !------------------------------!
 Elle n'est pas encore revenue.
 !------------------------------!
@@ -166,7 +166,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's getting late.
+Tá ficando tarde.
 !------------------------------!
 Je ne sais pas ce qu'elle fait.
 !------------------------------!
@@ -186,7 +186,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This isn't like her...
+Ela não é disso...
 !------------------------------!
 On devrait tous être rentrés
 normalement.

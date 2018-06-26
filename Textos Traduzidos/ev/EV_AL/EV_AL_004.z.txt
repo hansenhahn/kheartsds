@@ -40,7 +40,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You should get some rest, Aladdin.
+Melhor descansar um pouco, Aladim.
 !------------------------------!
 Tu devrais te reposer, Aladdin.
 !------------------------------!
@@ -56,9 +56,9 @@ Deberías descansar, Aladdín.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'll be okay. Besides, the sandstorm's
-finally let up<E2><80><95>now's our chance to
-patch up the city.
+Eu estou bem. Além do que, a tempestade 
+de areia finalmente acabou. Agora é a 
+nossa chance de reconstruir a cidade.
 !------------------------------!
 Ne t'en fais pas. La tempête de sable
 s'est enfin calmée. Profitons-en
@@ -80,7 +80,7 @@ ocasión de arreglar la ciudad.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That's true, but still...
+É verdade, mas mesmo assim...
 !------------------------------!
 C'est vrai, mais...
 !------------------------------!
@@ -97,7 +97,7 @@ Bip_head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You'll run yourself ragged at this rate.
+Nesse ritmo, você acabará exausto.
 !------------------------------!
 Tu vas t'épuiser à ce rythme-là.
 !------------------------------!
@@ -114,9 +114,9 @@ hecho polvo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Jasmine, you don't need to worry<E2><80><95>
-I'm fine. And since we don't know when
-the next storm will hit...
+Jasmine, não há com o que se preocupar... 
+Eu estou bem. E já que não sabemos quando 
+a próxima tempestade virá...
 !------------------------------!
 Jasmine, arrête de t'en faire pour moi.
 Comme on ne sait pas quand
@@ -141,8 +141,8 @@ Bip_head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-...we need to get everything running
-again before it does.
+... precisamos ter tudo em ordem
+de novo antes que isso aconteça.
 !------------------------------!
 Il faut qu'on répare tout ça
 le plus vite possible !
@@ -161,7 +161,8 @@ en marcha.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-If only Genie were around...
+Se pelo menos o Gênio 
+estivesse por perto...
 !------------------------------!
 Si seulement le Génie était là...
 !------------------------------!
@@ -177,8 +178,9 @@ estuviera por aquí...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I miss him, too, but this isn't a job for
-magic.
+Tenho saudades dele também, 
+mas este não é um trabalho 
+para a magia.
 !------------------------------!
 Il me manque à moi aussi, mais sa magie
 ne servirait à rien.
@@ -199,8 +201,8 @@ para este trabajo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Agrabah's our city.
-We need to be the ones to fix it up.
+Ágraba é a nossa cidade. 
+Somos nós que temos de reconstrui-la.
 !------------------------------!
 Agrabah est notre ville.
 C'est à nous de la reconstruire.
@@ -220,7 +222,7 @@ la reconstruyamos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Of course, you're right...
+Verdade, você tem razão...
 !------------------------------!
 Oui, tu as raison...
 !------------------------------!
@@ -234,7 +236,7 @@ Claro, tienes razón...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now, I should get back to work.
+Agora, melhor eu voltar ao trabalho.
 !------------------------------!
 Allez, je dois me remettre au travail.
 !------------------------------!
@@ -250,7 +252,7 @@ volver al trabajo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wait. I'll help, too.
+Espere. Irei ajudar também.
 !------------------------------!
 Attends-moi ! Je vais t'aider !
 !------------------------------!
@@ -283,8 +285,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So that guy must be spearheading the
-city repair efforts.
+Então esse cara deve estar liderando
+as obras de reconstrução da cidade.
 !------------------------------!
 Ce doit être lui qui supervise les
 travaux de reconstruction.
@@ -313,8 +315,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The question is, why him?
-He doesn't look like royalty.
+A questão é: por que ele?
+Não parece ser nem da realeza.
 !------------------------------!
 Je me demande bien pourquoi.
 Il n'a pas l'air de faire partie de la
@@ -343,7 +345,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Does he have to be?
+E deveria?
 !------------------------------!
 Et ?
 !------------------------------!
@@ -357,8 +359,9 @@ E con ciò?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's not easy getting people to follow
-you, especially when it involves work.
+Não é fácil conseguir pessoas para te 
+ajudar, principalmente quando envolve 
+trabalho.
 !------------------------------!
 Ce n'est pas facile de convaincre les
 gens d'obéir, surtout quand il
@@ -382,9 +385,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's the kind of thing you'd expect
-somebody in the palace to be doing.
-They already call the shots, right?
+É o tipo de coisa que só se espera
+de alguém do palácio para fazer. 
+São eles que dão as cartas, né?
 !------------------------------!
 C'est le genre de chose dont se
 chargent plutôt les gens du palais,
@@ -406,7 +409,7 @@ los que cortan el bacalao, ¿no?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-True.
+Verdade.
 !------------------------------!
 Si.
 !------------------------------!
@@ -423,9 +426,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But he definitely wasn't royalty...
-The girl next to him<E2><80><95>now SHE was
-royalty.
+Mas ele com certeza não era da 
+realeza... Agora, a garota que 
+estava com ele... ELA sim é.
 !------------------------------!
 Mais ce qui est sûr, c'est qu'il n'est
 pas de la famille royale. En revanche,
@@ -447,7 +450,7 @@ que tenía al lado sí que lo era.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-......
+...
 !------------------------------!
 ...
 !------------------------------!
@@ -464,8 +467,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So what now?
-Do we look around inside the palace?
+E agora?
+Vamos dar uma olhada dentro do palácio?
 !------------------------------!
 Qu'est-ce qu'on fait maintenant ?
 On va jeter un coup d'œil dans
@@ -497,8 +500,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No need. We have our answers, and we
-even got a peek at their leaders.
+Nem vai precisar. Já temos nossas
+respostas, e até mesmo vimos seus 
+líderes.
 !------------------------------!
 C'est inutile. On a eu nos réponses
 et on a même pu voir leurs chefs.
@@ -519,7 +523,7 @@ a sus líderes.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Good, then we can go home?
+Ótimo, então podemos ir pra casa?
 !------------------------------!
 On peut rentrer, alors ?
 !------------------------------!
@@ -547,8 +551,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why, Roxas?
-Did you leave the toaster plugged in?
+Por quê, Roxas?
+Deixou algo no forno?
 !------------------------------!
 Pourquoi ?
 T'as laissé le four allumé ?
@@ -581,7 +585,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You know why.
+Você sabe por quê.
 !------------------------------!
 Arrête.
 Tu sais pourquoi.
@@ -608,8 +612,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh heh.
-C'mon, let's RTC.
+He, he.
+Vem, vamos VAC.
 !------------------------------!
 Hé, hé.
 Allez, viens, on rentre.

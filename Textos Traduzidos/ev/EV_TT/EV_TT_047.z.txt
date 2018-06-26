@@ -19,7 +19,8 @@ world_root
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Serás que Xion e os outros já voltaram?
+Será que a Xion e os outros
+já voltaram?
 !------------------------------!
 Je me demande si Xion et les autres
 sont déjà rentrés.

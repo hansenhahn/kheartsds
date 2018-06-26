@@ -19,8 +19,8 @@ mi/ch/41.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sorry, kid, but I can't stick around
-anymore today.
+Foi mal, filho, mas hoje não tenho
+mais tempo.
 !------------------------------!
 Désolé, petit, mais je ne peux pas
 rester pour t'entraîner davantage
@@ -39,8 +39,8 @@ puedo quedarme más.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I got some errands to run, nymphs to
-chase, you know how it is.
+Tenho coisas a fazer, ninfas a
+perseguir, sabe como é.
 !------------------------------!
 J'ai des choses à faire, des nymphes
 à charmer. Tu sais ce que c'est...
@@ -70,8 +70,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I guess that's it for now, then.
-I'll just have to RTC.
+Acho que é só isso por enquanto.
+Só me resta VAC então.
 !------------------------------!
 Bon, c'est tout pour aujourd'hui.
 Je vais rentrer.

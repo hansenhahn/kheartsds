@@ -25,8 +25,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nice going.
-You looked pretty good out there!
+Boa, filho.
+Você foi muito bem lá.
 !------------------------------!
 Bravo, ma poule.
 Tu t'en es bien tiré !
@@ -47,7 +47,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Um, thanks...
+Um, valeu...
 !------------------------------!
 Euh, merci...
 !------------------------------!
@@ -64,8 +64,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now that you're warmed up, how about
-startin' in on today's training?
+Agora que se aqueceu, que tal
+começar com o treino de hoje?
 !------------------------------!
 Maintenant que t'es chaud,
 qu'est-ce que tu dirais de
@@ -89,7 +89,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What?
+O quê?
 !------------------------------!
 De quoi ?
 !------------------------------!
@@ -106,8 +106,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You're serious about gettin' into the big
-leagues, right?
+Você quer mesmo chegar às
+grandes ligas, né?
 !------------------------------!
 Pas de ça avec moi, bleusaille !
 T'as envie d'affronter les plus
@@ -126,8 +126,8 @@ ligas o no?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, there are two things every hero
-hopeful has to remember.
+Bem, há duas coisas que todo 
+aspirante a herói deve lembrar.
 !------------------------------!
 Il y a deux choses que les apprentis
 héros ne doivent jamais oublier :
@@ -146,7 +146,7 @@ un héroe tiene que recordar.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Train.
+Treinar.
 !------------------------------!
 S'entraîner
 !------------------------------!
@@ -160,7 +160,7 @@ Entrenar.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Every.
+Todo.
 !------------------------------!
 Au
 !------------------------------!
@@ -174,7 +174,7 @@ Todos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Day!
+Dia!
 !------------------------------!
 Quotidien !
 !------------------------------!
@@ -191,7 +191,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But I'm telling you, I'm not<E2><80><95>
+Mas eu estou dizendo que eu não<E2><80><95>
 !------------------------------!
 Mais je vous dis que...
 !------------------------------!
@@ -205,8 +205,8 @@ Pero ya te digo yo que no...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No <E2><80><9C>buts,<E2><80><9D> kid!
-Now get training!
+Sem <E2><80><9C>mas<E2><80><9D>, filho!
+Treinando!
 !------------------------------!
 Pas de <E2><80><9C>mais<E2><80><9D>, petit !
 Allez hop, à l'entraînement !
@@ -224,7 +224,7 @@ Y ahora, ¡a entrenar!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let me know as soon as you're ready.
+Me diga quando tiver pronto.
 !------------------------------!
 Préviens-moi quand tu seras prêt.
 !------------------------------!

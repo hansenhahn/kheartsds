@@ -34,8 +34,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It'll cause a big scene if we're spotted.
-Let's find another way around.
+Vai ser um grande problema se a gente 
+for visto. Vamos achar um outro caminho.
 !------------------------------!
 Ce sera un fiasco si on nous voit.
 Trouvons un autre chemin.

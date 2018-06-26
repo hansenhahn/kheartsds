@@ -120,7 +120,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sua amigaa foi enviada para uma missão,
+Sua amiga foi enviada para uma missão,
 mas nunca VAC.
 !------------------------------!
 Elle est partie en mission

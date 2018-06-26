@@ -19,7 +19,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh? He's not here...
+Huh? Ele não está aqui...
 !------------------------------!
 Tiens ? Il n'est pas là...
 !------------------------------!
@@ -33,9 +33,9 @@ Uh? Lui non c'è...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-C'mon! Is that all you got!?
-You call yourself a hero and use form
-like that?
+Vamos! Isso é o tudo o que tem?!
+Você se diz um herói com uma forma
+assim?
 !------------------------------!
 Quoi, c'est tout ce que t'as dans le
 ventre ? Et tu prétends être un héros ?
@@ -59,7 +59,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's coming from the arena.
+Está vindo da arena.
 !------------------------------!
 Ça vient de l'arène.
 !------------------------------!

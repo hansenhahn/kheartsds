@@ -25,7 +25,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Lose something?
+Perdeu algo?
 !------------------------------!
 Vous avez perdu quelque chose ?
 !------------------------------!
@@ -45,7 +45,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh? Who's there!?
+Hã? Quem está aí?!
 !------------------------------!
 Hein ? Qui est là ?
 !------------------------------!
@@ -65,7 +65,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Who, indeed?
+Quem será?
 !------------------------------!
 Mais oui, qui donc ?
 !------------------------------!
@@ -79,7 +79,7 @@ Sí, ¿quién?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Uhh...a cat?
+Uhh... um gato?
 !------------------------------!
 C'est... un chat ?
 !------------------------------!
@@ -93,8 +93,8 @@ Eh... ¿Un gato?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-A cheshire cat, if you please.
-Or if you don't.
+Gato Risonho, se não se importa.
+Ou se importa.
 !------------------------------!
 Hmm... un Chat de Cheshire pour
 être tout à fait exact. Ou pas.
@@ -120,7 +120,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Did you have a point?
+Quer alguma coisa?
 !------------------------------!
 Vous aviez quelque chose de précis
 à nous dire ?
@@ -135,9 +135,9 @@ Un punto per te?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yes, of course.
-But then, I also had none at all.
-Which would you prefer?
+Sim, claro.
+Mas também posso não querer nada.
+O que prefere?
 !------------------------------!
 Oui, bien sûr...
 Ou peut-être pas !
@@ -168,7 +168,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I...I'll be asking the questions here!
+Eu... eu que faço as perguntas aqui!
 !------------------------------!
 C'est... c'est moi qui pose les
 questions !
@@ -187,9 +187,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well then, ask away...
-Of course, the answers may be a bit
-difficult to find...
+Pois bem, pergunte então...
+Claro, as respostas podem ser um
+pouco difíceis de se achar...
 !------------------------------!
 Alors posez-les donc... Mais sachez
 que les réponses pourraient être
@@ -220,7 +220,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What was that all about?
+O que foi isso?
 !------------------------------!
 Hein ? J'ai rien compris...
 !------------------------------!

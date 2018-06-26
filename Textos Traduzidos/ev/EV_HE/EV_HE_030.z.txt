@@ -46,9 +46,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'm gonna stay out here and, uh...guard
-the exit, yeah! Nobody's exiting on my
-watch. (Except maybe me...)
+Vou ficar aqui fora e, uh... tomar
+conta da saída, é! Ninguém sai com
+eu olhando. (Tirando eu...)
 !------------------------------!
 Je vais rester ici pour euh... monter la
 garde ! Personne ne sortira d'ici.

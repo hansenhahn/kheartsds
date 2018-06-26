@@ -31,8 +31,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Where is it? It's gotta be around here
-somewheres...
+Onde está?
+Deve estar por aqui em algum lugar...
 !------------------------------!
 Où est l'entrée ?
 Elle devrait être par ici...
@@ -72,8 +72,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now who is that?
-And what's he up to?
+Mas quem é aquele?
+E o que ele pretende?
 !------------------------------!
 Qui c'est celui-là ?
 Et qu'est-ce qu'il fabrique ?
@@ -94,8 +94,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-He wasn't here the last time I came by,
-that's for sure.
+Ele não estava aqui da última
+vez que vim, isso eu tenho
+certeza.
 !------------------------------!
 En tout cas, il n'était pas là
 la dernière fois, c'est sûr.
@@ -155,8 +156,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Grrr... Well, I ain't givin' up till I find
-a way in!
+Grrr...
+Bem, não vô desistir até
+encontrar um jeito de entrar!
 !------------------------------!
 Nom d'un cornichon !
 Je n'abandonnerai pas tant que
@@ -178,8 +180,8 @@ encuentre la manera de entrar!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And once I find the lamp that's stashed
-down there...
+E quando eu encontrar a lâmpada 
+escondida aqui embaixo...
 !------------------------------!
 Et une fois que j'aurai trouvé la lampe
 cachée là-dedans...
@@ -197,8 +199,9 @@ que se esconde ahí abajo...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh heh heh...
-All my wishes'll come true.
+He he he...
+Todos os meus desejos
+serão realizados.
 !------------------------------!
 Hé, hé, hé...
 Tous mes vœux seront exaucés !
@@ -252,8 +255,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-He thinks some lamp is gonna grant his
-wishes?
+Ele acha que uma lâmpada irá
+conceder os seus desejos?
 !------------------------------!
 Il pense qu'une lampe peut exaucer
 ses vœux ?
@@ -274,7 +277,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah, strange guy.
+É, que cara estranho.
 !------------------------------!
 N'importe quoi...
 !------------------------------!
@@ -291,9 +294,9 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Change of plans, Roxas!
-Our new mission is following Lunkhead
-there.
+Mudança de planos, Roxas!
+Nossa nova missão é seguir 
+esse tapado.
 !------------------------------!
 Changement de plan, Roxas !
 Notre nouvelle mission consiste
@@ -315,7 +318,7 @@ al ceporro ese.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What?
+O quê?
 !------------------------------!
 Quoi ?
 !------------------------------!
@@ -332,8 +335,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But...we're out on heart collection.
-Won't we get in trouble if we just<E2><80><95>
+Mas... precisamos coletar corações.
+Não teremos problemas se<E2><80><95>
 !------------------------------!
 Mais on doit récupérer des cœurs.
 On va avoir des ennuis si...
@@ -357,9 +360,9 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Looking into any suspicious characters
-you come across is an important part
-of the job.
+Conferir qualquer indivíduo suspeito
+com que você esbarrar é uma parte
+importante da tarefa.
 !------------------------------!
 Enquêter sur les individus bizarres
 fait aussi partie du boulot.
@@ -383,8 +386,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But wouldn't you still call it disobeying
-orders?
+Mas isso ainda não é desobediência?
 !------------------------------!
 Mais ce n'est pas
 désobéir aux ordres ?
@@ -405,8 +407,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No, I'd call it flexible thinking.
-Got it memorized?
+Não, eu chamaria de ser flexível.
+Guardou na memória?
 !------------------------------!
 Non, c'est faire preuve
 d'initiative. Tu t'en
@@ -430,9 +432,9 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Plus, we'll still have plenty of time to
-collect hearts afterwards. No harm,
-no foul.
+Além do que, a gente ainda tem muito
+tempo pra coletar corações depois.
+Não faz mal a ninguém.
 !------------------------------!
 Et on aura tout le temps de
 trouver des cœurs après !
@@ -456,7 +458,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I guess...
+Acho que sim...
 !------------------------------!
 Bon d'accord...
 !------------------------------!
@@ -473,7 +475,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Good, then we're agreed.
+Ótimo, então tá combinado.
 !------------------------------!
 Génial !
 !------------------------------!
@@ -498,8 +500,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now the key here is to keep your eyes
-on him, Roxas.
+Agora a chave aui está em não
+perder ele de vista, Roxas.
 !------------------------------!
 Alors le truc, c'est de ne pas
 le perdre de vue.
@@ -521,8 +523,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Just make sure he doesn't lay eyes on
-you, follow?
+Vê se não desgruda os olhos dele,
+sacou?
 !------------------------------!
 Mais il ne faut pas que lui te voie,
 compris ?

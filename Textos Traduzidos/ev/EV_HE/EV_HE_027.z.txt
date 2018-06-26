@@ -16,7 +16,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, Roxas. You done?
+Ei, Roxas. Terminou?
 !------------------------------!
 C'est bon, t'as fini, Roxas ?
 !------------------------------!
@@ -45,7 +45,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh? Yeah...
+Oi? Sim...
 !------------------------------!
 Hein ? Oui...
 !------------------------------!
@@ -65,8 +65,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's up, man?
-You look out of it.
+Que foi, cara?
+Parece estar em outro planeta.
 !------------------------------!
 Qu'est-ce qu'il y a ?
 T'en fais une drôle de tête...
@@ -99,8 +99,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What kind of missions do you usually
-work?
+Que tipo de missões você faz
+normalmente?
 !------------------------------!
 Quel genre de missions on te confie
 habituellement ?
@@ -121,7 +121,7 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Me? Recon stuff, mostly.
+Eu? Uns recon principalmente.
 !------------------------------!
 Moi ? Des missions de reconnaissance.
 !------------------------------!
@@ -138,7 +138,7 @@ principalmente.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No taking out Heartless?
+Nada de destruir Heartless?
 !------------------------------!
 Aucune chasse aux Sans-cœur ?
 !------------------------------!
@@ -156,8 +156,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nah, it's rare that I do anything that
-strenuous.
+Não, é raro eu fazer algo
+que exija tanto assim.
 !------------------------------!
 Non, c'est rare que je fasse des
 missions aussi épuisantes.
@@ -178,7 +178,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But aren't you expected to?
+Mas não se espera que faça?
 !------------------------------!
 Mais... n'est-ce pas ce qu'on attend
 de toi ?
@@ -206,9 +206,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ha, they know better than that.
-They wanna keep the machine running,
-they pick the right tool for the job.
+Ha, eles sabem o que fazem. Se querem
+manter a máquina funcionando, então
+pegam a ferramenta certa pro trabalho.
 !------------------------------!
 Ils ne sont pas idiots. Ils savent bien
 que pour faire tourner la machine, il
@@ -242,8 +242,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And that's me?
-The right tool for the job?
+E esse sou eu?
+A ferramenta certa pro trabalho?
 !------------------------------!
 Comme moi ?
 Je suis un bon outil ?
@@ -262,7 +262,7 @@ para el trabajo?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Something happen in there, man?
+Aconteceu algo lá, cara?
 !------------------------------!
 Dis, il t'est arrivé quelque chose
 là-dedans ?
@@ -281,8 +281,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No, I just<E2><80><95> Nothing.
-Our mission's complete. Let's RTC.
+Não, eu só<E2><80><95> Nada.
+Nossa missão está completa.
+Vamos VAC.
 !------------------------------!
 Non, je... Ce n'est rien.
 Mission accomplie !

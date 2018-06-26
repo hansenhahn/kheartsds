@@ -34,7 +34,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We can't get through.
+Não podemos passar.
 !------------------------------!
 On ne peut pas passer.
 !------------------------------!
@@ -51,7 +51,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Can't we?
+Não?
 !------------------------------!
 Tu crois ?
 !------------------------------!
@@ -74,7 +74,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But there's a guard.
+Mas tem um guarda.
 !------------------------------!
 Il y a un garde.
 !------------------------------!
@@ -91,8 +91,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-There are odds for everything...
-The trick is in the timing.
+Há sempre uma oportunidade para tudo...
+O truque é saber o momento certo.
 !------------------------------!
 Il faut toujours tenter sa chance.
 L'important, c'est le timing.
@@ -114,8 +114,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hit the window just right, and a long
-shot will pay off big.
+A paciência é a mãe de todas as
+virtudes.
 !------------------------------!
 Patience est mère de toutes les
 vertus.
@@ -145,8 +145,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ohhh! So you mean if we wait till he's
-not looking, we can probably sneak by.
+Ahhh! Então quer dizer que se a gente
+esperar quando ele não estiver olhando,
+poderemos talvez passar sem ser notado.
 !------------------------------!
 Oh ! Tu veux dire que si on attend
 qu'il regarde ailleurs, on pourra se

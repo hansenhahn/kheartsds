@@ -19,8 +19,8 @@ mi/ch/41.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All right, let's get started.
-You ready?
+Certo, vamos começar.
+Preparado?
 !------------------------------!
 Bon, on passe à l'entraînement.
 T'es prêt ?
@@ -61,7 +61,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(Hmm, I'm not finished with my recon.)
+(Hmm, eu não terminei meu recon.)
 !------------------------------!
 (Hmm, je n'ai pas fini d'explorer
 les lieux.)
@@ -79,8 +79,8 @@ reconocimiento.)
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What? You forget to tie your sandals?
-Get a move on!
+Quê? Esqueceu de amarrar as sandálias?
+Anda então!
 !------------------------------!
 Qu'est-ce qu'il y a ?
 T'as oublié de prendre ton
@@ -106,8 +106,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Every second counts.
-I'll be waitin' for ya right here.
+Cada segundo conta.
+Vou tar te esperando aqui.
 !------------------------------!
 Chaque seconde compte, petit !
 Allez, je t'attends ici.

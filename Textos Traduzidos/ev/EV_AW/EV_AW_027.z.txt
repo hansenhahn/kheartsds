@@ -16,9 +16,9 @@ mi/ch/44.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-STILL nothing!?
-If I lose my temper...one of you will
-lose your head! Understand!?
+AINDA nada?!
+Se eu perder a calma... um de vocês
+vai perder a cabeça! Entendido?!
 !------------------------------!
 Toujours rien ? Si je perds mon calme,
 quelqu'un va avoir la tête coupée !
@@ -70,8 +70,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Are they still searching for the
-Heartless we took out last time?
+Ele estão ainda procurando pelo
+Heartless que derrotamos antes?
 !------------------------------!
 Ils cherchent toujours les Sans-cœur
 que nous avons éliminés l'autre fois ?
@@ -91,8 +91,8 @@ vez?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You might say they'll look for
-absolutely nothing until they find it.
+Pode se dizer que procurarão por
+absolutamente nada até encontrarem.
 !------------------------------!
 Oui et ils continueront à chercher tant
 qu'ils n'auront rien trouvé.
@@ -154,8 +154,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And if they don't find it here, perhaps
-they'll find it there...in the next maze.
+E se não encontrarem aqui, talvez
+encontrem lá... no próximo labirinto.
 !------------------------------!
 Et s'ils ne trouvent rien ici, ils
 trouveront peut-être dans...
@@ -176,8 +176,8 @@ laberinto.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Unless, of course, they decide to look
-for the new shadow that's appeared.
+A menos que, é claro, decidam
+procurar a nova sombra que surgiu.
 !------------------------------!
 À moins qu'ils ne se mettent à
 chercher la nouvelle ombre.
@@ -198,8 +198,8 @@ que ha aparecido.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But that seems unlikely to me, does it
-to you?
+Mas parece improvável para mim.
+Para você também?
 !------------------------------!
 Mais ça me semble peu probable.
 Pas vous ?
@@ -221,8 +221,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wait... The next maze?
-There's more than one?
+Espera... O próximo labirinto?
+Há mais de um?
 !------------------------------!
 Quoi... l'autre labyrinthe ?
 Il n'y en a pas qu'un ?
@@ -241,8 +241,9 @@ Espera... ¿"El siguiente laberinto"?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, didn't you know?
-Here, a maze is a maze of mazes.
+Ah, não sabia?
+Aqui, um labirinto é um labirinto
+de labirintos.
 !------------------------------!
 Oh, vous ne le saviez pas ?
 Ici, un labyrinthe est un labyrinthe
@@ -263,7 +264,7 @@ laberintos de laberintos...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Isn't that amazing!?
+Não é incrível?!
 !------------------------------!
 C'est à en perdre la tête, non ?
 !------------------------------!
@@ -277,7 +278,7 @@ Non è fantastico?!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-He's gone...
+Ele foi embora...
 !------------------------------!
 Il est parti...
 !------------------------------!
@@ -300,9 +301,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Not quite. I've one more quick quip.
-If four switches you trip...the new
-shadow unzips!
+Ainda não. Tenho mais uma coisinha
+a dizer. Se quatro interruptores
+você ligar... a nova sombra surgirá!
 !------------------------------!
 Non, non... Si vous trouvez les
 quatre interrupteurs... la nouvelle
@@ -348,7 +349,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-A <E2><80><9C>new shadow,<E2><80><9D> is it?
+Uma <E2><80><9C>nova sombra<E2><80><9D>, é?
 Hmm...
 !------------------------------!
 Une <E2><80><9C>nouvelle ombre<E2><80><9D> ?
@@ -379,8 +380,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's check the maze for those
-switches, Roxas.
+Vamos verificar o labirinto para
+achar esses interruptores, Roxas.
 !------------------------------!
 Cherchons ces interrupteurs dans
 le labyrinthe, Roxas.
@@ -407,7 +408,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Right.
+Tá.
 !------------------------------!
 D'accord.
 !------------------------------!

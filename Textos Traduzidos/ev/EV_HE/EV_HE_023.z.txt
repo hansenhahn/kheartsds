@@ -19,8 +19,8 @@ mi/ch/25.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Put some zing into it!
-Stay focused!
+Bota mais força nisso!
+Se concentra!
 !------------------------------!
 Mets-y du tien !
 Reste concentré !
@@ -38,8 +38,8 @@ Resta concentrato!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All right, next exercise!
-Keep moving! No breaks!
+Tá, próximo exercício!
+Andando! Sem moleza!
 !------------------------------!
 Allez, exercice suivant !
 On continue ! Pas de pause !
@@ -64,7 +64,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-C'mon, you can take more than this!
+Qual é, você é melhor do que isso!
 !------------------------------!
 Allez, tu peux faire mieux que ça !
 !------------------------------!
@@ -79,7 +79,7 @@ Forza, puoi fare molto di più!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Blegh... What a tyrant!
+Blegh... Que perverso!
 !------------------------------!
 La vache... quel tortionnaire.
 !------------------------------!
@@ -147,8 +147,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'd be running out the door in tears
-after ten minutes of that.
+Eu sairia pela porta chorando
+depois de dez minutos disso.
 !------------------------------!
 Je partirais en pleurant après dix
 minutes avec lui.
@@ -171,8 +171,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Done with all the Heartless outside
-already?
+Já terminou com os Heartless de fora?
 !------------------------------!
 Tu en as déjà fini avec les
 Sans-cœur dehors ?
@@ -196,9 +195,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The what? Oh, right, uh...yeah!
-Yeah, they sure picked the wrong guy
-to mess with!
+Os o quê? Ah, tá, uh... claro!
+Sim, sem dúvida, eles mexeram
+com o cara errado!
 !------------------------------!
 Les quoi ? Ah, euh... oui, oui !
 Ils auraient dû y réfléchir à deux
@@ -220,8 +219,8 @@ equivocado para jugar.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I finished early, so I thought I'd drop
-by and see how you were doing.
+Eu terminei antes, então pensei em
+passar aqui pra ver como você tava.
 !------------------------------!
 J'ai fini vite alors je me suis dit
 que j'allais venir voir ce que tu
@@ -246,7 +245,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'm still not done.
+Eu ainda não acabei.
 !------------------------------!
 Moi je n'ai pas encore fini...
 !------------------------------!
@@ -263,9 +262,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah? Well, no biggie!
-I'll just find a comfy spot and kick back
-for a while.
+É? Bom, fica sussa!
+Vou achar um lugar bom pra sentar
+e relaxar.
 !------------------------------!
 Ah bon ? Bah, t'en fais pas !
 Je vais me trouver un endroit
@@ -314,8 +313,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That guy is getting trained way harder
-than I was.
+Esse cara tá treinando mais do que
+eu treinava.
 !------------------------------!
 Eh ben ! Ce gars s'entraîne encore
 plus dur que moi !
@@ -335,9 +334,9 @@ en fuerza?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why's he getting yelled at like that
-when he's doing such a solid job?
-Is he that much stronger than me?
+Por que ele continua gritando assim
+quando tá trabalhando tão duro?
+Ele é tão mais forte assim do que eu?
 !------------------------------!
 Il est incroyable et pourtant, Phil
 n'arrête pas de lui crier dessus. Il

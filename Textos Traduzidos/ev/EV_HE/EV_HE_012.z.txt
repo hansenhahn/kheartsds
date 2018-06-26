@@ -31,8 +31,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All right, Roxas.
-Let's call it a day.
+Certo, Roxas.
+Vamos encerrar por hoje.
 !------------------------------!
 Allez, c'est bon pour aujourd'hui.
 !------------------------------!
@@ -49,8 +49,8 @@ Dejémoslo para otro día.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Not too bad for your first time in the
-Coliseum.
+Nada mal para a sua primeira vez
+no Coliseu.
 !------------------------------!
 C'est pas mal pour une première
 fois.
@@ -68,8 +68,8 @@ tu primera vez en el Coliseo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Keep up this pace, and you'll do just
-fine, kid!
+Continue assim e você estará bem,
+filho!
 !------------------------------!
 Continue comme ça et tu deviendras
 un vrai héros en un rien de temps !
@@ -86,8 +86,8 @@ bien, chico!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Which is good, because we need all the
-help we can get...
+O que é bom, porque precisamos de
+toda ajuda possível...
 !------------------------------!
 Ce qui serait pas mal, parce qu'on a
 besoin de toute l'aide disponible...
@@ -113,9 +113,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Help with what?
-Why are you looking for new people to
-train here, anyway?
+Ajuda com o quê?
+Aliás, Por que está procurando por
+novas pessoas para treinar aqui?
 !------------------------------!
 De l'aide pour quoi ?
 Et pourquoi vous cherchez
@@ -137,8 +137,8 @@ que entrenar aquí?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I guess you could say we're
-understaffed.
+Acho que se pode dizer que estamos
+com falta de pessoal.
 !------------------------------!
 Eh bien, disons que nous sommes
 à court de main-d'œuvre.
@@ -159,8 +159,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So there aren't any strong people
-around here?
+Então não tem nenhuma pessoa forte
+por aqui?
 !------------------------------!
 Ça veut dire qu'il n'y a personne
 de costaud dans le coin ?
@@ -178,8 +178,8 @@ por aquí?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What are you, crazy!?
-We got ourselves a bona fide hero!
+Você tá maluco?!
+Nós temos um legítimo herói conosco!
 !------------------------------!
 Tu veux rire ou quoi ?
 On a un héros ici, pas un zéro !
@@ -198,9 +198,9 @@ un héroe de verdad!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The champ in these parts is my prize
-student. Maybe you've seen him in the
-Coliseum before?
+o campeão deste lugar é o meu
+aprendiz de ouro. Talvez você tenha
+o visto no Coliseu antes?
 !------------------------------!
 Un de mes autres poulains est le
 champion du coin. Peut-être que
@@ -225,7 +225,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What does he do here?
+O que ele faz aqui?
 !------------------------------!
 Et qu'est-ce qu'il fait exactement ?
 !------------------------------!
@@ -239,9 +239,9 @@ Che ci fa qui?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wait, are you sayin' you signed up for
-hero training without even knowing
-what the Games are!?
+Espera, tá dizendo que você se
+inscreveu pro treino de herói sem
+nem saber o que os Jogos são?!
 !------------------------------!
 Me dis pas que tu sais pas ce que
 sont les Jeux ?
@@ -262,9 +262,9 @@ sin saber nada de los juegos?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oy... Lemme break it down easy for ya,
-kid. There's a hero and a ginormous
-monster...
+Ai, ai... Deixa eu ver se consigo
+explicar sem problemas, filho. Há
+um herói e um monstro gigantesco...
 !------------------------------!
 OK... Je vais faire court.
 Ici, on met un héros et un énorme
@@ -313,8 +313,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-They fight, people come to watch, and
-that is what this whole place is for!
+Eles lutam, pessoas vêm assistir
+e é pra isso que o lugar serve!
 !------------------------------!
 Ensuite, ils se battent et les gens
 viennent assister au spectacle.
@@ -336,8 +336,8 @@ todo este sitio!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-At least until those Heartless started
-showin' up in droves.
+Pelo menos até aqueles Heartless
+começarem a aparecer em bandos.
 !------------------------------!
 Du moins, c'était comme ça avant
 que les Sans-cœur ne débarquent...
@@ -357,9 +357,9 @@ aparecer a espuertas.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-With back-to-back matches in the Games
-and taking out the Heartless, our
-champ's been workin' way too much.
+Com um monte de partidas nos Jogos
+e ter que lidar com os Heartless,
+o campeão tem trabalhado bastante.
 !------------------------------!
 Entre les combats qui s'enchaînent
 et la chasse aux Sans-cœur, notre
@@ -393,8 +393,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So the Games are like a tournament?
-Do I get to enter?
+Então os Jogos são como um torneio?
+E eu posso participar?
 !------------------------------!
 Les Jeux sont une sorte de tournoi,
 c'est ça ? Comment je peux faire
@@ -413,7 +413,7 @@ torneo? ¿Y puedo participar?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You? In the Games!?
+Você? Nos Jogos?!
 Ahh ha ha ha!
 !------------------------------!
 Toi ? Participer aux Jeux ?
@@ -435,7 +435,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's so funny about that?
+Qual é a graça?
 !------------------------------!
 Qu'est-ce qu'il y a de si drôle ?
 !------------------------------!
@@ -449,7 +449,7 @@ Che c'è di tanto divertente?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I got two words for you, kid.
+Duas palavra pra você, filho.
 !------------------------------!
 Je ne dirai que deux mots, petit :
 !------------------------------!
@@ -464,7 +464,7 @@ En dos palabras, chico.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Outta.
+Fora.
 !------------------------------!
 Hors
 !------------------------------!
@@ -478,7 +478,7 @@ No.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Your.
+Da sua.
 !------------------------------!
 De
 !------------------------------!
@@ -492,7 +492,7 @@ Es.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-League.
+Liga.
 !------------------------------!
 Question !
 !------------------------------!
@@ -506,9 +506,9 @@ Tu liga.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You got promise, I'll give you that.
-But you'll need a lot more training
-before you're ready for the big time.
+Você tem talento, é verdade.
+Mas vai precisar de muito treino
+ainda antes de ir pro grande show.
 !------------------------------!
 Mais j'avoue que t'es prometteur.
 Enfin, il faudra beaucoup t'entraîner

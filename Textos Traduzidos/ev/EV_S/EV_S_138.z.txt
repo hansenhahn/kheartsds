@@ -28,7 +28,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I need to ask you something.
+Preciso de perguntar uma coisa.
 !------------------------------!
 Je dois vous poser une question.
 !------------------------------!
@@ -42,7 +42,7 @@ Tengo que preguntarte una cosa.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And what would that be?
+E o que seria?
 !------------------------------!
 Laquelle ?
 !------------------------------!
@@ -56,8 +56,8 @@ Dimmi.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What happened to Xion?
-Can you tell me?
+O que aconteceu com a Xion?
+Pode me dizer?
 !------------------------------!
 Qu'est-il arrivé à Xion ?
 Pouvez-vous me le dire ?
@@ -75,9 +75,9 @@ Puoi dirmelo?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Put your mind at ease.
-Xion is a valued member of the
-Organization, but she needs her rest.
+Não precisa se preocupar.
+Xion é um membro valioso da Ordem,
+mas ela precisa descansar.
 !------------------------------!
 Xion est un membre important de
 l'Organisation, mais elle a besoin

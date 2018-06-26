@@ -42,7 +42,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, Roxas.
+E aí, Roxas.
 !------------------------------!
 Salut, Roxas.
 !------------------------------!
@@ -93,7 +93,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You find Xion?
+Encontrou Xion?
 !------------------------------!
 As-tu trouvé Xion ?
 !------------------------------!
@@ -110,7 +110,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Like it's gonna be that easy.
+Como se fosse fácil assim.
 !------------------------------!
 Comme si c'était facile !
 !------------------------------!
@@ -127,7 +127,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I know...
+Eu sei...
 !------------------------------!
 Je sais...
 !------------------------------!
@@ -158,8 +158,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Have you been keeping the truth about
-her from me this whole time?
+Você vem escondendo a verdade sobre
+ela de mim por todo este tempo?
 !------------------------------!
 Est-ce que tu m'as caché la vérité
 sur elle depuis tout ce temps ?
@@ -204,7 +204,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Not the whole time.
+Não todo este tempo.
 !------------------------------!
 Pas tout le temps.
 !------------------------------!
@@ -224,7 +224,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-When did you find out?
+Quando descobriu?
 !------------------------------!
 Quand l'as-tu su ?
 !------------------------------!
@@ -241,7 +241,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, I dunno.
+Ah, sei lá.
 Somewhere along the way.
 !------------------------------!
 Oh, je ne sais plus.
@@ -269,7 +269,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Didn't get it memorized, huh?
+Não guardou na memória, é?
 !------------------------------!
 Tu ne t'en souviens pas, hein ?
 !------------------------------!
@@ -284,7 +284,7 @@ Non l'hai memorizzato, eh?
 *.NULO.*
 !------------------------------!
 Axel...
-Who am I, really?
+Quem sou eu, de verdade?
 !------------------------------!
 Axel...
 Qui suis-je vraiment ?
@@ -325,8 +325,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'm special, like Xion.
-I know that.
+Sou especial, como a Xion.
+Eu sei disso.
 !------------------------------!
 Je suis spécial, comme Xion.
 Je le sais.
@@ -358,8 +358,7 @@ Eso ya lo sé.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But the Organization wanted me out of
-the picture.
+Mas a Ordem queria me deixar de fora.
 !------------------------------!
 Mais l'Organisation voulait
 se débarrasser de moi.
@@ -383,7 +382,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah... They did.
+É... Queriam.
 !------------------------------!
 Oui... c'est vrai.
 !------------------------------!
@@ -400,8 +399,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Is it because Xion copied my Keyblade
-and they didn't need me anymore?
+Por a Xion ter copiado minha Keyblade,
+eles não precisam mais de mim?
 !------------------------------!
 Est-ce parce que Xion avait reproduit
 ma Keyblade et qu'ils n'avaient donc
@@ -436,7 +435,7 @@ espada y no me necesitan más?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And you feel the same way.
+E você sente a mesma coisa.
 !------------------------------!
 Et c'est ce que tu penses aussi.
 !------------------------------!
@@ -453,8 +452,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No, you've got that part wrong.
-You'll always be my best friend.
+Não, nisso você entendeu errado.
+Você sempre será meu melhor amigo.
 !------------------------------!
 Non, tu te trompes.
 Tu seras toujours mon meilleur ami.
@@ -483,8 +482,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Best friends are honest with each
-other!
+Melhores amigos são sinceros um
+com o outro!
 !------------------------------!
 Les meilleurs amis sont honnêtes
 les uns envers les autres !
@@ -505,7 +504,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Who am I, Axel?
+Quem sou eu, Axel?
 !------------------------------!
 Qui suis-je, Axel ?
 !------------------------------!
@@ -525,8 +524,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Xemnas said me and Xion are connected
-to Sora. Who is that?
+Xemnas disse que eu e a Xion estamos
+conectados com Sora. Quem é esse?
 !------------------------------!
 Xemnas a dit que Xion et moi
 étions liés à Sora. Qui est-ce ?
@@ -550,7 +549,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Tell me!
+Me diz!
 !------------------------------!
 Dis-le-moi !
 !------------------------------!
@@ -567,7 +566,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Am I a puppet like Xion?
+Eu sou um fantochhe como a Xion?
 !------------------------------!
 Suis-je une marionnette comme Xion ?
 !------------------------------!
@@ -581,7 +580,7 @@ Sono un fantoccio come Xion?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No...
+Não...
 !------------------------------!
 Non...
 !------------------------------!
@@ -601,7 +600,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What, then?
+O que então?
 !------------------------------!
 Alors que suis-je ?
 !------------------------------!
@@ -624,8 +623,8 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You really think the truth is going to
-make you feel better? It won't.
+Acha mesmo que a verdade vai fazer
+você se sentir melhor? Não vai.
 !------------------------------!
 Tu crois vraiment que la vérité
 va t'apaiser ? Moi non.
@@ -656,8 +655,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What makes you so sure?
-I have a right to know who I am!
+O que te faz ter tanta certeza?
+Eu tenho o direito de saber quem
+eu sou!
 !------------------------------!
 Qu'est-ce qui te rend si sûr de ça ?
 J'ai le droit de savoir qui je suis !
@@ -677,7 +677,7 @@ a saber quién soy!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-How did I get here?
+Como cheguei aqui?
 !------------------------------!
 Comment suis-je arrivé ici ?
 !------------------------------!
@@ -691,7 +691,7 @@ Come sono arrivato qui?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why am I special?
+Por que sou especial?
 !------------------------------!
 Pourquoi suis-je spécial ?
 !------------------------------!
@@ -708,7 +708,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Where did I learn to use the Keyblade?
+Onde aprendi a usar a Keyblade?
 !------------------------------!
 Où ai-je appris à manier la Keyblade ?
 !------------------------------!
@@ -728,7 +728,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I deserve those answers!
+Eu mereço essas respostas!
 !------------------------------!
 J'ai le droit de savoir !
 !------------------------------!
@@ -761,7 +761,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Are you gonna tell me or not?
+Vai me contar ou não vai?
 !------------------------------!
 Tu vas me le dire oui ou non ?
 !------------------------------!
@@ -775,7 +775,7 @@ Vuoi dirmelo oppure no?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Axel... Who am I?
+Axel... Quem sou eu?
 !------------------------------!
 Axel... qui suis-je ?
 !------------------------------!
@@ -789,7 +789,7 @@ Axel... ¿quién soy?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You've just gotta trust me, Roxas.
+Tu precisa acreditar em mim, Roxas.
 !------------------------------!
 Tu dois me faire confiance, Roxas.
 !------------------------------!
@@ -836,7 +836,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I don't.
+Não.
 !------------------------------!
 Non.
 !------------------------------!
@@ -850,7 +850,7 @@ Pues no confío.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, c'mon...
+Ei, colé...
 !------------------------------!
 Allez, arrête...
 !------------------------------!
@@ -867,8 +867,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-If I can't get answers here, I'll get
-them somewhere else.
+se não posso ter as respostas aqui,
+vou tê-las em outro lugar.
 !------------------------------!
 Si tu ne veux pas me répondre,
 j'obtiendrai les réponses de
@@ -890,7 +890,7 @@ otra parte.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Somebody knows where I came from.
+Alguém sabe de onde eu vim
 !------------------------------!
 Quelqu'un qui sait d'où je viens.
 !------------------------------!
@@ -906,7 +906,7 @@ Alguien debe saber de dónde vengo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That'll be the person I trust.
+Essa será a pessoa em quem confio.
 !------------------------------!
 Et c'est en cette personne que
 j'aurai confiance.

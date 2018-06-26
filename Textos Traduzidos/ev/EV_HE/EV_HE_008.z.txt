@@ -19,8 +19,8 @@ mi/ch/41.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
- points...
-Not bad, kid! Not bad at all!
+ pontos...
+Nada mal, filho! Nada mal mesmo!
 !------------------------------!
  points...
 Pas mal, petit ! Pas mal du tout !
@@ -40,8 +40,8 @@ No está mal, chico. ¡Nada mal!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Next time, I want you to go for 200
-points.
+Na próxima, quero que tente
+200 pontos.
 !------------------------------!
 Vise les 200 points la prochaine
 fois !

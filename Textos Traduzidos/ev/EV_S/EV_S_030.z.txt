@@ -50,7 +50,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ele acordará disto?
+Ele acordará disso?
 !------------------------------!
 Se réveillera-t-il ?
 !------------------------------!
@@ -221,7 +221,7 @@ mi/mo/sa.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Então, o sono voltou a 
+Então o sono voltou a 
 apoderar-se de ti...
 !------------------------------!
 Ainsi le sommeil t'a rattrapé...

@@ -22,9 +22,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This garden belongs to the Queen.
-And it's private. No trespassing.
-Thank you.
+Este jardim pertence à Rainha.
+E é particular. É proibido
+ultrapassá-lo. Obrigado.
 !------------------------------!
 Ce sont les jardins privés de la Reine.
 Interdiction d'entrer, merci.

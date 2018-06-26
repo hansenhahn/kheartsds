@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E5><A4><A7><E4><BA><8B><E3><81><AA><E4><BC><9A><E8><AD><B0><E3><81><8C><E3><81><82><E3><82><8B>
+<E9><81><85><E3><82><8C><E3><82><8B><E3><81><AA><E3><82><88>
+!------------------------------!
+SAÏX
+A reunião de hoje é muito importante.
+Espero que todos cheguem na hora.
+!------------------------------!
+SAÏX
+La réunion d'aujourd'hui est d'une grande
+importance. Je ne tolérerai aucun retard.
+!------------------------------!
+SAÏX
+Heute findet eine wichtige
+Versammlung statt. Seid pünktlich.
+!------------------------------!
+SAÏX
+La riunione di oggi è molto importante.
+Mi aspetto che tutti siano puntuali.
+!------------------------------!
+SAÏX
+Hay una importante reunión.
+Espero que llegues a tiempo.
+!------------------------------!
+!******************************!

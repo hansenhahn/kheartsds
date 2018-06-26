@@ -28,8 +28,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I've been waitin' for ya, kid!
-Today's the big day, huh?
+Tive esperando por você, filho!
+Hoje é o grande dia, hein?
 !------------------------------!
 Je t'attendais, petit ! Alors, c'est le
 grand jour, hein ?
@@ -51,7 +51,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Big day?
+Grande dia?
 !------------------------------!
 Le grand jour ?
 !------------------------------!
@@ -65,8 +65,7 @@ Il grande giorno?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Don't worry. I already got you signed up
-for the Games.
+Relaxe. Já te inscrevi pros Jogos.
 !------------------------------!
 T'en fais pas. Je me suis déjà
 occupé de t'inscrire aux Jeux.
@@ -84,8 +83,8 @@ que te inscriban en los juegos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now you just gotta go in there and put
-all that training to use!
+Agora você só precisa entrar lá
+e mostrar todo o seu treinamento!
 !------------------------------!
 T'as plus qu'à mettre en pratique ce
 que je t'ai appris à l'entraînement !
@@ -108,7 +107,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But<E2><80><95> All right...
+Mas<E2><80><95> Tá bem...
 !------------------------------!
 Mais... Bon, d'accord.
 !------------------------------!
@@ -131,9 +130,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(They're holding the Games today?
- Then the only way I can search the
- Coliseum is by entering.)
+(Estão realizando os Jogos hoje?
+ Então o único jeito de verificar
+ o Coliseu é entrando nele.)
 !------------------------------!
 (Les Jeux ont lieu aujourd'hui ?
  Alors la seule façon d'entrer dans
@@ -155,9 +154,9 @@ Coliseo será participar).
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Snap out of it, kid!
-I need you sharp out there.
-Just tell me when you're ready.
+Dorme não, filho!
+Preciso de você firme e forte.
+Só falar comigo quando tiver pronto.
 !------------------------------!
 Allez, on se réveille, petit !
 Il faut que tu donnes le maximum.

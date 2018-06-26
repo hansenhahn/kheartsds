@@ -1,0 +1,206 @@
+&.[HDR].&
+*.000004000000911802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><B5><E3><82><93><E2><80><A6><E9><9D><A2><E5><80><92><E3><81><AA><E3><81><93><E3><81><A8><E3><81><AB>
+<E3><81><AA><E3><81><A3><E3><81><A6><E3><81><8D><E3><81><9F><E3><81><AA>
+!------------------------------!
+XALDIN
+Hmph... Things have taken a vexing turn of late.
+!------------------------------!
+XALDIN
+Pff... Les choses prennent une tournure ridicule.
+!------------------------------!
+XALDIN
+Hmpf ... Die Dinge entwickeln
+sich in letzter Zeit schlecht.
+!------------------------------!
+XALDIN
+Umpf... La situazione inizia
+a diventare insopportabile.
+!------------------------------!
+XALDIN
+Bah... Las cosas han tomado
+un cariz bastante irritante.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000911802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><80><81><E4><BF><BA><E3><81><AE><E4><BB><A3><E3><82><8F><E3><82><8A><E3><81><AB><E3><80><8C><E3><82><A2><E3><83><80><E3><83><9E><E3><83><B3><E3><82><BF><E3><82><A4><E3><83><88><E3><80><8D><E3><81><A8>
+<E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><EF><BC><8B><E3><80><8D><E3><82><92><E5><90><88><E6><88><90><E3><81><97><E3><81><A6><E3><81><8D><E3><81><A6><E3><82><82><E3><82><89><E3><81><8A><E3><81><86><E3><81><8B>
+!------------------------------!
+XALDIN
+Roxas, I wish to know what one might synthesize by
+combining Adamantite and a Combo Tech+.
+!------------------------------!
+XALDIN
+Roxas, tu dois fusionner une adamantine et une
+tech. combo+.
+!------------------------------!
+XALDIN
+Roxas, was passiert, wenn man Adamantit
+und eine Kombo-Tech+ zusammenschmiedet?
+!------------------------------!
+XALDIN
+Roxas, vorrei sapere cosa si ottiene
+combinando l'Adamantite con una
+Tecnica combo+.
+!------------------------------!
+XALDIN
+Roxas, quiero que fusiones
+adamantita y tec. de combo +.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><82><A2><E3><83><80><E3><83><9E><E3><83><B3><E3><82><BF><E3><82><A4><E3><83><88><E3><80><8D><E3><81><AF><E3><81><8F><E3><82><8C><E3><81><A6><E3><82><84><E3><82><8B><E3><81><8C>
+<E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><EF><BC><8B><E3><80><8D><E3><81><AF><E3><81><8A><E3><81><BE><E3><81><88><E3><81><8C><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><82><8D>
+!------------------------------!
+I'll supply the Adamantite.
+You find the Combo Tech+ on your own.
+!------------------------------!
+Je vais te donner l'adamantine, mais tu devras
+trouver la tech. combo+ tout seul.
+!------------------------------!
+Ich sorge für das Adamantit
+und du suchst nach der Kombo-Tech+.
+!------------------------------!
+Io ti fornirò l'adamantite,
+ma spetterà a te trovare
+la Tecnica combo+.
+!------------------------------!
+Yo te daré la adamantita, pero
+la tecnología debes buscarla 
+por ti mismo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E5><90><88><E6><88><90><E3><81><8C><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E3><80><81><E4><BF><BA><E3><81><AE><E3><81><A8><E3><81><93><E3><82><8D><E3><81><BE><E3><81><A7><E6><8C><81><E3><81><A3><E3><81><A6><E3><81><8F><E3><82><8B><E3><82><93><E3><81><A0>
+!------------------------------!
+Fetch the result here when you're done.
+!------------------------------!
+Apporte-moi le résultat quand ce sera fait.
+!------------------------------!
+Bring das Ergebnis her, wenn du
+fertig bist.
+!------------------------------!
+Poi portami il
+risultato finale.
+!------------------------------!
+Luego tráeme el resultado.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><A2><E3><83><80><E3><83><9E><E3><83><B3><E3><82><BF><E3><82><A4><E3><83><88><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Adamantite
+!------------------------------!
+Adamantine obtenue !
+!------------------------------!
+Erhalten: Adamantit
+!------------------------------!
+Ottieni: Adamantite
+!------------------------------!
+Obtenida: adamantita.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000901801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E5><90><88><E6><88><90><E3><81><8C><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+!------------------------------!
+XALDIN
+You've finished.
+!------------------------------!
+XALDIN
+C'est fait.
+!------------------------------!
+XALDIN
+Du bist fertig.
+!------------------------------!
+XALDIN
+Hai finito.
+!------------------------------!
+XALDIN
+Has terminado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><BB><E3><81><86><E3><81><B3><E3><81><A0><E3><80><81><E5><8F><97><E3><81><91><E5><8F><96><E3><82><8C>
+!------------------------------!
+This is your reward. Take it.
+!------------------------------!
+Voici ta récompense.
+!------------------------------!
+Hier ist deine Belohnung.
+Nimm sie.
+!------------------------------!
+Ecco la tua ricompensa.
+Tieni.
+!------------------------------!
+Esta es tu recompensa.
+Tómala.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><83><A9><E3><83><83><E3><82><AF><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Luck Tech
+!------------------------------!
+Tech. chance obtenue !
+!------------------------------!
+Erhalten: Glücks-Tech
+!------------------------------!
+Ottieni: Tecnica fortuna
+!------------------------------!
+Obtenida: tecnología de suerte.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><80><8C><E3><82><A2><E3><83><80><E3><83><9E><E3><83><B3><E3><82><BF><E3><82><A4><E3><83><88><E3><80><8D><E3><81><A8><E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><EF><BC><8B><E3><80><8D><E3><81><AE>
+<E5><90><88><E6><88><90><E3><81><AF><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+XALDIN
+You still haven't combined the Adamantite and
+Combo Tech+ via synthesis?
+!------------------------------!
+XALDIN
+Tu n'as toujours pas fusionné une
+adamantine et une tech. combo+ ?
+!------------------------------!
+XALDIN
+Hast du das Adamantit und die Kombo-
+Tech+ noch nicht
+zusammengeschmiedet?
+!------------------------------!
+XALDIN
+Non hai ancora combinato la
+Tecnica combo+ e l'Adamantite?
+!------------------------------!
+XALDIN
+¿Aún no has fusionado la
+adamantita y la tec. de combo +?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E3><80><81><E4><BF><BA><E3><81><AE><E3><81><A8><E3><81><93><E3><82><8D><E3><81><BE><E3><81><A7><E6><8C><81><E3><81><A3><E3><81><A6><E3><81><93><E3><81><84>
+!------------------------------!
+Come see me when you have.
+!------------------------------!
+Viens me voir quand ce sera fait.
+!------------------------------!
+Komm her, wenn du fertig bist.
+!------------------------------!
+Torna da me, quando
+ci sarai riuscito.
+!------------------------------!
+Ven a verme cuando lo
+hayas hecho.
+!------------------------------!
+!******************************!

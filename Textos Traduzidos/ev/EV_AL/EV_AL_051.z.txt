@@ -34,7 +34,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This is the place.
+Este é o lugar.
 !------------------------------!
 C'est ici.
 !------------------------------!
@@ -54,7 +54,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wonder what this thing even does...
+Pra que será que isto serve...?
 !------------------------------!
 Je me demande à quoi sert cette
 chose...
@@ -90,7 +90,7 @@ Light01
 *.NULO.*
 !------------------------------!
 Heartless!
-They must be after the device.
+Eles devem estar atrás do aparelho.
 !------------------------------!
 Des Sans-cœur !
 Ils doivent vouloir s'emparer

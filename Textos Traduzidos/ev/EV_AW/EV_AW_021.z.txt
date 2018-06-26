@@ -28,7 +28,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's head back, Roxas.
+Vamos voltar, Roxas.
 !------------------------------!
 Faisons demi-tour, Roxas.
 !------------------------------!
@@ -54,9 +54,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah... But wait. If we just took out the
-trio those card soldiers are searching
-for, what will they<E2><80><95>
+Sim... Mas espera. Se acabamos com os
+três que aqueles soldados-cartas estavam
+procurando, o que eles irão<E2><80><95>
 !------------------------------!
 Oui... mais attends. Si on a bien neutra-
 lisé les trois suspects recherchés par
@@ -78,8 +78,8 @@ esos naipes, ¿qué...?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You STILL haven't found them!?
-Someone's head will roll for this!
+Vocês AINDA não os encontraram?!
+A cabeça de alguém vai rolar por isso!
 !------------------------------!
 Vous ne les avez toujours pas
 trouvés ? Ne jouez pas avec ma
@@ -127,8 +127,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All the searching in the world won't help
-them now.
+Toda a procura no mundo não irá
+ajudá-los agora.
 !------------------------------!
 Ils auront beau chercher, ils ne
 risquent pas de trouver qui que
@@ -159,7 +159,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So it was the Heartless, then.
+Então era o Heartless no final.
 !------------------------------!
 Il s'agissait bien des Sans-cœur alors.
 !------------------------------!
@@ -177,7 +177,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I think our luck beat theirs today.
+Acho que tivemos mais sort que eles hoje.
 !------------------------------!
 Il faut croire que la chance était de
 notre côté aujourd'hui.
@@ -198,8 +198,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-In the end, your curiosity paved us a
-shortcut.
+No final, sua curiosidade abriu um
+atralho para nós.
 !------------------------------!
 Finalement, la curiosité nous a même
 permis d'aller plus vite.
@@ -220,8 +220,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The key to carving a path through life,
-huh?
+A chave para trilhar um caminho
+pela vida, é?
 !------------------------------!
 L'essentiel pour se frayer un chemin
 dans la vie, c'est ça ?
@@ -241,7 +241,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And all the way to the grave.
+E para chegar ao túmulo.
 !------------------------------!
 Et vers la fin de celle-ci, oui.
 !------------------------------!
@@ -259,7 +259,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Cheery thought...
+Demais...
 !------------------------------!
 Super...
 !------------------------------!
@@ -282,7 +282,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now, for one last shortcut.
+E agora, um último atalho.
 !------------------------------!
 Allez, voici le dernier raccourci.
 !------------------------------!

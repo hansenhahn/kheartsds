@@ -1,0 +1,24 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Estou vendo o alvo, mas...
+cadê os dardos?
+!------------------------------!
+ROXAS
+Il y a une cible ici, mais...
+où sont les fléchettes ?
+!------------------------------!
+ROXAS
+Ich sehe die Dartscheibe ...
+Aber wo sind die Darts?
+!------------------------------!
+ROXAS
+Vedo il bersaglio, ma...
+dove sono le freccette?
+!------------------------------!
+ROXAS
+Veo la diana, pero...
+¿Dónde están los dardos?
+!------------------------------!
+!******************************!

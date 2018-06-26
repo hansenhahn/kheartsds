@@ -37,8 +37,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wuh-oh. Looks like conversation hour's
-over. Time to tidy up, Roxas.
+O-ou. Parece que a hora de conversar
+acabou. Mãos à obra, Roxas.
 !------------------------------!
 Cette conversation a assez duré.
 Mettons-nous au travail, Roxas.

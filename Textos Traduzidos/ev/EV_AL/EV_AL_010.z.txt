@@ -22,8 +22,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Another sandstorm?
-Are you sure, Aladdin?
+Outra tempestade de areia?
+Tem certeza, Aladim?
 !------------------------------!
 Une autre tempête de sable ?
 Tu en es sûr, Aladdin ?
@@ -59,8 +59,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Unfortunately, yes. All the merchants
-were talking about it.
+Infelizmente, sim. 
+Todos os comerciantes 
+estão falando disso.
 !------------------------------!
 Oui, malheureusement. Tous les
 marchands en parlent.
@@ -81,7 +82,7 @@ hablan de ella.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This is terrible...
+Isso é terrível...
 !------------------------------!
 C'est affreux...
 !------------------------------!
@@ -95,8 +96,8 @@ Esto es terrible...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And that's only one of the things that's
-got me worried.
+E isso não é a única
+coisa que me preocupa.
 !------------------------------!
 Et ce n'est pas la seule chose qui
 m'inquiète.
@@ -115,7 +116,7 @@ que me preocupan.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why? What else is wrong?
+Por quê? Há mais algo de errado?
 !------------------------------!
 Ah bon ? Quoi d'autre ?
 !------------------------------!
@@ -130,8 +131,8 @@ che non va?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The Heartless<E2><80><95>they've been showing
-up all over Agrabah.
+Os Heartless... 
+Eles estão aparecendo por toda a Ágraba.
 !------------------------------!
 Il y a énormément de Sans-cœur
 à Agrabah en ce moment.
@@ -149,7 +150,7 @@ sincorazón en Agrabah.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heartless!?
+Heartless?!
 !------------------------------!
 Des Sans-cœur ?
 !------------------------------!
@@ -163,8 +164,8 @@ Heartless?!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah. They always appear right before
-a sandstorm hits.
+É. Eles sempre aparecem bem antes das 
+tempestades de areia acontecerem.
 !------------------------------!
 Oui. Ils apparaissent toujours
 juste avant qu'une tempête de
@@ -184,8 +185,8 @@ caiga la tormenta.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I thought it was just a coincidence
-during the last storm, but...
+Eu pensei que era apenas coincidência
+durante a última tempestade, mas...
 !------------------------------!
 Je pensais que ce n'était qu'une
 coïncidence pendant la dernière
@@ -206,8 +207,8 @@ pero...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh no... I hope this isn't a sign of
-things to come.
+Ah, não... Espero que não seja um
+sinal de que algo que está por vir.
 !------------------------------!
 Oh, il ne manquait plus que ça !
 J'espère que ce n'est pas un

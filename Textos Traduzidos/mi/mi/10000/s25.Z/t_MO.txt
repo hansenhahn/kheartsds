@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><8B><E3><82><89><E3><81><B2><E3><81><A8><E3><82><8A><E3><81><A7><E4><BB><BB><E5><8B><99><E3><82><AF><E3><83><9D><EF><BC><9F>
+<E2><80><A6><E3><81><8C><E3><82><93><E3><81><B0><E3><82><8C><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+Trabalhando sozinho agora, kupo?
+Boa sorte, kupo.
+!------------------------------!
+MOG
+T'es de nouveau en solo, kupo ?
+Quel courage, kupo.
+!------------------------------!
+MOGRY
+Wieder solo unterwegs, kupo?
+Ich grüße dich, kupo.
+!------------------------------!
+MOGURI
+Sei tornato a lavorare da solo, kupò?
+Buona fortuna, kupò.
+!------------------------------!
+MOGURI
+¿Solo otra vez, kupó?
+Te saludo, kupó.
+!------------------------------!
+!******************************!

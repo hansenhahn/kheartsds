@@ -1,0 +1,303 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Não se trata de ficar comendo moscas.
+Analise o que você vê.
+!------------------------------!
+VEXEN
+Le but ce n'est pas de se promener.
+Analyse ce que tu vois.
+!------------------------------!
+VEXEN
+Es geht nicht darum nur rumzugaffen.
+Analysiere das, was du siehst.
+!------------------------------!
+VEXEN
+Non dobbiamo girare come due
+sciocchi. Analizza ciò che vedi.
+!------------------------------!
+VEXEN
+No se trata de ir papando
+moscas. Analiza lo que ves.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Humm...
+!------------------------------!
+ROXAS
+Euh...
+!------------------------------!
+ROXAS
+Äh ...
+!------------------------------!
+ROXAS
+Uhm...
+!------------------------------!
+ROXAS
+Umm...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Tem um monte de lojas.
+!------------------------------!
+Il y a beaucoup de boutiques.
+!------------------------------!
+Es gibt viele Läden.
+!------------------------------!
+Ci sono molti negozi.
+!------------------------------!
+Que hay muchas tiendas.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+É uma cidade grande.
+!------------------------------!
+C'est une grande ville.
+!------------------------------!
+Es ist eine große Stadt.
+!------------------------------!
+È una grande città.
+!------------------------------!
+Que es una gran ciudad.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Bem, tem um monte de lojas.
+!------------------------------!
+ROXAS
+Ben, il y a beaucoup de boutiques.
+!------------------------------!
+ROXAS
+Also, es gibt viele Läden.
+!------------------------------!
+ROXAS
+Beh, ci sono molti negozi.
+!------------------------------!
+ROXAS
+Bueno, hay muchas tiendas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+E?
+!------------------------------!
+VEXEN
+Et ?
+!------------------------------!
+VEXEN
+Und?
+!------------------------------!
+VEXEN
+E...?
+!------------------------------!
+VEXEN
+¿Y?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+É uma cidade bem grande.
+!------------------------------!
+ROXAS
+C'est une grande ville.
+!------------------------------!
+ROXAS
+Die Stadt ist ziemlich groß.
+!------------------------------!
+ROXAS
+È una città molto grande.
+!------------------------------!
+ROXAS
+Es una ciudad muy grande.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Isso é tudo?
+!------------------------------!
+VEXEN
+C'est tout ?
+!------------------------------!
+VEXEN
+Ist das alles?
+!------------------------------!
+VEXEN
+Tutto qui?
+!------------------------------!
+VEXEN
+¿Eso es todo?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Você já deveria ter percebido
+isso quando havia chegado aqui. 
+!------------------------------!
+Tu aurais dû remarquer ça dès notre arrivée.
+!------------------------------!
+Das hättest du sofort bemerken sollen.
+!------------------------------!
+Avresti dovuto capirlo un secondo
+dopo essere arrivato qui.
+!------------------------------!
+Deberías habértelo imaginado
+cuando llegaste.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+!------------------------------!
+ROXAS
+!------------------------------!
+ROXAS
+!------------------------------!
+ROXAS
+!------------------------------!
+ROXAS
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Este seria o centro da cidade.
+!------------------------------!
+C'est peut-être le centre-ville.
+!------------------------------!
+Das könnte das Stadtzentrum sein.
+!------------------------------!
+Potrebbe essere il centro della città.
+!------------------------------!
+Será el centro de la ciudad.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+O comércio parece estar bombando.
+!------------------------------!
+Les affaires ont l'air de prospérer.
+!------------------------------!
+Die Läden scheinen gut zu laufen.
+!------------------------------!
+Gli affari vanno a gonfie vele.
+!------------------------------!
+Parece que el comercio va bien.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Este seria o centro da cidade?
+!------------------------------!
+ROXAS
+C'est peut-être le centre-ville ?
+!------------------------------!
+ROXAS
+Das könnte das Stadtzentrum sein?
+!------------------------------!
+ROXAS
+Che sia il centro della città?
+!------------------------------!
+ROXAS
+Esto podría ser el
+centro de la ciudad...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Seria?
+Está perguntando ou afirmando?
+!------------------------------!
+VEXEN
+Peut-être ?
+C'est une question ou une affirmation ?
+!------------------------------!
+VEXEN
+Könnte?
+Sagst du das oder fragst du das?
+!------------------------------!
+VEXEN
+È una domanda o
+un'affermazione?
+!------------------------------!
+VEXEN
+¿Podría?
+¿Lo preguntas o lo aseguras?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+O comércio parece estar bombando?
+!------------------------------!
+ROXAS
+Les affaires ont l'air de prospérer, non ?
+!------------------------------!
+ROXAS
+Die Läden scheinen gut zu laufen?
+!------------------------------!
+ROXAS
+Gli affari vanno a gonfie vele?
+!------------------------------!
+ROXAS
+¿Parece que los negocios van
+viento en popa?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Que, só por que viu algumas lojas?
+!------------------------------!
+VEXEN
+Tu dis ça parce que tu as vu quelques
+boutiques ?
+!------------------------------!
+VEXEN
+Was? Weil du ein paar Läden
+gesehen hast?
+!------------------------------!
+VEXEN
+Solo perché hai visto
+un paio di negozi?
+!------------------------------!
+VEXEN
+¿Por qué? ¿Porque has visto
+un par de tiendas?
+!------------------------------!
+!******************************!

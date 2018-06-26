@@ -1,0 +1,5 @@
+chara
+t_DE
+t_LXI
+t_XA
+t_XO

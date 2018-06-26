@@ -34,8 +34,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Bravo! Bravo! It appears you've
-found what you were looking for.
+Bravo! Bravo! Parece que você
+encontrou o que estava procurando.
 !------------------------------!
 Bravo ! Bravo !
 Vous avez trouvé ce que vous
@@ -68,8 +68,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Of course, there's still one more to
-find.
+Claro, há falta ainda mais um.
 !------------------------------!
 Mais c'est le dernier qui est
 toujours le plus dur à trouver.
@@ -86,8 +85,8 @@ a uno más.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hmm... I wonder if you wonder where it
-could be...
+Hmm... Imagino se você imagina
+onde poderia estar...
 !------------------------------!
 Hmm, je me demande si vous vous
 demandez si vous allez le trouver...
@@ -108,9 +107,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We'd find it easy enough if you told us
-where to look, but I'm not holding my
-breath.
+Acharíamos sem problemas se você nos
+contasse onde procurar, mas não vou
+por minha mão no fogo por isso.
 !------------------------------!
 On le trouverait si vous nous disiez
 clairement où chercher, mais je n'y
@@ -132,9 +131,9 @@ no pongo la mano en el fuego.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, but you must!
-That would be loads of fun! But then,
-you'd have to be mad...
+Ah, mas deveria!
+Isso seria engraçado demais!
+Mas aí você precisaria ser louco...
 !------------------------------!
 Quelle sagesse !
 Mais il faudrait être fou...
@@ -155,8 +154,9 @@ y una locura a la vez.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Mad enough to hide within a birdcage,
-perhaps? Or mad...like...me...
+Louco o bastante para se esconder
+dentro de uma gaiola talvez?
+Ou louco... como... eu...
 !------------------------------!
 Assez fou pour se cacher dans une
 cage à oiseau. Ou fou comme... moi.
@@ -179,7 +179,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That was helpful...
+Que ajuda...
 !------------------------------!
 Ça ne nous aide pas beaucoup...
 !------------------------------!

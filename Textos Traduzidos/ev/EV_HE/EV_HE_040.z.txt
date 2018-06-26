@@ -61,7 +61,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Mission complete.
+Missão completa.
 !------------------------------!
 Mission accomplie.
 !------------------------------!
@@ -84,8 +84,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Not bad!
-Our little Roxas is growing up so fast.
+Nada mal!
+Nosso pequeno Roxas está
+se tornando um homem
 !------------------------------!
 Pas mal !
 Notre petit Roxas grandit à vue d'œil.
@@ -108,7 +109,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Are you making fun of me?
+Está tirando sarro da minha cara?
 !------------------------------!
 Tu te moques de moi ?
 !------------------------------!
@@ -125,8 +126,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-As if!
-That was a compliment.
+Até parece!
+Isso foi um elogio.
 !------------------------------!
 Mais non ! C'était un compliment.
 !------------------------------!
@@ -173,7 +174,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'll see you back home.
+Até já.
 !------------------------------!
 Allez, on se voit au bercail.
 !------------------------------!
@@ -211,7 +212,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nice work out there, man!
+Mandou ver lá, hein, cara!
 !------------------------------!
 Bien joué, mec !
 !------------------------------!
@@ -237,8 +238,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Demyx! You were here?
-Why didn't you come and help?
+Demyx! Você estava aqui?
+Por que não veio me ajudar?
 !------------------------------!
 Demyx ? Tu étais là ?
 Pourquoi tu ne nous as pas aidés ?
@@ -260,9 +261,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I was, uh...cheering you on!
-Couldn't you hear me? Gimme an <E2><80><9C>R<E2><80><9D>!
-Gimme an<E2><80><95>
+Eu tava, uh... torcendo por você!
+Não escutou? Me dê um <E2><80><9C>R<E2><80><9D>!
+Me dê um<E2><80><95>
 !------------------------------!
 Je, euh... je vous encourageais !
 Tu m'entendais pas ?
@@ -287,8 +288,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Are you blind!?
-That wasn't part of the Games!
+Você é cego?!
+Isso não fazia parte dos Jogos!
 !------------------------------!
 Mais tu es aveugle ou quoi ?
 Ça n'avait rien à voir avec
@@ -312,8 +313,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Right!? And what a shocker to find out
-Xigbar was the other finalist!
+É?! E que supresa descobrir que
+o Xigbar era o outro finalista!
 !------------------------------!
 Ah oui ! Quel choc quand j'ai vu
 que Xigbar était l'autre finaliste !
@@ -336,7 +337,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah...
+É...
 !------------------------------!
 C'est ça...
 !------------------------------!
@@ -353,8 +354,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's up with that... I can't imagine he
-was here on a mission.
+Muito estranho...
+Não imaginava que ele tava numa missão.
 !------------------------------!
 Je me demande pourquoi...
 J'ai du mal à croire qu'il
@@ -379,8 +380,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You never can tell what that guy is
-thinking...
+Nunca se sabe o que aquele cara
+tá pensando...
 !------------------------------!
 On ne sait jamais ce qu'il pense
 celui-là...
@@ -407,8 +408,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Maybe he just wanted an excuse to fight
-me... To test me.
+Talvez ele queria uma desculpa pra
+lutar comigo... Para me testar.
 !------------------------------!
 Peut-être qu'il cherchait un
 prétexte pour m'affronter...
@@ -433,7 +434,7 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No way, man!
+Não pode ser, cara!
 !------------------------------!
 Laisse tomber, va !
 !------------------------------!
@@ -459,7 +460,7 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I wouldn't read into it too deep.
+Eu não diria isso.
 !------------------------------!
 Pas la peine de te prendre la
 tête avec ça.
@@ -482,8 +483,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Besides, the mission's over, right?
-All's well that ends well, man!
+Além do que, a missão acabou, né?
+Tudo está bem quando termina bem,
+cara!
 !------------------------------!
 Et puis la mission est accomplie,
 pas vrai ? Tout est bien qui finit
@@ -508,7 +510,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I...guess so, but...
+Eu... acho que sim, mas...
 !------------------------------!
 Je crois, mais...
 
@@ -526,8 +528,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Anyway, I'm beat!
-Let's call it a day.
+Bom, eu tô morto!
+Já basta por hoje.
 !------------------------------!
 Allez, je suis crevé !
 Rentrons.
@@ -581,9 +583,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hurry, Herc!
-Ya gotta take out the Heartless that
-crashed the... Huh?
+Rápido, Herc!
+Cê tem que dar um jeito no
+Heartless que destruiu... Hã?
 !------------------------------!
 Vite, Herc !
 Tu dois stopper le Sans-cœur qui
@@ -614,7 +616,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Uh...what Heartless, Phil?
+Uh... que Heartless, Fil?
 !------------------------------!
 Euh... quel Sans-cœur, Phil ?
 !------------------------------!
@@ -637,7 +639,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Where'd it go?
+Aonde ele foi?
 !------------------------------!
 C'est bizarre...
 !------------------------------!
@@ -660,7 +662,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And where's Roxas?
+E cadê o Roxas?
 !------------------------------!
 Et où est Roxas ?
 !------------------------------!
@@ -683,7 +685,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Roxas? Who's that?
+Roxas? Quem é?
 !------------------------------!
 Roxas ? Qui est-ce ?
 !------------------------------!
@@ -706,8 +708,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The new trainee you scouted!
-I been talkin' about him for days now.
+O novo aprendiz que você achou!
+Eu venho te falando dele por dias.
 !------------------------------!
 Le nouveau que tu m'as dégoté !
 Ça fait des jours que je parle
@@ -729,8 +731,8 @@ de él desde hace días.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Good learner, shows a lot of promise?
-Ring any bells?
+Aprende rápido, tem grande talento...
+Te diz algo?
 !------------------------------!
 Bon élève, très prometteur...
 Ça ne te dit rien ?
@@ -749,8 +751,8 @@ Aprende rápido, prometedor...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah, I remember what you said, but the
-guy I scouted wasn't named Roxas.
+Sim, eu lembro disso, mas quem eu
+tinha achado não se chamava Roxas.
 !------------------------------!
 Oui, je me souviens de ce que tu
 as dit, mais celui à qui j'ai parlé
@@ -781,7 +783,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh?
+Hein?
 !------------------------------!
 Ah bon ?
 !------------------------------!
@@ -813,8 +815,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And he said it would take him a while to
-get here. He's probably still on his way.
+E ele disse que ia demorar para chegar
+aqui. Ele ainda deve estar vindo.
 !------------------------------!
 Et il a dit qu'il lui faudrait du temps
 pour venir ici. Il ne devrait même pas
@@ -854,7 +856,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What? But...then...
+Quê? Mas... então...
 !------------------------------!
 Mais...
 Mais alors...
@@ -869,7 +871,7 @@ Che cosa? Ma allora...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Who was...
+Quem era...
 !------------------------------!
 Qui était-ce ?
 !------------------------------!
@@ -883,7 +885,7 @@ Chi era...?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Who have I been training!?
+Quem eu estava treinando?!
 !------------------------------!
 Qui ai-je entraîné ?
 !------------------------------!

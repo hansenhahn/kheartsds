@@ -77,7 +77,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-......
+...
 !------------------------------!
 ...
 !------------------------------!
@@ -145,7 +145,7 @@ mi/mo/de.p2
 *.NULO.*
 !------------------------------!
 É, sem a <E2><80><9C>equipe dos sonhos<E2><80><9D> que
-foram mandados ao Castelo Oblívio.
+foi mandada ao Castelo Oblívio.
 Sonho pra mim, por terem ido!
 !------------------------------!
 Ouais, l'équipe de gros bras envoyée
@@ -223,7 +223,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Boneca? Quem é?
+Boneca? Quem?
 !------------------------------!
 La poulette ? C'est qui ça ?
 !------------------------------!

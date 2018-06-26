@@ -40,8 +40,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, I'm so late....
-I'm so very, very late!
+Ai, é tarde....
+É tarde, muito, muito tarde!
 !------------------------------!
 Oh, je suis en retard,
 en retard !
@@ -92,7 +92,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Did he...shrink?
+Ele... encolheu?
 !------------------------------!
 Il a... rétréci ?
 !------------------------------!
@@ -106,7 +106,7 @@ Si è... rimpicciolito?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-He drank from the bottle, you see.
+Ele bebeu da garrafa, veja.
 !------------------------------!
 Il a bu le contenu de la
 bouteille.
@@ -134,7 +134,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh!? Who<E2><80><95>
+Hã?! Quem<E2><80><95>
 !------------------------------!
 Hein ? Qui a parlé...
 !------------------------------!
@@ -148,7 +148,7 @@ Uh?! Chi...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Down here.
+Aqui embaixo.
 !------------------------------!
 Wouhou, en bas !
 !------------------------------!
@@ -174,7 +174,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-A...talking doorknob?
+Uma... maçaneta falante?
 !------------------------------!
 Une poignée de porte... qui parle ?
 !------------------------------!
@@ -188,8 +188,8 @@ Una... serratura parlante?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Of course... And a rather sleepy
-doorknob at that.
+Claro... E com muito sono,
+se quer saber.
 !------------------------------!
 Oui, et une poignée de porte
 fatiguée si tu veux tout savoir...
@@ -207,8 +207,8 @@ despertado con tu cháchara.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now, if you'll excuse me, I'll be going
-back to my nap.
+Agora, se me dá licença, vou
+voltar para a minha soneca.
 !------------------------------!
 Alors si ça ne te dérange pas,
 je vais me rendormir.
@@ -226,8 +226,8 @@ vuelvo a mi siestecita.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wait, you said he drank from a bottle.
-What bottle?
+Espera, você disse que ele bebeu
+de uma garrafa. Que garrafa?
 !------------------------------!
 Mais quelle bouteille ?
 Vous avez dit qu'il avait bu
@@ -247,8 +247,8 @@ de una botella. ¿Qué botella?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The one on the table.
-Why don't you try?
+A que está na mesa.
+Por que não tenta?
 !------------------------------!
 Celle sur la table.
 Là !
@@ -273,7 +273,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You mean those?
+Fala dessas?
 !------------------------------!
 Celles-ci ?
 !------------------------------!
@@ -287,9 +287,9 @@ Una di quelle?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Presumably...
-Now, I really would like to be getting
-back to my nap...
+Obviamente...
+Agora eu realmente quero voltar
+para o meu chocilo...
 !------------------------------!
 C'est exact.
 Sur ce, je vais continuer ma sieste.
@@ -352,9 +352,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The one with the blue label has a
-picture of a big tree shrinking...
-Here goes nothing.
+A com a etiqueta azul tem uma
+imagem de uma grande árvore se
+encolhendo... Aqui vamos nós.
 !------------------------------!
 Sur celle avec l'étiquette bleue,
 on voit un grand arbre rétrécir...

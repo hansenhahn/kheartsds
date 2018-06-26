@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><B7><E3><83><BC><E3><81><A1><E3><82><83><E3><82><93><E3><81><AE><E3><81><93><E3><81><A8><E3><81><8C><E6><B0><97><E3><81><AB><E3><81><AA><E3><82><8B><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><AA>
+<E3><81><BE><E3><81><82><E3><80><81><E3><81><9D><E3><81><AE><E3><81><86><E3><81><A1><E7><9B><AE><E3><82><92><E8><A6><9A><E3><81><BE><E3><81><99>
+!------------------------------!
+XIGBAR
+O que, ainda está preocupado com a Boneca?
+Ela irá acordar quando tiver que acordar.
+!------------------------------!
+XIGBAR
+Moi m'en faire pour la poulette ? Mais non.
+Elle se réveillera quand ce sera le moment.
+!------------------------------!
+XIGBAR
+Machst du dir immer noch Sorgen um Schätzchen?
+Sie wacht auf, wenn sie aufwacht.
+!------------------------------!
+XIGBAR
+Ancora preoccupato per il tesoruccio?
+Prima o poi si sveglierà.
+!------------------------------!
+XIGBAR
+¿Preocuparme por Encanto?
+No. Despertará cuando le toque.
+!------------------------------!
+!******************************!

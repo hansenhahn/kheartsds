@@ -25,8 +25,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nice work.
-That's a good run for one day.
+Bom trabalho.
+Isso é o bastante pra um dia só.
 !------------------------------!
 Beau travail.
 C'est tout pour aujourd'hui.
@@ -44,8 +44,8 @@ Ha sido un buen tute por un día.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I gotta tell ya, kid.
-I'm impressed.
+Tenho que dizer, filho.
+Estou impressionado.
 !------------------------------!
 Tu sais quoi, petit ?
 Tu m'impressionnes.
@@ -63,8 +63,8 @@ Estoy impresionado.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I think you're ready for the big time.
-So, I'm clearing ya to enter the Games!
+Acho que cê já tá pronto para algo maior.
+Então, vou deixar que entre nos Jogos!
 !------------------------------!
 À mon avis, tu peux passer aux choses
 sérieuses. Je t'autorise à participer
@@ -95,7 +95,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You are!?
+Sério?!
 !------------------------------!
 C'est vrai ?
 !------------------------------!
@@ -115,8 +115,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yup. You can try for the Rookie Cup,
-anyway.
+Aham. Pode tentar a Copa dos Novatos
+pra começar.
 !------------------------------!
 Oui, enfin... à la Coupe novice déjà
 pour commencer.
@@ -134,8 +134,9 @@ Novatos, al menos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I figure, you may not place, but at least
-you'll put up a decent show.
+Você pode não ficar no pódio, mas
+pelo menos acho que dará um belo
+show.
 !------------------------------!
 Tu ne seras peut-être pas le
 vainqueur, mais je pense que
@@ -157,8 +158,8 @@ espectáculo decente.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-In the meantime, we'll keep you up to
-your elbows in training<E2><80><95>so stay sharp!
+Enquanti isso, vamos te cobrir de
+treinos<E2><80><95>então sem moleza!
 !------------------------------!
 En attendant, on va poursuivre
 l'entraînement pour que tu ne
@@ -183,8 +184,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Speaking of which, who was that you
-were training before me?
+Falando nisso, quem era que você
+estava treinando antes de mim?
 !------------------------------!
 Au fait, c'était qui celui que
 vous entraîniez avant moi ?
@@ -209,8 +210,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, Herc? He's another student of mine.
-Been at it a long time now.
+Ah, Herc? Ele é outro aprendiz meu.
+Já é veterano agora.
 !------------------------------!
 Qui ça, Herc ? C'est un autre de mes
 poulains. Je l'entraîne depuis un bon
@@ -235,8 +236,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why were you working him so much
-harder than you do me?
+Por que você estava pegando mais
+pesado com ele?
 !------------------------------!
 Pourquoi est-ce que vous étiez
 beaucoup plus dur avec lui
@@ -258,7 +259,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Is he that strong?
+Ele é tão forte assim?
 !------------------------------!
 Il est fort à ce point ?
 !------------------------------!
@@ -272,9 +273,9 @@ Ist er so stark?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, sure. He's a hero, kid.
-If I put a squirt like you through that,
-you'd croak on me.
+Bem, é claro. Ele é um herói, filho.
+Se eu colocasse um frangote feito
+você naquilo, já era.
 !------------------------------!
 Évidemment. Lui, c'est un héros, petit.
 Si je te poussais autant que lui,
@@ -296,7 +297,7 @@ como tú con eso, se rompería.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And it's not just that.
+E não é só isso.
 !------------------------------!
 Et ce n'est pas tout.
 !------------------------------!
@@ -313,7 +314,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh?
+Hã?
 !------------------------------!
 Ah bon ?
 !------------------------------!
@@ -333,8 +334,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Of all the heroes I've trained, he's
-special. Maybe the best.
+De todos os hérois que já treinei,
+ele é especial. Talvez o melhor.
 !------------------------------!
 De tous les héros que j'ai
 entraînés, c'est peut-être
@@ -356,8 +357,8 @@ Puede que el mejor.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I got high hopes for him.
-He's gonna be <E2><80><9C>the one<E2><80><9D>!
+Tenho grandes expectativas.
+Ele vai ser O herói!
 !------------------------------!
 Je fonde beaucoup d'espoir sur lui.
 C'est pour ça que je le pousse
@@ -403,8 +404,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ahem...
-Enough talk about Herc.
+Hum-rum...
+Chega de falar do Herc.
 !------------------------------!
 Hum, hum ! Mais assez parlé d'Herc.
 !------------------------------!
@@ -421,9 +422,9 @@ Basta de hablar de Herc.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You just worry about getting in shape
-for the tournament. I got two words of
-advice for ya...
+Se preocupe em ficar em forma pro
+torneio. Vou te dizer duas palavras
+de conselho...
 !------------------------------!
 Toi, assure-toi d'être en pleine forme
 pour les Jeux. Je ne dirai que deux
@@ -445,7 +446,7 @@ un consejo en dos palabras.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Eat.
+Coma.
 !------------------------------!
 Manger
 !------------------------------!
@@ -459,7 +460,7 @@ Come.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sleep.
+Durma.
 !------------------------------!
 Dormir
 !------------------------------!
@@ -473,7 +474,7 @@ Duerme.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Train!
+Treine!
 !------------------------------!
 S'entraîner !
 !------------------------------!
@@ -487,8 +488,8 @@ Allenati!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Remember, I got expectations for you
-too, kid.
+Lembre-se, tenho expectativas em
+você também, filho.
 !------------------------------!
 N'oublie pas que j'ai foi en toi, petit.
 !------------------------------!
@@ -508,8 +509,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(So people work you harder when they
- have expectations?)
+(Então as pessoas fazem você dar
+ duro quando têm expectativas?)
 !------------------------------!
 (Alors les gens vous poussent
  plus quand ils ont foi en vous ?)
@@ -531,8 +532,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(The Organization expects me to do hard
- missions all the time.)
+(A Ordem espera que eu faça 
+ missões difíceis sempre.)
 !------------------------------!
 (L'Organisation me confie toujours des
  missions très difficiles...)
@@ -552,8 +553,8 @@ que yo haga misiones difíciles).
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(Aren't expectations the same thing as
- orders?)
+(Expectativas não são a mesma
+ coisa que ordens?)
 !------------------------------!
 (Est-ce que c'est comparable ?
  Avoir foi en quelqu'un et lui

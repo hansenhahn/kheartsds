@@ -25,7 +25,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yet another mission here.
+E mais uma missão aqui
 !------------------------------!
 Et encore une mission ici.
 !------------------------------!
@@ -42,8 +42,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's hope things go as smoothly this
-time around.
+Espero que as coisas vão com mais
+calma agora.
 !------------------------------!
 Espérons que tout se passe aussi
 bien que les autres fois.
@@ -64,9 +64,9 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh. Don't tempt fate.
-You'll send Lady Luck running with talk
-like that.
+He. Não tente o destino.
+Você vai acabar atraindo má sorte
+falando isso.
 !------------------------------!
 Hé, tu vas faire fuir la chance
 à parler comme ça.
@@ -90,7 +90,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Time to ante up and play.
+Hora de fazer as apostas e jogar.
 !------------------------------!
 D'ailleurs, nous allons voir si elle va
 nous sourire.

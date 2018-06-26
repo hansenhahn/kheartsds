@@ -40,9 +40,9 @@ mi/ch/46.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-R-reporting in, Your Majesty! So far,
-our search has failed to turn up any
-trio, including that which startled you.
+C-Comunicando, Vossa Majestade!
+Até agora nossa busca atrás do trio
+que a asssustou não teve sucesso.
 !------------------------------!
 Au rapport, Votre Majesté ! Pour le
 moment, nous n'avons pas retrouvé
@@ -64,8 +64,8 @@ trío que os ha asustado.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The only place left to look is in the
-royal Rose Garden.
+O único lugar que falta olhar é
+o Jardim de Rosas real.
 !------------------------------!
 Il ne nous reste plus que vos jardins
 à inspecter.
@@ -117,9 +117,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Then go! I want those suspicious
-scoundrels brought here to me.
-Sentences must be served!
+Então vão!
+Quero aqueles salafrários suspeitos
+aqui. Sentenças devem ser dadas!
 !------------------------------!
 ALLEZ-Y ! Je veux qu'on me ramène
 ces trois crapules afin que justice
@@ -156,7 +156,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Looks like there's been trouble here.
+Parece que estão com um problema aqui.
 !------------------------------!
 On dirait qu'il s'est passé quelque
 chose ici.
@@ -184,9 +184,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah, bad time to drop in... Who's this
-suspicious trio they're after? Are we
-not the only outsiders here?
+É, péssima hora para aparecer... Que
+trio suspeito é esse que estão atrás?
+Não somos os únicos forasteiros aqui?
 !------------------------------!
 Oui, et ce n'est pas le moment d'être
 vus... Qui sont ces trois individus ?
@@ -211,8 +211,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ahh... Perhaps we were right to chase
-your busy bunny friend.
+Ahh... Talvez não estávamos errados
+em seguir seu amigo coelho apressado.
 !------------------------------!
 Finalement... nous avons peut-être eu
 raison de suivre notre ami le lapin.
@@ -231,7 +231,7 @@ mal en seguir a tu peludo amigo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why's that?
+Por quê?
 !------------------------------!
 Pourquoi ça ?
 !------------------------------!
@@ -251,8 +251,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Time to get to work, Roxas.
-Let's uncover this tricky tierce. 
+Hora de agir, Roxas.
+Vamos descobrir essa trinca traiçoeira.
 !------------------------------!
 C'est l'heure de se mettre au travail,
 Roxas. Découvrons qui sont ces trois
@@ -273,8 +273,9 @@ ese escurridizo trío.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The Heartless we're after must be in
-the one place they haven't looked yet.
+Os Heartless que estamos atrás devem
+estar no único lugar que eles ainda
+não procuraram.
 !------------------------------!
 Les Sans-cœur que nous cherchons
 doivent être dans le seul endroit que

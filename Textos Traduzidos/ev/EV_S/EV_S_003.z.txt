@@ -113,7 +113,7 @@ Bip01_Head
 *.NULO.*
 !------------------------------!
 Axel irá se juntar a você na sua
-primeira vez fora. Não é isso, Axel?
+primeira vez fora. Não é mesmo, Axel?
 !------------------------------!
 Axel va t'accompagner la première
 fois. N'est-ce pas, Axel ?
@@ -210,7 +210,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Bem, você ouvi o homem.
+Bem, você ouviu o homem.
 Começando hoje, sou sua babá
 !------------------------------!
 T'as entendu ce qu'il a dit.
@@ -241,7 +241,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-......
+...
 !------------------------------!
 ...
 !------------------------------!

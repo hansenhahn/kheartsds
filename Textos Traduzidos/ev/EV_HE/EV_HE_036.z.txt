@@ -43,7 +43,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey there, kiddo.
+E aí, guri.
 !------------------------------!
 Salut, l'avorton.
 !------------------------------!
@@ -57,7 +57,7 @@ Ciao, ragazzino.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh!?
+Hã?!
 !------------------------------!
 Hein ?
 !------------------------------!
@@ -74,7 +74,7 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Looks like you're doing pretty well here.
+Parece que você está se saindo bem aqui.
 !------------------------------!
 Tu te débrouilles pas mal, on dirait.
 !------------------------------!
@@ -97,9 +97,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Xigbar!? What are you<E2><80><95>
-Don't try and tell me you're a trainee,
-too?
+Xigbar!? O que você<E2><80><95>
+Não vai me dizer que você tá
+treinando também?
 !------------------------------!
 Xigbar ? Mais que... Ne me dis pas
 que tu t'entraînes, toi aussi ?
@@ -123,9 +123,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-As if! I just dropped in to see how our
-little wannabe hero is doing. I care
-about your future, Roxas.
+Até parece! Só passei pra ver como
+nosso pequeno herói está se saindo.
+Me importo com o seu futuro, Roxas.
 !------------------------------!
 Mais non ! Je suis juste venu voir
 comment tu t'en sors. Je me soucie
@@ -156,8 +156,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Just dropped in? You could have told
-me you were entering!
+Só passando? Você ter me avisado
+que estava entrando!
 !------------------------------!
 Juste venu voir ? Tu aurais pu me
 dire que tu allais participer aux
@@ -186,7 +186,7 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Try to make it look real, Roxas!
+Faz parecer pra valer, Roxas!
 !------------------------------!
 Fais comme si c'était réel, Roxas !
 !------------------------------!

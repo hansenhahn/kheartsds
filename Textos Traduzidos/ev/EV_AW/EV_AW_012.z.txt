@@ -25,7 +25,7 @@ mi/ob/3E.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Still no Pink Concertos...
+Ainda nenhum Concerto Rosa...
 !------------------------------!
 Toujours pas de Concerto rose
 en vue...
@@ -40,7 +40,7 @@ Sigo sin ver ningún concierto rosado...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Looking for something?
+Procurando alguma coisa?
 !------------------------------!
 Vous cherchez quelque chose ?
 !------------------------------!
@@ -99,7 +99,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You again?
+Você de novo?
 !------------------------------!
 Encore vous ?
 !------------------------------!
@@ -119,8 +119,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Whom did you expect?
-Whatever it is you're looking for?
+Quem você esperava?
+O que estava procurando?
 !------------------------------!
 Qui d'autre ?
 Cherchez-vous quelque chose ?
@@ -139,7 +139,8 @@ que andáis buscando?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-If I were you, I'd ask...me!
+Se eu fosse você, perguntaria...
+para mim!
 !------------------------------!
 À votre place... je me poserais
 la question !
@@ -159,7 +160,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You know where the Heartless are?
+Sabe onde os Heartless estão?
 !------------------------------!
 Vous savez où sont les Sans-cœur ?
 !------------------------------!
@@ -174,8 +175,8 @@ los sincorazón?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Naturally... But then it would be in my
-nature to lie.
+Naturalmente... Mas aí seria
+da minha natureza mentir.
 !------------------------------!
 Bien sûr... mais sachez qu'il est
 dans ma nature de mentir.
@@ -193,9 +194,9 @@ en mi naturaleza mentir...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Of course, the question is<E2><80><95>should I lie
-about in flowers, like the whats you're
-looking for, or just lie about in words?
+Claro, a questão é<E2><80><95>devo mentir
+nas flores, como nas quais está o
+que procura, ou mentir nas palavras?
 !------------------------------!
 Mais dans la nature se trouvent aussi
 de jolies fleurs, comme celles où se
@@ -226,7 +227,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What a weird cat...
+Que gato estranho...
 !------------------------------!
 Quel étrange chat...
 !------------------------------!
@@ -243,7 +244,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Still, he gave us a nice reveal.
+Aind assim, ele nos deu uma boa pista.
 !------------------------------!
 Et pourtant, il nous a donné un indice.
 !------------------------------!
@@ -258,7 +259,7 @@ bonita revelación.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What do you mean?
+O que quer dizer?
 !------------------------------!
 Ah bon ?
 !------------------------------!
@@ -281,8 +282,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Come on.
-Let's go find those Heartless.
+Venha.
+Vamos achar aqueles Heartless.
 !------------------------------!
 Viens.
 Trouvons ces Sans-cœur.

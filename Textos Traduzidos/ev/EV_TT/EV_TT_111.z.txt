@@ -34,7 +34,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Quê acha daquele picolé?
+Que tal um picolé?
 !------------------------------!
 Tu veux manger une glace ?
 !------------------------------!

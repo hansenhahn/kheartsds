@@ -16,8 +16,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, Phil!
-I'm back!
+Ei, Fil!
+Voltei!
 !------------------------------!
 Salut, Phil !
 Je suis de retour !
@@ -35,8 +35,8 @@ Sono tornato!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's about time, Herc. That new trainee
-you scouted showed up already.
+Já era hora, Herc. Aquele novo
+aprendiz que você achou já veio.
 !------------------------------!
 Herc, Herc ! Le petit nouveau que
 t'as repéré est passé aujourd'hui !
@@ -56,9 +56,9 @@ encontraste ha aparecido hoy.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Really? Wow. He said it would take him
-awhile to get here. He must've made
-record time!
+Sério? Nossa. Ele disse que iria
+demorar pra chegar aqui. Ele
+conseguiu em tempo recorde então!
 !------------------------------!
 Ah bon ? Mais il avait dit qu'il lui
 faudrait du temps pour venir.
@@ -80,9 +80,9 @@ batido el récord de velocidad!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-He probably just couldn't wait to start
-training with yours truly. Not that I can
-blame him.
+Ele devia estar muito ansioso pra
+começar a treinar com você. Não
+posso culpá-lo por isso.
 !------------------------------!
 Je parie qu'il avait hâte de
 s'entraîner avec moi. Et je vais
@@ -104,8 +104,8 @@ empezar a entrenar contigo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The kid's got guts, I'll give him that.
-Wait'll you hear this...
+O garoto tem fibra, isso posso dizer.
+Espera pra ouvir isto...
 !------------------------------!
 J'avoue qu'il a du cran ce petit...
 Écoute ça...

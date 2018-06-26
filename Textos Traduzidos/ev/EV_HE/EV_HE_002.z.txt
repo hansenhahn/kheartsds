@@ -16,8 +16,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All right. Let's make with the
-investigating and haul it back home.
+Certo, vamos terminar de investigar
+e retornar.
 !------------------------------!
 Bon, au boulot !
 On mène l'enquête et
@@ -50,7 +50,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What are we investigating?
+O que estamos investigando?
 !------------------------------!
 Qu'est-ce qu'on cherche ?
 !------------------------------!
@@ -73,9 +73,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We're investigating what's to
-investigate. Maybe there's new recruits
-around.
+Estamos investigando o que é para ser
+investigado. Talvez há novos recrutas
+por aí.
 !------------------------------!
 Ce qu'il y a à chercher.
 On trouvera peut-être de nouvelles
@@ -100,8 +100,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-New recruits? What kind of people does
-the Organization look for?
+Novos recrutas? Que tipo de pessoa
+a Ordem procura?
 !------------------------------!
 De nouvelles recrues ? Quel genre
 de gens recherche l'Organisation ?
@@ -136,7 +136,7 @@ Incorpóreos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You mean...with a capital N.
+Você diz... com N maiúsculo?
 !------------------------------!
 Des Simili ?
 !------------------------------!
@@ -174,9 +174,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Bingo. You know somebody turns into a
-Heartless if the darkness gets their
-heart, right?
+Bingo. Você sabe que alguém vira um
+Heartless se a escuridão tomar seu
+coração, certo?
 !------------------------------!
 Tu sais que les gens se changent en
 Sans-cœur si les ténèbres s'emparent
@@ -216,9 +216,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, say this person's heart is strong<E2><80><95>
-real strong. Sometimes, you wind up
-with a sort of byproduct: a Nobody.
+Bem, vamos dizer que o coração dessa
+pessoa é forte<E2><80><95>bem forte. Às vezes,
+forma-se um subproduto: um Nobody.
 !------------------------------!
 Mais si le cœur d'une personne est
 puissant, celle-ci ne devient pas un
@@ -243,9 +243,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Take the strongest of those<E2><80><95>the real
-cream of the crop<E2><80><95>stick 'em in a room,
-and you've got us: the Organization.
+Pegue os mais forte de todos<E2><80><95>os
+melhores dos melhores<E2><80><95>coloque eles
+juntos num lugar e se tem nós: a Ordem.
 !------------------------------!
 Et si tu prends les Simili les plus forts
 et que tu les réunis tous, tu obtiens la
@@ -276,8 +276,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I didn't know everybody was such an
-elite...
+Eu não sabia que todos
+eram tão da elite...
 !------------------------------!
 Je ne savais pas qu'on faisait tous
 partie d'une élite...
@@ -295,8 +295,8 @@ fuera tan elitista...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh heh... Elite?
-As if.
+He he... Elite?
+Até parece.
 !------------------------------!
 Ha, ha... une élite ?
 Mais non.
@@ -335,8 +335,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You and Xion are the real exceptional
-ones.
+Você e Xion é que são
+os excepcionais.
 !------------------------------!
 Xion et toi êtes les membres les
 plus exceptionnels.
@@ -375,7 +375,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What? Why?
+O quê? Por quê?
 !------------------------------!
 Ah bon ? Pourquoi ?
 !------------------------------!

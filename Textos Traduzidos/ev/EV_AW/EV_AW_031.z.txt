@@ -25,7 +25,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That leaves three...
+Faltam três agora...
 !------------------------------!
 Il en reste trois...
 !------------------------------!
@@ -42,7 +42,7 @@ Quedan tres...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Two to go.
+Dois para acabar.
 !------------------------------!
 Encore deux.
 !------------------------------!
@@ -59,7 +59,7 @@ Nos faltan dos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Just one more.
+Só mais um.
 !------------------------------!
 Plus qu'un.
 !------------------------------!
@@ -73,8 +73,8 @@ Uno más, y listos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh no!
-I forgot the assembly!
+Ah, não!
+Esqueci a assembleia!
 !------------------------------!
 Oh non ! J'ai oublié la réunion !
 !------------------------------!
@@ -96,7 +96,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That should be all of them.
+Não deve faltar mais nenhum.
 !------------------------------!
 Le compte est bon.
 !------------------------------!
@@ -111,7 +111,7 @@ de estar todos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That leaves three...
+Faltam três agora...
 !------------------------------!
 Il en reste trois...
 !------------------------------!

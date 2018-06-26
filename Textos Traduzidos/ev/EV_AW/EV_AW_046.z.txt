@@ -66,8 +66,8 @@ Bravo! Bravo!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The shadow's no more<E2><80><95>even it can't
-shine in the light.
+A sombra se foi<E2><80><95>nem mesmo
+ela pode brilhar na luz.
 !------------------------------!
 L'ombre a disparu au grand jour.
 !------------------------------!
@@ -106,9 +106,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So who are you, anyway?
-If you're going to help me, why talk in
-riddles?
+Então quem é você, enfim?
+Se vai me ajudar, por que fazer
+charadas?
 !------------------------------!
 Qui êtes-vous vraiment ?
 Si vous voulez m'aider, pourquoi
@@ -133,7 +133,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Are you a friend or an enemy?
+Você é amigo ou inimigo?
 !------------------------------!
 Êtes-vous un allié ou un ennemi ?
 !------------------------------!
@@ -147,8 +147,8 @@ Sei un amico o un nemico?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Neither...or both...
-It's quite up to you.
+Nenhum... ou ambos...
+Depende de você.
 !------------------------------!
 Qui sait ?
 C'est à vous de voir.
@@ -167,7 +167,7 @@ Depende de ti.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Up to me?
+De mim?
 !------------------------------!
 À moi de voir ?
 !------------------------------!
@@ -181,8 +181,9 @@ Devo deciderlo io?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Why, yes. Once you believe, the truth
-and a lie are quite the same thing.
+Ora, claro. Uma vez acreditando,
+a verdade e uma mentira são a
+mesma coisa.
 !------------------------------!
 Tant que vous y croyez, vérité
 et mensonge sont identiques.
@@ -202,8 +203,8 @@ mentira son la mismísima cosa.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let your heart decide<E2><80><95>it's in your
-heart you must confide.
+Deixe seu coração decidir<E2><80><95>é
+no seu coração que deve confiar.
 !------------------------------!
 Laissez votre cœur décider et
 voyez le résultat.
@@ -226,9 +227,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Easy for him to say...
-How am I supposed to do that when I
-don't have a heart?
+Pra ele é fácil falar...
+Como posso fazer isso quando
+nem tenho um coração?
 !------------------------------!
 C'est facile à dire...
 Comment suis-je censé faire
@@ -253,7 +254,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I have no idea what to believe in.
+Não tenho ideia no que acreditar.
 !------------------------------!
 Je n'ai aucune idée de ce en quoi
 je peux croire.

@@ -1,0 +1,24 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Esses caixotes foram jogados aqui.
+Todos vazios...
+!------------------------------!
+ROXAS
+Ces caisses ont été empilées ici.
+Elles sont toutes vides...
+!------------------------------!
+ROXAS
+Diese Kisten wurden hier einfach
+weggeworfen. Sie sind alle leer.
+!------------------------------!
+ROXAS
+Queste casse sono state ammassate
+qui. Sono tutte vuote...
+!------------------------------!
+ROXAS
+Estas cajas están tiradas de
+cualquier manera. Y vacías...
+!------------------------------!
+!******************************!

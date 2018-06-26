@@ -25,7 +25,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Whoa, it actually worked!
+Nossa, funcionou mesmo!
 !------------------------------!
 Waouh, ça a marché !
 !------------------------------!
@@ -54,8 +54,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, that rabbit went through here a
-minute ago, right?
+Ei, aquele coelho passou por 
+aqui faz pouco tempo, né?
 !------------------------------!
 Dites, le lapin est passé par ici, non ?
 !------------------------------!
@@ -73,7 +73,7 @@ aquí hace un segundo, ¿no?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Snrrrk... Phewww...
+Roooonc... Fiuuu...
 !------------------------------!
 Roooooon... pchiiii...
 !------------------------------!
@@ -90,7 +90,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's behind this door?
+O que tem atrás dessa porta?
 !------------------------------!
 Qu'y a-t-il derrière cette porte ?
 !------------------------------!
@@ -104,7 +104,7 @@ Che cosa c'è oltre questa porta?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hrrrnk... Phewww...
+Roooonc... Fiuuu...
 !------------------------------!
 Roooooon... pchiiii...
 !------------------------------!
@@ -127,8 +127,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(Hmm, guess I won't be finding out
- anytime soon.)
+(Hmm, acho que não vou descobrir
+ tão cedo.)
 !------------------------------!
 (Hmm, je crois que je ne le saurai pas
  de si tôt.)

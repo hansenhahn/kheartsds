@@ -16,8 +16,8 @@ mi/ch/41.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Finally!
-Let's get started already!
+Finalmente!
+Vamos começar logo!
 !------------------------------!
 C'est pas trop tôt !
 Allez, mettons-nous au travail !
@@ -35,7 +35,7 @@ Cominciamo subito!
 &.[DSA].Condicional.&
 *.NULO.*
 !------------------------------!
-You ready for training, kid?
+Pronto pra treinar, filho?
 !------------------------------!
 T'es prêt pour l'entraînement, petit ?
 !------------------------------!
@@ -50,7 +50,7 @@ ragazzo?
 !++++++++++++++++++++++++++++++!
 *.NULO.*
 !------------------------------!
-Yes
+Sim
 !------------------------------!
 Oui.
 !------------------------------!
@@ -63,7 +63,7 @@ Sí
 !++++++++++++++++++++++++++++++!
 *.NULO.*
 !------------------------------!
-No
+Não
 !------------------------------!
 Non.
 !------------------------------!

@@ -79,7 +79,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey... Is that the<E2><80><95>
+Ei... Esse não é o<E2><80><95>
 !------------------------------!
 Quoi ? Mais le...
 !------------------------------!
@@ -93,8 +93,8 @@ Eh... ¿No es ese el...?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, well...
-Looks like our target's here.
+Ora, ora...
+Parece que nosso alvo está aqui.
 !------------------------------!
 Tiens, tiens...
 Apparemment notre cible est ici.
@@ -112,8 +112,8 @@ nuestro objetivo está aquí.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Uh-oh... Looks like the finals just got
-postponed!
+O-ou... Parece que as finais
+acabaram de ser adiadas!
 !------------------------------!
 Nom d'un bouc ! La finale va devoir
 être reportée...
@@ -131,9 +131,9 @@ de aplazar la final!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey! Forget about the match!
-Just find someplace safe while I go get
-Herc!
+Ei! Esqueça a partida!
+Ache algum lugar seguro enquanto
+eu vou buscar o Herc!
 !------------------------------!
 Hé là ! Oubliez ce combat !
 Mettez-vous à l'abri pendant
@@ -185,8 +185,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, Roxas?
-Ready to show me all you've learned?
+Então, Roxas?
+Pronto para me mostrar o que aprendeu?
 !------------------------------!
 Alors, Roxas ? Prêt à me montrer
 ce que tu as appris ?

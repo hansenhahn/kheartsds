@@ -19,7 +19,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All alone today, are you?
+Veio sozinho hoje, não é?
 !------------------------------!
 Vous êtes seul aujourd'hui,
 n'est-ce pas ?
@@ -40,8 +40,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Look, did you have something to tell me?
-Because if not<E2><80><95>
+Olha, tem algo para me dizer?
+Porque se não<E2><80><95>
 !------------------------------!
 Avez-vous quelque chose à me dire ?
 Parce que sinon...
@@ -59,8 +59,8 @@ Porque, si no...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You might say I do, or you might say I
-don't. What do you say?
+Pode se dizer que sim, ou pode se
+dizer que não. O que você diria?
 !------------------------------!
 Peut-être bien que oui, peut-être
 bien que non. Qu'en dites-vous ?
@@ -81,8 +81,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I say see you around.
-I've got work to do. I have to go.
+Eu digo até mais.
+Tenho trabalho a fazer.
+Preciso ir.
 !------------------------------!
 Je vous dis <E2><80><9C>au revoir<E2><80><9D> !
 J'ai du travail et pas de temps à
@@ -112,8 +113,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ahh, but go where?
-To see the large shadow, perhaps?
+Ahh, mas ir aonde?
+Ver a grande sombra talvez?
 !------------------------------!
 Ah... mais où allez-vous ?
 Voir la grande ombre ?
@@ -144,7 +145,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-There's a Heartless here?
+Tem um Heartless aqui?
 !------------------------------!
 Il y a un Sans-cœur ici ?
 !------------------------------!
@@ -158,8 +159,8 @@ Qui c'è un Heartless?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Indeed, but to find this shadow you
-must scour the shade.
+Indeed, mas para achar essa sombra
+você deve vasculhar na penumbra.
 !------------------------------!
 Oui... et pour trouver une ombre,
 il faut inspecter l'obscurité.

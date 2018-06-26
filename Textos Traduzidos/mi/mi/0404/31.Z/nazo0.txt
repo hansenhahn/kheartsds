@@ -1,0 +1,63 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Já vasculhamos toda a área.
+E agora?
+!------------------------------!
+XION
+On a passé toute la zone au peigne fin.
+Qu'est-ce qu'on fait maintenant ?
+!------------------------------!
+XION
+Wir haben hier alles durchkämmt.
+Was jetzt?
+!------------------------------!
+XION
+Abbiamo perlustrato l'intera
+zona. E adesso?
+!------------------------------!
+XION
+Hemos peinado toda esta zona.
+¿Y ahora, qué?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Vamos seguir em frente pela caverna.
+!------------------------------!
+ROXAS
+Avançons plus loin dans la caverne.
+!------------------------------!
+ROXAS
+Gehen wir tiefer in die Höhle hinein.
+!------------------------------!
+ROXAS
+Inoltriamoci ancora di
+più nella caverna.
+!------------------------------!
+ROXAS
+Adentrémonos más en la cueva.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Tá!
+!------------------------------!
+XION
+C'est parti !
+!------------------------------!
+XION
+Okay!
+!------------------------------!
+XION
+Va bene!
+!------------------------------!
+XION
+¡De acuerdo!
+!------------------------------!
+!******************************!

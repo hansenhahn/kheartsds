@@ -16,9 +16,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We're out on heart collection today,
-right? Sigh... I'm so not cut out for
-combat.
+Tamos aqui pra coletar corações hoje,
+né? Aff... não é minha praia lutar.
 !------------------------------!
 On est ici pour récupérer des cœurs
 aujourd'hui, c'est ça ? Pff... je ne suis
@@ -43,9 +42,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Would it kill them to give me a recon
-mission or...I don't know, something
-un-violent?
+Iria matar eles me dar uma missão
+de recon ou... sei lá, algo sem
+violência?
 !------------------------------!
 Ils ne pourraient pas me donner une
 mission d'exploration ou euh... enfin,
@@ -70,9 +69,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(The Coliseum's our best bet for
- finding a whole pack of Heartless at
- once.)
+(O Coliseu seria o melhor lugar
+ parar achar vários Heartless de
+ uma vez só.)
 !------------------------------!
 (Le Colisée est le meilleur endroit
  pour trouver des hordes de
@@ -106,7 +105,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Follow me, Demyx.
+Me segue, Demyx.
 !------------------------------!
 Suis-moi, Demyx.
 !------------------------------!
@@ -147,7 +146,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We'll find the Heartless in here.
+Vamos achar os Heartless aqui.
 !------------------------------!
 Les Sans-cœur sont dans le Colisée.
 !------------------------------!
@@ -170,9 +169,9 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Okay, right on...
-Ooh, but should we just go waltzing in?
-Won't someone see?
+Tá, vamos...
+Aah, mas a gente pode ir entrando
+assim? Ninguém vai ver a gente?
 !------------------------------!
 OK, je te suis... Mais euh... on y va
 comme ça ? On ne risque pas de
@@ -203,9 +202,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Don't worry. We'll just say you're
-another aspiring hero here for some
-training.
+Não se preocupe. É só dizer que você
+é outro aspirante a herói que está
+aqui para treinar.
 !------------------------------!
 C'est bon. On dira que tu es un autre
 héros en herbe qui vient s'entraîner.
@@ -232,7 +231,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Trust me, it'll be fine.
+Confie em mim, vai ficar tudo bem.
 !------------------------------!
 Ça va marcher, fais-moi confiance.
 !------------------------------!
@@ -258,8 +257,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wait, training!? That sounds like work,
-which means sweating. Which is gross.
+'Pera, treinar?! Isso parece trabalho,
+o que significa suor. O que é horrível.
 !------------------------------!
 S'entraîner ? Ça veut dire que
 je vais devoir transpirer ?
@@ -284,7 +283,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's that, or stay out here.
+É isso ou ficar aqui fora.
 !------------------------------!
 C'est soit ça, soit tu restes ici.
 !------------------------------!
@@ -307,7 +306,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hmm, actually...
+Hmm, na verdade...
 !------------------------------!
 Ben en fait...
 !------------------------------!
@@ -324,7 +323,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah!
+Sim!
 !------------------------------!
 C'est d'accord !
 !------------------------------!
@@ -359,7 +358,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What?
+O quê?
 !------------------------------!
 Quoi ?
 !------------------------------!
@@ -376,8 +375,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We'll split up!
-And, uh...form two strike forces!
+Vamos nos dividir!
+E, uh... formar duas forças de ataque!
 !------------------------------!
 Séparons-nous ! Oui, euh... formons
 deux équipes distinctes !
@@ -401,8 +400,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'll handle the Heartless out here.
-You take the ones inside.
+Eu cuido dos Heartless aqui fora.
+Você cuida dos de lá dentro.
 !------------------------------!
 Moi, je m'occupe des Sans-cœur
 ici et toi, tu te charges de ceux
@@ -426,8 +425,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Covering a broader range means more
-efficient collection, right?
+Cobrir uma área maior significa
+uma colea mais eficiente, não é?
 !------------------------------!
 Si on couvre une zone plus large,
 on devrait récupérer plus de cœurs,
@@ -455,7 +454,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I guess?
+Acho... que sim...
 !------------------------------!
 C'est ça...
 !------------------------------!
@@ -475,8 +474,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(And while you collect those hearts,
- maybe I can collect some Z's...)
+(E enquanto você coleta os corações,
+ talvez eu posso coletar uns Z's...)
 !------------------------------!
 (Et pendant que tu récupéreras des
  cœurs, je prendrai du bon temps...)
@@ -500,7 +499,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's the matter?
+O que foi?
 !------------------------------!
 Qu'est-ce qu'il y a ?
 !------------------------------!
@@ -526,8 +525,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nothing!
-Well, good luck in there, Roxas.
+Nada!
+Bem, boa sorte aí, Roxas.
 !------------------------------!
 Rien !
 Allez, bonne chance, Roxas.

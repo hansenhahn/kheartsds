@@ -32,7 +32,7 @@ mi/mo/ro.p2
 *.NULO.*
 !------------------------------!
 Roxas!
-You have got good timing, kid!
+Chegou em boa hora, filho!
 !------------------------------!
 Hé, Roxas !
 Tu tombes à pic, petit !
@@ -71,8 +71,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We got a Heartless situation in the
-Coliseum!
+Temos um problema com Hearltess
+no Coliseu!
 !------------------------------!
 On a un problème de Sans-cœur
 dans le Colisée !
@@ -93,7 +93,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What!?
+O quê?!
 !------------------------------!
 Quoi ?
 !------------------------------!
@@ -107,8 +107,8 @@ Che cosa?!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You heard me.
-And Herc's nowhere to be found!
+Você ouviu.
+E o Herc não está em lugar nenhum!
 !------------------------------!
 T'as bien entendu !
 Et Herc est introuvable
@@ -129,8 +129,8 @@ por ningún sitio.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I know this is no job for a rookie, but I
-ain't got much of a choice!
+Sei não é um trabalho prum novato,
+mas não tem muita escolha!
 !------------------------------!
 Je sais que c'est encore un peu tôt
 pour te confier cette tâche, mais
@@ -170,7 +170,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This is the real deal, so stay sharp.
+A coisa é seria, então fique firme
+e forte.
 !------------------------------!
 C'est pour de vrai cette fois,
 petit, alors pas de blague !
@@ -191,7 +192,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I will.
+Ficarei.
 !------------------------------!
 D'accord.
 !------------------------------!
@@ -220,8 +221,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey, hold on.
-Let me give ya two words of advice.
+Ei, espere.
+Deixa eu dizer duas palavras de
+aviso.
 !------------------------------!
 Hé, attends !
 J'ai deux mots à te dire :
@@ -252,7 +254,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Don't.
+Não.
 !------------------------------!
 Baisse
 !------------------------------!
@@ -266,7 +268,7 @@ Guardati...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Get.
+Fique.
 !------------------------------!
 Pas
 !------------------------------!
@@ -280,7 +282,7 @@ alle...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Careless!
+Desatento!
 !------------------------------!
 Ta garde !
 !------------------------------!
@@ -306,7 +308,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Um, right.
+Um, tá.
 !------------------------------!
 Euh, d'accord.
 !------------------------------!

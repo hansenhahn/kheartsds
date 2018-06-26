@@ -22,9 +22,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-There's a search on here for some
-suspicious suspects, and you are in the
-way. Run along now, please.
+Há uma busca aqui por suspeitos
+suspeitos, e você está atrapalhando.
+Circulando, por favor.
 !------------------------------!
 Nous recherchons des suspects.
 Vous nous gênez ici, alors veuillez

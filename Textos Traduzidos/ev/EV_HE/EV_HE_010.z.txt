@@ -20,8 +20,8 @@ mi/ch/41.z
 *.NULO.*
 !------------------------------!
  points...
-Well, we'll just hope you got a steep
-learning curve.
+Bem, vamos só esperar que você
+vá progredindo de pouco em pouco.
 !------------------------------!
  points...
 Espérons juste que tu sois
@@ -42,7 +42,8 @@ un principio difícil.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Next time, go for 100 points minimum!
+Na próxima, tente 100 pontos como
+o mínimo!
 !------------------------------!
 Vise les 100 points la prochaine
 fois !

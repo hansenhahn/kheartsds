@@ -61,7 +61,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's head back, Roxas.
+Vamos voltar, Roxas.
 !------------------------------!
 Repartons, Roxas.
 !------------------------------!

@@ -31,7 +31,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Never would've guessed this was here.
+Nunca teria adivinhado 
+que isso estava aqui.
 !------------------------------!
 Je ne pensais pas qu'il y aurait
 un endroit pareil ici...
@@ -49,8 +50,8 @@ que aquí hubiese algo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'll say.
-This is a nice little bonus.
+Tenho que falar.
+É um belo de um extra.
 !------------------------------!
 Sympa comme découverte.
 !------------------------------!

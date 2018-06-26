@@ -22,8 +22,8 @@ mi/mo/xo.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No way!
-It clicked right into place!
+Não pode ser!
+Encaixou direitinho!
 !------------------------------!
 Génial !
 Ça s'est emboîté sans problème !
@@ -50,8 +50,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Guess that explains where the monkey
-found it.
+Acho que isso explica onde 
+o macaco encontrou a jóia.
 !------------------------------!
 C'est sans doute ici que
 le singe l'a trouvée.
@@ -72,8 +72,8 @@ mi/mo/xo.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-If it was here to begin with, it should
-probably stay here.
+Se estava aqui antes, 
+então deve ficar aqui.
 !------------------------------!
 Si elle était ici à l'origine,
 on devrait l'y laisser.
@@ -102,7 +102,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ready to dig a little deeper?
+Pronto pra ir mais a fundo?
 !------------------------------!
 On continue ?
 !------------------------------!

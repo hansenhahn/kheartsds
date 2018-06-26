@@ -46,7 +46,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Game, set, and match.
+Ponto e vitória.
 !------------------------------!
 Les jeux sont faits !
 !------------------------------!
@@ -75,7 +75,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Another mission down.
+Menos uma missão.
 !------------------------------!
 Encore une mission accomplie.
 !------------------------------!
@@ -107,8 +107,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Quite brilliant indeed!
-Your sight's been set and found again.
+Realmente genial!
+Você encontrou o que estava
+procurando de novo.
 !------------------------------!
 Magnifique, oui !
 Vous avez encore trouvé ce que
@@ -131,9 +132,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-How did you know where they'd be?
-Are you connected to the Heartless
-somehow?
+Como sabia onde eles estariam?
+Você está conectado aos Heartless
+de alguma forma?
 !------------------------------!
 Comment saviez-vous où ils étaient ?
 Avez-vous un rapport avec les
@@ -154,8 +155,8 @@ modo con los sincorazón?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yes, am I? Or aren't I?
-You'll have to decide.
+Sim, estou? Ou não estou?
+Você terá que decidir.
 !------------------------------!
 Peut-être bien que oui, peut-être
 bien que non ? À votre avis ?
@@ -201,7 +202,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That cat is a walking question mark.
+Esse gato é um ponto de interrogação
+ambulante.
 !------------------------------!
 Ce chat est une énigme
 ambulante.
@@ -222,8 +224,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nobody's going to reveal his hand from
-the get-go.
+Ninguém vai revelar sua mão
+logo de cara.
 !------------------------------!
 Personne ne révèle jamais ses vraies
 intentions du premier coup.
@@ -250,8 +252,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You have to outwit your opponent in the
-give and take to figure them out.
+Você precisa levar a melhor no toma
+lá dá cá para saber o jogo do oponente.
 !------------------------------!
 Il faut être plus malin que son
 adversaire pour le percer à jour.
@@ -274,8 +276,9 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And frankly, I don't see you outwitting
-that cat anytime soon.
+E, francamente, não vejo você
+levando a melhor com aquele
+gato tão cedo.
 !------------------------------!
 Et honnêtement, je te vois mal être
 plus malin que ce chat.
@@ -298,7 +301,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, excuse me.
+Bem, perdoe-me.
 !------------------------------!
 Merci du compliment...
 !------------------------------!
@@ -321,7 +324,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh. Let's head back, Roxas.
+He. Vamos voltar, Roxas.
 !------------------------------!
 Allez, rentrons, Roxas.
 !------------------------------!

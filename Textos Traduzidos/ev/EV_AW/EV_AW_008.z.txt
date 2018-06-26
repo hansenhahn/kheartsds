@@ -22,8 +22,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(I wonder where that white rabbit went.
- He was sure in a hurry.)
+(Onde será que aquele coelho branco
+ foi? Ele estava realmente com pressa.)
 !------------------------------!
 (Je me demande où est allé ce lapin.
  Il était drôlement pressé.)

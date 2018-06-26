@@ -40,7 +40,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Uh-oh.
+O-ou.
 !------------------------------!
 Oh oh.
 !------------------------------!
@@ -54,7 +54,7 @@ Oh-oh.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Those must be the locals.
+Devem ser moradores daqui.
 !------------------------------!
 Ce sont les gens du coin.
 !------------------------------!
@@ -81,8 +81,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Normally, I'd be able to just slip on by,
-but the way you stick out? Well.
+Normalmente, eu sairia daqui numa boa, 
+mas como você chama muita atenção...
 !------------------------------!
 Normalement, je passerais devant eux
 discrètement, mais toi, tu fais tache.
@@ -108,7 +108,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-(Thanks.)
+(Valeu...)
 !------------------------------!
 (Sympa...)
 !------------------------------!
@@ -125,7 +125,7 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-We'd better take the long way around.
+Melhor pegar outro caminho.
 !------------------------------!
 On devrait faire le tour.
 !------------------------------!

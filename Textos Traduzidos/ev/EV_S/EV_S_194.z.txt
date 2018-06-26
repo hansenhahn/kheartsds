@@ -92,7 +92,7 @@ mi/mo/sa.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ele já saiu.
+Ela já saiu.
 Encontre-a no campo.
 !------------------------------!
 Elle est déjà partie.

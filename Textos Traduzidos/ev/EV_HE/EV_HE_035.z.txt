@@ -19,9 +19,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You're doin' great, kid!
-Win the next match, and the title's
-yours!
+Você tá indo muito bem, filho!
+Vença a partida e o título é seu!
 !------------------------------!
 C'est super, petit !
 Gagne le prochain match et
@@ -46,7 +45,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Right.
+Tá.
 !------------------------------!
 Ça marche.
 !------------------------------!
@@ -60,8 +59,8 @@ De acuerdo.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I don't know much about the guy you're
-up against in the finals, but...
+Eu não sei muito sobre o cara que
+vou enfrentar nas finais, mas...
 !------------------------------!
 Je ne connais pas bien celui que tu
 vas affronter en finale, mais...
@@ -81,8 +80,8 @@ final, pero...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-From the look of him, I'd say he's been
-through a few fights.
+Vendo ele, eu diria que ele já
+passou por muitas lutas.
 !------------------------------!
 à le voir, je crois qu'on peut dire
 que c'est plus un débutant.
@@ -101,7 +100,7 @@ combates a sus espaldas.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Stay sharp!
+Firme e forte!
 !------------------------------!
 Sois prudent !
 !------------------------------!
@@ -118,7 +117,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I will.
+Tudo bem.
 !------------------------------!
 D'accord.
 !------------------------------!
@@ -132,9 +131,9 @@ No lo haré.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You've come this far!
-Don't let anybody else walk outta here
-with your title!
+Você chegou até aqui!
+Não deixe que ninguém sair daqui
+com o seu título!
 !------------------------------!
 T'es arrivé jusqu'ici alors ne laisse
 personne te piquer ton titre !
@@ -155,8 +154,8 @@ aquí con tu título!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Remember<E2><80><95>I'm expectin' stuff from
-you, kid!
+Lembre-se<E2><80><95>Tenho minhas
+esperanças em você, filho!
 !------------------------------!
 J'ai foi en toi, petit !
 !------------------------------!
@@ -180,8 +179,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Expecting...
-You mean you order me to win?
+Esperanças...
+Significa que está me ordenando
+a vencer?
 !------------------------------!
 Foi en moi...
 Vous m'ordonnez de gagner, c'est ça ?
@@ -201,8 +201,8 @@ ordenas que gane?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Order you?
-What are you talkin' about?
+Te ordenando?
+Do que tá falando?
 !------------------------------!
 Ordonner ?
 Mais de quoi tu parles ?
@@ -220,7 +220,8 @@ Che stai dicendo?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It means I have faith you can win.
+Significa que eu tenho fé na sua
+vitória.
 !------------------------------!
 Ce que je veux dire, c'est que j'ai foi
 en le fait que tu puisses gagner.
@@ -238,7 +239,7 @@ en que puedes ganar.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Faith...
+Fé...
 !------------------------------!
 Foi...
 !------------------------------!
@@ -258,8 +259,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Right. Now get out there and knock some
-heads!
+Tá. Agora vai lá e mete brasa!
 !------------------------------!
 Allez, donne le meilleur de toi !
 !------------------------------!

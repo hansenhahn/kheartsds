@@ -34,9 +34,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, my fur and whiskers!
-I'm late, I'm late, for a very important
-date!
+Ai, pelos meus pêlos e bigodes!
+É tarde, é tarde, tenho uma
+reunião muito importante!
 !------------------------------!
 Par mes moustaches, je suis en
 retard ! J'ai rendez-vous quelque
@@ -73,8 +73,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Dear me! I mustn't make Her Highness
-wait<E2><80><95>I'm late, I'm late, I'm late!
+Ai! Não posso fazer Sua Alteza
+esperar<E2><80><95>É tarde, é tarde, é tarde!
 !------------------------------!
 Je ne dois pas faire attendre
 Sa Majesté ! Je suis en retard,
@@ -100,8 +100,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No time to say goodbye<E2><80><95> Hello...
-I'm late, I'm late, I'm late!
+Sem tempo para dizer adeus<E2><80><95> Olá...
+É tarde, é tarde, é tarde!
 !------------------------------!
 Je n'ai pas le temps de dire au
 revoir ! Je suis en retard,
@@ -136,8 +136,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's his big rush?
-Maybe I should have a look up ahead.
+Por que ele está com tanta pressa?
+Talvez eu deva dar uma olhada adiante.
 !------------------------------!
 Pourquoi est-il si pressé ?
 Je devrais peut-être le suivre.

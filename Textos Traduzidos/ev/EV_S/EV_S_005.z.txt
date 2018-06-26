@@ -22,7 +22,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Bravo. Então, quê 'cê achou?
+Bravo. Então, que 'cê achou?
 Pegou o jeito deste negócio de missões?
 !------------------------------!
 Bravo. Alors, qu'en penses-tu ?
@@ -122,7 +122,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-que poderia ter feito isso de olhos vendados.
+que poderia ter feito isso
+de olhos vendados.
 !------------------------------!
 Est-ce qu'on pourra faire plus dur
 la prochaine fois ?

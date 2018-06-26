@@ -61,8 +61,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You think that sparkly dust would work
-in other worlds?
+Acha que aquele pó brilhante
+funcionaria nos outros mundos?
 !------------------------------!
 Dis, tu crois que cette poudre magique
 fonctionnerait dans d'autres mondes ?
@@ -85,7 +85,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I dunno about that...
+Nem sei...
 !------------------------------!
 Aucune idée...
 !------------------------------!
@@ -99,8 +99,8 @@ No tengo ni idea...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wow, you two sure flew through your
-mission.
+Nossa,vocês dois passaram 
+voando pela missão mesmo.
 !------------------------------!
 Vous avez survolé la mission on dirait.
 !------------------------------!
@@ -141,7 +141,7 @@ mi/mo/xo.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh, if you only knew.
+He, se você soubesse.
 !------------------------------!
 Ha, tu ne crois pas si bien dire !
 !------------------------------!
@@ -169,8 +169,8 @@ Xion...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sorry I'm late.
-I had my hands full today.
+Desculpa pelo atraso.
+Eu fiquei lotada hoje.
 !------------------------------!
 Désolée du retard.
 J'étais très occupée aujourd'hui.
@@ -246,8 +246,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So I was about to tell you, today me
-and Axel actually flew!
+Então, eu tava para te contar:
+hoje eu e Axel voamos de verdade!S
 !------------------------------!
 Tu sais quoi ? Axel et moi
 on a volé aujourd'hui !
@@ -275,7 +275,7 @@ mi/mo/xo.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You flew?
+Voaram?
 !------------------------------!
 Vous avez volé ?
 !------------------------------!
@@ -295,8 +295,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah. There's this sparkly dust that
-makes it possible.
+É. Tem esse pó brilhante 
+que faz isso ser possível.
 !------------------------------!
 Oui, c'est possible avec une espèce
 de poudre.
@@ -332,8 +332,8 @@ mi/mo/xo.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I was wondering why you two looked so
-happy. Lucky...
+Tava imaginando por que vocês pareciam 
+tão felizes.. Que sorte...
 !------------------------------!
 Je me demandais aussi pourquoi vous
 aviez l'air aussi contents. Vous en
@@ -362,8 +362,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's wrong?
-Did something happen again?
+O que foi?
+Aconteceu algo de novo?
 !------------------------------!
 Qu'est-ce qu'il y a ?
 Il s'est encore passé quelque
@@ -394,7 +394,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Nah, it's nothing...
+Não é nada não...
 !------------------------------!
 Non, ce n'est rien...
 !------------------------------!

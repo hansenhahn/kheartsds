@@ -20,7 +20,7 @@ mi/ch/41.z
 *.NULO.*
 !------------------------------!
  points...
-About what I'd expect.
+Era o que eu esperava mais ou menos.
 !------------------------------!
  points...
 C'est bien ce que je pensais.
@@ -38,7 +38,7 @@ Lo que esperaba, más o menos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Try for 150 points next time, all right?
+Tente 150 pontos na próximo, beleza?
 !------------------------------!
 Vise les 150 points la prochaine
 fois !

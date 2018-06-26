@@ -43,7 +43,7 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This place is swimming in sand.
+Este lugar tá coberto de areia.
 !------------------------------!
 Cet endroit ressemble à un bac à sable
 géant.
@@ -79,9 +79,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I guess them's the breaks when you
-build your city in the middle of the
-desert.
+Esse que deve ser o contra de se
+ter uma cidade no meio do deserto.
 !------------------------------!
 J'imagine que c'est le prix à payer
 quand on construit une ville en
@@ -120,8 +119,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Past that, not much to mention, though.
-Seems like a pretty normal town, yeah?
+Fora isso, não há muito o que falar.
+Parece uma cidade como outra qualquer, 
+não acha?
 !------------------------------!
 Mais à part ça, cette ville a
 l'air plutôt normale,
@@ -155,7 +155,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh?
+Hã?
 !------------------------------!
 Quoi ?
 !------------------------------!
@@ -181,9 +181,9 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Still with me there?
-I've seen you spaced out before, but
-this is ridiculous.
+Olá? Ainda tá aí?
+Tinha te visto viajando antes,
+mas isso já é ridículo.
 !------------------------------!
 Allô, la Terre ?
 Je sais que t'as tendance à rêvasser,
@@ -217,8 +217,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What? I'm fine.
-I'm fine...
+Hein? Ah, tô legal.
+Tô legal...
 !------------------------------!
 Quoi ? Mais non...
 !------------------------------!
@@ -240,8 +240,8 @@ mi/mo/xi.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let me guess.
-Castle Oblivion?
+Deixa eu adivinhar.
+Castelo Oblívio?
 !------------------------------!
 Laisse-moi deviner...
 C'est encore cette histoire
@@ -260,7 +260,7 @@ Deja que lo adivine.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-......
+...
 !------------------------------!
 ...
 !------------------------------!
@@ -274,9 +274,8 @@ Deja que lo adivine.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Like I said: the longer we take here,
-the longer you're gonna have to stay
-in the dark.
+Como eu disse, quanto mais tempo ficarmos
+aqui, mais tempo você vai ficar no escuro.
 !------------------------------!
 Comme je te l'ai dit, moins on ira
 vite, plus tu devras attendre
@@ -313,7 +312,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I know.
+Eu sei, eu sei.
 !------------------------------!
 Je sais.
 !------------------------------!

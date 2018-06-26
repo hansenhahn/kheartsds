@@ -34,8 +34,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hmm... I wonder how I'm gonna get
-signed up.
+Hmm... Como será que me inscrevo?
 !------------------------------!
 Hmm... je me demande comment je vais
 faire pour pouvoir m'inscrire.
@@ -53,8 +52,8 @@ conseguir inscribirme.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Am I seein' things!?
-Rookie, is that you?
+Tô vendo coisas?!
+Novato, é você?
 !------------------------------!
 Hé !
 C'est bien toi, bleusaille ?
@@ -99,7 +98,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Huh? Oh, uh...hey.
+Hã? Ah, uh... e aí.
 !------------------------------!
 Hein ? Oh, euh... bonjour.
 !------------------------------!
@@ -113,8 +112,8 @@ Uh? Oh, uh... Ciao.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I haven't seen you in ages.
-How are ya?
+Faz séculos que não te vejo.
+Como cê tá?
 !------------------------------!
 Comment ça va ? Ça fait un bail.
 !------------------------------!
@@ -134,7 +133,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'm hanging in there.
+Tô bem.
 !------------------------------!
 On fait aller.
 !------------------------------!
@@ -148,9 +147,8 @@ Voy tirando.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-That's good. 'Cause that vanishing act
-you pulled at the end of the last Games
-had me worried.
+Que bom. Porque você sumindo do nada
+no final do último Jogos me preocupou.
 !------------------------------!
 Je me suis fait un sang d'encre quand
 t'as disparu après la fin des Jeux de
@@ -172,7 +170,7 @@ los últimos juegos.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sorry...
+Desculpe...
 !------------------------------!
 Désolé...
 !------------------------------!
@@ -186,9 +184,9 @@ Lo siento...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, I figured you musta pulled through.
-No lousy Heartless is gonna wipe the
-floor with one of my boys.
+Bom, eu sabia que se sairia bem.
+Nenhum Heartless malígno vai dar
+uma surra num dos meus garotos.
 !------------------------------!
 M'enfin, je me suis dit que tu devais
 aller bien. Aucun Sans-cœur ne fait
@@ -228,9 +226,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Speakin' of which, when were ya
-plannin' to tell me you weren't the guy
-Herc sent?
+Falando nisso, quando tava
+pretendendo me contar que você
+não era quem o Herc mandou?
 !------------------------------!
 Mais au fait, quand est-ce que tu
 comptais me dire que t'étais pas
@@ -270,7 +268,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, if you'd have just liste<E2><80><95>
+Bem, se você tivesse escut<E2><80><95>
 !------------------------------!
 Ben, si vous m'aviez écou...
 !------------------------------!
@@ -303,8 +301,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This whole time I thought you were the
-Champ's top pick!
+Todo este tempo pensando que cê
+era a grande escolha do Campeão!
 !------------------------------!
 Pendant tout ce temps, j'ai cru que
 t'étais le petit protégé du champion !
@@ -324,8 +322,8 @@ campeón!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Okay, let's start over, Roxas.
-Where ya really from? Who sent ya?
+Tá, vamos começar de novo, Roxas.
+De onde cê é? Quem te mandou?
 !------------------------------!
 Bon, on va reprendre du début.
 D'où viens-tu ? Et qui t'envoie ?
@@ -349,7 +347,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Umm...well...
+Eh... bem...
 !------------------------------!
 Eh bien...
 !------------------------------!
@@ -398,7 +396,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I, uh... Hmm.
+Eu, uh... Hmm.
 !------------------------------!
 Je euh... Hum hum.
 !------------------------------!
@@ -430,8 +428,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Say no more.
-I get the picture.
+Não precisa mais falar.
+Já saquei.
 !------------------------------!
 Plus un mot.
 J'ai compris.
@@ -467,7 +465,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You do!?
+Sacou?!
 !------------------------------!
 Ah bon ?
 !------------------------------!
@@ -481,8 +479,8 @@ Ah sì?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sure, everybody's got a thing or two
-they wanna keep hush-hush.
+Claro, todo mundo tem uma ou duas
+coisinhas que quer deixar em segredo.
 !------------------------------!
 Oui. Tout le monde a ses petits
 secrets.
@@ -500,8 +498,8 @@ dos cosillas que quiere tapar.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Forget it<E2><80><95>doesn't matter.
-Let me get to the good news!
+Deixa pra lá<E2><80><95>não importa.
+Deixa eu te dar as boas novas!
 !------------------------------!
 T'en fais pas, on s'en balance.
 J'ai une bonne nouvelle à t'annoncer !
@@ -523,8 +521,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh yeah?
-What good news?
+Oi?
+Que boas novas?
 !------------------------------!
 Ah oui ?
 Laquelle ?
@@ -542,9 +540,9 @@ Quali buone notizie?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The Games are bein' held again today.
-You got perfect timing, kid.
-You want in?
+Os Jogos estão rolando de novo hoje.
+Você chegou em boa hora, filho.
+Quer entrar?
 !------------------------------!
 Les Jeux ont lieu aujourd'hui aussi.
 Tu tombes à pic, petit.
@@ -566,8 +564,8 @@ chico. ¿Quieres participar?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This time you might even walk home with
-the title.
+Desta vez você talvez até volte
+pra casa com o título.
 !------------------------------!
 Cette fois, tu pourrais bien
 remporter le titre.
@@ -588,7 +586,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-But<E2><80><95>you sure you don't mind?
+Mas<E2><80><95>tem certeza que não se importa?
 !------------------------------!
 Vous êtes sûr que ça ne vous
 dérange pas ?
@@ -606,7 +604,7 @@ no te importa?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sure I'm sure!
+Claro que tenho!
 !------------------------------!
 Bien sûr que non !
 !------------------------------!
@@ -620,7 +618,7 @@ Certo che sono sicuro!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Just gimme a holler when you're all set.
+Só me chamar quando tiver pronto.
 !------------------------------!
 Préviens-moi quand tu seras prêt.
 !------------------------------!

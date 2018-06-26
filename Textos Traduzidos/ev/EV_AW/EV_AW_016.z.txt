@@ -28,9 +28,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'm late! I'm late!
-I simply must get back. Oh dear!
-My report is due post-haste!
+É tarde! É tarde!
+Eu tenho que voltar logo. Ai!
+Meu aviso não pode atrasar mais!
 !------------------------------!
 Je suis en retard ! En retard !
 Je dois y retourner pour faire
@@ -64,9 +64,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Even if she's curious, she's sure to be
-most furious! For I'm late, I'm late,
-I'm late!
+Mesmo estando curiosa, ela
+com certeza está bem furiosa!
+Por que é tarde, é tarde, é tarde!
 !------------------------------!
 Oh, elle va être furieuse !
 Encore un raté et ma
@@ -100,7 +100,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's that rabbit.
+É aquele coelho.
 !------------------------------!
 C'est ce lapin-là.
 !------------------------------!
@@ -126,8 +126,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-The one you mentioned the last time we
-were here?
+Aquele que você tinha dito da
+última vez que estivemos aqui?
 !------------------------------!
 Celui dont tu parlais la dernière
 fois qu'on est venus ?
@@ -148,8 +148,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah... What's got him so tense?
-I'm a little curious.
+É... Por que ele está tão tenso?
+Estou meio curioso.
 !------------------------------!
 Oui... Pourquoi est-il si pressé ?
 Je serais curieux de le savoir.
@@ -180,8 +180,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, curiosity is essential to carving
-your own path through life.
+Bom, a curiosidade é essencial para
+trilhar seu próprio caminho pela vida.
 !------------------------------!
 La curiosité est essentielle pour se
 frayer un chemin dans la vie.
@@ -218,8 +218,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Get too curious, though, and it'll be a
-short walk.
+Mas fique curioso demas e será
+um passeio curto.
 !------------------------------!
 Mais trop de curiosité peut aussi
 parfois nous freiner.
@@ -241,9 +241,9 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No one can say whether following that
-rabbit's footsteps will be your lucky
-charm...or get you killed.
+Ninguém pode dizer se seguir os passos
+daquele coelho será seu amuleto da
+sorte... ou a sua morte.
 !------------------------------!
 Personne ne sait si suivre ce lapin
 nous portera bonheur... ou pas.
@@ -267,7 +267,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Isn't that a little dramatic?
+Isso não é um pouco dramático?
 !------------------------------!
 Tu n'en fais pas un peu trop ?
 !------------------------------!
@@ -284,8 +284,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Following him won't change anything.
-We're still here to hunt Heartless. 
+Segui-lo não vai mudar nada.
+Estamos aqui para caçar Heartless.
 !------------------------------!
 Le suivre ne posera pas de problème.
 Nous sommes ici pour chasser des
@@ -309,8 +309,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh heh.
-Well, if you're that certain...
+He he.
+Bem, se está tão seguro...
 !------------------------------!
 Hé, hé, hé.
 Si tu en es aussi sûr...
@@ -337,8 +337,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's go after our harried little hare,
-see where he takes us.
+Vamos atrás do nosso coelhinho
+apressado e ver onde nos leva.
 !------------------------------!
 courons après notre petit lapin pressé
 et voyons où ça nous mène.
@@ -360,7 +360,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You're okay with it, then?
+Está de acordo então?
 !------------------------------!
 Tu es d'accord ?
 !------------------------------!
@@ -377,8 +377,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Following him won't change anything.
-You said so yourself.
+Segui-lo não vai mudar nada.
+Você mesmo disse.
 !------------------------------!
 Le suivre ne posera pas de problème.
 C'est toi qui l'as dit.

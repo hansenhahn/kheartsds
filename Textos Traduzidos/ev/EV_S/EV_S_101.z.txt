@@ -40,7 +40,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-All done with work?
+Trabalho feito?
 !------------------------------!
 T'as fini le boulot ?
 !------------------------------!
@@ -57,7 +57,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yup.
+Aham.
 !------------------------------!
 Oui.
 !------------------------------!
@@ -89,7 +89,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Axel, you're not gonna believe this.
+Axel, você não vai acreditar.
 !------------------------------!
 Axel, tu ne vas pas me croire,
 mais...
@@ -110,7 +110,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I flew today.
+Eu voei hoje.
 !------------------------------!
 j'ai volé aujourd'hui !
 !------------------------------!
@@ -124,7 +124,7 @@ Hoy he volado.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Flew?
+Voou?
 !------------------------------!
 Volé ? Quoi, des cacahouètes ?
 !------------------------------!
@@ -138,8 +138,8 @@ Volato?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeah, like a bird! Well, sort of.
-It's hard to explain...
+É, como um pássaro! Bom, algo assim.
+É difícil de explicar..
 !------------------------------!
 Non, comme un oiseau ! Enfin presque...
 C'est dur à expliquer...
@@ -159,7 +159,7 @@ así. Es difícil de explicar...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I can imagine.
+Posso imaginar.
 !------------------------------!
 J'imagine...
 !------------------------------!
@@ -176,9 +176,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-There's just no way to describe it.
-I've been waiting all day to tell you
-and Xion!
+Não tem como descrever a sensação.
+Eu estava esperando o dia todo pra
+contar pra você e pra Xion!
 !------------------------------!
 Il n'y a pas de mots pour le décrire.
 J'ai attendu toute la journée pour
@@ -203,7 +203,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Right...
+Sei...
 !------------------------------!
 ...
 !------------------------------!
@@ -220,8 +220,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Flying felt so natural<E2><80><95>like I'd done it
-before. Weird, huh?
+Voar parecia tão natural...
+como se eu tivesse feito antes.
+Estranho, não?
 !------------------------------!
 C'était si simple... comme si ce n'était
 pas la première fois que je volais.
@@ -255,8 +256,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I wish Xion would wake up so I could
-tell her all about it.
+Queria que Xion acordasse para
+que eu pudesse contar pra ela.
 !------------------------------!
 J'aimerais que Xion se réveille
 pour lui raconter ça.

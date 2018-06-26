@@ -19,7 +19,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What was that all about?
+O que foi isso?
 !------------------------------!
 C'est quoi cette histoire ?
 !------------------------------!
@@ -36,8 +36,8 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-My guess is they're headed to see that
-queen of theirs.
+Meu palpite é que eles foram ver
+aquela rainha deles.
 !------------------------------!
 À mon avis, ils vont voir leur reine.
 !------------------------------!
@@ -60,8 +60,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heh heh, it seems the house here is a
-stickler for rules.
+He he, parece que a realiza daqui
+preza bastante pelas regras.
 !------------------------------!
 Hé, hé, hé, la dame est à cheval
 sur la ponctualité on dirait.

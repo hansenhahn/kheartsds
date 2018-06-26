@@ -20,7 +20,8 @@ Bip01_Head
 *.NULO.*
 !------------------------------!
 Ele está errado.
-Não é uma fraude... e eu também não.
+Não é uma fraude... 
+e eu também não.
 !------------------------------!
 C'est faux.
 Je ne suis pas une imposture...

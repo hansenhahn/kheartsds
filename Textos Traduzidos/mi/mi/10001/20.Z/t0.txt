@@ -1,0 +1,14 @@
+&.[EVT].&
+<E9><9A><8E><E7><B4><9A><E3><80><8C><E3><83><AC><E3><82><B8><E3><82><A7><E3><83><B3><E3><83><89><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F><EF><BC><8F><E3><82><B7><E3><83><BC><E3><82><AF><E3><83><AC><E3><83><83><E3><83><88><E3><83><AC><E3><83><9D><E3><83><BC><E3><83><88><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F><EF><BC><81>
+!------------------------------!
+Você alcançou a posição de Lenda. Novo relatório secreto destravado!
+!------------------------------!
+Vous avez obtenu le grade de légende. Nouveau rapport secret obtenu !
+!------------------------------!
+Du hast den Rang einer Legende erreicht.
+!------------------------------!
+Hai raggiunto il grado di Leggenda. Nuovo rapporto segreto sbloccato!
+!------------------------------!
+Rango conseguido: leyenda. Nuevo informe secreto
+!------------------------------!
+!******************************!

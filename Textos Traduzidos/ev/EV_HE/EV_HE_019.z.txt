@@ -16,7 +16,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Phil! I'm back!
+Fil! Voltei!
 !------------------------------!
 Phil ! Me revoilà !
 !------------------------------!
@@ -30,9 +30,9 @@ Fil! Sono tornato!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Where ya been, Herc!?
-We been drownin' in Heartless while
-you were off Zeus-knows-where!
+Onde cê tava, Herc?!
+Távamos repleto de Heartless enquanto
+cê tava fora Zeus sabe onde!
 !------------------------------!
 Où t'étais passé, Herc ?
 Les Sans-cœur nous ont attaqués
@@ -54,8 +54,8 @@ y tú estabas Zeus sabe dónde!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heartless? Where?
-Let me at 'em, Phil!
+Heartless? Onde?
+Deixa eles comigo, Fil!
 !------------------------------!
 Des Sans-cœur ? Où ça ?
 Je m'en occupe, Phil !
@@ -73,9 +73,9 @@ Ci penso io, Fil!
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Too late. The new rookie took care of
-'em. I'm tellin' ya, Champ, the kid ain't
-half bad!
+Tarde demais. O novo novato tomou
+conta deles. Vou te dizer, Campeão,
+o garoto não é nada mal!
 !------------------------------!
 Trop tard. Le petit nouveau s'en est
 chargé. Moi je te le dis, champion,

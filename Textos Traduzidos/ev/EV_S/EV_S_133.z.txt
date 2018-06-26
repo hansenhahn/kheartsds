@@ -76,7 +76,7 @@ Bip01_Head
 *.NULO.*
 !------------------------------!
 Mas eles não vão transformar 
-ela num Dusk?
+ela num Sombrio?
 !------------------------------!
 Mais ils vont la changer en Reflet,
 non ?

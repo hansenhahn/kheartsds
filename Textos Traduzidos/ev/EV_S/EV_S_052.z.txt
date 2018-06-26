@@ -168,7 +168,7 @@ mi/mo/ax.p2
 !------------------------------!
 Por que não? 
 Parece uma boa ideia pra mim.
-Com duas metadas se tem o todo.
+Com duas metades se tem um todo.
 !------------------------------!
 Pourquoi pas ? Ça me semble une
 bonne idée. Si on met deux moitiés
@@ -190,7 +190,7 @@ se hace una pinta entera.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-......
+...
 !------------------------------!
 ...
 !------------------------------!
@@ -222,7 +222,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Se deixar a gente se trabalhar juntos,
+Se deixar a gente trabalhar juntos,
 podemos fazer missões mais difíceis
 pra você sem nenhum problema.
 !------------------------------!

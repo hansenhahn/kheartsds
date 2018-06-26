@@ -16,7 +16,7 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Heartless duty again today?
+Missão contra Heartless de novo?
 !------------------------------!
 Encore une chasse aux Sans-cœur
 aujourd'hui ?
@@ -45,8 +45,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I keep telling them I'm not cut out for
-this stuff...
+Tô toda hora dizendo pra eles que
+não sou muito bom pra isso...
 !------------------------------!
 Je n'arrête pas de leur dire que
 ce n'est pas fait pour moi...
@@ -68,7 +68,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-This time we're after a specific target.
+Desta vez estamos atrás de um
+alvo em específico.
 !------------------------------!
 Cette fois, nous cherchons
 une cible en particulier.
@@ -98,7 +99,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Saïx said it was strong.
+Saïx disse que era forte.
 !------------------------------!
 Saïx a dit qu'elle était puissante.
 !------------------------------!
@@ -115,8 +116,8 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Yeesh...
-Is it too late to go home?
+Vixi...
+É muito tarde pra voltar?
 !------------------------------!
 Oh là là...
 C'est trop tard pour rentrer,
@@ -137,9 +138,8 @@ para volver a mi casa?
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's because I'm partnered up with you
-I keep getting saddled with these
-combat missions!
+Por a gente ser companheiros eu fico
+lotado dessas missões de luta.
 !------------------------------!
 C'est parce que je fais équipe avec
 toi qu'on me confie toutes ces
@@ -173,7 +173,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Wanna split up the search like last time?
+Quer dividir a busca como da
+última vez?
 !------------------------------!
 Tu veux qu'on se sépare comme
 l'autre fois ?
@@ -203,9 +204,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Are you crazy!?
-And risk actually finding that thing?
-I'm not fighting it alone!
+Tá doido?!
+E acabar encontrando aquela coisa?
+Não vou lutar sozinho nem morto!
 !------------------------------!
 Ça va pas la tête ? Pour tomber nez à
 nez avec cette chose ? Je ne compte
@@ -242,7 +243,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Then let's move out.
+Então vamos.
 !------------------------------!
 Alors allons-y.
 !------------------------------!

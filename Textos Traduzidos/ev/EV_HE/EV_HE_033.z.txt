@@ -28,9 +28,9 @@ mi/ch/08.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Okay, head into the Coliseum.
-Just remember my sure-fire way to
-win<E2><80><95>two words:
+Beleza, vai até o Coliseum.
+Só lembra o meu método pra vitória
+na certa<E2><80><95>duas palavras:
 !------------------------------!
 Allez, entre dans le Colisée.
 Et n'oublie pas la règle d'or
@@ -55,7 +55,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Never.
+Nunca.
 !------------------------------!
 Ne
 !------------------------------!
@@ -69,7 +69,7 @@ Non...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ever.
+Jamais.
 !------------------------------!
 Perds
 !------------------------------!
@@ -83,7 +83,7 @@ Pierdas.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Lose!
+Perca!
 !------------------------------!
 Jamais !
 !------------------------------!
@@ -106,7 +106,7 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-You entering some kind of contest,
+Tá entrando num tipo de torneio,
 Roxas?
 !------------------------------!
 Tu participes à une sorte de
@@ -134,8 +134,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sort of. These Games are the only way
-to get inside the Coliseum right now.
+Tipo isso. Esses Jogos são o único
+jeito de entrar no Coliseu agora.
 !------------------------------!
 Si on veut. Les Jeux sont la seule
 façon d'entrer dans le Colisée pour
@@ -160,7 +160,7 @@ mi/mo/de.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Ahh, I follow you.
+Ahh, vou com você.
 !------------------------------!
 Ah, je te suis.
 !------------------------------!
@@ -177,7 +177,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I wish you would.
+Gostaria.
 !------------------------------!
 Si seulement...
 !------------------------------!

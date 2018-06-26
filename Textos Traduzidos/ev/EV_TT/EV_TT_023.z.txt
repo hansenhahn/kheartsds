@@ -19,7 +19,7 @@ Bip01_Head
 &.[DSA].Condicional.&
 *.NULO.*
 !------------------------------!
-O que tem no topo dos Altos da Estação?
+O que tem no topo da Colina da Estação?
 !------------------------------!
 Qu'y a-t-il en haut de la rue de la gare ?
 !------------------------------!
@@ -85,7 +85,7 @@ Bip01_Head
 *.NULO.*
 !------------------------------!
 O que está escrito no quadro de 
-recados nos Altos da Estação?
+recados na Colina da Estação?
 !------------------------------!
 Qu'est-ce qui est écrit sur le tableau dans la
 rue de la gare ?

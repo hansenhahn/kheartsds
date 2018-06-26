@@ -34,8 +34,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Hey!
-Get back here, Abu!
+Ei!
+Abu, volte aqui!
 !------------------------------!
 Hé ! Abu, reviens ici !
 !------------------------------!
@@ -82,8 +82,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I told you, you can't just take things
-from the marketplace!
+Eu já te disse que você não pode
+ficar pegando coisas do mercado!
 !------------------------------!
 Je t'ai déjà dit de ne plus voler sur
 le marché !
@@ -105,9 +105,9 @@ Bip01_Head
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Uhp! No excuses! We made a promise:
-no more stealing! Now c'mon, let's go
-give this back.
+Umpf! Não tem desculpa! Fizemos uma
+promessa: nunca mais roubar! Agora 
+vem, vamos ir devolver isso.
 !------------------------------!
 Ça suffit ! On s'est promis de ne
 plus voler ! Allez, on va rendre

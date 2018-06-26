@@ -48,7 +48,7 @@ mi/mo/ax.p2
 !------------------------------!
 Minhas férias. 
 Posso tomar todo o tempo que eu quiser. 
-Desde quando tenho de te avisar?
+Desde quando tenho que te avisar?
 !------------------------------!
 Je suis en vacances. Je peux prendre
 mon temps. Depuis quand est-ce que
@@ -74,7 +74,7 @@ mi/mo/sa.p2
 *.NULO.*
 !------------------------------!
 Está se deixando ficar 
-muito ligado a eles.
+muito apegado a eles.
 !------------------------------!
 Tu t'attaches trop à eux.
 !------------------------------!
@@ -93,7 +93,7 @@ mi/mo/ax.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Sim, senhor, como desejar.
+Sim, senhor, às suas ordens.
 !------------------------------!
 Ouais, c'est ça... cause toujours.
 !------------------------------!

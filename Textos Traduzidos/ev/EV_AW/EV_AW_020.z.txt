@@ -46,8 +46,8 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So, this is the Queen's Rose Garden...
-It's like a maze.
+Então este é o Jardim de Rosas da
+Rainha... Parece um labirinto.
 !------------------------------!
 Ce sont les jardins de la Reine...
 C'est un vrai labyrinthe.
@@ -80,7 +80,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Our marks are in here somewhere.
+Nossos alvos estão aqui em algum
+lugar.
 !------------------------------!
 Nos cibles sont quelque part par là.
 !------------------------------!
@@ -105,9 +106,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-A suspicious trio...
-You really think she meant our
-Heartless?
+Um trio suspeito...
+Acha mesmo que ela estava falando
+dos Heartless?
 !------------------------------!
 Trois individus...
 Tu crois qu'elle parlait vraiment
@@ -135,7 +136,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I'm betting on it.
+Aposto minhas fichas nisso.
 !------------------------------!
 J'en mettrais ma main au feu.
 !------------------------------!
@@ -155,7 +156,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now, let's get looking.
+Agora, vamos olhar por aí.
 !------------------------------!
 Allons voir.
 !------------------------------!

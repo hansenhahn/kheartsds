@@ -1,0 +1,110 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Acho que isso é tudo o que 
+vamos descobrir aqui em baixo. 
+!------------------------------!
+XION
+Je crois qu'on a fait le tour.
+!------------------------------!
+XION
+Das dürfte alles sein, was wir hier unten
+finden.
+!------------------------------!
+XION
+Credo che qui non riusciremo
+a trovare altro.
+!------------------------------!
+XION
+Creo que esto es todo lo que
+podemos averiguar aquí abajo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+É. Não vejo mais nenhuma porta ou interruptores.
+Devemos estar no fim da caverna.
+!------------------------------!
+ROXAS
+Oui. Il n'y a pas d'autres portes ou interrupteurs.
+On doit être au fond de la caverne.
+!------------------------------!
+ROXAS
+Ja. Hier sind weder Türen noch Schalter.
+Das muss das Ende der Höhle sein.
+!------------------------------!
+ROXAS
+Sì, non vedo altre porte o interruttori.
+Dev'essere la fine della caverna.
+!------------------------------!
+ROXAS
+Sí. No veo más puertas ni
+interruptores. Parece que la
+cueva acaba aquí.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Então qual o veredito?
+!------------------------------!
+XION
+Alors, le verdict ?
+!------------------------------!
+XION
+Und was jetzt?
+!------------------------------!
+XION
+Qual è il verdetto?
+!------------------------------!
+XION
+¿Y cuál es el veredicto?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Bom, examinamos a caverna de ponta a
+ponta. Já chega por hoje. Vamos VAC.
+!------------------------------!
+ROXAS
+On a fouillé la caverne de fond en comble.
+C'est tout pour aujourd'hui. On rentre.
+!------------------------------!
+ROXAS
+Wir haben die Höhle komplett durchsucht.
+Kehren wir zum Schloss zurück.
+!------------------------------!
+ROXAS
+Abbiamo setacciato la caverna da cima
+a fondo. Direi di tornare alla base.
+!------------------------------!
+ROXAS
+Bueno, hemos buscado de
+arriba a abajo. Basta por hoy. VAC.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Por mim tudo bem.
+!------------------------------!
+XION
+Ça me va.
+!------------------------------!
+XION
+Von mir aus gern.
+!------------------------------!
+XION
+Per me va bene.
+!------------------------------!
+XION
+Me parece bien.
+!------------------------------!
+!******************************!

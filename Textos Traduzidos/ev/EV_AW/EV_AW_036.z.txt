@@ -28,8 +28,8 @@ mi/ob/3E.z
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-How wonderful!
-How simply wonderful!
+Magnífico!
+Simplesmente magnífico!
 !------------------------------!
 Joli. Très joli...
 !------------------------------!
@@ -62,9 +62,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Now the lights are lit, the shadow's
-permit to come out and play.
-<E2><80><9C>Hooray!<E2><80><9D> I say.
+Agora que as luzes estão acesar, a
+sombra está livre para sair e brincar.
+<E2><80><9C>Urra!<E2><80><9D>, eu diria.
 !------------------------------!
 Les lumières sont allumées pour
 que l'ombre vienne s'amuser.
@@ -110,7 +110,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I don't see any shadow.
+Não vejo nenhuma sombra.
 !------------------------------!
 Je ne vois aucune ombre.
 !------------------------------!
@@ -125,8 +125,8 @@ No veo ninguna sombra.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Well, the lights aren't lit here.
-They're lit over there.
+Bem, as luzes não estão acesas aqui.
+Elas estão por ali.
 !------------------------------!
 Bien sûr que non...
 Les lumières se sont allumées
@@ -148,8 +148,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Over where!?
-...Never mind, I know you won't tell us.
+Ali onde?!
+... Esquece, sei que você não
+vai nos contar.
 !------------------------------!
 Et vous ne nous direz pas où, même
 si on vous le demande, c'est ça ?
@@ -169,8 +170,8 @@ a decir.
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Oh, but today's the day I might.
-Today's the day to say your job's...
+Ah, mas hoje é o dia que talvez irei.
+Hoje é o dia de dizer que sua tarefa...
 !------------------------------!
 Eh bien, pas aujourd'hui.
 Pour tout vous dire...
@@ -191,8 +192,8 @@ vuestra labor...
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-...to look in the room with the napping
-knob.
+... é procurar atrás da maçaneta
+dorminhoca.
 !------------------------------!
 cherchez dans la pièce où sommeille
 la poignée de porte.

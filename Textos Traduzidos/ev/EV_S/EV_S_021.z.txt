@@ -32,7 +32,7 @@ Bip01_Neck
 *.NULO.*
 !------------------------------!
 Meu nome... 
-Foi a primeira coisa que Xion disse?
+foi a primeira coisa que a Xion disse?
 !------------------------------!
 Mon nom... Est-ce la première chose
 qu'elle ait jamais prononcé ?

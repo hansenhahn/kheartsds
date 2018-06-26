@@ -19,8 +19,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-So, we're here hunting specific game
-today, hmm?
+Então, vamos caçar algo em especial
+hoje, hmm?
 !------------------------------!
 J'espère que le jeu en vaudra la
 chandelle aujourd'hui, pas toi ?
@@ -47,7 +47,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What? Oh, right.
+O quê? Ah, sim.
 !------------------------------!
 Quoi ? Ah oui, moi aussi.
 !------------------------------!
@@ -70,7 +70,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-What's wrong? First time here?
+O que foi? É a primeira vez aqui?
 !------------------------------!
 Qu'est-ce qu'il y a ? C'est la première
 fois que tu viens ici ?
@@ -91,8 +91,8 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-No, I was here on a mission a little while
-ago.
+Não, eu estive aqui em uma missão
+há pouco tempo.
 !------------------------------!
 Non, je suis venu en mission ici
 il y a quelque temps.
@@ -113,8 +113,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-And I ran into this white rabbit in a
-huge hurry to get somewhere.
+E me deparei com esse coelho branco
+com muita pressa para chegar em
+algum lugar.
 !------------------------------!
 Et je suis tombé sur un lapin blanc
 qui était vraiment très pressé.
@@ -147,7 +148,7 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-A rabbit? Really?
+Um coelho? Sério?
 !------------------------------!
 Ah oui ? Un lapin blanc ?
 !------------------------------!
@@ -164,9 +165,9 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-I lost sight of him before I had a
-chance to see what the deal was,
-though.
+Mas eu o perdi de vista antes que
+pudesse ter a chance de ver o que
+era.
 !------------------------------!
 Mais je l'ai perdu de vue avant d'avoir
 eu une chance de lui demander
@@ -195,9 +196,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Luck's like that.
-A window of opportunity can open and
-close in the blink of an eye.
+É uma questão de sorte.
+Uma janela de oportunidades pode
+abrir e fechar num piscar de olhos.
 !------------------------------!
 C'est ça la chance.
 Un jour elle nous sourit et le lendemain
@@ -227,9 +228,9 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-It's whether or not you can jump on the
-chance when it arises that determines a
-man's fate.
+Saber pular ou não quando tiver a
+chance é o que determina o destino
+do homem.
 !------------------------------!
 C'est le fait de savoir saisir la
 chance quand elle se présente qui
@@ -253,8 +254,8 @@ mi/mo/lu.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's hope we stand up to the odds this
-time around.
+Vamos esperar ter mais sorte
+desta vez por aqui.
 !------------------------------!
 Espérons que nous serons chanceux
 cette fois-ci.
@@ -276,7 +277,7 @@ mi/mo/ro.p2
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Er, right.
+Er, é.
 !------------------------------!
 Euh, d'accord...
 !------------------------------!
@@ -299,7 +300,7 @@ Bip01_Spine1
 &.[DCA].Normal.&
 *.NULO.*
 !------------------------------!
-Let's get started.
+Vamos começar.
 !------------------------------!
 Allons-y.
 !------------------------------!

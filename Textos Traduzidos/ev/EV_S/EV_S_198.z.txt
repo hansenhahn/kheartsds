@@ -168,7 +168,7 @@ mi/mo/ax.p2
 *.NULO.*
 !------------------------------!
 Ah, aliás, Roxas, hoje vai ser 
-sua primeira missão a vera.
+sua primeira missão à vera.
 !------------------------------!
 Au fait, Roxas... Aujourd'hui, c'est
 ta première vraie mission.
@@ -212,7 +212,7 @@ mi/mo/ax.p2
 *.NULO.*
 !------------------------------!
 Ah, e se quiser praticar o que aprendeu
-até agora, temos as Holo-Missões toda 
+até agora, temos as Holo-Missões todas 
 disponíveis pra tu.
 !------------------------------!
 Si tu veux t'entraîner à ce que tu as
@@ -257,7 +257,7 @@ mi/mo/ax.p2
 !------------------------------!
 Aham. Na prática, são um jeito de
 reexperienciar as missões que já 
-tenham sido designado pra tu.
+tenham sido designadas pra tu.
 !------------------------------!
 Oui. En gros, tu peux refaire les
 missions qui t'ont été confiées
