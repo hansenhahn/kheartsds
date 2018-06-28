@@ -1,0 +1,3 @@
+EV = Textos principais, separados por áreas
+MI = Um remexidão com os textos secundários e 666 arquivos do jogo
+ST = Legenda dos vídeos
