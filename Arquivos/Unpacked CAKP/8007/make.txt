@@ -1,6 +1,0 @@
-0.Z LZSS
-1.Z LZSS
-100.Z LZSS
-_s.Z LZSS
-em0 None
-em0m None

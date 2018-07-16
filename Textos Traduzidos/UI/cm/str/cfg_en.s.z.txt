@@ -1,0 +1,376 @@
+﻿Ajuste suas configurações.
+!******************************!
+Configurações do Jogador
+!******************************!
+Configurações Universais
+!******************************!
+――
+!******************************!
+Controles
+!******************************!
+Tipo de Câmera
+!******************************!
+Veloc da Câmera
+!******************************!
+Eixo X da Câmera
+!******************************!
+Eixo Y da Câmera
+!******************************!
+Posição do Cursor
+!******************************!
+Lista de Comandos
+!******************************!
+Conduta de Combate do Parceiro
+!******************************!
+Alvo
+!******************************!
+Suporte
+!******************************!
+Magia de Ataque
+!******************************!
+Cura
+!******************************!
+Força do Inimigo
+!******************************!
+Força do Jogador
+!******************************!
+Sugar PV
+!******************************!
+Ataque Amigo
+!******************************!
+Miras Amigas
+!******************************!
+Coroas de Posição
+!******************************!
+Desvantagens
+!******************************!
+Ganhos por Dano
+!******************************!
+Contagem para VAC
+!******************************!
+Vidas
+!******************************!
+Prêmio de PV
+!******************************!
+Ganhos por Abate
+!******************************!
+Quebras de Limite
+!******************************!
+Tipo A
+!******************************!
+Tipo B
+!******************************!
+Auto
+!******************************!
+Manual
+!******************************!
+Rápido
+!******************************!
+Normal
+!******************************!
+Lento
+!******************************!
+Normal
+!******************************!
+Invertido
+!******************************!
+Normal
+!******************************!
+Invertido
+!******************************!
+Reverter
+!******************************!
+Permanecer
+!******************************!
+㌢ + <+>
+!******************************!
+㌢ Só
+!******************************!
+Mesmo
+!******************************!
+Separar
+!******************************!
+Desligado
+!******************************!
+Dano
+!******************************!
+Recuperação
+!******************************!
+Sem Suporte
+!******************************!
+Desabilitado
+!******************************!
+Habilitado
+!******************************!
+Desabilitado
+!******************************!
+Habilitado
+!******************************!
+Normal
+!******************************!
+Alto
+!******************************!
+Máximo
+!******************************!
+Normal
+!******************************!
+Lento
+!******************************!
+Mínimo
+!******************************!
+Sempre
+!******************************!
+Chão
+!******************************!
+Desligado
+!******************************!
+Alto
+!******************************!
+Lento
+!******************************!
+Desligado
+!******************************!
+Ligado
+!******************************!
+Desligado
+!******************************!
+Ligado
+!******************************!
+Desligado
+!******************************!
+Desligado
+!******************************!
+Ligado
+!******************************!
+Sempre
+!******************************!
+Ligado
+!******************************!
+Desligado
+!******************************!
+30
+!******************************!
+120
+!******************************!
+Nenhum
+!******************************!
+5
+!******************************!
+3
+!******************************!
+1
+!******************************!
+Ligado
+!******************************!
+Desligado
+!******************************!
+Todo
+!******************************!
+Metade
+!******************************!
+Nenhum
+!******************************!
+Infinito
+!******************************!
+Normal
+!******************************!
+Desligado
+!******************************!
+Defina o funcionamento dos Botões L/R:
+!******************************!
+Escolha como controlar a câmera:
+!******************************!
+Defina a velocidade da câmera: 
+!******************************!
+Defina os controles da câmera horizontais:
+!******************************!
+Definia os controles da câmera verticais:
+!******************************!
+Defina o funcionamento do cursor de comando:
+!******************************!
+Escolha como navegar pela lista de comandos:
+!******************************!
+Escolha a quem parceiros deverão atacar com armas:
+!******************************!
+Escolha como parceiros deverão usar magias e itens:
+!******************************!
+Opte sobre magia de ataque:
+!******************************!
+Opte sobre todos meios de recuperação:
+!******************************!
+Defina o poder dos ataques inimigos:
+!******************************!
+Defina o poder dos ataque do jogador:
+!******************************!
+Escolha se jogadores perdem PV ao longo do tempo:
+!******************************!
+Escolha se jogadores podem ferir uns aos outros:
+!******************************!
+Opte sobre miras do jogador:
+!******************************!
+Opte sobre ícones que mostram quem está vencendo:
+!******************************!
+Opte sobre desvantagens:
+!******************************!
+Escolha quanto jogadores perderão prêmios quando acertados:
+!******************************!
+Defina um limite de tempo para chegar ao corredor negro:
+!******************************!
+Defina quantas chances você terá:
+!******************************!
+Opte sobre prêmios de PV:
+!******************************!
+Escolha quantos prêmios jogadores perderão quando abatidos:
+!******************************!
+Defina as regras para usar Quebras de Limite:
+!******************************!
+㌧: Restaurar câmera / Mira / Alternar tipo de câmera
+<L>: Acessar atalhos
+!******************************!
+㌧: Girar câmera / Mira           <L> + <R>:
+<L>: Girar ou restaurar câmera   Acessar atalhos
+!******************************!
+A câmera ficará atrás de você enquanto se move.
+Segure <R> para mudar para Manual (somente controle A).
+!******************************!
+A câmera não se ajustará quando se mover.
+Segure <R> para mudar para Auto (somente controle A).
+!******************************!
+Controles da câmera responderão mais rápido,
+com esforço mínimo.
+!******************************!
+Controles da câmera responderão na velocidade normal.
+!******************************!
+Controles da câmera responderão mais lento e preciso.
+!******************************!
+Para direita  / <SE><LE><CT> & <+D>: Pan camera right
+Para esquerda / <SE><LE><CT> & <+E>: Pan camera left
+!******************************!
+Para direita  / <SE><LE><CT> & <+D>: Pan camera left
+Para esquerda / <SE><LE><CT> & <+E>: Pan camera right
+!******************************!
+Para cima  / <SE><LE><CT> & <+C>: Deslocar camera para cima
+Para baixo / <SE><LE><CT> & <+B>: Deslocar camera para baixo
+!******************************!
+Para cima  / <SE><LE><CT> & <+C>: Deslocar camera para baixo
+Para baixo / <SE><LE><CT> & <+B>: Deslocar camera para cima
+!******************************!
+O cursor reverterá para "Ataque" após você usar
+magia ou um item.
+!******************************!
+O cursor permanecerá no lugar mesmo após usar magia
+ou um item
+!******************************!
+Aperte <X> e você poderá usar <+> para navegar pela lista.
+Perfeito para usar itens e magias pesadas.
+!******************************!
+Desligue a navegação usando <+>. Você ainda pode passar
+pelos comandos apertando <X>.
+!******************************!
+Parceiros focarão em atacar no mesmo inimigo que o seu.
+!******************************!
+Parceiros deixarão você lidar com seu alvo e focarão
+em atacar outros inimigos.
+!******************************!
+Parceiros nunca atacarão com suas armas.
+!******************************!
+Parceiros irão mais usar magias de ataque, e 
+recorrer a magias de recuperação só quando preciso.
+!******************************!
+Partners irão mais usar itens/magias de recuperação,
+e recorrer a magias de ataque só quando preciso.
+!******************************!
+Parceiros nunca usarão magia ou itens que te auxiliem.
+!******************************!
+Nenhuma magia de ataque poderá ser usada.
+!******************************!
+Magias de ataque funcionarão normalmente.
+!******************************!
+PV e magias não poderão ser recuperados.
+!******************************!
+PV e magias poderão ser recuperados 
+como de costume.
+!******************************!
+Ataques inimigos tirarão a mesma quantidade 
+de dano de sempre.
+!******************************!
+Ataques inimigos tirarão mais dano do que o normal.
+!******************************!
+Ataques inimigos tirarão grandes quantidades de dano
+!******************************!
+Jogadores tirarão a mesma quantidade 
+de dano de sempre.
+!******************************!
+Jogadores tirarão menos dano que o normal.
+!******************************!
+Jogadores dificilmente tirarão dano de todos
+os inimigos.
+!******************************!
+Seu PV será sugado durante todo o jogo.
+!******************************!
+Seu PV será sugado enquanto você estiver no chão.
+!******************************!
+Seu PV não será sugado, a menos que tome dano.
+!******************************!
+Atacar outros jogadores tirará
+uma grande quantidade de dano.
+!******************************!
+Atacar outros jogadores tirará 
+uma pequena quantidade de dano.
+!******************************!
+Atacar outros jogadores não terá efeito.
+!******************************!
+Você poderá mirar em outros jogadores
+da mesma forma que se faz em inimigos.
+!******************************!
+Você não poderá mirar em outros jogadores.
+!******************************!
+Ícones de coroa serão mostrados.
+!******************************!
+Não serão mostrados ícones de coroa.
+!******************************!
+Jogadores de baixo nível começarão a missão
+com Pontos de Missão extras.
+!******************************!
+Todos jogadores começaram iguais,
+não importando o nível.
+!******************************!
+Jogadores sempre largarão Prêmios de Missão.
+!******************************!
+Jogadores às vezes largarão Prêmios de Missão.
+!******************************!
+Jogadores nunca largarão Prêmios de Missão 
+quando acertados.
+!******************************!
+Você terá 30 segundos uma vez a missão estando completa.
+!******************************!
+Você terá 120 segundos uma vez a missão estando completa.
+!******************************!
+Nenhuma contagem ocorrerá.
+A missão não terminará até todos jogadores VAC.
+!******************************!
+Você falhará na missão se for abatido cinco vezes.
+!******************************!
+Você falhará na missão se for abatido três vezes.
+!******************************!
+Você falhará na missão se for abatido uma vez só.
+!******************************!
+Prêmios de PV aparecerão como de costume 
+quando derrotar inimigos.
+!******************************!
+Não aparecerão Prêmios de PV 
+quando derrotar inimigos.
+!******************************!
+Jogadores perderão seus Prêmios de Missão.
+!******************************!
+Jogadares perderão metade de seus Prêmios de Missão.
+!******************************!
+Jogadores não perderão seus Prêmios de Missão.
+!******************************!
+Quebras de Limite poderão ser usadas em sequência.
+O limiar para usá-las é travado nos 50% de PV.
+!******************************!
+Quebras de Limite poderão ser usadas normalmente.
+!******************************!
+Nenhuma Quebra de Limite poderá ser usada.
+!******************************!

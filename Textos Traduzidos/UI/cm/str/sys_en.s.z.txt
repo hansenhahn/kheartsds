@@ -1,0 +1,6 @@
+Erro de comunicação.
+Aperte <A> para voltar à Tela Inicial.
+!******************************!
+Não é possível executar a Comunicação Sem Fio do DS.
+Aperte <A> para voltar à Tela Inicial.
+!******************************!

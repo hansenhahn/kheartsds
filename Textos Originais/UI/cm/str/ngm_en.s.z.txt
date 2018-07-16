@@ -1,0 +1,29 @@
+Select a difficulty.
+!******************************!
+Review your choice.
+!******************************!
+Beginner Mode
+!******************************!
+Standard Mode
+!******************************!
+Proud Mode
+!******************************!
+An easy mode you can breeze right through.
+Action not your thing? No worries; start right here.
+!******************************!
+The normal difficulty setting.
+Looking for just the right balance? Choose this.
+!******************************!
+A thrilling challenge packed with powerful enemies.
+Proud of your skills? Proud is for you.
+!******************************!
+You can't change modes later. Choose carefully!
+!******************************!
+Difficulty
+!******************************!
+Start a new game at this difficulty?
+!******************************!
+Yes
+!******************************!
+No
+!******************************!
