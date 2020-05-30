@@ -9,6 +9,8 @@ import struct
 import array
 import tempfile
 import codecs
+import glob
+import mmap
 
 from libs import compression, parser
 from libs.pytable import normal_table
@@ -23,6 +25,15 @@ TAG_NM = r'^\[(.+?)\]$'
 TAG_CH = r'(<.+?>)'
 TAG_CH2 = r'^<(.+?)>$'
 END = r'^!\D{30}!$'
+
+def scandirs( path ):
+    files = []
+    for currentFile in glob.glob( os.path.join( path, '*' ) ):
+        if os.path.isdir( currentFile ):
+            files += scandirs( currentFile )
+        else:
+            files.append( currentFile )
+    return files
 
 def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
             outdir = 'Arquivos PT-BR/P2',
@@ -162,9 +173,12 @@ def pack_CAKP(root = '../Textos PT-BR/CAKP', outdir = '../Arquivos PT-BR/Unpacke
                 files = []
                 for name in nametable:
                     with open(os.path.join(folder, name), 'rb') as file:
+                        print os.path.join(folder, name)
+                        
                         files.append(file.read())
-
+                
                 print "Empacotando %s." % folder
+                #raw_input()
                         
                 pst = 0x34
                 pst += 4 * (2*len(files) + 1)
@@ -251,6 +265,42 @@ def pack_GNRC(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked 
                     output.close()
             else:
                 pass                
+                
+def pack_Z(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'):
+    table = normal_table('tabela2.tbl')
+    table.fill_with('61=a', '41=A', '30=0')
+    table.add_items('0A=\n')
+    
+    table.set_mode('inverted')
+    files = filter(lambda x: re.match(r'^(.+?)\.txt$', x), scandirs(root))        
+    for _, fname in enumerate(files):
+        
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)    
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+
+            output = open( filepath, "rb")
+            buffer = compression.onz.uncompress(output, 0)
+            output.close()
+            
+            output = open( filepath, "r+b")
+            buffer.tofile(output)            
+            output.seek(0, 0)                
+        
+            parser.generic_inserter_1(input, output, table)
+
+            buffer = compression.onz.compress(output)
+            
+            output.close()
+            output = open( filepath, "wb")
+            buffer.tofile(output)
+            output.close()
+            
+
 
  # *********************** WIP *********************** #
                 
@@ -475,6 +525,10 @@ if __name__ == '__main__':
         print "Packing GNRC text"
         pack_GNRC(root = args.src , outdir = args.src1 )
         pack_P2(root = args.src1, outdir = args.dst, extension = args.ext, has_fnt = args.has_fnt)
+    elif args.mode == "z":
+        print "Packing Z text"
+        pack_Z(root = args.src , outdir = args.dst )
+        #shutil.copy( 
     else:
         sys.exit(1)
         

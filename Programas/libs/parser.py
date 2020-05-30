@@ -515,64 +515,72 @@ def generic_inserter_1(input, output, table):
             
         c.pop(0) # !**..**! 
     
-        
     base_address = struct.unpack('<L',output.read(4))[0]
+   
     
     #data_ptr = base_address
-    data_ptr = os.path.getsize( output.name )
-    
-    while True:
-        # print hex(output.tell())
-        
-        # if output.tell() == 0x614:
-            # raw_input()
+    # POCOTO POCOTO POCOTO --- VAI CAVALO!!!
+    if os.path.isfile( input.name + "size" ):
+        print input.name + "size"
+        g = open( input.name + "size" , "rb" )
+        data_ptr = struct.unpack("<L", g.read(4))[0]
+        g.close()
+    else:
+        data_ptr = os.path.getsize( output.name )
+        g = open( input.name + "size" , "wb" )
+        g.write( struct.pack("<L", data_ptr) )
+        g.close()        
+
+    while True:        
         
         pointers = []
     
         flag = output.read(2)
         size = struct.unpack('<H', output.read(2))[0] & 0xFF
+
+        #print hex(struct.unpack("<H", flag)[0])
         
-        # if flag == '\x01\x0A':
-            # addrRet = output.tell() 
+        if flag == '\x01\x0A':
+            addrRet = output.tell() 
             
-            # output.seek(20, 1)
-            # if output.read(4) == '\xff\xff\xff\xff':
-                # output.seek(16, 1)  
-            # else:       
-                # data = _dict['\x01\x0A'].pop(0)
+            output.seek(20, 1)
+            if output.read(4) == '\xff\xff\xff\xff':
+                output.seek(16, 1)  
+            else:       
+                data = _dict['\x01\x0A'].pop(0)
             
-                # output.seek(data_ptr, 0)
-                # output.write(data)
-                # output.write('\x00')
-                # pointers.append(data_ptr - base_address)
-                # while output.tell() % 4 != 0:
-                    # output.write('\x00')
-                # data_ptr = output.tell()
+                output.seek(data_ptr, 0)
+                output.write(data)
+                output.write('\x00')
+                pointers.append(data_ptr - base_address)
+                while output.tell() % 4 != 0:
+                    output.write('\x00')
+                data_ptr = output.tell()
                 
-                # output.seek(addrRet, 0)
-                # output.seek(20, 1)
-                # output.write(struct.pack('<L', pointers[0]))
-                # output.seek(16, 1)          
+                output.seek(addrRet, 0)
+                output.seek(20, 1)
+                output.write(struct.pack('<L', pointers[0]))
+                output.seek(16, 1)          
         
-        # elif flag == '\x01\x1E':
-            # data = _dict['\x01\x1E'].pop(0)
+        elif flag == '\x01\x1E':
+            data = _dict['\x01\x1E'].pop(0)
         
-            # addrRet = output.tell()         
-            # output.seek(data_ptr, 0)
-            # output.write(data)
-            # output.write('\x00')
-            # pointers.append(data_ptr - base_address)
-            # while output.tell() % 4 != 0:
-                # output.write('\x00')
-            # data_ptr = output.tell()
+            addrRet = output.tell()         
+            output.seek(data_ptr, 0)
+            output.write(data)
+            output.write('\x00')
+            pointers.append(data_ptr - base_address)
+            while output.tell() % 4 != 0:
+                output.write('\x00')
+            data_ptr = output.tell()
             
-            # output.seek(addrRet, 0)
-            # output.seek(12, 1)
-            # output.write(struct.pack('<L', pointers[0]))
-            # output.seek(40, 1)
+            output.seek(addrRet, 0)
+            output.seek(12, 1)
+            output.write(struct.pack('<L', pointers[0]))
+            output.seek(40, 1)
         
         # [DCA] Normal
-        if flag == '\x01\x1D':
+        elif flag == '\x01\x1D':
             data = _dict['\x01\x1D'].pop(0)
             
             addrRet = output.tell()
@@ -684,121 +692,121 @@ def generic_inserter_1(input, output, table):
                 output.write(struct.pack('<L', pointers[3]))
             output.seek(8, 1)
         
-        # # [VID].Legenda        
-        # elif flag == '\x03\x01':
-            # data = _dict['\x03\x01'].pop(0)
+        # [VID].Legenda        
+        elif flag == '\x03\x01':
+            data = _dict['\x03\x01'].pop(0)
         
-            # addrRet = output.tell()         
-            # output.seek(data_ptr, 0)
-            # output.write(data)
-            # output.write('\x00')
-            # pointers.append(data_ptr - base_address)
-            # while output.tell() % 4 != 0:
-                # output.write('\x00')
-            # data_ptr = output.tell()
+            addrRet = output.tell()         
+            output.seek(data_ptr, 0)
+            output.write(data)
+            output.write('\x00')
+            pointers.append(data_ptr - base_address)
+            while output.tell() % 4 != 0:
+                output.write('\x00')
+            data_ptr = output.tell()
             
-            # output.seek(addrRet, 0)
-            # output.seek(4, 1)
-            # output.write(struct.pack('<L', pointers[0]))
+            output.seek(addrRet, 0)
+            output.seek(4, 1)
+            output.write(struct.pack('<L', pointers[0]))
 
-        # elif flag == '\x03\x02':
-            # data = _dict['\x03\x02'].pop(0)
+        elif flag == '\x03\x02':
+            data = _dict['\x03\x02'].pop(0)
         
-            # addrRet = output.tell()             
-            # output.seek(data_ptr, 0)
-            # for x in range(3):
-                # string = data.pop(0)
-                # if string:
-                    # output.write(string)
-                    # output.write('\x00')
-                    # pointers.append(data_ptr - base_address)
-                    # while output.tell() % 4 != 0:
-                        # output.write('\x00')
-                    # data_ptr = output.tell()
-                # else:
-                    # pointers.append(0xFFFFFFFF)
-                    # data_ptr = output.tell()
+            addrRet = output.tell()             
+            output.seek(data_ptr, 0)
+            for x in range(3):
+                string = data.pop(0)
+                if string:
+                    output.write(string)
+                    output.write('\x00')
+                    pointers.append(data_ptr - base_address)
+                    while output.tell() % 4 != 0:
+                        output.write('\x00')
+                    data_ptr = output.tell()
+                else:
+                    pointers.append(0xFFFFFFFF)
+                    data_ptr = output.tell()
                     
-            # output.seek(addrRet, 0)
-            # output.seek(4, 1)
-            # output.write(struct.pack('<L', pointers[0]))
-            # output.seek(4, 1)
-            # output.write(struct.pack('<L', pointers[1]))
-            # output.seek(4, 1)
-            # output.write(struct.pack('<L', pointers[2]))
+            output.seek(addrRet, 0)
+            output.seek(4, 1)
+            output.write(struct.pack('<L', pointers[0]))
+            output.seek(4, 1)
+            output.write(struct.pack('<L', pointers[1]))
+            output.seek(4, 1)
+            output.write(struct.pack('<L', pointers[2]))
             
-            # #
+            #
             
-        # elif flag == '\x03\x03':
-            # data = _dict['\x03\x03'].pop(0)
-            # output.seek(4, 1)
-            # output.write(data[::-1])
+        elif flag == '\x03\x03':
+            data = _dict['\x03\x03'].pop(0)
+            output.seek(4, 1)
+            output.write(data[::-1])
             
-        # elif flag == '\x00\x05':
-            # data = _dict['\x00\x05'].pop(0)
+        elif flag == '\x00\x05':
+            data = _dict['\x00\x05'].pop(0)
         
-            # addrRet = output.tell()
+            addrRet = output.tell()
             
-            # output.seek(data_ptr, 0)            
-            # pointers.append(output.tell() - base_address)
-            # output.write(data)
-            # output.write('\x00')
-            # while output.tell() % 4 != 0:
-                # output.write('\x00')
-            # data_ptr = output.tell()
+            output.seek(data_ptr, 0)            
+            pointers.append(output.tell() - base_address)
+            output.write(data)
+            output.write('\x00')
+            while output.tell() % 4 != 0:
+                output.write('\x00')
+            data_ptr = output.tell()
             
-            # output.seek(addrRet, 0)
-            # output.write(struct.pack('<L', pointers[0]))    
-            # output.seek(4, 1)
+            output.seek(addrRet, 0)
+            output.write(struct.pack('<L', pointers[0]))    
+            output.seek(4, 1)
             
             
-        # elif flag == '\x00\x1b':
-            # data = _dict['\x00\x1b'].pop(0)
+        elif flag == '\x00\x1b':
+            data = _dict['\x00\x1b'].pop(0)
             
-            # addrRet = output.tell()
+            addrRet = output.tell()
             
-            # output.seek(data_ptr, 0)            
-            # pointers.append(output.tell() - base_address)
-            # output.write(data)
-            # output.write('\x00')
-            # while output.tell() % 4 != 0:
-                # output.write('\x00')
-            # data_ptr = output.tell()
+            output.seek(data_ptr, 0)            
+            pointers.append(output.tell() - base_address)
+            output.write(data)
+            output.write('\x00')
+            while output.tell() % 4 != 0:
+                output.write('\x00')
+            data_ptr = output.tell()
             
-            # output.seek(addrRet, 0)
-            # output.seek(12, 1)
-            # output.write(struct.pack('<L', pointers[0]))                
+            output.seek(addrRet, 0)
+            output.seek(12, 1)
+            output.write(struct.pack('<L', pointers[0]))                
                 
-        # elif flag == '\x13\x00':
-            # data = _dict['\x13\x00'].pop(0)
+        elif flag == '\x13\x00':
+            data = _dict['\x13\x00'].pop(0)
             
-            # addrRet = output.tell()
+            addrRet = output.tell()
             
-            # output.seek(data_ptr, 0)
+            output.seek(data_ptr, 0)
 
-            # ptr = []
-            # for y in range(6):
-                # string = data[x].pop(0)
-                # if string:
-                    # output.write(string)
-                    # output.write('\x00')
-                    # ptr.append(data_ptr - base_address)
-                    # while output.tell() % 4 != 0:
-                        # output.write('\x00')
-                    # data_ptr = output.tell()
-                # else:
-                    # ptr.append(0xFFFFFFFF)
-                    # data_ptr = output.tell()
-            # pointers.append(output.tell() - base_address)
-            # for y in ptr:
-                # output.write(struct.pack('<L', y))
-            # output.write(struct.pack('<L', 0xFFFFFFFF))
-            # data_ptr = output.tell()
+            ptr = []
+            for y in range(6):
+                string = data[x].pop(0)
+                if string:
+                    output.write(string)
+                    output.write('\x00')
+                    ptr.append(data_ptr - base_address)
+                    while output.tell() % 4 != 0:
+                        output.write('\x00')
+                    data_ptr = output.tell()
+                else:
+                    ptr.append(0xFFFFFFFF)
+                    data_ptr = output.tell()
+            pointers.append(output.tell() - base_address)
+            for y in ptr:
+                output.write(struct.pack('<L', y))
+            output.write(struct.pack('<L', 0xFFFFFFFF))
+            data_ptr = output.tell()
                     
-            # output.seek(addrRet, 0)
-            # output.seek(4, 1)
-            # output.write(struct.pack('<L', pointers[0]))
-            # output.seek(16, 1)          
+            output.seek(addrRet, 0)
+            output.seek(4, 1)
+            output.write(struct.pack('<L', pointers[0]))
+            output.seek(16, 1)          
                 
         elif flag == '\x00\x03':
             break           
@@ -810,5 +818,5 @@ def generic_inserter_1(input, output, table):
             break
             
         output.flush()
-    
+
     return True
