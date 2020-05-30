@@ -1,0 +1,49 @@
+
+Kingdom Hearts 358/2 Days - Beta 1
+
+- Um lançamento Monkeys Traduções e Jacutem Sabão -
+
+
+
+=============================================================================
+
+Informações sobre a ROM:
+	Nome Original: 
+	Idioma Original: Inglês
+	Idioma Traduzido: Português Brasileiro
+	CRC: 
+
+Sobre a Tradução:
+	Textos:  ?%
+	Imagens: ?%
+	Revisão: ?%
+
+Equipe:
+	Responsável: DiegoHH e Gamerulez
+	ROMHacking e Programação: DiegoHH
+	Textos da História: Gamerulez 
+	Imagens: 
+	Revisão: 
+
+Notas da Equipe:
+
+
+Notas das Versões:
+	- 27/06/18 Beta 1
+		- Tradução de boa parte dos textos principais e secundários.
+
+Contato:	
+	E-mail: hansen.hahn@gmail.com
+	Pelo FURT: http://www.romhacking.net.br
+	Canal FURT/RHBR no Discord: https://discord.gg/keJkKWk
+
+Licença de Uso:
+	A presente obra encontra-se licenciada sob a licença
+	Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported.
+
+	Para visualizar uma cópia da licença, visite
+	http://creativecommons.org/licenses/by-nc-nd/3.0/ ou mande uma carta para:
+	Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+
+								LEIA-ME por DiegoHH <hansen.hahn@gmail.com>	

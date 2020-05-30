@@ -119,11 +119,19 @@ class NCLRFormat(object):
         # WIP
         self.data.seek(self.chunks["PLTT"]["data_address"], 0)
         self.pltt = []
-        for y in range(1):
-            plt = []
-            for x in range(256):
-                plt.append(gba2tuple(self.data))
-            self.pltt.append(plt)
+        if ( self.chunks["PLTT"]["bitdepth"] == 3 ):
+            for y in range(16):
+                plt = []
+                for x in range(16):
+                    plt.append(gba2tuple(self.data))
+                self.pltt.append(plt)
+        
+        else:
+            for y in range(1):
+                plt = []
+                for x in range(256):
+                    plt.append(gba2tuple(self.data))
+                self.pltt.append(plt)
 
         return
 

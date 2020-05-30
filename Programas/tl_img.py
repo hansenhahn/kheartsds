@@ -37,7 +37,7 @@ def unpackBackground( src, dst, nclr, nscr, ncgr ):
     for i in range(len(table)):
         mapper = table[i]
         
-        pal = palette.pltt[mapper.palette]
+        pal = palette.pltt[mapper.palette]         
         if mapper.number >= 0:
             tile = tiles[mapper.number]
         else:
@@ -54,10 +54,10 @@ def unpackBackground( src, dst, nclr, nscr, ncgr ):
                 
     if not os.path.isdir( dst ):
         os.makedirs( dst )
-        
-    print os.path.join( dst, 'BKG_%03d.bmp' % nscr )
-    with open( os.path.join( dst, 'BKG_%03d.bmp' % nscr ), 'wb') as o:
-        p = bmp.Writer(256,192,24)
+      
+    print os.path.join( dst, 'IMG1_%03d_%03d_%03d.bmp' % ( nclr, nscr , ncgr ) )
+    with open( os.path.join( dst, 'IMG1_%03d_%03d_%03d.bmp' % ( nclr, nscr , ncgr ) ), 'wb') as o:
+        p = bmp.Writer(map.chunks["SCRN"]["width"],map.chunks["SCRN"]["height"]  ,24)
         p.write(o, buffer)    
 
 if __name__ == "__main__":
