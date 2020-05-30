@@ -116,7 +116,7 @@ class NCGRFormat(object):
             shift = [x * bitdepth for x in range(sample)]
 
         self.data.seek(self.chunks["CHAR"]["data_address"], 0)
-        print hex(self.data.tell())
+        #print hex(self.data.tell())
 
         char_data = []
         for x in range(count):
