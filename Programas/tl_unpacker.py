@@ -145,56 +145,59 @@ def unpackD2KP( f, dst2 ):
 
             if stamp == "RLCN": # Paleta de cores
                 print ">> Extracting NCLR"
-                with open( os.path.join( dst2, "NCLR_%03d" % i ), "wb" ) as fd:
+                with open( os.path.join( dst2, "%04d.nclr" % i ), "wb" ) as fd:
                     fd.write( data)
                 
             elif stamp == "RGCN": # Tileset
                 print ">> Extracting NCGR"
-                with open( os.path.join( dst2, "NCGR_%03d" % i ), "wb" ) as fd:
+                with open( os.path.join( dst2, "%04d.ncgr" % i ), "wb" ) as fd:
                     fd.write( data)                
                 
             elif stamp == "RCSN": # Tilemap
                 print ">> Extracting NSCR"
-                with open( os.path.join( dst2, "NSCR_%03d" % i ), "wb" ) as fd:
+                with open( os.path.join( dst2, "%04d.nscr" % i ), "wb" ) as fd:
                     fd.write( data)   
                     
             elif stamp == "RECN":
                 print ">> Extracting NCER"
-                with open( os.path.join( dst2, "NCER_%03d" % i ), "wb" ) as fd:
+                with open( os.path.join( dst2, "%04d.ncer" % i ), "wb" ) as fd:
                     fd.write( data)   
                     
             elif stamp == "RNAN":
                 print ">> Extracting NANR"
-                with open( os.path.join( dst2, "NANR_%03d" % i ), "wb" ) as fd:
+                with open( os.path.join( dst2, "%04d.nanr" % i ), "wb" ) as fd:
                     fd.write( data)  
                     
             else:
                 print ">> Missing " + stamp
+                
+        #raw_input()
 
         
 def unpack( src, dst ):    
-    #bg_path = os.path.join(src, 'bg')
     files = filter(lambda x: x.__contains__('.p2'), scandirs(src))
         
     for _, fname in enumerate(files):
         # Retorna uma lista de memory maps com os arquivos desempacotados
+        print ">> ", fname
         ret = unpack_P2( fname )
         print ">> Total files: ", len(ret)
         
-        head, tail = os.path.split(fname)        
-        path = os.path.join( dst , tail.split('.')[0] )
-        if not os.path.isdir( path ):
-            os.makedirs( path )
+        path = fname[len(src):]
+        fdirs = dst + path
+        fdirs = fdirs.replace(".p2", "")
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)  
             
         for i, f in enumerate(ret):
-            with open( os.path.join(path, "P2_%03d" % i), "wb" ) as fd:
+            with open( os.path.join(fdirs, "%04d.bin" % i), "wb" ) as fd:
                 f.seek(0)
                 fd.write(f.read())        
         
             f.seek(0)
             stamp = f.read(4)
             if stamp == "D2KP":
-                dst2 = os.path.join( path, "PK2D_%03d" % i  )
+                dst2 = os.path.join( fdirs, "%04d" % i  )
                 if not os.path.isdir( dst2 ):
                     os.makedirs( dst2 )            
                 unpackD2KP( f, dst2 )

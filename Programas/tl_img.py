@@ -21,13 +21,13 @@ __title__ = "KHDAYS Image Extractor"
 __version__ = "2.0"
 
 def unpackBackground( src, dst, nclr, nscr, ncgr ):    
-    with open( os.path.join( src, "NCLR_%03d" % nclr ), "rb" ) as fd:
+    with open( os.path.join( src, "%04d.nclr" % nclr ), "rb" ) as fd:
         palette = formats.NCLRFormat(fd)
                 
-    with open( os.path.join( src, "NCGR_%03d" % ncgr ), "rb" ) as fd:              
+    with open( os.path.join( src, "%04d.ncgr" % ncgr ), "rb" ) as fd:              
         tile = formats.NCGRFormat(fd)
     
-    with open( os.path.join( src, "NSCR_%03d" % nscr ), "rb" ) as fd:
+    with open( os.path.join( src, "%04d.nscr" % nscr ), "rb" ) as fd:
         map = formats.NSCRFormat(fd)   
           
     table = map.scrn_table
@@ -51,14 +51,20 @@ def unpackBackground( src, dst, nclr, nscr, ncgr ):
             for w in range(8):
                 pos = i/(map.chunks["SCRN"]["width"]/8)
                 buffer[pos*8 + z].append(pal[tile[z][w]])
-                
+    
+    folder = os.path.split(src)[1]
     if not os.path.isdir( dst ):
         os.makedirs( dst )
       
-    print os.path.join( dst, 'IMG1_%03d_%03d_%03d.bmp' % ( nclr, nscr , ncgr ) )
-    with open( os.path.join( dst, 'IMG1_%03d_%03d_%03d.bmp' % ( nclr, nscr , ncgr ) ), 'wb') as o:
-        p = bmp.Writer(map.chunks["SCRN"]["width"],map.chunks["SCRN"]["height"]  ,24)
-        p.write(o, buffer)    
+    print os.path.join( dst, '%s_%04d_%04d_%04d.bmp' % ( folder, nclr, nscr , ncgr ) )
+    with open( os.path.join( dst, '%s_%04d_%04d_%04d.bmp' % ( folder, nclr, nscr , ncgr ) ), 'wb') as o:
+        #if tile.chunks["CHAR"]["bitdepth"] == 3:
+            p = bmp.Writer(map.chunks["SCRN"]["width"],map.chunks["SCRN"]["height"], 24)
+            p.write(o, buffer)    
+        # else:
+            # p = bmp.Writer(map.chunks["SCRN"]["width"],map.chunks["SCRN"]["height"], 24)
+            # p.write(o, buffer) 
+              
 
 if __name__ == "__main__":
 
