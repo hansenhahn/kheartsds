@@ -96,20 +96,19 @@ class ModsReader:
         
         self.__fd = fd  
         
-        self.KeyframeTable = []
+        self.KeyframeTable = [[],[]]
         self.KeyframeReader()
-        
-        
         
     def KeyframeReader( self ):
         # Tabela de ponteiros        
         self.__fd.seek( self.KeyframeIndexOffset )
         for _ in range( self.KeyframeCount ):
             FrameNumber, DataOffset = struct.unpack( "<LL", self.__fd.read(8) )
-            self.KeyframeTable.append( (FrameNumber, DataOffset) ) 
+            self.KeyframeTable[KEYFRAME_NUMBER].append( FrameNumber ) 
+            self.KeyframeTable[KEYFRAME_OFFSET].append( DataOffset )
 
     def AudioReader( self, sname ):
-        assert len( self.KeyframeTable ) == self.KeyframeCount , "Error with Keyframe Table"
+        assert len( self.KeyframeTable[KEYFRAME_NUMBER] ) == self.KeyframeCount , "Error with Keyframe Table"
         
         if self.NbChannel == 0:
             return
@@ -118,31 +117,27 @@ class ModsReader:
         ADPCMStart = [ None , None ]
     
         init = [ False , False ]
-
-        self.__fd.seek( self.KeyframeTable[0][KEYFRAME_OFFSET] )
         
-        CurFrame = 0
-        NextFrame = 1
+        BaseFrame = 0
+        
+        with open( self.__fd.name + ".txt" , "r" ) as ofs:
+            AudioOffsets = map(lambda x: int(x.strip("\r\n")), ofs.readlines())
 
-        for CurFrame in range( self.FrameCount ):
+        for RelativeFrame in range( self.FrameCount ):
+            CurFrame = BaseFrame + RelativeFrame
             print "\rFrame %d of %d" % ( CurFrame+1 , self.FrameCount ) ,
             try:
+                if CurFrame in self.KeyframeTable[KEYFRAME_NUMBER]:
+                    init = [ False , False ]
+                    IsKeyFrame = True
+                    idx = self.KeyframeTable[KEYFRAME_NUMBER].index(CurFrame)
+                    self.__fd.seek( self.KeyframeTable[KEYFRAME_OFFSET][idx] )
+                else:
+                    IsKeyFrame = False            
                 offset = self.__fd.tell()
                 PacketInfo = struct.unpack( "<L" , self.__fd.read(4) )[0]
                 PacketSize = PacketInfo >> 14
                 NrAudioPackets = PacketInfo & 0x3fff 
-                               
-                if NextFrame >= 0 and NextFrame < self.KeyframeCount == self.KeyframeTable[NextFrame][0]:
-                    init = [ False , False ]
-                    IsKeyFrame = True
-                    
-                    if ( NextFrame + 1 ) < self.KeyframeCount :
-                        NextFrame += 1
-                    else:
-                        NextFrame -= 1
-                    
-                else:
-                    IsKeyFrame = True if CurFrame == 0 else False
           
                 # Com essa informação, podemos saltar o vídeo
                 if IsKeyFrame:
@@ -150,17 +145,11 @@ class ModsReader:
                 else:
                     AudioOffset = PacketSize - self.NbChannel * ( NrAudioPackets * 128 )
                 
-                # Testa se o pacote termina com duplo 00 (padding)
-                # Se terminar, desconta 2 do offset
-                # Se não, estamos bem
-                # POG DO CARALHO!!!! PQ NÃO TEM UM TAMANHO PRO VIDEO E PRO AUDIO NO CABEÇALHO DO PACOTE!!???
-                self.__fd.seek( offset + 4 + PacketSize - 2 )
-                if struct.unpack("<H", self.__fd.read(2))[0] == 0:
-                    # Posiciona o ponteiro no início do aúdio
-                    self.__fd.seek( offset + 4 + AudioOffset - 2  )
+                # Pra isso funcionar, eu preciso da informação do offset do áudio extraida pela ferramenta do gericom modificada
+                if ( struct.unpack("<H", self.__fd.read(2))[0] & 0x8000 ):
+                    self.__fd.seek(offset + AudioOffsets[CurFrame] + 8)
                 else:
-                    # Posiciona o ponteiro no início do aúdio
-                    self.__fd.seek( offset + 4 + AudioOffset  )
+                    self.__fd.seek(offset + AudioOffsets[CurFrame] + 4)
                     
                 for j in range( NrAudioPackets ):
                     for k in range( self.NbChannel ):
@@ -177,7 +166,7 @@ class ModsReader:
          
                 self.__fd.seek( offset + PacketSize + 4 )
             except:
-                print CurFrame , NextFrame
+                print CurFrame
                 exc_type, exc_value, exc_traceback = sys.exc_info()
                 print "*** print_tb:"
                 traceback.print_tb(exc_traceback, limit=1, file=sys.stdout)
@@ -210,7 +199,7 @@ def scandirs(path):
     return files            
 
 def unpackSound( src, dst ):
-    files = filter(lambda x: x.__contains__('.mods'), scandirs(src))
+    files = filter(lambda x: x.endswith('.mods'), scandirs(src))
         
     for _, fname in enumerate(files):
         print fname
