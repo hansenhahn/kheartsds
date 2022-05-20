@@ -1,0 +1,271 @@
+Malice
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+Sanction
+!******************************!
+A weapon that performs well in midair.
+Great for taking on fliers.
+!******************************!
+Sanction+
+!******************************!
+An upgraded Sanction.
+Performs well in midair.
+Great for taking on fliers.
+!******************************!
+Autocracy
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+Autocracy+
+!******************************!
+An upgraded Autocracy.
+Boosts your Magic to give it more
+power.
+!******************************!
+Aggression
+!******************************!
+A weapon that possesses high
+Strength. Useful against tough
+enemies.
+!******************************!
+Aggression+
+!******************************!
+An upgraded Aggression.
+Possesses high Strength.
+Useful against tough enemies.
+!******************************!
+Round Fan
+!******************************!
+This looks awfully familiar...
+!******************************!
+Overlord
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Overlord+
+!******************************!
+An upgraded Overlord.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+Conquest
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+Conquest+
+!******************************!
+An upgraded Conquest.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Fury
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Fury+
+!******************************!
+An upgraded Fury.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Judgment
+!******************************!
+A weapon that lets you string together
+faster, longer ground combos.
+!******************************!
+Judgment+
+!******************************!
+An upgraded Judgment.
+Lets you string together faster,
+longer ground combos.
+!******************************!
+Aristocracy
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+Aristocracy+
+!******************************!
+An upgraded Aristocracy.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+Absolute
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Veneration+
+!******************************!
+An upgraded Veneration.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Veneration
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Terminus
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Terminus+
+!******************************!
+An upgraded Terminus.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Despair+
+!******************************!
+An upgraded Despair.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Despair
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Discipline+
+!******************************!
+An upgraded Discipline.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Discipline
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Superiority+
+!******************************!
+An upgraded Superiority.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Superiority
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Veneration++
+!******************************!
+The ultimate Veneration.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Terminus++
+!******************************!
+The ultimate Terminus.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Domination
+!******************************!
+A weapon that provides versatility by
+boosting both Strength and Magic.
+!******************************!
+Domination+
+!******************************!
+An upgraded Domination.
+Provides versatility by boosting both
+Strength and Magic.
+!******************************!
+Triumph
+!******************************!
+A weapon that offers high Magic and
+combo reach.
+!******************************!
+Triumph+
+!******************************!
+An upgraded Triumph.
+<000d>Offers high Magic and combo reach.
+!******************************!
+Tyrant
+!******************************!
+A weapon that lets you string together
+longer ground and aerial combos.
+!******************************!
+Tyrant+
+!******************************!
+An upgraded Tyrant.
+Lets you string together longer
+ground and aerial combos.
+!******************************!
+Annihilation+
+!******************************!
+An upgraded Annihilation.
+Offers high Strength and ground
+combo speed.
+!******************************!
+Annihilation
+!******************************!
+A weapon that offers high Strength
+and ground combo speed.
+!******************************!
+Interdiction
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+Infinity+
+!******************************!
+An upgraded Infinity.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Infinity
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Ruination+
+!******************************!
+An upgraded Ruination.
+Boasts superior Magic and combo
+reach.
+!******************************!
+Ruination
+!******************************!
+A weapon that boasts superior Magic
+and combo reach.
+!******************************!
+Magnificence+
+!******************************!
+An upgraded Magnificence.
+Lets you string together much longer
+ground and aerial combos.
+!******************************!
+Magnificence
+!******************************!
+A weapon that lets you string together
+much longer ground and aerial combos.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!

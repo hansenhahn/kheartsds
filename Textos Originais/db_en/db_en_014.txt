@@ -1,0 +1,271 @@
+Zephyr
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+Moonglade
+!******************************!
+A weapon that performs well in midair.
+Great for taking on fliers.
+!******************************!
+Moonglade+
+!******************************!
+An upgraded Moonglade.
+Performs well in midair.
+Great for taking on fliers.
+!******************************!
+Brume
+!******************************!
+A weapon that enables your attacks to
+reach a wide area.
+!******************************!
+Brume+
+!******************************!
+An upgraded Brume.
+Enables your attacks to reach a wide
+area.
+!******************************!
+Vortex
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+Vortex+
+!******************************!
+An upgraded Vortex.
+Boosts your Magic to give it more
+power.
+!******************************!
+Broom
+!******************************!
+This looks awfully familiar...
+!******************************!
+Aer
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Aer+
+!******************************!
+An upgraded Aer.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+Asura
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+Asura+
+!******************************!
+An upgraded Asura.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+Scission
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+Scission+
+!******************************!
+An upgraded Scission.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Paladin
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Paladin+
+!******************************!
+An upgraded Paladin.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Nightcloud
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Nightcloud+
+!******************************!
+An upgraded Nightcloud.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+Wyvern
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Nescience+
+!******************************!
+An upgraded Nescience.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Nescience
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Crux
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Crux+
+!******************************!
+An upgraded Crux.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Heavenfall+
+!******************************!
+An upgraded Heavenfall.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Heavenfall
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Fellking+
+!******************************!
+An upgraded Fellking.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Fellking
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Shimmer+
+!******************************!
+An upgraded Shimmer.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Shimmer
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Nescience++
+!******************************!
+The ultimate Nescience.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Crux++
+!******************************!
+The ultimate Crux.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Hegemon
+!******************************!
+A weapon that offers high Strength
+and combo reach.
+!******************************!
+Hegemon+
+!******************************!
+An upgraded Hegemon.
+<000d>Offers high Strength and combo reach.
+!******************************!
+Aether
+!******************************!
+A weapon that offers high Magic and
+extended aerial combos.
+!******************************!
+Aether+
+!******************************!
+An upgraded Aether.
+Offers high Magic and extended aerial
+combos.
+!******************************!
+Yaksha
+!******************************!
+A weapon that lets you string together
+longer aerial combos with wider reach.
+!******************************!
+Yaksha+
+!******************************!
+An upgraded Yaksha.
+Lets you string together longer aerial
+combos with wider reach.
+!******************************!
+Foxfire+
+!******************************!
+An upgraded Foxfire.
+Offers high Magic and ground combo
+speed.
+!******************************!
+Foxfire
+!******************************!
+A weapon that offers high Magic and
+ground combo speed.
+!******************************!
+Lindworm
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+Dragonreign+
+!******************************!
+An upgraded Dragonreign.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Dragonreign
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Mazzaroth+
+!******************************!
+An upgraded Mazzaroth.
+Boasts superior Magic and greatly
+extended aerial combos.
+!******************************!
+Mazzaroth
+!******************************!
+A weapon that boasts superior Magic
+and greatly extended aerial combos.
+!******************************!
+Cynosura+
+!******************************!
+An upgraded Cynosura.
+Lets you string together much longer
+aerial combos with wider reach.
+!******************************!
+Cynosura
+!******************************!
+A weapon that lets you string together
+much longer aerial combos with wider
+reach.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!

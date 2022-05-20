@@ -1,0 +1,271 @@
+Trancheuse
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+Orage
+!******************************!
+A weapon that lets you string together
+faster, longer ground combos.
+!******************************!
+Orage+
+!******************************!
+An upgraded Orage.
+Lets you string together faster,
+longer ground combos.
+!******************************!
+Carmin
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+Carmin+
+!******************************!
+An upgraded Carmin.
+Boosts your Magic to give it more
+power.
+!******************************!
+Indigo
+!******************************!
+A weapon that performs well in midair.
+Great for taking on fliers.
+!******************************!
+Indigo+
+!******************************!
+An upgraded Indigo.
+Performs well in midair.
+Great for taking on fliers.
+!******************************!
+Demoiselle
+!******************************!
+This looks awfully familiar...
+!******************************!
+Tourbillon
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Tourbillon+
+!******************************!
+An upgraded Tourbillon.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+M<00e9>t<00e9>ore
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+M<00e9>t<00e9>ore+
+!******************************!
+An upgraded M<00e9>t<00e9>ore.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Vague
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Vague+
+!******************************!
+An upgraded Vague.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+Irr<00e9>gulier
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Irr<00e9>gulier+
+!******************************!
+An upgraded Irr<00e9>gulier.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Eruption
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+Eruption+
+!******************************!
+An upgraded Eruption.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+Ampoule
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Temp<00ea>te+
+!******************************!
+An upgraded Temp<00ea>te.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Temp<00ea>te
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Etoile
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Etoile+
+!******************************!
+An upgraded Etoile.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+D<00e9>luge+
+!******************************!
+An upgraded D<00e9>luge.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+D<00e9>luge
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Dissonance+
+!******************************!
+An upgraded Dissonance.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Dissonance
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Soleil Couchant+
+!******************************!
+An upgraded Soleil Couchant.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Soleil Couchant
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Temp<00ea>te++
+!******************************!
+The ultimate Temp<00ea>te.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Etoile++
+!******************************!
+The ultimate Etoile.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Extirpeur
+!******************************!
+A weapon that offers high Magic and
+extended aerial combos.
+!******************************!
+Extirpeur+
+!******************************!
+An upgraded Extirpeur.
+Offers high Magic and extended aerial
+combos.
+!******************************!
+Rafale
+!******************************!
+A weapon that lets you string together
+longer ground and aerial combos.
+!******************************!
+Rafale+
+!******************************!
+An upgraded Rafale.
+Lets you string together longer
+ground and aerial combos.
+!******************************!
+Lumineuse
+!******************************!
+A weapon that lets you string together
+longer ground combos with wider reach.
+!******************************!
+Lumineuse+
+!******************************!
+An upgraded Lumineuse.
+Lets you string together longer
+ground combos with wider reach.
+!******************************!
+Croix du Sud+
+!******************************!
+An upgraded Croix du Sud.
+Offers high Magic and combo reach.
+!******************************!
+Croix du Sud
+!******************************!
+A weapon that offers high Magic and
+combo reach.
+!******************************!
+Foudre
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+Vol de Nuit+
+!******************************!
+An upgraded Vol de Nuit.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Vol de Nuit
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Typhon+
+!******************************!
+An upgraded Typhon.
+Lets you string together much longer
+ground and aerial combos.
+!******************************!
+Typhon
+!******************************!
+A weapon that lets you string together
+much longer ground and aerial combos.
+!******************************!
+Clair de Lune+
+!******************************!
+An upgraded Clair de Lune.
+Lets you string together much longer
+ground combos with wider reach.
+!******************************!
+Clair de Lune
+!******************************!
+A weapon that lets you string together
+much longer ground combos with wider
+reach.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!

@@ -1,0 +1,272 @@
+The Fool
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+The Magician
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+The Magician+
+!******************************!
+An upgraded The Magician.
+Boosts your Magic to give it more
+power.
+!******************************!
+Justice
+!******************************!
+A weapon that enables your attacks to
+reach a wide area.
+!******************************!
+Justice+
+!******************************!
+An upgraded Justice.
+Enables your attacks to reach a wide
+area.
+!******************************!
+Death
+!******************************!
+A weapon that possesses high
+Strength. Useful against tough
+enemies.
+!******************************!
+Death+
+!******************************!
+An upgraded Death.
+Possesses high Strength.
+Useful against tough enemies.
+!******************************!
+Finest Fantasy 13
+!******************************!
+This looks awfully familiar...
+!******************************!
+The Star
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+The Star+
+!******************************!
+An upgraded The Star.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+The Hierophant
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+The Hierophant+
+!******************************!
+An upgraded The Hierophant.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+The Hermit
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+The Hermit+
+!******************************!
+An upgraded The Hermit.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Temperance
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Temperance+
+!******************************!
+An upgraded Temperance.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+The Tower
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+The Tower+
+!******************************!
+An upgraded The Tower.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+High Roller's Secret
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+The Moon+
+!******************************!
+An upgraded The Moon.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+The Moon
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+The World
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+The World+
+!******************************!
+An upgraded The World.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Strength+
+!******************************!
+An upgraded Strength.
+Possesses<2015>you guessed it<2015>extreme
+Strength. Devastates tough enemies.
+!******************************!
+Strength
+!******************************!
+A weapon that possesses<2015>you
+guessed it<2015>extreme Strength.
+Devastates tough enemies.
+!******************************!
+The High Priestess+
+!******************************!
+An upgraded The High Priestess.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+The High Priestess
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+The Hanged Man+
+!******************************!
+An upgraded The Hanged Man.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+The Hanged Man
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+The Moon++
+!******************************!
+The ultimate The Moon.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+The World++
+!******************************!
+The ultimate The World.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+The Sun
+!******************************!
+A weapon that offers high Magic and
+combo reach.
+!******************************!
+The Sun+
+!******************************!
+An upgraded The Sun.
+<000d>Offers high Magic and combo reach.
+!******************************!
+The Lovers
+!******************************!
+A weapon that provides versatility by
+boosting both Strength and Magic.
+!******************************!
+The Lovers+
+!******************************!
+An upgraded The Lovers.
+Provides versatility by boosting both
+Strength and Magic.
+!******************************!
+The Empress
+!******************************!
+A weapon that offers high Strength
+and combo reach.
+!******************************!
+The Empress+
+!******************************!
+An upgraded The Empress.
+<000d>Offers high Strength and combo reach.
+!******************************!
+The Devil+
+!******************************!
+An upgraded The Devil.
+Lets you string together longer
+ground combos with wider reach.
+!******************************!
+The Devil
+!******************************!
+A weapon that lets you string together
+longer ground combos with wider reach.
+!******************************!
+Fair Game
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+The Joker+
+!******************************!
+An upgraded The Joker.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+The Joker
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+The Chariot+
+!******************************!
+An upgraded The Chariot.
+Provides versatility by greatly
+boosting both Strength and Magic.
+!******************************!
+The Chariot
+!******************************!
+A weapon that provides versatility by
+greatly boosting both Strength and
+Magic.
+!******************************!
+The Emperor+
+!******************************!
+An upgraded The Emperor.
+Boasts superior Strength and combo
+reach.
+!******************************!
+The Emperor
+!******************************!
+A weapon that boasts superior
+Strength and combo reach.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
