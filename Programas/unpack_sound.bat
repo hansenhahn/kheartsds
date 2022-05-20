@@ -47,6 +47,4 @@ REM MobiConverter.exe -d "..\ROM Original\xpa-khe\data\mv\845.mods" "out"
 REM MobiConverter.exe -d "..\ROM Original\xpa-khe\data\mv\846.mods" "out"
 REM MobiConverter.exe -d "..\ROM Original\xpa-khe\data\mv\847.mods" "out"
 REM MobiConverter.exe -d "..\ROM Original\xpa-khe\data\mv\848.mods" "out"
-
 pypy tl_sound.py -m e -s "..\ROM Original\xpa-khe\data\mv" -d "..\Som Original"
-rem pypy tl_unpacker.py -s "..\ROM Original\xpa-khe\data\UI"  -d "..\Arquivos Originais\UI"

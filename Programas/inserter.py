@@ -124,7 +124,7 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         
         if has_fnt == True:
             for name in names:
-                output.write(name)
+                output.write('%s\x00' % name)
                 while output.tell() % 8 != 0: output.seek(1,1)
 
         output.close()
