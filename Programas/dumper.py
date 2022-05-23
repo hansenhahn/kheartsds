@@ -243,7 +243,7 @@ def extract_CAKP(root = "Arquivos/Unpacked CAKP"):
 
     for _dir in os.listdir(root):
 
-        _out = os.path.join('Textos/CAKP', _dir)
+        _out = os.path.join('../Textos/CAKP', _dir)
         dir = os.path.join(root, _dir)
         
         if not os.path.isdir(_out):
@@ -361,7 +361,47 @@ def extract_Z( src, dst ):
             if "make.txt" not in fname:
                 parser.generic_parser_1(file, output, table)                  
 
-            output.close()       
+            output.close()      
+
+def extract_db( src, dst ):
+
+    for _, fname in enumerate(scandirs(src)):
+        path = fname[len(src):]
+        fdirs = dst + path[:-len(os.path.basename(path))]
+        
+        if not os.path.basename(path).startswith('db'):
+            continue        
+        
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)    
+
+        with open(fname, 'rb') as fd:          
+            print "Extraindo %s." %fname       
+
+            table = normal_table('tabela3.tbl')
+            table.fill_with('0061=a', '0041=A', '0030=0')
+            table.add_items('000A=\n')
+
+            output = open(fdirs + os.path.basename(path) + '.txt', 'wb')
+            
+            entries = struct.unpack("<L", fd.read(4))[0]
+            buffer_ptr = [struct.unpack("<L", fd.read(4))[0] for _ in range(entries)]
+            
+            last = 0
+            for curr in buffer_ptr:
+                size = curr - last
+                for _ in range(size/2):
+                    d = struct.unpack("<H", fd.read(2))[0]
+                    c = struct.pack(">H",d)
+                    if c in table:
+                        output.write(table[c])
+                    elif d > 0:
+                        output.write("<%04x>" % d)      
+                
+                output.write('\n!******************************!\n')
+                last = curr
+            
+            output.close()               
             
                         
 if __name__ == '__main__':
@@ -370,8 +410,10 @@ if __name__ == '__main__':
     #unpack_P2('Arquivos/CAKP','Arquivos/Unpacked CAKP')
     
     #extract_P2('../Desempacotados Originais/op')
-    #extract_CAKP('../Arquivos Originais/op')
+    extract_CAKP('../Arquivos Originais/mi')
     #extract_S()
     
-    extract_Z( '../Arquivos Originais/op' , '../Textos Originaisss/op' )
+    #extract_Z( '../Arquivos Originais/op' , '../Textos Originaisss/op' )
+    
+    #extract_db( '../Arquivos Originais/db_en', '../Textos Originais/db_en')
 

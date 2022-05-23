@@ -61,3 +61,28 @@ Hai raggiunto il grado di Esperto. Nuovo personaggio nella modalità Missioni! Ot
 Rango conseguido: experto. ¡Nuevo personaje modo misión! Obtenido: límite final.
 !------------------------------!
 !******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><82><92><E7><94><A8><E6><84><8F><E3><81><97><E3><81><9F>
+<E6><BA><96><E5><82><99><E3><81><8C><E3><81><A7><E3><81><8D><E6><AC><A1><E7><AC><AC><E3><80><81><E5><87><BA><E7><99><BA><E3><81><97><E3><82><8D>
+!------------------------------!
+SAÏX
+I have more work for you.
+Depart as soon as you are ready.
+!------------------------------!
+SAÏX
+Voici ta nouvelle mission. Pars dès que tu seras prêt.
+!------------------------------!
+SAÏX
+Hier ist deine neue Mission.
+Brich auf, sobald du bereit bist.
+!------------------------------!
+SAÏX
+Ecco la tua nuova missione.
+Parti non appena sei pronto.
+!------------------------------!
+SAÏX
+Esta es tu nueva misión.
+Puedes irte cuando quieras.
+!------------------------------!
+!******************************!

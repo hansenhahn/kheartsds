@@ -31,17 +31,20 @@ def generic_parser_1(file, output, table):
     base_address = struct.unpack('<L', file.read(4))[0]
     while True:
         structs = []
+        
+        if ( file.tell() == base_address ):
+            break
     
         try:
             flag = file.read(2)
             size = struct.unpack('<H', file.read(2))[0] & 0xFF
         except:
             print 
-        if flag == '\x00\x03':
-            break
+        # if flag == '\x00\x03':
+            # break
             
         # \x00 -> Estrutura Header
-        elif flag == '\x00\x05':
+        if flag == '\x00\x05':
             structs.append(struct.unpack('<L', file.read(4))[0] + base_address)
             file.read(4)            
             
@@ -512,7 +515,7 @@ def generic_inserter_1(input, output, table):
                     break
                 block.append(buffer)
             _dict['\x01\x1d'].append(block)             
-            
+    
         c.pop(0) # !**..**! 
     
     base_address = struct.unpack('<L',output.read(4))[0]
@@ -808,8 +811,8 @@ def generic_inserter_1(input, output, table):
             output.write(struct.pack('<L', pointers[0]))
             output.seek(16, 1)          
                 
-        elif flag == '\x00\x03':
-            break           
+        # elif flag == '\x00\x03':
+            # break           
             
         else:
             output.seek(4 * (size-1), 1)

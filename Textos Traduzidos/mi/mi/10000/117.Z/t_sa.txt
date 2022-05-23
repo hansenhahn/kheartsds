@@ -67,3 +67,32 @@ Hai raggiunto il grado di Recluta. Nuovo personaggio nella modalità Missioni!
 Rango conseguido: aprendiz. ¡Nuevo personaje modo misión!
 !------------------------------!
 !******************************!
+&.[HDR].&
+*.000004000000CD1802000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><E3><81><A8>
+<E6><96><B0><E3><81><97><E3><81><84><E4><B8><96><E7><95><8C><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><82><82><E3><82><89><E3><81><86>
+!------------------------------!
+SAÏX
+I'm sending you and Xigbar to a new world today to
+conduct recon.
+!------------------------------!
+SAÏX
+Aujourd'hui, Xigbar et toi partez en reconnaissance
+dans un nouveau monde.
+!------------------------------!
+SAÏX
+Heute schicke ich dich und Xigbar auf
+Aufklärungsmission in eine neue Welt.
+!------------------------------!
+SAÏX
+Oggi dovrai andare in ricognizione in un
+nuovo mondo insieme a Xigbar.
+!------------------------------!
+SAÏX
+Te vas con Xigbar a un nuevo
+mundo para explorar.
+!------------------------------!
+!******************************!

@@ -41,3 +41,29 @@ Hai raggiunto il grado di Agente. Nuovo personaggio nella modalità Missioni!
 Rango conseguido: agente. ¡Nuevo personaje modo misión!
 !------------------------------!
 !******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><E3><81><A8><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><A0>
+<E6><BA><96><E5><82><99><E3><81><8C><E3><81><A7><E3><81><8D><E6><AC><A1><E7><AC><AC><E3><80><81><E5><87><BA><E7><99><BA><E3><81><97><E3><82><8D>
+!------------------------------!
+SAÏX
+You'll be teamed with Luxord today.
+Depart as soon as you are ready.
+!------------------------------!
+SAÏX
+Tu fais équipe avec Luxord aujourd'hui.
+Partez dès que vous serez prêts.
+!------------------------------!
+SAÏX
+Heute bildest du ein Team mit Luxord.
+Brecht auf, sobald ihr bereit seid.
+!------------------------------!
+SAÏX
+Oggi lavorerai in coppia con Luxord.
+Parti non appena sei pronto.
+!------------------------------!
+SAÏX
+Hoy trabajarás con Luxord.
+Podéis partir cuando queráis.
+!------------------------------!
+!******************************!
