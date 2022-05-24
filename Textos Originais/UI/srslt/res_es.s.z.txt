@@ -1,0 +1,35 @@
+Revisa tu rendimiento.
+!******************************!
+<A> / <B> Omitir
+!******************************!
+<A> / <B> Salir
+!******************************!
+<00A1>Recompensas por misi<00F3>n x2!
+!******************************!
+<00A1>Recompensas por misi<00F3>n x3!
+!******************************!
+Recompensas
+!******************************!
+Objetos recogidos
+!******************************!
+Divisa de ordal<00ED>a
+!******************************!
+Se ha a<00F1>adido una nueva misi<00F3>n
+de desaf<00ED>o a tus holomisiones.
+!******************************!
+Div. alianza
+!******************************!
+Ya puedes emprender esta misi<00F3>n
+con otros jugadores.
+!******************************!
+Corona de misi<00F3>n
+!******************************!
+Canj<00E9>alas en la tienda por toda clase de recompensas.
+!******************************!
+Sello de desaf<00ED>o
+!******************************!
+Canj<00E9>alos en la tienda por toda clase de recompensas.
+!******************************!
+Recoge muchos puntos coraz<00F3>n
+y de misi<00F3>n para poder ganar m<00E1>s.
+!******************************!

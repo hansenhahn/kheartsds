@@ -1,0 +1,56 @@
+Choisissez un fichier <00E0> charger.
+!******************************!
+<A> Charger le fichier  <B> Annuler
+!******************************!
+<X> Supprimer le fichier
+!******************************!
+Charger le fichier %d ?
+!******************************!
+Supprimer le fichier %d ?
+!******************************!
+Tout fichier supprim<00E9> l'est d<00E9>finitivement.
+!******************************!
+%d munnies
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!
+Suppression en cours...
+Veuillez ne pas <00E9>teindre la
+console ni retirer la carte DS.
+!******************************!
+Le fichier %d a <00E9>t<00E9> supprim<00E9>.
+!******************************!
+:
+!******************************!
+NIV %d
+!******************************!
+Le fichier est corrompu.
+!******************************!
+Le fichier %d est corrompu et n'est pas
+utilisable. Voulez-vous le supprimer ?
+!******************************!
+<00C9>chec du chargement du fichier.
+Veuillez <00E9>teindre la console et
+r<00E9>ins<00E9>rer la carte DS.
+!******************************!
+Lancer la communication sans fil DS ?
+!******************************!
+Commencer <00E0> jouer en tant qu'invit<00E9> ?
+!******************************!
+Vous ne pouvez pas sauvegarder en tant qu'invit<00E9>.
+!******************************!
+Impossible d'inscrire les donn<00E9>es.
+!******************************!
+Impossible de lire les donn<00E9>es.
+!******************************!
+Veuillez <00E9>teindre la console et
+r<00E9>ins<00E9>rer la carte DS.
+!******************************!
+En <00EA>tes-vous s<00FB>r ?
+!******************************!
+Initialisation en cours...
+Veuillez ne pas <00E9>teindre la
+console ni retirer la carte DS.
+!******************************!

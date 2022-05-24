@@ -4,7 +4,7 @@ Player-Unique Settings
 !******************************!
 Universal Settings
 !******************************!
-――
+<2015><2015>
 !******************************!
 Controls
 !******************************!
@@ -82,9 +82,9 @@ Revert
 !******************************!
 Stay
 !******************************!
-㌢ + <+>
+<X> + <+>
 !******************************!
-㌢ Only
+<X> Only
 !******************************!
 Same
 !******************************!
@@ -224,10 +224,10 @@ Choose how many prizes players drop when KO'd:
 !******************************!
 Set rules for using Limit Breaks:
 !******************************!
-㌧: Reset camera / Lock on / Toggle chase cam
+<R>: Reset camera / Lock on / Toggle chase cam
 <L>: Access shortcuts
 !******************************!
-㌧: Rotate camera / Lock on       <L> + <R>:
+<R>: Rotate camera / Lock on       <L> + <R>:
 <L>: Rotate or reset camera        Access shortcuts
 !******************************!
 The camera will stay behind you while you move.
@@ -256,7 +256,7 @@ Slide down / <SE><LE><CT> & <+B>: Tilt camera down
 Slide up / <SE><LE><CT> & <+C>: Tilt camera down
 Slide down / <SE><LE><CT> & <+B>: Tilt camera up
 !******************************!
-The cursor will revert to “Attack” after you use
+The cursor will revert to <201C>Attack<201D> after you use
 magic or an item.
 !******************************!
 The cursor will stay in place even after using magic

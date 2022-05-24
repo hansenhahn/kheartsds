@@ -1,0 +1,47 @@
+Datei zum Laden auswahlen.
+!******************************!
+(A) Laden  (B) Abbrechen
+!******************************!
+(X) Datei loschen
+!******************************!
+Datei %d laden?
+!******************************!
+Datei %d loschen?
+!******************************!
+Geloschte Daten konnen nicht wiederhergestellt werden.
+!******************************!
+%d Taler
+!******************************!
+Ja
+!******************************!
+Nein
+!******************************!
+Datei wird geloscht ...
+Das System nicht ausschalten und die DS-Karte nicht entfernen.
+!******************************!
+Datei %d wurde geloscht.
+!******************************!
+:
+!******************************!
+LV d%
+!******************************!
+Diese Datei ist fehlerhaft.
+!******************************!
+Datei %d ist fehlerhaft und kann nicht verwendet werden.
+Datei loschen?
+!******************************!
+Die Datei konnte nicht fehlerfrei geladen werden.
+Schalte das System aus und stecke die DS-Karte erneut ein.
+!******************************!
+Drahtlose DS-Datenubertragung starten?
+!******************************!
+Als Gast spielen?
+!******************************!
+Als Gast kann man nicht speichern.
+!******************************!
+Daten konnten nicht geschrieben werden.
+!******************************!
+Daten konnten nicht gelesen werden.
+!******************************!
+Konsole ausschalten und DS-Karte neu einstecken.
+!******************************!

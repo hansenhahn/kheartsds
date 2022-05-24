@@ -1,0 +1,79 @@
+Compra
+!******************************!
+Vendi
+!******************************!
+Combina
+!******************************!
+Ricompense
+!******************************!
+Esci
+!******************************!
+Seleziona dal menu.
+!******************************!
+Emporio Moguri
+!******************************!
+Compra pannelli usando
+i Punti Cuore.
+!******************************!
+Vendi pannelli in cambio
+di munny.
+!******************************!
+Spendi munny per combinare
+pannelli e crearne altri.
+!******************************!
+Usa Sigilli sfida e Corone missione
+dal Moguri per ottenere ricompense.
+!******************************!
+Chiudi questo menu.
+!******************************!
+Seleziona il pannello che desideri.
+!******************************!
+Quanti te ne servono?
+!******************************!
+<+V> Modifica di 1  <+H> Modifica di 10
+<A> Compra
+!******************************!
+Seleziona pannello da vendere.
+!******************************!
+Quanti ne vuoi vendere?
+!******************************!
+<+V> Modifica di 1   <+H> Modifica di 10
+<A> Vendi
+!******************************!
+Seleziona pannello da elaborare.
+!******************************!
+Elaborare questo pannello?
+!******************************!
+S<00EC>
+!******************************!
+No
+!******************************!
+Elaborazione riuscita!
+!******************************!
+<A> Continua
+!******************************!
+Seleziona una ricompensa.
+!******************************!
+Per questi gettoni:
+!******************************!
+munny
+!******************************!
+punti
+!******************************!
+Quant.
+!******************************!
+<00D7>
+!******************************!
+<2015>
+!******************************!
+OK
+!******************************!
+Annulla
+!******************************!
+<A> Compra
+!******************************!
+<A> Vendi
+!******************************!
+Ti <00E8> concesso uno solo 
+di questi pannelli.
+!******************************!

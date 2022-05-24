@@ -1,0 +1,387 @@
+Configura tus ajustes.
+!******************************!
+Ajustes del jugador
+!******************************!
+Ajustes universales
+!******************************!
+<00BF>?
+!******************************!
+Controles
+!******************************!
+C<00E1>mara seguim.
+!******************************!
+Velocidad c<00E1>mara
+!******************************!
+Eje X c<00E1>mara
+!******************************!
+Eje Y c<00E1>mara
+!******************************!
+Posici<00F3>n cursor
+!******************************!
+Comandos
+!******************************!
+Acci<00F3>n de amigos
+!******************************!
+Blanco
+!******************************!
+Magia/objet.
+!******************************!
+Magia ataque
+!******************************!
+Curaci<00F3>n
+!******************************!
+Fuerza de enemigo
+!******************************!
+Da<00F1>o infligido
+!******************************!
+P<00E9>rdida de VT
+!******************************!
+Fuego amigo
+!******************************!
+Objetivos amigos
+!******************************!
+Ver coronas
+!******************************!
+Ventaja
+!******************************!
+Premios da<00F1>o
+!******************************!
+Tiempo VAC
+!******************************!
+Vidas
+!******************************!
+Premios de VT
+!******************************!
+Premios KO
+!******************************!
+L<00ED>mites
+!******************************!
+Tipo A
+!******************************!
+Tipo B
+!******************************!
+Autom<00E1>tica
+!******************************!
+Manual
+!******************************!
+R<00E1>pida
+!******************************!
+Normal
+!******************************!
+Lenta
+!******************************!
+Normal
+!******************************!
+Invertido
+!******************************!
+Normal
+!******************************!
+Invertido
+!******************************!
+Volver
+!******************************!
+Igual
+!******************************!
+<X> + <+>
+!******************************!
+S<00F3>lo <X>
+!******************************!
+Mismo
+!******************************!
+Distinto
+!******************************!
+No
+!******************************!
+Da<00F1>o
+!******************************!
+Recuperaci<00F3>n
+!******************************!
+Sin ayuda
+!******************************!
+Desactivada
+!******************************!
+Activada
+!******************************!
+Desactivada
+!******************************!
+Activada
+!******************************!
+Normal
+!******************************!
+Alta
+!******************************!
+M<00E1>xima
+!******************************!
+Normal
+!******************************!
+Baja
+!******************************!
+M<00ED>nima
+!******************************!
+Siempre
+!******************************!
+Suelo
+!******************************!
+No
+!******************************!
+Alto
+!******************************!
+Bajo
+!******************************!
+No
+!******************************!
+S<00ED>
+!******************************!
+No
+!******************************!
+S<00ED>
+!******************************!
+No
+!******************************!
+S<00ED>
+!******************************!
+No
+!******************************!
+Siempre
+!******************************!
+A veces
+!******************************!
+No
+!******************************!
+30
+!******************************!
+120
+!******************************!
+Ninguno
+!******************************!
+5
+!******************************!
+3
+!******************************!
+1
+!******************************!
+S<00ED>
+!******************************!
+No
+!******************************!
+Todos
+!******************************!
+Mitad
+!******************************!
+Ninguno
+!******************************!
+Secuencia
+!******************************!
+S<00ED>
+!******************************!
+No
+!******************************!
+Ajusta la funci<00F3>n de los botones L y R.
+!******************************!
+Ajusta el comportamiento de c<00E1>mara: 
+!******************************!
+Ajusta vel. de seguimiento:
+!******************************!
+Ajusta controles horizontales de c<00E1>mara:
+!******************************!
+Ajusta controles verticales de c<00E1>mara:
+!******************************!
+Ajuste del cursor en el men<00FA> Comandos:
+!******************************!
+Ajusta los controles del men<00FA> Comandos:
+!******************************!
+Elige el blanco de las armas amigas:
+!******************************!
+C<00F3>mo usar<00E1>n magia y objetos los amigos:
+!******************************!
+Permite o no la magia de ataque:
+!******************************!
+Permite o no cualquier medio de curaci<00F3>n:
+!******************************!
+Ajusta cu<00E1>nto da<00F1>o recibes:
+!******************************!
+Ajusta cu<00E1>nto da<00F1>o hacen tus ataques:
+!******************************!
+Elige si perder o no VT con el tiempo:
+!******************************!
+Da<00F1>o entre personajes:
+!******************************!
+Apuntar a jugadores:
+!******************************!
+Mostrar/ocultar coronas de clasificaci<00F3>n:
+!******************************!
+Se permite o no dar ventaja:
+!******************************!
+Elige si los jugadores sueltan premios o no:
+!******************************!
+Tiempo l<00ED>mite para volver al castillo:
+!******************************!
+Ajusta cu<00E1>ntas oportunidades tienes:
+!******************************!
+Activar/desactivar los premios de VT:
+!******************************!
+Elige cu<00E1>ntos premios soltar<00E1>n los jugadores:
+!******************************!
+Ajusta reglas para usar los l<00ED>mites:
+!******************************!
+<R>: reinic. c<00E1>m./fijar objetivo/alternar c<00E1>m.
+<L>: acceder a atajos
+!******************************!
+<R>: girar c<00E1>m./fijar objetivo     <L> + <R>:
+<L>: girar o reiniciar c<00E1>m.         Atajos
+!******************************!
+La c<00E1>mara te seguir<00E1> si te mueves.
+<R>: Modo manual (control tipo A)
+!******************************!
+La c<00E1>mara no te seguir<00E1> si te mueves.
+<R>: Modo autom<00E1>tico (control tipo A)
+!******************************!
+Los controles de c<00E1>mara responder<00E1>n m<00E1>s
+r<00E1>pido y con un esfuerzo m<00ED>nimo.
+!******************************!
+Los controles de c<00E1>mara responder<00E1>n a
+la velocidad predeterminada.
+!******************************!
+Los controles de c<00E1>mara responder<00E1>n m<00E1>s
+lenta y precisamente.
+!******************************!
+Deslizar derecha /<SE><LE><CT> y <+D>: Vista a der.
+Deslizar izquierda /<SE><LE><CT> y <+E>: Vista a izq.
+!******************************!
+Deslizar derecha /<SE><LE><CT> y <+D>: Vista a izq.
+Deslizar izquierda /<SE><LE><CT> y <+E>: Vista a der.
+!******************************!
+Deslizar arriba /<SE><LE><CT> y <+C>: Vista arriba
+Deslizar abajo /<SE><LE><CT> y <+B>: Vista abajo
+!******************************!
+Deslizar arriba /<SE><LE><CT> y <+C>: Vista abajo
+Deslizar abajo /<SE><LE><CT> y <+B>: Vista arriba
+!******************************!
+El cursor pasar<00E1> a "Atacar" tras usar
+magia o un objeto.
+!******************************!
+El cursor se quedar<00E1> en su sitio tras usar
+magia o un objeto.
+!******************************!
+Mant<00E9>n <X> y usa <+> para navegar por
+la lista si tienes mucha magia u objetos.
+!******************************!
+Desactiva la navegaci<00F3>n por listas con <+>.
+Los comandos se siguen pasando con <X>.
+!******************************!
+Los amigos centran sus ataques
+en el mismo enemigo que t<00FA>.
+!******************************!
+Los amigos te dejan con tu objetivo
+y centran sus ataques en otros enemigos.
+!******************************!
+Los amigos nunca atacan con armas.
+!******************************!
+Los amigos se centran en la magia de ataque
+y solo usan la de recuperaci<00F3>n por necesidad.
+!******************************!
+Se centran en objetos/magia de recupera-
+ci<00F3>n y solo usan la de ataque por necesidad.
+!******************************!
+Los amigos nunca usan magia
+u objetos para ayudarte.
+!******************************!
+No se permite usar magia de ataque.
+!******************************!
+La magia de ataque funciona normalmente.
+!******************************!
+No se permite reponer VT ni conjuros lanzados.
+!******************************!
+La VT y conjuros se reponen normalmente.
+!******************************!
+Los ataques enemigos hacen el da<00F1>o normal.
+!******************************!
+Los ataques enemigos hacen m<00E1>s da<00F1>o.
+!******************************!
+Los ataques enemigos hacen un da<00F1>o brutal.
+!******************************!
+Los jugadores har<00E1>n el da<00F1>o normal
+al enemigo.
+!******************************!
+Los jugadores har<00E1>n menos da<00F1>o
+al enemigo.
+!******************************!
+Los jugadores apenas har<00E1>n da<00F1>o
+al enemigo.
+!******************************!
+Tu VT se ir<00E1>n consumiendo
+a medida que juegues.
+!******************************!
+Tu VT se ir<00E1>n consumiendo mientras pises
+el suelo.
+!******************************!
+Tu VT no se consumir<00E1>n a menos
+que recibas da<00F1>o.
+!******************************!
+Atacar a otros jugadores har<00E1> una gran
+cantidad de da<00F1>o.
+!******************************!
+Atacar a otros jugadores har<00E1> una peque<00F1>a
+cantidad de da<00F1>o.
+!******************************!
+Los ataques contra otros jugadores
+no tendr<00E1>n efecto.
+!******************************!
+Puedes fijar el objetivo tanto en
+jugadores como en enemigos.
+!******************************!
+No puedes fijar el objetivo en otros jugadores.
+!******************************!
+Se mostrar<00E1>n coronas.
+!******************************!
+No se mostrar<00E1>n coronas durante el juego.
+!******************************!
+Los jugadores de poco nivel empezar<00E1>n la
+misi<00F3>n con m<00E1>s puntos de misi<00F3>n.
+!******************************!
+Todos los jugadores empiezan igual,
+con independencia de su nivel.
+!******************************!
+Los jugadores siempre dejan premios de misi<00F3>n.
+!******************************!
+Los jugadores dejan premios de misi<00F3>n a veces.
+!******************************!
+Los jugadores nunca dejan premios de misi<00F3>n.
+!******************************!
+Tendr<00E1>s 30 segundos tras completar
+la misi<00F3>n.
+!******************************!
+Tendr<00E1>s 120 segundos tras completar
+la misi<00F3>n.
+!******************************!
+No habr<00E1> cuenta atr<00E1>s
+La misi<00F3>n termina cuando todos VAC.
+!******************************!
+Fallar<00E1>s la misi<00F3>n si te derrotan cinco veces.
+!******************************!
+Fallar<00E1>s la misi<00F3>n si te derrotan tres veces.
+!******************************!
+Fallar<00E1>s la misi<00F3>n si te derrotan una sola vez.
+!******************************!
+Los premios de VT aparecer<00E1>n como es normal
+cuando derrotes a los enemigos.
+!******************************!
+No aparecer<00E1>n premios de VT cuando derrotes
+a los enemigos.
+!******************************!
+Los jugadores dejar<00E1>n todos
+sus premios de misi<00F3>n.
+!******************************!
+Los jugadores dejar<00E1>n la mitad
+de sus premios de misi<00F3>n.
+!******************************!
+Los jugadores no dejar<00E1>n premios
+de misi<00F3>n al ser derrotados.
+!******************************!
+Pueden usarse l<00ED>mites sucesivamente.
+El l<00ED>mite de uso est<00E1> en el 50% de la VT.
+!******************************!
+Pueden usarse l<00ED>mites normalmente.
+!******************************!
+No pueden usarse l<00ED>mites.
+!******************************!

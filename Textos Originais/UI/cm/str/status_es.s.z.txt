@@ -1,44 +1,44 @@
-LV
+Nv.
 !******************************!
-HP
+VT
 !******************************!
-Abilities
+Habilidades
 !******************************!
-Links
+V<00ED>nculos
 !******************************!
-Strength
+Fuerza
 !******************************!
-Magic
+Magia
 !******************************!
-Defense
+Defensa
 !******************************!
-Critical %
+Letal %
 !******************************!
-Crit Bonus
+Bon. Letal
 !******************************!
 EXP
 !******************************!
-Next Level
+Nivel siguiente
 !******************************!
-Heart Points
+Puntos Coraz<00F3>n
 !******************************!
-Slots
+Espacios
 !******************************!
-Tokens
+Pruebas
 !******************************!
-Rank
+Rango
 !******************************!
-Novice
+Novato
 !******************************!
-Rookie
+Aprendiz
 !******************************!
-Agent
+Agente
 !******************************!
-Expert
+Experto
 !******************************!
-Master
+Maestro
 !******************************!
-Legend
+Leyenda
 !******************************!
 Xemnas
 !******************************!
@@ -50,7 +50,7 @@ Vexen
 !******************************!
 Lexaeus
 !******************************!
-Zexion
+Zexi<00F3>n
 !******************************!
 Sa<00EF>x
 !******************************!
@@ -68,7 +68,7 @@ Roxas
 !******************************!
 Xion
 !******************************!
-The King
+El rey
 !******************************!
 Sora
 !******************************!
@@ -78,78 +78,67 @@ Donald
 !******************************!
 Goofy
 !******************************!
-Anti-Nil
+Anti-Nada
 !******************************!
-Anti-Space
+Anti-Espacio
 !******************************!
-Anti-Wind
+Anti-Viento
 !******************************!
-Anti-Ice
+Anti-Hielo
 !******************************!
-Anti-Earth
+Anti-Tierra
 !******************************!
-Anti-Illusion
+Anti-Ilusi<00F3>n
 !******************************!
-Anti-Moon
+Anti-Luna
 !******************************!
-Anti-Fire
+Anti-Fuego
 !******************************!
-Anti-Water
+Anti-Agua
 !******************************!
-Anti-Time
+Anti-Tiempo
 !******************************!
-Anti-Flower
+Anti-Flor
 !******************************!
-Anti-Lightning
+Anti-Rayo
 !******************************!
-Anti-Light
+Anti-Luz
 !******************************!
-Anti-Darkness
+Anti-Oscuridad
 !******************************!
-Oblivion
+Recuerdos lejanos
 !******************************!
-%s LV%d
+%s Nv.%d
 !******************************!
 %d%%
 !******************************!
-Limits the damage you take from <AMARELO>null
-defense<BRANCO>.
+Menos da<00F1>o al estar <AMARELO>sin defensa<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>shoe-
-glue<BRANCO> you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>dejen pegado<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>air-
-toss<BRANCO> you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>lancen por el aire<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>freeze<BRANCO>
-you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>paralicen<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>halve
-your HP<BRANCO>.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>reduzcan
+a la mitad tu VT<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>flip-
-foot<BRANCO> you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>dejen patas arriba<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>silence<BRANCO>
-you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>silencien<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>ignite<BRANCO>
-you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>quemen<BRANCO>.
 !******************************!
-Makes it harder for enemies to
-<AMARELO>damage-drain<BRANCO> you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>drenen VT<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>rewind
-your defense<BRANCO> to LV1.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>reduzcan 
+tu defensa<BRANCO> a Nv.1.
 !******************************!
-Makes it harder for enemies to <AMARELO>blind<BRANCO>
-you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>cieguen<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>jolt<BRANCO>
-you.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>electrocuten<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>zap
-your radar<BRANCO>.
+Es m<00E1>s dif<00ED>cil que te <AMARELO>apaguen el radar<BRANCO>.
 !******************************!
 
 !******************************!
@@ -273,9 +262,9 @@ your radar<BRANCO>.
 !******************************!
 
 !******************************!
-A Keyblade radiant with light.
+Llave espada radiante de luz.
 !******************************!
-A Keyblade black as darkness.
+Llave espada negra como la pez.
 !******************************!
-Oathkeeper
+Prometida
 !******************************!

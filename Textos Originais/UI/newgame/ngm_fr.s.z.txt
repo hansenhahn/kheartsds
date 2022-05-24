@@ -1,0 +1,30 @@
+Choisissez la difficult<00E9>.
+!******************************!
+Aper<00E7>u de votre choix.
+!******************************!
+Mode facile
+!******************************!
+Mode normal
+!******************************!
+Mode expert
+!******************************!
+Mode de jeu facile.
+Choisissez ceci si l'action n'est pas votre fort.
+!******************************!
+Mode de jeu normal.
+Choisissez ceci si vous aimez l'action.
+!******************************!
+Mode de jeu difficile.
+Choisissez ceci si vous aimez les d<00E9>fis.
+!******************************!
+Vous ne pourrez pas changer la difficult<00E9>
+par la suite, alors choisissez bien !
+!******************************!
+Difficult<00E9>
+!******************************!
+Commencer la partie avec cette difficult<00E9> ?
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!

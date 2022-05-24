@@ -1,0 +1,29 @@
+Schwierigkeit w<00E4>hlen.
+!******************************!
+Auswahl <00FC>berpr<00FC>fen.
+!******************************!
+Anf<00E4>nger
+!******************************!
+Normal
+!******************************!
+Profi
+!******************************!
+Ein leichter Modus zum Einstieg.
+Null Bock auf Action? Hier bist du richtig.
+!******************************!
+Die Standardschwierigkeit.
+Du suchst eine gute Mischung? Hier ist sie.
+!******************************!
+Eine packende Stufe mit m<00E4>chtigen Gegnern.
+Stolz auf deine F<00E4>higkeiten? Zeig sie.
+!******************************!
+Die Schwierigkeit ist nicht <00E4>nderbar!
+!******************************!
+Schwierigkeit
+!******************************!
+Spiel mit dieser Schwierigkeit starten?
+!******************************!
+Ja
+!******************************!
+Nein
+!******************************!

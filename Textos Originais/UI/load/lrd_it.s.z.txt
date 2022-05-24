@@ -1,0 +1,55 @@
+Seleziona dati da caricare.
+!******************************!
+<A> Carica  <B> Annulla
+!******************************!
+<X> Cancella dati nello slot
+!******************************!
+Caricare i dati nello slot %d?
+!******************************!
+Cancellare i dati nello slot %d?
+!******************************!
+I dati cancellati non possono essere recuperati!
+!******************************!
+%d munny
+!******************************!
+S<00EC>
+!******************************!
+No
+!******************************!
+Cancellazione in corso...
+Non estrarre la scheda DS
+n<00E9> spegnere la console.
+!******************************!
+Dati nello slot %d cancellati.
+!******************************!
+:
+!******************************!
+LV %d
+!******************************!
+I dati sono danneggiati.
+!******************************!
+I dati nello slot %d sono danneggiati e non
+possono essere utilizzati. Cancellare?
+!******************************!
+Impossibile leggere i dati nello slot.
+Spegni la console e
+reinserisci la scheda DS.
+!******************************!
+Attivare la comunicazione wireless DS?
+!******************************!
+Iniziare a giocare come ospite?
+!******************************!
+Non puoi salvare quando giochi come ospite.
+!******************************!
+Impossibile scrivere i dati.
+!******************************!
+Impossibile leggere i dati.
+!******************************!
+Spegni la console e
+reinserisci la scheda DS.
+!******************************!
+Sei sicuro?
+!******************************!
+Inizializzazione in corso. 
+Non estrarre la scheda DS o spegnere la console.
+!******************************!

@@ -2,43 +2,43 @@ LV
 !******************************!
 HP
 !******************************!
-Abilities
+Abilit<00E0>
 !******************************!
-Links
+Legami
 !******************************!
-Strength
+Att.
 !******************************!
-Magic
+Mag.
 !******************************!
-Defense
+Dif.
 !******************************!
-Critical %
+% Critici
 !******************************!
-Crit Bonus
+Bonus crit.
 !******************************!
-EXP
+ESP
 !******************************!
-Next Level
+Lv. successivo
 !******************************!
-Heart Points
+Punti Cuore
 !******************************!
-Slots
+Slot
 !******************************!
-Tokens
+Gettoni
 !******************************!
-Rank
+Grado
 !******************************!
-Novice
+Novizio
 !******************************!
-Rookie
+Recluta
 !******************************!
-Agent
+Agente
 !******************************!
-Expert
+Esperto
 !******************************!
-Master
+Maestro
 !******************************!
-Legend
+Leggenda
 !******************************!
 Xemnas
 !******************************!
@@ -68,104 +68,101 @@ Roxas
 !******************************!
 Xion
 !******************************!
-The King
+Il Re
 !******************************!
 Sora
 !******************************!
 Riku
 !******************************!
-Donald
+Paperino
 !******************************!
-Goofy
+Pippo
 !******************************!
-Anti-Nil
+Anti-Nulla
 !******************************!
-Anti-Space
+Anti-Spazio
 !******************************!
-Anti-Wind
+Anti-Vento
 !******************************!
-Anti-Ice
+Anti-Ghiaccio
 !******************************!
-Anti-Earth
+Anti-Terra
 !******************************!
-Anti-Illusion
+Anti-Illusione
 !******************************!
-Anti-Moon
+Anti-Luna
 !******************************!
-Anti-Fire
+Anti-Fuoco
 !******************************!
-Anti-Water
+Anti-Acqua
 !******************************!
-Anti-Time
+Anti-Tempo
 !******************************!
-Anti-Flower
+Anti-Fiore
 !******************************!
-Anti-Lightning
+Anti-Fulmine
 !******************************!
-Anti-Light
+Anti-Luce
 !******************************!
-Anti-Darkness
+Anti-Buio
 !******************************!
-Oblivion
+Lontano ricordo
 !******************************!
 %s LV%d
 !******************************!
 %d%%
 !******************************!
-Limits the damage you take from <AMARELO>null
-defense<BRANCO>.
+Subisci meno danni
+quando la tua <AMARELO>difesa
+viene annullata<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>shoe-
-glue<BRANCO> you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>incollarti<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>air-
-toss<BRANCO> you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>scagliarti in aria<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>freeze<BRANCO>
-you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>congelarti<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>halve
-your HP<BRANCO>.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>dimezzare i tuoi HP<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>flip-
-foot<BRANCO> you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>farti inciampare<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>silence<BRANCO>
-you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>renderti muto<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>ignite<BRANCO>
-you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>incendiarti<BRANCO>.
 !******************************!
-Makes it harder for enemies to
-<AMARELO>damage-drain<BRANCO> you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>assorbire i danni<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>rewind
-your defense<BRANCO> to LV1.
+I nemici hanno meno
+probabilit<00E0> di <AMARELO>portare la
+tua difesa al LV1<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>blind<BRANCO>
-you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>accecarti<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>jolt<BRANCO>
-you.
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>folgorarti<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>zap
-your radar<BRANCO>.
-!******************************!
-
-!******************************!
-
-!******************************!
-
-!******************************!
-
-!******************************!
-
-!******************************!
-
-!******************************!
-
-!******************************!
-
+I nemici hanno
+meno probabilit<00E0> di
+<AMARELO>disturbare il radar<BRANCO>.
 !******************************!
 
 !******************************!
@@ -273,9 +270,28 @@ your radar<BRANCO>.
 !******************************!
 
 !******************************!
-A Keyblade radiant with light.
+
 !******************************!
-A Keyblade black as darkness.
+
 !******************************!
-Oathkeeper
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+Una trasformazione ottenuta
+installando unit<00E0> Abilit<00E0> in
+un'arma Catena regale+.
+!******************************!
+Un Keyblade nero come la notte.
+Aumenta attacco e magia.
+!******************************!
+Portafortuna
 !******************************!

@@ -1,0 +1,76 @@
+Buy
+!******************************!
+Sell
+!******************************!
+Synthesize
+!******************************!
+Redeem
+!******************************!
+Exit
+!******************************!
+Select from the menu.
+!******************************!
+The Moogle Shop
+!******************************!
+Purchase panels with heart points.
+!******************************!
+Sell panels for munny.
+!******************************!
+Combine panels to make new ones.
+The process also costs munny.
+!******************************!
+Claim freebies from the moogle for the Challenge
+Sigils and Mission Crowns you've collected.
+!******************************!
+Close this menu.
+!******************************!
+Select the panel you want.
+!******************************!
+How many do you need?
+!******************************!
+<+V> Adjust quantity by 1   <+H> Adjust quantity by 10
+<A> Purchase
+!******************************!
+Select which panel to sell.
+!******************************!
+How many will you sell?
+!******************************!
+<+V> Adjust quantity by 1   <+H> Adjust quantity by 10
+<A> Sell
+!******************************!
+Select a panel to synthesize.
+!******************************!
+Synthesize this panel?
+!******************************!
+Yes
+!******************************!
+No
+!******************************!
+Panel synthesis complete!
+!******************************!
+<A> Continue
+!******************************!
+Select a reward for more details.
+!******************************!
+For these tokens: 
+!******************************!
+munny
+!******************************!
+pts.
+!******************************!
+Qty.
+!******************************!
+<00D7>
+!******************************!
+<2015>
+!******************************!
+OK
+!******************************!
+Cancel
+!******************************!
+Confirm or cancel the purchase.
+!******************************!
+Confirm or cancel the sale.
+!******************************!
+You are only allowed one of this panel.
+!******************************!

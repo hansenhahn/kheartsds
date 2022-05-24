@@ -1,0 +1,51 @@
+Choisissez un fichier a charger.
+!******************************!
+(A) Charger  (B) Annuler
+!******************************!
+(X) Supprimer fichier
+!******************************!
+Charger le fichier %d ?
+!******************************!
+Supprimer le fichier %d ?
+!******************************!
+Une fois un fichier supprime, c'est definitif.
+!******************************!
+%d munnies
+!******************************!
+Oui
+!******************************!
+Non
+!******************************!
+Suppression en cours...
+Veuillez ne pas eteindre la
+console ni retirer la carte DS.
+!******************************!
+Le fichier %d a ete supprime.
+!******************************!
+:
+!******************************!
+NIV %d
+!******************************!
+Le fichier est corrompu.
+!******************************!
+Le fichier %d est corrompu et n'est pas
+utilisable. Voulez-vous le supprimer ?
+!******************************!
+Echec du chargement du fichier.
+Veuillez eteindre la console et
+reinserer la carte DS.
+!******************************!
+Lancer la communication sans fil DS ?
+!******************************!
+Commencer a jouer en tant qu'invite ?
+!******************************!
+Vous ne pouvez pas sauvegarder
+si vous jouez en tant qu'invite.
+!******************************!
+Impossible d'inscrire les donnees.
+!******************************!
+Impossible de lire les donnees.
+!******************************!
+Veuillez eteindre la console et
+reinserer la carte DS.
+!******************************!

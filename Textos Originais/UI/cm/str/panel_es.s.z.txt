@@ -1,0 +1,90 @@
+
+!******************************!
+
+!******************************!
+Continuar
+!******************************!
+Listo
+!******************************!
+Limpiar espacios
+!******************************!
+Guardar baraja
+!******************************!
+Recuperar baraja
+!******************************!
+Confirma los cambios del orden de los
+paneles y regresa al men<00FA> principal.
+!******************************!
+Sigue instalando y ordenando paneles.
+!******************************!
+Guarda el orden actual de paneles
+en una de las tres barajas.
+!******************************!
+Sustituye el orden actual de paneles
+por una de tus barajas guardadas.
+!******************************!
+Quita todos los paneles y los
+devuelve a tu reserva.
+!******************************!
+<00BF>Devolver los paneles
+instalados a tu reserva?
+!******************************!
+Devueltos todos los
+paneles a tu reserva.
+!******************************!
+S<00ED>
+!******************************!
+No
+!******************************!
+Baraja 1
+!******************************!
+Baraja 2
+!******************************!
+Baraja 3
+!******************************!
+<00BF>Guardar este orden de
+paneles en baraja %d?
+!******************************!
+Orden de paneles
+guardado en baraja %d.
+!******************************!
+<00BF>Cambiar este orden de
+paneles por baraja %d?
+!******************************!
+Orden de paneles
+cambiado por baraja %d.
+!******************************!
+Espacios
+!******************************!
+Habilidades
+!******************************!
+V<00ED>nculos
+!******************************!
+Faltan paneles.
+!******************************!
+No puedes poner esto aqu<00ED>. Los
+v<00ED>nculos han de encajar.
+!******************************!
+No puedes poner esto aqu<00ED>. Uniones
+solo en zonas de v<00ED>nculos.
+!******************************!
+No puedes poner esto aqu<00ED>. El panel
+es incompatible con esta zona.
+!******************************!
+No puedes poner esto aqu<00ED>. Solo se
+permite un panel de armas.
+!******************************!
+No puedes poner esto aqu<00ED>. Solo se
+permite un panel de anillos.
+!******************************!
+No puedes poner esto aqu<00ED>. Solo se
+permite un panel de cada habilidad.
+!******************************!
+No puedes poner esto
+sobre un panel principal.
+!******************************!
+No puedes poner paneles en
+las casillas bloqueadas.
+!******************************!
+2 llaves espada
+!******************************!

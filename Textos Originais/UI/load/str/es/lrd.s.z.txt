@@ -1,0 +1,49 @@
+Selecciona el archivo que quieras cargar.
+!******************************!
+(A) Cargar  (B) Cancelar
+!******************************!
+(X) Borrar archivo
+!******************************!
+?Cargar archivo %d?
+!******************************!
+?Borrar archivo %d?
+!******************************!
+Si borras un archivo, lo perderas para siempre.
+!******************************!
+%d platines
+!******************************!
+Si
+!******************************!
+No
+!******************************!
+Borrando archivo...
+No apagues la consola
+ni extraigas la tarjeta DS.
+!******************************!
+Se ha borrado el archivo %d.
+!******************************!
+:
+!******************************!
+Nv. %d
+!******************************!
+Este archivo esta danado.
+!******************************!
+El archivo %d esta danado y no puede usarse.
+?Borrar el archivo?
+!******************************!
+El archivo no se ha cargado
+correctamente. Apaga tu consola 
+y reinserta la tarjeta DS.
+!******************************!
+?Iniciar comunicacion inalambrica de Nintendo DS?
+!******************************!
+?Empezar a jugar como invitado?
+!******************************!
+No puedes guardar si juegas como invitado.
+!******************************!
+Ha sido imposible escribir los datos.
+!******************************!
+Ha sido imposible leer los datos.
+!******************************!
+Apaga tu consola y reinserta la tarjeta DS.
+!******************************!

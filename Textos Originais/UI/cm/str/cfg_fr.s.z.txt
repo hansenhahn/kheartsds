@@ -1,0 +1,403 @@
+Modifiez les param<00E8>tres.
+!******************************!
+Param<00E8>tres joueur
+!******************************!
+Param<00E8>tres universels
+!******************************!
+???
+!******************************!
+Commandes
+!******************************!
+Mode cam<00E9>ra
+!******************************!
+Vitesse cam<00E9>ra
+!******************************!
+Axe X cam<00E9>ra
+!******************************!
+Axe Y cam<00E9>ra
+!******************************!
+Curseur
+!******************************!
+Liste commandes
+!******************************!
+Comportement alli<00E9>
+!******************************!
+Cible
+!******************************!
+Soutien
+!******************************!
+Sorts d'attaque
+!******************************!
+Gu<00E9>rison
+!******************************!
+Force ennemie
+!******************************!
+Force joueur
+!******************************!
+Perte de HP
+!******************************!
+Tirs alli<00E9>s
+!******************************!
+Lock-on alli<00E9>s
+!******************************!
+Couronnes grade
+!******************************!
+Handicaps
+!******************************!
+Abandon r<00E9>comp.
+!******************************!
+Chrono R<00C0>C
+!******************************!
+Vies
+!******************************!
+Sph<00E8>res de HP
+!******************************!
+Objets laiss<00E9>s
+!******************************!
+Surpassements
+!******************************!
+Type A
+!******************************!
+Type B
+!******************************!
+Auto
+!******************************!
+Manuel
+!******************************!
+Rapide
+!******************************!
+Normale
+!******************************!
+Lente
+!******************************!
+Normal
+!******************************!
+Invers<00E9>
+!******************************!
+Normal
+!******************************!
+Invers<00E9>
+!******************************!
+Mobile
+!******************************!
+Statique
+!******************************!
+<X> + <+>
+!******************************!
+Seul <X>
+!******************************!
+Identique
+!******************************!
+Autre
+!******************************!
+Jamais
+!******************************!
+Attaque
+!******************************!
+Gu<00E9>rison
+!******************************!
+Aucun
+!******************************!
+D<00E9>sactiv<00E9>s
+!******************************!
+Activ<00E9>s
+!******************************!
+D<00E9>sactiv<00E9>e
+!******************************!
+Activ<00E9>e
+!******************************!
+Normale
+!******************************!
+Sup<00E9>rieure
+!******************************!
+Extr<00EA>me
+!******************************!
+Normale
+!******************************!
+Inf<00E9>rieure
+!******************************!
+Minimum
+!******************************!
+Continue
+!******************************!
+Au sol
+!******************************!
+Aucune
+!******************************!
+<00C9>lev<00E9>s
+!******************************!
+Faibles
+!******************************!
+Aucun
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Toujours
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+30
+!******************************!
+120
+!******************************!
+Aucun
+!******************************!
+5
+!******************************!
+3
+!******************************!
+1
+!******************************!
+Avec
+!******************************!
+Sans
+!******************************!
+Tous
+!******************************!
+Moiti<00E9>
+!******************************!
+Aucun
+!******************************!
+Infinis
+!******************************!
+Normaux
+!******************************!
+Aucun
+!******************************!
+Choisir les fonctions des boutons <L> et <R> :
+!******************************!
+Choisir les commandes de la cam<00E9>ra : 
+!******************************!
+Choisir la vitesse de placement de la cam<00E9>ra : 
+!******************************!
+Choisir les commandes horizontales de la cam<00E9>ra :
+!******************************!
+Choisir les commandes verticales de la cam<00E9>ra :
+!******************************!
+Choisir le comportement du curseur des commandes :
+!******************************!
+Choisir le type de navigation dans la liste des commandes :
+!******************************!
+Choisir la cible vis<00E9>e par les alli<00E9>s avec leur arme :
+!******************************!
+Choisir comment les alli<00E9>s utilisent le soutien :
+!******************************!
+Activer ou d<00E9>sactiver les sorts d'attaque :
+!******************************!
+Activer ou d<00E9>sactiver la gu<00E9>rison :
+!******************************!
+Choisir la puissance des attaques ennemies :
+!******************************!
+Choisir la puissance des attaques du joueur :
+!******************************!
+Choisir s'il y a perte ou non de HP au fil du temps :
+!******************************!
+Choisir si les joueurs s'infligent des d<00E9>g<00E2>ts entre eux :
+!******************************!
+Activer ou d<00E9>sactiver le lock-on du joueur :
+!******************************!
+Changer les icones de couronne indiquant qui est en t<00EA>te :
+!******************************!
+Activer ou d<00E9>sactiver les handicaps :
+!******************************!
+Choisir la fr<00E9>quence d'abandon d'objets en cas de coups re<00E7>us :
+!******************************!
+Choisir un laps de temps pour retourner au couloir obscur :
+!******************************!
+Choisir le nombre de chances obtenues :
+!******************************!
+Activer ou d<00E9>sactiver les sph<00E8>res de HP :
+!******************************!
+Choisir le nombre d'objets laiss<00E9>s par les joueurs K.O. :
+!******************************!
+Choisir les r<00E8>gles d'utilisation des surpassements :
+!******************************!
+<R> : r<00E9>initialiser cam<00E9>ra/lock-on/mode cam<00E9>ra
+<L> : acc<00E9>der aux raccourcis
+!******************************!
+<R> : faire pivoter cam<00E9>ra/lock-on        <L> + <R> :
+<L> : faire pivoter/r<00E9>initialiser cam<00E9>ra   Raccourcis
+!******************************!
+La cam<00E9>ra vous suit. Maintenez <R> enfonc<00E9> pour passer
+en mode manuel (commandes Type A uniquement).
+!******************************!
+La cam<00E9>ra reste fixe. Maintenez <R> enfonc<00E9> pour passer
+en mode automatique (commandes Type A uniquement).
+!******************************!
+Les commandes de la cam<00E9>ra r<00E9>pondent
+plus vite avec un minimum d'effort.
+!******************************!
+Les commandes de la cam<00E9>ra r<00E9>pondent
+<00E0> la vitesse par d<00E9>faut.
+!******************************!
+Les commandes de la cam<00E9>ra r<00E9>pondent
+plus lentement et avec plus de pr<00E9>cision.
+!******************************!
+Stylet droite/<SE><LE><CT> et <+D> : cam<00E9>ra vers la droite
+Stylet gauche/<SE><LE><CT> et <+E> : cam<00E9>ra vers la gauche
+!******************************!
+Stylet droite/<SE><LE><CT> et <+D> : cam<00E9>ra vers la gauche
+Stylet gauche/<SE><LE><CT> et <+E> : cam<00E9>ra vers la droite
+!******************************!
+Stylet haut/<SE><LE><CT> et <+C> : cam<00E9>ra vers le haut
+Stylet bas/<SE><LE><CT> et <+B> : cam<00E9>ra vers le bas
+!******************************!
+Stylet haut/<SE><LE><CT> et <+C> : cam<00E9>ra vers le bas
+Stylet bas/<SE><LE><CT> et <+B> : cam<00E9>ra vers le haut
+!******************************!
+Le curseur retourne sur "Attaquer" une fois
+que vous avez utilis<00E9> la magie ou un objet.
+!******************************!
+Le curseur reste en position une fois que
+vous avez utilis<00E9> la magie ou un objet.
+!******************************!
+Maintenez <X> enfonc<00E9> et utilisez <+> pour naviguer dans
+la liste. Pour joueurs f<00E9>rus de magie et d'objets.
+!******************************!
+D<00E9>sactiver la navigation dans la liste avec <+>. Vous
+pouvez naviguer <00E0> travers les commandes avec <X>.
+!******************************!
+Les alli<00E9>s concentrent leurs attaques sur
+le m<00EA>me ennemi que celui que vous visez.
+!******************************!
+Les alli<00E9>s concentrent leurs attaques sur
+un autre ennemi que celui que vous visez.
+!******************************!
+Les alli<00E9>s n'attaquent jamais avec leur arme.
+!******************************!
+Les alli<00E9>s utilisent surtout des sorts d'attaque et
+seulement des sorts de gu<00E9>rison si n<00E9>cessaire.
+!******************************!
+Les alli<00E9>s utilisent surtout des sorts et objets de
+gu<00E9>rison et n'ont recours <00E0> la magie que si besoin.
+!******************************!
+Les alli<00E9>s n'utilisent jamais de sorts ou d'objets
+pour vous aider.
+!******************************!
+Vous ne pouvez pas lancer de sorts
+d'attaque.
+!******************************!
+Les sorts d'attaque fonctionnent
+normalement.
+!******************************!
+Vous ne pouvez pas r<00E9>g<00E9>n<00E9>rer vos HP
+et vos utilisations de magie.
+!******************************!
+Vous pouvez r<00E9>g<00E9>n<00E9>rer vos HP et vos
+utilisations de magie normalement.
+!******************************!
+Les attaques ennemies infligent
+des d<00E9>g<00E2>ts normaux.
+!******************************!
+Les attaques ennemies infligent
+plus de d<00E9>g<00E2>ts que d'habitude.
+!******************************!
+Les attaques ennemies infligent
+des d<00E9>g<00E2>ts tr<00E8>s lourds.
+!******************************!
+Vos attaques infligent des d<00E9>g<00E2>ts
+normaux aux ennemis.
+!******************************!
+Vos attaques infligent moins de d<00E9>g<00E2>ts
+que d'habitude aux ennemis.
+!******************************!
+Vos attaques n'infligent quasiment
+plus de d<00E9>g<00E2>ts aux ennemis.
+!******************************!
+Vos HP diminuent au fur et
+<00E0> mesure que le temps passe.
+!******************************!
+Vos HP diminuent d<00E8>s que vos
+pieds touchent le sol.
+!******************************!
+Vous ne perdez pas de HP
+<00E0> moins d'<00EA>tre touch<00E9>.
+!******************************!
+Les attaques contre les autres joueurs
+infligent beaucoup de d<00E9>g<00E2>ts.
+!******************************!
+Les attaques contre les autres joueurs
+infligent quelques d<00E9>g<00E2>ts.
+!******************************!
+Les attaques contre les autres joueurs
+n'ont aucun effet.
+!******************************!
+Vous pouvez faire un lock-on sur
+les alli<00E9>s comme sur les ennemis.
+!******************************!
+Vous ne pouvez pas faire un lock-on
+sur les alli<00E9>s.
+!******************************!
+Les icones de couronne sont affich<00E9>s.
+!******************************!
+Aucun icone couronne ne s'affiche.
+!******************************!
+Les joueurs de niveau inf<00E9>rieur commencent la
+mission avec des points de mission en plus.
+!******************************!
+Tous les joueurs commencent pareil,
+quel que soit leur niveau.
+!******************************!
+Les joueurs laissent toujours
+des primes de mission.
+!******************************!
+Les joueurs laissent parfois
+des primes de mission.
+!******************************!
+Les joueurs ne laissent jamais
+de primes de mission.
+!******************************!
+Vous avez 30 secondes une fois
+que la mission est accomplie.
+!******************************!
+Vous avez 120 secondes une fois
+que la mission est accomplie.
+!******************************!
+Aucun chrono ne s'affiche. La mission s'ach<00E8>ve
+lorsque tous les joueurs sont rentr<00E9>s.
+!******************************!
+La mission est un <00E9>chec si vous
+<00EA>tes mis K.O. cinq fois.
+!******************************!
+La mission est un <00E9>chec si vous
+<00EA>tes mis K.O. trois fois.
+!******************************!
+La mission est un <00E9>chec si vous
+<00EA>tes mis K.O. m<00EA>me une seule fois.
+!******************************!
+Les sph<00E8>res de HP apparaissent comme
+d'habitude quand vous battez des ennemis.
+!******************************!
+Aucune sph<00E8>re de HP n'appara<00EE>t quand
+vous battez des ennemis.
+!******************************!
+Les joueurs laissent toutes
+leurs primes de mission.
+!******************************!
+Les joueurs laissent la moiti<00E9>
+de leurs primes de mission.
+!******************************!
+Les joueurs ne laissent aucune prime
+de mission s'ils sont vaincus.
+!******************************!
+Les surpassements peuvent <00EA>tre utilis<00E9>s <00E0>
+la suite. Leur limite est fix<00E9>e <00E0> 50% de HP.
+!******************************!
+Les surpassements sont utilisables
+normalement.
+!******************************!
+Aucun surpassement
+ne peut <00EA>tre utilis<00E9>.
+!******************************!

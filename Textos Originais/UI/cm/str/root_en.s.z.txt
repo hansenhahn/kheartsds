@@ -1,118 +1,73 @@
-PAGE %d/%d
-!******************************!
-Basic Controls
-!******************************!
-The Map
-!******************************!
-How to Save
-!******************************!
-Selecting a Mission
-!******************************!
-Blocked Areas
-!******************************!
-Reaching High Places
-!******************************!
-Adjusting the Camera
-!******************************!
-Treasure Chests
-!******************************!
-The Backpack
-!******************************!
-RTC
-!******************************!
-Shop Services
-!******************************!
-Challenges and Ordeal Badges
-!******************************!
-Panels
-!******************************!
-Installing Panels
-!******************************!
-Freebies
-!******************************!
-Standard Attacks
-!******************************!
-Prizes
-!******************************!
-Locking On
-!******************************!
-Heart Points
-!******************************!
-Chaining
-!******************************!
-Mission Objectives
-!******************************!
-The Mission Gauge
-!******************************!
-Limit Breaks
-!******************************!
-Magic
-!******************************!
-Recovery Items
-!******************************!
-Shortcuts
-!******************************!
-Recon Missions
-!******************************!
-Mandatory Missions
+Missions
 !******************************!
 Holo-Missions
 !******************************!
-The Holo-Mission Menu
+Panels
 !******************************!
-Organization Emblems
+Organizer
 !******************************!
-Unit Panels
+Config
 !******************************!
-Unity Badges
+Save
 !******************************!
-Gathering Gates
+Title Screen
 !******************************!
-Mission Points
+Select from the menu.
 !******************************!
-Pursuing Targets
+Undertake a mission.
 !******************************!
-Auto-Glide
+Customize panel arrangements or
+view your stock.
 !******************************!
-Treasure Hunt
+Embark on a Holo-Mission.
 !******************************!
-Stay Out of Sight
+Change game settings.
 !******************************!
-Phil's Training
+Read Roxas's diary and enemy
+profiles.
 !******************************!
-Powering Up Abilities
+Read Roxas's diary.
 !******************************!
-Grandstander
+Read enemy profiles.
 !******************************!
-Equipping a Weapon
+Review tutorials on how to play.
 !******************************!
-Link Panels
+Save game progress.
 !******************************!
-Storing and Retrieving Decks
+Return to the Title Screen.
+Any unsaved progress will be lost.
 !******************************!
-Ring Panels
+Tackle the missions Sa<00EF>x originally
+assigned you.
 !******************************!
-Unlocking Slots
+Add restrictions to normal missions
+for an extra challenge.
+(Enemies are also more powerful.)
 !******************************!
-Ranks
+Return to the main menu.
 !******************************!
-The Bonus Gauge
+Exit the game and return to the Title Screen?
 !******************************!
-Level Links
+Press <ST><AR><T> to join.
 !******************************!
-Expanding Your Backpack
+Select a mission.
 !******************************!
-Control Types
+Press <B> to withdraw.
 !******************************!
-The Moogle Shop
+Waiting for other players...
 !******************************!
-News from the Shop
+Press <ST><AR><T> to begin.
 !******************************!
-Hunting for Heartless
+Host is selecting a mission...
 !******************************!
-Powering Up Limit Breaks
+Communication error.
 !******************************!
-Using Magic on Missions
+Buy and sell panels at the Moogle
+Shop.
 !******************************!
-Mission Mode RTC
+Change characters.
+!******************************!
+Change Mission Mode rules.
+!******************************!
+Stand by for your mission...
 !******************************!

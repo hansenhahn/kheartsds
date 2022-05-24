@@ -1,0 +1,79 @@
+Missioni
+!******************************!
+Olo-missioni
+!******************************!
+Pannelli
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+Seleziona dal menu.
+!******************************!
+
+!******************************!
+Personalizza gli slot o
+vedi la tua scorta.
+!******************************!
+Affronta una
+olo-missione.
+!******************************!
+Modifica le impostazioni
+di gioco.
+!******************************!
+Leggi il diario di Roxas
+e i profili dei nemici.
+!******************************!
+Leggi il diario
+di Roxas.
+!******************************!
+Leggi i profili
+dei nemici.
+!******************************!
+Rivedi i tutorial che
+spiegano come giocare.
+!******************************!
+Salva i progressi di gioco.
+!******************************!
+Torna al titolo. Perderai
+i dati non salvati.
+!******************************!
+Affronta le missioni
+che Sa<00EF>x ti aveva dato.
+!******************************!
+Aggiungi restrizioni per
+aumentare la difficolt<00E0>.
+(I nemici sono pi<00F9> potenti.)
+!******************************!
+Torna al menu principale.
+!******************************!
+Uscire dal gioco e tornare al titolo?
+!******************************!
+Premi <ST><AR><T> per unirti.
+!******************************!
+Seleziona una missione
+!******************************!
+Premi <B> per ritirarti.
+!******************************!
+In attesa di altri giocatori...
+!******************************!
+Premi <ST><AR><T> per iniziare.
+!******************************!
+L'host sta selezionando una missione...
+!******************************!
+Errore di comunicazione.
+!******************************!
+Compra e vendi pannelli
+all'Emporio Moguri.
+!******************************!
+Modifica i personaggi.
+!******************************!
+Cambia le regole della
+modalit<00E0> Missioni.
+!******************************!
+Attendi la tua missione...
+!******************************!

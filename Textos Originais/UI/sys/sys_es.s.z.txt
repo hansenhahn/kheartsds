@@ -1,0 +1,8 @@
+Error de conexi<00F3>n.
+Pulsa <A> para volver a
+la pantalla principal.
+!******************************!
+No se ha podido realizar
+la conexi<00F3>n inal<00E1>mbrica.
+<A> Ir la pantalla principal.
+!******************************!

@@ -1,0 +1,75 @@
+Missions
+!******************************!
+Holo-missions
+!******************************!
+Panneaux
+!******************************!
+Fichiers
+!******************************!
+Configuration
+!******************************!
+Sauvegarder
+!******************************!
+<00C9>cran-titre
+!******************************!
+Choisissez une option.
+!******************************!
+Participer <00E0> une mission.
+!******************************!
+Placer des panneaux ou
+consulter votre stock.
+!******************************!
+Participer <00E0> une holo-mission.
+!******************************!
+Modifier les param<00E8>tres du jeu.
+!******************************!
+Lire le journal de Roxas et
+consulter les profils ennemis.
+!******************************!
+Lire le journal de Roxas.
+!******************************!
+Consulter les profils ennemis.
+!******************************!
+Revoir les didacticiels du jeu.
+!******************************!
+Sauvegarder votre progression.
+!******************************!
+Retourner <00E0> l'<00E9>cran-titre. Toutes
+les donn<00E9>es non sauvegard<00E9>es
+seront perdues.
+!******************************!
+Rejouer les missions qui vous
+ont <00E9>t<00E9> confi<00E9>es par Sa<00EF>x.
+!******************************!
+Ajouter des restrictions aux missions
+normales pour corser la difficult<00E9> (les
+ennemis sont aussi plus puissants).
+!******************************!
+Retourner au menu principal.
+!******************************!
+Quitter la partie et revenir <00E0> l'<00E9>cran-titre ?
+!******************************!
+Appuyez sur <ST><AR><T> pour rejoindre.
+!******************************!
+Choisissez une mission.
+!******************************!
+Appuyez sur <B> pour quitter.
+!******************************!
+En attente des autres joueurs...
+!******************************!
+Appuyez sur <ST><AR><T> pour commencer.
+!******************************!
+L'h<00F4>te choisit une mission...
+!******************************!
+Erreur de communication.
+!******************************!
+Acheter et vendre des panneaux
+dans le magasin du mog.
+!******************************!
+Changer de personnage.
+!******************************!
+Modifier les r<00E8>gles du
+mode Missions.
+!******************************!
+Attendez le d<00E9>but de votre mission...
+!******************************!

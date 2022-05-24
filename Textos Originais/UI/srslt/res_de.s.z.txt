@@ -1,0 +1,38 @@
+Bewertung deiner Leistung.
+!******************************!
+<A> / <B> Weiter
+!******************************!
+<A> / <B> Fertig
+!******************************!
+Belohnung f<00FC>r Mission verdoppelt!
+!******************************!
+Belohnung f<00FC>r Mission verdreifacht!
+!******************************!
+Belohnungen
+!******************************!
+Items gesammelt
+!******************************!
+Qualabz.
+!******************************!
+Deinen Holo-Missionen wurde
+eine neue Mission hinzugef<00FC>gt.
+!******************************!
+Einheitsabz.
+!******************************!
+Diese Mission kannst du nun
+mit anderen Spielern spielen!
+!******************************!
+Krone
+!******************************!
+Tausche sie im Laden gegen
+verschiedene Boni ein.
+!******************************!
+Siegel
+!******************************!
+Tausche sie im Laden gegen
+verschiedene Boni ein.
+!******************************!
+Sammle viele Herz- und
+Missionspunkte, um sie
+zu gewinnen.
+!******************************!

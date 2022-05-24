@@ -1,0 +1,48 @@
+Select a file to load.
+!******************************!
+(A) Load  (B) Cancel
+!******************************!
+(X) Delete File
+!******************************!
+Load file %d?
+!******************************!
+Delete file %d?
+!******************************!
+Once you delete a file, it's gone for good!
+!******************************!
+%d munny
+!******************************!
+Yes
+!******************************!
+No
+!******************************!
+Deleting file...
+Do not turn off the power or
+remove the Game Card.
+!******************************!
+File %d has been deleted.
+!******************************!
+:
+!******************************!
+LV %d
+!******************************!
+This file is corrupt.
+!******************************!
+File %d is corrupt and cannot be used.
+Delete the file?
+!******************************!
+The file failed to load properly.
+Turn off the power and reinsert the Game Card.
+!******************************!
+Begin DS Wireless Communications?
+!******************************!
+Begin playing as a guest?
+!******************************!
+You cannot save while playing as a guest.
+!******************************!
+Unable to write data.
+!******************************!
+Unable to read data.
+!******************************!
+Turn off the power and reinsert the Game Card.
+!******************************!

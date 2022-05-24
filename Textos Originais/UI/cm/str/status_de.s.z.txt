@@ -1,44 +1,44 @@
-LV
+ST
 !******************************!
-HP
+LP
 !******************************!
-Abilities
+F<00E4>higk.
 !******************************!
-Links
+Verbind.
 !******************************!
-Strength
+St<00E4>rke
 !******************************!
-Magic
+Magie
 !******************************!
-Defense
+Abwehr
 !******************************!
-Critical %
+Volltr. %
 !******************************!
-Crit Bonus
+Volltr. +
 !******************************!
-EXP
+ERF
 !******************************!
-Next Level
+N<00E4>chste Stufe
 !******************************!
-Heart Points
+Herzpunkte
 !******************************!
-Slots
+Felder
 !******************************!
-Tokens
+Abzeichen
 !******************************!
-Rank
+Rang
 !******************************!
-Novice
+Novize
 !******************************!
-Rookie
+Rekrut
 !******************************!
 Agent
 !******************************!
-Expert
+Experte
 !******************************!
-Master
+Meister
 !******************************!
-Legend
+Legende
 !******************************!
 Xemnas
 !******************************!
@@ -68,7 +68,7 @@ Roxas
 !******************************!
 Xion
 !******************************!
-The King
+Der K<00F6>nig
 !******************************!
 Sora
 !******************************!
@@ -78,80 +78,78 @@ Donald
 !******************************!
 Goofy
 !******************************!
-Anti-Nil
+Anti-Null
 !******************************!
-Anti-Space
+Anti-Raum
 !******************************!
 Anti-Wind
 !******************************!
-Anti-Ice
+Anti-Eis
 !******************************!
-Anti-Earth
+Anti-Erde
 !******************************!
 Anti-Illusion
 !******************************!
-Anti-Moon
+Anti-Mond
 !******************************!
-Anti-Fire
+Anti-Feuer
 !******************************!
-Anti-Water
+Anti-Wasser
 !******************************!
-Anti-Time
+Anti-Zeit
 !******************************!
-Anti-Flower
+Anti-Blume
 !******************************!
-Anti-Lightning
+Anti-Donner
 !******************************!
-Anti-Light
+Anti-Licht
 !******************************!
-Anti-Darkness
+Anti-Dunkelheit
 !******************************!
-Oblivion
+Memoire
 !******************************!
-%s LV%d
+%s ST%d
 !******************************!
-%d%%
+%d %%
 !******************************!
-Limits the damage you take from <AMARELO>null
-defense<BRANCO>.
+Begrenzt den Schaden
+durch <AMARELO>Abwehrkraft null<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>shoe-
-glue<BRANCO> you.
+Erschwert es Gegnern,
+dich <AMARELO>festzukleben<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>air-
-toss<BRANCO> you.
+Erschwert es Gegnern,
+dich <AMARELO>zu werfen<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>freeze<BRANCO>
-you.
+Erschwert es Gegnern,
+dich <AMARELO>einzufrieren<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>halve
-your HP<BRANCO>.
+Erschwert es Gegnern,
+deine <AMARELO>LP zu halbieren<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>flip-
-foot<BRANCO> you.
+Erschwert es Gegnern,
+bei dir <AMARELO>Knotenf<00FC><00DF>e<BRANCO> zu verursachen.
 !******************************!
-Makes it harder for enemies to <AMARELO>silence<BRANCO>
-you.
+Erschwert es Gegnern,
+<AMARELO>Stille<BRANCO> auf dich zu wirken.
 !******************************!
-Makes it harder for enemies to <AMARELO>ignite<BRANCO>
-you.
+Erschwert es Gegnern,
+dich zu <AMARELO>entz<00FC>nden<BRANCO>.
 !******************************!
-Makes it harder for enemies to
-<AMARELO>damage-drain<BRANCO> you.
+Erschwert es Gegnern,
+dich zu <AMARELO>schw<00E4>chen<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>rewind
-your defense<BRANCO> to LV1.
+Erschwert es Gegnern, <AMARELO>deine
+Abwehrkraft auf ST1 zur<00FC>ckzusetzen<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>blind<BRANCO>
-you.
+Erschwert es Gegnern,
+dich zu <AMARELO>blenden<BRANCO>.
 !******************************!
-Makes it harder for enemies to <AMARELO>jolt<BRANCO>
-you.
+Erschwert es Gegnern,
+dich in <AMARELO>Schockzustand<BRANCO> zu versetzen.
 !******************************!
-Makes it harder for enemies to <AMARELO>zap
-your radar<BRANCO>.
-!******************************!
-
+Erschwert es Gegnern,
+deinen <AMARELO>Radar zu l<00F6>schen<BRANCO>.
 !******************************!
 
 !******************************!
@@ -273,9 +271,15 @@ your radar<BRANCO>.
 !******************************!
 
 !******************************!
-A Keyblade radiant with light.
+
 !******************************!
-A Keyblade black as darkness.
+Waffen-Transformation durch
+Ability-Einheiten in einem
+K<00F6>nigsanh<00E4>nger+.
 !******************************!
-Oathkeeper
+Schl<00FC>sselschwert so schwarz wie
+die Dunkelheit. Besitzt <00FC>berlegene
+Angriffskraft und Magie.
+!******************************!
+Sternentreue
 !******************************!

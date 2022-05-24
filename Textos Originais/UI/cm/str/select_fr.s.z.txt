@@ -1,0 +1,96 @@
+Choisissez une mission.
+!******************************!
+<A> Confirmer  <B> Retour
+!******************************!
+Choisissez un jour.
+!******************************!
+Consulter la mission.
+!******************************!
+???
+!******************************!
+- RESTRICTIONS -
+!******************************!
+- <00C9>VALUATION -
+!******************************!
+<30FB>
+!******************************!
+%d'
+!******************************!
+%d"
+!******************************!
+Dur<00E9>e max : 
+!******************************!
+Niveau max <00E0> %d
+!******************************!
+Sans sort d'attaque
+!******************************!
+Sans sort de gu<00E9>rison
+!******************************!
+Sans objets de gu<00E9>rison
+!******************************!
+%d%% de d<00E9>g<00E2>ts encaiss<00E9>s en plus
+!******************************!
+%d%% de d<00E9>g<00E2>ts inflig<00E9>s en moins
+!******************************!
+Niveau ennemi +%d
+!******************************!
+Perte de HP permanente
+!******************************!
+Perte de HP au sol
+!******************************!
+
+!******************************!
+Finir en un temps record !
+!******************************!
+Gagner plein de pts de c<0153>ur !
+!******************************!
+Remplir la jauge de mission !
+!******************************!
+Gagner plein de munnies !
+!******************************!
+<00C9>viter d'encaisser des d<00E9>g<00E2>ts !
+!******************************!
+<00C9>viter d'encaisser des d<00E9>g<00E2>ts !
+!******************************!
+Attaquer le moins possible !
+!******************************!
+Ne pas rater les attaques !
+!******************************!
+Sauter le moins possible !
+!******************************!
+Points de mission
+!******************************!
+  RECORD
+!******************************!
+Sceaux d'<00E9>preuve
+(Gagnez-en jusqu'<00E0> trois
+ selon vos performances.)
+!******************************!
+Couronnes de mission
+(Solo : finissez la mission pour gagner
+ une couronne.
+ Multijoueur : arrivez premier pour gagner
+ une couronne.
+ Vous recevez aussi des couronnes bonus
+ la premi<00E8>re fois que vous remplissez ces
+ conditions. Les bonus varient selon les
+ missions.)
+!******************************!
+- BONUS DE R<00C9>USSITE -
+!******************************!
+- BONUS AL<00C9>ATOIRES -
+!******************************!
+<AMARELO>Aucune couronne de mission ne vous
+sera remise pendant ce didacticiel.<BRANCO>
+
+(Vous pouvez en gagner lors des autres
+ missions en arrivant premier en multi-
+ joueur ou en finissant la mission en solo.)
+!******************************!
+<AMARELO>Aucune couronne de mission ne vous
+sera remise pendant ce didacticiel.<BRANCO>
+
+(Vous pouvez en gagner lors des autres
+ missions en arrivant premier en multi-
+ joueur ou en finissant la mission en solo.)
+!******************************!

@@ -1,0 +1,404 @@
+<A> Fatto  <B> Annulla
+!******************************!
+Impostazioni personali
+!******************************!
+Impostazioni universali
+!******************************!
+<2015>-
+!******************************!
+Comandi
+!******************************!
+Visuale ins.
+!******************************!
+Velocit<00E0> vis.
+!******************************!
+Asse X vis.
+!******************************!
+Asse Y vis.
+!******************************!
+Cursore
+!******************************!
+Elenco com.
+!******************************!
+Comportamento compagni
+!******************************!
+Bersaglio
+!******************************!
+Supporto
+!******************************!
+Magia offens.
+!******************************!
+Guarigione
+!******************************!
+Forza nemici
+!******************************!
+Forza giocatori
+!******************************!
+Perdita HP
+!******************************!
+Fuoco amico
+!******************************!
+Puntamento
+!******************************!
+Corone
+!******************************!
+Handicap
+!******************************!
+Caduta tesori
+!******************************!
+Timer RCO
+!******************************!
+Vite
+!******************************!
+Tesori HP
+!******************************!
+Tesori KO
+!******************************!
+Limiti
+!******************************!
+Tipo A
+!******************************!
+Tipo B
+!******************************!
+Auto
+!******************************!
+Manuale
+!******************************!
+Veloce
+!******************************!
+Normale
+!******************************!
+Lenta
+!******************************!
+Normale
+!******************************!
+Invertito
+!******************************!
+Normale
+!******************************!
+Invertito
+!******************************!
+Torna
+!******************************!
+Resta
+!******************************!
+<X> + <+>
+!******************************!
+Solo <X>
+!******************************!
+Stesso
+!******************************!
+Diverso
+!******************************!
+Nessuno
+!******************************!
+Danno
+!******************************!
+Recupero
+!******************************!
+Nessuno
+!******************************!
+Disattiva
+!******************************!
+Attiva
+!******************************!
+Disattiva
+!******************************!
+Attiva
+!******************************!
+Normale
+!******************************!
+Alta
+!******************************!
+Massima
+!******************************!
+Normale
+!******************************!
+Bassa
+!******************************!
+Minima
+!******************************!
+Sempre
+!******************************!
+Al suolo
+!******************************!
+No
+!******************************!
+Elevato
+!******************************!
+Ridotto
+!******************************!
+Assente
+!******************************!
+S<00EC>
+!******************************!
+No
+!******************************!
+S<00EC>
+!******************************!
+No
+!******************************!
+S<00EC>
+!******************************!
+No
+!******************************!
+Sempre
+!******************************!
+A volte
+!******************************!
+Mai
+!******************************!
+30
+!******************************!
+120
+!******************************!
+No
+!******************************!
+5
+!******************************!
+3
+!******************************!
+1
+!******************************!
+S<00EC>
+!******************************!
+No
+!******************************!
+Tutti
+!******************************!
+Met<00E0>
+!******************************!
+Nessuno
+!******************************!
+Senza fine
+!******************************!
+Normale
+!******************************!
+No
+!******************************!
+Imposta la funzione di <L> e <R>:
+!******************************!
+Scegli come muovere la visuale:
+!******************************!
+Imposta la velocit<00E0> di spostamento della visuale:
+!******************************!
+Imposta i comandi orizzontali della visuale:
+!******************************!
+Imposta i comandi verticali della visuale:
+!******************************!
+Imposta il comportamento del cursore comandi:
+!******************************!
+Scegli come scorrere l'elenco dei comandi:
+!******************************!
+Imposta il bersaglio per le armi dei compagni:
+!******************************!
+Decidi come i compagni usano magie e oggetti:
+!******************************!
+Consenti o vieta la magia offensiva:
+!******************************!
+Consenti o vieta qualsiasi forma di recupero:
+!******************************!
+Imposta la potenza degli attacchi nemici:
+!******************************!
+Imposta la potenza degli attacchi dei giocatori:
+!******************************!
+Decidi se attivare la perdita graduale di HP:
+!******************************!
+Decidi se i giocatori possono danneggiarsi a vicenda:
+!******************************!
+Attiva/Disattiva il puntamento tra giocatori:
+!******************************!
+Visualizza le corone che mostrano chi <00E8> in testa:
+!******************************!
+Attiva/Disattiva gli handicap:
+!******************************!
+Decidi quando i giocatori colpiti lasciano tesori:
+!******************************!
+Imposta il timer per raggiungere il corridoio oscuro:
+!******************************!
+Scegli quante volte puoi riprovare:
+!******************************!
+Attiva/Disattiva i tesori HP:
+!******************************!
+Decidi quanti tesori rilasciano i giocatori messi KO:
+!******************************!
+Imposta le regole per l'uso dei Limiti:
+!******************************!
+<R>: ripristina visuale/punta/visuale ins.
+<L>: accedi a scorciatoie
+!******************************!
+<R>: ruota visuale/punta            <L> + <R>:
+<L>: ruota o ripristina visuale      accedi a scorciatoie
+!******************************!
+La visuale resta dietro di te mentre ti muovi.
+Tieni premuto <R> per Manuale (solo comandi Tipo A).
+!******************************!
+La direzione della visuale resta fissa.
+Tieni premuto <R> per Auto (solo comandi Tipo A).
+!******************************!
+La visuale si sposta
+pi<00F9> rapidamente.
+!******************************!
+La visuale si sposta
+a velocit<00E0> normale.
+!******************************!
+La visuale si sposta pi<00F9> lentamente
+e con maggiore precisione.
+!******************************!
+Scorri a destra/<SE><LE><CT> & <+D>: visuale a des.
+Scorri a sinistra/<SE><LE><CT> & <+E>: visuale a sin.
+!******************************!
+Scorri a destra/<SE><LE><CT> & <+D>: visuale a sin.
+Scorri a sinistra/<SE><LE><CT> & <+E>: visuale a des.
+!******************************!
+Scorri in su/<SE><LE><CT> & <+C>: visuale in su
+Scorri in gi<00F9>/<SE><LE><CT> & <+B>: visuale in gi<00F9>
+!******************************!
+Scorri in su/<SE><LE><CT> & <+C>: visuale in gi<00F9>
+Scorri in gi<00F9>/<SE><LE><CT> & <+B>: visuale in su
+!******************************!
+Il cursore torna su "Attacca" dopo che
+hai usato una magia o un oggetto.
+!******************************!
+Il cursore resta al suo posto anche dopo
+aver usato una magia o un oggetto.
+!******************************!
+Tieni premuto <X> e usa <+> per scorrere l'elenco.
+Perfetto se usi molte magie e oggetti.
+!******************************!
+Disattiva la navigazione con <+>.
+Puoi premere <X> per scorrere i comandi.
+!******************************!
+I compagni attaccano lo stesso
+nemico che stai puntando.
+!******************************!
+I compagni attaccano un nemico
+diverso da quello che stai puntando.
+!******************************!
+I compagni non attaccano
+mai con le proprie armi.
+!******************************!
+I compagni usano magie offensive, e
+magie curative solo se necessario.
+!******************************!
+I compagni usano magie/oggetti curativi,
+e magie offensive solo se necessario.
+!******************************!
+I compagni non usano mai
+magie o oggetti per aiutarti.
+!******************************!
+Magia offensiva non consentita.
+!******************************!
+Puoi usare la magia
+offensiva normalmente.
+!******************************!
+Ripristino HP e lanci
+magici non consentito.
+!******************************!
+Puoi ripristinare HP e
+lanci magici normalmente.
+!******************************!
+Gli attacchi nemici infliggono
+danni normali.
+!******************************!
+Gli attacchi nemici infliggono
+pi<00F9> danni del solito.
+!******************************!
+Gli attacchi nemici infliggono
+danni tremendi.
+!******************************!
+Gli attacchi dei giocatori
+infliggono danni normali.
+!******************************!
+I giocatori infliggono
+meno danni del solito.
+!******************************!
+I giocatori infliggono pochissimi
+danni a tutti i nemici.
+!******************************!
+I tuoi HP si riducono
+costantemente.
+!******************************!
+I tuoi HP si riducono costantemente
+quando tocchi il suolo.
+!******************************!
+I tuoi HP si riducono solo
+se subisci danni.
+!******************************!
+Gli attacchi contro altri giocatori
+infliggono danni ingenti.
+!******************************!
+Gli attacchi contro altri giocatori
+infliggono danni limitati.
+!******************************!
+Gli attacchi contro altri giocatori
+non vanno a segno.
+!******************************!
+Puoi puntare i giocatori
+proprio come i nemici.
+!******************************!
+Non puoi puntare gli
+altri giocatori.
+!******************************!
+Le corone vengono visualizzate.
+!******************************!
+Le corone che indicano la posizione
+non vengono visualizzate.
+!******************************!
+I giocatori di livello basso iniziano la
+missione con Punti Missione extra.
+!******************************!
+Tutti i giocatori iniziano allo stesso
+modo, a prescindere dal livello.
+!******************************!
+I giocatori lasciano sempre
+cadere tesori Missione.
+!******************************!
+Talvolta i giocatori lasciano
+cadere tesori Missione.
+!******************************!
+I giocatori colpiti non lasciano
+mai cadere tesori Missione.
+!******************************!
+Hai a disposizione 30 secondi
+al termine della missione.
+!******************************!
+Hai a disposizione 120 secondi
+al termine della missione.
+!******************************!
+Nessun timer. La missione termina solo
+quando tutti raggiungono il corridoio.
+!******************************!
+La missione fallisce se vieni
+messo KO cinque volte.
+!******************************!
+La missione fallisce se vieni
+messo KO tre volte.
+!******************************!
+La missione fallisce anche se
+vieni messo KO una sola volta.
+!******************************!
+I tesori HP compaiono normalmente
+quando sconfiggi i nemici.
+!******************************!
+I tesori HP non compaiono mai
+quando sconfiggi i nemici.
+!******************************!
+I giocatori lasciano cadere
+tutti i loro tesori Missione.
+!******************************!
+I giocatori lasciano cadere
+met<00E0> dei loro tesori Missione.
+!******************************!
+I giocatori sconfitti non lasciano
+mai cadere tesori Missione.
+!******************************!
+I Limiti possono essere usati in
+sequenza (soglia: 50% degli HP).
+!******************************!
+I Limiti possono essere
+usati normalmente.
+!******************************!
+I Limiti non possono
+essere utilizzati.
+!******************************!

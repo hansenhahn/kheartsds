@@ -1,0 +1,49 @@
+Seleziona un file da caricare.
+!******************************!
+(A) Carica  (B) Annulla
+!******************************!
+(X) Cancella file
+!******************************!
+Caricare il file %d?
+!******************************!
+Cancellare il file %d?
+!******************************!
+I file cancellati non possono essere recuperati!
+!******************************!
+%d munny
+!******************************!
+Si
+!******************************!
+No
+!******************************!
+Cancellazione in corso...
+Non estrarre la scheda DS
+o spegnere la console.
+!******************************!
+File %d cancellato.
+!******************************!
+:
+!******************************!
+LV %d
+!******************************!
+Il file e danneggiato.
+!******************************!
+Il file %d e danneggiato e non puo
+essere utilizzato. Cancellare?
+!******************************!
+Caricamento fallito.
+Spegni la console, estrai
+e reinserisci la scheda DS.
+!******************************!
+Attivare la comunicazione wireless DS?
+!******************************!
+Iniziare a giocare come ospite?
+!******************************!
+Non puoi salvare quando giochi come ospite.
+!******************************!
+Impossibile scrivere i dati.
+!******************************!
+Impossibile leggere i dati.
+!******************************!
+Spegni la console, estrai e reinserisci la scheda DS.
+!******************************!

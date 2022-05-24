@@ -1,0 +1,93 @@
+Select a mission.
+!******************************!
+<A> Embark  <B> Back
+!******************************!
+Select a day.
+!******************************!
+Review the mission.
+!******************************!
+? ? ? ? ?
+!******************************!
+- RESTRICTIONS -
+!******************************!
+- GRADING -
+!******************************!
+<30FB> 
+!******************************!
+%d'
+!******************************!
+%d"
+!******************************!
+Time limit: 
+!******************************!
+Level capped at %d
+!******************************!
+No attack magic
+!******************************!
+No recovery magic
+!******************************!
+No recovery items
+!******************************!
+Take %d%% more damage
+!******************************!
+Deal %d%% less damage
+!******************************!
+Enemy level +%d
+!******************************!
+HP drains continually
+!******************************!
+HP drains while on the ground
+!******************************!
+
+!******************************!
+Finish in record time!
+!******************************!
+Earn lots of heart points!
+!******************************!
+Fill up the mission gauge!
+!******************************!
+Earn lots of munny!
+!******************************!
+Avoid taking damage!
+!******************************!
+Avoid taking damage!
+!******************************!
+Attack as little as possible!
+!******************************!
+Don't miss with attacks!
+!******************************!
+Jump as little as possible!
+!******************************!
+Mission Points
+!******************************!
+  RECORD
+!******************************!
+Challenge Sigils
+(Earn up to three based on your
+ performance.)
+!******************************!
+Mission Crowns
+(Solo: Finish the mission to win one crown.
+ Multiplayer: Place first to win one crown.
+ Bonus crowns are also awarded the first
+ time you meet these requirements.
+ The bonus varies between missions.)
+!******************************!
+- CLEAR BONUSES -
+!******************************!
+- RANDOM BONUSES -
+!******************************!
+<AMARELO>No Mission Crowns are awarded for this
+tutorial.<BRANCO>
+
+(You can earn crowns in other missions by
+ placing first against other players, or just
+ by finishing the mission while playing solo.)
+!******************************!
+<AMARELO>No Mission Crowns are awarded for this
+mission.<BRANCO>
+
+(You can earn crowns in other missions by
+ placing first against other players, or just
+ by finishing the mission while playing solo.)
+!******************************!
