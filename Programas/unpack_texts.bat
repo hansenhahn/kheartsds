@@ -6,7 +6,17 @@ echo Calling dumper.py to unpack texts
 
 rem ----- Arquivos que estão empacotados em containers p2
 rem Unpack file p2
-pypy dumper.py -m ".p2" -s "../ROM Original/xpa-khe/data"  -d "../Arquivos Originais"
+rem pypy dumper.py -m ".p2" -s "../ROM Original/xpa-khe/data"  -d "../Arquivos Originais"
+
+pypy dumper.py -m ".dat" -s "../Arquivos Originais/UI/btlttr" -d "../Textos Originais/UI/btlttr"
+exit /b
+
+rem Unpack dos locais
+pypy dumper.py -m ".map" -s "../Arquivos Originais/UI/btl/en/__map.p2" -d "../Textos Originais/UI/btl/en/__map.p2"
+
+rem Unpack do banco de dados
+pypy dumper.py -m ".db" -s "../Arquivos Originais/db/__db_en.p2" -d "../Textos Originais/db/__db_en.p2"
+
 rem Unpack dos scripts das legendas dos vídeos
 pypy dumper.py -m ".noext.z" -s1 "../Arquivos Originais/UI/thr/__m.p2" -d "../Textos Originais/UI/thr/__m.p2"
 rem Unpack dos scripts dos eventos
@@ -179,7 +189,6 @@ pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/tutorial/root_en.s.z" -d 
 
 
 REM ver como extrair
-REM pypy dumper.py -m ".noext.z" -s1 "../Arquivos Originais/UI/btl/en/map.p2" -d "../Textos Originais/UI/btl/en/map.p2"
 REM pypy dumper.py -m ".msi.z" -s1 "../Arquivos Originais/UI/cm/msl_en.msi.z" -d "../Textos Originais/UI/cm/msl_en.msi.z"
 REM pypy dumper.py -m ".noext.z" -s1 "../Arquivos Originais/UI/sf" -d "../Textos Originais/UI/sf"
 

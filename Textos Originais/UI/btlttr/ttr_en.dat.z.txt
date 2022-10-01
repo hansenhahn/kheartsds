@@ -1,0 +1,651 @@
+[0100010000000000]
+Basic Controls
+!------------------------------!
+<AMARELO>Use <+><BRANCO> to move around.
+!------------------------------!
+<AMARELO>Approach someone<BRANCO> and <AMARELO>press <A><BRANCO> to talk to them.
+!------------------------------!
+!******************************!
+[0300010001000100]
+How to Save
+!------------------------------!
+<AMARELO>Press <ST><AR><T><BRANCO> to open the <AMARELO>main menu<BRANCO>.
+!------------------------------!
+Select <AMARELO>Save<BRANCO> from the menu to record your
+progress.
+!------------------------------!
+!******************************!
+[070002000400000005000000]
+Reaching High Places
+!------------------------------!
+<AMARELO>Press <B><BRANCO> to jump.
+!------------------------------!
+You can also <AMARELO>grab ledges<BRANCO> that are otherwise out of
+reach.
+!------------------------------!
+<AMARELO>Press <+C><BRANCO> while hanging to <AMARELO>pull yourself up<BRANCO>...
+!------------------------------!
+...or press <B> again to drop down.
+!------------------------------!
+!******************************!
+[080002000600000004000100]
+Adjusting the Camera
+!------------------------------!
+<AMARELO>Press <SE><LE><CT><BRANCO> to enter <AMARELO>freelook mode<BRANCO>, then <AMARELO>use <+><BRANCO>
+to adjust the camera.
+!------------------------------!
+Press any button other than <+> or <ST><AR><T> to exit
+freelook mode.
+!------------------------------!
+You can also <AMARELO>slide the stylus on the Touch Screen<BRANCO>
+to adjust the camera <AMARELO>on the fly<BRANCO>.
+!------------------------------!
+Try it next time you need to look around!
+!------------------------------!
+!******************************!
+[0600010003000000]
+Blocked Areas
+!------------------------------!
+Some areas are blocked off by <AMARELO>barricades<BRANCO>.
+!------------------------------!
+The Organization uses these to close off areas
+<AMARELO>unrelated to the mission<BRANCO>.
+!------------------------------!
+!******************************!
+[0900010007000000]
+Treasure Chests
+!------------------------------!
+<AMARELO>Press <A> while next to a chest<BRANCO> to open it.
+!------------------------------!
+Chests contain a variety of helpful items.
+Collect as many as you can!
+!------------------------------!
+!******************************!
+[0A0002000500010006000100]
+The Backpack
+!------------------------------!
+Items you collect are stored in your <AMARELO>backpack<BRANCO>.
+!------------------------------!
+To get to your backpack, <AMARELO>press <X><BRANCO> until the <AMARELO>Items
+command<BRANCO> is selected, then <AMARELO>press <A><BRANCO>.
+!------------------------------!
+Items on the list can be <AMARELO>discarded<BRANCO><2015>or, in the case
+of recovery items, <AMARELO>used<BRANCO>.
+!------------------------------!
+Anything you throw away will appear on the screen
+and can be <AMARELO>collected again<BRANCO>.
+!------------------------------!
+!******************************!
+[0B00010008000000]
+RTC
+!------------------------------!
+After a mission, you must make your way back to
+the <AMARELO>dark corridor<BRANCO> and <AMARELO>RTC<BRANCO> (return to the castle).
+!------------------------------!
+The corridor's location is displayed on the <AMARELO>Touch
+Screen map<BRANCO>.
+!------------------------------!
+!******************************!
+[1100010009000000]
+Standard Attacks
+!------------------------------!
+<AMARELO>Press <A><BRANCO> to attack with the <AMARELO>Keyblade<BRANCO>.
+!------------------------------!
+<AMARELO>Keep pressing <A><BRANCO> with the right timing to perform a
+devastating <AMARELO>combo<BRANCO>!
+!------------------------------!
+!******************************!
+[120001000A000000]
+Prizes
+!------------------------------!
+Enemies drop <AMARELO>prizes<BRANCO> when defeated.
+
+!------------------------------!
+<AMARELO>HP Prize<BRANCO>
+Restores HP.
+!------------------------------!
+<AMARELO>Munny<BRANCO>
+Serves as cash.
+!------------------------------!
+<AMARELO>Prize Box<BRANCO>
+Contains an item.
+!------------------------------!
+!******************************!
+[130001000B000000]
+Locking On
+!------------------------------!
+<AMARELO>Rapidly press <R> twice<BRANCO> to <AMARELO>lock on<BRANCO> to an enemy.
+!------------------------------!
+Cycle to the <AMARELO>next target<BRANCO> by <AMARELO>pressing <R> once<BRANCO>.
+Rapidly press <R> twice to exit lock-on mode.
+!------------------------------!
+!******************************!
+[140001000C000000]
+Heart Points
+!------------------------------!
+A <AMARELO>heart<BRANCO> appears when you defeat <AMARELO>certain types of
+Heartless<BRANCO>.
+!------------------------------!
+You can use these <AMARELO>heart points<BRANCO> at the <AMARELO>shop<BRANCO>.
+!------------------------------!
+!******************************!
+[150003000F0001001000010011000100]
+Chaining
+!------------------------------!
+Defeat enemies to start a <AMARELO>chain<BRANCO>.
+!------------------------------!
+While chaining, a <AMARELO>ring of light<BRANCO> appears around
+whichever enemy you lock on to.
+!------------------------------!
+That ring shrinks over time and disappears.
+<AMARELO>Keep hitting enemies<BRANCO> to make it bigger!
+!------------------------------!
+Defeating enemies during a chain will earn you
+<AMARELO>bonus heart points<BRANCO>.
+!------------------------------!
+What's more, if you <AMARELO>keep a chain going long enough<BRANCO>,
+your <AMARELO>heart counter will begin to flash<BRANCO>.
+!------------------------------!
+Your chain becomes <AMARELO>unbreakable<BRANCO> during this time,
+giving you a chance to collect tons of hearts!
+!------------------------------!
+!******************************!
+[1600010012000100]
+Mission Objectives
+!------------------------------!
+Missions have a variety of <AMARELO>objectives<BRANCO>.
+!------------------------------!
+The objective of your current mission is shown on
+the Touch Screen.
+!------------------------------!
+!******************************!
+[0200010000000100]
+The Map
+!------------------------------!
+A <AMARELO>map of your current location<BRANCO> can be found on the
+Touch Screen.
+!------------------------------!
+<AMARELO>Enemies in the area<BRANCO> also show up on the map.
+Use it to hunt them down.
+!------------------------------!
+!******************************!
+[1700010013000100]
+The Mission Gauge
+!------------------------------!
+Make progress toward your objective, and the
+<AMARELO>Mission Gauge<BRANCO> will fill. Reach the <AMARELO>goal line<BRANCO>...
+!------------------------------!
+...and it's <AMARELO>Mission Complete<BRANCO>! But why stop there?
+Fill the gauge all the way, and it could pay off.
+!------------------------------!
+!******************************!
+[0E0001000A000100]
+Panels
+!------------------------------!
+You can now select <AMARELO>Panels<BRANCO> from the main menu.
+Panels allow you to <AMARELO>customize your abilities<BRANCO>.
+!------------------------------!
+You can only access your panels <AMARELO>before missions<BRANCO>,
+so make them a part of your daily routine.
+!------------------------------!
+!******************************!
+[0F0003000B0001000C0001000D000100]
+Installing Panels
+!------------------------------!
+Install <AMARELO>panels<BRANCO> you've obtained in <AMARELO>slots<BRANCO> in order to
+power yourself up!
+!------------------------------!
+Move panels from your <AMARELO>stock<BRANCO> on the right side of
+the screen into the <AMARELO>slot window<BRANCO> on the left.
+!------------------------------!
+Installed panels give you <AMARELO>new abilities<BRANCO>, or increase
+your level, HP, and other <AMARELO>stats<BRANCO>.
+!------------------------------!
+Panels come in all varieties. Find the panel
+arrangement that works best for you!
+!------------------------------!
+Having trouble with a mission?
+Don't be afraid to <AMARELO>press <ST><AR><T><BRANCO> and <AMARELO>withdraw<BRANCO>.
+!------------------------------!
+You can always try again, and sometimes a simple
+change to your panels can make all the difference.
+!------------------------------!
+!******************************!
+[3A0001002F000100]
+Using Magic on Missions
+!------------------------------!
+Need <AMARELO>magic panels<BRANCO> for a mission?
+Remember, you must <AMARELO>install them before you go<BRANCO>.
+!------------------------------!
+Don't forget!
+Otherwise you'll be stuck without magic.
+!------------------------------!
+!******************************!
+[1900010014000100]
+Magic
+!------------------------------!
+To access your magic, <AMARELO>press <X><BRANCO> until the <AMARELO>Magic
+command<BRANCO> is selected, then <AMARELO>press <A><BRANCO>.
+!------------------------------!
+You have a <AMARELO>limited number of magic casts<BRANCO>, but you
+can recover them by using <AMARELO>Ethers<BRANCO>.
+!------------------------------!
+!******************************!
+[1A0002001500010016000100]
+Recovery Items
+!------------------------------!
+To use a recovery item, <AMARELO>use <X><BRANCO> to select the <AMARELO>Items
+command<BRANCO>. Choose an item, then <AMARELO>press <A><BRANCO>.
+!------------------------------!
+<AMARELO>Once you use an item, it's gone.<BRANCO> This goes for both
+installed items and those in your backpack.
+!------------------------------!
+Items must be <AMARELO>installed in slots<BRANCO> like everything else
+if you want to take them along on missions.
+!------------------------------!
+Plan in advance for tougher missions!
+!------------------------------!
+!******************************!
+[1B0002001700010018000100]
+Shortcuts
+!------------------------------!
+Magic and recovery items can be set to a <AMARELO>shortcut
+menu<BRANCO>.
+!------------------------------!
+<AMARELO>Hold <L><BRANCO> while selecting an item or magic, then
+<AMARELO>press <A> <B> <X> or <Y><BRANCO> to assign it to that button.
+!------------------------------!
+Next, <AMARELO>close<BRANCO> the item or magic menu.
+<AMARELO>Hold <L><BRANCO>, and you will see your shortcuts.
+!------------------------------!
+While holding <L>, <AMARELO>press <A> <B> <X> or <Y><BRANCO> to use that
+shortcut. Backpack items cannot be assigned.
+!------------------------------!
+!******************************!
+[350001002B000100]
+Control Types
+!------------------------------!
+<AMARELO>Type B controls<BRANCO> have been added to the <AMARELO>Config
+menu<BRANCO>. Type B features a <AMARELO>more flexible camera<BRANCO>.
+!------------------------------!
+So far, you have been using Type A controls.
+Try both and see what clicks for you!
+!------------------------------!
+!******************************!
+[1C0002000E00000019000100]
+Recon Missions
+!------------------------------!
+For recon missions like this one, <AMARELO>approach recon
+points<BRANCO> and <AMARELO>press <A><BRANCO> to examine them.
+!------------------------------!
+You must <AMARELO>defeat any nearby foes first<BRANCO>.
+Recon points you find are <AMARELO>marked on the map<BRANCO>.
+!------------------------------!
+Find enough clues to make a <AMARELO>breakthrough<BRANCO>, and the
+<AMARELO>Mission Gauge will fill<BRANCO>.
+!------------------------------!
+Breakthroughs reveal new recon points, allowing
+you to proceed with the mission.
+!------------------------------!
+!******************************!
+[180001000D000000]
+Limit Breaks
+!------------------------------!
+Once your <AMARELO>HP falls into the yellow range<BRANCO>, <AMARELO>hold <A><BRANCO>
+and you can activate your <AMARELO>Limit Break<BRANCO>.
+!------------------------------!
+Your attacks will deal massive damage <AMARELO>until the
+white line reaches the left edge<BRANCO> of your HP gauge.
+!------------------------------!
+!******************************!
+[1E0001001C000100]
+Holo-Missions
+!------------------------------!
+Sa<00EF>x may stop issuing some missions after a
+certain date. Don't worry, though!
+!------------------------------!
+You can always try any mission later.
+Just select <AMARELO>Holo-Missions<BRANCO> from the main menu.
+!------------------------------!
+!******************************!
+[1F0001001D000100]
+The Holo-Mission Menu
+!------------------------------!
+All your missions, <AMARELO>whether you chose to accept
+them or not<BRANCO>, are stored for you as <AMARELO>Holo-Missions<BRANCO>.
+!------------------------------!
+See if you can complete them all!
+!------------------------------!
+!******************************!
+[2C00010021000100]
+Equipping a Weapon
+!------------------------------!
+Installing a <AMARELO>weapon panel<BRANCO> transforms your weapon,
+<AMARELO>changing its appearance and abilities<BRANCO>.
+!------------------------------!
+You can only install one weapon panel at a time.
+Each has a different feel, so give them all a try!
+!------------------------------!
+!******************************!
+[050002000200010003000100]
+Selecting a Mission
+!------------------------------!
+Check in with Sa<00EF>x to see a list of <AMARELO>currently
+available missions<BRANCO>.
+!------------------------------!
+First, <AMARELO>select a mission<BRANCO> from the list.
+!------------------------------!
+This will open a <AMARELO>mission brief<BRANCO>.
+!------------------------------!
+Use <+> to review the summary and objectives, then
+<AMARELO>press <A><BRANCO> to embark on the mission.
+!------------------------------!
+!******************************!
+[1D0002001A0001001B000100]
+Mandatory Missions
+!------------------------------!
+Some of the missions you receive from the
+Organization are <AMARELO>mandatory<BRANCO>.
+!------------------------------!
+These missions are <AMARELO>marked with a key<BRANCO>.
+!------------------------------!
+Once all the mandatory missions are complete, you
+can <AMARELO>advance the date<BRANCO>...
+!------------------------------!
+...or choose to hold back until you've finished the
+full list of missions.
+!------------------------------!
+!******************************!
+[2D0002002200010023000100]
+Link Panels
+!------------------------------!
+You may see the word LINK next to the description
+of certain panels. These are called <AMARELO>link panels<BRANCO>.
+!------------------------------!
+When you install a link panel in a slot, a <AMARELO>link zone<BRANCO>
+appears around it.
+!------------------------------!
+If you install a <AMARELO>compatible panel<BRANCO> inside this zone, it
+will <AMARELO>link up<BRANCO>.
+!------------------------------!
+Links are the key to <AMARELO>maximizing your stats<BRANCO>. Some
+<AMARELO>abilities<BRANCO> can only be unlocked with the <AMARELO>right link<BRANCO>.
+!------------------------------!
+!******************************!
+[2F00010025000100]
+Ring Panels
+!------------------------------!
+Install <AMARELO>ring panels<BRANCO> to bump your stats way up.
+Some will even unlock <AMARELO>unique abilities<BRANCO>.
+!------------------------------!
+Unfortunately, ring panels <AMARELO>can't be linked<BRANCO>, and you
+are <AMARELO>only allowed to install one<BRANCO>.
+!------------------------------!
+!******************************!
+[210001001E000100]
+Unit Panels
+!------------------------------!
+<AMARELO>Unit panels<BRANCO> link to your weapon panels.
+!------------------------------!
+Some release your weapon's <AMARELO>innate abilities<BRANCO>, while
+others <AMARELO>boost Strength, Defense, or other stats<BRANCO>.
+!------------------------------!
+!******************************!
+[3000010026000100]
+Unlocking Slots
+!------------------------------!
+Completing missions <AMARELO>unlocks additional panel slots<BRANCO>.
+!------------------------------!
+More slots = more panels = more power for you.
+Who says hard work doesn't pay off?
+!------------------------------!
+!******************************!
+[3100010027000100]
+Ranks
+!------------------------------!
+Sa<00EF>x has noted your achievements and awarded you
+a new <AMARELO>rank<BRANCO>.
+!------------------------------!
+Rise through the ranks to unlock <AMARELO>new items in the
+shop<BRANCO>, as well as <AMARELO>new missions for Mission Mode<BRANCO>.
+!------------------------------!
+!******************************!
+[3600010019000000]
+The Moogle Shop
+!------------------------------!
+Looks like the <AMARELO>Moogle Shop<BRANCO> is open for business!
+!------------------------------!
+Talk to the <AMARELO>moogle<BRANCO> here in the Grey Area whenever
+you need the shop's services.
+!------------------------------!
+!******************************!
+[0C00010007000100]
+Shop Services
+!------------------------------!
+At the shop, you can spend <AMARELO>heart points<BRANCO> to
+<AMARELO>purchase<BRANCO> panels...
+!------------------------------!
+...or pay <AMARELO>munny<BRANCO> to <AMARELO>synthesize<BRANCO> new panels by
+combining the materials you have.
+!------------------------------!
+!******************************!
+[220001001F000100]
+Unity Badges
+!------------------------------!
+Find a mission's <AMARELO>Unity Badge<BRANCO> to <AMARELO>make it playable in
+Mission Mode<BRANCO>.
+!------------------------------!
+Keep in mind that each mission has a <AMARELO>minimum rank<BRANCO>.
+You cannot select it unless all players qualify.
+!------------------------------!
+!******************************!
+[3200010028000100]
+The Bonus Gauge
+!------------------------------!
+Complete missions to fill up the <AMARELO>Bonus Gauge<BRANCO>.
+The amount varies from mission to mission.
+!------------------------------!
+Once the gauge is full, completing additional
+missions will earn you <AMARELO>more rewards than usual<BRANCO>.
+!------------------------------!
+!******************************!
+[200002000F00000010000000]
+Organization Emblems
+!------------------------------!
+<AMARELO>Collect the Organization emblems<BRANCO> scattered across
+the map.
+!------------------------------!
+The emblems have <AMARELO>rings of light<BRANCO> around them which
+<AMARELO>get smaller as time elapses<BRANCO>, and eventually <AMARELO>vanish<BRANCO>.
+!------------------------------!
+If you want to <AMARELO>completely fill the Mission Gauge<BRANCO>,
+you must grab the emblems <AMARELO>with their rings intact<BRANCO>.
+!------------------------------!
+<AMARELO>Recharge<BRANCO> the rings by <AMARELO>grabbing other emblems<BRANCO> or
+<AMARELO>defeating enemies<BRANCO>.
+!------------------------------!
+!******************************!
+[3300010029000100]
+Level Links
+!------------------------------!
+Some level panels <AMARELO>don't actually raise your level<BRANCO>.
+Instead, they generate a link zone.
+!------------------------------!
+<AMARELO>Link up normal Level Up panels<BRANCO> to this zone to
+<AMARELO>multiply<BRANCO> the number of levels you gain!
+!------------------------------!
+!******************************!
+[0D0002000800010009000100]
+Challenges and Ordeal Badges
+!------------------------------!
+Now you can try your hand at <AMARELO>Challenges<BRANCO>!
+Find <AMARELO>Ordeal Badges<BRANCO> to unlock these tricky missions.
+!------------------------------!
+Challenges show up on the Holo-Missions menu once
+the missions you found them in become available.
+!------------------------------!
+Challenges feature special <AMARELO>restrictions<BRANCO>, and your
+performance will be <AMARELO>judged on different factors<BRANCO>.
+!------------------------------!
+Perform well to earn <AMARELO>Challenge Sigils<BRANCO> you can
+trade in at shops for all kinds of <AMARELO>freebies<BRANCO>.
+!------------------------------!
+!******************************!
+[100001000E000100]
+Freebies
+!------------------------------!
+You can now collect <AMARELO>freebies<BRANCO> at the shop.
+Rack up <AMARELO>Challenge Sigils<BRANCO> and <AMARELO>Mission Crowns<BRANCO>...
+!------------------------------!
+...to earn free stuff based on <AMARELO>how many you've
+collected<BRANCO> during Challenges and Mission Mode.
+!------------------------------!
+!******************************!
+[2500010013000000]
+Pursuing Targets
+!------------------------------!
+Pursue the target by <AMARELO>keeping him inside your blue
+zone<BRANCO>.
+!------------------------------!
+Careful! If he <AMARELO>escapes<BRANCO>, or <AMARELO>you enter his red zone<BRANCO>,
+you'll be caught.
+!------------------------------!
+!******************************!
+[340001002A000100]
+Expanding Your Backpack
+!------------------------------!
+Install a <AMARELO>Backpack<BRANCO> panel into your slots and you
+will be able to <AMARELO>pick up more items<BRANCO> during missions.
+!------------------------------!
+This also means you can carry more stuff home.
+!------------------------------!
+!******************************!
+[2800010015000000]
+Stay Out of Sight
+!------------------------------!
+Careful! If you enter Lumiere's line of sight<2015><AMARELO>the
+red zone<BRANCO><2015>you'll be caught.
+!------------------------------!
+This will force you to return to where you started.
+Find a way to advance <AMARELO>without being seen<BRANCO>.
+!------------------------------!
+!******************************!
+[2E00010024000100]
+Storing and Retrieving Decks
+!------------------------------!
+You can <AMARELO>store<BRANCO> your current panel arrangement in a
+<AMARELO>deck<BRANCO>...
+!------------------------------!
+...and then <AMARELO>retrieve<BRANCO> it if you need it again later.
+(Remember to <AMARELO>save<BRANCO> if you want to keep your decks!)
+!------------------------------!
+!******************************!
+[370001002C000100]
+News from the Shop
+!------------------------------!
+The <AMARELO>Moogle Shop<BRANCO> has some <AMARELO>brand new items<BRANCO> in stock.
+Take a look!
+!------------------------------!
+You can also <AMARELO>synthesize weapon panels<BRANCO> now.
+Try to create a more powerful weapon!
+!------------------------------!
+!******************************!
+[2900010016000000]
+Phil's Training
+!------------------------------!
+<AMARELO>Break barrels to earn points.<BRANCO>
+Chain-break them for more points!
+!------------------------------!
+Smack one barrel into another barrel or an enemy
+for even MORE points!
+!------------------------------!
+!******************************!
+[2B00010018000000]
+Grandstander
+!------------------------------!
+Hit the <AMARELO>ball<BRANCO> to <AMARELO>propel it into the air<BRANCO>.
+!------------------------------!
+<AMARELO>See how many times you can hit it<BRANCO> before it falls to
+the ground <AMARELO>five times<BRANCO>.
+!------------------------------!
+!******************************!
+[2A00010017000000]
+Hunting for Heartless
+!------------------------------!
+Heartless are <AMARELO>hiding everywhere<BRANCO><2015>not just in
+Jack's balloons. Examine everything carefully!
+!------------------------------!
+<AMARELO>Give Zero a bone<BRANCO> and he'll <AMARELO>show you one of the
+Heartless's hiding places<BRANCO>.
+!------------------------------!
+!******************************!
+[380001002D000100]
+Powering Up Abilities
+!------------------------------!
+Some ability panels come in multiple sizes. The ones
+with <AMARELO>larger link zones<BRANCO> can be <AMARELO>powered up more<BRANCO>...
+!------------------------------!
+...but that also leaves <AMARELO>less room for other kinds
+of panels<BRANCO>. Try to find the right balance.
+!------------------------------!
+!******************************!
+[2600010014000000]
+Auto-Glide
+!------------------------------!
+You can now use <AMARELO>Auto-Glide<BRANCO> to fly.
+First, <AMARELO>press <Y> while jumping<BRANCO> to float.
+!------------------------------!
+<AMARELO>Pressing <Y><BRANCO> will take you <AMARELO>higher<BRANCO>. <AMARELO>Use <B><BRANCO> to <AMARELO>descend<BRANCO>.
+You can move freely with <AMARELO><+><BRANCO>.
+!------------------------------!
+!******************************!
+[390001002E000100]
+Powering Up Limit Breaks
+!------------------------------!
+Install a <AMARELO>Final Limit<BRANCO> panel to release your <AMARELO>Limit
+Break's true power<BRANCO>.
+!------------------------------!
+This also causes the white line in your HP gauge to
+rebound, increasing <AMARELO>how long the Limit Break lasts<BRANCO>.
+!------------------------------!
+!******************************!
+[2700010020000100]
+Treasure Hunt
+!------------------------------!
+Visit <AMARELO>suspiciously-marked spots<BRANCO> on the map and use
+your Keyblade to dig.
+!------------------------------!
+Unfortunately, <AMARELO>the map is torn and you're missing
+part of it<BRANCO>... Where could the rest be?
+!------------------------------!
+!******************************!
+[2300010011000000]
+Gathering Gates
+!------------------------------!
+You can pass through <AMARELO>Gathering Gates<BRANCO> once <AMARELO>all
+players have gathered in front of them<BRANCO>.
+!------------------------------!
+Standing by the gate also <AMARELO>protects you from
+other players' attacks<BRANCO>.
+!------------------------------!
+!******************************!
+[2400010012000000]
+Mission Points
+!------------------------------!
+Defeat enemies or collect mission prizes to earn
+<AMARELO>Mission Points<BRANCO>.
+!------------------------------!
+<AMARELO>The player with the most at the end wins!<BRANCO>
+Keep coming in first, and it might just pay off...
+!------------------------------!
+!******************************!
+[3B0001001A000000]
+Mission Mode RTC
+!------------------------------!
+In Mission Mode, a <AMARELO>countdown<BRANCO> will occur once the
+dark corridor opens at the end of the mission.
+!------------------------------!
+The mission will end when the timer reaches zero.
+<AMARELO>RTC before then<BRANCO> to earn bonus points.
+!------------------------------!
+!******************************!

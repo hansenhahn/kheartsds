@@ -10,6 +10,7 @@ import glob
 import mmap
 import shutil
 import re
+import binascii
 
 #from pytable import normal_table
 from libs import compression, parser, normal_table
@@ -407,9 +408,128 @@ def unpack_S( root, outdir ):
                 
                 output.write('\n!******************************!\n')
 
-            output.close()               
+            output.close()
+            
+def unpack_dat( root, outdir ):
+    if os.path.isdir(root):
+        files = filter(lambda x: x.__contains__('.dat'), scandirs(root))
+    else:
+        files = [root]
+        root = os.path.dirname(root)
+        
+    for _, fname in enumerate(files):
+        
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)    
 
-def extract_db( src, dst ):
+        with open(fname, 'rb') as fd:          
+            print "Extraindo %s." %fname                
+
+            table = normal_table('tabela3.tbl')
+            table.fill_with('0061=a', '0041=A', '0030=0')
+            table.add_items('000A=\n')
+
+            output = open(fdirs + os.path.basename(path) + '.txt', 'w')                  
+
+            pointer = struct.unpack("<L", fd.read(4))[0]
+            entries = struct.unpack("<L", fd.read(4))[0]
+
+            for _ in range(entries):
+                link = fd.tell()
+                size = struct.unpack("<L", fd.read(4))[0]
+                title_ptr = struct.unpack("<L", fd.read(4))[0]
+                content_ptr = struct.unpack("<L", fd.read(4))[0]
+                
+                output.write("[" + binascii.hexlify(fd.read(link+title_ptr - fd.tell())).upper() + "]\n")
+                
+                fd.seek(link + title_ptr)
+                while True:
+                    d = struct.unpack("<H", fd.read(2))[0]
+                    c = struct.pack(">H",d)
+                    if c in table:
+                        output.write(table[c])
+                    elif d > 0:
+                        output.write("<%04X>" % d)
+                    if d == 0:
+                        output.write('\n!------------------------------!\n')
+                        break
+                        
+                fd.seek(link + content_ptr)
+                while fd.tell() < (link + size):
+                    block_link = fd.tell()
+                    block_size = struct.unpack("<L", fd.read(4))[0]
+                    
+                    while True:
+                        d = struct.unpack("<H", fd.read(2))[0]
+                        c = struct.pack(">H",d)
+                        if c in table:
+                            output.write(table[c])
+                        elif d > 0:
+                            output.write("<%04X>" % d)
+                        if d == 0:
+                            output.write('\n!------------------------------!\n')
+                            break
+                            
+                    fd.seek(block_link+block_size)
+                
+                fd.seek(link+size)
+
+                output.write('!******************************!\n')
+
+            output.close()
+
+def unpack_map( src, dst ):
+
+    for _, fname in enumerate(scandirs(src)):
+        path = fname[len(src):]
+        fdirs = dst + path[:-len(os.path.basename(path))]
+        
+        if not os.path.basename(path).startswith('map'):
+            continue        
+        
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)    
+
+        with open(fname, 'rb') as fd:          
+            if "Makefile" in fname:
+                continue
+                
+            if fd.read(4) == "D2KP":
+                continue
+        
+            print "Extraindo %s." %fname       
+
+            table = normal_table('tabela3.tbl')
+            table.fill_with('0061=a', '0041=A', '0030=0')
+            table.add_items('000A=\n')
+
+            output = open(fdirs + os.path.basename(path) + '.txt', 'w')
+            
+            fd.seek(0,0)
+            
+            while True:
+                size = struct.unpack("<L", fd.read(4))[0]
+                if size == 0xffffffff: break
+                
+                hdr_size = struct.unpack("<H", fd.read(2))[0]
+                
+                output.write("[" + binascii.hexlify(fd.read(hdr_size-6)).upper() + "]\n")
+                size = size - hdr_size
+                for _ in range(size/2):
+                    d = struct.unpack("<H", fd.read(2))[0]
+                    c = struct.pack(">H",d)
+                    if c in table:
+                        output.write(table[c])
+                    elif d > 0:
+                        output.write("<%04x>" % d)      
+                
+                output.write('\n!******************************!\n')            
+            
+            output.close()            
+
+def unpack_db( src, dst ):
 
     for _, fname in enumerate(scandirs(src)):
         path = fname[len(src):]
@@ -564,7 +684,18 @@ if __name__ == '__main__':
         print "Unpacking .pk2d.z text"
         unpack_Z(root = args.src , outdir = args.src1 )
         unpack_D2KP(root = args.src1 , outdir = args.dst )
-
+        
+    elif args.mode == ".db":
+        print "Unpacking db text"
+        unpack_db(src = args.src , dst = args.dst)
+        
+    elif args.mode == ".map":
+        print "Unpacking map text"
+        unpack_map(src = args.src , dst = args.dst)    
+        
+    elif args.mode == ".dat":
+        print "Unpacking dat text"
+        unpack_dat(root = args.src , outdir = args.dst) 
                         
 # if __name__ == '__main__':
 # # Extrair os diálogos com avatar
@@ -577,5 +708,5 @@ if __name__ == '__main__':
     
     # extract_s( '../Arquivos Traduzidos/UI/cm/str' , '../Textos Originaisss/UI/cm/str' )
     
-    # #extract_db( '../Arquivos Originais/db_en', '../Textos Originais/db_en')
+    # #unpack_DB( '../Arquivos Originais/db_en', '../Textos Originais/db_en')
 

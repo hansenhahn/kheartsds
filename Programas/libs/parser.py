@@ -538,9 +538,9 @@ def generic_inserter_1(input, output, table):
         g.close()
     else:
         data_ptr = os.path.getsize( output.name )
-        g = open( input.name + "size" , "wb" )
-        g.write( struct.pack("<L", data_ptr) )
-        g.close()        
+        # g = open( input.name + "size" , "wb" )
+        # g.write( struct.pack("<L", data_ptr) )
+        # g.close()        
 
     while True:        
         
