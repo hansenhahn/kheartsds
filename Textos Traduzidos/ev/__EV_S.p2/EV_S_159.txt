@@ -1,0 +1,709 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Brain freeze, ha ha.
+!------------------------------!
+Ça gèle le cerveau, hein ?
+Ha, ha, ha !
+!------------------------------!
+Die totale Entspannung, ha, ha.
+!------------------------------!
+Questo gelato è davvero...
+gelato! Ah ah.
+!------------------------------!
+Qué punzada de frío. Ja, ja.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Been a while since we all hung out like
+this, huh?
+!------------------------------!
+Ça faisait longtemps qu'on ne s'était pas
+retrouvés comme ça tous les trois,
+pas vrai ?
+!------------------------------!
+Ist schon 'ne Weile her, seit wir
+zuletzt so rumgehangen sind, hm?
+!------------------------------!
+Era da un pezzo che non
+mangiavamo il gelato assieme, eh?
+!------------------------------!
+Hacía mucho que no pasábamos
+todos el rato así, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, we have had our share of drama.
+!------------------------------!
+Faut dire qu'on a eu pas mal de soucis.
+!------------------------------!
+Tja, wir hatten alle unsere Probleme.
+!------------------------------!
+Beh, abbiamo avuto
+parecchio da fare.
+!------------------------------!
+Bueno, hemos tenido nuestra
+ración de drama.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, I just remembered<E2><80><95>did you guys
+know you should be checking your ice
+cream sticks?
+!------------------------------!
+Au fait, vous devriez regarder ce
+qu'il y a d'écrit sur vos bâtonnets
+de glace !
+!------------------------------!
+Hey, mir ist gerade etwas eingefallen!
+Seht euch mal eure Stiele
+näher an.
+!------------------------------!
+Ehi, ora che ci penso... Sapete
+che bisogna sempre controllare
+il bastoncino del gelato?
+!------------------------------!
+Eh, acabo de acordarme. ¿Sabíais
+que hay que mirar los palitos de
+los helados?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Really? For what?
+!------------------------------!
+Ah bon, pourquoi ?
+!------------------------------!
+Wirklich? Warum denn?
+!------------------------------!
+Davvero? Perché?
+!------------------------------!
+¿De verdad? ¿Para qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Once you finish your ice cream bar,
+check the stick. It might say WINNER.
+!------------------------------!
+Une fois que vous aurez fini de manger
+votre glace, regardez le bâtonnet.
+Ce sera peut-être marqué <E2><80><9C>WINNER<E2><80><9D>.
+!------------------------------!
+Wenn du mit dem Eis fertig bist,
+sieh dir deinen Stiel an. Da steht
+vielleicht GEWINNER drauf.
+!------------------------------!
+Perché potrebbe esserci
+la scritta HAI VINTO!
+!------------------------------!
+Cuando termines el polo, mira el
+palo. Puede que ponga:
+"ganador".
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, wait a second...
+!------------------------------!
+Hé, mais attends...
+!------------------------------!
+Hey, warte mal kurz.
+!------------------------------!
+Ehi, un momento...
+!------------------------------!
+Eh, espera un momento...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh yeah!
+!------------------------------!
+Mais oui !
+!------------------------------!
+Oh ja!
+!------------------------------!
+Evvai!
+!------------------------------!
+¡Oh, sí!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Oh yeah<E2><80><9D> what?
+!------------------------------!
+<E2><80><9C>Mais oui<E2><80><9D>, quoi ?
+!------------------------------!
+<E2><80><9E>Oh ja<E2><80><9C> was?
+!------------------------------!
+"Evvai" cosa?
+!------------------------------!
+¿"Oh, sí" qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uhh...n-nothing.
+So what do you win?
+!------------------------------!
+Euh... non rien.
+Et qu'est-ce qu'on gagne ?
+!------------------------------!
+Äh ... n-nichts.
+Und was hast du gewonnen?
+!------------------------------!
+Uh... N-Niente.
+Cosa c'è in palio?
+!------------------------------!
+Eeeh... n-nada.
+¿Y qué ganas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh, beats me.
+!------------------------------!
+J'en sais rien.
+!------------------------------!
+Hm, keine Ahnung.
+!------------------------------!
+Ah, boh.
+!------------------------------!
+Je, ni idea.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha, you don't know?
+!------------------------------!
+Ha ha, t'en sais rien ?
+!------------------------------!
+Ha, ha, du weißt es nicht?
+!------------------------------!
+Ah ah, non lo sai?
+!------------------------------!
+Ja, ja. ¿No lo sabes?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's gotta be something good, if you're
+a WINNER!
+!------------------------------!
+Ça doit être quelque chose de sympa
+si on a gagné !
+!------------------------------!
+Muss doch was Gutes sein,
+wenn da GEWINNER steht!
+!------------------------------!
+Di sicuro è qualcosa
+di molto bello!
+!------------------------------!
+¡Tiene que estar bien
+ganar!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right.
+!------------------------------!
+Oui.
+!------------------------------!
+Stimmt.
+!------------------------------!
+Giusto.
+!------------------------------!
+Cierto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heh heh heh...
+!------------------------------!
+Hé, hé, hé...
+!------------------------------!
+Hi, hi, hi.
+!------------------------------!
+Eh eh eh...
+!------------------------------!
+Je, je, je...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wow.
+The sun sure is beautiful.
+!------------------------------!
+Waouh.
+Le soleil est magnifique.
+!------------------------------!
+Wow.
+Der Sonnenuntergang ist echt schön.
+!------------------------------!
+Wow.
+Il sole è splendido.
+!------------------------------!
+Guau.
+Qué bonito es el sol.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know we've seen a lot of sunsets,
+but today's puts them all to shame.
+!------------------------------!
+Je sais qu'on a vu plusieurs couchers
+de soleil ensemble, mais celui-ci bat
+tous les records.
+!------------------------------!
+Wir haben zwar schon eine Menge
+Sonnenuntergänge gesehen, aber
+der heutige stellt alle in den Schatten.
+!------------------------------!
+Abbiamo visto molti tramonti,
+ma questo li batte tutti.
+!------------------------------!
+Ya sé que he visto un montón
+de puestas de sol, pero la de
+hoy se lleva la palma.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If only things stayed like this.
+!------------------------------!
+Si seulement les choses pouvaient
+rester comme ça...
+!------------------------------!
+Wenn alles nur für immer so bleiben
+könnte.
+!------------------------------!
+Vorrei che le cose restassero
+così per sempre.
+!------------------------------!
+Si al menos las cosas
+siguieran así.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What if we all ran off?
+!------------------------------!
+Et si on s'enfuyait ?
+!------------------------------!
+Was, wenn wir alle davonlaufen
+würden?
+!------------------------------!
+E se scappassimo via?
+!------------------------------!
+¿Y si nos largamos todos?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+!------------------------------!
+Qui ça ?
+!------------------------------!
+Was?
+!------------------------------!
+Cosa?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The three of us.
+Then we could always be together.
+!------------------------------!
+Nous trois.
+Comme ça, on pourrait rester
+ensemble à tout jamais.
+!------------------------------!
+Wir drei.
+Dann könnten wir immer zusammen
+sein.
+!------------------------------!
+Sì, noi tre insieme.
+Così non dovremo mai
+più separarci.
+!------------------------------!
+Los tres.
+Así podríamos estar
+siempre juntos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We don't have any place to run.
+!------------------------------!
+Mais on n'a nulle part où aller.
+!------------------------------!
+Wir können nirgendwo hinlaufen.
+!------------------------------!
+Non abbiamo un posto
+in cui fuggire.
+!------------------------------!
+No tenemos ningún
+lugar al que huir.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know.
+Heh, I was just thinking out loud.
+!------------------------------!
+Je sais bien...
+Je réfléchissais à voix haute,
+c'est tout.
+!------------------------------!
+Ich weiß.
+Hm, hab bloß laut gedacht.
+!------------------------------!
+Lo so.
+Dicevo così per dire.
+!------------------------------!
+Ya lo sé.
+Je, solo pensaba en voz alta.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, even if things change, we'll never
+be apart<E2><80><95>
+!------------------------------!
+Même si les choses changent un jour,
+on ne sera jamais séparés...
+!------------------------------!
+Auch wenn sich die Dinge verändern,
+werden wir niemals getrennt sein ...
+!------------------------------!
+Beh, anche se le cose
+dovessero cambiare,
+nessuno potrà mai dividerci...
+!------------------------------!
+Bueno, aunque las cosas cambien,
+nunca nos separaremos...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+As long as we remember each other...
+right? Don't worry, Axel<E2><80><95>we got your
+hokey speech memorized.
+!------------------------------!
+<E2><80><9C>Tant qu'on se souviendra les uns des
+autres.<E2><80><9D> Ne t'en fais pas, Axel, on a
+bien retenu la leçon.
+!------------------------------!
+Solange wir immer aneinander
+denken ... stimmt's? Keine Sorge, Axel,
+wir haben's ja kapiert.
+!------------------------------!
+Finché ci ricorderemo a vicenda.
+Giusto? Tranquillo, Axel,
+l'abbiamo memorizzato.
+!------------------------------!
+Siempre que recordemos a los
+demás. Tranqui, Axel, hemos
+memorizado tu discursito.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just checking.
+!------------------------------!
+Je préfère vérifier !
+!------------------------------!
+Wollte nur sicher gehen.
+!------------------------------!
+Volevo solo controllare.
+!------------------------------!
+Solo quería asegurarme.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll have these moments memorized for
+a long time. Forever, I hope.
+!------------------------------!
+Je me souviendrai de ces moments
+pendant longtemps. Pour toujours
+j'espère.
+!------------------------------!
+Ich werde mich noch lange an diesen
+Moment erinnern. Auf ewig, hoffe ich.
+!------------------------------!
+Ho memorizzato questi momenti
+così bene... che non potrò mai
+dimenticarli. O almeno spero.
+!------------------------------!
+Me acordaré de estos
+momentos durante mucho
+tiempo. Espero que para siempre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me too. Forever...
+!------------------------------!
+Moi aussi. Pour toujours...
+!------------------------------!
+Ich auch. Auf ewig ...
+!------------------------------!
+Neanch'io... Mai e poi mai...
+!------------------------------!
+Yo también. Para siempre...
+!------------------------------!
+!******************************!

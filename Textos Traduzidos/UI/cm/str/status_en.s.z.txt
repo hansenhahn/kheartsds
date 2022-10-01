@@ -1,4 +1,4 @@
-﻿NV
+NV
 !******************************!
 PV
 !******************************!
@@ -119,7 +119,7 @@ Dificulta que inimigos
 <AMARELO>grudem no seu pé<BRANCO>.
 !******************************!
 Dificulta que inimigos te
-<AMARELO>joguem pro ar<BRANCO>.
+<AMARELO>joguem para o ar<BRANCO>.
 !******************************!
 Dificulta que inimigos te 
 <AMARELO>congelem<BRANCO>.
@@ -127,8 +127,8 @@ Dificulta que inimigos te
 Dificulta que inimigos 
 <AMARELO>reduzam seu PV ao meio<BRANCO>.
 !******************************!
-Dificulta que inimigos te
-<AMARELO>mude as direções<BRANCO>.
+Dificulta que inimigos
+<AMARELO>mudem suas direções<BRANCO>.
 !******************************!
 Dificulta que inimigos te
 <AMARELO>silenciem<BRANCO>.
@@ -148,8 +148,8 @@ Dificulta que inimigos te
 Dificulta que inimigos te
 <AMARELO>eletrocutem<BRANCO>.
 !******************************!
-Dificulta que inimigos <AMARELO>afetem
-seu radar<BRANCO>.
+Dificulta que inimigos 
+<AMARELO>afetem seu radar<BRANCO>.
 !******************************!
  
 !******************************!
@@ -273,9 +273,9 @@ seu radar<BRANCO>.
 !******************************!
  
 !******************************!
-Uma Keyblade radiante com luz.
+Uma Keyblade radiante de luz.
 !******************************!
-Uma Keyblade negra como a escuridão.
+Uma Keyblade negra como as trevas.
 !******************************!
-Oathkeeper
+Prometido
 !******************************!

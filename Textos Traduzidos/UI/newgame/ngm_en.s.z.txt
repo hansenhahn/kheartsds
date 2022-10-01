@@ -1,0 +1,30 @@
+Escolha uma dificuldade.
+!******************************!
+Reveja sua escolha.
+!******************************!
+Modo Iniciante
+!******************************!
+Modo Padrão
+!******************************!
+Modo Orgulho
+!******************************!
+Um modo fácil onde você consegue passar rápido.
+Ação não é sua praia? Sem problema. Comece por aqui.
+!******************************!
+Um modo que não é nem pouco nem muito. O meio-termo.
+Procurando pelo equilíbrio certo? Escolha este.
+!******************************!
+Um desafio emocionante cheio de inimigos poderosos.
+Tem orgulho de suas habilidades? Orgulho é para você.
+!******************************!
+Não será possível poderá mudar de modo depois. 
+Escolha com cuidado!
+!******************************!
+Dificuldade
+!******************************!
+Começar um novo jogo nesta dificuldade?
+!******************************!
+Sim
+!******************************!
+Não
+!******************************!

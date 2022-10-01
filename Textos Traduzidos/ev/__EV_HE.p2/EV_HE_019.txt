@@ -1,0 +1,96 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/25.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fil! Voltei!
+!------------------------------!
+Phil ! Me revoilà !
+!------------------------------!
+Phil! Ich bin wieder da!
+!------------------------------!
+Fil! Sono tornato!
+!------------------------------!
+¡Fil! ¡He vuelto!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Onde cê tava, Herc?!
+Távamos repleto de Heartless enquanto
+cê tava fora Zeus sabe onde!
+!------------------------------!
+Où t'étais passé, Herc ?
+Les Sans-cœur nous ont attaqués
+pendant que t'étais je ne sais où !
+!------------------------------!
+Wo warst du, Herc!? Wir wurden
+von Herzlosen überrannt, während
+du weiß Zeus wo warst!
+!------------------------------!
+Dove sei stato, Erc?!
+Siamo stati sommersi da Heartless
+mentre tu eri Zeus-sa-dove!
+!------------------------------!
+¿Dónde te metías, Herc? ¡Hemos
+estado inundados de sincorazón
+y tú estabas Zeus sabe dónde!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Heartless? Onde?
+Deixa eles comigo, Fil!
+!------------------------------!
+Des Sans-cœur ? Où ça ?
+Je m'en occupe, Phil !
+!------------------------------!
+Herzlose? Wo?
+Ich mach sie fertig, Phil!
+!------------------------------!
+Heartless? Dove?
+Ci penso io, Fil!
+!------------------------------!
+¿Sincorazón? ¿Dónde?
+¡Déjamelos a mí, Fil!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tarde demais. O novo novato tomou
+conta deles. Vou te dizer, Campeão,
+o garoto não é nada mal!
+!------------------------------!
+Trop tard. Le petit nouveau s'en est
+chargé. Moi je te le dis, champion,
+il est pas mal du tout, ce môme !
+!------------------------------!
+Zu spät. Der neue Schüler hat sich
+um sie gekümmert. Ich sag dir,
+der Kleine ist nicht schlecht!
+!------------------------------!
+Troppo tardi. La nuova recluta
+ha già pensato a loro. Niente
+male quel ragazzino, sai?
+!------------------------------!
+Demasiado tarde. El novato se
+ha encargado. Te lo digo yo,
+campeón, ¡no lo hace nada mal!
+!------------------------------!
+!******************************!

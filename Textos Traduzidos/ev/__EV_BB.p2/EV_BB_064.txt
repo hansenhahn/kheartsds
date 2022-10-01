@@ -1,0 +1,236 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:31
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ch/19.z
+!******************************!
+&.[HDR].2&
+mi/ch/18.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[HDR].2&
+mi/ob/21.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Lumiere, the master is out of sorts<E2><80><95>
+again. Have you any idea what it is this
+time?
+!------------------------------!
+Le maître n'a pas l'air dans son
+assiette. Sais-tu pourquoi, Lumière ?
+!------------------------------!
+Der Herr ist nicht ganz auf
+der Höhe, Lumière. Weißt du
+weshalb?
+!------------------------------!
+Il padrone è strano, Lumière.
+Hai una spiegazione?
+!------------------------------!
+El amo parece pachucho, Lumiere.
+¿Se te ocurre un motivo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No, I am completely in the dark...
+!------------------------------!
+Non, je n'en ai aucune idée...
+!------------------------------!
+Nein, keine Ahnung ...
+!------------------------------!
+No, non so proprio
+spiegarmelo...
+!------------------------------!
+No, no tengo ni idea...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm... I wonder if it has anything to do
+with that stranger Mrs. Potts spotted
+in the castle.
+!------------------------------!
+Maintenant que j'y repense, Mme
+Samovar a dit qu'elle avait aperçu
+un étranger dans le château.
+!------------------------------!
+Da fällt mir ein, Madame Pottine
+meinte etwas von einem Fremden
+im Schloss.
+!------------------------------!
+Ora che ci penso, Mrs. Bric
+ha detto di aver visto un
+forestiero nel castello.
+!------------------------------!
+¿Tendrá algo que ver con el
+extraño que la Sra. Potts vio
+en el castillo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A stranger, you say?
+!------------------------------!
+Un étranger ?
+!------------------------------!
+Ein Fremder, sagst du?
+!------------------------------!
+Un forestiero?
+!------------------------------!
+¿Un extraño, dices?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes. She said it was a man in a black
+coat with black hair.
+!------------------------------!
+Oui, un homme aux cheveux aussi
+noirs que son manteau !
+!------------------------------!
+Ja, ein Mann im schwarzen Mantel
+mit schwarzen Haaren.
+!------------------------------!
+Sì, un uomo vestito di nero
+e con i capelli corvini.
+!------------------------------!
+Sí, un hombre con un abrigo
+negro y el cabello a juego.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And you suspect he may have
+antagonized the master? Surely no one
+would be so foolish.
+!------------------------------!
+Et tu crois qu'il a pu contrarier le
+maître ? Personne ne serait assez
+fou pour prendre ce risque.
+!------------------------------!
+Und du vermutest, er hat unseren
+Herrn verärgert? Das würde
+niemand wagen.
+!------------------------------!
+E credi che abbia combattuto
+contro il padrone? Chi farebbe
+mai una cosa tanto stupida?
+!------------------------------!
+¿Y sospechas que él haya hecho
+irritar al amo? Nadie sería tan
+temerario, sin duda.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Still, the possibility remains.
+We must sweep the castle for signs of
+this man immediately!
+!------------------------------!
+Mais c'est une éventualité...
+Nous devrions partir à la recherche
+de cet individu.
+!------------------------------!
+Aber die Möglichkeit besteht.
+Wir sollten uns im Schloss mal
+nach ihm umsehen.
+!------------------------------!
+Però è una possibilità.
+Dovremmo perlustrare subito il
+castello in cerca di quell'uomo.
+!------------------------------!
+Sigue siendo una posibilidad.
+Deberíamos peinar el castillo en
+busca de señales de ese hombre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That sounds like Xaldin, all right.
+!------------------------------!
+On dirait qu'ils parlent de Xaldin.
+!------------------------------!
+Das hört sich nach Xaldin an.
+!------------------------------!
+Dev'essere per forza Xaldin.
+!------------------------------!
+Parece que se trata
+de Xaldin, sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He could still be around somewhere.
+I should keep looking.
+!------------------------------!
+Il est peut-être toujours dans le
+château. Je dois continuer à
+chercher.
+!------------------------------!
+Er könnte noch irgendwo sein.
+Ich sollte weitersuchen.
+!------------------------------!
+Potrebbe essere ancora qui
+in giro. Continuerò a cercare.
+!------------------------------!
+Podría seguir por aquí.
+Debo seguir mirando.
+!------------------------------!
+!******************************!

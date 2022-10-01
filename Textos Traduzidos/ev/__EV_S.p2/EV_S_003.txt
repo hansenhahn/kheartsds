@@ -1,0 +1,277 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, seu trabalho começa hoje.
+Eu irei emitir missões, as quais
+a Ordem espera que você cumpra.
+!------------------------------!
+Roxas, à partir d'aujourd'hui tu vas
+travailler pour nous. L'Organisation va
+te confier des missions par mon biais.
+!------------------------------!
+Roxas, heute beginnt deine Arbeit.
+Ich werde dir Missionen geben, die du
+für uns erledigen sollst.
+!------------------------------!
+Roxas, il tuo lavoro inizia oggi.
+Ti darò delle missioni. Ci
+aspettiamo che tu le completi.
+!------------------------------!
+Roxas, desde hoy esperamos que hagas
+misiones para nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pense nestas primeiras missões como
+exercícios. Você ainda tem muito o
+que aprender antes de encarar uma real.
+!------------------------------!
+Tu débuteras par des exercices. Tu as
+beaucoup à apprendre avant d'aller
+sur le terrain en conditions réelles.
+!------------------------------!
+Stell sie dir als Übungen vor.
+Du musst noch so viel lernen,
+bevor wir dich rausschicken.
+!------------------------------!
+Considera queste prime missioni come un
+esercizio. Hai ancora molto da imparare,
+prima di scendere veramente in campo.
+!------------------------------!
+Considéralo un ejercicio. Tienes mucho
+que aprender antes de que te
+ encarguemos una misión real.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel irá se juntar a você na sua
+primeira vez fora. Não é mesmo, Axel?
+!------------------------------!
+Axel va t'accompagner la première
+fois. N'est-ce pas, Axel ?
+!------------------------------!
+Axel wird dich bei deinem
+ersten Einsatz begleiten.
+Nicht wahr, Axel?
+!------------------------------!
+Axel verrà con te durante la
+tua prima uscita. Vero, Axel?
+!------------------------------!
+Axel te acompañará en tu primera salida.
+¿No es así, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ai ai... O que, agora está me
+fazendo o mentor do garoto?
+!------------------------------!
+C'est moi qui suis censé l'entraîner ?
+!------------------------------!
+Oh Mann ... machst du mich
+etwa zu seinem Lehrer?
+!------------------------------!
+Oh... Mi stai dicendo che sarò
+il maestro del ragazzino?!?
+!------------------------------!
+¿Acaso me encargo ahora
+ yo de entrenarlo?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Claro que você não se importa em
+mostrar ao Roxas o jeito, não é? Roxas,
+venha me ver quando estiver pronto.
+!------------------------------!
+Exactement. Tu vas partager ton
+savoir avec Roxas. Prévenez-moi
+quand vous serez prêts.
+!------------------------------!
+Du hast sicher nichts dagegen,
+Roxas das Handwerk zu zeigen.
+Roxas, komm zu mir, wenn du bereit bist.
+!------------------------------!
+Certamente non ti dispiacerà insegnare
+a Roxas le basi. Roxas, torna da me
+quando sei pronto ad andare.
+!------------------------------!
+Exacto. Enséñale a Roxas los trucos
+del oficio. Venid a verme cuando
+ estéis listos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, você ouviu o homem.
+Começando hoje, sou sua babá
+!------------------------------!
+T'as entendu ce qu'il a dit.
+Maintenant, je suis ta baby-sitter.
+!------------------------------!
+Du hast den Mann gehört.
+Ab heute bin ich dein Babysitter.
+!------------------------------!
+Beh, hai sentito.
+D'ora in poi ti farò
+da babysitter.
+!------------------------------!
+Ya lo has oído. Desde hoy, soy tu niñera.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Putz... Para de agir feito 
+zumbi e vamos lá, mãos à obra.
+!------------------------------!
+Je rigole ! Arrête de faire cette
+tête de zombie. Allez quoi !
+!------------------------------!
+Tsss ... Willst du dich jetzt weiter
+wie 'n Zombie benehmen oder
+legen wir jetzt mal los?
+!------------------------------!
+Caspita... Vuoi continuare a fissarmi
+come uno zombie, o possiamo partire?
+!------------------------------!
+Era broma, no me mires
+ como un zombi. Vamos.
+!------------------------------!
+!******************************!

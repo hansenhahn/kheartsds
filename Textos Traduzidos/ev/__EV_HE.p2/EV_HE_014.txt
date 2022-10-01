@@ -1,0 +1,70 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, não estou numa missão de recon
+hoje, então acho que devo evitar o
+Coliseu.
+!------------------------------!
+Je ne suis pas ici pour enquêter
+aujourd'hui, alors ça ne sert à
+rien d'entrer dans le Colisée.
+!------------------------------!
+Hm, heute muss ich keine
+Untersuchungen anstellen, also
+sollte ich die Arena meiden.
+!------------------------------!
+Oggi non sono in ricognizione,
+quindi è meglio stare alla
+larga dallo stadio.
+!------------------------------!
+Mmm, hoy no toca reconocimiento,
+así que probablemente vaya
+directo al Coliseo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Só tenho que derotar uns Heartless
+e então posso voltar pra casa.
+!------------------------------!
+Je suis juste censé éliminer des
+Sans-cœur, puis rentrer.
+!------------------------------!
+Ich brauche nur ein paar
+Herzlose zu besiegen, dann kann
+ich nach Hause.
+!------------------------------!
+Non devo fare altro che
+eliminare qualche Heartless e
+tornarmene a casa.
+!------------------------------!
+Solo tengo que derrotar a
+algunos sincorazón y podré
+volver a casa.
+!------------------------------!
+!******************************!

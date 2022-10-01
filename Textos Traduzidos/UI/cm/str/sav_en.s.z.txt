@@ -1,34 +1,34 @@
-Escolha um espaÁo para gravar os dados.
+Escolha qual espa√ßo gravar os dados.
 !******************************!
-Dados existentes no espaÁo escolhido
-ser„o sobrescritos.
+Dados existentes no espa√ßo escolhido
+ser√£o sobrescritos.
 !******************************!
-Sobrescrever dados no EspaÁo %d?
+Sobrescrever dados no Espa√ßo %d?
 !******************************!
-Criar novo jogo no EspaÁo %d?
+Criar novo jogo no Espa√ßo %d?
 !******************************!
 %d munny
 !******************************!
 Sim
 !******************************!
-N„o
+N√£o
 !******************************!
-GravaÁ„o completada.
+Grava√ß√£o completada.
 !******************************!
 :
 !******************************!
 NV %d
 !******************************!
-N„o È possÌvel escrever os dados neste espaÁo.
+N√£o √© poss√≠vel escrever os dados neste espa√ßo.
 Desligue o DS e reinsira o Cartucho.
 !******************************!
 Gravando...
-N„o desligue o DS ou retire o Cartucho.
+N√£o desligue o DS ou retire o Cartucho.
 !******************************!
-Os dados neste espaÁo est„o corrompidos.
+Os dados neste espa√ßo est√£o corrompidos.
 !******************************!
-N„o È possÌvel ler os dados neste espaÁo.
+N√£o √© poss√≠vel ler os dados neste espa√ßo.
 Desligue o DS e reinsira o Cartucho.
 !******************************!
-AvanÁar sem gravar dados?
+Avan√ßar sem gravar dados?
 !******************************!

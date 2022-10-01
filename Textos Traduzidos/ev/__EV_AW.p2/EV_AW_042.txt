@@ -1,0 +1,181 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Veio sozinho hoje, não é?
+!------------------------------!
+Vous êtes seul aujourd'hui,
+n'est-ce pas ?
+!------------------------------!
+Ganz alleine heute?
+!------------------------------!
+Oggi sei solo soletto, eh?
+!------------------------------!
+Hoy vienes solito, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Olha, tem algo para me dizer?
+Porque se não<E2><80><95>
+!------------------------------!
+Avez-vous quelque chose à me dire ?
+Parce que sinon...
+!------------------------------!
+Hast du mir etwas zu sagen?
+Denn wenn nicht, dann ...
+!------------------------------!
+Senti, hai qualcosa da dirmi?
+Non sono in vena di...
+!------------------------------!
+Mira, ¿tienes algo que decirme?
+Porque, si no...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pode se dizer que sim, ou pode se
+dizer que não. O que você diria?
+!------------------------------!
+Peut-être bien que oui, peut-être
+bien que non. Qu'en dites-vous ?
+!------------------------------!
+Man könnte ja sagen oder auch
+nein. Was sagst du?
+!------------------------------!
+Forse devo dirti qualcosa, o forse no.
+Allora, che dici?
+!------------------------------!
+Dirías que sí o dirías que no.
+Así que, ¿qué dices?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu digo até mais.
+Tenho trabalho a fazer.
+Preciso ir.
+!------------------------------!
+Je vous dis <E2><80><9C>au revoir<E2><80><9D> !
+J'ai du travail et pas de temps à
+perdre.
+!------------------------------!
+Ich sage, bis später.
+Ich habe Arbeit zu erledigen.
+Ich muss gehen.
+!------------------------------!
+Ti dico che me ne vado.
+Ho delle cose da fare. Devo andare.
+!------------------------------!
+Digo que hasta luego.
+Tengo trabajo que hacer.
+He de irme.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ahh, mas ir aonde?
+Ver a grande sombra talvez?
+!------------------------------!
+Ah... mais où allez-vous ?
+Voir la grande ombre ?
+!------------------------------!
+Ah, aber wohin?
+Zum großen Schattenlurch
+vielleicht?
+!------------------------------!
+Ahh, ma andare dove?
+Forse a vedere quella grande ombra?
+!------------------------------!
+Aah, ¿pero ir adónde?
+¿A ver a esa gran sombra, quizá?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem um Heartless aqui?
+!------------------------------!
+Il y a un Sans-cœur ici ?
+!------------------------------!
+Hier ist ein Herzloser?
+!------------------------------!
+Qui c'è un Heartless?
+!------------------------------!
+¿Hay por aquí un sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Indeed, mas para achar essa sombra
+você deve vasculhar na penumbra.
+!------------------------------!
+Oui... et pour trouver une ombre,
+il faut inspecter l'obscurité.
+!------------------------------!
+In der Tat, und um einen
+Schattenlurch zu finden, musst
+du die Schatten durchsuchen.
+!------------------------------!
+Certo, ma per trovare quest'ombra
+bisogna guardare nel buio.
+!------------------------------!
+Y tanto. Y para encontrar una
+sombra debes barrer la penumbra.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000000000007000F00.*
+!******************************!

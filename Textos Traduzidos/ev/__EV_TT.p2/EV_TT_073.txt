@@ -1,0 +1,231 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/0B.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O-ou, mais alguns.
+Vai lá, pega eles!
+!------------------------------!
+Hé, hé, en voilà d'autres.
+Allez, débarrasse-t'en !
+!------------------------------!
+Oh, oh, da kommen noch mehr.
+Mach weiter, mach sie nieder!
+!------------------------------!
+Oh oh, ne arrivano altri.
+Forza, spazzali via tutti!
+!------------------------------!
+Oh, oh; ahí vienen más.
+¡Venga, acaba con ellos!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, nesse ritmo, vamos 
+ficar aqui a vida toda...
+!------------------------------!
+Hmm, à ce rythme-là, on va y passer
+la journée...
+!------------------------------!
+Uff, bei deinem Tempo
+verbringen wir hier den ganzen
+Monat ...
+!------------------------------!
+Alla velocità con cui ti muovi
+rimarremo qui per l'eternità...
+!------------------------------!
+Mmm... A este paso,
+llegaremos en un mes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vai.
+Pode usar a Keyblade agora.
+!------------------------------!
+OK, vas-y...
+Tu peux utiliser ta Keyblade cette fois.
+!------------------------------!
+Los!
+Diesmal kannst du
+dein Schlüsselschwert benutzen.
+!------------------------------!
+Va bene.
+Questa volta puoi usare
+il tuo Keyblade.
+!------------------------------!
+Adelante. Esta vez
+puedes usar tu llave espada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espera, o que aconteceu 
+com "aprender magia"?
+!------------------------------!
+Et mon apprentissage de la magie
+alors ?
+!------------------------------!
+Warte, was ist
+mit dem Magieunterricht?
+!------------------------------!
+Aspetta, non dovrei imparare
+ad usare la magia?
+!------------------------------!
+Espera, ¿y lo de aprender
+magia?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quer ou não quer terminar esta
+droga de missão logo? Anda logo.
+!------------------------------!
+Tu veux en finir avec cette mission
+ou pas ? Allez, au travail.
+!------------------------------!
+Willst du diese schreckliche Mission
+jetzt abschließen oder nicht? Los jetzt!
+!------------------------------!
+Vuoi finire la missione oppure
+no? Muoviti, forza.
+!------------------------------!
+¿Quieres acabar esta
+condenada misión o no?
+Acaba de una vez.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Bom, já que pediu com jeitinho...)
+!------------------------------!
+...
+!------------------------------!
+(Wenn du schon so nett fragst ...)
+!------------------------------!
+...
+!------------------------------!
+(Bueno, si lo pides con
+tanta cortesía...)
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, aliás, se precisar se curar...
+te vira.
+!------------------------------!
+Ah, au fait. Ne compte pas sur moi si
+t'as besoin de te soigner.
+!------------------------------!
+Ach, und falls du Heilung
+benötigen solltest ... heil dich
+selber.
+!------------------------------!
+Ah, se hai bisogno di
+curarti... Fallo da solo.
+!------------------------------!
+Ah, por cierto, si necesitas
+curación, hazlo tú mismo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!

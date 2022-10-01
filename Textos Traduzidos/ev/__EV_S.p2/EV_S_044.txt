@@ -1,0 +1,248 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Cadê ela?
+!------------------------------!
+Où est-elle ?
+!------------------------------!
+Wo ist sie?
+!------------------------------!
+Lei dov'è?
+!------------------------------!
+Y ella, ¿dónde está?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, Roxas.
+!------------------------------!
+Salut, Roxas.
+!------------------------------!
+Hey, Roxas.
+!------------------------------!
+Ehi, Roxas.
+!------------------------------!
+Ey, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel. Viu a Número <E2><85><A7><E2><85><A3>?
+!------------------------------!
+Axel. As-tu vu Xion ?
+!------------------------------!
+Axel. Hast du Xion gesehen?
+!------------------------------!
+Axel. Hai visto N° XIV?
+!------------------------------!
+Axel. ¿Has visto a Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion? Hmm...
+!------------------------------!
+Xion ? Hmm...
+!------------------------------!
+Xion? Hm ...
+!------------------------------!
+Xion? Mmm...
+!------------------------------!
+¿Xion? Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora que você falou, não.
+!------------------------------!
+Non, maintenant que tu m'y fais penser.
+!------------------------------!
+Jetzt wo du's erwähnst, nein.
+!------------------------------!
+No, ora che ci penso.
+!------------------------------!
+Ahora que lo dices, no.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Já faz dias...
+Uns dez, pelo menos.
+!------------------------------!
+Je ne l'ai pas vue depuis au moins
+dix jours.
+!------------------------------!
+Ich hab sie die letzten zehn
+Tage nicht gesehen.
+!------------------------------!
+Sono giorni ormai che non ci vediamo...
+Dieci giorni, come minimo.
+!------------------------------!
+Hace al menos diez
+días que no la veo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Queria poder ajudar, mas eu parti
+pro C.O. quase bem na hora que a
+Xion se apresentou. Perdi muita coisa.
+!------------------------------!
+J'aimerais t'aider, mais comme j'ai été
+envoyé au M.O. juste après son arrivée,
+j'ai raté pas mal d'épisodes.
+!------------------------------!
+Ich bin gleich nach ihrem Beitritt
+zum Schloss des Entfallens gereist.
+Ich hab einiges verpasst.
+!------------------------------!
+Vorrei potervi aiutare, ma sono
+partito per il C.O. subito dopo il
+suo arrivo. Mi sono perso molto.
+!------------------------------!
+Ojalá pudiera ayudar, pero fui al
+CO casi cuando apareció ella.
+Me he perdido muchas cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me sinto culpado. Prometi que a
+gente ia juntos tomar um picolé.
+!------------------------------!
+Ça m'embête. Je lui ai promis qu'on
+irait manger des glaces ensemble.
+!------------------------------!
+Ich fühle mich schlecht.
+Ich hab ihr versprochen,
+wir würden zusammen Eis essen.
+!------------------------------!
+Mi sento in colpa... Avevo
+promesso che avremmo preso
+un gelato tutti insieme.
+!------------------------------!
+Me sabe mal. Le prometí
+que nos reuniríamos todos
+a comer un helado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vocês dois são amigos, né?
+Quer saber? Vou bater um papo com 
+o Saïx, ver o que posso descobrir.
+!------------------------------!
+Tu sais quoi ? Je vais demander
+à Saïx et voir ce qu'il sait.
+C'est ton amie, non ?
+!------------------------------!
+Ich sag dir was. Ich hör mich
+mal bei Saïx um. Sie ist
+deine Freundin, oder?
+!------------------------------!
+Voi due siete amici, vero?
+Sai cosa? Andrò da Saïx e
+vedrò cosa riesco a scoprire.
+!------------------------------!
+Mira, hurgaré en el cerebrito de
+Saïx, a ver qué descubro.
+¿Es tu amiga, no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Valeu, Axel.
+!------------------------------!
+Oui.
+Merci, Axel.
+!------------------------------!
+Ja.
+Danke, Axel.
+!------------------------------!
+Grazie, Axel.
+!------------------------------!
+Sí.
+Gracias, Axel.
+!------------------------------!
+!******************************!

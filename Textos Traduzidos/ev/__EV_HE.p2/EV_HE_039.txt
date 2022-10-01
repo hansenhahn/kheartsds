@@ -1,0 +1,239 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/38.z
+!******************************!
+&.[HDR].2&
+mi/ob/38.z
+!******************************!
+&.[HDR].2&
+mi/ob/3B.z
+!******************************!
+&.[HDR].2&
+mi/ob/3B.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei... Esse não é o<E2><80><95>
+!------------------------------!
+Quoi ? Mais le...
+!------------------------------!
+Hey ... Ist das ...
+!------------------------------!
+Ehi... Quello è...
+!------------------------------!
+Eh... ¿No es ese el...?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ora, ora...
+Parece que nosso alvo está aqui.
+!------------------------------!
+Tiens, tiens...
+Apparemment notre cible est ici.
+!------------------------------!
+Sieh an, sieh an ...
+Unser Ziel scheint hier zu sein.
+!------------------------------!
+Bene bene...
+Ecco il nostro obiettivo.
+!------------------------------!
+Bueno, bueno... Parece que 
+nuestro objetivo está aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O-ou... Parece que as finais
+acabaram de ser adiadas!
+!------------------------------!
+Nom d'un bouc ! La finale va devoir
+être reportée...
+!------------------------------!
+Oje ... Sieht aus, als wäre
+das Finale verschoben worden!
+!------------------------------!
+Oh oh! Temo che la finale
+sia stata appena rinviata...
+!------------------------------!
+Oh-oh... ¡Parece que acaban
+de aplazar la final!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei! Esqueça a partida!
+Ache algum lugar seguro enquanto
+eu vou buscar o Herc!
+!------------------------------!
+Hé là ! Oubliez ce combat !
+Mettez-vous à l'abri pendant
+que je vais chercher Herc !
+!------------------------------!
+Hey! Vergiss den Kampf! Bring
+dich irgendwo in Sicherheit,
+ich versuche, Herc aufzutreiben!
+!------------------------------!
+Ehi! Lascia perdere la
+battaglia! Mettiti al sicuro!
+Io vado a cercare Erc!
+!------------------------------!
+¡Ey, olvida el combate!
+¡Ponte a salvo en algún sitio
+mientras voy a buscar a Herc!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então, Roxas?
+Pronto para me mostrar o que aprendeu?
+!------------------------------!
+Alors, Roxas ? Prêt à me montrer
+ce que tu as appris ?
+!------------------------------!
+Und, Roxas?
+Bereit, mir zu zeigen,
+was du gelernt hast?
+!------------------------------!
+Allora, Roxas?
+Sei pronto a mostrarmi
+che cosa hai imparato?
+!------------------------------!
+¿Y bien, Roxas? ¿Listo para
+enseñarme todo lo que has
+aprendido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

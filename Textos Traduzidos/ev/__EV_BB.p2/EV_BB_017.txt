@@ -1,0 +1,83 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The Heartless we're after is called a
+Neoshadow, right? I hope we don't wind
+up searching all day.
+!------------------------------!
+Le Sans-cœur que nous cherchons est
+une Crypto Ombre, c'est ça ? J'espère
+qu'on n'y passera pas la journée.
+!------------------------------!
+Bei dem Herzlosen, den wir suchen,
+handelt es sich um einen
+Schattenschalk, oder?
+!------------------------------!
+L'Heartless che stiamo cercando
+si chiama Neoshadow, giusto?
+Speriamo di finire in fretta.
+!------------------------------!
+El sincorazón que buscamos es
+un neosombra, ¿no? Espero no
+estar todo el día buscándolo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Let's head out through this hall.
+!------------------------------!
+Empruntons ce couloir.
+!------------------------------!
+Gehen wir mal durch diese Halle.
+!------------------------------!
+Attraversiamo questa sala.
+!------------------------------!
+Salgamos por esta sala.
+!------------------------------!
+!******************************!

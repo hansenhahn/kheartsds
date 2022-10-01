@@ -1,0 +1,105 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E mais uma missão aqui
+!------------------------------!
+Et encore une mission ici.
+!------------------------------!
+Wieder eine Mission hier.
+!------------------------------!
+Un'altra missione qui.
+!------------------------------!
+Otra misión más aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espero que as coisas vão com mais
+calma agora.
+!------------------------------!
+Espérons que tout se passe aussi
+bien que les autres fois.
+!------------------------------!
+Hoffentlich geht diesmal alles
+glatt.
+!------------------------------!
+Speriamo che ci vada bene
+anche questa volta.
+!------------------------------!
+Esperemos que esta vez la cosa
+sea más tranquila.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He. Não tente o destino.
+Você vai acabar atraindo má sorte
+falando isso.
+!------------------------------!
+Hé, tu vas faire fuir la chance
+à parler comme ça.
+!------------------------------!
+He. Fordere das Schicksal nicht
+heraus. Bei so einem Gerede sucht
+die Glücksgöttin noch das Weite.
+!------------------------------!
+Eh. Non sfidare la fortuna.
+Dicendo queste cose farai
+fuggire la dea bendata.
+!------------------------------!
+Eh. No tientes a la suerte.
+Ahuyentas a la diosa Fortuna
+diciendo estas cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hora de fazer as apostas e jogar.
+!------------------------------!
+D'ailleurs, nous allons voir si elle va
+nous sourire.
+!------------------------------!
+Zeit, den Einsatz zu erhöhen.
+!------------------------------!
+Che la partita abbia inizio.
+!------------------------------!
+Es hora de hacer las
+apuestas y jugar.
+!------------------------------!
+!******************************!

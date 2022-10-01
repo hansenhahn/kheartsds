@@ -1,0 +1,192 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bravo! Bravo! Parece que você
+encontrou o que estava procurando.
+!------------------------------!
+Bravo ! Bravo !
+Vous avez trouvé ce que vous
+cherchiez.
+!------------------------------!
+Bravo! Bravo!
+Ihr habt gefunden, wonach ihr
+gesucht habt.
+!------------------------------!
+Bravo! Bravo! Sembra tu abbia
+trovato ciò che cercavi.
+!------------------------------!
+¡Bravo! ¡Bravo!
+Habéis encontrado lo que
+buscabais.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Claro, há falta ainda mais um.
+!------------------------------!
+Mais c'est le dernier qui est
+toujours le plus dur à trouver.
+!------------------------------!
+Aber eine Suche steht noch aus.
+!------------------------------!
+Ovviamente bisogna trovarne
+ancora uno.
+!------------------------------!
+Pero todavía hay que encontrar
+a uno más.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm... Imagino se você imagina
+onde poderia estar...
+!------------------------------!
+Hmm, je me demande si vous vous
+demandez si vous allez le trouver...
+!------------------------------!
+Hm ... ich frage mich, ob ihr
+euch fragt, wo er wohl sein könnte ...
+!------------------------------!
+Mmm... Mi chiedo se tu ti stia chiedendo
+dove possa essere.
+!------------------------------!
+Mmm...
+¿Sabéis dónde podría estar?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acharíamos sem problemas se você nos
+contasse onde procurar, mas não vou
+por minha mão no fogo por isso.
+!------------------------------!
+On le trouverait si vous nous disiez
+clairement où chercher, mais je n'y
+compte pas trop !
+!------------------------------!
+Es wäre erheblich leichter, wenn
+du uns sagen würdest, wo wir
+suchen müssen.
+!------------------------------!
+Lo troveremmo subito se ci dicessi
+dove cercare, ma non voglio
+sprecare il fiato.
+!------------------------------!
+Lo encontraríamos fácilmente si
+nos dijeras dónde buscar, pero
+no pongo la mano en el fuego.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, mas deveria!
+Isso seria engraçado demais!
+Mas aí você precisaria ser louco...
+!------------------------------!
+Quelle sagesse !
+Mais il faudrait être fou...
+!------------------------------!
+Tja, wir Tiger-Katzen wissen
+alles, verraten es aber nicht
+immer.
+!------------------------------!
+Oh, ma devi farlo!
+Sarebbe molto divertente! Però,
+dovresti essere matto...
+!------------------------------!
+Muy sensato.
+Sería muy divertido...
+y una locura a la vez.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Louco o bastante para se esconder
+dentro de uma gaiola talvez?
+Ou louco... como... eu...
+!------------------------------!
+Assez fou pour se cacher dans une
+cage à oiseau. Ou fou comme... moi.
+!------------------------------!
+Was ihr sucht sitzt in einem
+Vogelkäfig, während Tiger-Katzen
+meistens falsche Fährten legen.
+!------------------------------!
+Abbastanza matto da nasconderti in
+una gabbia per uccelli, forse?
+O matto... come... me...
+!------------------------------!
+Como una locura sería ocultarse
+en una jaula, ¿no? O quizá...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que ajuda...
+!------------------------------!
+Ça ne nous aide pas beaucoup...
+!------------------------------!
+Das war hilfreich ...
+!------------------------------!
+Molto utile...
+!------------------------------!
+Ha sido de ayuda...
+!------------------------------!
+!******************************!

@@ -1,0 +1,104 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/00.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[HDR].2&
+mi/ob/55.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Preciso de perguntar uma coisa.
+!------------------------------!
+Je dois vous poser une question.
+!------------------------------!
+Ich muss dich etwas fragen.
+!------------------------------!
+Ho una cosa da chiederti.
+!------------------------------!
+Tengo que preguntarte una cosa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E o que seria?
+!------------------------------!
+Laquelle ?
+!------------------------------!
+Und was bitte?
+!------------------------------!
+Dimmi.
+!------------------------------!
+¿De qué se trata?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que aconteceu com a Xion?
+Pode me dizer?
+!------------------------------!
+Qu'est-il arrivé à Xion ?
+Pouvez-vous me le dire ?
+!------------------------------!
+Was ist mit Xion passiert?
+Kannst du mir das sagen?
+!------------------------------!
+Cosa è successo a Xion?
+Puoi dirmelo?
+!------------------------------!
+¿Qué le ha pasado a Xion?
+¿Me lo puedes decir?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não precisa se preocupar.
+Xion é um membro valioso da Ordem,
+mas ela precisa descansar.
+!------------------------------!
+Xion est un membre important de
+l'Organisation, mais elle a besoin
+de repos. Tu n'as pas à t'en faire.
+!------------------------------!
+Keine Angst, Xion ist ein wertvolles
+Mitglied unserer Organisation,
+aber sie braucht eine Pause.
+!------------------------------!
+Xion è un membro prezioso
+per l'Organizzazione, ma deve
+riposare. Non preoccuparti.
+!------------------------------!
+Xion es un valioso miembro de
+nuestra Organización, pero tiene
+que descansar. Tranquilo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

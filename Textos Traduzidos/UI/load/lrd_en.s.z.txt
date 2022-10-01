@@ -1,0 +1,53 @@
+Escolhar os dados para carregar.
+!******************************!
+<A> Carregar  <B> Cancelar
+!******************************!
+<X> Apagar dados neste espaço
+!******************************!
+Carregar os dados no Espaço %d?
+!******************************!
+Apagar os dados no Espaço %d?
+!******************************!
+Uma vez deletado o arquivo, se foi para sempre!
+!******************************!
+%d munny
+!******************************!
+Sim
+!******************************!
+Não
+!******************************!
+Apagando dados...
+Não desligue o DS ou retire o Cartucho.
+!******************************!
+Os dados no Espaço %d foram apagados.
+!******************************!
+:
+!******************************!
+NV %d
+!******************************!
+Estes dados estão corrompidos.
+!******************************!
+Os dados no Espaço %d estão corrompidos
+e não podem ser usados. Quer apagá-los?
+!******************************!
+Não é possível ler os dados neste espaço.
+Desligue o DS e reinsira o Cartucho.
+!******************************!
+Iniciar a Comunicação Sem Fio do DS?
+!******************************!
+Começar a jogar como convidado?
+!******************************!
+Não poderá gravar enquanto jogar como convidado.
+!******************************!
+Não é possível escrever os dados.
+!******************************!
+Não é possível ler os dados.
+!******************************!
+Desligue o DS e reinsira o Cartucho.
+!******************************!
+Tem certeza?
+!******************************!
+Inicializando...
+Não desligue o DS ou
+retire o Cartucho.
+!******************************!

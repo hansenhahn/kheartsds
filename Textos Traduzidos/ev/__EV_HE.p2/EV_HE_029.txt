@@ -1,0 +1,274 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Missão contra Heartless de novo?
+!------------------------------!
+Encore une chasse aux Sans-cœur
+aujourd'hui ?
+!------------------------------!
+Schon wieder Herzlosenjagd?
+!------------------------------!
+Oggi siamo di nuovo
+a caccia di Heartless?
+!------------------------------!
+¿Otra vez de misión
+contra los sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tô toda hora dizendo pra eles que
+não sou muito bom pra isso...
+!------------------------------!
+Je n'arrête pas de leur dire que
+ce n'est pas fait pour moi...
+!------------------------------!
+Dabei sage ich denen
+immer wieder, dass ich nicht
+dafür geeignet bin.
+!------------------------------!
+Ho detto loro mille volte che non
+sono fatto per queste cose...
+!------------------------------!
+No dejo de decirles que
+esto no es lo mío...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Desta vez estamos atrás de um
+alvo em específico.
+!------------------------------!
+Cette fois, nous cherchons
+une cible en particulier.
+!------------------------------!
+Diesmal geht es um ein
+spezielles Ziel.
+!------------------------------!
+Questa volta abbiamo un
+bersaglio specifico.
+!------------------------------!
+Esta vez vamos contra
+un objetivo concreto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saïx disse que era forte.
+!------------------------------!
+Saïx a dit qu'elle était puissante.
+!------------------------------!
+Saïx meinte, es wäre stark.
+!------------------------------!
+Saïx ha detto che è molto forte.
+!------------------------------!
+Saïx ha dicho que es fuerte.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vixi...
+É muito tarde pra voltar?
+!------------------------------!
+Oh là là...
+C'est trop tard pour rentrer,
+tu crois ?
+!------------------------------!
+Jieee ...
+Ist es zu spät, um nach Hause
+zu gehen?
+!------------------------------!
+Uff...
+È troppo tardi per tornare
+indietro?
+!------------------------------!
+Caramba... ¿Es demasiado tarde
+para volver a mi casa?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por a gente ser companheiros eu fico
+lotado dessas missões de luta.
+!------------------------------!
+C'est parce que je fais équipe avec
+toi qu'on me confie toutes ces
+missions de combat !
+!------------------------------!
+Ich muss also diese ganzen
+Kampfmissionen machen, weil
+wir Partner sind.
+!------------------------------!
+Continuano a darmi stupide
+missioni di combattimento solo
+perché sono in coppia con te!!!
+!------------------------------!
+¡Como somos compañeros,
+no dejan de endilgarme estas
+misiones de combate!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quer dividir a busca como da
+última vez?
+!------------------------------!
+Tu veux qu'on se sépare comme
+l'autre fois ?
+!------------------------------!
+Wollen wir uns trennen
+wie beim letzten Mal?
+!------------------------------!
+Vuoi che ci separiamo
+come l'altra volta?
+!------------------------------!
+¿Quieres que nos dividamos,
+como la última vez?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá doido?!
+E acabar encontrando aquela coisa?
+Não vou lutar sozinho nem morto!
+!------------------------------!
+Ça va pas la tête ? Pour tomber nez à
+nez avec cette chose ? Je ne compte
+pas l'affronter tout seul !
+!------------------------------!
+Bist du irre!? Und wenn wir es
+finden? Ich kämpfe ganz bestimmt
+nicht alleine gegen das Ding!
+!------------------------------!
+Sei impazzito?!
+Non voglio affrontare
+quel mostro da solo!
+!------------------------------!
+¿Estás loco? ¿Y arriesgarme a
+encontrarme con esa cosa?
+¡No pienso combatirla solo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então vamos.
+!------------------------------!
+Alors allons-y.
+!------------------------------!
+Dann lass uns loslegen.
+!------------------------------!
+Allora muoviamoci.
+!------------------------------!
+Pues en marcha.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

@@ -1,0 +1,304 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, Roxas. Terminou?
+!------------------------------!
+C'est bon, t'as fini, Roxas ?
+!------------------------------!
+Hey, Roxas. Fertig?
+!------------------------------!
+Ehi, Roxas, hai finito?
+!------------------------------!
+Ey, Roxas. ¿Has terminado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oi? Sim...
+!------------------------------!
+Hein ? Oui...
+!------------------------------!
+Was? Ja ...
+!------------------------------!
+Uh? Sì...
+!------------------------------!
+¿Eh? Sí...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que foi, cara?
+Parece estar em outro planeta.
+!------------------------------!
+Qu'est-ce qu'il y a ?
+T'en fais une drôle de tête...
+!------------------------------!
+Was ist, Mann?
+Du siehst so seltsam aus.
+!------------------------------!
+Che succede, amico?
+Sembri su un altro pianeta.
+!------------------------------!
+¿Qué pasa, hombre?
+Pareces distraído.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que tipo de missões você faz
+normalmente?
+!------------------------------!
+Quel genre de missions on te confie
+habituellement ?
+!------------------------------!
+Was unternimmst du normalerweise
+für Missionen?
+!------------------------------!
+Di che genere di missioni
+ti occupi, solitamente?
+!------------------------------!
+¿Qué clase de misiones haces
+normalmente?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu? Uns recon principalmente.
+!------------------------------!
+Moi ? Des missions de reconnaissance.
+!------------------------------!
+Ich? Hauptsächlich
+Aufklärungsmissionen.
+!------------------------------!
+Io? Missioni di ricognizione,
+il più delle volte.
+!------------------------------!
+¿Yo? Cosas de reconocimiento,
+principalmente.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nada de destruir Heartless?
+!------------------------------!
+Aucune chasse aux Sans-cœur ?
+!------------------------------!
+Keine Herzlosenjagd?
+!------------------------------!
+Non ti chiedono mai di
+eliminare gli Heartless?
+!------------------------------!
+¿No acabas con sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não, é raro eu fazer algo
+que exija tanto assim.
+!------------------------------!
+Non, c'est rare que je fasse des
+missions aussi épuisantes.
+!------------------------------!
+Nein, so was Anstrengendes
+mach ich nur selten.
+!------------------------------!
+Nah, non sono fatto per
+quelle cose faticose.
+!------------------------------!
+No, es raro que yo haga algo
+tan agotador.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas não se espera que faça?
+!------------------------------!
+Mais... n'est-ce pas ce qu'on attend
+de toi ?
+!------------------------------!
+Aber wird das nicht von dir
+erwartet?
+!------------------------------!
+Neanche se te lo ordinano?
+!------------------------------!
+¿Pero no se espera que lo hagas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha, eles sabem o que fazem. Se querem
+manter a máquina funcionando, então
+pegam a ferramenta certa pro trabalho.
+!------------------------------!
+Ils ne sont pas idiots. Ils savent bien
+que pour faire tourner la machine, il
+faut choisir les bons outils.
+!------------------------------!
+Ha, sie kennen sich aus. Sie wollen,
+dass der Laden läuft, und setzen
+darum das richtige Werkzeug ein.
+!------------------------------!
+Sanno che non gli conviene. Per
+concludere un lavoro serve lo
+strumento più efficace.
+!------------------------------!
+Saben lo que se hacen. Si quie-
+ren mantener la máquina en mar-
+cha, eligen a la pieza adecuada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E esse sou eu?
+A ferramenta certa pro trabalho?
+!------------------------------!
+Comme moi ?
+Je suis un bon outil ?
+!------------------------------!
+Und das bin ich?
+Das richtige Werkzeug?
+!------------------------------!
+E sarei io
+lo "strumento" più efficace?
+!------------------------------!
+¿Ese soy yo?
+¿La pieza adecuada
+para el trabajo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aconteceu algo lá, cara?
+!------------------------------!
+Dis, il t'est arrivé quelque chose
+là-dedans ?
+!------------------------------!
+Ist da drinnen irgendwas passiert,
+Mann?
+!------------------------------!
+Qualche problema, amico?
+!------------------------------!
+¿Te ocurre algo, chico?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não, eu só<E2><80><95> Nada.
+Nossa missão está completa.
+Vamos VAC.
+!------------------------------!
+Non, je... Ce n'est rien.
+Mission accomplie !
+Allez, on rentre.
+!------------------------------!
+Nein, ich habe nur ... Nichts.
+Unsere Mission ist abgeschlossen.
+Kehren wir zum Schloss zurück.
+!------------------------------!
+No, è solo che...
+Lascia perdere. Missione
+compiuta. Torniamo a casa.
+!------------------------------!
+No, solo es que... Nada.
+Hemos completado la misión.
+Vamos a VAC.
+!------------------------------!
+!******************************!

@@ -1,0 +1,225 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:31
+!******************************!
+&.[HDR].2&
+2:32
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/20.z
+!******************************!
+&.[HDR].2&
+mi/ob/20.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/27.z
+!******************************!
+&.[HDR].2&
+mi/ob/27.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acha que é esse?
+!------------------------------!
+Tu crois que c'est celui que Xion
+cherchait ?
+!------------------------------!
+Meinst du das ist er?
+!------------------------------!
+Credi sia il bersaglio di Xion?
+!------------------------------!
+¿Crees que este es al que
+perseguía Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não me admira a Xion ter tido problema.
+Tava misturado com o ambiente.
+!------------------------------!
+Pas étonnant qu'elle ait eu du mal à
+le trouver. Il se fond dans le décor.
+!------------------------------!
+Kein Wunder, dass Xion Probleme
+hatte. Er ist richtig mit der
+Umgebung verschmolzen.
+!------------------------------!
+Ecco perché Xion aveva problemi.
+Si mimetizza perfettamente.
+!------------------------------!
+No me extraña que le costara.
+Estaba camuflado con el entorno.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então cadê ela?
+!------------------------------!
+Mais où est-elle ?
+!------------------------------!
+Und wo ist sie?
+!------------------------------!
+Allora, dov'è Xion?
+!------------------------------!
+¿Pero dónde está ella?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Provavelmente por aí ainda 
+tentando procurá-lo.
+!------------------------------!
+Sûrement encore en train de chercher.
+!------------------------------!
+Wahrscheinlich immer noch
+auf der Suche nach ihm.
+!------------------------------!
+Forse lo sta ancora cercando.
+!------------------------------!
+Seguramente aún esté buscándolo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E o que sugere?
+!------------------------------!
+Qu'est-ce qu'on fait ?
+!------------------------------!
+Was machen wir jetzt?
+!------------------------------!
+Che suggerisci?
+!------------------------------!
+¿Y qué hacemos ahora?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, um alvo é um alvo. Não importa quem 
+acabar com ele. Eu digo pra gente fazer 
+isso agora, antes que suma de novo.
+!------------------------------!
+Une cible est une cible, peu importe qui
+s'en débarrasse. Faisons-le avant qu'il
+ne disparaisse à nouveau.
+!------------------------------!
+Tja, ein Ziel ist ein Ziel. Egal,
+wer es ausschaltet. Erledigen
+wir es, bevor es verschwindet.
+!------------------------------!
+Beh, i bersagli vanno eliminati,
+quindi meglio se ci pensiamo noi...
+prima che sparisca di nuovo.
+!------------------------------!
+Bueno, es un objetivo, no
+importa quién lo elimine. A
+por él, no vaya a desaparecer.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá.
+!------------------------------!
+Ça marche.
+!------------------------------!
+Okay.
+!------------------------------!
+Va bene.
+!------------------------------!
+Muy bien.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aqui vamos nós!
+!------------------------------!
+C'est parti !
+!------------------------------!
+Los geht's!
+!------------------------------!
+Andiamo!
+!------------------------------!
+¡Allá vamos!
+!------------------------------!
+!******************************!

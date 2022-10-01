@@ -1,0 +1,454 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/2F.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're really, really okay?
+!------------------------------!
+Tu es sûr que ça va ?
+!------------------------------!
+Bist du auch wirklich okay?
+!------------------------------!
+Sicuro di stare bene?
+!------------------------------!
+¿De verdad que estás bien?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Okay, you're starting to weird me out.
+!------------------------------!
+Oui, mais toi tu commences
+à m'inquiéter.
+!------------------------------!
+Okay, du verwirrst mich.
+!------------------------------!
+OK, ora basta.
+!------------------------------!
+Oye, estás empezando
+a asustarme.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why?
+!------------------------------!
+Pourquoi ?
+!------------------------------!
+Warum?
+!------------------------------!
+Perché?
+!------------------------------!
+¿Por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Since when do you ever worry about
+me?
+!------------------------------!
+Depuis quand est-ce que c'est toi qui
+t'en fais pour moi ?
+!------------------------------!
+Seit wann machst du dir Sorgen
+um mich?
+!------------------------------!
+Da quando ti preoccupi per me?
+!------------------------------!
+¿Desde cuándo te preocupas
+por mí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, excuse me!
+!------------------------------!
+Oh, ben désolée !
+!------------------------------!
+Oh, entschuldige bitte vielmals!
+!------------------------------!
+Oh, scusami tanto!
+!------------------------------!
+¡Ah, perdona!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Just feels strange, that's all.
+!------------------------------!
+Je trouve ça bizarre, c'est tout.
+!------------------------------!
+Fühlt sich einfach komisch an,
+das ist alles.
+!------------------------------!
+Lo trovo strano, tutto qui.
+!------------------------------!
+Es que me parece raro, nada más.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Usually, I do all the worrying over you.
+I don't think it's ever been the other
+way around before.
+!------------------------------!
+Normalement, c'est moi qui me fais du
+souci pour toi. Je crois que c'est la
+première fois que c'est l'inverse.
+!------------------------------!
+Sonst mach ich mir immer Sorgen
+um dich. Kann mich nicht erinnern,
+dass es schon mal andersrum war.
+!------------------------------!
+Di solito sono io a preoccuparmi
+per te. Non ricordo che sia
+mai stato il contrario.
+!------------------------------!
+Normalmente, soy yo quien se
+preocupa por ti. Creo que es la
+primera vez que pasa al revés.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, for your information...
+I worry about you all the time, Roxas.
+!------------------------------!
+Eh bien sache que... je me fais
+toujours du souci pour toi, Roxas.
+!------------------------------!
+Nun, zu deiner Information ...
+Ich mach mir die ganze Zeit
+Sorgen um dich, Roxas.
+!------------------------------!
+Beh, per tua informazione...
+io mi preoccupo sempre
+per te, Roxas.
+!------------------------------!
+Pues para que lo sepas, Roxas,
+siempre me preocupo por ti.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'm glad you're back, Xion.
+I just wish Axel didn't have to be so
+rough with you.
+!------------------------------!
+Je suis content que tu sois de retour,
+Xion. J'aurais aimé qu'Axel ne soit
+pas aussi brutal avec toi.
+!------------------------------!
+Ich bin froh, dass du wieder
+da bist, Xion. Axel hätte nicht so
+hart zu dir sein dürfen.
+!------------------------------!
+Sono contento che sia tornata,
+Xion. Axel non avrebbe dovuto
+essere così duro con te.
+!------------------------------!
+Me alegra que hayas vuelto,
+Xion. Ojalá Axel no tuviera que
+ser tan duro contigo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess he's not coming today.
+!------------------------------!
+Je crois qu'il ne viendra pas
+aujourd'hui.
+!------------------------------!
+Er wird heute wohl nicht kommen.
+!------------------------------!
+Immagino che oggi non verrà.
+!------------------------------!
+Creo que hoy no va a venir.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You want him to?
+!------------------------------!
+Et ça t'ennuie ?
+!------------------------------!
+Möchtest du denn, dass er kommt?
+!------------------------------!
+Perché, lo vorresti qui con noi?
+!------------------------------!
+¿Quieres que venga?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What, did you two have a fight?
+!------------------------------!
+Vous êtes fâchés tous les deux ?
+!------------------------------!
+Habt ihr beide euch etwa gestritten?
+!------------------------------!
+Avete litigato, per caso?
+!------------------------------!
+¿Qué pasa,
+os habéis peleado?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't believe that jerk would actually
+attack you.
+!------------------------------!
+Je n'arrive toujours pas à croire que
+cet imbécile t'ait attaquée.
+!------------------------------!
+Ich kann nicht glauben, dass dieser
+Idiot dich tatsächlich angreifen würde.
+!------------------------------!
+Non posso credere che quello
+stupido ti abbia attaccato.
+!------------------------------!
+No puedo creer que ese
+idiota te atacara.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So he's a jerk now?
+!------------------------------!
+C'est un imbécile maintenant ?
+!------------------------------!
+Idiot?
+!------------------------------!
+Ah, adesso sarebbe uno stupido?
+!------------------------------!
+¿Ahora es un idiota?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, I wouldn't be sitting here with
+you if Axel hadn't done that.
+!------------------------------!
+Roxas, je ne serais pas avec toi en ce
+moment si Axel n'était pas intervenu.
+!------------------------------!
+Roxas, ich würde jetzt hier nicht
+mit dir sitzen, wenn Axel es nicht
+getan hätte.
+!------------------------------!
+Roxas, se Axel non l'avesse
+fatto... ora non sarei seduta
+qui con te.
+!------------------------------!
+Roxas, no estaría aquí
+contigo si Axel no
+hubiera hecho eso.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He's your best friend.
+!------------------------------!
+C'est ton meilleur ami.
+!------------------------------!
+Er ist dein bester Freund.
+!------------------------------!
+È il tuo migliore amico.
+!------------------------------!
+Es uno de tus mejores amigos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So are you.
+!------------------------------!
+Toi aussi tu es ma meilleure amie.
+!------------------------------!
+Das bist du auch.
+!------------------------------!
+Anche tu lo sei.
+!------------------------------!
+Como tú.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's just not the same without all three
+of us...
+!------------------------------!
+Ce n'est pas pareil quand nous
+ne sommes pas tous les trois.
+!------------------------------!
+Wenn wir drei nicht zusammen sind,
+ist es einfach nicht dasselbe ...
+!------------------------------!
+Non è la stessa cosa, se non
+siamo tutti e tre insieme.
+!------------------------------!
+No es lo mismo si no
+estamos los tres...
+!------------------------------!
+!******************************!

@@ -1,0 +1,79 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:23
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que foi isso?
+!------------------------------!
+C'est quoi cette histoire ?
+!------------------------------!
+Was soll das?
+!------------------------------!
+Che succede?
+!------------------------------!
+¿De qué iba esto?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Meu palpite é que eles foram ver
+aquela rainha deles.
+!------------------------------!
+À mon avis, ils vont voir leur reine.
+!------------------------------!
+Ich vermute, sie wollen zu ihrer
+Königin.
+!------------------------------!
+Credo volessero andare al più
+presto dalla loro Regina.
+!------------------------------!
+Supongo que han ido a ver a esa
+reina que tienen.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He he, parece que a realiza daqui
+preza bastante pelas regras.
+!------------------------------!
+Hé, hé, hé, la dame est à cheval
+sur la ponctualité on dirait.
+!------------------------------!
+He, he, das Haus hier scheint es
+mit Regeln sehr genau zu nehmen.
+!------------------------------!
+Eh eh, da queste parti le regole
+del gioco sono molto rigide.
+!------------------------------!
+Je, je. Parece que la realeza de
+aquí es muy puntillosa con las
+normas.
+!------------------------------!
+!******************************!

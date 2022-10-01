@@ -1,0 +1,76 @@
+Comprar
+!******************************!
+Vender
+!******************************!
+Sintetizar
+!******************************!
+Resgatar
+!******************************!
+Sair
+!******************************!
+Escolha do menu.
+!******************************!
+A Loja do Moogle
+!******************************!
+Compre painéis com pontos de coração.
+!******************************!
+Venda painéis por munny.
+!******************************!
+Combine painéis para criar novos.
+O processo também custa munny.
+!******************************!
+Troque brindes com Moogle pelos Selos de
+Desafio e Coroas de Missão que coletou.
+!******************************!
+Feche este menu.
+!******************************!
+Escolha o painel que deseja.
+!******************************!
+Quantos precisa?
+!******************************!
+<+V> Ajustar quantidade em 1   <+H> Ajustar quantidade em 10
+<A> Comprar
+!******************************!
+Escolha qual painel vender.
+!******************************!
+Quantos venderá?
+!******************************!
+<+V> Ajustar quantidade em 1   <+H> Ajustar quantidade em 10
+<A> Vender
+!******************************!
+Escolha um painel para sintetizar.
+!******************************!
+Sintetizar este painel?
+!******************************!
+Sim
+!******************************!
+Não
+!******************************!
+Síntese do painel completada!
+!******************************!
+<A> Continuar
+!******************************!
+Escolha um prêmio para mais detalhes.
+!******************************!
+Por estas fichas: 
+!******************************!
+munny
+!******************************!
+pts.
+!******************************!
+Qtd.
+!******************************!
+<00D7>
+!******************************!
+<2015>
+!******************************!
+Sim
+!******************************!
+Cancelar
+!******************************!
+Confirme ou cancele a compra.
+!******************************!
+Confirme ou cancele a venda.
+!******************************!
+Só é permitido um deste painel.
+!******************************!

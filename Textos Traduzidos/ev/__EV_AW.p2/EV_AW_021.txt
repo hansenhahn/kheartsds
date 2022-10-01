@@ -1,0 +1,295 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos voltar, Roxas.
+!------------------------------!
+Faisons demi-tour, Roxas.
+!------------------------------!
+Gehen wir zurück, Roxas.
+!------------------------------!
+Torniamo indietro, Roxas.
+!------------------------------!
+Regresemos, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim... Mas espera. Se acabamos com os
+três que aqueles soldados-cartas estavam
+procurando, o que eles irão<E2><80><95>
+!------------------------------!
+Oui... mais attends. Si on a bien neutra-
+lisé les trois suspects recherchés par
+ces soldats, que vont-ils...
+!------------------------------!
+Ja ... Aber warte. Wenn wir das
+Trio erledigen, nach dem die
+Kartensoldaten suchen, was werden ...
+!------------------------------!
+Sì, ma... Se abbiamo appena eliminato
+il trio che le guardie stavano
+cercando, allora perché...
+!------------------------------!
+Sí... Pero espera. Si hemos aca-
+bado con los tres que buscaban
+esos naipes, ¿qué...?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vocês AINDA não os encontraram?!
+A cabeça de alguém vai rolar por isso!
+!------------------------------!
+Vous ne les avez toujours pas
+trouvés ? Ne jouez pas avec ma
+patience ou je vous coupe la tête !
+!------------------------------!
+Ihr habt sie IMMER noch nicht
+gefunden!? Dafür werden
+Köpfe rollen!
+!------------------------------!
+Non li avete ANCORA trovati?!
+La testa di qualcuno rotolerà!
+!------------------------------!
+¿Aún no los habéis encontrado?
+¡La cabeza de alguien va a
+acabar rodando por esto!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Toda a procura no mundo não irá
+ajudá-los agora.
+!------------------------------!
+Ils auront beau chercher, ils ne
+risquent pas de trouver qui que
+ce soit maintenant.
+!------------------------------!
+Alles Suchen der Welt wird ihnen
+jetzt nicht mehr helfen.
+!------------------------------!
+Ora neanche tutte le ricerche del
+mondo potranno salvarli.
+!------------------------------!
+Ni todos los registros del mundo
+los ayudarán ahora.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então era o Heartless no final.
+!------------------------------!
+Il s'agissait bien des Sans-cœur alors.
+!------------------------------!
+Dann waren es also die Herzlosen.
+!------------------------------!
+Quindi erano proprio gli Heartless.
+!------------------------------!
+Así que se trataba de
+los sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que tivemos mais sort que eles hoje.
+!------------------------------!
+Il faut croire que la chance était de
+notre côté aujourd'hui.
+!------------------------------!
+Wir haben heute mehr Glück,
+als die anderen.
+!------------------------------!
+Oggi siamo stati più fortunati
+di loro, tutto qui.
+!------------------------------!
+Creo que hoy hemos tenido más
+suerte que ellos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No final, sua curiosidade abriu um
+atralho para nós.
+!------------------------------!
+Finalement, la curiosité nous a même
+permis d'aller plus vite.
+!------------------------------!
+Dank deiner Neugier haben wir
+eine Abkürzung gefunden.
+!------------------------------!
+Alla fine, la tua curiosità ci
+ha aperto una scorciatoia.
+!------------------------------!
+Al final, tu curiosidad
+nos ha tendido un atajo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A chave para trilhar um caminho
+pela vida, é?
+!------------------------------!
+L'essentiel pour se frayer un chemin
+dans la vie, c'est ça ?
+!------------------------------!
+Der Schlüssel zum eigenen Weg, was?
+!------------------------------!
+La chiave per tracciare la propria
+strada nella vita, eh?
+!------------------------------!
+La clave para abrirse
+camino en la vida, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E para chegar ao túmulo.
+!------------------------------!
+Et vers la fin de celle-ci, oui.
+!------------------------------!
+Und direkt ins Grab.
+!------------------------------!
+Che in ogni caso conduce
+sempre alla tomba.
+!------------------------------!
+Y para llegar rápido a la tumba.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Demais...
+!------------------------------!
+Super...
+!------------------------------!
+Netter Gedanke ...
+!------------------------------!
+Che allegria...
+!------------------------------!
+Qué halagüeño...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E agora, um último atalho.
+!------------------------------!
+Allez, voici le dernier raccourci.
+!------------------------------!
+Jetzt zur letzten Abkürzung.
+!------------------------------!
+Bene, ora possiamo tornare.
+!------------------------------!
+Y ahora, un último atajo.
+!------------------------------!
+!******************************!

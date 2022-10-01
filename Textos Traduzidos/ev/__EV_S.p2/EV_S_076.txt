@@ -1,0 +1,139 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:16
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmph.
+Qual o porquê deste atraso?
+!------------------------------!
+Qu'est-ce qui t'a retenu ?
+!------------------------------!
+Hmpf.
+Was hat dich aufgehalten?
+!------------------------------!
+Hmph.
+Perché ci hai messo tanto?
+!------------------------------!
+Hm.
+¿A qué viene este retraso?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Minhas férias. 
+Posso tomar todo o tempo que eu quiser. 
+Desde quando tenho que te avisar?
+!------------------------------!
+Je suis en vacances. Je peux prendre
+mon temps. Depuis quand est-ce que
+j'ai des comptes à te rendre ?
+!------------------------------!
+Ich hab Urlaub. Seit wann
+bin ich dir Rechenschaft
+schuldig?
+!------------------------------!
+È il mio giorno di vacanza, quindi
+non c'è fretta. Da quando devo
+rendere conto a te?
+!------------------------------!
+Estoy de vacaciones. Me tomo el
+tiempo que quiero. ¿Desde cuándo
+tengo que justificarme ante ti?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Está se deixando ficar 
+muito apegado a eles.
+!------------------------------!
+Tu t'attaches trop à eux.
+!------------------------------!
+Gewöhn dich bloß nicht zu sehr
+an die Freizeit.
+!------------------------------!
+Ti stai legando troppo a loro.
+!------------------------------!
+Te estás apegando demasiado
+a ellos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, senhor, às suas ordens.
+!------------------------------!
+Ouais, c'est ça... cause toujours.
+!------------------------------!
+Zu Befehl, was immer du sagst.
+!------------------------------!
+Signorsì signore, ha ragione.
+Ai suoi ordini.
+!------------------------------!
+Sí, señor, lo que tú digas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você mudou.
+!------------------------------!
+Tu as changé.
+!------------------------------!
+Du hast dich verändert.
+!------------------------------!
+Sei cambiato.
+!------------------------------!
+Has cambiado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_pt1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!

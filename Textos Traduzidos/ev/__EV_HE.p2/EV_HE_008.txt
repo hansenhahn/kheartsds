@@ -1,0 +1,58 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+ pontos...
+Nada mal, filho! Nada mal mesmo!
+!------------------------------!
+ points...
+Pas mal, petit ! Pas mal du tout !
+!------------------------------!
+ Punkte ...
+Nicht schlecht, Kleiner!
+Gar nicht schlecht!
+!------------------------------!
+ punti...
+Niente male, ragazzo!
+Davvero niente male!
+!------------------------------!
+ puntos...
+No está mal, chico. ¡Nada mal!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Na próxima, quero que tente
+200 pontos.
+!------------------------------!
+Vise les 200 points la prochaine
+fois !
+!------------------------------!
+Versuch nächstes Mal
+200 Punkte zu erreichen!
+!------------------------------!
+Vorrei che la prossima volta
+cercassi di ottenere 200 punti!
+!------------------------------!
+¡Quiero que la próxima vez
+vayas a por los 200 puntos!
+!------------------------------!
+!******************************!

@@ -1,0 +1,93 @@
+Escolha uma missão.
+!******************************!
+<A> Embarcar  <B> Voltar
+!******************************!
+Escolha um dia.
+!******************************!
+Reveja uma missão.
+!******************************!
+? ? ? ? ?
+!******************************!
+- RESTRIÇÕES -
+!******************************!
+- CLASSIFICAÇÃO -
+!******************************!
+<30FB> 
+!******************************!
+%d'
+!******************************!
+%d"
+!******************************!
+Tempo limite: 
+!******************************!
+Nível limitado a %d
+!******************************!
+Sem magia de ataque
+!******************************!
+Sem magia de cura
+!******************************!
+Sem itens de cura
+!******************************!
+Tome %d%% mais dano
+!******************************!
+Dê %d%% menos dano
+!******************************!
+Nível do inimigo +%d
+!******************************!
+PV é drenado continuamente
+!******************************!
+PV é drenado ao ficar no chão
+!******************************!
+
+!******************************!
+Termine em tempo recorde!
+!******************************!
+Ganhe muitos pontos de coração!
+!******************************!
+Encha a barra de missão!
+!******************************!
+Ganhe muito dinero!
+!******************************!
+Não tome dano!
+!******************************!
+Não tome dano!
+!******************************!
+Ataque o menos possível!
+!******************************!
+Não erre ataques!
+!******************************!
+Pule o menos possível!
+!******************************!
+Pontos de Missão
+!******************************!
+  RECORDE
+!******************************!
+Símbolos de Desafio
+(Ganhe até três baseado em sua
+ performance.)
+!******************************!
+Coroas de Missão
+(Solo: termine a missão para ganhar uma coroa.
+ Multijogador: fique em primeiro para ganhar.
+ Coroas extras também são obtidas ao atender
+ pela primeira vez esses requisitos.
+ O bonus varia de missão a missão.)
+!******************************!
+- BÔNUS DE FINAL -
+!******************************!
+- BÔNUS ALEATÓRIOS -
+!******************************!
+<AMARELO>Nenhuma Coroa de Missão é obtida por
+este tutorial.<BRANCO>
+
+(Você pode conseguir coroas em outras missões
+ao ficar em primeiro lugar contra outros
+jogadores, ou só terminando a missão sozinho.)
+!******************************!
+<AMARELO>Nenhuma Coroa de Missão é obtida por
+esta missão.<BRANCO>
+
+(Você pode conseguir coroas em outras missões
+ao ficar em primeiro lugar contra outros
+jogadores, ou só terminando a missão sozinho.)
+!******************************!

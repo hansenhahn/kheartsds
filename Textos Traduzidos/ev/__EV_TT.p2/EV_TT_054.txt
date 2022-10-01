@@ -1,0 +1,88 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:36
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom trabalho! Pode ficar com o
+que achou. Beleza, hora de VAC.
+!------------------------------!
+Bravo ! Tu peux garder ce que t'as
+trouvé. Allez, c'est l'heure de RÀC.
+!------------------------------!
+Gute Arbeit! Du kannst behalten,
+was du gefunden hast. Okay, ZzS.
+!------------------------------!
+Ben fatto! Tieni pure tutto ciò
+che hai trovato. Ora possiamo
+rientrare.
+!------------------------------!
+¡Buen trabajo! Quédate lo que
+has encontrado. Venga, VAC.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+VAC?
+!------------------------------!
+RÀC ?
+!------------------------------!
+ZzS?
+!------------------------------!
+Rientrare?
+!------------------------------!
+¿VAC?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Voltar Ao Castelo.
+Vá em frente, siga até o corredor
+negro que nos trouxe para cá.
+!------------------------------!
+De <E2><80><9C>Rentrer À la Citadelle<E2><80><9D>.
+Passe devant et retrouve le couloir
+obscur qui nous a emmenés ici.
+!------------------------------!
+Zurück zum Schloss.
+Na los, geh durch den dunklen Tunnel,
+durch den wir gekommen sind.
+!------------------------------!
+Sì, rientrare al castello.
+Forza, torniamo al corridoio
+oscuro che ci ha condotti qui.
+!------------------------------!
+Vuelve Al Castillo.
+Vamos, ve hacia el pasillo
+oscuro por el que hemos venido.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

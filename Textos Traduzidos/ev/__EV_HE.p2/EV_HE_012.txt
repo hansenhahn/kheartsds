@@ -1,0 +1,529 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Certo, Roxas.
+Vamos encerrar por hoje.
+!------------------------------!
+Allez, c'est bon pour aujourd'hui.
+!------------------------------!
+Okay, Roxas.
+Machen wir Schluss für heute.
+!------------------------------!
+D'accordo, Roxas.
+Per oggi può bastare.
+!------------------------------!
+Muy bien, Roxas.
+Dejémoslo para otro día.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nada mal para a sua primeira vez
+no Coliseu.
+!------------------------------!
+C'est pas mal pour une première
+fois.
+!------------------------------!
+Nicht schlecht für dein erstes Mal
+in der Arena.
+!------------------------------!
+Non male, per essere la tua
+prima volta allo stadio.
+!------------------------------!
+No está mal para ser
+tu primera vez en el Coliseo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Continue assim e você estará bem,
+filho!
+!------------------------------!
+Continue comme ça et tu deviendras
+un vrai héros en un rien de temps !
+!------------------------------!
+Mach genau so weiter, Kleiner!
+!------------------------------!
+Di questo passo diventerai
+fortissimo, ragazzo!
+!------------------------------!
+¡Sigue así, y lo harás muy
+bien, chico!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que é bom, porque precisamos de
+toda ajuda possível...
+!------------------------------!
+Ce qui serait pas mal, parce qu'on a
+besoin de toute l'aide disponible...
+!------------------------------!
+Das ist gut, denn wir können jede
+Hilfe gebrauchen ...
+!------------------------------!
+E questo è un bene, perché
+da queste parti abbiamo
+sempre bisogno di una mano...
+!------------------------------!
+Lo cual es bueno, porque necesi-
+tamos toda la ayuda que podamos
+conseguir...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ajuda com o quê?
+Aliás, Por que está procurando por
+novas pessoas para treinar aqui?
+!------------------------------!
+De l'aide pour quoi ?
+Et pourquoi vous cherchez
+des gens à entraîner ?
+!------------------------------!
+Hilfe wobei?
+Warum suchst du überhaupt
+nach neuen Rekruten?
+!------------------------------!
+Una mano?
+Perché state cercando nuove
+persone da allenare, comunque?
+!------------------------------!
+¿Ayuda para qué? ¿Y por qué
+estás buscando gente nueva a la
+que entrenar aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que se pode dizer que estamos
+com falta de pessoal.
+!------------------------------!
+Eh bien, disons que nous sommes
+à court de main-d'œuvre.
+!------------------------------!
+Man könnte sagen,
+wir sind etwas unterbesetzt.
+!------------------------------!
+Siamo un po' a corto
+di personale, diciamo.
+!------------------------------!
+Supongo que podría decirse que
+andamos cortos de personal.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então não tem nenhuma pessoa forte
+por aqui?
+!------------------------------!
+Ça veut dire qu'il n'y a personne
+de costaud dans le coin ?
+!------------------------------!
+Gibt's hier denn
+keine starken Personen?
+!------------------------------!
+Quindi non ci sono molte
+persone forti, qui in giro?
+!------------------------------!
+¿Y no hay nadie fuerte
+por aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você tá maluco?!
+Nós temos um legítimo herói conosco!
+!------------------------------!
+Tu veux rire ou quoi ?
+On a un héros ici, pas un zéro !
+!------------------------------!
+Bist du des Wahnsinns!?
+Wir haben hier einen
+echten Helden!
+!------------------------------!
+Ma sei pazzo?!
+Abbiamo qui un vero eroe!
+!------------------------------!
+¿Estás loco? ¡Hemos conseguido
+un héroe de verdad!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+o campeão deste lugar é o meu
+aprendiz de ouro. Talvez você tenha
+o visto no Coliseu antes?
+!------------------------------!
+Un de mes autres poulains est le
+champion du coin. Peut-être que
+tu l'as déjà vu dans le Colisée ?
+!------------------------------!
+Der Champ hier ist mein
+Musterschüler. Hast du ihn
+schon mal in der Arena gesehen?
+!------------------------------!
+Il campione del posto è un mio
+straordinario allievo. Forse
+l'hai già visto nello stadio?
+!------------------------------!
+Mi estudiante estrella es el
+campeón de este lugar. Quizá lo
+hayas visto en el Coliseo antes.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que ele faz aqui?
+!------------------------------!
+Et qu'est-ce qu'il fait exactement ?
+!------------------------------!
+Was macht er hier?
+!------------------------------!
+Che ci fa qui?
+!------------------------------!
+¿Y qué hace él aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espera, tá dizendo que você se
+inscreveu pro treino de herói sem
+nem saber o que os Jogos são?!
+!------------------------------!
+Me dis pas que tu sais pas ce que
+sont les Jeux ?
+!------------------------------!
+Warte, du hast dich
+eingeschrieben, ohne zu wissen,
+was die Spiele sind!?
+!------------------------------!
+Ehi, vuoi dire che ti sei iscritto
+all'addestramento senza nemmeno
+sapere che cosa sono i Giochi?!
+!------------------------------!
+Espera, ¿dices que te has
+apuntado a entrenarte para héroe
+sin saber nada de los juegos?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ai, ai... Deixa eu ver se consigo
+explicar sem problemas, filho. Há
+um herói e um monstro gigantesco...
+!------------------------------!
+OK... Je vais faire court.
+Ici, on met un héros et un énorme
+monstre ensemble, tu vois ?
+!------------------------------!
+Lass es mich so erklären.
+Man nehme einen Helden und
+ein gigantisches Monster, okay?
+!------------------------------!
+Lascia che ti spieghi, ragazzo.
+Ci sono un eroe e un mostro
+gigantesco...
+!------------------------------!
+¡Ahí va! Vamos a ver, chico.
+Coges y metes aquí a un héroe y
+a un monstruo gigantesco, ¿sí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eles lutam, pessoas vêm assistir
+e é pra isso que o lugar serve!
+!------------------------------!
+Ensuite, ils se battent et les gens
+viennent assister au spectacle.
+C'est à ça que sert cet endroit !
+!------------------------------!
+Und die beiden kämpfen dann
+vor Publikum gegeneinander.
+Dafür gibt's diesen Ort!
+!------------------------------!
+Combattono e la gente
+viene a vederli. Ecco a
+che serve questo posto!
+!------------------------------!
+Se ponen a luchar y la gente
+viene a verlos. ¡Para eso es
+todo este sitio!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pelo menos até aqueles Heartless
+começarem a aparecer em bandos.
+!------------------------------!
+Du moins, c'était comme ça avant
+que les Sans-cœur ne débarquent...
+!------------------------------!
+Jedenfalls bis die Herzlosen überall
+aufgetaucht sind.
+!------------------------------!
+Almeno fino a quando
+non sono arrivati
+tutti quegli Heartless.
+!------------------------------!
+Al menos hasta que los
+sincorazón empezaron a
+aparecer a espuertas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Com um monte de partidas nos Jogos
+e ter que lidar com os Heartless,
+o campeão tem trabalhado bastante.
+!------------------------------!
+Entre les combats qui s'enchaînent
+et la chasse aux Sans-cœur, notre
+champion n'a plus une minute à lui.
+!------------------------------!
+Der Champ hat in letzter Zeit
+jede Menge Überstunden machen
+müssen.
+!------------------------------!
+Tra gli incontri dei Giochi e le battute di
+caccia agli Heartless, il nostro
+campione fa gli straordinari!
+!------------------------------!
+Entre tantos combates de los
+juegos y matar a los sincorazón,
+el campeón no da abasto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então os Jogos são como um torneio?
+E eu posso participar?
+!------------------------------!
+Les Jeux sont une sorte de tournoi,
+c'est ça ? Comment je peux faire
+pour y participer ?
+!------------------------------!
+Die Spiele sind also wie ein Turnier?
+Kann ich daran teilnehmen?
+!------------------------------!
+Quindi i Giochi sono una specie
+di torneo? Posso partecipare?
+!------------------------------!
+¿Así que los juegos son como un
+torneo? ¿Y puedo participar?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você? Nos Jogos?!
+Ahh ha ha ha!
+!------------------------------!
+Toi ? Participer aux Jeux ?
+Ha, ha, ha, ha !
+!------------------------------!
+Du? Bei den Spielen!?
+Ahh, ha, ha, ha, ha!
+!------------------------------!
+Tu? Ai Giochi?!
+Ah ah ah ah!
+!------------------------------!
+¿Tú? ¿En los juegos?
+¡Aaah, ja, ja, ja!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Qual é a graça?
+!------------------------------!
+Qu'est-ce qu'il y a de si drôle ?
+!------------------------------!
+Was ist daran so komisch?
+!------------------------------!
+Che c'è di tanto divertente?
+!------------------------------!
+¿Qué te hace tanta gracia?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Duas palavra pra você, filho.
+!------------------------------!
+Je ne dirai que deux mots, petit :
+!------------------------------!
+Ich habe zwei Worte für dich,
+Kleiner.
+!------------------------------!
+Ascoltami bene, ragazzo.
+!------------------------------!
+En dos palabras, chico.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fora.
+!------------------------------!
+Hors
+!------------------------------!
+Nicht.
+!------------------------------!
+Non...
+!------------------------------!
+No.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Da sua.
+!------------------------------!
+De
+!------------------------------!
+Deine.
+!------------------------------!
+è...
+!------------------------------!
+Es.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Liga.
+!------------------------------!
+Question !
+!------------------------------!
+Liga.
+!------------------------------!
+alla tua portata!
+!------------------------------!
+Tu liga.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você tem talento, é verdade.
+Mas vai precisar de muito treino
+ainda antes de ir pro grande show.
+!------------------------------!
+Mais j'avoue que t'es prometteur.
+Enfin, il faudra beaucoup t'entraîner
+avant de pouvoir y participer.
+!------------------------------!
+Okay, aber bevor
+du da mitmachst, brauchst du
+noch viel mehr Training.
+!------------------------------!
+Hai talento, lo riconosco,
+ma il tuo addestramento non
+basta per affrontare i Giochi.
+!------------------------------!
+Eres prometedor, lo admito. Pero
+debes entrenar mucho más para
+poder pasar a mayores.
+!------------------------------!
+!******************************!

@@ -1,0 +1,503 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0B.z
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom mesmo ter aparecido.
+!------------------------------!
+Il était temps !
+!------------------------------!
+Schön, dass du kommst.
+!------------------------------!
+Grazie per essere venuto.
+!------------------------------!
+Qué detalle que hayas venido.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uh, oi.
+!------------------------------!
+Ah... bonjour.
+!------------------------------!
+Ähm, hi.
+!------------------------------!
+Uhm, ciao.
+!------------------------------!
+Emm... hola.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ugh, é o cúmulo.
+!------------------------------!
+Pff, c'est pire que tout.
+!------------------------------!
+Argh, schlimmer geht's nicht.
+!------------------------------!
+Ugh, peggio di così
+non poteva andare.
+!------------------------------!
+Buf, esto es lo peor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+De quem foi a ideia de me mandar 
+nessa sua missão idiota de bebê?
+Tenho cara de babá?
+!------------------------------!
+Pourquoi est-ce que je dois venir avec
+toi pour cette mission de nul ? Est-ce
+que j'ai une tête de baby-sitter ?
+!------------------------------!
+Warum muss ich mit dir auf
+diese blöde Baby-Mission? Leite
+ich vielleicht 'nen Kindergarten?
+!------------------------------!
+Perché devo accompagnarti
+IO nella tua stupida missione da
+poppante? Sono la tua balia?
+!------------------------------!
+¿Por qué tengo yo que ir contigo
+a tu misión para bebés?
+¿Tengo cara de niñera?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Põe o Demyx pra fazer este negócio.
+Ele não é bom mesmo em muita coisa.
+!------------------------------!
+Que Demyx s'en occupe ! Il ne sait rien
+faire celui-là de toute façon.
+!------------------------------!
+Lass das Demyx erledigen.
+Sonst ist er eh zu nichts zu gebrauchen.
+!------------------------------!
+Che ci pensi Demyx.
+Tanto non è che sappia fare altro.
+!------------------------------!
+Que Demyx se ocupe de esto.
+No se le dan bien muchas más
+cosas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que? O QUÊ?
+Tem algo a dizer?
+!------------------------------!
+Quoi ? Qu'est-ce qu'il y a ?
+T'as quelque chose à redire ?
+!------------------------------!
+Was? WAS?
+Hast du etwas zu sagen?
+!------------------------------!
+Cosa? COSA?
+Hai qualcosa da dire?
+!------------------------------!
+¿Qué? ¿Qué?
+¿Tienes algo que decir?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não...
+!------------------------------!
+Non...
+!------------------------------!
+Nein ...
+!------------------------------!
+No...
+!------------------------------!
+No...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pfft, você não é nada sem essa
+Keyblade.
+!------------------------------!
+Pff, tu ne serais rien sans ta Keyblade.
+!------------------------------!
+Pfft, ohne das Schlüsselschwert
+wärst du gar nichts.
+!------------------------------!
+Pft, non saresti nessuno
+senza quel Keyblade.
+!------------------------------!
+Bah, sin esa llave espada no
+serías nada.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+... Ah ha!
+Tive uma ideia.
+!------------------------------!
+Ah-ha !
+Je viens d'avoir une idée.
+!------------------------------!
+... Oho!
+Ich habe eine Idee.
+!------------------------------!
+Oh oh!
+Mi è appena venuta un'idea.
+!------------------------------!
+¡Espera!
+¡Tengo una idea!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(O-ou.)
+!------------------------------!
+(Oh oh...)
+!------------------------------!
+Oje ...
+!------------------------------!
+(Oh oh...)
+!------------------------------!
+(Oh, oh...)
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você irá fazer a missão 
+de hoje SEM sua Keyblade.
+!------------------------------!
+Tu peux accomplir la mission
+d'aujourd'hui sans ta Keyblade.
+!------------------------------!
+Du kannst die heutige Mission
+OHNE dein Schlüsselschwert
+erledigen.
+!------------------------------!
+Affronterai la missione di
+oggi SENZA il Keyblade.
+!------------------------------!
+Cumplirás la misión de hoy
+sin tu llave espada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O quê? Por quê?!
+!------------------------------!
+Hein ? Mais pourquoi ?
+!------------------------------!
+Was? Wieso!?
+!------------------------------!
+Cosa? E perché?!?
+!------------------------------!
+¿Qué? ¿Por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Porque eu disse e ponto!
+Saïx disse pra você praticar
+magia hoje, não foi?
+!------------------------------!
+Parce que je l'ai décidé, voilà !
+Saïx t'a dit d'utiliser la magie
+aujourd'hui, non ?
+!------------------------------!
+Weil ich es sage!
+Saïx hat doch gesagt, du sollst
+heute Magie trainieren, oder?
+!------------------------------!
+Perché lo dico io, capito?!?
+Sbaglio o Saïx ti ha chiesto di
+far pratica con la magia oggi?
+!------------------------------!
+¡Porque yo lo digo!
+Saïx te dijo que probaras
+tu magia hoy, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É pegar ou largar.
+!------------------------------!
+Allez, c'est le moment de vérité.
+!------------------------------!
+Jetzt heißt's schwimmen oder
+untergehen.
+!------------------------------!
+Bene, nuota o affonda.
+!------------------------------!
+Pues más te vale aprender
+rápido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá, largar!
+Eu não sei usar magia.
+!------------------------------!
+Mais enfin !
+Je ne sais pas utiliser la magie, moi.
+!------------------------------!
+Wohl eher ... untergehen!
+Ich weiß nicht, wie man
+Magie anwendet.
+!------------------------------!
+Ecco, affondo!
+Io non so usare la magia.
+!------------------------------!
+¿Pero qué dices?
+¡Si no sé hacer magia!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não vai aprender se ficar aí
+enrolando com essa chave tamanho
+família.
+!------------------------------!
+Tu n'apprendras rien si tu ne fais que
+frapper avec cette grosse clé.
+!------------------------------!
+Wenn du weiterhin mit diesem übergroßen
+Schlüssel herumfuchtelst, lernst du
+sie nie.
+!------------------------------!
+Beh, non imparerai mai se
+continui a portarti dietro
+quella chiave gigante.
+!------------------------------!
+Pues agarrado a esa llave
+gigante no vas a aprender nunca.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É, mas...
+!------------------------------!
+Oui, mais...
+!------------------------------!
+Ja, aber ...
+!------------------------------!
+Sì, ma...
+!------------------------------!
+Ya, pero...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, perfeito.
+Um Heartless pra você.
+!------------------------------!
+Ha, ha, ha, parfait !
+Voilà un Sans-cœur.
+!------------------------------!
+Ah, perfekt.
+Da ist ein Herzloser.
+!------------------------------!
+Ah, perfetto.
+Ecco un Heartless.
+!------------------------------!
+Ah, perfecto.
+Ahí hay un sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vai lá, acabe com ele.
+E é pra usar magia!
+!------------------------------!
+Allez, dégomme-le !
+Et en te servant de la magie !
+!------------------------------!
+Mach schon, erledige ihn -
+aber du musst Magie anwenden!
+!------------------------------!
+Avanti, lasciala un po' da
+parte... e usa la magia!
+!------------------------------!
+Venga, elimínalo. ¡Pero hazlo
+con magia!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vou ficar aqui assistindo.
+!------------------------------!
+Moi, je vais rester ici pour t'observer.
+!------------------------------!
+Ich sehe von hier aus zu.
+!------------------------------!
+Io resterò qui a osservarti.
+!------------------------------!
+Yo miraré desde aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Ah, valeu...)
+!------------------------------!
+...
+!------------------------------!
+(Danke ...)
+!------------------------------!
+...
+!------------------------------!
+(Gracias...)
+!------------------------------!
+!******************************!

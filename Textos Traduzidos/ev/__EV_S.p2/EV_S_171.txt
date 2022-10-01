@@ -1,0 +1,677 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:40
+!******************************!
+&.[HDR].2&
+mi/ob/22.z
+!******************************!
+&.[HDR].2&
+mi/ob/23.z
+!******************************!
+&.[HDR].2&
+mi/ob/B3.z
+!******************************!
+&.[HDR].2&
+mi/ob/07.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/0F.z
+!******************************!
+&.[HDR].2&
+mi/ch/11.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé, you can see my face?
+!------------------------------!
+Naminé, peux-tu voir mon visage ?
+!------------------------------!
+Naminé, du kannst
+mein Gesicht sehen?
+!------------------------------!
+Riesci a vedere il mio
+volto, Naminé?
+!------------------------------!
+Naminé, ¿puedes ver mi rostro?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yes.
+!------------------------------!
+Oui.
+!------------------------------!
+Ja.
+!------------------------------!
+Sì.
+!------------------------------!
+Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you think I should do?
+!------------------------------!
+Que devrais-je faire à ton avis ?
+!------------------------------!
+Was soll ich tun?
+!------------------------------!
+Cosa dovrei fare, secondo te?
+!------------------------------!
+¿Qué crees que debo hacer?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What do you want to do?
+!------------------------------!
+Que veux-tu faire ?
+!------------------------------!
+Was willst du tun?
+!------------------------------!
+Tu cosa vuoi fare?
+!------------------------------!
+Tú, ¿qué quieres hacer?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I thought I knew at first.
+I wanted me and Roxas and Axel to be
+together forever.
+!------------------------------!
+Je pensais le savoir...
+Je voulais rester avec Roxas
+et Axel pour toujours.
+!------------------------------!
+Erst dachte ich, ich wüsste das.
+Ich wollte, dass Roxas, Axel und
+ich immer zusammen sind.
+!------------------------------!
+All'inizio pensavo di saperlo.
+Volevo che io, Roxas e Axel
+stessimo insieme per sempre.
+!------------------------------!
+Al principio creía que lo sabía.
+Quería que Roxas, Axel y yo
+estuviésemos juntos siempre.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But then I started to realize these
+memories don't belong to me.
+!------------------------------!
+Mais ensuite, j'ai réalisé que ces
+souvenirs ne m'appartenaient pas.
+!------------------------------!
+Aber dann wurde mir klar,
+dass diese Erinnerungen nicht
+meine sind.
+!------------------------------!
+Ma poi ho iniziato a capire
+che questi ricordi non mi
+appartengono.
+!------------------------------!
+Pero empecé a darme cuenta de
+que esos recuerdos no me
+pertenecen.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That's because you're Kairi.
+At least, the Kairi Sora remembers.
+!------------------------------!
+C'est parce que tu es Kairi.
+Du moins, la Kairi dont Sora
+se souvient.
+!------------------------------!
+Weil du Kairi bist.
+Zumindest die Kairi, an die
+sich Sora erinnert.
+!------------------------------!
+Questo perché sei Kairi.
+Quella ricordata da Sora,
+perlomeno.
+!------------------------------!
+Eso es porque eres Kairi.
+Al menos, la Kairi que Sora
+recuerda.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+The more I remember, the more I feel
+like I'm in the wrong place...like...
+!------------------------------!
+Plus je me souviens, moins j'ai
+l'impression d'être à ma place...
+C'est comme si...
+!------------------------------!
+Je mehr ich mich erinnere, desto mehr
+habe ich das Gefühl, am falschen
+Ort zu sein ... als ob ...
+!------------------------------!
+Più ricordo, più mi sento
+fuori posto... Come se...
+!------------------------------!
+Cuanto más recuerdo, más noto
+que estoy en el lugar
+incorrecto... como si...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Like I need to go back.
+!------------------------------!
+comme si je devais rentrer.
+!------------------------------!
+Als ob ich zurückgehen sollte.
+!------------------------------!
+Come se dovessi tornare
+indietro.
+!------------------------------!
+Como si tuviera que volver.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Back to Sora?
+!------------------------------!
+Rejoindre Sora ?
+!------------------------------!
+Zurück zu Sora?
+!------------------------------!
+Da Sora?
+!------------------------------!
+¿Volver a Sora?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you return your memories to him,
+you'll disappear.
+!------------------------------!
+Tu disparaîtras si tu lui rends
+tes souvenirs.
+!------------------------------!
+Wenn du ihm deine Erinnerungen
+zurückgibst, wirst du
+verschwinden.
+!------------------------------!
+Scomparirai non appena gli
+restituirai i suoi ricordi.
+!------------------------------!
+Si le devuelves tus recuerdos,
+desaparecerás.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And since everything about you was
+built on those memories...
+!------------------------------!
+Et puisque tout ce que tu es a été
+élaboré d'après ces souvenirs...
+!------------------------------!
+Und weil alles an dir auf diesen
+Erinnerungen aufbaut ...
+!------------------------------!
+E visto che la tua identità
+poggia interamente su quei
+ricordi...
+!------------------------------!
+Y como todo en ti está cons-
+truido sobre esos recuerdos...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+...no one will remember you when
+you're gone. There won't be any <E2><80><9C>you<E2><80><9D>
+to remember.
+!------------------------------!
+personne ne se souviendra de toi
+quand tu auras disparu. Il ne restera
+plus rien de <E2><80><9C>toi<E2><80><9D>.
+!------------------------------!
+... wird sich niemand an dich
+erinnern, wenn du weg bist.
+Du wirst einfach nicht mehr da sein.
+!------------------------------!
+...nessuno si ricorderà di te
+quando sarai scomparsa. Non ci
+sarà alcuna "Xion" da ricordare.
+!------------------------------!
+nadie se acordará de ti cuando te hayas
+ido. No habrá un "tú" que recordar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I can't save you, Xion<E2><80><95>even a memory
+of you.
+!------------------------------!
+Je ne peux pas te sauver, Xion.
+Pas même un seul souvenir de toi.
+!------------------------------!
+Ich kann dich nicht retten,
+Xion ... nicht mal eine Erinnerung
+an dich.
+!------------------------------!
+Non posso salvarti, Xion.
+Non resterà un solo ricordo di
+te.
+!------------------------------!
+No puedo salvarte, Xion.
+No podré guardar ni un
+recuerdo de ti.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I know. I'm ready.
+Otherwise I wouldn't be here.
+!------------------------------!
+Je sais et je suis prête.
+Sinon je ne serais pas ici.
+!------------------------------!
+Ich weiß, ich bin bereit.
+Sonst wäre ich nicht hier.
+!------------------------------!
+Lo so. Sono pronta.
+Altrimenti non sarei qui.
+!------------------------------!
+Lo sé. Estoy lista.
+De lo contrario, no estaría
+aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas belongs with Sora, too.
+!------------------------------!
+Roxas devra rejoindre Sora aussi.
+!------------------------------!
+Roxas gehört auch zu Sora.
+!------------------------------!
+Anche Roxas appartiene
+a Sora.
+!------------------------------!
+Roxas también pertenece a Sora.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But...I don't think he would understand.
+Not yet.
+!------------------------------!
+Mais... je ne crois pas qu'il comprendra.
+Pas encore.
+!------------------------------!
+Aber ... ich glaube nicht,
+dass er es verstehen würde.
+Noch nicht.
+!------------------------------!
+Ma... non credo che capirebbe.
+Non ancora.
+!------------------------------!
+Pero... no creo que lo
+entendiera. Aún no.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He can't feel Sora.
+But he will.
+!------------------------------!
+Il ne ressent pas encore Sora.
+Mais ce sera le cas un jour.
+!------------------------------!
+Er kann Sora nicht fühlen.
+Aber das wird er noch.
+!------------------------------!
+Lui non conosce Sora.
+Ma presto cambierà tutto.
+!------------------------------!
+No puede sentir a Sora.
+Pero lo hará.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé, will you watch over Roxas once
+I'm gone?
+!------------------------------!
+Naminé, pourrais-tu veiller sur Roxas
+une fois que je serai partie ?
+!------------------------------!
+Naminé, wirst du auf Roxas
+aufpassen, wenn ich weg bin?
+!------------------------------!
+Naminé, potresti tenere d'occhio
+Sora quando io... non ci sarò
+più?
+!------------------------------!
+Naminé, ¿cuidarás de Roxas
+cuando yo me haya ido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You won't be alone. I asked somebody
+else to look after him, too.
+!------------------------------!
+Tu ne seras pas seule. J'ai demandé
+à quelqu'un d'autre de veiller sur lui
+aussi.
+!------------------------------!
+Du wirst nicht alleine sein.
+Ich habe schon jemand
+gebeten auf ihn aufzupassen.
+!------------------------------!
+Non sarai da sola. Ho chiesto
+la stessa cosa anche
+a un'altra persona.
+!------------------------------!
+No estarás sola. También le he
+pedido a alguien más que vele
+por él.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's just...there isn't anything else I
+can do for him.
+!------------------------------!
+C'est... la seule chose que je puisse
+faire pour lui.
+!------------------------------!
+Es ist bloß ... Es gibt nichts,
+was ich sonst für ihn tun könnte.
+!------------------------------!
+Io... non posso fare altro per
+lui.
+!------------------------------!
+Es que... no hay nada más que
+pueda hacer por él.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+All right.
+!------------------------------!
+D'accord.
+!------------------------------!
+Geht klar.
+!------------------------------!
+Va bene.
+!------------------------------!
+Muy bien.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Thank you...
+!------------------------------!
+Merci...
+!------------------------------!
+Vielen Dank ...
+!------------------------------!
+Grazie...
+!------------------------------!
+Gracias...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+If you're ready, let's go see Sora.
+!------------------------------!
+Allons voir Sora si tu es prête.
+!------------------------------!
+Wenn du bereit bist, dann lass
+uns jetzt Sora treffen.
+!------------------------------!
+Ora possiamo andare da
+Sora, se sei pronta.
+!------------------------------!
+Si estás lista,
+vamos a ver a Sora.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Naminé, they've found us!
+They are on their way!
+!------------------------------!
+Naminé, ils nous ont trouvés !
+Ils sont en chemin !
+!------------------------------!
+Naminé, sie haben uns gefunden!
+Sie sind auf dem Weg hierher!
+!------------------------------!
+Ci hanno trovati, Naminé!
+Stanno arrivando!
+!------------------------------!
+¡Naminé, nos han encontrado!
+¡Vienen hacia aquí!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Bip.&
+Bip_head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That blasted puppet led them right to
+our doorstep! See what you get for
+trusting it?
+!------------------------------!
+Cette satanée marionnette les a
+menés jusqu'ici ! Voilà ce que ça
+donne de lui avoir fait confiance !
+!------------------------------!
+Diese verdammte Puppe hat sie
+direkt zu uns geführt. Das ist
+also der Lohn für unser Vertrauen?
+!------------------------------!
+Quel dannato fantoccio li ha
+condotti qui da noi! Lo sapevo
+che non dovevamo fidarci!
+!------------------------------!
+¡Esa maldita marioneta los ha
+traído hasta nuestra puerta!
+¿Ves lo que pasa por confiar?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I'll get rid of them!
+!------------------------------!
+Je m'en occupe !
+!------------------------------!
+Ich kümmere mich um sie!
+!------------------------------!
+Li sistemerò io!
+!------------------------------!
+¡Me desharé de ellos!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+No! Xion...
+!------------------------------!
+Non ! Xion...
+!------------------------------!
+Nein! Xion ...
+!------------------------------!
+No! Xion...
+!------------------------------!
+¡No! Xion...
+!------------------------------!
+!******************************!

@@ -1,4 +1,0 @@
-chara
-t_DE
-t_LA
-t_VE

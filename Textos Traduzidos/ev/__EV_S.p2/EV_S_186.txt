@@ -1,0 +1,95 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:15
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/82.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/E7.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ainda nenhum Heartless.
+Onde isso tá se escondendo afinal?
+!------------------------------!
+Je ne sens la présence d'aucun
+Sans-cœur par ici.
+Mais où se cache cette chose ?
+!------------------------------!
+Immer noch kein Herzloser.
+Wo versteckt sich
+das Ding bloß?
+!------------------------------!
+Non avverto alcun Heartless
+nei paraggi. Dove si starà
+mai nascondendo?
+!------------------------------!
+No aparece ningún sincorazón.
+¿Dónde se meterá, por cierto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+default.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O-o quê?! Como conseguiu chegar
+tão perto sem eu perceber?
+!------------------------------!
+Hein ? Comment ai-je pu m'approcher
+autant sans rien remarquer ?
+!------------------------------!
+W-Was!? Wie konnte der so nahe
+kommen, ohne das ich ihn
+bemerkt habe?
+!------------------------------!
+C-Cosa? Come ha fatto ad
+avvicinarsi tanto senza che
+me ne accorgessi?
+!------------------------------!
+¿Q-qué? ¿Cómo ha podido
+acercarse tanto sin que me dé
+cuenta?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!

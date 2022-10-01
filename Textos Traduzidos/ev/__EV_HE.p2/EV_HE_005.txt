@@ -1,0 +1,782 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[HDR].2&
+mi/ch/01.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aí está você!
+Tava te esperando!
+!------------------------------!
+Ah te voilà enfin !
+Je t'attendais !
+!------------------------------!
+Da seid ihr ja!
+Ich hab schon auf euch gewartet!
+!------------------------------!
+Eccoti!
+Ti stavo aspettando!
+!------------------------------!
+¡Estás aquí!
+¡Te estaba buscando!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+!------------------------------!
+Hein ?
+!------------------------------!
+Hm?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que demorou?!
+Já preparei tudo!
+!------------------------------!
+T'as pris tout ton temps, ma parole !
+Tout est déjà prêt !
+!------------------------------!
+Was hat euch so lang aufgehalten!?
+Ich hab schon alles vorbereitet!
+!------------------------------!
+Perché ci hai messo tanto?
+Ho preparato tutto da un pezzo!
+!------------------------------!
+¿Por qué has tardado tanto?
+¡Lo tengo todo preparado!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos, mãos à obra.
+Você quer ser um herói
+e isso leva tempo.
+!------------------------------!
+Allez hop, au travail ! Si tu veux
+devenir un héros, il va falloir t'y
+mettre sans plus tarder.
+!------------------------------!
+Na los, fang an. Wenn du ein Held
+sein willst, musst du so schnell
+wie möglich beginnen.
+!------------------------------!
+Forza, seguimi.
+Per diventare un eroe
+serve molto tempo.
+!------------------------------!
+Vamos, manos a la obra.
+Quieres ser un héroe,
+y eso lleva su tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O quê? Mas eu estou<E2><80><95>
+!------------------------------!
+Hein ?
+Mais je suis...
+!------------------------------!
+Wa...? Aber ich bin ...
+!------------------------------!
+Che cosa? Ma io sono...
+!------------------------------!
+¿Qué? Pero si he venido a...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aqui pra treiar, eu sei!
+Enconomize saliva, filho.
+Você vai precisar.
+!------------------------------!
+Là pour t'entraîner, oui je sais !
+Gaspille pas ton énergie, petit.
+Tu vas en avoir besoin.
+!------------------------------!
+Hier zum Trainieren, ich weiß!
+Spar dir den Atem, Kleiner.
+!------------------------------!
+Sei qui per allenarti, lo so!
+Risparmia il fiato, ragazzo.
+Ti servirà!
+!------------------------------!
+¡Aquí a entrenar, ya lo sé!
+Chico, guarda tu aliento. Lo vas
+a necesitar.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aliás, belos golpes lá, hein.
+Herc me disse que você tinha 
+potencial.
+!------------------------------!
+C'était un beau combat, ma poule !
+Herc m'avait bien dit que tu avais
+du potentiel.
+!------------------------------!
+Ach übrigens, guter Kampf.
+Herc hat gesagt, du hättest
+Potenzial.
+!------------------------------!
+Belle mosse, comunque.
+Ercole aveva ragione: sei
+molto promettente.
+!------------------------------!
+Por cierto, bonitas llaves ésas.
+Herc ya me ha hablado de tu
+potencial.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tenho que tirar o chapéu, ele tem
+um bom olho para grandes promessas!
+Eu não treino qualquer um, sabe.
+!------------------------------!
+Une chose est sûre : Herc a du flair
+pour dénicher la perle rare ! Il sait
+que je n'entraîne pas n'importe qui.
+!------------------------------!
+Das muss man ihm lassen,
+er hat ein Auge für Talente!
+Ich unterrichte nicht jeden.
+!------------------------------!
+Erc ha un certo fiuto per
+i talenti come te! Sai, io
+non addestro cani e porci.
+!------------------------------!
+Agradéceselo a él, tiene vista
+para los talentos. Yo no le
+enseño a cualquiera, lo sabes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espero que tenha vindo pronto pra
+suar, filho!
+!------------------------------!
+Alors j'espère que t'es prêt à
+transpirer, petit !
+!------------------------------!
+Ich hoffe, du bist bereit
+zu schwitzen!
+!------------------------------!
+Spero tu sia pronto a
+sudare parecchio, ragazzo!
+!------------------------------!
+¡Espero que vengas a sudar,
+chico!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã...? Não!
+Acho que você está se confundindo.
+Xigbar, diz pra ele<E2><80><95>
+!------------------------------!
+Hein ? Non...
+Je crois qu'il y a erreur sur
+la personne. Xigbar, dis-lui...
+!------------------------------!
+Ähm, nein!?
+Ich glaube, du verwechselst mich.
+Xigbar, sag's ihm ...
+!------------------------------!
+Uhm, no?
+Credo tu abbia sbagliato
+persona. Xigbar, diglielo tu...
+!------------------------------!
+Um, ¡no!
+Creo que te equivocas de chico.
+Xigbar, díselo tú...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xigbar?!
+Onde você...
+!------------------------------!
+Xigbar ?
+Où es-tu...
+!------------------------------!
+Xigbar!?
+Wo hast du ...
+!------------------------------!
+Xigbar?!
+Dove sei...
+!------------------------------!
+¡¿Xigbar?!
+¿Dónde...?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você é melhor na luta do que na
+postura, filho. Dê atenção para
+o que já sabe. Qual seu nome?
+!------------------------------!
+Qu'est-ce que tu me fais, là ? Un sketch
+de comique ? T'es pas là pour ça, je te
+rappelle. Au fait, c'est quoi ton nom ?
+!------------------------------!
+Dein Kampfstil ist besser als deine
+Witze. Konzentrier dich.
+Hast du auch einen Namen?
+!------------------------------!
+La tua tecnica è molto meglio
+della tua postura, ragazzo.
+Hai un nome, comunque?
+!------------------------------!
+Estás mejor luchando que
+plantado, chico. Atente a lo
+que sabes. ¿Cómo te llamas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um, Roxas.
+!------------------------------!
+Roxas.
+!------------------------------!
+Äh, R-Roxas.
+!------------------------------!
+Uhm, Roxas.
+!------------------------------!
+Um, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá, Roxas. Tenho que verificar
+os equipamentos de treino.
+!------------------------------!
+OK, Roxas. Je vais aller vérifier
+une dernière fois que tout est
+en place pour l'entraînement.
+!------------------------------!
+Okay, Roxas. Ich muss das
+Trainingsgerät auf Herz und
+Nieren prüfen.
+!------------------------------!
+Bene, Roxas. Ora devo andare
+a controllare l'attrezzatura
+per l'addestramento.
+!------------------------------!
+Bien, Roxas. Entro a revisar
+el equipo de entrenamiento.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Me encontre no Coliseu quando tiver
+pronto<E2><80><95>e não leve o dia inteiro!
+!------------------------------!
+Retrouve-moi dans le Colisée quand
+tu seras prêt. Et ne traîne pas en
+chemin !
+!------------------------------!
+Triff mich in der Arena, wenn
+du bereit bist ... aber lass dir
+nicht den ganzen Tag Zeit.
+!------------------------------!
+Vieni a trovarmi allo stadio,
+quando sei pronto. Ma non
+metterci tutto il giorno, eh!
+!------------------------------!
+Ven a verme al Coliseo cuando
+estés listo. Y no tardes todo
+el día.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Que isso, hein, Roxas.
+Fazendo um bico como promessa
+de herói agora?
+!------------------------------!
+Alors, Roxas.
+On joue au héros en herbe
+maintenant ?
+!------------------------------!
+Wow, Roxas.
+Wirst du jetzt zum Möchtegernhelden?
+!------------------------------!
+Ehi, Roxas.
+Ora sogni di diventare un eroe?
+!------------------------------!
+Guau, Roxas.
+¿Ahora te pluriempleas como
+aspirante a héroe?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xigbar!
+Por que você me deixou
+nesta situação?
+!------------------------------!
+Xigbar ! Pourquoi est-ce que tu
+m'as laissé tout seul ?
+!------------------------------!
+Xigbar!
+Warum hast du mich einfach so
+verlassen?
+!------------------------------!
+Xigbar!
+Perché mi hai piantato
+in asso in quel modo?!
+!------------------------------!
+¡Xigbar!
+¿Cómo es que me dejas así?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pra se esconder, dã!
+Se você se esqueceu, a Ordem
+comanda uma operação secreta.
+!------------------------------!
+Pour me cacher, tiens ! Au cas où tu
+l'aurais oublié, l'Organisation est ici
+incognito.
+!------------------------------!
+Um mich zu verstecken! Ob du's
+glaubst oder nicht, die Organisation
+führt eine Geheimoperation durch.
+!------------------------------!
+Per andare a nascondermi!
+Forse l'hai dimenticato, ma
+dobbiamo agire segretamente.
+!------------------------------!
+¡Para esconderme, no te joroba!
+Por si lo has olvidado, la
+Organización es secreta.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, sim, mas...
+!------------------------------!
+Oui, mais...
+!------------------------------!
+Tja, ja, aber ...
+!------------------------------!
+Beh, sì, ma...
+!------------------------------!
+Bueno, sí, pero...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Até porque, isso funcionou
+muito bem, não acha?
+!------------------------------!
+En tout cas, ça a fonctionné à
+merveille, tu ne trouves pas ?
+!------------------------------!
+Hat doch wunderbar funktioniert,
+oder nicht?
+!------------------------------!
+Comunque è andato tutto
+per il meglio, non credi?
+!------------------------------!
+Aun así, ha funcionado bastante
+bien, ¿no te parece?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que acha isso?
+!------------------------------!
+Comment ça ?
+!------------------------------!
+Wie kommst du darauf?
+!------------------------------!
+Perché?
+!------------------------------!
+¿Y eso cómo lo sabes?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não precisa ficar se escondendo
+por aí agora que é um deles.
+!------------------------------!
+Ce n'est plus la peine de faire profil
+bas maintenant que tu es l'un des
+leurs.
+!------------------------------!
+Du musst hier nicht so
+rumschleichen, jetzt wo du
+einer von ihnen bist.
+!------------------------------!
+Non devi più muoverti
+furtivamente,
+ora che sei uno di loro.
+!------------------------------!
+No tienes que ir por ahí
+escondido ahora que eres
+uno de ellos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tenho certeza que você será a melhor
+promessa que herói que já tiveram.
+!------------------------------!
+Je suis sûr que tu seras le meilleur
+héros en herbe qu'ils aient jamais
+vu.
+!------------------------------!
+Ich bin sicher, du wirst der beste
+Möchtegernheld, den wir je hatten.
+!------------------------------!
+Scommetto che diventerai l'eroe
+in erba più forte che abbiano
+mai avuto.
+!------------------------------!
+Seguro que serás el mejor
+aspirante a héroe que hayan
+tenido nunca.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Promessa?
+O que quer dizer?
+!------------------------------!
+Héros en herbe ?
+Qu'est-ce que tu veux dire par là ?
+!------------------------------!
+Möchtegern?
+Was soll das heißen?
+!------------------------------!
+In erba?
+In che senso?
+!------------------------------!
+¿Aspirante?
+¿Y qué se supone que significa?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He, o que será?
+!------------------------------!
+Oui, quoi donc ?
+!------------------------------!
+Ha, genau, was heisst es?
+!------------------------------!
+Eh, ti piacerebbe saperlo?
+!------------------------------!
+Je. Ni idea.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, você está me deixando aqui só?
+!------------------------------!
+Tu vas encore m'abandonner,
+c'est ça ?
+!------------------------------!
+Hey, lässt du mich etwa allein?
+!------------------------------!
+Ehi, hai intenzione di
+abbandonarmi di nuovo?
+!------------------------------!
+Eh, ¿me sacas de ésta?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Até parece. Só não quero atrapalhar
+seu precioso treino. Me preocupo
+com seu futuro, Roxas.
+!------------------------------!
+Mais non. Simplement, je ne veux pas
+perturber ton entraînement. Je me
+soucie de ton avenir, Roxas.
+!------------------------------!
+Von wegen. Ich will dich nur in Ruhe
+trainieren lassen. Deine Zukunft
+ist mir wichtig, Roxas.
+!------------------------------!
+No, ma non voglio interferire
+con il tuo addestramento.
+Ci tengo al tuo futuro, Roxas.
+!------------------------------!
+Ni hablar. No quiero interferir
+con tu valioso entrenamiento. Me
+preocupa tu futuro, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xi.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Argh, tudo bem.
+Vou cuidar disso eu mesmo.
+!------------------------------!
+OK, j'ai compris...
+Je vais me débrouiller tout seul.
+!------------------------------!
+Urgs, na gut.
+Ich mach das schon.
+!------------------------------!
+Ugh, va bene.
+Me la caverò da solo.
+!------------------------------!
+Ugh, muy bien.
+Ya me las arreglaré yo solito.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Devo fazer um recon aqui antes
+de ir para o Coliseu.
+!------------------------------!
+Je devrais inspecter les lieux avant
+d'entrer dans le Colisée.
+!------------------------------!
+Ich sollte mich erst ein wenig
+umsehen, bevor ich in die Arena
+gehe.
+!------------------------------!
+Dovrei perlustrare un po' la
+zona, prima di entrare nello
+stadio.
+!------------------------------!
+Tendría que hacer algún recono-
+cimiento por aquí, antes de
+dirigirme al Coliseo.
+!------------------------------!
+!******************************!

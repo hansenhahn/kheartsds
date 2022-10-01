@@ -1,0 +1,274 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:13
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ch/5F.z
+!******************************!
+&.[HDR].2&
+mi/ch/60.z
+!******************************!
+&.[HDR].2&
+mi/ch/61.z
+!******************************!
+&.[HDR].2&
+mi/ob/9C.z
+!******************************!
+&.[HDR].2&
+mi/ob/9D.z
+!******************************!
+&.[HDR].2&
+mi/ob/9E.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[HDR].2&
+mi/ch/1C.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[HDR].2&
+mi/ob/61.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Cacete!
+!------------------------------!
+Ahhhh !
+!------------------------------!
+Iiiieeeek!
+!------------------------------!
+Accidenti!
+!------------------------------!
+¡Ahí va!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Malditos Heartless, insistem 
+em ficar no meu caminho!
+!------------------------------!
+Maudits Sans-cœur !
+Encore en travers de mon chemin !
+!------------------------------!
+Elender Herzloser! Schon wieder
+stellst du dich mir in den Weg!
+!------------------------------!
+Dannati Heartless, perché
+non volete lasciarmi in pace?!
+!------------------------------!
+¡Sincorazón sarnosos! ¡No dejáis
+de cruzaros en mi camino!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sabe o que fazer, Barrica.
+Corra!
+!------------------------------!
+Fuyons, Mouche !
+!------------------------------!
+Du weißt, was jetzt zu tun ist,
+Smee. Lauf!
+!------------------------------!
+Sai cosa fare, Spugna.
+Scappa!
+!------------------------------!
+¡Ya sabe qué hacer, Smee!
+¡Corra!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Como sempre, Capitão!
+!------------------------------!
+Comme toujours, Capitaine !
+!------------------------------!
+Wie immer, Käpt'n!
+!------------------------------!
+Come sempre, Capitano!
+!------------------------------!
+¡Como siempre, capitán!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Light01
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+'Tão é tu que tá por aí 'cabando 
+com meus Heartless!
+!------------------------------!
+Alors c'est toi qui t'amuses à
+éliminer mes Sans-cœur !
+!------------------------------!
+Du warst es also, der meine
+Herzlosen vernichtet hat!
+!------------------------------!
+Allora sei tu il guastafeste
+che elimina i miei Heartless!
+!------------------------------!
+¡Así que eres tú el que ha ido
+acabando con mis sincorazón!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+O que VOCÊ está fazendo aqui?
+!------------------------------!
+Hein ?
+Qu'est-ce que vous faites là ?
+!------------------------------!
+Nanu?
+Was machst DU denn hier?
+!------------------------------!
+Uh?
+E TU che ci fai qui?
+!------------------------------!
+¿Eh?
+¿Qué haces tú aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Escuta, meu chapa, ninguém mexe com o 
+exército particular do Pete e se safa 
+assim. E isso inclui tu também!
+!------------------------------!
+Personne ne s'oppose à la milice
+de Pat Hibulaire sans y laisser
+des plumes !
+!------------------------------!
+Hör zu, Kollege, niemand legt sich
+ungeschoren mit Karlos
+Privatarmee an ... auch du nicht!
+!------------------------------!
+Ascolta, amico, nessuno interferisce
+con l'esercito personale di Pietro
+e la passa liscia: tu incluso!
+!------------------------------!
+¡Nadie se la juega al ejército
+privado de Pete y se sale con
+la suya! ¡Y tú menos!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora meu novo Heartless gigante
+vai te mandar direto pelos ares!
+!------------------------------!
+Mon nouveau Sans-cœur géant
+va te donner une bonne leçon !
+!------------------------------!
+Mein neuer riesieger Herzloser
+wird dich jetzt vom Himmel holen!
+!------------------------------!
+Ora il mio nuovo Heartless gigante
+ti farà sparire dalla circolazione!
+!------------------------------!
+¡Mi nuevo sincorazón gigante
+te va a borrar del firmamento!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos ver se gosta disso!
+!------------------------------!
+Voyons si tu la retiendras !
+!------------------------------!
+Mal sehen, wie dir das gefällt!
+!------------------------------!
+Buon divertimento!
+!------------------------------!
+¡Veamos si te gusta esto!
+!------------------------------!
+!******************************!

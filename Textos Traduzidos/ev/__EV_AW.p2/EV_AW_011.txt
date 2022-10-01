@@ -1,0 +1,233 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:10
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Perdeu algo?
+!------------------------------!
+Vous avez perdu quelque chose ?
+!------------------------------!
+Habt ihr etwas verloren?
+!------------------------------!
+Perso qualcosa?
+!------------------------------!
+¿Has perdido algo?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã? Quem está aí?!
+!------------------------------!
+Hein ? Qui est là ?
+!------------------------------!
+Huch? Wer ist da!?
+!------------------------------!
+Uh? Chi è là?
+!------------------------------!
+¿Eh? ¿Quién hay ahí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quem será?
+!------------------------------!
+Mais oui, qui donc ?
+!------------------------------!
+Allerdings, wer?
+!------------------------------!
+Chi?
+!------------------------------!
+Sí, ¿quién?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uhh... um gato?
+!------------------------------!
+C'est... un chat ?
+!------------------------------!
+Ähh ... eine Katze?
+!------------------------------!
+Uh... Un gatto?
+!------------------------------!
+Eh... ¿Un gato?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Gato Risonho, se não se importa.
+Ou se importa.
+!------------------------------!
+Hmm... un Chat de Cheshire pour
+être tout à fait exact. Ou pas.
+!------------------------------!
+Eine Tiger-Katze bitte.
+!------------------------------!
+Uno Stregatto, se ti pare.
+O anche se non ti pare.
+!------------------------------!
+Un Gato Risón, si no te importa.
+De hecho, aunque te importe.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quer alguma coisa?
+!------------------------------!
+Vous aviez quelque chose de précis
+à nous dire ?
+!------------------------------!
+Willst du damit irgendwas sagen?
+!------------------------------!
+Un punto per te?
+!------------------------------!
+¿Quieres algo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, claro.
+Mas também posso não querer nada.
+O que prefere?
+!------------------------------!
+Oui, bien sûr...
+Ou peut-être pas !
+Que préférez-vous ?
+!------------------------------!
+Ja, natürlich.
+Aber dann auch wieder nicht.
+Was ist dir lieber?
+!------------------------------!
+Sì, certamente.
+Ma anche nessuno.
+Che cosa preferisci?
+!------------------------------!
+Sí, por supuesto. Pero también
+puede que no quiera nada.
+¿Qué prefieres?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu... eu que faço as perguntas aqui!
+!------------------------------!
+C'est... c'est moi qui pose les
+questions !
+!------------------------------!
+Ich ... Ich stelle hier die Fragen!
+!------------------------------!
+Q-qui sono io a fare le domande!
+!------------------------------!
+Yo... ¡yo soy quien hace las
+preguntas aquí!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pois bem, pergunte então...
+Claro, as respostas podem ser um
+pouco difíceis de se achar...
+!------------------------------!
+Alors posez-les donc... Mais sachez
+que les réponses pourraient être
+difficiles à trouver...
+!------------------------------!
+Dann schieß los ...
+Die Antworten könnten allerdings
+schwer zu finden sein ...
+!------------------------------!
+Beh, allora falle...
+Ovviamente, trovare le risposte
+potrebbe essere piuttosto difficile...
+!------------------------------!
+Bueno, pregunta entonces...
+Aunque, claro, las respuestas
+no serán fáciles de hallar...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que foi isso?
+!------------------------------!
+Hein ? J'ai rien compris...
+!------------------------------!
+Was sollte das?
+!------------------------------!
+Si può sapere chi era quello?!
+!------------------------------!
+¿De qué iba esto?
+!------------------------------!
+!******************************!

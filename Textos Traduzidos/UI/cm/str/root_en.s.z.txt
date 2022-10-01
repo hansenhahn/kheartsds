@@ -1,118 +1,73 @@
-PÁGINA %d/%d
+MissÃµes
 !******************************!
-Controles Básicos
+Holo-MissÃµes
 !******************************!
-O Mapa
+Paineis
 !******************************!
-Como Salvar
+Organizador
 !******************************!
-Escolhendo uma Missão
+Config
 !******************************!
-Áreas Bloqueadas
+Salvar
 !******************************!
-Alcançando Lugares Altos
+Tela de TÃ­tulo
 !******************************!
-Ajustando a Câmera
+Escolha do menu.
 !******************************!
-Baús do Tesouro
+Encarregue-se de uma missÃ£o.
 !******************************!
-A mochila
+Personalize arranjos de paineis
+ou veja seu estoque.
 !******************************!
-VAC
+Embarque em uma Holo-MissÃ£o.
 !******************************!
-Serviços da Loja
+Mude as configuraÃ§Ãµes do jogo.
 !******************************!
-Medalhas de Desafio e de Provação
+Leia o diÃ¡rio do Roxas e
+o perfil dos inimigo.
 !******************************!
-Painéis
+Leia o diÃ¡rio do Roxas.
 !******************************!
-Instalando Painéis
+Leia o perfil dos inimigos.
 !******************************!
-Brindes
+Reveja os tutoriais.
 !******************************!
-Ataques Comuns
+Salve o progresso do jogo.
 !******************************!
-Prêmios
+Volte Ã  Tela de TÃ­tulo.
+Progressos nÃ£o salvos serÃ£o perdidos.
 !******************************!
-Mirando
+Enfrente as missÃµes que o SaÃ¯x
+originalmente designou a vocÃª.
 !******************************!
-Pontos de Coração
+Ponha restriÃ§Ãµes a missÃµes normais
+para um desafio maior.
+(Inimigos sÃ£o mais fortes tambÃ©m.)
 !******************************!
-Encadear
+Volte ao menu principal.
 !******************************!
-Objetivos da Missão
+Sair do jogo e voltar Ã  Tela de TÃ­tulo?
 !******************************!
-O Medidor da Missão
+Aperte <ST><AR><T> para se juntar.
 !******************************!
-Quebra de Limites
+Escolha uma missÃ£o.
 !******************************!
-Magia
+Aperte <B> para desistir.
 !******************************!
-Itens de Recuperação
+Esperando outros jogadores...
 !******************************!
-Atalhos
+Aperte <ST><AR><T> para comeÃ§ar.
 !******************************!
-Recon-Missões
+O dono estÃ¡ escolhendo a missÃ£o...
 !******************************!
-Missões Obrigatórias
+Erro de comunicaÃ§Ã£o.
 !******************************!
-Holo-Missões
+Compre e venda paineis na
+Loja do Moogle.
 !******************************!
-O Menu das Holo-Missões
+Troque de personagem.
 !******************************!
-Emblemas da Ordem
+Mude as regras do Modo MissÃ£o.
 !******************************!
-Painéis de Ligação
-!******************************!
-Medalhas de Missão
-!******************************!
-Juntando Meio
-!******************************!
-Pontos da Missão
-!******************************!
-Procurando Alvos
-!******************************!
-Auto-Planar
-!******************************!
-Caça ao Tesouro
-!******************************!
-Sair de Vista
-!******************************!
-O Treino de Phil
-!******************************!
-Aprimorando Habilidades
-!******************************!
-Performance
-!******************************!
-Equipando uma Arma
-!******************************!
-Ligando Painéis
-!******************************!
-Guardando e Reavendo Conjuntos
-!******************************!
-Painéis de Anel
-!******************************!
-Destravando Espaços
-!******************************!
-Posições
-!******************************!
-O Medidor do Bônus
-!******************************!
-Ligações de Nível
-!******************************!
-Expandindo sua Mochila
-!******************************!
-Tipos de Controle
-!******************************!
-A Loja do Moogle
-!******************************!
-Novas da Loja
-!******************************!
-Caçando Heartless
-!******************************!
-Aprimorando Quebras de Limite
-!******************************!
-Usando Magia em Missões
-!******************************!
-Modo VAC
+Aguarde pela sua missÃ£o...
 !******************************!

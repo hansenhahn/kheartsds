@@ -1,5 +1,0 @@
-b0
-cmp
-score
-tex0
-_i

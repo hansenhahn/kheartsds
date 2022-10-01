@@ -1,0 +1,97 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:19
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/43.z
+!******************************!
+&.[HDR].2&
+1:80
+!******************************!
+&.[HDR].2&
+1:90
+!******************************!
+&.[HDR].2&
+mi/ob/29.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei...
+O que acha?
+!------------------------------!
+Hé...
+Regarde ça !
+!------------------------------!
+Hey ...
+Was hältst du davon?
+!------------------------------!
+Ehi...
+Guarda un po' qui.
+!------------------------------!
+Hey...
+¿Qué te parece esto?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem um buraco aqui...
+Parece que é para encaixar algo aí.
+!------------------------------!
+Un trou... On dirait qu'on
+peut y placer quelque chose.
+!------------------------------!
+Da ist ein Loch ...
+Sieht aus, als sollte da
+etwas hineinpassen.
+!------------------------------!
+C'è una cavità...
+Sembra fatta apposta per
+inserire qualcosa.
+!------------------------------!
+Aquí hay un agujero...
+Como si sirviera para meter
+algo dentro.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hunh, parece do mesmo tamanho
+da jóia que encontrei.
+!------------------------------!
+Il est à peu près de la même
+taille que la pierre qu'on a
+trouvée...
+!------------------------------!
+Hat ungefähr die gleiche Größe
+wie dieser Edelstein ...
+!------------------------------!
+Uh, ha la stessa dimensione
+della gemma che ho trovato.
+!------------------------------!
+Mmm, parece del mismo tamaño que
+la gema que he encontrado.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!

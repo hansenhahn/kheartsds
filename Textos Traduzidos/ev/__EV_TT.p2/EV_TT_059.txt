@@ -1,0 +1,383 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+2:9
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0A.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem algum macete para isso?
+!------------------------------!
+Comment dois-je faire pour récupérer
+des cœurs ?
+!------------------------------!
+Gibt's da 'nen Trick?
+!------------------------------!
+C'è qualche trucco
+per farlo?
+!------------------------------!
+¿Y cómo los recojo?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não. Quando os Heartless são
+derrotados pela sua Keyblade,
+os corações são capturados.
+!------------------------------!
+Il te suffit de frapper les Sans-cœur
+avec ton arme, la Keyblade.
+!------------------------------!
+Nein. Wenn du die Herzlosen
+mit dem Schlüsselschwert besiegst,
+sammelt es die Herzen automatisch.
+!------------------------------!
+Nessuno. Se gli Heartless
+vengono sconfitti con il
+Keyblade, otterrai i cuori.
+!------------------------------!
+Lo único que has de hacer es
+golpear a los sincorazón con tu
+arma, la llave espada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sei. E o que acontecer com 
+os corações que coleto?
+!------------------------------!
+Et qu'arrive-t-il aux cœurs ensuite ?
+!------------------------------!
+Verstehe. Und was passiert
+mit den Herzen, die ich sammle?
+!------------------------------!
+Capisco. E che succede
+a questi cuori?
+!------------------------------!
+¿Y qué les pasa a los corazones?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eles se reúnem em um, e criam a
+força onipotente conhecida como 
+Kingdom Hearts.
+!------------------------------!
+Ils partent rejoindre les autres à
+Kingdom Hearts.
+!------------------------------!
+Sie schließen sich zusammen
+und erschaffen eine allmächtige
+Kraft: Kingdom Hearts.
+!------------------------------!
+Si uniranno tutti assieme,
+creando l'incredibile forza
+nota come Kingdom Hearts.
+!------------------------------!
+Se reúnen con los demás en
+Kingdom Hearts.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que é... bom, né?
+!------------------------------!
+Mais à quoi ça sert ?
+!------------------------------!
+Und das ist ... gut, oder?
+!------------------------------!
+Ed è una cosa buona,
+giusto?
+!------------------------------!
+No acabo de entenderlo...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Completar Kingdom Hearts é o
+principal objetivo da Ordem.
+!------------------------------!
+L'objectif principal de l'Organisation
+est de compléter Kingdom Hearts.
+!------------------------------!
+Kingdom Hearts zu komplettieren
+ist das Hauptziel der Organisation.
+!------------------------------!
+Il completamento dei Kingdom
+Hearts è l'obiettivo primario
+dell'Organizzazione.
+!------------------------------!
+El principal objetivo de la
+Organización es completar
+Kingdom Hearts.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E para isso, precisamos de 
+todos os corações possíveis.
+!------------------------------!
+Et pour cela, il nous faut un grand
+nombre de cœurs.
+!------------------------------!
+Und dafür brauchen wir
+so viele Herzen wie möglich.
+!------------------------------!
+E per farlo ci servono tutti
+i cuori che riusciamo a
+trovare.
+!------------------------------!
+Y para hacerlo necesitamos
+muchos corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então é isso que a Ordem faz?
+Coletar corações?
+!------------------------------!
+C'est ça que fait l'Organisation ?
+Récupérer des cœurs ?
+!------------------------------!
+Das ist es, was die Organisation
+macht? Herzen sammeln?
+!------------------------------!
+È questo che fa
+l'Organizzazione?
+Raccoglie cuori?
+!------------------------------!
+Entonces, ¿esto es lo que hace la
+Organización? ¿Recoger corazones?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Na verdade, você é o primeiro 
+de nós a conseguir isso.
+!------------------------------!
+Seule ta Keyblade peut y parvenir.
+!------------------------------!
+Du bist der Erste der Organisation,
+der das kann.
+!------------------------------!
+In realtà sei il primo
+a esserci riuscito.
+!------------------------------!
+Tu llave espada es lo único que
+puede conseguirlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espera, então...
+!------------------------------!
+Ah bon ?
+!------------------------------!
+Moment mal, dann ...
+!------------------------------!
+Ma allora...
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Todos podemos derrotar Heartless,
+mas não temos como coletar os
+corações que são liberados.
+!------------------------------!
+Nous autres, nous pouvons vaincre les
+Sans-cœur, mais nous ne sommes pas
+en mesure de ramasser des cœurs.
+!------------------------------!
+Wir anderen können auch Herzlose
+besiegen, aber wir können keine
+Herzen einsammeln.
+!------------------------------!
+Noi possiamo sconfiggere gli
+Heartless, ma non raccogliere
+i cuori che rilasciano.
+!------------------------------!
+Todos podemos derrotar a los
+sincorazón, pero no tenemos
+forma de recoger sus corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Depois de um tempo, os corações
+voltarão direto aos Heartless.
+!------------------------------!
+Et au bout d'un moment, les cœurs se
+changent de nouveau en Sans-cœur.
+!------------------------------!
+Nach einer gewissen Zeit verwandeln
+sich die Herzen wieder in Herzlose.
+!------------------------------!
+Dopo un po', i cuori tornano
+a essere degli Heartless.
+!------------------------------!
+Y con el tiempo, acabarían
+regresando a un sincorazón.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Percebe agora o quão especial você é?
+!------------------------------!
+Comprends-tu maintenant pourquoi tu
+es spécial ?
+!------------------------------!
+Verstehst du jetzt,
+wie besonders du bist?
+!------------------------------!
+Ora capisci quanto sei
+speciale?
+!------------------------------!
+¿Entiendes ahora por qué
+eres especial?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...
+!------------------------------!
+Hmm...
+!------------------------------!
+Hm ...
+!------------------------------!
+Mmm...
+!------------------------------!
+Mmm...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Com um poder como o seu<E2><80><95>
+!------------------------------!
+Avec un pouvoir comme le tien, je...
+!------------------------------!
+Mit Kräften wie deinen ...
+!------------------------------!
+Con un potere come il tuo...
+!------------------------------!
+Con poderes como los tuyos...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He. Lá estão mais alguns.
+Cada um é um presente, Roxas. 
+Tire até o último coração deles!
+!------------------------------!
+En voilà d'autres ! Chacun d'eux est
+une bénédiction, Roxas. Arrache-leur
+tous les cœurs possibles !
+!------------------------------!
+He. Da kommen noch mehr.
+Jeder ist ein Geschenk, Roxas.
+Hol alle Herzen aus ihnen heraus.
+!------------------------------!
+Ah. Eccone altri.
+Ognuno di essi è un dono,
+Roxas. Prendi tutti i loro cuori!
+!------------------------------!
+Mira, aquí vienen más.
+Cada uno es un regalo, Roxas.
+¡Quítales los corazones!
+!------------------------------!
+!******************************!

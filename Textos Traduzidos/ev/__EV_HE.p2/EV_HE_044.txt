@@ -1,0 +1,348 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso aí, Roxas!
+É disso que eu gosto de ver!
+!------------------------------!
+Hourra ! Bien joué, Roxas !
+C'est magnifique !
+!------------------------------!
+Guter Junge, Roxas!
+Genau das will ich sehen!
+!------------------------------!
+Bene, Roxas!
+Così mi piaci!
+!------------------------------!
+¡Venga, Roxas!
+¡Esto es lo que quiero ver!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você deve ter se dedicado ao seu
+treinamento enquanto esteve fora.
+Pode acreditar, filho, dá pra notar.
+!------------------------------!
+Tu t'es entraîné de ton côté,
+hein ? Je t'assure que ça se
+voit, petit.
+!------------------------------!
+Du hast während deiner
+Abwesenheit trainiert, was?
+Das sieht man.
+!------------------------------!
+Devi aver continuato ad allenarti anche
+se non venivi più qui. Si vede,
+ragazzo, credimi.
+!------------------------------!
+¿Has seguido entrenando mientras
+estabas fuera? Créeme, chico,
+se nota.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Continue praticando e você vai ficar
+muito mais forte.
+!------------------------------!
+Continue comme ça et tu deviendras
+fort comme un lion.
+!------------------------------!
+Mach weiter so und du wirst
+noch viel stärker.
+!------------------------------!
+Continua ad allenarti e diventerai
+ancora più forte.
+!------------------------------!
+Sigue así y te pondrás
+mucho más fuerte.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tudo bem.
+!------------------------------!
+C'est promis.
+!------------------------------!
+Werd ich.
+!------------------------------!
+Lo farò.
+!------------------------------!
+Lo haré.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ótimo. Agora tenho que voltar pra
+dentro e me preparar pra próxima
+partida, mas, uh...
+!------------------------------!
+Il faut que je retourne à l'intérieur
+pour préparer le prochain match,
+mais euh...
+!------------------------------!
+Ich muss wieder rein, um mich
+auf den nächsten Kampf
+vorzubereiten, aber, äh ...
+!------------------------------!
+Bene. Ora devo tornare dentro per
+prepararmi al prossimo incontro,
+ma... uh...
+!------------------------------!
+Tengo que volver adentro para
+prepararme para el siguiente
+combate, pero, esto...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O quê?
+!------------------------------!
+Quoi ?
+!------------------------------!
+Was ist?
+!------------------------------!
+Che c'è?
+!------------------------------!
+¿Qué?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nada, nada.
+!------------------------------!
+Rien, rien.
+!------------------------------!
+Nichts, nichts.
+!------------------------------!
+Niente, niente.
+!------------------------------!
+Nada, nada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, tudo bem então...
+Estou indo.
+!------------------------------!
+Bon, eh bien...
+je vais devoir y aller.
+!------------------------------!
+Okay, dann ist ja alles klar ...
+Ich werd dann mal gehen ...
+!------------------------------!
+Oh, bene...
+Ora devo andare.
+!------------------------------!
+Bueno, pues nada.
+Tengo que irme ya.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, Roxas...
+!------------------------------!
+Au fait, Roxas...
+!------------------------------!
+Hey, Roxas ...
+!------------------------------!
+Ehi, Roxas...
+!------------------------------!
+Eh, Roxas...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oi?
+!------------------------------!
+Oui ?
+!------------------------------!
+Ja?
+!------------------------------!
+Sì?
+!------------------------------!
+¿Sí?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Volte quando quiser.
+!------------------------------!
+Ne me laisse pas tomber.
+!------------------------------!
+Schau öfter mal vorbei.
+!------------------------------!
+Torna pure quando vuoi.
+!------------------------------!
+No te hagas caro de ver.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quê, ele quer que eu volte?
+Pra quê? Mais treino?
+!------------------------------!
+Quoi, il veut que je revienne ?
+Pour m'entraîner encore plus ?
+!------------------------------!
+Ich soll öfter wiederkommen?
+Wofür? Mehr Training?
+!------------------------------!
+Che cosa? Mi ha invitato a tornare?
+Per quale motivo? Vuole
+addestrarmi ancora?
+!------------------------------!
+¿Qué? ¿Quiere que vuelva?
+¿Para qué? ¿A entrenar más?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hunh, estranho.
+Bem, a missão está encerrada.
+!------------------------------!
+Bizarre...
+Bon, mission accomplie !
+!------------------------------!
+Hmm, komisch.
+Na ja, die Mission ist jedenfalls
+erledigt.
+!------------------------------!
+Mmm, strano.
+Beh, qui la mia missione è finita.
+!------------------------------!
+Mmm, qué raro.
+Bueno, la misión está terminada.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hora de me juntar ao Axel e ver
+se podemos encontrar Xion.
+!------------------------------!
+C'est le moment de rejoindre Axel
+et d'essayer de trouver Xion.
+!------------------------------!
+Zeit, mir Axel zu schnappen
+und zu versuchen, Xion zu finden.
+!------------------------------!
+Ora devo raggiungere Axel e
+andare a cercare Xion insieme
+a lui.
+!------------------------------!
+Es hora de recoger a Axel y ver
+si damos con Xion.
+!------------------------------!
+!******************************!

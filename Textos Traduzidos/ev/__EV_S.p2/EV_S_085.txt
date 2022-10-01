@@ -1,0 +1,793 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Where's Xion?
+!------------------------------!
+Où est Xion ?
+!------------------------------!
+Wo ist Xion?
+!------------------------------!
+Dov'è Xion?
+!------------------------------!
+¿Dónde está Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Haven't seen her today, either.
+!------------------------------!
+Je ne l'ai pas vue aujourd'hui.
+!------------------------------!
+Hab sie heute auch nicht
+gesehen.
+!------------------------------!
+Non l'ho vista neanche oggi.
+!------------------------------!
+Hoy tampoco la he visto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh well.
+!------------------------------!
+Ah...
+!------------------------------!
+Oh.
+!------------------------------!
+Ah.
+!------------------------------!
+Ah, vale.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey, Axel...
+!------------------------------!
+Dis, Axel...
+!------------------------------!
+Hey, Axel ...
+!------------------------------!
+Ehi, Axel...
+!------------------------------!
+Oye, Axel...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Ouais ?
+!------------------------------!
+Was?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Sí?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Is there anything you couldn't bear to
+lose?
+!------------------------------!
+Est-ce qu'il y a quelque chose que
+tu ne supporterais pas de perdre ?
+!------------------------------!
+Gibt es etwas, das du auf keinen
+Fall verlieren möchtest?
+!------------------------------!
+C'è qualcosa che non vorresti
+mai perdere?
+!------------------------------!
+¿Hay algo cuya pérdida no
+podrías soportar?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+What?
+Where'd that come from?
+!------------------------------!
+Quoi ?
+D'où tu me sors ça ?
+!------------------------------!
+Was?
+Wie kommst du darauf?
+!------------------------------!
+Eh?
+Di cosa stai parlando?
+!------------------------------!
+¿Cómo?
+¿Y eso a qué viene?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I ran into somebody today, and...
+!------------------------------!
+J'ai rencontré quelqu'un aujourd'hui
+et...
+!------------------------------!
+Ich habe heute jemanden
+getroffen und ...
+!------------------------------!
+Oggi ho incontrato una
+persona, e...
+!------------------------------!
+Hoy he visto a
+alguien y...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, he had something like that.
+Something so important to him he
+couldn't bear to lose it.
+!------------------------------!
+c'était son cas. Il y avait une chose
+si importante à ses yeux qu'il n'aurait
+pas supporté de la perdre.
+!------------------------------!
+Er hatte so etwas. Etwas, das
+ihm so wichtig war, dass er es
+auf keinen Fall verlieren wollte.
+!------------------------------!
+Beh, lui non riuscirebbe mai
+a perdere una certa persona.
+Per lui è troppo importante...
+!------------------------------!
+Bueno, él tenía algo así.
+Algo tan importante que no
+soportaba perderlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why don't I have anything like that?
+!------------------------------!
+Pourquoi est-ce que je n'ai pas
+ça moi ?
+!------------------------------!
+Warum habe ich nicht auch
+so etwas?
+!------------------------------!
+Perché io non riesco a provare
+la stessa sensazione?
+!------------------------------!
+¿Por qué no tengo algo así?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Because you don't have a heart.
+!------------------------------!
+Parce que tu n'as pas de cœur.
+!------------------------------!
+Weil du kein Herz hast.
+!------------------------------!
+Perché non hai un cuore.
+!------------------------------!
+Porque no tienes corazón.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uhh, I guess...
+!------------------------------!
+Oui, c'est vrai...
+!------------------------------!
+Oh, okay ...
+!------------------------------!
+Uh, lo so...
+!------------------------------!
+Ah, ya veo... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But Demyx doesn't have a heart, and I
+bet he'd get upset if you took his sitar
+away.
+!------------------------------!
+Mais Demyx n'a pas de cœur non plus
+et je parie qu'il serait furieux si on lui
+volait son sitar.
+!------------------------------!
+Aber Demyx hat auch kein Herz
+und wäre trotzdem wütend, wenn
+man seine Sitar wegnehmen würde.
+!------------------------------!
+Ma neanche Demyx ha un cuore,
+e scommetto che non riuscirebbe
+mai a vivere senza il suo sitar.
+!------------------------------!
+Pero Demyx tampoco lo tiene
+y seguro que se enfadaría si
+le quitaras el sitar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, true, but...I don't think that's
+quite the same.
+!------------------------------!
+Hmm, c'est vrai, mais... je crois que
+ce n'est pas la même chose.
+!------------------------------!
+Hmm, stimmt, aber ... ich glaube,
+das ist nicht ganz das Gleiche.
+!------------------------------!
+Mmm, è vero, ma... non
+credo sia la stessa cosa.
+!------------------------------!
+Mmm, es cierto, pero...
+no creo que sea lo mismo.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess the closest thing we Nobodies
+have got is our past.
+!------------------------------!
+Je pense que ce qui s'en rapproche
+le plus pour nous, les Simili, c'est
+notre passé.
+!------------------------------!
+Ich glaube, das, was dem bei uns
+Niemanden am nächsten kommt,
+ist unsere Vergangenheit.
+!------------------------------!
+Penso che la cosa più importante
+per noi Nessuno... sia il nostro
+passato.
+!------------------------------!
+Supongo que lo más parecido
+que tenemos los incorpóreos
+es nuestro pasado.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You know, memories of the stuff we
+couldn't bear to lose, back when we
+couldn't bear to lose it.
+!------------------------------!
+Tu sais... le souvenir des choses que
+nous n'aurions pas pu supporter de
+perdre à l'époque où nous le pouvions.
+!------------------------------!
+Erinnerungen an Dinge, die wir
+nicht verlieren wollten, als wir
+dazu noch in der Lage waren.
+!------------------------------!
+Sai, i ricordi di ciò che non
+volevamo perdere... ma che poi
+abbiamo inevitabilmente perso.
+!------------------------------!
+Ya sabes, recuerdos que no
+queremos perder sobre cosas
+que antes no queríamos perder.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Oh...
+Too bad I don't remember MY past.
+!------------------------------!
+Ah... Dommage que je n'aie aucun
+souvenir de mon passé alors.
+!------------------------------!
+Oh ... Wie schade, dass ich
+keine Erinnerungen an MEINE
+Vergangenheit habe.
+!------------------------------!
+Oh... Peccato che io non ricordi
+nulla del MIO passato.
+!------------------------------!
+Oh... Lástima que no tenga
+recuerdos sobre mi pasado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, what about your present?
+!------------------------------!
+Mais et le présent alors ?
+!------------------------------!
+Und was ist mit der Gegenwart?
+!------------------------------!
+E del tuo presente?
+!------------------------------!
+Bueno, ¿y tu presente?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Huh?
+!------------------------------!
+Hein ?
+!------------------------------!
+Was?
+!------------------------------!
+Uh?
+!------------------------------!
+¿Eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You've got memories from here in the
+Organization, right?
+!------------------------------!
+T'as accumulé des souvenirs depuis
+que t'as rejoint l'Organisation, non ?
+!------------------------------!
+Du kannst dich doch an Dinge
+aus der Organisation erinnern,
+oder?
+!------------------------------!
+Hai accumulato dei ricordi da
+quando ti sei unito
+all'Organizzazione, no?
+!------------------------------!
+Tienes recuerdos sobre la
+Organización, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah...
+!------------------------------!
+Euh, oui...
+!------------------------------!
+Ja ...
+!------------------------------!
+Sì...
+!------------------------------!
+Sí... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I do, don't I?
+!------------------------------!
+C'est le cas, pas vrai ?
+!------------------------------!
+Kann ich doch, oder?
+!------------------------------!
+È vero!
+!------------------------------!
+Sí, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I couldn't bear to lose my memories of
+you or Xion.
+!------------------------------!
+Je ne pourrais pas supporter de
+perdre mes souvenirs de Xion et
+de toi.
+!------------------------------!
+Ich möchte meine Erinnerungen
+an dich und Xion nicht verlieren.
+!------------------------------!
+Non vorrei mai perdere i ricordi
+legati a te e Xion.
+!------------------------------!
+No soportaría perder mis
+recuerdos sobre Xion o sobre ti.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, see? There ya go.
+!------------------------------!
+Eh ben, tu vois ?
+!------------------------------!
+Siehst du? Da hast du's.
+!------------------------------!
+Visto? Sei contento adesso?
+!------------------------------!
+¿Lo ves? Ahí lo tienes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Everybody's got something they want to
+hang on to.
+!------------------------------!
+Tout le monde se raccroche à
+quelque chose.
+!------------------------------!
+Jeder hat etwas, an dem er hängt.
+!------------------------------!
+Tutti abbiamo qualcosa a cui
+teniamo tantissimo.
+!------------------------------!
+Todo el mundo tiene algo a lo
+que le gusta aferrarse.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's scary to think I could lose you
+guys.
+!------------------------------!
+Ça m'angoisse de me dire que je
+pourrais vous perdre tous les deux.
+!------------------------------!
+Es ist beängstigend daran
+zu denken, dass ich euch
+verlieren könnte.
+!------------------------------!
+Mi fa venire l'angoscia pensare che
+potrei perdervi, ragazzi.
+!------------------------------!
+Me da miedo pensar que podría
+perderos, chicos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Scary?
+Scary's a feeling, man.
+!------------------------------!
+Ça <E2><80><9C>t'angoisse<E2><80><9D> ?
+C'est un sentiment ça, mon pote.
+!------------------------------!
+Beängstigend?
+Angst ist ein Gefühl, Mann.
+!------------------------------!
+Angoscia?
+L'angoscia è un sentimento,
+amico.
+!------------------------------!
+¿Miedo?
+El miedo es un sentimiento, tío.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah, I know I can't feel, but...
+!------------------------------!
+Oui, je sais bien que je ne peux
+rien ressentir, mais...
+!------------------------------!
+Ja, ich weiß, dass ich nichts
+fühlen kann, aber ...
+!------------------------------!
+Lo so che non posso
+provare nulla, ma...
+!------------------------------!
+Sí, sé que
+no puedo sentir, pero...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+It's still a scary thought.
+!------------------------------!
+c'est quand même angoissant
+quand j'y pense.
+!------------------------------!
+Es ist trotzdem
+ein beängstigender Gedanke.
+!------------------------------!
+È comunque un pensiero
+angosciante.
+!------------------------------!
+Aun así me da miedo pensarlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A thought, then.
+But not a feeling.
+!------------------------------!
+Quand tu y penses, oui.
+C'est donc une pensée,
+pas un sentiment.
+!------------------------------!
+Also ein Gedanke.
+Aber kein Gefühl.
+!------------------------------!
+Ah, ecco. Un pensiero.
+Non un sentimento.
+!------------------------------!
+Es un pensamiento, entonces.
+Pero no un sentimiento.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Are you sure?
+!------------------------------!
+Tu en es sûr ?
+!------------------------------!
+Bist du dir da sicher?
+!------------------------------!
+Ne sei sicuro?
+!------------------------------!
+¿Seguro?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe you just remember what it's like
+to feel scared, and think you're feeling
+it now.
+!------------------------------!
+Peut-être que tu te souviens du
+sentiment d'angoisse et que tu
+crois le ressentir.
+!------------------------------!
+Vielleicht hast du dich gerade
+daran erinnert, wie es ist Angst
+zu haben, und glaubst zu fühlen.
+!------------------------------!
+Forse hai appena ricordato cosa
+significa aver paura e ti sembra
+di provare quell'emozione.
+!------------------------------!
+Puede que recuerdes cómo es
+sentir el miedo y creas estar
+sintiéndolo ahora.
+!------------------------------!
+!******************************!

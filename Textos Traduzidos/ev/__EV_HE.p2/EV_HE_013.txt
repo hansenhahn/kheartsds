@@ -1,0 +1,123 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/25.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, Fil!
+Voltei!
+!------------------------------!
+Salut, Phil !
+Je suis de retour !
+!------------------------------!
+Hey, Phil!
+Da bin ich wieder!
+!------------------------------!
+Ehi, Fil!
+Sono tornato!
+!------------------------------!
+¡Ey, Fil!
+¡He vuelto!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Já era hora, Herc. Aquele novo
+aprendiz que você achou já veio.
+!------------------------------!
+Herc, Herc ! Le petit nouveau que
+t'as repéré est passé aujourd'hui !
+!------------------------------!
+Wird auch Zeit, Herc. Der Schüler,
+den du entdeckt hast,
+ist schon da!
+!------------------------------!
+Era ora, Erc! La nuova recluta che
+avevi segnalato è già arrivata.
+!------------------------------!
+Ya era hora, Herc.
+El nuevo aprendiz que
+encontraste ha aparecido hoy.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sério? Nossa. Ele disse que iria
+demorar pra chegar aqui. Ele
+conseguiu em tempo recorde então!
+!------------------------------!
+Ah bon ? Mais il avait dit qu'il lui
+faudrait du temps pour venir.
+Il a dû faire plus vite que prévu !
+!------------------------------!
+Echt? Er meinte, er bräuchte
+etwas, um hierher zu kommen.
+Er muss sich beeilt haben.
+!------------------------------!
+Davvero? Ehi, ha detto che ci avrebbe
+messo un po' ad arrivare.
+Invece è stato veloce!
+!------------------------------!
+¿Sí? Pues dijo que tardaría un
+poco en llegar. ¡Debe de haber
+batido el récord de velocidad!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele devia estar muito ansioso pra
+começar a treinar com você. Não
+posso culpá-lo por isso.
+!------------------------------!
+Je parie qu'il avait hâte de
+s'entraîner avec moi. Et je vais
+te dire, ça ne m'étonne pas !
+!------------------------------!
+Ich wette, er konnte es gar nicht
+abwarten, mit dir zu trainieren.
+Kann ich verstehen.
+!------------------------------!
+Scommetto che non vedeva
+l'ora di allenarsi con te.
+Non lo posso biasimare!
+!------------------------------!
+Seguro que estaba ansioso de
+empezar a entrenar contigo.
+¡No puedo reprochárselo!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O garoto tem fibra, isso posso dizer.
+Espera pra ouvir isto...
+!------------------------------!
+J'avoue qu'il a du cran ce petit...
+Écoute ça...
+!------------------------------!
+Der Kleine hat auf jeden Fall
+Feuer ... Warte, bis du das
+hörst ...
+!------------------------------!
+Quel ragazzo ha fegato, lo devo
+ammettere. Aspetta di sentire questo...
+!------------------------------!
+Tiene agallas, lo reconozco.
+Espera a oír esto...
+!------------------------------!
+!******************************!

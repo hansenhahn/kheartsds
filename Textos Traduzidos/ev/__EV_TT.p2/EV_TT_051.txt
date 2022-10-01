@@ -1,0 +1,168 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:36
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Axel... O que é isso?
+!------------------------------!
+Axel... qu'est-ce que c'est ?
+!------------------------------!
+Axel ... Was ist das?
+!------------------------------!
+Axel... Questa cos'è?
+!------------------------------!
+¿Qué es esto, Axel?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uma barreira. Significa 
+que não deve ir por aí.
+!------------------------------!
+Une barrière. Ça veut dire que tu n'es
+pas censé aller par là.
+!------------------------------!
+Eine Barrikade. Die bedeutet, dass
+du hier nicht entlang gehen sollst.
+!------------------------------!
+Una barricata. Significa che non
+possiamo andare da quella parte.
+!------------------------------!
+Una barricada. Significa que
+no tienes que ir por ahí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quer dizer que não há nada aí?
+!------------------------------!
+Il n'y a rien de ce côté-ci ?
+!------------------------------!
+Du meinst, dort gibt es nichts?
+!------------------------------!
+Quindi laggiù non c'è
+niente di importante?
+!------------------------------!
+¿Quieres decir que no hay nada
+ahí dentro?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É, pode se dizer que sim.
+Elas são colocadas pra nos 
+fixar apenas na tarefa.
+!------------------------------!
+Euh, on peut dire ça, oui.
+Les barrières nous empêchent
+de nous égarer, tu vois ?
+!------------------------------!
+Ja, so ungefähr.
+Sie halten uns sozusagen auf Kurs.
+!------------------------------!
+Vedo che hai capito.
+Servono a farci concentrare
+solo sulla missione...
+!------------------------------!
+Sí, más o menos es eso. Las
+han puesto para que no nos
+entretengamos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Isso, ou para ficar longe de problemas.
+Digo, oi, olha pra isso. Um X grande e
+ameaçador? Não, melhor algo seguro, valeu.
+!------------------------------!
+Et elles nous évitent les ennuis !
+Si tu vois un grand X menaçant,
+prends un autre chemin !
+!------------------------------!
+... Und bewahren uns vor Problemen.
+Ich meine, hey, schau es dir doch mal an!
+Großes, bedrohliches X? Nein danke.
+!------------------------------!
+O a star lontano dai guai.
+Vedi come è minacciosa la X?
+Preferisco la strada più sicura.
+!------------------------------!
+O para no meternos en líos.
+Con ese aspecto, invita a
+coger caminos despejados.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

@@ -1,0 +1,233 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[HDR].2&
+mi/ch/02.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Xion?
+Why would I know where she is?
+!------------------------------!
+Xion ?
+Comment je saurais où elle est ?
+!------------------------------!
+Xion?
+Woher soll ich wissen, wo sie ist?
+!------------------------------!
+Xion?
+Perché dovrei sapere
+dove si trova?
+!------------------------------!
+¿Xion? ¿Cómo
+quieres que sepa dónde está?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Have you seen Xion?
+!------------------------------!
+As-tu vu Xion ?
+!------------------------------!
+Hast du Xion gesehen?
+!------------------------------!
+Non l'hai vista?
+!------------------------------!
+¿Has visto a Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I wasn't aware she had returned.
+!------------------------------!
+Je ne savais même pas qu'elle
+était rentrée.
+!------------------------------!
+Ich wusste gar nicht, dass sie
+wieder da ist.
+!------------------------------!
+Non sapevo neanche
+che fosse tornata.
+!------------------------------!
+No sabía que hubiera vuelto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So you haven't seen her around?
+!------------------------------!
+Tu ne l'as pas vue dans les parages ?
+!------------------------------!
+Du hast sie also nicht gesehen?
+!------------------------------!
+Quindi non l'hai vista
+da queste parti?
+!------------------------------!
+Entonces, ¿no la has visto?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+That is generally what <E2><80><9C>wasn't aware
+she had returned<E2><80><9D> means, yes.
+!------------------------------!
+Si je te dis que je ne savais même pas
+qu'elle était rentrée, c'est ça l'idée,
+oui.
+!------------------------------!
+Das wollte ich mit <E2><80><9E>wusste gar
+nicht, dass sie wieder da ist<E2><80><9C>
+sagen, ja.
+!------------------------------!
+Secondo te cosa significa
+"Non sapevo neanche
+che fosse tornata"?
+!------------------------------!
+Normalmente, eso es lo que
+significa "No sabía que
+hubiera vuelto", sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Doesn't anybody know what happened
+to her?
+!------------------------------!
+Mais personne ne sait ce qu'il lui
+est arrivé ou quoi ?
+!------------------------------!
+Weiß irgendjemand, was mit ihr
+passiert ist?
+!------------------------------!
+Chi potrebbe sapere
+che fine ha fatto Xion?
+!------------------------------!
+¿Nadie sabe lo que
+le ha ocurrido?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Unless HE does...
+!------------------------------!
+À moins que lui ne le sache...
+!------------------------------!
+Vielleicht weiß ER es ...
+!------------------------------!
+Forse LUI...
+!------------------------------!
+Aunque puede que él sí...
+!------------------------------!
+!******************************!

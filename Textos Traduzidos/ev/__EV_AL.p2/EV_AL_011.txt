@@ -1,0 +1,140 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+1:55
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/1B.z
+!******************************!
+&.[HDR].2&
+mi/ch/1A.z
+!******************************!
+&.[HDR].2&
+mi/ob/17.z
+!******************************!
+&.[DCA].Bip.&
+1_ro_w_chn
+!******************************!
+&.[HDR].2&
+mi/ob/10.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei!
+Abu, volte aqui!
+!------------------------------!
+Hé ! Abu, reviens ici !
+!------------------------------!
+Hey!
+Komm zurück, Abu!
+!------------------------------!
+Ehi!
+Torna qui, Abu!
+!------------------------------!
+¡Eh!
+¡Vuelve aquí, Abú!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu já te disse que você não pode
+ficar pegando coisas do mercado!
+!------------------------------!
+Je t'ai déjà dit de ne plus voler sur
+le marché !
+!------------------------------!
+Ich hab dir doch gesagt,
+du darfst nicht einfach
+Sachen vom Markt nehmen!
+!------------------------------!
+Ti ho detto che non puoi prendere
+quel che vuoi nel mercato!
+!------------------------------!
+¡Te tengo dicho que no
+cojas cosas del mercado!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Umpf! Não tem desculpa! Fizemos uma
+promessa: nunca mais roubar! Agora 
+vem, vamos ir devolver isso.
+!------------------------------!
+Ça suffit ! On s'est promis de ne
+plus voler ! Allez, on va rendre
+ça à son propriétaire.
+!------------------------------!
+Keine Ausflüchte! Du wolltest
+nicht mehr stehlen! Komm
+jetzt, wir geben das zurück.
+!------------------------------!
+Umpf! Niente scuse! Hai promesso
+di non rubare mai più!
+Forza, andiamo a restituirlo.
+!------------------------------!
+¡No hay excusa que valga!
+Prometimos dejar de robar.
+Venga, vamos. Devuelve eso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

@@ -1,0 +1,90 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/08.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/de.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vou ficar aqui fora e, uh... tomar
+conta da saída, é! Ninguém sai com
+eu olhando. (Tirando eu...)
+!------------------------------!
+Je vais rester ici pour euh... monter la
+garde ! Personne ne sortira d'ici.
+(Enfin j'espère...)
+!------------------------------!
+Ich bleibe hier draußen und, äh ...
+bewache den Ausgang! Keiner
+kommt hier raus. (Außer mir vielleicht.)
+!------------------------------!
+Io resterò qui e... uh, sorveglierò
+l'uscita, sì! Nessuno
+fuggirà da qui! (A parte me stesso...).
+!------------------------------!
+Voy a quedarme aquí a, esto...
+vigilar la salida. Nadie saldrá
+sin que lo vea. (Excepto yo...)
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

@@ -1,6 +1,0 @@
-cmp
-cnt
-e0
-e1
-e2
-_i

@@ -1,0 +1,45 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:21
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/45.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Há uma busca aqui por suspeitos
+suspeitos, e você está atrapalhando.
+Circulando, por favor.
+!------------------------------!
+Nous recherchons des suspects.
+Vous nous gênez ici, alors veuillez
+partir.
+!------------------------------!
+Es findet eine Suche nach ein paar
+Verdächtigen statt und du bist
+im Weg. Geh bitte weiter.
+!------------------------------!
+Stiamo cercando delle persone
+sospette, e voi ci state ostacolando.
+Girate al largo, prego.
+!------------------------------!
+Aquí se está buscando a unos
+sospechosos, y ustedes están en
+medio. Circulen, por favor.
+!------------------------------!
+!******************************!

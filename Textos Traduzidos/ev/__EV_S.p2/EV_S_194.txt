@@ -1,0 +1,234 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/06.z
+!******************************!
+&.[HDR].2&
+mi/ch/4A.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas.
+Larxene será sua parceira hoje.
+!------------------------------!
+Roxas, Larxene sera ta partenaire
+aujourd'hui.
+!------------------------------!
+Roxas.
+Heute ist Larxene deine Partnerin.
+!------------------------------!
+Roxas.
+Larxene sarà la tua compagna di oggi.
+!------------------------------!
+Roxas.
+Hoy Larxene será tu compañera.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Larxene... tá.
+Hum...
+!------------------------------!
+Oui... mais euh...
+!------------------------------!
+Larxene, okay.
+Ähm ...
+!------------------------------!
+Larxene, OK.
+Uhm...
+!------------------------------!
+Ah, Larxene.
+Eeh...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ela já saiu.
+Encontre-a no campo.
+!------------------------------!
+Elle est déjà partie.
+Retrouve-la sur place.
+!------------------------------!
+Sie ist schon los.
+Triff sie am Einsatzort.
+!------------------------------!
+Lei è già partita.
+Vi incontrerete sul posto.
+!------------------------------!
+Ya ha partido.
+Reúnete con ella en el lugar.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah...
+Tudo bem.
+!------------------------------!
+D'accord.
+!------------------------------!
+Oh ...
+In Ordnung.
+!------------------------------!
+Oh...
+Va bene.
+!------------------------------!
+Ah, muy bien.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Desta vez, esperamos que teste
+magia para variar, ao invés de 
+contar somente com sua Keyblade.
+!------------------------------!
+Cette fois-ci, nous voulons que tu
+t'essaies à la magie pour changer
+de la Keyblade.
+!------------------------------!
+Diesmal sollst du anstelle
+des Schlüsselschwertes
+Magie anwenden.
+!------------------------------!
+Questa volta vorremmo tu provassi
+a usare la magia, invece di
+affidarti unicamente al Keyblade.
+!------------------------------!
+Esperamos que pruebes con la
+magia, para variar, en vez de
+confiar solo en la llave espada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Magia? Eu sei magia?
+!------------------------------!
+La magie ? Je sais faire ça, moi ?
+!------------------------------!
+Magie? Ich beherrsche Magie?
+!------------------------------!
+Magia? So usarla?
+!------------------------------!
+¿Magia? ¿Yo sé magia?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Apenas se você se armar com alguma
+antes de sair para a missão.
+Venha até mim quando estiver pronto.
+!------------------------------!
+Oui, si tu t'en équipes avant de partir
+en mission. Préviens-moi quand tu
+seras prêt.
+!------------------------------!
+Nur, wenn du dich
+damit ausrüstest. Komm zu
+mir, wenn du fertig bist.
+!------------------------------!
+Solo se ne equipaggi una
+prima di andare in missione.
+Fammi sapere quando sei pronto.
+!------------------------------!
+No, a menos que te equipes con
+un poco antes de salir.
+Avísame cuando estés listo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/sa.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

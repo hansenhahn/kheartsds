@@ -1,0 +1,313 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então, vamos caçar algo em especial
+hoje, hmm?
+!------------------------------!
+J'espère que le jeu en vaudra la
+chandelle aujourd'hui, pas toi ?
+!------------------------------!
+Wir jagen heute also etwas
+Bestimmtes, hm?
+!------------------------------!
+Siamo qui per cacciare una
+preda specifica, eh?
+!------------------------------!
+Bueno, ¿qué? ¿vamos a cazar al-
+guna pieza en especial hoy?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O quê? Ah, sim.
+!------------------------------!
+Quoi ? Ah oui, moi aussi.
+!------------------------------!
+Was? Ach, ja.
+!------------------------------!
+Che cosa? Ah, sì.
+!------------------------------!
+¿Qué? Oh, sí.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que foi? É a primeira vez aqui?
+!------------------------------!
+Qu'est-ce qu'il y a ? C'est la première
+fois que tu viens ici ?
+!------------------------------!
+Was ist los? Bist du zum ersten
+Mal hier?
+!------------------------------!
+Che ti prende?
+È la tua prima volta qui?
+!------------------------------!
+¿Qué ocurre? ¿Es la primera vez
+que vienes aquí?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não, eu estive aqui em uma missão
+há pouco tempo.
+!------------------------------!
+Non, je suis venu en mission ici
+il y a quelque temps.
+!------------------------------!
+Nein, ich war hier vor einiger
+Zeit auf einer Mission.
+!------------------------------!
+No, ci sono già stato in missione
+poco tempo fa.
+!------------------------------!
+No, estuve aquí de
+misión hace poco...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E me deparei com esse coelho branco
+com muita pressa para chegar em
+algum lugar.
+!------------------------------!
+Et je suis tombé sur un lapin blanc
+qui était vraiment très pressé.
+!------------------------------!
+Ich bin diesem weißen Kaninchen,
+das es so furchtbar eilig hatte,
+über den Weg gelaufen.
+!------------------------------!
+E ho incontrato un coniglio
+bianco che aveva fretta di andare
+da qualche parte.
+!------------------------------!
+Y me encontré con un conejo
+blanco que tenía mucha prisa
+por llegar a algún sitio.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um coelho? Sério?
+!------------------------------!
+Ah oui ? Un lapin blanc ?
+!------------------------------!
+Einem weißen Kaninchen? Echt?
+!------------------------------!
+Un coniglio? Davvero?
+!------------------------------!
+¿Un conejo? ¿De verdad?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas eu o perdi de vista antes que
+pudesse ter a chance de ver o que
+era.
+!------------------------------!
+Mais je l'ai perdu de vue avant d'avoir
+eu une chance de lui demander
+pourquoi.
+!------------------------------!
+Ich hab's aus den Augen verloren,
+bevor ich herausfinden konnte,
+was los war.
+!------------------------------!
+Però l'ho perso di vista prima di
+scoprire dove fosse diretto.
+!------------------------------!
+Pero lo perdí de vista antes de
+poder ver de qué iba todo eso.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É uma questão de sorte.
+Uma janela de oportunidades pode
+abrir e fechar num piscar de olhos.
+!------------------------------!
+C'est ça la chance.
+Un jour elle nous sourit et le lendemain
+c'est tout le contraire.
+!------------------------------!
+So ist das mit dem Glück.
+Gelegenheiten kommen und gehen
+so schnell.
+!------------------------------!
+È una questione di fortuna.
+Le opportunità possono comparire
+e svanire in un battibaleno.
+!------------------------------!
+La suerte es así. Va y viene
+sin apenas darte cuenta.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Saber pular ou não quando tiver a
+chance é o que determina o destino
+do homem.
+!------------------------------!
+C'est le fait de savoir saisir la
+chance quand elle se présente qui
+détermine le destin d'un homme.
+!------------------------------!
+Das Schicksal einer Person hängt
+davon ab, ob man die Gelegenheit
+beim Schopf ergreifen kann.
+!------------------------------!
+È la capacità di coglierle al volo
+a determinare il nostro destino.
+!------------------------------!
+Saber aprovecharla cuando
+se presenta es lo que
+determina nuestro destino.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos esperar ter mais sorte
+desta vez por aqui.
+!------------------------------!
+Espérons que nous serons chanceux
+cette fois-ci.
+!------------------------------!
+Hoffentlich sind wir diesmal
+schneller.
+!------------------------------!
+Questa volta speriamo di
+essere più fortunati.
+!------------------------------!
+Esperemos que esta vez
+estemos a la altura
+de las circunstancias.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Er, é.
+!------------------------------!
+Euh, d'accord...
+!------------------------------!
+Äh, genau.
+!------------------------------!
+Uhm, certo.
+!------------------------------!
+Eh, de acuerdo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos começar.
+!------------------------------!
+Allons-y.
+!------------------------------!
+Legen wir los.
+!------------------------------!
+Diamoci da fare.
+!------------------------------!
+Empecemos.
+!------------------------------!
+!******************************!

@@ -1,5 +1,0 @@
-bc
-cmp
-ev
-fo
-_i

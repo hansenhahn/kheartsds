@@ -1,0 +1,525 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[HDR].2&
+2:19
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/05.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Certo, agora que a missão terminou,
+você tem alguma pergunta?
+!------------------------------!
+Bien, maintenant que la mission est
+terminée, as-tu des questions ?
+!------------------------------!
+Okay, jetzt ist die Mission
+abgeschlossen. Hast du Fragen?
+!------------------------------!
+Bene. Hai qualche domanda,
+ora che la missione è finita?
+!------------------------------!
+Bueno, la misión ha terminado.
+¿Tienes alguna pregunta?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, humm...
+!------------------------------!
+Oui, euh...
+!------------------------------!
+Ja, ähm ...
+!------------------------------!
+Sì, uhm...
+!------------------------------!
+Sí, esto... ¿Qué es...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas o que é Kingdom Hearts?
+Marluxia disse que era 
+algum tipo de... força.
+!------------------------------!
+C'est quoi Kingdom Hearts ?
+!------------------------------!
+Was ist Kingdom Hearts?
+Marluxia meinte, es wäre eine ...
+eine Art Kraft.
+!------------------------------!
+Cosa sono i Kingdom Hearts?
+Marluxia dice che sono un
+tipo di... Forza.
+!------------------------------!
+Kingdom Hearts?
+Marluxia dijo que era una
+especie de fuerza.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim...?
+!------------------------------!
+...
+!------------------------------!
+Ja ...?
+!------------------------------!
+E?
+!------------------------------!
+¿Sí...?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E que quando eu derroto os Heartless,
+aqueles corações saiem e se tornam
+parte de hearts Kingdom Hearts, né?
+!------------------------------!
+Quand je bats des Sans-cœur, ils
+laissent des cœurs qui vont à
+Kingdom Hearts, c'est ça ?
+!------------------------------!
+Und wenn ich Herzlose besiege,
+tauchen die Herzen auf und werden
+Teil von Kingdom Hearts, richtig?
+!------------------------------!
+Quando sconfiggo gli Heartless,
+i cuori che appaiono diventano
+parte dei Kingdom Hearts, giusto?
+!------------------------------!
+Cuando derroto a los sincorazón,
+sus corazones son enviados a
+Kingdom Hearts, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas, tipo, pra quê?
+!------------------------------!
+Mais à quoi ça sert ?
+!------------------------------!
+Aber, wo liegt der Sinn?
+!------------------------------!
+Ma per quale motivo?
+!------------------------------!
+¿Para qué?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Kingdom Hearts nos completará.
+Esse é o objetivo da Ordem.
+!------------------------------!
+Kingdom Hearts va nous rendre de
+nouveau entiers. C'est l'objectif
+de l'Organisation.
+!------------------------------!
+Kingdom Hearts wird uns
+vervollständigen. Das ist das Ziel
+der Organisation.
+!------------------------------!
+I Kingdom Hearts ci faranno
+tornare completi. Questo è
+l'obiettivo dell'Organizzazione.
+!------------------------------!
+Kingdom Hearts nos hará
+íntegros de nuevo. Esa es
+la meta de la Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nos completar?
+Nos completar como?
+!------------------------------!
+Comment ça <E2><80><9C>entiers<E2><80><9D> ?
+!------------------------------!
+Vervollständigen?
+Wie?
+!------------------------------!
+Tornare completi?
+Tornare completi come?
+!------------------------------!
+¿A qué te refieres con "íntegros"?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Roxas, eu, você e todos os membros
+da Ordem são o que chamamos de
+Nobodies.
+!------------------------------!
+Pour l'instant, nous ne le sommes pas.
+Nous sommes des Simili. Nous n'avons
+pas de cœur...
+!------------------------------!
+Roxas, du und ich und sämtliche
+Mitglieder der Organisation sind
+sogenannte Niemande.
+!------------------------------!
+Roxas, io, te e tutti i membri
+dell'Organizzazione siamo
+ciò che chiamiamo Nessuno.
+!------------------------------!
+Roxas; tú, yo y todos los
+miembros de la Organización
+somos incorpóreos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bom, isso não é muito legal.
+!------------------------------!
+C'est vrai ?
+!------------------------------!
+Was für ein unschönes Wort.
+!------------------------------!
+Non è molto gentile.
+!------------------------------!
+¿En serio?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Com L maiúsculo. É um nome para
+aqueles de nós que não possuem uma 
+parte vital de quem somos: o coração.
+!------------------------------!
+Oui, nous sommes venus dans ce
+monde sans cœur.
+!------------------------------!
+Mit großem N. Das ist ein Name
+für die, denen etwas Wichtiges fehlt:
+ein Herz.
+!------------------------------!
+Con la N maiuscola. È un nome,
+per quelli di noi che non hanno
+un pezzo importante: il cuore.
+!------------------------------!
+Es el nombre que tenemos quienes
+carecemos de una parte vital:
+el corazón.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu não tenho um coração?
+!------------------------------!
+Alors... moi non plus je n'en ai pas ?
+!------------------------------!
+Ich habe kein Herz?
+!------------------------------!
+Io non ho un cuore?
+!------------------------------!
+¿Así que no tengo corazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Correto. Como todos nós, você veio
+ao mundo sem um. Pórem pode nos
+ajudar a consegui-los.
+!------------------------------!
+C'est exact.
+Mais tu peux nous aider à y remédier.
+!------------------------------!
+Genau. Wie wir hast du die
+Welt ohne eins betreten, aber du,
+kannst uns helfen, eins zu erlangen.
+!------------------------------!
+Esatto. Come tutti noi, sei
+venuto al mondo senza un cuore.
+Ma puoi aiutarci a recuperarli.
+!------------------------------!
+Así es. Al igual que nosotros,
+llegaste al mundo sin él. Pero
+puedes ayudarnos a recuperarlos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Kingdom Hearts é feito bem daquilo que
+nos falta: uma aglomerado de corações.
+Ele possui o poder de nos completar.
+!------------------------------!
+Kingdom Hearts est fait de cœurs,
+de cœurs de gens réels. Et leurs
+cœurs vont nous compléter.
+!------------------------------!
+Kingdom Hearts besteht aus
+dem, was uns fehlt ... Herzen.
+Es kann uns vervollständigen. 
+!------------------------------!
+I Kingdom Hearts sono quello
+che ci manca, una moltitudine di cuori.
+Hanno il potere di completarci.
+!------------------------------!
+Kingdom Hearts está formado
+por aquello de lo que carecemos.
+Tiene el poder de completarnos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Está começando a compreender 
+por que você é tão importante?
+!------------------------------!
+Commences-tu à comprendre pourquoi
+tu es si important ?
+!------------------------------!
+Beginnst du langsam zu verstehen,
+warum du so wichtig bist?
+!------------------------------!
+Ora capisci perché sei così
+importante per noi?
+!------------------------------!
+¿Comprendes ya por qué
+eres tan importante?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Cada um de nós possui um 
+papel vital na Ordem.
+!------------------------------!
+Chacun de nous a un rôle vital à jouer
+au sein de l'Organisation.
+!------------------------------!
+Jeder von uns erfüllt in der
+Organisation eine entscheidende
+Funktion.
+!------------------------------!
+Ognuno di noi ha un ruolo
+essenziale nell'Organizzazione.
+!------------------------------!
+Cada uno de nosotros desempeña
+una función vital dentro de la
+Organización.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O seu é coletar corações.
+!------------------------------!
+Le tien, c'est de récupérer des cœurs.
+!------------------------------!
+Deine besteht darin, Herzen
+zu sammeln.
+!------------------------------!
+Il tuo è quello di
+raccogliere i cuori.
+!------------------------------!
+La tuya es recoger corazones.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É, ja saquei.
+!------------------------------!
+Je vois...
+!------------------------------!
+Ja, ich verstehe.
+!------------------------------!
+Ho capito.
+!------------------------------!
+Ah, ya entiendo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, só espero que possamos contar 
+com você para <E2><80><9C>sacar<E2><80><9D> bons resultados.
+!------------------------------!
+J'espère donc qu'on pourra compter
+sur toi pour ce faire.
+!------------------------------!
+Ich hoffe nur, wir können uns
+auch darauf verlassen, dass
+du das <E2><80><9E>erledigst<E2><80><9C>.
+!------------------------------!
+Bene, spero che tu
+riesca nel tuo compito.
+!------------------------------!
+Espero que podamos contar
+contigo para ello.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mais alguma pergunta?
+!------------------------------!
+D'autres questions ?
+!------------------------------!
+Noch weitere Fragen?
+!------------------------------!
+Altre domande?
+!------------------------------!
+¿Alguna otra pregunta?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não... Desculpe.
+!------------------------------!
+Non... ça ira.
+!------------------------------!
+Nein ... Tut mir leid.
+!------------------------------!
+No... Scusa.
+!------------------------------!
+No, ya está.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então podemos retornar.
+Venha.
+!------------------------------!
+Alors nous pouvons repartir.
+Viens.
+!------------------------------!
+Dann sollten wir zurück.
+Komm.
+!------------------------------!
+Allora dovremmo tornare
+indietro. Andiamo.
+!------------------------------!
+Entonces regresemos.
+Venga, vamos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

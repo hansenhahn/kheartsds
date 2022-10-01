@@ -1,6 +1,0 @@
-dg
-tobig
-tosmall
-warp_b
-warp_s
-_i

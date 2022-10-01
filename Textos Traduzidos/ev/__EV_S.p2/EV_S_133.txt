@@ -1,0 +1,131 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Por que ela faria aquilo?
+!------------------------------!
+Pourquoi fait-elle ça ?
+!------------------------------!
+Warum sollte sie das tun?
+!------------------------------!
+Perché l'ha fatto?
+!------------------------------!
+¿Por qué haría una cosa así?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pelo menos a gente sabe que tá segura.
+Ela vai voltar pra casa quando achar que der.
+!------------------------------!
+Au moins, on sait qu'elle va bien.
+Elle rentrera quand elle sera prête.
+!------------------------------!
+Immerhin ist sie in Sicherheit.
+Sie wird nach Hause kommen,
+wenn sie so weit ist.
+!------------------------------!
+Beh, almeno sappiamo che
+sta bene. Tornerà a casa
+quando sarà pronta.
+!------------------------------!
+Al menos sabemos que está bien.
+Volverá cuando esté lista.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas eles não vão transformar 
+ela num Sombrio?
+!------------------------------!
+Mais ils vont la changer en Reflet,
+non ?
+!------------------------------!
+Aber werden sie sie nicht in
+einen Dämmerling verwandeln?
+!------------------------------!
+Ma non la trasformeranno
+in un Simile?
+!------------------------------!
+¿Y no la convertirán en umbría?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não necessariamente.
+!------------------------------!
+Pas forcément.
+!------------------------------!
+Nicht unbedingt.
+!------------------------------!
+Non necessariamente.
+!------------------------------!
+No tienen por qué.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quem era o cara que estava com ela?
+Por que estava cooperando com ele?
+!------------------------------!
+Qui était ce type avec elle ?
+Pourquoi est-ce qu'elle
+collabore avec lui ?
+!------------------------------!
+Wer war das bei ihr?
+Warum arbeitet sie mit ihm
+zusammen?
+!------------------------------!
+Chi era quel tizio insieme a lei?
+Perché sta collaborando con
+lui?
+!------------------------------!
+¿Y quién era ese tipo?
+¿Por qué cooperaba con él?
+!------------------------------!
+!******************************!

@@ -1,0 +1,245 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/0D.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So our orders are to investigate a
+cave this time?
+!------------------------------!
+Alors, on doit inspecter une
+caverne, c'est ça ?
+!------------------------------!
+Wir sollen diesmal also
+eine Höhle untersuchen?
+!------------------------------!
+Questa volta abbiamo l'ordine
+di indagare su una caverna?
+!------------------------------!
+¿Así que las órdenes son
+investigar una cueva, esta vez?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Right. Axel and I found it the last time
+we were here. There's a hidden
+entrance in the city.
+!------------------------------!
+Oui. Axel et moi, on l'a découverte la
+dernière fois qu'on est venus.
+Il y a une entrée secrète en ville.
+!------------------------------!
+Genau. Axel und ich haben
+sie gefunden. In der Stadt
+ist ein geheimer Zugang.
+!------------------------------!
+Sì, quella che ho scoperto
+insieme ad Axel. C'è un
+ingresso segreto in città.
+!------------------------------!
+Sí. Hay una entrada oculta
+ahí mismo. Vamos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Wow, how'd you stumble across that?
+!------------------------------!
+Comment l'avez-vous trouvée ?
+!------------------------------!
+Wow, wie habt ihr
+ihn gefunden?
+!------------------------------!
+Come avete fatto a trovarlo?
+!------------------------------!
+Guau, ¿y cómo disteis con ella?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+By accident, mostly.
+!------------------------------!
+Par hasard.
+!------------------------------!
+Reiner Zufall.
+!------------------------------!
+Per caso, più o meno.
+!------------------------------!
+Por casualidad, básicamente.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+We spotted somebody acting fishy, and
+Axel suggested we tail him.
+!------------------------------!
+Il y avait un type louche
+et Axel a décidé de le suivre.
+!------------------------------!
+Wir haben jemanden Verdächtigen
+gesehen. Axel meinte, wir
+sollten ihn beobachten.
+!------------------------------!
+Dopo aver notato un tipo sospetto,
+Axel ha voluto seguirlo...
+!------------------------------!
+Vimos a alguien sospechoso y
+Axel dijo de seguirlo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+And that led you to the cave...
+Good call on Axel's part.
+!------------------------------!
+Et vous avez trouvé cette caverne.
+C'est bien joué de la part d'Axel.
+!------------------------------!
+Und das hat euch zu der Höhle
+geführt ...
+Gut von Axel.
+!------------------------------!
+E così siete arrivati alla caverna...
+Bel colpo, Axel.
+!------------------------------!
+Y eso os llevó a la cueva...
+Bien visto por parte de Axel.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/xo.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So, you ready to go explore it?
+!------------------------------!
+Tu es prêt à l'explorer ?
+!------------------------------!
+Und, bereit der Sache
+nachzugehen?
+!------------------------------!
+Allora, sei pronto all'esplorazione?
+!------------------------------!
+¿Qué, listo para explorarla?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Yeah. The hidden door's down that way.
+C'mon.
+!------------------------------!
+Oui. Il y a une porte secrète par ici.
+Allons-y.
+!------------------------------!
+Ja. Zur Geheimtür geht es da
+hinunter. Komm.
+!------------------------------!
+Sì. Da quella parte c'è un ingresso
+segreto. Andiamo.
+!------------------------------!
+Sí. Hay una puerta escondida por
+aquí.
+Vamos.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

@@ -1,0 +1,268 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:36
+!******************************!
+&.[HDR].2&
+1:88
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bravo. Então, que 'cê achou?
+Pegou o jeito deste negócio de missões?
+!------------------------------!
+Bravo. Alors, qu'en penses-tu ?
+T'as compris en quoi consistent
+les missions ?
+!------------------------------!
+Bravo. Und, was denkst du?
+Kommst du mit den Missionen klar?
+!------------------------------!
+Bravo. Allora, che mi dici?
+Hai capito come funzionano
+le missioni?
+!------------------------------!
+Bravo. ¿Y qué te parece?
+¿Le pillas el tranquillo
+a esto de las misiones?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aham.
+!------------------------------!
+Oui...
+!------------------------------!
+Mhm.
+!------------------------------!
+Uh-uh.
+!------------------------------!
+... Sí.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Foi mal, pode falar mais alto?
+Não consegui te escutaaaaar.
+!------------------------------!
+Je ne t'entends pas.
+!------------------------------!
+Entschuldigung, lauter bitte.
+Konnte nicht ganz folgen.
+!------------------------------!
+Scusa? Parla più forte!
+Non ho capito!
+!------------------------------!
+No te oigo...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu disse...
+!------------------------------!
+Oui, j'ai compris.
+!------------------------------!
+Nein?
+Muss an dem Lärm hier liegen.
+!------------------------------!
+Ho detto...
+!------------------------------!
+Sí, por supuesto.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm?
+!------------------------------!
+Hmm ?
+!------------------------------!
+Hm?
+!------------------------------!
+Mmm?
+!------------------------------!
+¿Mmm?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+que poderia ter feito isso
+de olhos vendados.
+!------------------------------!
+Est-ce qu'on pourra faire plus dur
+la prochaine fois ?
+!------------------------------!
+Ja, pst, hör genau hin.
+Hörst du das? Das ist
+der Klang ... der Perfektion.
+!------------------------------!
+Avrei potuto farlo con gli occhi bendati.
+!------------------------------!
+¿Qué tal un reto la próxima vez?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ha ha!
+Sei se quero um zumbi de olhos
+vendados solto por aí não.
+!------------------------------!
+Ha ! Le petit zombie se réveille
+enfin !
+!------------------------------!
+Ha, ha! Hat der Zombie etwa
+gerade einen Witz gerissen?
+!------------------------------!
+Ah ah!
+Non so se vorrei avere uno
+zombie bendato a piede libero!
+!------------------------------!
+¡Ja! ¡El zombi es un sabihondo!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá bom, sabichão, você foi bem.
+E nenhuma missão bem sucedida é
+completada sem a cereja do bolo. Bora.
+!------------------------------!
+Allez, t'as bien mérité une petite
+récompense. Viens.
+!------------------------------!
+Okay, Schlaumeier, du warst gut.
+Und zu einer erfolgreichen Mission
+gehört ein kleines Sahnehäubchen.
+!------------------------------!
+OK simpaticone, sei andato bene. Ma
+nessuna missione di successo termina
+senza una piccola ricompensa. Vieni.
+!------------------------------!
+Muy bien, te mereces un premio.
+Vamos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas... não temos que VAC?
+!------------------------------!
+Mais... on n'est pas censés RÀC ?
+!------------------------------!
+Aber ... müssen wir denn nicht
+zurück zum Schloss?
+!------------------------------!
+Ma... non dobbiamo tornare al castello?
+!------------------------------!
+¿Pero no tenemos que VAC?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Depois.
+Esqueceu o nosso lugar de sempre?
+!------------------------------!
+Viens, je te dis.
+Tu te souviens de notre endroit
+rien qu'à nous, pas vrai ?
+!------------------------------!
+Später.
+Du erinnerst dich doch
+an unseren Platz, oder?
+!------------------------------!
+Più tardi.
+Ricordi il nostro posto, vero?
+!------------------------------!
+Vamos.
+Recuerdas el lugar, ¿no?
+!------------------------------!
+!******************************!

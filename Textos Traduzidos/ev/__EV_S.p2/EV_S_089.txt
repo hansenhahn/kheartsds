@@ -1,0 +1,614 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:42
+!******************************!
+&.[HDR].2&
+2:43
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[HDR].2&
+mi/ob/0D.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hey! No Xion?
+!------------------------------!
+Hé ! Xion n'est pas là ?
+!------------------------------!
+Hey! Keine Xion?
+!------------------------------!
+Ehi! E Xion?
+!------------------------------!
+¡Eh! ¿Y Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't hold your breath.
+!------------------------------!
+Ne te fais pas d'illusions.
+!------------------------------!
+Erzähl schon.
+!------------------------------!
+Tranquillo, non verrà.
+!------------------------------!
+Será mejor que no la esperes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Did something happen yesterday?
+!------------------------------!
+Il s'est passé quelque chose hier ?
+!------------------------------!
+Ist gestern etwas passiert?
+!------------------------------!
+Ieri è successo qualcosa?
+!------------------------------!
+¿Pasó algo ayer?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nah, it's nothing.
+!------------------------------!
+Non, rien.
+!------------------------------!
+Nee, nichts.
+!------------------------------!
+Nah, niente di che.
+!------------------------------!
+No, no es nada.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+...
+!------------------------------!
+... 
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Girls sure are complicated, huh?
+!------------------------------!
+Elles sont compliquées les nanas.
+!------------------------------!
+Mädchen sind ganz schön
+kompliziert, was?
+!------------------------------!
+Le donne sono complicate, eh?
+!------------------------------!
+Las chicas son complicadas, ¿eh?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+How did you know that's what I was
+thinking?
+!------------------------------!
+Comment tu sais que c'est
+à ça que je pensais ?
+!------------------------------!
+Woher wusstest du, dass ich
+gerade das Gleiche gedacht habe?
+!------------------------------!
+Come hai fatto a sapere cosa
+stavo pensando?
+!------------------------------!
+¿Cómo sabes que estaba
+pensando en eso?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Because you're not so complicated.
+!------------------------------!
+Parce que toi t'es pas compliqué.
+!------------------------------!
+Weil du nicht so kompliziert bist.
+!------------------------------!
+Perché tu non sei così
+complicato.
+!------------------------------!
+Porque tú no lo eres tanto.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+But don't take it personal.
+Most Nobodies aren't.
+!------------------------------!
+Mais bon... c'est comme tous les Simili.
+!------------------------------!
+Aber nimm das nicht persönlich.
+Das sind die meisten
+Niemande.
+!------------------------------!
+Ma non prenderla sul personale.
+La gran parte dei Nessuno lo è.
+!------------------------------!
+No es nada personal, nos
+pasa a todos los incorpóreos.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You mean...real people are more
+complex than us?
+!------------------------------!
+Tu veux dire que les vrais gens sont
+plus complexes que nous ?
+!------------------------------!
+Meinst du ... echte Leute sind
+komplizierter als wir?
+!------------------------------!
+Vuoi dire che le persone vere
+sono più complesse di noi?
+!------------------------------!
+¿Quieres decir... que la
+gente real es más complicada
+que nosotros?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, sure! Especially if they're real
+and female. That's like a double dose
+of complicated.
+!------------------------------!
+Bien sûr ! Surtout les vraies filles.
+Elles sont ultra complexes.
+!------------------------------!
+Aber klar! Besonders
+echte Mädchen. Das ist eine
+Doppeldosis Kompliziertheit.
+!------------------------------!
+Beh, certo! Specialmente se sono
+persone vere e donne. Una
+doppia dose di complessità!
+!------------------------------!
+¡Claro! Sobre todo las chicas
+reales. Complicadas por
+partida doble.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+So...what about a Nobody girl like Xion?
+!------------------------------!
+Ultra ? Ha, ha.
+Et une Simili comme Xion alors ?
+!------------------------------!
+Und ... was ist
+mit einem Niemand-Mädchen
+wie Xion?
+!------------------------------!
+Quindi... cosa dovrebbe essere
+una donna Nessuno come Xion?
+!------------------------------!
+¿Y... las chicas incorpóreas,
+como Xion?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Single dose.
+!------------------------------!
+Ben... elle est juste plus complexe.
+Mais pas ultra complexe.
+!------------------------------!
+Einfache Dosis.
+!------------------------------!
+Una dose semplice.
+!------------------------------!
+Esas, por partida única.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I am so lost.
+!------------------------------!
+Je suis perdu.
+!------------------------------!
+Ich komm nicht mehr mit.
+!------------------------------!
+Non capisco.
+!------------------------------!
+Buf, qué perdido estoy.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, the important thing to remember
+when dealing with girls is not to push
+the wrong buttons.
+!------------------------------!
+Ce que tu dois retenir, c'est que quand
+il s'agit d'une fille, tu dois prendre des
+gants.
+!------------------------------!
+Man darf bei Mädchen jedenfalls
+auf keinen Fall auf die falschen
+Knöpfe drücken.
+!------------------------------!
+Con le donne, la cosa più
+importante da fare è NON
+toccare i tasti sbagliati.
+!------------------------------!
+Bueno, lo más importante a la
+hora de tratar con chicas es no
+apretar los botones equivocados.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Got it memorized?
+!------------------------------!
+Tu t'en souviendras ?
+!------------------------------!
+Hast du das gespeichert?
+!------------------------------!
+L'hai memorizzato?
+!------------------------------!
+¿Entendido?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm...yeah...
+Wish you'd told me that before.
+!------------------------------!
+Euh... oui.
+Mais j'aurais bien aimé que
+tu me le dises avant.
+!------------------------------!
+Hm ... ja ...
+Ich wünschte, das hättest du
+mir früher gesagt.
+!------------------------------!
+Uhm... sì...
+Potevi anche dirmelo prima.
+!------------------------------!
+Mm... Sí... Ya me
+lo podrías haber dicho antes.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, just give her some time.
+!------------------------------!
+Bah, laisse-lui le temps.
+!------------------------------!
+Gib ihr einfach etwas Zeit.
+!------------------------------!
+Oh, dalle solo un po' di tempo.
+!------------------------------!
+Bueno, dale un poco de tiempo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Why?
+!------------------------------!
+Pourquoi ?
+!------------------------------!
+Wieso?
+!------------------------------!
+Perché?
+!------------------------------!
+¿Por qué?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Because if you rush in there and try
+to fix things, you'll just press more
+buttons.
+!------------------------------!
+Parce que si tu fonces tête baissée
+pour régler le problème, ce sera
+encore pire.
+!------------------------------!
+Wenn du jetzt versuchst,
+alles zu reparieren, drückst du
+nur noch mehr falsche Knöpfe.
+!------------------------------!
+Perché se cerchi di aggiustare
+le cose frettolosamente, rischi
+di premere molti tasti sbagliati.
+!------------------------------!
+Porque si te precipitas para
+arreglar las cosas, puede que
+pulses el botón equivocado.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fine, whatever.
+!------------------------------!
+Ah, d'accord...
+!------------------------------!
+Okay, alles klar.
+!------------------------------!
+Va bene, lasciamo perdere.
+!------------------------------!
+Vale, muy bien.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You're all right, kid.
+!------------------------------!
+Tout va bien, petit.
+!------------------------------!
+Du bist in Ordnung, Kleiner.
+!------------------------------!
+Su con la vita, ragazzo.
+!------------------------------!
+Ánimo, chaval.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Don't call me <E2><80><9C>kid<E2><80><9D>!
+!------------------------------!
+M'appelle pas <E2><80><9C>petit<E2><80><9D> !
+!------------------------------!
+Nenn mich nicht <E2><80><9E>Kleiner<E2><80><9C>!
+!------------------------------!
+Non chiamarmi "ragazzo"!
+!------------------------------!
+¡No me llames "chaval"!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Stop laughing!
+!------------------------------!
+Arrête de rire !
+!------------------------------!
+Hör auf zu lachen!
+!------------------------------!
+E smettila di ridere!
+!------------------------------!
+¡Deja de reírte!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+You'll patch things up with her.
+Trust me.
+!------------------------------!
+Ça va s'arranger, tu verras.
+!------------------------------!
+Du wirst die Sache mit ihr
+schon wieder hinbekommen.
+!------------------------------!
+Vedrai che le cose con lei
+si sistemeranno. Credimi.
+!------------------------------!
+Seguro que arreglas
+las cosas con ella, créeme.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I hope so.
+!------------------------------!
+Oui, j'espère.
+!------------------------------!
+Hoffentlich.
+!------------------------------!
+Lo spero.
+!------------------------------!
+Eso espero.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

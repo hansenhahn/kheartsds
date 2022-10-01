@@ -1,0 +1,271 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:2
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/07.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+mi/ob/B4.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ei, encontrei um pedaço de papel.
+!------------------------------!
+J'ai trouvé un morceau de papier.
+!------------------------------!
+Hey, ich habe ein Blatt Papier
+gefunden.
+!------------------------------!
+Ehi, ho trovato un pezzo
+di carta.
+!------------------------------!
+He encontrado un trozo de papel.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+É um tipo de mapa.
+!------------------------------!
+On dirait une carte.
+!------------------------------!
+Es ist eine Art Karte.
+!------------------------------!
+È una specie di mappa.
+!------------------------------!
+Parece una especie de mapa.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Alguém rabiscou umas coisas nele.
+!------------------------------!
+Quelqu'un a noté quelque chose dessus.
+!------------------------------!
+Da hat jemand ein paar
+Notizen draufgekritzelt.
+!------------------------------!
+Qualcuno ci ha scritto
+sopra degli appunti.
+!------------------------------!
+Y alguien ha anotado algo en él.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+<E2><80><9C>Escada Aterrorizante<E2><80><9D>?
+<E2><80><9C>Amigo Atrás da Parede<E2><80><9D>?
+Ei, este aqui fala dum túnel que geme...
+!------------------------------!
+<E2><80><9C>Les marches mystérieuses<E2><80><9D> ?
+<E2><80><9C>Le perce muraille<E2><80><9D> ?
+Et là, ça parle d'un tunnel qui gémit...
+!------------------------------!
+<E2><80><9E>Gruslige Stufen<E2><80><9C>?
+<E2><80><9E>Freund von hinter der Wand<E2><80><9C>?
+Ein stöhnender Tunnel ...
+!------------------------------!
+"Scalini terrificanti"? "Amico
+da oltre il muro"? Qui parla
+di una galleria con un gemito...
+!------------------------------!
+¿"Escalones escalofriantes"?
+¿"Amigo tras la pared"? Y
+algo sobre un túnel que gime...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Parece familiar, né?
+!------------------------------!
+Alors il était là-bas pour la même
+raison que nous.
+!------------------------------!
+Hört sich bekannt an, oder?
+!------------------------------!
+Suona familiare, eh?
+!------------------------------!
+Conque estaba allí abajo
+por la misma razón que nosotros.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tem mais. 
+<E2><80><9C>O Imitador<E2><80><9D>...
+<E2><80><9C>A Bolsa Viva<E2><80><9D>...
+!------------------------------!
+Ce n'est pas tout :
+<E2><80><9C>Le sosie<E2><80><9D>...
+<E2><80><9C>Le sac vivant<E2><80><9D>...
+!------------------------------!
+Da ist noch mehr. <E2><80><9E>Der
+Doppelgänger<E2><80><9C> ... <E2><80><9E>Der lebende
+Beutel<E2><80><9C> ...
+!------------------------------!
+C'è dell'altro. "Il doppio"...
+"Il sacco animato"...
+!------------------------------!
+Hay más. "El doble"...
+"La bolsa animada"...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Um trem fantasma, uma mansão 
+mal-assombrada... Somando dá sete.
+!------------------------------!
+Un train fantôme, une maison hantée...
+Ça en fait sept en tout.
+!------------------------------!
+Ein Geisterzug, ein Spukhaus ...
+Insgesamt sind es sieben.
+!------------------------------!
+Un treno fantasma, una casa
+stregata... Sette appunti in
+tutto.
+!------------------------------!
+Un tren fantasma, una mansión
+embrujada... Hay siete en total.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ax.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+O que tudo isso quer dizer?
+!------------------------------!
+Qu'est-ce que ça veut dire ?
+!------------------------------!
+Was soll das bedeuten?
+!------------------------------!
+Cosa potrebbe significare?
+!------------------------------!
+¿Qué querrá decir?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acho que sabemos pra quem perguntar.
+Até porque, ele parecia saber
+bastante sobre a cidade.
+!------------------------------!
+On devrait demander à ce garçon.
+Apparemment, il connaît plein de
+choses sur cette ville.
+!------------------------------!
+Dazu müssen wir ihn wohl fragen.
+Er scheint auf jeden Fall viel
+über die Stadt zu wissen.
+!------------------------------!
+Conosco la persona a cui
+chiedere. Se non altro, sembra
+sapere molto sulla città.
+!------------------------------!
+Tendremos que preguntárselo
+a él. Parece saber mucho
+sobre la ciudad.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!

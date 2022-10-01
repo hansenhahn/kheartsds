@@ -1,0 +1,156 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Beleza.
+Isso é o bastante por hoje.
+!------------------------------!
+Bon, ça suffit pour aujourd'hui.
+!------------------------------!
+Okay.
+Das reicht für heute.
+!------------------------------!
+Bene.
+Per oggi è sufficiente.
+!------------------------------!
+Muy bien.
+Es suficiente por hoy.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Na verdade, é mais do que o bastante.
+Entre dar uma surra nessa praga de
+Heartless e todo o seu treinamento...
+!------------------------------!
+C'est même plus qu'assez. Entre le
+combat contre les Sans-cœur et
+ton entraînement...
+!------------------------------!
+Ist mehr als genug.
+Erst die Herzlosen und dann
+noch das Training dazu ...
+!------------------------------!
+Veramente è molto più che sufficiente.
+Prima gli Heartless, poi la
+sessione di addestramento...
+!------------------------------!
+Más que suficiente. Entre darles
+una paliza a esos sincorazón y
+todo el entrenamiento hecho...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sabe, você poderia...
+!------------------------------!
+Tu aurais bien besoin...
+!------------------------------!
+Weißt du, du könntest wirklich ...
+!------------------------------!
+Sai, potresti davvero...
+!------------------------------!
+Mira, la verdad, podrías...
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?
+Could really what?
+!------------------------------!
+Besoin de quoi ?
+!------------------------------!
+Hm?
+Könnte wirklich was?
+!------------------------------!
+Uh?
+Potrei fare che cosa?
+!------------------------------!
+¿Mmm?
+¿Podría qué?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Poderia praticar mais.
+Confie em mim. Vai precisar.
+!------------------------------!
+De t'entraîner encore !
+Tu en auras besoin.
+!------------------------------!
+Du könntest wirklich etwas
+mehr Training gebrauchen.
+!------------------------------!
+Allenarti di più.
+Fidati, ti servirà.
+!------------------------------!
+Podrías practicar un poco más.
+Realmente lo necesitarás,
+créeme.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Bem, já coletei corações o bastante
+ Acho que vou VAC.)
+!------------------------------!
+(Bon, j'ai récupéré assez de cœurs.
+ Je devrais rentrer.)
+!------------------------------!
+(So, ich habe genug Herzen
+ gesammelt. Ich schätze,
+ ich kehre zum Schloss zurück.)
+!------------------------------!
+(Bene, ho raccolto abbastanza
+cuori. Ora posso rientrare...)
+!------------------------------!
+(Bueno, ya he recogido bastantes
+corazones. Creo que toca VAC.)
+!------------------------------!
+!******************************!

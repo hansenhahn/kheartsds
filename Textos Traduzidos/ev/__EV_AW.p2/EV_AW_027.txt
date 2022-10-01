@@ -1,0 +1,421 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+1:32
+!******************************!
+&.[HDR].2&
+mi/ch/44.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+AINDA nada?!
+Se eu perder a calma... um de vocês
+vai perder a cabeça! Entendido?!
+!------------------------------!
+Toujours rien ? Si je perds mon calme,
+quelqu'un va avoir la tête coupée !
+C'est COMPRIS ?
+!------------------------------!
+IMMER noch nichts!? Wenn ich
+die Geduld verliere, verliert eine
+von euch seinen Kopf! Verstanden!?
+!------------------------------!
+Ancora NIENTE?!
+Se perdo la pazienza... uno di voi
+perderà la testa, capito?
+!------------------------------!
+¿Aún nada? Como pierda la
+paciencia... ¡alguno de vosotros
+perderá la cabeza!
+!------------------------------!
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/23.z
+!******************************!
+&.[HDR].2&
+mi/ch/09.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele estão ainda procurando pelo
+Heartless que derrotamos antes?
+!------------------------------!
+Ils cherchent toujours les Sans-cœur
+que nous avons éliminés l'autre fois ?
+!------------------------------!
+Suchen die immer noch nach
+dem Herzlosen, den wir letztes
+Mal erledigt haben?
+!------------------------------!
+Stanno ancora cercando gli Heartless
+che abbiamo eliminato la volta scorsa?
+!------------------------------!
+¿Aún están buscando a los sin-
+corazón que matamos la última
+vez?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pode se dizer que procurarão por
+absolutamente nada até encontrarem.
+!------------------------------!
+Oui et ils continueront à chercher tant
+qu'ils n'auront rien trouvé.
+!------------------------------!
+Ja und das werden sie auch noch
+so lange tun, bis sie ihn
+gefunden haben.
+!------------------------------!
+Si può dire che continueranno a
+cercare il nulla finché
+non l'avranno trovato.
+!------------------------------!
+Sí, y seguirán buscando a nadie
+hasta que lo encuentren.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E se não encontrarem aqui, talvez
+encontrem lá... no próximo labirinto.
+!------------------------------!
+Et s'ils ne trouvent rien ici, ils
+trouveront peut-être dans...
+l'autre labyrinthe ?
+!------------------------------!
+Und wenn sie ihn hier nicht
+finden, dann finden sie ihn dort ...
+im nächsten Labyrinth.
+!------------------------------!
+E se non lo trovano qui, forse lo
+troveranno lì... nel prossimo labirinto.
+!------------------------------!
+Y si no lo encuentran aquí,
+lo hallarán allí... en el siguiente
+laberinto.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A menos que, é claro, decidam
+procurar a nova sombra que surgiu.
+!------------------------------!
+À moins qu'ils ne se mettent à
+chercher la nouvelle ombre.
+!------------------------------!
+Es sei denn, sie entschließen sich,
+nach dem neuen Schattenlurch
+zu suchen.
+!------------------------------!
+A meno che, ovviamente, non
+decidano di cercare la nuova
+ombra che è comparsa.
+!------------------------------!
+A no ser, claro, que decidan
+buscar a la nueva sombra
+que ha aparecido.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas parece improvável para mim.
+Para você também?
+!------------------------------!
+Mais ça me semble peu probable.
+Pas vous ?
+!------------------------------!
+Aber das erscheint mir
+unwahrscheinlich. Dir nicht
+auch?
+!------------------------------!
+Ma non mi sembra molto probabile,
+e a te?
+!------------------------------!
+Pero yo no le veo mucho
+sentido a eso... ¿Y tú?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espera... O próximo labirinto?
+Há mais de um?
+!------------------------------!
+Quoi... l'autre labyrinthe ?
+Il n'y en a pas qu'un ?
+!------------------------------!
+Warte ... Das nächste
+Labyrinth? Es gibt mehr
+als eins?
+!------------------------------!
+Aspetta... Il prossimo labirinto?
+Ce n'è più di uno?
+!------------------------------!
+Espera... ¿"El siguiente laberinto"?
+¿Es que hay más de uno?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah, não sabia?
+Aqui, um labirinto é um labirinto
+de labirintos.
+!------------------------------!
+Oh, vous ne le saviez pas ?
+Ici, un labyrinthe est un labyrinthe
+de labyrinthes...
+!------------------------------!
+Oh, wusstest du nicht, dass hier
+Labyrinthe aus vielen Labyrinthen
+bestehen?
+!------------------------------!
+Oh, non lo sapevi?
+Qui, un labirinto è un dedalo di labirinti.
+!------------------------------!
+¿No lo sabías?
+Aquí los laberintos son
+laberintos de laberintos...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Não é incrível?!
+!------------------------------!
+C'est à en perdre la tête, non ?
+!------------------------------!
+Ist das nicht verblüffend!?
+!------------------------------!
+Non è fantastico?!
+!------------------------------!
+¿No lo encuentras fascinante?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele foi embora...
+!------------------------------!
+Il est parti...
+!------------------------------!
+Er ist weg ...
+!------------------------------!
+È sparito...
+!------------------------------!
+Ha desaparecido...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ainda não. Tenho mais uma coisinha
+a dizer. Se quatro interruptores
+você ligar... a nova sombra surgirá!
+!------------------------------!
+Non, non... Si vous trouvez les
+quatre interrupteurs... la nouvelle
+ombre fera surface.
+!------------------------------!
+Nicht ganz, eins noch: Ihr findet
+den neuen Schattenlurch, wenn
+ihr vier Schalter findet.
+!------------------------------!
+Non proprio. Ecco un'altro aiutino.
+Se quattro interruttori scattare
+farai... la nuova ombra troverai!
+!------------------------------!
+De hecho, no. Una cosilla más:
+si dais con 4 interruptores,
+la sombra hallaréis.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uma <E2><80><9C>nova sombra<E2><80><9D>, é?
+Hmm...
+!------------------------------!
+Une <E2><80><9C>nouvelle ombre<E2><80><9D> ?
+Hmm...
+!------------------------------!
+Ein <E2><80><9E>neuer Schattenlurch<E2><80><9C> also?
+Hm ....
+!------------------------------!
+Una "nuova ombra", eh?
+Mmm...
+!------------------------------!
+Una "nueva sombra", ¿no?
+Mm...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/lu.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Vamos verificar o labirinto para
+achar esses interruptores, Roxas.
+!------------------------------!
+Cherchons ces interrupteurs dans
+le labyrinthe, Roxas.
+!------------------------------!
+Durchsuchen wir das Labyrinth
+nach den Schaltern, Roxas.
+!------------------------------!
+Cerchiamo gli interruttori nel
+labirinto, Roxas.
+!------------------------------!
+Vamos a buscar esos interrupto-
+res en el laberinto, Roxas.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tá.
+!------------------------------!
+D'accord.
+!------------------------------!
+Okay.
+!------------------------------!
+Bene.
+!------------------------------!
+De acuerdo.
+!------------------------------!
+!******************************!

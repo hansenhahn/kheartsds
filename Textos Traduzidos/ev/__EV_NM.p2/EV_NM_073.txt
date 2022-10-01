@@ -1,0 +1,281 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:3
+!******************************!
+&.[HDR].2&
+2:26
+!******************************!
+&.[HDR].2&
+2:27
+!******************************!
+&.[HDR].2&
+2:28
+!******************************!
+&.[HDR].2&
+mi/ch/21.z
+!******************************!
+&.[HDR].2&
+mi/ch/22.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ob/56.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aah, Jack. Já completei os itens 
+que você me pediu. Estão bem aqui.
+!------------------------------!
+Ah, Jack. Je viens de terminer la
+construction des objets que tu
+m'as demandés. Ils sont juste là.
+!------------------------------!
+Ah, Jack. Ich bin gerade mit den
+Sachen fertig, um die du mich
+gebeten hast. Hier drüben.
+!------------------------------!
+Ah, Jack. Ho appena terminato
+ciò che mi avevi richiesto. Ecco qui.
+!------------------------------!
+Ah, Jack. He completado el
+encargo que me hiciste.
+Aquí mismo está.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bone_tire_L
+!******************************!
+&.[DCA].Bip.&
+Bone_tire_R
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bone_tire_L
+!******************************!
+&.[DCA].Bip.&
+Bone_tire_R
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Obrigado, Doctor! Este Halloween será
+com certeza um para nunca esquecer!
+!------------------------------!
+Merci, Docteur !
+Cet Halloween restera dans les
+annales, j'en suis sûr !
+!------------------------------!
+Danke, Doktor!
+Das wird garantiert
+ein unvergessliches Halloween!
+!------------------------------!
+Grazie, Dottore! Il prossimo
+Halloween sarà memorabile!
+!------------------------------!
+Gracias, Doctor. ¡Este Halloween
+sí que será inolvidable!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sem dúvida...
+Você realmente está em 
+boa forma este ano.
+!------------------------------!
+Sans doute, oui...
+Tu es en grande forme cette
+année, dis donc.
+!------------------------------!
+Zweifellos ...
+Du bist dieses Jahr
+in guter Form.
+!------------------------------!
+Senza dubbio...
+Quest'anno sei davvero
+in forma smagliante.
+!------------------------------!
+Sin duda...
+Este año estás en plena forma.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Eu estive com muita inspiração
+com o mundo ao meu redor!
+!------------------------------!
+Je m'inspire énormément du
+monde qui m'entoure !
+!------------------------------!
+Ich hab mich einfach
+von meiner Umwelt
+inspirieren lassen.
+!------------------------------!
+Ho voluto trarre ispirazione
+dal mondo intorno a me!
+!------------------------------!
+Me he estado inspirando mucho
+en el mundo que me rodea.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Muito bom. Ter uma boa visão de
+tudo ao seu redor é essencial
+para um inventor.
+!------------------------------!
+Parfait. Garder un œil sur ce qui
+nous entoure est essentiel pour
+nous autres inventeurs.
+!------------------------------!
+Sehr gut. Ein waches Auge für
+die Umgebung ist wichtig
+für einen Erfinder.
+!------------------------------!
+Ottimo. Prestare attenzione all'ambiente
+circostante è fondamentale per
+un inventore.
+!------------------------------!
+Muy bien. Vigilar el entorno
+como un lince es primordial
+para todo inventor.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora, já que você esteve explorando,
+viu os três pirralhos do Oogie?
+!------------------------------!
+Mais au fait, as-tu vu les trois
+acolytes d'Oogie pendant tes
+pérégrinations ?
+!------------------------------!
+Da fällt mir ein, hast du
+beim Erkunden Oogies drei
+üble Bälger gesehen?
+!------------------------------!
+A proposito, dato che eri in giro,
+hai visto i tirapiedi del Baubau?
+!------------------------------!
+Has estado explorando, ¿no?
+¿Te has topado con esos tres
+mocosos amigos de Oogie?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ouvi falar que ele está tramando 
+algo nas proximidades da cidade. 
+Alguma ideia do que seja desta vez?
+!------------------------------!
+Il paraît qu'ils mijotent quelque chose
+en dehors de la ville. Sais-tu de quoi il
+s'agit cette fois ?
+!------------------------------!
+Sollen was in den Vororten
+vorhaben. Hast du 'ne Ahnung,
+was es diesmal sein könnte?
+!------------------------------!
+Ho sentito che stanno architettando
+qualcosa fuori città. Hai idea di cosa
+abbiano in mente, questa volta?
+!------------------------------!
+He oído que están maquinando
+algo en las afueras de la ciudad...
+¿Tienes idea de qué se trata?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Nenhuma...
+!------------------------------!
+Aucune idée...
+!------------------------------!
+Keinen blassen Schimmer ...
+!------------------------------!
+No...
+!------------------------------!
+Ni idea...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sally disse que os viu outro dia...
+!------------------------------!
+Sally a dit qu'elle les avait vus
+l'autre jour...
+!------------------------------!
+Sally meinte, sie hätte sie
+neulich gesehen ...
+!------------------------------!
+Sally ha detto di averli
+visti l'altro giorno...
+!------------------------------!
+Sally me dijo que los vio
+el otro día...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bah, ela deve ter imaginado.
+Ela sempre se preocupa demais.
+!------------------------------!
+Bah, ce doit être son imagination.
+Elle se fait toujours du souci
+pour rien.
+!------------------------------!
+Ach was, das muss sie sich
+eingebildet haben. Sie war schon immer
+eine richtige Schwarzseherin. 
+!------------------------------!
+Bah, se lo sarà immaginato.
+Si preoccupa sempre troppo.
+!------------------------------!
+Bah, debe de habérselo
+imaginado. Es doña angustias.
+!------------------------------!
+!******************************!

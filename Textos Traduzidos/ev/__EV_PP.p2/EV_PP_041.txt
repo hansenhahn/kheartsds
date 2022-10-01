@@ -1,0 +1,262 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/3A.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/1E.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[HDR].2&
+mi/ch/1D.z
+!******************************!
+&.[HDR].2&
+mi/ob/69.z
+!******************************!
+&.[HDR].2&
+mi/ob/5D.z
+!******************************!
+&.[HDR].2&
+mi/ob/5D.z
+!******************************!
+&.[HDR].2&
+mi/ob/75.z
+!******************************!
+&.[HDR].2&
+mi/ob/C2.z
+!******************************!
+&.[HDR].2&
+mi/ob/F3.z
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+M-Mas, senhor... acha mesmo que 
+vale o esforço?
+!------------------------------!
+Mais, Capitaine... vous êtes sûr que
+ça en vaut la peine ?
+!------------------------------!
+A-Aber ... meinen Sie wirklich,
+dass es den Ärger wert ist?
+!------------------------------!
+M-ma Capitano...
+Credete davvero che ne valga la pena?
+!------------------------------!
+P-pero, señor... ¿realmente cree
+que vale tanto la pena?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Já cavamos bem bom já, e só encontramos
+lixo e mais lixo. E esses Heartless...
+!------------------------------!
+On a déjà beaucoup creusé et tout
+ce qu'on a trouvé c'est de la
+pacotille et des Sans-cœur...
+!------------------------------!
+Wir haben schon jede Menge
+gegraben und bis jetzt nichts als
+Schrott und Herzlose gefunden ...
+!------------------------------!
+Abbiamo già scavato abbastanza,
+e finora abbiamo trovato solo
+robaccia senza valore e Heartless...
+!------------------------------!
+Ya nos hemos hartado de cavar
+y solo hemos encontrado
+quincalla y sincorazón...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Pare de choramingar, Barrica, 
+e pensa! Por que tantos mapas? 
+Vou te dizer por que.
+!------------------------------!
+Arrête de discuter, espèce d'idiot
+crépusculaire, et réfléchis !
+Pourquoi y a-t-il autant de cartes ?
+!------------------------------!
+Schluss jetzt mit dem Gejammer!
+Verstehst du's nicht, Smee?
+Warum gibt's wohl so viele Karten?
+!------------------------------!
+Smettila di frignare, Spugna, e rifletti!
+Perché c'erano così tante mappe?
+Te lo dico io...
+!------------------------------!
+¡Deja de quejarte y piensa, Smee!
+¿Por qué había tantos mapas?
+¡Pues yo te lo diré!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Quem quer que tenha enterrado o tesouro
+criou mapas falsos pra me tirar de rumo
+e proteger o verdadeiro local!
+!------------------------------!
+Celui qui a enterré le trésor a laissé
+de fausses cartes pour brouiller les
+pistes !
+!------------------------------!
+Derjenige, der den Schatz vergraben
+hat, will uns in die Irre führen, damit
+wir den richtigen Schatz nicht finden!
+!------------------------------!
+Chi ha sepolto il tesoro ha creato
+delle mappe false per confondermi
+e proteggere il vero nascondiglio!
+!------------------------------!
+El que enterró el tesoro hizo
+copias falsas para despistar y
+proteger el verdadero escondite.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ah! Então um destes mapas é 
+com certeza o verdadeiro, né?
+!------------------------------!
+Oh ! Alors une de ces cartes doit
+être la bonne, c'est ça ?
+!------------------------------!
+Oh! Dann ist eine der Karten
+also echt, oder?
+!------------------------------!
+Oh! Quindi una di queste mappe
+deve essere quella vera, giusto?
+!------------------------------!
+¡Ah! Entonces, seguro que uno de
+esos mapas es el de verdad, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, e o único jeito de saber é 
+seguindo todos eles!
+!------------------------------!
+Oui. Et la seule façon de savoir
+laquelle, c'est de creuser partout !
+!------------------------------!
+Aye, und welche es ist, finden wir
+nur heraus, wenn wir sie
+der Reihe nach abklappern.
+!------------------------------!
+Sì, e l'unico modo per scoprire
+qual è... è controllarle tutte!
+!------------------------------!
+Sí, y la única manera de
+averiguarlo es seguirlos todos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Os Heartless devem estar plantados nos 
+pontos marcados como cães de guarda.
+!------------------------------!
+Ces Sans-cœur doivent avoir été
+placés là pour jouer les chiens de
+garde.
+!------------------------------!
+Diese Herzlosen müssen als
+Wachhunde an den markierten
+Stellen platziert worden sein.
+!------------------------------!
+Gli Heartless devono esser stati
+piazzati come guardiani dei punti segnati.
+!------------------------------!
+Deben de haber puesto a esos
+sincorazón ahí de perros
+guardianes.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+He, mas ninguém leva a melhor com o 
+Capitão Gancho aqui. Aquele tesouro 
+é meu. Meu, meu e só meu!
+!------------------------------!
+Mais personne ne peut résister au
+Capitaine Crochet. Ce trésor est à
+moi. À moi et à moi seul !
+!------------------------------!
+Tja, Käpt'n Hook legt keiner rein.
+Der Schatz ist mein ... mein, mein!
+!------------------------------!
+Beh, nessuno è più furbo di
+Capitan Uncino. Quel tesoro
+è mio... mio... mio!!!
+!------------------------------!
+Nadie supera en astucia al
+capitán Garfio. ¡Ese tesoro es
+mío, mío y solo mío!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora andando, Barrica!
+!------------------------------!
+Allons-y, Mouche !
+!------------------------------!
+Und jetzt beweg dich, Smee!
+!------------------------------!
+Ora datti una mossa, Spugna!
+!------------------------------!
+¡Y ahora, en marcha, Smee!
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, sim, Capitão!
+!------------------------------!
+Oui, Capitaine !
+!------------------------------!
+Aye, aye, Käpt'n!
+!------------------------------!
+Ai vostri ordini, Capitano!
+!------------------------------!
+¡Sí, señor, capitán, señor!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!

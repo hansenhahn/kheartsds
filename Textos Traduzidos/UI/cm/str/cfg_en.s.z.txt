@@ -1,10 +1,10 @@
-﻿Ajuste suas configurações.
+Ajuste suas configurações.
 !******************************!
 Configurações do Jogador
 !******************************!
 Configurações Universais
 !******************************!
-――
+<2015><2015>
 !******************************!
 Controles
 !******************************!
@@ -12,27 +12,27 @@ Tipo de Câmera
 !******************************!
 Veloc da Câmera
 !******************************!
-Eixo X da Câmera
+Câmera Eixo X
 !******************************!
-Eixo Y da Câmera
+Câmera Eixo Y
 !******************************!
 Posição do Cursor
 !******************************!
 Lista de Comandos
 !******************************!
-Conduta de Combate do Parceiro
+Conduta de Luta do Parceiro
 !******************************!
 Alvo
 !******************************!
 Suporte
 !******************************!
-Magia de Ataque
+Magia de ATQ
 !******************************!
 Cura
 !******************************!
-Força do Inimigo
+Força do Inim.
 !******************************!
-Força do Jogador
+Força do Jog.
 !******************************!
 Sugar PV
 !******************************!
@@ -44,17 +44,17 @@ Coroas de Posição
 !******************************!
 Desvantagens
 !******************************!
-Ganhos por Dano
+Perdas por Dano
 !******************************!
-Contagem para VAC
+Contagem VAC
 !******************************!
 Vidas
 !******************************!
 Prêmio de PV
 !******************************!
-Ganhos por Abate
+Ganhos por NO
 !******************************!
-Quebras de Limite
+Quebras de Lmt.
 !******************************!
 Tipo A
 !******************************!
@@ -68,7 +68,7 @@ Rápido
 !******************************!
 Normal
 !******************************!
-Lento
+Lenta
 !******************************!
 Normal
 !******************************!
@@ -82,77 +82,77 @@ Reverter
 !******************************!
 Permanecer
 !******************************!
-㌢ + <+>
+<X> + <+>
 !******************************!
-㌢ Só
+<X> Apenas
 !******************************!
 Mesmo
 !******************************!
-Separar
+Separado
 !******************************!
-Desligado
+Sem
 !******************************!
 Dano
 !******************************!
-Recuperação
+Cura
 !******************************!
 Sem Suporte
 !******************************!
-Desabilitado
+Sim
 !******************************!
-Habilitado
+Não
 !******************************!
-Desabilitado
+Sim
 !******************************!
-Habilitado
-!******************************!
-Normal
-!******************************!
-Alto
-!******************************!
-Máximo
+Não
 !******************************!
 Normal
 !******************************!
-Lento
+Alta
 !******************************!
-Mínimo
+Máxima
+!******************************!
+Normal
+!******************************!
+Lenta
+!******************************!
+Mínima
 !******************************!
 Sempre
 !******************************!
 Chão
 !******************************!
-Desligado
+Sem
 !******************************!
 Alto
 !******************************!
 Lento
 !******************************!
-Desligado
+Sem
 !******************************!
-Ligado
+Com
 !******************************!
-Desligado
+Sem
 !******************************!
-Ligado
+Com
 !******************************!
-Desligado
+Sem
 !******************************!
-Desligado
+Sem
 !******************************!
-Ligado
+Com
 !******************************!
 Sempre
 !******************************!
-Ligado
+Com
 !******************************!
-Desligado
+Sem
 !******************************!
 30
 !******************************!
 120
 !******************************!
-Nenhum
+Nada
 !******************************!
 5
 !******************************!
@@ -160,21 +160,21 @@ Nenhum
 !******************************!
 1
 !******************************!
-Ligado
+Com
 !******************************!
-Desligado
+Sem
 !******************************!
-Todo
+Tudo
 !******************************!
 Metade
 !******************************!
-Nenhum
+Nada
 !******************************!
 Infinito
 !******************************!
 Normal
 !******************************!
-Desligado
+Sem
 !******************************!
 Defina o funcionamento dos Botões L/R:
 !******************************!
@@ -212,7 +212,7 @@ Opte sobre ícones que mostram quem está vencendo:
 !******************************!
 Opte sobre desvantagens:
 !******************************!
-Escolha quanto jogadores perderão prêmios quando acertados:
+Escolha o quanto jogadores perderão prêmios quando acertados:
 !******************************!
 Defina um limite de tempo para chegar ao corredor negro:
 !******************************!
@@ -220,14 +220,14 @@ Defina quantas chances você terá:
 !******************************!
 Opte sobre prêmios de PV:
 !******************************!
-Escolha quantos prêmios jogadores perderão quando abatidos:
+Escolha quantos prêmios jogadores largarão quando NO'do:
 !******************************!
 Defina as regras para usar Quebras de Limite:
 !******************************!
-㌧: Restaurar câmera / Mira / Alternar tipo de câmera
+<R>: Restaurar câmera / Mira / Alternar tipo de câmera
 <L>: Acessar atalhos
 !******************************!
-㌧: Girar câmera / Mira           <L> + <R>:
+<R>: Girar câmera / Mira           <L> + <R>:
 <L>: Girar ou restaurar câmera   Acessar atalhos
 !******************************!
 A câmera ficará atrás de você enquanto se move.

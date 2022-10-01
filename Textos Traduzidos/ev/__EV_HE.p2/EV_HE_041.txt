@@ -1,0 +1,84 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:5
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ob/06.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Então hoje eles querem que eu
+entre nos Jogos e destrua os
+Heartless?
+!------------------------------!
+Bon, aujourd'hui je dois participer aux
+Jeux et neutraliser des Sans-cœur,
+c'est ça ?
+!------------------------------!
+Ich soll heute also an
+den Spielen teilnehmen
+und Herzlose besiegen?
+!------------------------------!
+Oggi mi hanno chiesto di
+partecipare ai Giochi e
+sconfiggere degli Heartless.
+!------------------------------!
+¿Así que hoy quieren que
+participe en los juegos y acabe
+con unos sincorazón?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Parece mais um exercício do que
+outra coisa.
+!------------------------------!
+Ça m'a plus l'air d'un exercice
+qu'autre chose.
+!------------------------------!
+Hört sich nach einer Übung an.
+!------------------------------!
+Mi sembra poco più di una
+semplice esercitazione.
+!------------------------------!
+Parece más un ejercicio
+que otra cosa.
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Bem, se eu terminar isso rápido,
+poderei ir achar a Xion logo.
+!------------------------------!
+Dès que j'en aurai fini, je pourrai
+aller chercher Xion.
+!------------------------------!
+Na ja, je schneller ich das
+erledige, desto eher kann ich
+nach Xion suchen.
+!------------------------------!
+Beh, prima finisco qui, prima
+potrò andare a cercare Xion.
+!------------------------------!
+Bueno, cuanto antes acabe,
+antes podré ir a buscar a Axel
+y Xion.
+!------------------------------!
+!******************************!

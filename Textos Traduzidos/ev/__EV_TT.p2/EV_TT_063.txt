@@ -1,0 +1,257 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:17
+!******************************!
+&.[HDR].2&
+2:18
+!******************************!
+&.[HDR].2&
+2:19
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/05.z
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[HDR].2&
+2:45
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Acabei. Derrotei o número de
+Heartless que você disse.
+!------------------------------!
+C'est fait. J'ai battu le nombre de
+Sans-cœur qu'il fallait.
+!------------------------------!
+Alles erledigt. Ich hab so viele
+Herzlose besiegt, wie du
+gesagt hast.
+!------------------------------!
+Fatto. Ho sconfitto il numero
+di Heartless che hai chiesto.
+!------------------------------!
+Listo. He derrotado a todos los
+sincorazón que me has dicho.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora vamos VAC, né?
+!------------------------------!
+On peut RÀC maintenant, non ? 
+!------------------------------!
+Jetzt kehren wir zum Schloss
+zurück, oder?
+!------------------------------!
+Ora possiamo tornare al
+castello, giusto?
+!------------------------------!
+Ahora toca VAC, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sair? Já? Eu, no seu lugar, 
+me aplicaria um pouco mais.
+!------------------------------!
+À ta place, je m'appliquerais un peu
+plus.
+!------------------------------!
+Jetzt schon?
+Wenn ich du wäre, würde ich
+mir etwas mehr Mühe geben.
+!------------------------------!
+Te ne vai di già?
+Se fossi in te, cercherei di
+impegnarmi un po' di più.
+!------------------------------!
+¿Ya lo dejas? Si yo
+estuviera en tu lugar,
+me aplicaría un poco más.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas eu<E2><80><95>
+!------------------------------!
+Mais...
+!------------------------------!
+Aber ich ...
+!------------------------------!
+Ma io...
+!------------------------------!
+Pero yo...
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Sim, sim, você fez como foi lhe
+pedido. Missão cumprida... mas...
+!------------------------------!
+Oui, tu as fait ce qu'on t'a dit.
+La mission est accomplie, mais...
+!------------------------------!
+Jaja, du hast deine Mission
+erledigt ... aber ...
+!------------------------------!
+Sì, hai fatto come ti ho detto.
+Missione compiuta, ma...
+!------------------------------!
+Sí, has hecho lo que te pedimos.
+Completaste la misión. Pero...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Como pode evidentemente ver, há
+ainda Heartless vagando por aí.
+!------------------------------!
+comme tu peux le constater, il reste
+encore des Sans-cœur dans les
+parages.
+!------------------------------!
+Wie du siehst, treiben sich
+hier immer noch Herzlose
+herum.
+!------------------------------!
+Come puoi vedere, qui in giro
+ci sono ancora degli Heartless.
+!------------------------------!
+Como ves, todavía hay varios
+sincorazón pululando por aquí.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Você não precisar eliminar todos.
+É sua escolha.
+!------------------------------!
+Tu n'es pas obligé de tous les vaincre.
+C'est à toi de voir.
+!------------------------------!
+Du musst sie nicht alle besiegen.
+Du hast die Wahl.
+!------------------------------!
+Non sei costretto a eliminarli
+tutti. Questa è una tua scelta.
+!------------------------------!
+No tienes por qué derrotarlos a
+todos. Es elección tuya.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Assim como não tenho que respeitá-lo 
+por evadir-se de volta ao castelo, 
+enquanto ainda há trabalho a ser feito.
+!------------------------------!
+Mais c'est dommage de rentrer à la
+citadelle alors qu'il y a encore
+du pain sur la planche, non ?
+!------------------------------!
+So wie ich dich nicht zu respektieren
+brauche, wenn du dich einfach zurück-
+schleichst, obwohl es noch Arbeit gibt.
+!------------------------------!
+E se ci fosse ancora del lavoro
+da svolgere non approverei la
+decisione di tornare al castello.
+!------------------------------!
+Como tampoco tengo por qué
+respetarte por esconderte en el
+castillo sin acabar tu trabajo.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+E se isso não lhe importa, apenas
+lembre-se de que a Ordem premeia 
+aqueles que fazem esforço extra.
+!------------------------------!
+Et si tu n'es toujours pas convaincu,
+sache que l'Organisation récompense
+ceux qui s'investissent vraiment.
+!------------------------------!
+Und wenn dich das nicht überzeugt,
+denk daran, dass die Organisation
+Extra-Einsatz belohnt.
+!------------------------------!
+In ogni caso, ricorda che
+l'Organizzazione premia coloro
+che si sforzano al massimo.
+!------------------------------!
+Y si eso no te importa, recuerda
+que la Organización premia a
+quienes se esfuerzan.
+!------------------------------!
+!******************************!

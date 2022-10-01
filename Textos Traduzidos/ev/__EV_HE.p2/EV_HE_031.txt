@@ -1,0 +1,189 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:7
+!******************************!
+&.[HDR].2&
+2:8
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/41.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Tive esperando por você, filho!
+Hoje é o grande dia, hein?
+!------------------------------!
+Je t'attendais, petit ! Alors, c'est le
+grand jour, hein ?
+!------------------------------!
+Ich hab auf dich gewartet,
+Kleiner! Heute ist der große
+Tag, hm?
+!------------------------------!
+Ti stavo aspettando, ragazzo!
+Oggi è il grande giorno, eh?
+!------------------------------!
+Te estaba esperando, chico.
+Hoy es el gran día, ¿no?
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Grande dia?
+!------------------------------!
+Le grand jour ?
+!------------------------------!
+Großer Tag ...?
+!------------------------------!
+Il grande giorno?
+!------------------------------!
+¿El gran día?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Relaxe. Já te inscrevi pros Jogos.
+!------------------------------!
+T'en fais pas. Je me suis déjà
+occupé de t'inscrire aux Jeux.
+!------------------------------!
+Keine Angst. Ich hab dich
+bereits für die Spiele angemeldet.
+!------------------------------!
+Non temere, ti ho già
+iscritto io ai Giochi.
+!------------------------------!
+No te preocupes. Ya he hecho
+que te inscriban en los juegos.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora você só precisa entrar lá
+e mostrar todo o seu treinamento!
+!------------------------------!
+T'as plus qu'à mettre en pratique ce
+que je t'ai appris à l'entraînement !
+!------------------------------!
+Du musst einfach nur das
+anwenden, was du im Training
+gelernt hast!
+!------------------------------!
+Non dovrai fare altro che
+mettere in pratica
+i miei insegnamenti!
+!------------------------------!
+¡Ahora entra ahí y pon en
+práctica todo ese entrenamiento!
+!------------------------------!
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Mas<E2><80><95> Tá bem...
+!------------------------------!
+Mais... Bon, d'accord.
+!------------------------------!
+Aber ... Na gut ...
+!------------------------------!
+Ma io... D'accordo.
+!------------------------------!
+Pero... Muy bien...
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+(Estão realizando os Jogos hoje?
+ Então o único jeito de verificar
+ o Coliseu é entrando nele.)
+!------------------------------!
+(Les Jeux ont lieu aujourd'hui ?
+ Alors la seule façon d'entrer dans
+ le Colisée, c'est d'y participer.)
+!------------------------------!
+(Die Spiele sind heute?
+ Dann muss ich teilnehmen,
+ um in der Arena suchen zu können.)
+!------------------------------!
+(Oggi ci saranno i Giochi? Il solo
+modo per perlustrare lo stadio
+è partecipare al torneo.)
+!------------------------------!
+(¿Hoy celebran los juegos? Pues
+la única manera de registrar el
+Coliseo será participar).
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Dorme não, filho!
+Preciso de você firme e forte.
+Só falar comigo quando tiver pronto.
+!------------------------------!
+Allez, on se réveille, petit !
+Il faut que tu donnes le maximum.
+Préviens-moi quand tu seras prêt.
+!------------------------------!
+Hör auf zu träumen, Kleiner!
+Du musst da draußen hellwach
+sein. Sag, wenn du so weit bist.
+!------------------------------!
+Svegliati, ragazzo!
+Ti voglio concentrato!
+Avvisami quando sei pronto.
+!------------------------------!
+¡Espabila, chico! Ahí te
+necesito en forma. Tú avísame
+cuando estés listo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!

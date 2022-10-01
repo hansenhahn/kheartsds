@@ -1,0 +1,390 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[HDR].2&
+2:16
+!******************************!
+&.[HDR].2&
+1:21
+!******************************!
+&.[HDR].2&
+2:29
+!******************************!
+&.[DCA].Bip.&
+door
+!******************************!
+&.[HDR].2&
+mi/ob/52.z
+!******************************!
+&.[HDR].2&
+mi/ob/4D.z
+!******************************!
+&.[HDR].2&
+mi/ch/0C.z
+!******************************!
+&.[HDR].2&
+mi/ch/24.z
+!******************************!
+&.[HDR].2&
+mi/ch/48.z
+!******************************!
+&.[HDR].2&
+mi/ob/53.z
+!******************************!
+&.[HDR].2&
+mi/ob/3E.z
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ai, é tarde....
+É tarde, muito, muito tarde!
+!------------------------------!
+Oh, je suis en retard,
+en retard !
+!------------------------------!
+Oh, ich bin so spät dran ...
+Ich bin dermaßen zu spät!
+!------------------------------!
+Oh, è tardi...
+È tardi, è tardi!
+!------------------------------!
+¡Llego tarde! ¡Muy tarde!
+¡Tardísimooo!
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+door
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele... encolheu?
+!------------------------------!
+Il a... rétréci ?
+!------------------------------!
+Ist es ... geschrumpft?
+!------------------------------!
+Si è... rimpicciolito?
+!------------------------------!
+¿Ha... encogido?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Ele bebeu da garrafa, veja.
+!------------------------------!
+Il a bu le contenu de la
+bouteille.
+!------------------------------!
+Es hat aus der Flasche getrunken.
+!------------------------------!
+Ha bevuto dalla bottiglia.
+!------------------------------!
+Ha bebido de una
+botella, mira tú.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Hã?! Quem<E2><80><95>
+!------------------------------!
+Hein ? Qui a parlé...
+!------------------------------!
+Was!? Wer ...
+!------------------------------!
+Uh?! Chi...
+!------------------------------!
+¿Eh? ¿Quién...?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Aqui embaixo.
+!------------------------------!
+Wouhou, en bas !
+!------------------------------!
+Hier unten.
+!------------------------------!
+Sono quaggiù.
+!------------------------------!
+Aquí abajo.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Uma... maçaneta falante?
+!------------------------------!
+Une poignée de porte... qui parle ?
+!------------------------------!
+Ein sprechender Türknauf?
+!------------------------------!
+Una... serratura parlante?
+!------------------------------!
+¿Un... picaporte que habla?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Claro... E com muito sono,
+se quer saber.
+!------------------------------!
+Oui, et une poignée de porte
+fatiguée si tu veux tout savoir...
+!------------------------------!
+Natürlich ... und zwar ein ganz
+schön schläfriger Türknauf.
+!------------------------------!
+Proprio così... E anche piuttosto
+assonnata, se lo vuoi sapere.
+!------------------------------!
+Eso mismo. Y uno al que has
+despertado con tu cháchara.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Agora, se me dá licença, vou
+voltar para a minha soneca.
+!------------------------------!
+Alors si ça ne te dérange pas,
+je vais me rendormir.
+!------------------------------!
+Wenn du mich entschuldigst,
+ich würde gern weiterschlafen.
+!------------------------------!
+Ora, se non ti dispiace, me
+ne torno a dormire.
+!------------------------------!
+Así que, si me perdonas, me
+vuelvo a mi siestecita.
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Espera, você disse que ele bebeu
+de uma garrafa. Que garrafa?
+!------------------------------!
+Mais quelle bouteille ?
+Vous avez dit qu'il avait bu
+le contenu de la bouteille.
+!------------------------------!
+Warte, du hast gesagt, es hat
+aus einer Flasche getrunken.
+Aus welcher Flasche?
+!------------------------------!
+Aspetta, hai detto che ha bevuto
+da una bottiglia. Quale bottiglia?
+!------------------------------!
+Espera, has dicho que ha bebido
+de una botella. ¿Qué botella?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A que está na mesa.
+Por que não tenta?
+!------------------------------!
+Celle sur la table.
+Là !
+!------------------------------!
+Aus der auf dem Tisch.
+Probier doch mal.
+!------------------------------!
+Quella sul tavolo.
+Perché non provi?
+!------------------------------!
+La que hay justo en
+esa mesa de ahí.
+¿Por qué no pruebas?
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Fala dessas?
+!------------------------------!
+Celles-ci ?
+!------------------------------!
+Die meinst du?
+!------------------------------!
+Una di quelle?
+!------------------------------!
+¿Te refieres a esas?
+!------------------------------!
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+Obviamente...
+Agora eu realmente quero voltar
+para o meu chocilo...
+!------------------------------!
+C'est exact.
+Sur ce, je vais continuer ma sieste.
+!------------------------------!
+Vermutlich. Aber jetzt würde ich
+wirklich gerne mein Nickerchen
+fortsetzen.
+!------------------------------!
+Sembra di sì.
+Ora vorrei davvero tornare
+a dormire, grazie.
+!------------------------------!
+Sin duda.
+Y ahora, me encantaría volver a
+mi siestecita.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+A com a etiqueta azul tem uma
+imagem de uma grande árvore se
+encolhendo... Aqui vamos nós.
+!------------------------------!
+Sur celle avec l'étiquette bleue,
+on voit un grand arbre rétrécir...
+Allez, qui ne tente rien n'a rien !
+!------------------------------!
+Auf der mit dem blauen Etikett
+ist ein großer, schrumpfender
+Baum ... Das wird bestimmt nichts.
+!------------------------------!
+Su quella con l'etichetta blu c'è
+l'immagine di un grande albero
+che rimpicciolisce. Proviamo.
+!------------------------------!
+La de la etiqueta azul tiene
+el dibujo de un árbol encogién-
+dose... No hay nada que perder.
+!------------------------------!
+!******************************!
+&.[DCA].Bip.&
+Bip01_Head
+!******************************!
+&.[DCA].Bip.&
+Bip01_Neck
+!******************************!
+&.[DCA].Bip.&
+Bip01_Spine1
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
+&.[DCA].Arquivo&
+mi/mo/ro.p2
+!******************************!
