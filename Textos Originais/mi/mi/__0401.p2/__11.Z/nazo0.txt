@@ -1,0 +1,826 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Okay, so we've got an entire city under a layer of
+sand. What do you make of it, Roxas?
+!------------------------------!
+XIGBAR
+Bon, apparemment toute la ville est ensevelie...
+Alors qu'en penses-tu, Roxas ?
+!------------------------------!
+XIGBAR
+Okay, die ganze Stadt ist unter Sand begraben ...
+Was sagt dir das, Roxas?
+!------------------------------!
+XIGBAR
+L'intera città è sepolta sotto la
+sabbia... Che ne pensi, Roxas?
+!------------------------------!
+XIGBAR
+Bueno, tenemos toda una
+ciudad bajo un manto de
+arena. ¿Qué opinas, Roxas?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Me?
+!------------------------------!
+ROXAS
+Moi ?
+!------------------------------!
+ROXAS
+Mir?
+!------------------------------!
+ROXAS
+Io?
+!------------------------------!
+ROXAS
+¿Yo?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Yes, you.
+How do you think it ended up like this?
+!------------------------------!
+XIGBAR
+Oui, toi. Pourquoi cet endroit est-il enseveli
+à ton avis ?
+!------------------------------!
+XIGBAR
+Ja, dir. Warum, glaubst du,
+ist das passiert?
+!------------------------------!
+XIGBAR
+Sì. Secondo te perché c'è
+sabbia dappertutto?
+!------------------------------!
+XIGBAR
+Sí, tú.
+¿Cómo crees que acabó así?
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Hmm, maybe because...
+!------------------------------!
+ROXAS
+Eh bien...
+!------------------------------!
+ROXAS
+Hmm, vielleicht weil ...
+!------------------------------!
+ROXAS
+Mmm, forse perché...
+!------------------------------!
+ROXAS
+Mm, quizá la causa sea...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+of the city's location?
+!------------------------------!
+Parce qu'on est dans le désert ?
+!------------------------------!
+die Stadt in der Wüste liegt?
+!------------------------------!
+... siamo nel deserto?
+!------------------------------!
+¿La ubicación de la ciudad?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+they need the sand for something?
+!------------------------------!
+Ils utilisent le sable ?
+!------------------------------!
+sie den Sand für irgendwas brauchen?
+!------------------------------!
+... usano la sabbia per qualcosa?
+!------------------------------!
+¿Que usan la arena para algo?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I mean, we are in the middle of the desert.
+Maybe this is normal.
+!------------------------------!
+ROXAS
+La ville est en plein désert. C'est peut-être normal.
+!------------------------------!
+ROXAS
+Die Stadt liegt mitten in der Wüste.
+Vielleicht ist das ja normal.
+!------------------------------!
+ROXAS
+Voglio dire, siamo in mezzo
+al deserto. Sarà normale.
+!------------------------------!
+ROXAS
+Quiero decir, estamos en
+medio del desierto. Quizá sea
+normal.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Heh heh, normal? As if.
+Look at the city walls.
+!------------------------------!
+XIGBAR
+Ha, ha, normal ? Mais non, regarde les murs.
+!------------------------------!
+XIGBAR
+Hi, hi, normal? Von wegen.
+Sieh dir mal die Stadtmauer an.
+!------------------------------!
+XIGBAR
+Eh eh, normale?
+Macché. Guarda le mura.
+!------------------------------!
+XIGBAR
+Je, ¿normal? Lo que digas.
+Mira las murallas de la
+ciudad.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+They built them high to prevent exactly this from
+happening.
+!------------------------------!
+Ils sont très hauts, justement pour
+empêcher ce genre de problème.
+!------------------------------!
+Sie ist so hoch, um genau das
+zu verhindern.
+!------------------------------!
+Le hanno costruite così alte proprio
+per prevenire tutto questo.
+!------------------------------!
+Las construyeron para evitar
+esto, precisamente.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Sand comes in handy...doesn't it?
+!------------------------------!
+ROXAS
+Le sable leur sert peut-être à quelque chose ?
+!------------------------------!
+ROXAS
+Vielleicht brauchten sie den Sand ja.
+!------------------------------!
+ROXAS
+La sabbia può tornare
+molto utile... no?
+!------------------------------!
+ROXAS
+La arena es útil... ¿no?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Ha ha, right, if you're trying to build the world's
+biggest hourglass...
+!------------------------------!
+XIGBAR
+À quoi ? À construire le plus grand sablier
+du monde ? Ha, ha !
+!------------------------------!
+XIGBAR
+Ha, ha, vielleicht, wenn man
+die größte Sanduhr der Welt bauen will.
+!------------------------------!
+XIGBAR
+Ah ah! Certo, se vuoi costruire la
+clessidra più grande del mondo.
+!------------------------------!
+XIGBAR
+Ja, ja. Claro, si estás
+intentando construir el mayor
+reloj de arena del mundo...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Think. The sand's placement is too random to have
+been gathered on purpose.
+!------------------------------!
+Réfléchis. L'emplacement des amas de sable est
+trop aléatoire pour que ce soit volontaire.
+!------------------------------!
+Überleg mal. Der Sand sieht nicht so aus,
+als hätte ihn jemand mit Absicht gesammelt.
+!------------------------------!
+Dai, basta un'occhiata per capire
+che non è stata raccolta di proposito.
+!------------------------------!
+Piensa. La arena está puesta
+al azar, no ha sido
+amontonada para nada.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Okay, fine. Then maybe...
+!------------------------------!
+ROXAS
+Oui, alors peut-être que...
+!------------------------------!
+ROXAS
+Okay, gut. Dann war's vielleicht ...
+!------------------------------!
+ROXAS
+Ho capito. Allora forse...
+!------------------------------!
+ROXAS
+Vale, bien.
+Entonces puede que...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+this was all some kind of prank?
+!------------------------------!
+C'est une farce ?
+!------------------------------!
+ein böser Streich?
+!------------------------------!
+... che sia una specie di scherzo?
+!------------------------------!
+¿Haya sido una broma?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+the city was hit with a sandstorm?
+!------------------------------!
+La ville a essuyé une tempête de sable ?
+!------------------------------!
+ein Sandsturm, der die Stadt getroffen hat.
+!------------------------------!
+... c'è stata una tempesta di sabbia?
+!------------------------------!
+¿Haya caído una tormenta de arena?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+You know, somebody's idea of a joke?
+!------------------------------!
+ROXAS
+C'est peut-être juste une farce ?
+!------------------------------!
+ROXAS
+Vielleicht hielt das ja jemand für lustig?
+!------------------------------!
+ROXAS
+E se fosse solo uno scherzo
+di pessimo gusto?
+!------------------------------!
+ROXAS
+¿Una broma pesada de
+alguien, quizá?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Some sense of humor you've got!
+Remind me never to make you mad.
+!------------------------------!
+XIGBAR
+Tu as un drôle de sens de l'humour !
+Rappelle-moi de ne jamais t'embêter.
+!------------------------------!
+XIGBAR
+Du hast vielleicht Humor!
+Erinnere mich daran, dich bloß nie zu ärgern.
+!------------------------------!
+XIGBAR
+Hai un bel senso dell'umorismo...
+Ricordami di non farti arrabbiare.
+!------------------------------!
+XIGBAR
+¡Qué sentido del humor!
+Nunca te haré enfadar.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Why?
+!------------------------------!
+ROXAS
+Pourquoi ça ?
+!------------------------------!
+ROXAS
+Warum?
+!------------------------------!
+ROXAS
+Perché?
+!------------------------------!
+ROXAS
+¿Por qué?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+......
+Roxas... This is the work of a sandstorm.
+!------------------------------!
+XIGBAR
+Roxas... C'est une tempête de sable qui a causé
+tous ces dégâts.
+!------------------------------!
+XIGBAR
+...
+Roxas ... Das war ein Sandsturm.
+!------------------------------!
+XIGBAR
+...
+C'è stata una tempesta, Roxas.
+!------------------------------!
+XIGBAR
+...
+Roxas... Esto es obra de una
+tormenta de arena.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Multiple sandstorms, from the look of it.
+!------------------------------!
+Plusieurs tempêtes, même.
+!------------------------------!
+Mehrere Sandstürme, wie es aussieht.
+!------------------------------!
+Anzi, direi diverse tempeste
+di sabbia.
+!------------------------------!
+Por su aspecto, de muchas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+That would explain the damage to the walls.
+!------------------------------!
+ROXAS
+Ça expliquerait pourquoi les murs sont endommagés.
+!------------------------------!
+ROXAS
+Das würde die zerstörten Mauern
+erklären.
+!------------------------------!
+ROXAS
+Ciò spiegherebbe i danni
+alle mura della città.
+!------------------------------!
+ROXAS
+Eso explicaría el daño en los
+muros.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Attaboy, Roxas.
+You're right on the nose.
+!------------------------------!
+XIGBAR
+C'est bien, Roxas. Tu es sur la bonne voie.
+!------------------------------!
+XIGBAR
+Guter Junge, Roxas.
+Du bist ganz schön clever.
+!------------------------------!
+XIGBAR
+Bravo, Roxas.
+Sei un ragazzino sveglio.
+!------------------------------!
+XIGBAR
+Venga, Roxas.
+Lo tienes justo delante de
+tus narices.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+This place got hit by a sandstorm.
+And not just once or twice, from the look of it.
+!------------------------------!
+Cet endroit a été frappé par une tempête de sable.
+Plusieurs tempêtes, même.
+!------------------------------!
+Dieser Ort wurde von einem Sandsturm
+getroffen. Und nicht nur ein- oder zweimal.
+!------------------------------!
+Questo posto è stato colpito
+da una tempesta di sabbia
+un paio di volte, pare.
+!------------------------------!
+Esta ciudad ha sido castigada
+por una tormenta de arena. Y
+parece que no solo por una.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Now, how 'bout the lumber and rope?
+Roxas, gimme a damage assessment for the city.
+!------------------------------!
+Et qu'en est-il des poutres et des cordes ?
+Roxas, décris-moi les dégâts.
+!------------------------------!
+XIGBAR
+Was ist mit dem Holz und den Seilen?
+Roxas, gib mir einen Schadensbericht.
+!------------------------------!
+Che mi dici riguardo al legname
+e le funi? Fammi una valutazione
+dei danni alla città, Roxas.
+!------------------------------!
+¿Y qué hay de la madera y las
+cuerdas? Roxas, haz una
+valoración de los daños.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Well, from the look of it...
+!------------------------------!
+ROXAS
+Hmm, voyons voir...
+!------------------------------!
+ROXAS
+Nun, wie's aussieht ...
+!------------------------------!
+ROXAS
+Uhm, direi che...
+!------------------------------!
+ROXAS
+Bueno, por su aspecto...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+things could've been worse.
+!------------------------------!
+Ça aurait pu être pire.
+!------------------------------!
+sind die Schäden minimal.
+!------------------------------!
+... poteva andare molto peggio.
+!------------------------------!
+La cosa podría haber sido peor.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+the city was devastated.
+!------------------------------!
+La ville a été dévastée.
+!------------------------------!
+wurde die Stadt schwer verwüstet.
+!------------------------------!
+... la città è stata devastata.
+!------------------------------!
+La ciudad ha quedado arrasada.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's just a little wind and sand, right?
+!------------------------------!
+ROXAS
+Les dégâts ont l'air minimes, non ?
+!------------------------------!
+ROXAS
+Nur ein wenig Wind und etwas Sand,
+nicht wahr?
+!------------------------------!
+ROXAS
+In fin dei conti è solo un po'
+di vento e sabbia, no?
+!------------------------------!
+ROXAS
+Solo es un poco de viento y
+arena, ¿no?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+As if! Get your eyes checked, Roxas.
+!------------------------------!
+XIGBAR
+Mais non ! T'as pas les yeux en face des trous,
+Roxas.
+!------------------------------!
+XIGBAR
+Von wegen! Du solltest zum
+Augenarzt gehen, Roxas.
+!------------------------------!
+XIGBAR
+Macché! Ragionaci
+su, Roxas.
+!------------------------------!
+XIGBAR
+¡Pues no!
+Mírate la vista, Roxas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+All the building supplies lying around, and that
+scaffolding?
+!------------------------------!
+Il y a du matériel de construction partout et un
+échafaudage, non ?
+!------------------------------!
+All das herumliegende Baumaterial
+und dann noch die Gerüste?
+!------------------------------!
+Vedi tutti quei materiali edili?
+E quell'impalcatura?
+!------------------------------!
+¿Y todo ese material para
+construir y esos andamios?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+That means they're repairing the city, which means
+it's serious.
+!------------------------------!
+Ça veut dire qu'ils réparent la ville et que c'est
+donc du sérieux.
+!------------------------------!
+Das heißt, die Stadt wird repariert.
+Also wurde sie schwer getroffen.
+!------------------------------!
+Significa che stanno riparando la
+città, quindi i danni sono gravi.
+!------------------------------!
+Significa que están reparando
+la ciudad y que es grave.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This whole place is a wreck.
+!------------------------------!
+ROXAS
+La ville a été durement touchée.
+!------------------------------!
+ROXAS
+Der Ort ist eine einzige Ruine.
+!------------------------------!
+ROXAS
+Questo posto è un
+cumulo di macerie.
+!------------------------------!
+ROXAS
+Todo el lugar está hecho un
+desastre.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Yup, and that's not all.
+!------------------------------!
+XIGBAR
+En effet, mais ce n'est pas tout.
+!------------------------------!
+XIGBAR
+Richtig, aber das ist noch nicht alles.
+!------------------------------!
+XIGBAR
+Sì, ma c'è dell'altro.
+!------------------------------!
+XIGBAR
+Sí, y no solo eso.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+All the building supplies lying around, and that
+scaffolding?
+!------------------------------!
+Il y a du matériel de construction partout et un
+échafaudage, non ?
+!------------------------------!
+All das herumliegende Baumaterial
+und dann noch die Gerüste?
+!------------------------------!
+Vedi tutti quei materiali edili?
+E quell'impalcatura?
+!------------------------------!
+¿Y todo ese material para
+construir y esos andamios?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+They've been rebuilding.
+!------------------------------!
+Ça veut dire qu'ils reconstruisent.
+!------------------------------!
+Sie haben die Stadt wiederaufgebaut.
+!------------------------------!
+Stanno ricostruendo la città.
+!------------------------------!
+Lo están reconstruyendo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+<E2><80><9C>They,<E2><80><9D> who? The citizens?
+!------------------------------!
+ROXAS
+Qui ça ? Les habitants ?
+!------------------------------!
+ROXAS
+Wer denn? Die Einwohner?
+!------------------------------!
+ROXAS
+Chi? Gli abitanti?
+!------------------------------!
+ROXAS
+¿Quiénes? ¿Los ciudadanos?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+Who else? And it looks like a major effort.
+!------------------------------!
+XIGBAR
+Ben oui, qui d'autre ? Et ça n'a pas l'air facile.
+!------------------------------!
+XIGBAR
+Wer sonst?
+Und es sieht nach 'ner Menge Arbeit aus.
+!------------------------------!
+XIGBAR
+E chi altri? Sembrano darsi
+molto da fare, oltretutto.
+!------------------------------!
+XIGBAR
+¿Quién si no?
+Y parece un arduo trabajo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+There may be somebody leading the operation.
+!------------------------------!
+Quelqu'un doit sûrement superviser les travaux.
+!------------------------------!
+Es gibt bestimmt jemanden,
+der die Arbeiten leitet.
+!------------------------------!
+Potrebbe esserci qualcuno
+che dirige le operazioni.
+!------------------------------!
+Puede que haya alguien
+dirigiendo las obras.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+You think so?
+!------------------------------!
+ROXAS
+Tu crois ?
+!------------------------------!
+ROXAS
+Meinst du?
+!------------------------------!
+ROXAS
+Dici?
+!------------------------------!
+ROXAS
+¿Eso crees?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XIGBAR
+All right, Roxas. We've got what we came for.
+Let's RTC on outta here.
+!------------------------------!
+XIGBAR
+C'est bon, Roxas. On a eu ce qu'on voulait.
+Pour le moment, on rentre.
+!------------------------------!
+XIGBAR
+Gut, Roxas. Wir haben unseren Auftrag
+erledigt. Kehren wir zum Schloss zurück.
+!------------------------------!
+XIGBAR
+Bene, Roxas, qui il nostro lavoro
+è finito. Possiamo rientrare.
+!------------------------------!
+XIGBAR
+Bien, Roxas. Ya tenemos lo
+que queríamos. VAC.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Okay.
+!------------------------------!
+ROXAS
+OK.
+!------------------------------!
+ROXAS
+Okay.
+!------------------------------!
+ROXAS
+Bene.
+!------------------------------!
+ROXAS
+Vale.
+!------------------------------!
+!******************************!

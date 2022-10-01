@@ -1,0 +1,21 @@
+&.[HDR].&
+*.000004000000842401000000010000000100000007000F00.*
+!******************************!
+&.[DCA].Normal.&
+*.NULO.*
+!------------------------------!
+I knew that I'd find you snoozing down here.
+!------------------------------!
+Je savais que je te trouverais ici en
+train de faire un petit somme.
+!------------------------------!
+Ich wusste, dass ich dich hier
+unten schlafend finden würde.
+!------------------------------!
+Sapevo che ti avrei trovato
+a sonnecchiare quaggiù.
+!------------------------------!
+Sabía que te encontraría
+roncando aquí abajo.
+!------------------------------!
+!******************************!

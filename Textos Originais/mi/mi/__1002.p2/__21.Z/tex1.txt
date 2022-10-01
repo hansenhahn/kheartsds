@@ -1,0 +1,584 @@
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+XION
+Roxas, that monster<E2><80><95>
+!------------------------------!
+XION
+Roxas, ce monstre...
+!------------------------------!
+XION
+Roxas, das Monster ...
+!------------------------------!
+XION
+Roxas, quel mostro...
+!------------------------------!
+XION
+Roxas, ese monstruo... 
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+He ate the castle's master.
+!------------------------------!
+Il a mangé le maître des lieux
+!------------------------------!
+Es hat den Schlossherrn gefressen.
+!------------------------------!
+... ha divorato il padrone del castello.
+!------------------------------!
+Se ha comido al dueño.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+He is the castle's master.
+!------------------------------!
+C'est le maître des lieux
+!------------------------------!
+Das ist der Schlossherr.
+!------------------------------!
+... è il padrone del castello.
+!------------------------------!
+Es el dueño.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+He must've eaten the castle's master.
+
+!------------------------------!
+ROXAS
+Il a dû dévorer le maître des lieux.
+
+!------------------------------!
+ROXAS
+Es muss den Schlossherrn gefressen
+haben.
+!------------------------------!
+ROXAS
+Deve aver divorato
+il padrone del castello.
+!------------------------------!
+ROXAS
+Se ha comido al dueño.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+You mean he, like, took over the castle?
+
+!------------------------------!
+XION
+Tu veux dire qu'il se serait emparé du château ?
+!------------------------------!
+XION
+Du meinst, es hat das Schloss erobert?
+!------------------------------!
+XION
+Quindi si è impadronito del
+castello con la forza?
+!------------------------------!
+XION
+¿Se ha apoderado
+del castillo?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Hmm, wait, though... He said, <E2><80><9C>This is my castle.<E2><80><9D>
+He sounded pretty settled in.
+!------------------------------!
+ROXAS
+Hmm, attends... Il a dit que c'était son château.
+Et il avait l'air convaincu.
+!------------------------------!
+ROXAS
+Hm, warte mal ... Es hat gesagt: <E2><80><9E>Das ist mein
+Schloss.<E2><80><9C> Hört sich an, als wäre es hier zu Hause.
+!------------------------------!
+ROXAS
+Mmm, però... Ha detto "Questo è
+il mio castello". Sembrava sincero.
+!------------------------------!
+ROXAS
+Mm... Ha dicho "mi castillo".
+Y con mucha convicción.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Then this must have been his castle all along.
+Beast's Castle... He must be the beast.
+!------------------------------!
+XION
+Alors ce doit être son château depuis le début.
+!------------------------------!
+XION
+Dann muss das die ganze Zeit sein Schloss
+gewesen sein.
+!------------------------------!
+XION
+Sì, questo dev'essere sempre
+stato il suo castello.
+Il Castello della Bestia... Dev'essere la Bestia!
+!------------------------------!
+XION
+Entonces es que es suyo.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It sounds like this castle belongs to him.
+
+!------------------------------!
+ROXAS
+On dirait que le château lui appartient.
+!------------------------------!
+ROXAS
+Hört sich an, als würde das Schloss ihm gehören.
+!------------------------------!
+ROXAS
+Quel mostro dev'essere il
+padrone del castello.
+!------------------------------!
+ROXAS
+Parece que
+el castillo es suyo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+You think!?
+
+!------------------------------!
+XION
+Tu crois ?
+!------------------------------!
+XION
+Meinst du wirklich!?
+!------------------------------!
+XION
+Che cosa?!
+!------------------------------!
+XION
+¡¿Tú crees?!
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+He called this place <E2><80><9C>my castle.<E2><80><9D>
+It doesn't get much clearer than that.
+!------------------------------!
+ROXAS
+Il a dit que c'était son château.
+!------------------------------!
+ROXAS
+Es hat von <E2><80><9E>meinem Schloss<E2><80><9C> gesprochen.
+!------------------------------!
+ROXAS
+Ha chiamato questo luogo
+"il mio castello".
+Mi sembra chiarissimo.
+!------------------------------!
+ROXAS
+Ha dicho "mi castillo".
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Ah, then I guess he must be the beast.
+Beast's Castle? Makes sense.
+!------------------------------!
+ROXAS
+On ne pourrait pas être plus clair.
+!------------------------------!
+ROXAS
+Klarer geht's nicht.
+!------------------------------!
+XION
+Allora dev'essere proprio la Bestia.
+Il Castello della Bestia. Chiaro.
+!------------------------------!
+ROXAS
+A mí me parece evidente.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+XION
+Do you think he's fighting the Heartless, like us?
+!------------------------------!
+XION
+Peut-être qu'il combat les Sans-cœur
+comme nous. Tu ne crois pas ?
+!------------------------------!
+XION
+Vielleicht bekämpft es Herzlose wie wir.
+Was denkst du?
+!------------------------------!
+XION
+Pensi stia combattendo contro
+gli Heartless, proprio come noi?
+!------------------------------!
+XION
+Quizá esté luchando contra
+los sincorazón. ¿No?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+He must be.
+!------------------------------!
+Sûrement
+!------------------------------!
+Bestimmt.
+!------------------------------!
+Sicuramente
+!------------------------------!
+Así debe ser.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It's too soon to say.
+!------------------------------!
+C'est trop tôt pour le dire
+!------------------------------!
+Es ist zu früh, um das zu sagen.
+!------------------------------!
+È troppo presto per dirlo
+!------------------------------!
+Aún no lo sé.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+He must be.
+
+!------------------------------!
+ROXAS
+Sûrement, oui.
+!------------------------------!
+ROXAS
+Bestimmt.
+
+!------------------------------!
+ROXAS
+Certamente.
+!------------------------------!
+ROXAS
+Así debe ser.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Then the gashes in the walls must have happened
+in the process.
+!------------------------------!
+XION
+Alors, c'est sûrement lui qui a griffé les
+murs en combattant.
+!------------------------------!
+XION
+Dann müssen die Kratzer an den Wänden
+dabei entstanden sein.
+!------------------------------!
+XION
+Allora forse quei segni sui muri
+sono dei... danni collaterali.
+!------------------------------!
+XION
+Habrá arañado las paredes
+peleando contra ellos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+That's my theory, anyway.
+
+!------------------------------!
+ROXAS
+C'est ce que je pense.
+!------------------------------!
+ROXAS
+Das ist jedenfalls meine Theorie.
+!------------------------------!
+ROXAS
+È solo una teoria, comunque.
+!------------------------------!
+ROXAS
+Así lo creo yo.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's too soon to say.
+
+!------------------------------!
+ROXAS
+C'est trop tôt pour le dire.
+!------------------------------!
+ROXAS
+Es ist zu früh, um das zu sagen.
+!------------------------------!
+ROXAS
+È troppo presto per dirlo.
+!------------------------------!
+ROXAS
+Aún no lo sé.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+You're probably right.
+We shouldn't jump to conclusions.
+!------------------------------!
+XION
+Tu dois avoir raison.
+Ne tirons pas de conclusions hâtives.
+!------------------------------!
+XION
+Du hast wahrscheinlich recht.
+Wir sollten keine voreiligen Schlüsse ziehen.
+!------------------------------!
+XION
+Forse hai ragione. Non saltiamo
+subito alle conclusioni.
+!------------------------------!
+XION
+Tienes razón. Es mejor no
+especular demasiado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Although, those gashes in the wall...
+
+!------------------------------!
+ROXAS
+Mais ces marques de griffes sur les murs...
+!------------------------------!
+ROXAS
+Wobei, die Kratzer in der Wand ...
+!------------------------------!
+ROXAS
+Però quei segni sul muro...
+!------------------------------!
+ROXAS
+Aunque, esos arañazos...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+You think he made them, not the Heartless?
+
+!------------------------------!
+XION
+Tu crois que c'est lui et pas les Sans-cœur ?
+!------------------------------!
+XION
+Glaubst du, die stammen von ihm,
+nicht von den Herzlosen?
+!------------------------------!
+XION
+Credi siano opera sua,
+e non degli Heartless.
+!------------------------------!
+XION
+Crees que son obra suya.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+He must've been fighting something, that's for sure.
+
+!------------------------------!
+ROXAS
+Il combat quelque chose, c'est sûr.
+!------------------------------!
+ROXAS
+Es muss auf jeden Fall gegen etwas
+gekämpft haben.
+!------------------------------!
+ROXAS
+Sta combattendo contro qualcosa,
+questo è poco ma sicuro.
+!------------------------------!
+ROXAS
+Ha estado peleando con algo,
+está claro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+A beast with his own castle and a candelabra for a
+servant...
+!------------------------------!
+XION
+Un monstre qui possède un château avec
+un chandelier parlant pour domestique...
+!------------------------------!
+XION
+Ein Monster mit eigenem Schloss
+und Kerzenständern als Dienern ...
+!------------------------------!
+XION
+Una bestia con un castello e un
+candelabro come servitore...
+!------------------------------!
+XION
+Un monstruo con un castillo y
+un candelabro como criado...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This place must have quite a story behind it.
+
+!------------------------------!
+ROXAS
+Ce château doit avoir une drôle d'histoire.
+!------------------------------!
+ROXAS
+Hier muss 'ne ganz schön große Geschichte
+im Gange sein.
+!------------------------------!
+ROXAS
+Di sicuro questo posto
+è molto particolare.
+!------------------------------!
+ROXAS
+Aquí hay toda una
+historia, está claro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Well, we know what the master looks like.
+I think we can report back to Saïx now.
+!------------------------------!
+XION
+Maintenant, on sait à quoi ressemble le maître.
+Je crois qu'on peut retourner voir Saïx.
+!------------------------------!
+XION
+Wir wissen, wie der Herr aussieht.
+Wir können jetzt Saïx Bericht erstatten.
+!------------------------------!
+XION
+Beh, ora sappiamo che aspetto ha il
+padrone. Possiamo tornare da Saïx.
+!------------------------------!
+XION
+Bueno, ya sabemos cómo es.
+Podemos volver con Saïx.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Yeah.
+
+!------------------------------!
+ROXAS
+OK.
+
+!------------------------------!
+ROXAS
+Ja.
+
+!------------------------------!
+ROXAS
+Sì.
+!------------------------------!
+ROXAS
+Sí.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Want to RTC?
+
+!------------------------------!
+XION
+Tu veux rentrer ?
+
+!------------------------------!
+XION
+Wollen wir zurück zum Schloss?
+!------------------------------!
+XION
+Vuoi tornare al castello?
+!------------------------------!
+XION
+¿Quieres VAC?
+
+!------------------------------!
+!******************************!

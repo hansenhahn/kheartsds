@@ -1,8 +1,0 @@
-Errore di comunicazione.
-Premi <A> per tornare allo
-schermo del titolo.
-!******************************!
-Impossibile eseguire la comunicazione
-wireless DS. Premi <A> per tornare 
-allo schermo del titolo.
-!******************************!

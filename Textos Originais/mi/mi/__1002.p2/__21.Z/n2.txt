@@ -1,0 +1,24 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Whew... He almost spotted us.
+We need to be more careful.
+!------------------------------!
+ROXAS
+Ouf... il a failli nous voir.
+Il faut être plus prudent.
+!------------------------------!
+ROXAS
+Puh... Er hat uns beinah gesehen.
+Wir sollten vorsichtiger sein.
+!------------------------------!
+ROXAS
+Fiuh, per poco non ci scopriva.
+Dobbiamo stare più attenti.
+!------------------------------!
+ROXAS
+Uf... Casi nos ve.
+Debemos tener cuidado.
+!------------------------------!
+!******************************!

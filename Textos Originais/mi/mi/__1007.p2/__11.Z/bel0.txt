@@ -1,0 +1,329 @@
+&.[HDR].&
+*.000004000000A22201000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+......
+
+!------------------------------!
+XALDIN
+...
+!------------------------------!
+XALDIN
+...
+!------------------------------!
+XALDIN
+...
+!------------------------------!
+XALDIN
+...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Oops. Guess I had the wrong room.
+
+!------------------------------!
+ROXAS
+Oups. J'ai dû me tromper de pièce.
+!------------------------------!
+ROXAS
+Ups. Hab mich wohl im Zimmer geirrt.
+!------------------------------!
+ROXAS
+Ops. Forse ho sbagliato stanza.
+!------------------------------!
+ROXAS
+Uf. Creo que me
+he equivocado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Hmph, useless.
+
+!------------------------------!
+XALDIN
+Pff, espèce de bon à rien.
+!------------------------------!
+XALDIN
+Hmpf, nutzlos.
+!------------------------------!
+XALDIN
+Umpf, sei il solito.
+!------------------------------!
+XALDIN
+Qué pérdida de tiempo.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I just got a little turned around.
+Forget about that. The woman inside<E2><80><95>she's human!
+!------------------------------!
+ROXAS
+Je me suis trompé, c'est tout.
+La jeune fille à l'intérieur... elle est humaine !
+!------------------------------!
+ROXAS
+Ich hab mich ein wenig verlaufen.
+Vergiss das. Die Frau da drinnen ... ist ein Mensch!
+!------------------------------!
+ROXAS
+Scusa, mi sono un po' confuso.
+La donna all'interno... è umana!
+!------------------------------!
+ROXAS
+Pues sí, me equivoqué, pero...
+la mujer... ¡es humana!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Really? Just when I thought this castle was all
+freaks and furniture... Then she must be Belle.
+!------------------------------!
+XALDIN
+Hein ? Moi qui pensais qu'il n'y avait que des
+monstres ici... C'est sûrement la fameuse Belle.
+!------------------------------!
+XALDIN
+Wirklich? Und ich dachte schon, hier gäbe es nur
+abartige Gestalten und Mobiliar ... Das muss Belle sein.
+!------------------------------!
+XALDIN
+Davvero? Allora in questo castello non ci
+sono solo soprammobili. Dev'essere Belle.
+!------------------------------!
+XALDIN
+Y yo que pensaba que no había
+nadie aquí... Será esa Bella.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+How do you know?
+
+!------------------------------!
+ROXAS
+Comment le sais-tu ?
+!------------------------------!
+ROXAS
+Woher willst du das wissen?
+!------------------------------!
+ROXAS
+Come fai a dirlo?
+!------------------------------!
+ROXAS
+¿Cómo lo sabes?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+All the servants speak highly of her.
+
+!------------------------------!
+XALDIN
+Les domestiques parlent d'elle avec respect.
+!------------------------------!
+XALDIN
+Die Diener sprechen in den höchsten Tönen
+von ihr.
+!------------------------------!
+XALDIN
+Tutti i servitori la tengono
+in grande considerazione.
+!------------------------------!
+XALDIN
+Los criados hablan
+muy bien de ella.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+It's only fitting someone so well regarded would
+be given such fine lodgings.
+!------------------------------!
+En général, on réserve de tels appartements à
+des gens qu'on estime particulièrement !
+!------------------------------!
+Es würde also passen, dass sie
+so eine gute Unterkunft hat.
+!------------------------------!
+E un alloggio così accogliente
+può essere riservato solo a
+una persona importante.
+!------------------------------!
+Parece lógico que alguien
+tan apreciado reciba
+unos aposentos tan bonitos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+She's pretty, isn't she?
+!------------------------------!
+ROXAS
+Elle est jolie, pas vrai ?
+!------------------------------!
+ROXAS
+Sie ist hübsch, oder?
+!------------------------------!
+ROXAS
+È molto carina, vero?
+!------------------------------!
+ROXAS
+Es guapa, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I don't believe it. The woman inside<E2><80><95>she's human!
+!------------------------------!
+ROXAS
+Incroyable ! La jeune fille à l'intérieur...
+elle est humaine 
+!------------------------------!
+ROXAS
+Das glaube ich nicht. Die Frau da drinnen ...
+ist ein Mensch!
+!------------------------------!
+ROXAS
+Non posso crederci.
+La donna all'interno... è umana!
+!------------------------------!
+ROXAS
+Increíble. La mujer, ¡es humana!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Really? Just when I thought this castle was all
+freaks and furniture... Then she must be Belle.
+!------------------------------!
+XALDIN
+Hein ? Moi qui pensais qu'il n'y avait que des
+monstres ici... C'est sûrement la fameuse Belle.
+!------------------------------!
+XALDIN
+Wirklich? Und ich dachte schon, hier gäbe es nur
+abartige Gestalten und Mobiliar ... Das muss Belle sein.
+!------------------------------!
+XALDIN
+Davvero? Allora in questo castello non ci
+sono solo soprammobili. Dev'essere Belle.
+!------------------------------!
+XALDIN
+Y yo que pensaba que no había
+nadie aquí... Será esa Bella.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+How do you know?
+
+!------------------------------!
+ROXAS
+Comment le sais-tu ?
+!------------------------------!
+ROXAS
+Woher willst du das wissen?
+!------------------------------!
+ROXAS
+Come fai a dirlo?
+!------------------------------!
+ROXAS
+¿Cómo lo sabes?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+All the servants speak highly of her.
+
+!------------------------------!
+XALDIN
+Les domestiques parlent d'elle avec respect.
+!------------------------------!
+XALDIN
+Die Diener sprechen in den höchsten Tönen
+von ihr.
+!------------------------------!
+XALDIN
+Tutti i servitori la tengono
+in grande considerazione.
+!------------------------------!
+XALDIN
+Los criados hablan
+muy bien de ella.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+It's only fitting someone so well regarded would
+be given such fine lodgings.
+!------------------------------!
+En général, on réserve de tels appartements à
+des gens qu'on estime particulièrement !
+!------------------------------!
+Es würde also passen, dass sie
+so eine gute Unterkunft hat.
+!------------------------------!
+E un alloggio così accogliente
+può essere riservato solo a
+una persona importante.
+!------------------------------!
+Parece lógico que alguien
+tan apreciado reciba
+unos aposentos tan bonitos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+She's pretty, isn't she?
+!------------------------------!
+ROXAS
+Elle est jolie, pas vrai ?
+!------------------------------!
+ROXAS
+Sie ist hübsch, oder?
+!------------------------------!
+ROXAS
+È molto carina, vero?
+!------------------------------!
+ROXAS
+Es guapa, ¿verdad?
+!------------------------------!
+!******************************!

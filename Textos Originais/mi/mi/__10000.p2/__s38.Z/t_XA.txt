@@ -1,0 +1,197 @@
+&.[HDR].&
+*.0000040000005B1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><95><E3><81><A3><E3><81><95><E3><81><A8><E4><BB><BB><E5><8B><99><E3><81><AB><E5><90><91><E3><81><8B><E3><81><88>
+!------------------------------!
+XALDIN
+Get back to your mission.
+Don't dawdle, Roxas.
+!------------------------------!
+XALDIN
+Retourne à ta mission. Ne traîne pas, Roxas.
+!------------------------------!
+XALDIN
+Mach mit deiner Mission weiter.
+Nicht trödeln, Roxas.
+!------------------------------!
+XALDIN
+Torna alla tua missione.
+Non bighellonare, Roxas.
+!------------------------------!
+XALDIN
+Vuelve a tu misión.
+No te entretengas, Roxas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000005B1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9>
+<E3><80><8C><E3><83><A0><E3><83><BC><E3><83><B3><E3><82><B9><E3><83><88><E3><83><BC><E3><83><B3><E3><80><8D><E3><81><A8><E3><80><8C><E3><82><AC><E3><83><BC><E3><83><89><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92><E5><90><88><E6><88><90><E3><81><97><E3><81><A6><E3><81><93><E3><81><84>
+!------------------------------!
+XALDIN
+Roxas, combine a Moonstone and Shield Tech via
+synthesis and fetch the result here.
+!------------------------------!
+XALDIN
+Roxas, fusionne une lunalithe avec une
+tech. bouclier et reviens me voir.
+!------------------------------!
+XALDIN
+Schmiede einen Mondstein und
+eine Schild-Tech zusammen
+und bring's her.
+!------------------------------!
+XALDIN
+Roxas, combina una Pietra lunare con
+una Tecnica scudo e torna qui.
+!------------------------------!
+XALDIN
+Roxas, fusiona una adularia
+con tecnología de barrera y tráela.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E7><B5><90><E6><9E><9C><E3><82><92><E7><9F><A5><E3><82><8A><E3><81><9F><E3><81><84><E3><81><AE><E3><81><A0><E3><81><8C><E3><80><81><E4><BB><8A><E3><81><AF><E6><89><8B><E6><8C><81><E3><81><A1><E3><81><8C><E7><84><A1><E3><81><84>
+<E5><90><88><E6><88><90><E3><81><97><E3><81><9F><E3><82><89><E3><80><81><E4><BF><BA><E3><81><AB><E3><81><97><E3><82><89><E3><81><9B><E3><82><8D>
+!------------------------------!
+I need to know what they create, but lack the
+materials. Inform me when you're done.
+!------------------------------!
+Je veux savoir ce que ça donne, mais je n'ai pas
+les matériaux. Préviens-moi quand ce sera fait.
+!------------------------------!
+Ich muss das Ergebnis wissen,
+aber ich habe die Materialien nicht.
+Sag Bescheid, wenn du's hast.
+!------------------------------!
+Voglio sapere cosa si ottiene,
+ma mi mancano i materiali.
+Avvisami quando hai finito.
+!------------------------------!
+Quiero saber lo que resulta,
+pero no dispongo del material.
+Infórmame cuando lo hayas hecho.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><8F><E3><81><8B><E3><81><A3><E3><81><9F><E3><81><AA>
+!------------------------------!
+Understood?
+!------------------------------!
+Tu as compris ?
+!------------------------------!
+Verstanden?
+!------------------------------!
+Sono stato chiaro?
+!------------------------------!
+¿Ha quedado claro?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000005A1801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><A9><E3><81><86><E3><82><84><E3><82><89><E3><80><81><E5><90><88><E6><88><90><E3><81><AB><E6><88><90><E5><8A><9F><E3><81><97><E3><81><9F><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E3><81><BB><E3><81><86><E2><80><A6><E3><81><9D><E3><82><8C><E3><81><8C><E3><81><A7><E3><81><8D><E3><81><82><E3><81><8C><E3><82><8B><E3><81><AE><E3><81><8B>
+!------------------------------!
+XALDIN
+It seems you've succeeded.
+Ahh, and this...this is the result.
+!------------------------------!
+XALDIN
+On dirait que tu as réussi. Ah, et voici...
+le résultat.
+!------------------------------!
+XALDIN
+Du hast es wohl geschafft.
+Ah, und das ... ist das Ergebnis.
+!------------------------------!
+XALDIN
+A quanto pare ci sei riuscito.
+Ah, ecco il risultato...
+!------------------------------!
+XALDIN
+Veo que has tenido éxito.
+Así que éste es el resultado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><93><E3><82><8C><E3><81><AF><E7><A4><BC><E3><81><A0><E3><80><81><E5><8F><97><E3><81><91><E5><8F><96><E3><82><8C>
+!------------------------------!
+Here. For your trouble.
+!------------------------------!
+Tiens, c'est pour toi.
+!------------------------------!
+Hier. Für deine Bemühungen.
+!------------------------------!
+Eccoti. Per il disturbo.
+!------------------------------!
+Esto es para ti. Cógelo.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><83><AF><E3><82><A4><E3><83><89><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Range Tech
+!------------------------------!
+Tech. portée obtenue !
+!------------------------------!
+Erhalten: Reichweiten-Tech
+!------------------------------!
+Ottieni: Tecnica gittata
+!------------------------------!
+Obtenida: tecnología de alcance.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><80><8C><E3><83><A0><E3><83><BC><E3><83><B3><E3><82><B9><E3><83><88><E3><83><BC><E3><83><B3><E3><80><8D><E3><81><A8><E3><80><8C><E3><82><AC><E3><83><BC><E3><83><89><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><81><AE>
+<E5><90><88><E6><88><90><E7><B5><90><E6><9E><9C><E3><81><AF><E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F>
+!------------------------------!
+XALDIN
+Have you managed to combine a Moonstone and
+Shield Tech via synthesis?
+!------------------------------!
+XALDIN
+Ce n'est pas encore fait ? C'est juste une lunalithe
+et une tech. bouclier...
+!------------------------------!
+XALDIN
+Hast du schon einen Mondstein
+und eine Schild-Tech zusammengeschmiedet?
+!------------------------------!
+XALDIN
+Sei riuscito a combinare una Pietra
+lunare e una Tecnica scudo?
+!------------------------------!
+XALDIN
+¿Aún no lo has hecho? Fusiona
+una adularia y tecn. de barrera.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><8F><E3><81><8B><E3><81><A3><E3><81><9F><E3><82><89><E3><80><81><E4><BF><BA><E3><81><AB><E7><9F><A5><E3><82><89><E3><81><9B><E3><82><8D>
+!------------------------------!
+It shouldn't be too hard, even for you.
+I'll be waiting.
+!------------------------------!
+Ça ne devrait pas être trop dur, même pour toi.
+Allez, au boulot.
+!------------------------------!
+Das sollte nicht zu schwer sein,
+selbst für dich. Ich warte.
+!------------------------------!
+Trovarle non dev'essere molto
+difficile... neppure per te.
+Ti aspetterò.
+!------------------------------!
+No debería de ser difícil, ni
+siquiera para ti. Hazlo de una vez.
+!------------------------------!
+!******************************!

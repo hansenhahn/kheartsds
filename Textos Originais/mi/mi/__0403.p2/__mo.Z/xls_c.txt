@@ -1,0 +1,93 @@
+&.[HDR].&
+*.000004000000C62201000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There's an indentation in the middle.
+!------------------------------!
+ROXAS
+Il y a un trou au milieu.
+!------------------------------!
+ROXAS
+Da ist etwas in der Mitte eingelassen.
+!------------------------------!
+ROXAS
+In mezzo c'è una
+specie di cavità.
+!------------------------------!
+ROXAS
+Hay una hendidura en medio.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+AXEL
+Looks like some kind of mechanism.
+!------------------------------!
+AXEL
+On dirait un mécanisme.
+!------------------------------!
+AXEL
+Sieht wie eine Art Mechanismus aus.
+!------------------------------!
+AXEL
+Sembra una specie
+di meccanismo.
+!------------------------------!
+AXEL
+Parece una especie de
+mecanismo.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000C62201000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+There are some deep gashes in the floor here.
+!------------------------------!
+ROXAS
+Il y a de grosses traces par terre.
+!------------------------------!
+ROXAS
+Auf dem Boden sind ein paar
+tiefe Furchen.
+!------------------------------!
+ROXAS
+Qui sul pavimento ci sono dei
+graffi piuttosto marcati.
+!------------------------------!
+ROXAS
+En el suelo de aquí hay unos
+surcos profundos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+AXEL
+Yeah, like somebody dragged something heavy
+across it...
+!------------------------------!
+AXEL
+Oui, on dirait que quelqu'un a déplacé
+quelque chose de lourd pour passer...
+!------------------------------!
+AXEL
+Jemand muss hier etwas Schweres
+entlang gezogen haben ...
+!------------------------------!
+AXEL
+Sì, come se qualcuno avesse
+spostato un oggetto pesante...
+!------------------------------!
+AXEL
+Sí, como si alguien hubiera
+arrastrado algo pesado...
+!------------------------------!
+!******************************!

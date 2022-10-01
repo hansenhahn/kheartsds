@@ -1,0 +1,24 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+BULLETIN BOARD
+<E2><80><9C>You asked for it<E2><80><95>you got it!
+ Scoop up some sea-salt ice cream TODAY!<E2><80><9D>
+!------------------------------!
+TABLEAU
+<E2><80><9C>Vous en avez rêvé, votre rêve est exaucé !
+ Essayez nos glaces à l'eau de mer AUJOURD'HUI !<E2><80><9D>
+!------------------------------!
+SCHWARZES BRETT
+<E2><80><9E>Du wolltest es - jetzt kriegst du es!
+Hol dir das leckere Meersalzeis noch HEUTE!<E2><80><9C>
+!------------------------------!
+BACHECA
+"Lo volevi? Eccoti servito!
+ Assaggia SUBITO il gelato salmastro!"
+!------------------------------!
+TABLÓN DE ANUNCIOS
+"¡Lo pediste y aquí lo tienes!
+¡Llévate ya un helado salado!"
+!------------------------------!
+!******************************!

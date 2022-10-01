@@ -1,0 +1,119 @@
+&.[HDR].&
+*.0000040000009F2201000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Whew... He almost spotted us.
+We need to be more careful.
+!------------------------------!
+ROXAS
+Ouf... il a failli nous voir. Il faut être plus prudent.
+!------------------------------!
+ROXAS
+Puh ... Er hat uns fast gesehen.
+Wir müssen vorsichtiger sein.
+!------------------------------!
+ROXAS
+Fiuh, per poco non ci scopriva.
+Dobbiamo stare più attenti.
+!------------------------------!
+ROXAS
+Uf... Casi nos ve.
+Debemos tener más cuidado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Roxas... I don't think we'll be able to sneak past him
+this time.
+!------------------------------!
+XION
+Roxas... je ne crois pas qu'on pourra passer
+en douce cette fois.
+!------------------------------!
+XION
+Roxas ... ich glaube nicht, dass wir diesmal
+an ihm vorbeischleichen können.
+!------------------------------!
+XION
+Roxas... Temo che questa volta
+non riusciremo a superarlo.
+!------------------------------!
+XION
+Roxas... No creo que podamos
+pasar sin que nos vea.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Yeah, maybe we should look for another route.
+
+!------------------------------!
+ROXAS
+Oui, on devrait chercher un autre chemin.
+!------------------------------!
+ROXAS
+Ja, wir sollten einen anderen Weg suchen.
+!------------------------------!
+ROXAS
+Sì, forse è meglio cercare
+un'altra strada.
+!------------------------------!
+ROXAS
+Podríamos buscar otra ruta.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+A castle this big must have a few secret nooks and
+crannies.
+!------------------------------!
+XION
+Un château aussi grand doit être rempli
+passages secrets.
+!------------------------------!
+XION
+In so einem großen Schloss muss es doch
+ein paar geheime Ecken und Winkel geben.
+!------------------------------!
+XION
+Un castello così grande deve avere
+molte stanze e passaggi ben nascosti.
+!------------------------------!
+XION
+Un castillo tan grande debe
+tener escondrijos ocultos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Whew... He almost spotted us.
+We need to be more careful.
+!------------------------------!
+ROXAS
+Ouf... il a failli nous voir. Il faut être plus prudent.
+!------------------------------!
+ROXAS
+Puh ... Er hat uns fast gesehen.
+Wir müssen vorsichtiger sein.
+!------------------------------!
+ROXAS
+Fiuh, per poco non ci scopriva.
+Dobbiamo stare più attenti.
+!------------------------------!
+ROXAS
+Uf... Casi nos ve.
+Debemos tener más cuidado.
+!------------------------------!
+!******************************!

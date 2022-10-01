@@ -1,0 +1,213 @@
+&.[HDR].&
+*.000004000000701802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E6><B0><97><E6><99><B4><E3><82><89><E3><81><97><E3><81><AB><E3><82><84><E3><81><A3><E3><81><9F><E3><82><B2><E3><83><BC><E3><83><A0><E3><81><A7><E4><BD><95><E3><81><8B><E3><81><8C><E5><A4><89><E3><82><8F><E3><82><8B><E2><80><A6>
+<E6><99><82><E3><81><AB><E3><81><AF><E3><81><9D><E3><82><93><E3><81><AA><E3><81><93><E3><81><A8><E3><81><8C><E3><81><82><E3><82><8B><E3><81><8B><E3><82><82><E3><81><97><E3><82><8C><E3><82><93><E3><81><9E>
+!------------------------------!
+LUXORD
+Sometimes fun and games can make a serious
+difference in life.
+!------------------------------!
+LUXORD
+Parfois, un simple jeu peut influer sur la vie des
+gens.
+!------------------------------!
+LUXORD
+Manchmal können Spaß und Spiele
+den Unterschied ausmachen.
+!------------------------------!
+LUXORD
+I giochi e il divertimento
+sono il sale della vita.
+!------------------------------!
+LUXORD
+A veces los juegos y la diversión
+tienen repercusiones en la vida.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000701802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><82><AB><E3><83><BC><E3><83><89><E3><81><AE><E7><B5><90><E6><9E><9C><E3><81><8C><E3><81><99><E3><81><B9><E3><81><A6><E3><81><A8><E3><81><84><E3><81><86><E3><82><8F><E3><81><91><E3><81><A7><E3><81><AF><E3><81><AA><E3><81><84>
+<E8><A1><8C><E5><8B><95><E3><81><99><E3><82><8C><E3><81><B0><E9><81><8B><E5><91><BD><E3><81><8C><E5><A4><89><E3><82><8F><E3><82><8B><E3><81><93><E3><81><A8><E3><82><82><E3><81><82><E3><82><8B>
+!------------------------------!
+LUXORD
+Only a fool bends to the cards.
+We shape our fates through action.
+!------------------------------!
+LUXORD
+Seul l'imbécile fléchit devant les cartes.
+Nous forgeons notre destin par l'action.
+!------------------------------!
+LUXORD
+Nur Narren hören auf die Karten. Wir
+bestimmen unser Schicksal durch Taten. 
+!------------------------------!
+LUXORD
+Solo i deboli si arrendono alle
+carte. Bisogna dominarle.
+!------------------------------!
+LUXORD
+El necio se resigna a su suerte.
+Tracemos nuestro propio destino.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><81><86><E3><81><A0><E3><81><AA><E2><80><A6><E6><B0><97><E6><99><B4><E3><82><89><E3><81><97><E3><81><AB><E3><81><93><E3><82><93><E3><81><AA><E3><82><B2><E3><83><BC><E3><83><A0><E3><81><AF><E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F>
+<E3><81><93><E3><81><93><E3><81><AB><E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><EF><BC><8B><EF><BC><8B><E3><80><8D><E3><81><8C><E3><81><82><E3><82><8B>
+<E8><A9><A6><E3><81><97><E3><81><AB><E3><80><8C><E3><83><80><E3><82><A4><E3><83><A4><E3><83><A2><E3><83><B3><E3><83><89><E3><80><8D><E3><81><A8><E5><90><88><E6><88><90><E3><81><97><E3><81><A6><E3><81><8D><E3><81><A6><E3><82><82><E3><82><89><E3><81><8A><E3><81><86><E3><81><8B>
+!------------------------------!
+Here, how about this for a change of pace?
+Synthesize something by combining this
+Combo Tech++ and a Diamond.
+!------------------------------!
+Ça te dirait de changer un peu de la routine ?
+Prends cette tech. combo++ et fusionne-la
+avec un diamant.
+!------------------------------!
+Hier, für ein neues Tempo.
+Schmiede diese Kombo-Tech++ mit
+einem Diamanten zusammen.
+!------------------------------!
+Senti un po'... Prendi questa
+Tecnica combo++ e prova
+a combinarla con un Diamante.
+!------------------------------!
+¿Y si cambiamos de tercio?
+Coge esta tecnología de combo
+y fusiónala con un diamante.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E5><90><88><E6><88><90><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E8><A6><8B><E3><81><9B><E3><81><AB><E3><81><93><E3><81><84>
+!------------------------------!
+Come show me when you're done.
+!------------------------------!
+Viens me montrer le résultat quand ce sera fait.
+!------------------------------!
+Komm und zeig's mir, wenn du
+fertig bist.
+!------------------------------!
+Poi mostrami il risultato.
+!------------------------------!
+Ven a verme cuando
+lo hayas hecho.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><EF><BC><8B><EF><BC><8B><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Combo Tech++
+!------------------------------!
+Tech. combo++ obtenue !
+!------------------------------!
+Erhalten: Kombo-Tech++
+!------------------------------!
+Ottieni: Tecnica combo++
+!------------------------------!
+Obtenida: tecnología de combo ++.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000006F1801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><81><86><E3><81><BE><E3><81><8F><E5><90><88><E6><88><90><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+!------------------------------!
+LUXORD
+Looks like you were successful.
+!------------------------------!
+LUXORD
+On dirait que tu as réussi.
+!------------------------------!
+LUXORD
+Du warst erfolgreich.
+!------------------------------!
+LUXORD
+Vedo che ci sei riuscito.
+!------------------------------!
+LUXORD
+Parece que has tenido éxito.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><B2><E3><83><BC><E3><83><A0><E3><82><AF><E3><83><AA><E3><82><A2><E3><81><A0><E5><8F><97><E3><81><91><E5><8F><96><E3><82><8C>
+!------------------------------!
+You've won my challenge.
+Here's your prize.
+!------------------------------!
+Tu as relevé mon défi. Voici ta récompense.
+!------------------------------!
+Du hast meine Herausforderung
+gemeistert. Hier ist dein Preis.
+!------------------------------!
+Hai vinto la mia sfida.
+Ecco la tua ricompensa.
+!------------------------------!
+Has superado mi desafío.
+Aquí tienes el premio.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><B7><E3><83><AB><E3><83><90><E3><83><BC><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Silver
+!------------------------------!
+Argent obtenu !
+!------------------------------!
+Erhalten: Silber
+!------------------------------!
+Ottieni: Argento
+!------------------------------!
+Obtenida: plata.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><AB><E3><82><84><E3><81><A3><E3><81><9F><E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><EF><BC><8B><EF><BC><8B><E3><80><8D><E3><81><A0><E3><81><8C>
+<E3><80><8C><E3><83><80><E3><82><A4><E3><83><A4><E3><83><A2><E3><83><B3><E3><83><89><E3><80><8D><E3><81><A8><E3><81><AE><E5><90><88><E6><88><90><E3><81><AF><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+LUXORD
+Have you managed to combine that Combo Tech++
+and a Diamond via synthesis?
+!------------------------------!
+LUXORD
+As-tu réussi à fusionner la tech. combo++
+avec un diamant ?
+!------------------------------!
+LUXORD
+Hast du die Kombo-Tech++ mit
+einem Diamanten
+zusammengeschmiedet?
+!------------------------------!
+LUXORD
+Sei riuscito a combinare la Tecnica
+combo++ con il Diamante?
+!------------------------------!
+LUXORD
+¿Has logrado fusionar esa
+tecnología con un diamante?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E5><90><88><E6><88><90><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E3><80><81><E4><BF><BA><E3><81><AB><E8><A6><8B><E3><81><9B><E3><81><AB><E3><81><93><E3><81><84>
+!------------------------------!
+Come show me when you're done.
+!------------------------------!
+Viens me montrer le résultat quand ce sera fait.
+!------------------------------!
+Komm und zeig's mir, wenn du
+fertig bist.
+!------------------------------!
+Torna da me quando
+hai finito.
+!------------------------------!
+Ven a enseñármela cuando
+lo hayas hecho.
+!------------------------------!
+!******************************!

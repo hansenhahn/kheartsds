@@ -1,0 +1,410 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I think I've got a pretty clear picture now.
+!------------------------------!
+ROXAS
+Je crois que j'ai compris.
+!------------------------------!
+ROXAS
+Ich glaube, jetzt sehe ich klar.
+!------------------------------!
+ROXAS
+Credo di essermi fatto un'idea.
+!------------------------------!
+ROXAS
+Creo que ya me hago una idea.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+The Coliseum must be...
+!------------------------------!
+Le Colisée doit être...
+!------------------------------!
+Die Arena muss ...
+!------------------------------!
+Lo stadio dell'Olimpo deve essere...
+!------------------------------!
+Este Coliseo es...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+some kind of temple.
+!------------------------------!
+Un temple.
+!------------------------------!
+ein Tempel sein.
+!------------------------------!
+... una specie di tempio.
+!------------------------------!
+un templo.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+some kind of arena.
+!------------------------------!
+Une arène.
+!------------------------------!
+ein Veranstaltungsort sein.
+!------------------------------!
+... una specie di arena.
+!------------------------------!
+un estadio.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It's certainly built like one.
+!------------------------------!
+ROXAS
+En tout cas, ça y ressemble.
+!------------------------------!
+ROXAS
+Sie ist auf jeden Fall wie einer gebaut.
+!------------------------------!
+ROXAS
+L'architettura è sicuramente
+la stessa.
+!------------------------------!
+ROXAS
+Está construído como tal.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+But hold on...
+What are all the trophies for, then?
+God of the Year?
+!------------------------------!
+Mais, une minute...
+À quoi servent tous ces trophées ?
+Dieu de l'année ?
+!------------------------------!
+Aber Moment mal ...
+Wofür sind dann all die Trophäen?
+Für den Gott des Jahres?
+!------------------------------!
+Un momento...
+Allora a che servono tutti questi trofei?
+A premiare la "divinità dell'anno"?
+!------------------------------!
+Pero espera... ¿y los trofeos?
+¿Para el dios del año?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+No, they hold some kind of sporting event here.
+The winners were listed on the boards outside.
+!------------------------------!
+Non, il doit y avoir des évènements sportifs ici.
+Les vainqueurs figurent sur les classements dehors.
+!------------------------------!
+Nein, hier müssen Sportveranstaltungen stattfinden.
+Die Gewinner sind auf den Tafeln vermerkt.
+!------------------------------!
+No, credo si tenga una specie di evento
+sportivo. I vincitori sono sui tabelloni all'esterno.
+!------------------------------!
+No, aquí se celebran competiciones.
+Los ganadores están en los marcadores.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+That would explain all the trophies.
+!------------------------------!
+ROXAS
+Ça expliquerait tous ces trophées.
+!------------------------------!
+ROXAS
+Das würde die ganzen Trophäen erklären.
+!------------------------------!
+ROXAS
+Ciò spiegherebbe la presenza
+di tutti quei trofei.
+!------------------------------!
+ROXAS
+Esto explicaría los trofeos.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+They look like something you'd win in a sporting
+event.
+!------------------------------!
+On dirait que c'est ce qu'on gagne
+en emportant une épreuve sportive.
+!------------------------------!
+Sie sehen aus, als könnte man sie
+bei einer Sportveranstaltung gewinnen.
+!------------------------------!
+Credo vengano assegnati in occasione
+di qualche evento sportivo.
+!------------------------------!
+Se ganan en competiciones.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Plus, those boards outside...
+Those must be the winners.
+!------------------------------!
+Et ces classements dehors...
+ce sont sûrement les vainqueurs.
+!------------------------------!
+Und dann noch die Tafeln ...
+Das müssen die Gewinner sein.
+!------------------------------!
+E quei tabelloni all'esterno...
+Devono essere i vincitori.
+!------------------------------!
+Además, en esos marcadores
+estarán los ganadores.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Who was the guy who came in first again?
+!------------------------------!
+Qui était premier déjà ?
+!------------------------------!
+Wer war noch mal Erster?
+!------------------------------!
+Com'è che si chiamava quel tizio
+arrivato al primo posto?
+!------------------------------!
+¿Cómo se llamaba el primero?
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+I know I saw his name...
+!------------------------------!
+J'ai lu son nom...
+!------------------------------!
+Ich hab seinen Namen doch gesehen ...
+!------------------------------!
+Mi pare che il suo nome fosse...
+!------------------------------!
+Vi su nombre...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Hercules?
+!------------------------------!
+Hercule ?
+!------------------------------!
+Hercules?
+!------------------------------!
+Ercole?
+!------------------------------!
+¿Hércules?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Soracles?
+!------------------------------!
+Soracle ?
+!------------------------------!
+Soracles?
+!------------------------------!
+Soracle?
+!------------------------------!
+¿Soracles?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Yeah, one of the boards definitely said, <E2><80><9C>Hercules.<E2><80><9D>
+!------------------------------!
+ROXAS
+Oui, c'était bien Hercule.
+!------------------------------!
+ROXAS
+Ja, da stand Hercules.
+!------------------------------!
+ROXAS
+Sì, c'era scritto "Ercole".
+!------------------------------!
+ROXAS
+Sí, era Hércules.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+I guess he's the toughest guy in town.
+Wonder what he's like...
+!------------------------------!
+Ce doit être le type le plus fort des environs.
+Je me demande à quoi il ressemble...
+!------------------------------!
+Muss der Härteste hier sein.
+Wie er wohl so ist ...
+!------------------------------!
+Dev'essere il più forte di tutti.
+Chissà che aspetto ha...
+!------------------------------!
+Será el tipo más duro.
+¿Cómo será?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Sora...cles?
+!------------------------------!
+ROXAS
+Sora... cle ?
+!------------------------------!
+ROXAS
+Sora... cles?
+!------------------------------!
+ROXAS
+Sora... cle?
+!------------------------------!
+ROXAS
+¿Sora... cles?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Hmm, I'd better double-check.
+Saïx will get mad if I tell him the wrong name.
+
+!------------------------------!
+Hmm, je ferais mieux de vérifier.
+Saïx sera furieux si je me trompe de nom.
+
+!------------------------------!
+Hmm, ich sehe besser noch mal nach.
+Saïx wird sauer, wenn ich ihm den falschen
+Namen sage.
+!------------------------------!
+Mmm, meglio andare a controllare.
+Saïx si arrabbierebbe molto se gli
+riferissi il nome sbagliato.
+!------------------------------!
+Volveré a mirar. Saïx se enfadará
+si me confundo de nombre.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Anyway, it seems kind of quiet for an arena.
+I don't hear any cheering. The competition must be
+over for now.
+!------------------------------!
+Ça a quand même l'air calme pour une arène.
+Je n'entends pas la foule. Il ne doit pas y
+avoir de tournoi en ce moment.
+!------------------------------!
+Ganz schön still für eine Arena.
+Ich höre keinen Applaus. Der Wettkampf
+muss vorbei sein.
+!------------------------------!
+A ogni modo è un'arena molto tranquilla.
+Non sento nessuno che esulta.
+Forse al momento non ci sono gare.
+!------------------------------!
+Pero todo está muy tranquilo.
+Habrá acabado la competición.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+So much for sneaking into the stands...
+If I wanna do anymore recon, I'll have to pretend
+I'm here to train.
+!------------------------------!
+Je ne vais pas pouvoir inspecter les tribunes...
+Si je veux poursuivre, je vais devoir faire comme
+si je voulais m'entraîner.
+!------------------------------!
+So viel zum Reinschleichen ...
+Wenn ich mehr herausfinden möchte, muss
+ich so tun, als wäre ich zum Trainieren hier.
+!------------------------------!
+Così non riuscirò a confondermi tra il
+pubblico. Se voglio scoprire di più, dovrò
+dire di essere venuto ad allenarmi.
+!------------------------------!
+Se acabó el fisgar. Debo participar
+para seguir investigando.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+......
+
+
+!------------------------------!
+...
+
+
+!------------------------------!
+...
+
+!------------------------------!
+...
+!------------------------------!
+...
+
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Well, it couldn't hurt to try...
+Could it?
+
+!------------------------------!
+Ça vaut le coup d'essayer...
+non ?
+
+!------------------------------!
+Versuchen kann man's ja mal ...
+Oder?
+
+!------------------------------!
+Beh, tentar non nuoce...
+No?
+!------------------------------!
+Bueno, no pasa nada por
+probar. ¿No?
+!------------------------------!
+!******************************!

@@ -1,0 +1,29 @@
+&.[HDR].&
+*.000004000000231C01000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E7><8F><BE><E7><8A><B6><E3><80><81><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AB><E6><95><99><E3><81><88><E3><82><89><E3><82><8C><E3><82><8B><E3><81><93><E3><81><A8><E3><81><AF><E3><81><AA><E3><81><84>
+<E4><BB><BB><E5><8B><99><E3><81><AB><E9><9B><86><E4><B8><AD><E3><81><97><E3><82><8D>
+!------------------------------!
+SAÏX
+Whatever I know is my business.
+You need to focus on the missions ahead.
+!------------------------------!
+SAÏX
+Ce que je sais ne concerne que moi. Concentre-toi
+sur les missions qui t'attendent.
+!------------------------------!
+SAÏX
+Was ich weiß, geht nur mich etwas an.
+Konzentrier dich auf deine Missionen.
+!------------------------------!
+SAÏX
+Quel che so sono affari miei.
+Concentrati sulla missione.
+!------------------------------!
+SAÏX
+Eso no es asunto tuyo. Piensa
+solo en la siguiente misión.
+!------------------------------!
+!******************************!

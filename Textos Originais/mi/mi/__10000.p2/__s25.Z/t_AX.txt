@@ -1,0 +1,215 @@
+&.[HDR].&
+*.000004000000341802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><82><B7><E3><82><AA><E3><83><B3><E3><81><AF><E3><82><82><E3><81><86><E4><BB><BB><E5><8B><99><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><9F><E3><81><9C>
+!------------------------------!
+AXEL
+Xion left already.
+!------------------------------!
+AXEL
+Xion est déjà partie.
+!------------------------------!
+AXEL
+Xion ist schon weg.
+!------------------------------!
+AXEL
+Xion se n'è già andata.
+!------------------------------!
+AXEL
+Xion ya se ha ido.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000341802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><80><81><E5><AE><9D><E7><AE><B1><E3><81><AE><E5><9B><9E><E5><8F><8E><E3><81><AF><E3><81><82><E3><82><8C><E3><81><8B><E3><82><89><E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F>
+!------------------------------!
+AXEL
+Hey, Roxas, remember our first mission together
+with the treasure chest?
+!------------------------------!
+AXEL
+Hé, Roxas, tu te souviens du coffre de notre
+première mission, pas vrai ?
+!------------------------------!
+AXEL
+Hey, Roxas, kannst du dich an unsere
+erste Mission mit dem Schatz erinnern?
+!------------------------------!
+AXEL
+Ehi Roxas, ricordi la nostra prima missione
+insieme, quella con i forzieri?
+!------------------------------!
+AXEL
+Roxas, ¿recuerdas nuestra
+primera misión con el cofre?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><81><86><E3><81><84><E3><82><84><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>29<E3><81><AE>
+<E5><AE><9D><E7><AE><B1><E3><81><A3><E3><81><A6><E5><85><A8><E9><83><A8><E9><96><8B><E3><81><91><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+You still opening all the chests you find?
+How 'bout the ones in Mission 29?
+!------------------------------!
+Est-ce que t'ouvres tous les coffres que tu trouves ?
+Ceux de la mission 29 par exemple...
+!------------------------------!
+Öffnest du immer noch alle Truhen?
+Wie ist es mit denen in Mission 29?
+!------------------------------!
+Apri sempre tutti i forzieri che trovi?
+E quelli della Missione 29?
+!------------------------------!
+¿Sigues abriendo todos los
+cofres que encuentras? ¿Y
+los de la misión 29?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BF><BA><E3><81><AF><E5><85><A8><E9><83><A8><E9><96><8B><E3><81><91><E3><81><A6><E3><81><AD><E3><81><88><E3><81><91><E3><81><A9>
+<E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AE><E3><83><A4><E3><83><84><E3><81><8C><E8><81><9E><E3><81><84><E3><81><A6><E3><81><8D><E3><81><9F><E3><82><93><E3><81><A0>
+<E3><82><82><E3><81><97><E3><81><8B><E3><81><97><E3><81><9F><E3><82><89><E3><80><81><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><8B><E3><82><89><E4><BD><95><E3><81><8B><E3><81><82><E3><82><8B><E3><81><8B><E3><82><82><E3><81><97><E3><82><8C><E3><81><AD><E3><81><88><E3><81><9C>
+!------------------------------!
+I didn't, and Saïx was asking about it.
+Maybe he's got something in the works, ya know?
+Anyway, tell me if you find them all.
+!------------------------------!
+Moi non et Saïx m'a posé la question. Peut-être qu'il
+mijote quelque chose. En tout cas, préviens-moi
+si tu les ouvres tous, OK ?
+!------------------------------!
+Ich nämlich nicht und Saïx hat
+sich danach erkundigt. Wenn du's
+schaffst, sag ihm Bescheid, okay? 
+!------------------------------!
+Io no, e Saïx me l'ha chiesto. Forse sta
+preparando qualcosa... Comunque,
+avvisami se li trovi tutti.
+!------------------------------!
+Yo no y Saïx ha preguntado
+por ello. Quizá tiene algo para
+ti. Si los consigues dímelo, ¿vale?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000331801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><81><8A><E3><81><A3><E3><80><81><E5><AE><9D><E7><AE><B1><E3><82><92><E5><85><A8><E9><83><A8><E5><9B><9E><E5><8F><8E><E3><81><97><E3><81><9F><E3><81><AE><E3><81><8B>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><82><84><E3><82><8B><E3><82><84><E3><82><8B><E3><82><84><E3><82><8B><EF><BD><9E><EF><BC><81>
+!------------------------------!
+AXEL
+Nice, you got 'em all?
+You're an ace, man!
+!------------------------------!
+AXEL
+T'as réussi à tous les ouvrir ?
+T'es un champion, mec !
+!------------------------------!
+AXEL
+Schön, hast du sie alle?
+Mann, du bist ein echtes Ass.!
+!------------------------------!
+AXEL
+Bene, li hai trovati tutti?
+Sei un grande, amico!
+!------------------------------!
+AXEL
+¿Los tienes todos?
+¡Eres un as, tío!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><8C><E3><81><8A><E3><81><BE><E3><81><88><E7><94><A8><E3><81><AB>
+<E7><89><B9><E5><88><A5><E4><BB><BB><E5><8B><99><E3><82><92><E7><94><A8><E6><84><8F><E3><81><97><E3><81><9F><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><9C>
+<E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AE><E3><81><A8><E3><81><93><E3><82><8D><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><81><BF><E3><82><8D><E3><82><88>
+!------------------------------!
+I think Saïx's got a special mission for you.
+Go see him for the details.
+!------------------------------!
+Je crois que Saïx a une mission spéciale pour toi.
+Va le voir pour en savoir plus.
+!------------------------------!
+Ich glaube, Saïx hat eine
+Spezialmission für dich.
+Frag ihn nach den Einzelheiten.
+!------------------------------!
+Credo che Saïx abbia preparato
+una missione speciale per te.
+Vai a chiedergli i dettagli.
+!------------------------------!
+Creo que Saïx tiene una
+misión especial para ti.
+Pregúntale los detalles.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+A new mission is now available!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>29<E3><81><AE><E5><AE><9D><E7><AE><B1><E3><81><AF>
+<E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><8B><E3><81><A3><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+AXEL
+Find all the chests in Mission 29 yet, Roxas?
+!------------------------------!
+AXEL
+Alors, t'as réussi à trouver tous les coffres de la
+mission 29, Roxas ?
+!------------------------------!
+AXEL
+Schon alle Truhen in Mission
+29 gefunden, Roxas?
+!------------------------------!
+AXEL
+Hai già trovato tutti i forzieri
+della Missione 29, Roxas?
+!------------------------------!
+AXEL
+¿Has encontrado los cofres
+de la misión 29, Roxas?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E2><80><A6><E3><81><BE><E3><81><A0>%d<E5><80><8B><E6><AE><8B><E3><81><A3><E3><81><A6><E3><82><8B><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><AA>
+<E3><81><BE><E3><81><A3><E3><80><81><E5><91><BD><E4><BB><A4><E3><81><98><E3><82><83><E3><81><AD><E3><81><88><E3><81><97><E3><83><86><E3><82><AD><E3><83><88><E3><83><BC><E3><81><AB><E3><82><84><E3><82><8C><E3><82><88>
+!------------------------------!
+Nope, looks like %d more to go.
+Not like it's an order or anything<E2><80><95>if you're feeling
+bored, is all.
+!------------------------------!
+Hmm, il t'en reste encore %d on dirait.
+C'est pas un ordre, mais c'est juste
+au cas où tu t'ennuies.
+!------------------------------!
+Nein, noch %d. Ist kein Befehl.
+Aber falls du nichts Besseres
+zu tun hast ...
+!------------------------------!
+No, ancora %d.
+Guarda che non è un ordine,
+ma se ti stai annoiando...
+!------------------------------!
+Encuentra %d más. Pero no 
+es una orden o algo así. 
+Si te aburres, déjalo.
+!------------------------------!
+!******************************!

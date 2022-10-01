@@ -1,0 +1,25 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Something's scribbled on the wall:
+<E2><80><9C>IT'S THERE... IT'S HUNGRY... DON'T TURN AROUND!<E2><80><9D>
+!------------------------------!
+ROXAS
+Quelque chose est écrit sur le mur :
+<E2><80><9C>IL EST ICI... AFFAMÉ... PAS BOUGER !<E2><80><9D>
+!------------------------------!
+ROXAS
+Da hat jemand was hingekritzelt:
+<E2><80><9E>ES IST DA ... ES IST HUNGRIG ... NICHT UMDREHEN!<E2><80><9C>
+!------------------------------!
+ROXAS
+Sul muro c'è scritto qualcosa:
+"È lì... È affamato..."
+!------------------------------!
+ROXAS
+Alguien escribió en la pared:
+"ESTÁ AQUÍ... Y TIENE HAMBRE...
+¡NO TE GIRES!"
+!------------------------------!
+!******************************!

@@ -1,0 +1,24 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+This sofa's seen a lot of use.
+Some of it recent, too.
+!------------------------------!
+ROXAS
+Ce canapé est usé jusqu'à la corde.
+Il a servi récemment à ce que je vois.
+!------------------------------!
+ROXAS
+Das Sofa wurde viel benutzt.
+Und das ist noch nicht lang her.
+!------------------------------!
+ROXAS
+Questo divano è logoro,
+ma è stato usato di recente.
+!------------------------------!
+ROXAS
+Parece que han usado mucho
+este sofá. Y hace poco.
+!------------------------------!
+!******************************!

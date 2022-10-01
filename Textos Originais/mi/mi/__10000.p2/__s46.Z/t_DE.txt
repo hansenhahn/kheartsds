@@ -1,0 +1,254 @@
+&.[HDR].&
+*.000004000000731802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><AF><E3><81><81><E2><80><A6><E3><81><AA><E3><82><93><E3><81><A7><E4><BF><BA><E3><81><AB>
+<E3><81><93><E3><82><93><E3><81><AA><E3><81><AB><E4><BB><BB><E5><8B><99><E3><81><8C><E3><81><BE><E3><82><8F><E3><81><A3><E3><81><A6><E3><81><8F><E3><82><8B><E3><82><93><E3><81><A0><EF><BC><9F>
+!------------------------------!
+DEMYX
+Ugh, why do they give these jobs to me, of all
+people?
+!------------------------------!
+DEMYX
+Pff, pourquoi est-ce que ça tombe toujours
+sur moi ?
+!------------------------------!
+DEMYX
+Puh, warum muss ausgerechnet
+ich alles machen?
+!------------------------------!
+DEMYX
+Ugh, perché deve toccare
+sempre a me?
+!------------------------------!
+DEMYX
+¡Jo! ¿Por qué me tiene que
+tocar siempre a mí?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000731802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E8><81><9E><E3><81><84><E3><81><A6><E3><81><8F><E3><82><8C><E3><82><88><E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><EF><BC><81>
+!------------------------------!
+DEMYX
+Aw, Roxas, man!
+You gotta help me out!
+!------------------------------!
+DEMYX
+Hé, Roxas ! Il faut que tu m'aides !
+!------------------------------!
+DEMYX
+Ah, Roxas! Du musst mir helfen!
+!------------------------------!
+DEMYX
+Oh, Roxas, amico!
+Devi aiutarmi!
+!------------------------------!
+DEMYX
+¡Roxas, tío!
+¡Tienes que ayudarme!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><B7><E3><82><AA><E3><83><B3><E3><81><8C><E3><81><84><E3><81><AA><E3><81><8F><E3><81><AA><E3><81><A3><E3><81><9F><E5><88><86><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><8C>
+<E4><BF><BA><E3><81><AB><E3><81><BE><E3><82><8F><E3><81><A3><E3><81><A6><E3><81><8D><E3><81><A6><E5><BF><99><E3><81><97><E3><81><84><E3><82><93><E3><81><A0><E3><82><88><EF><BC><81>
+!------------------------------!
+With Xion gone, all her extra work's been coming
+to me!
+!------------------------------!
+Maintenant que Xion est partie, je dois me farcir
+ses missions !
+!------------------------------!
+Seit Xion weg ist, muss ich ihre
+ganze Arbeit zusätzlich erledigen!
+!------------------------------!
+Ora che Xion non c'è più,
+tocca a me sorbirmi
+tutto il lavoro extra!
+!------------------------------!
+¡Ahora que Xion no está, me
+han encasquetado sus tareas!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E9><A0><BC><E3><82><80><EF><BC><81><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>62<E3><81><A7>
+<E9><9A><A0><E3><82><8C><E3><81><A6><E3><82><8B><E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><A6><E3><81><8F><E3><82><8C><EF><BC><81>
+!------------------------------!
+I totally have zero time to find all the Heartless
+hiding in Mission 62!
+!------------------------------!
+J'ai pas le temps de trouver tous les Sans-cœur
+de la mission 62 !
+!------------------------------!
+Ich habe überhaupt keine Zeit,
+die ganzen Herzlosen in Mission
+62 zu finden!
+!------------------------------!
+Non ho assolutamente il
+tempo di trovare tutti gli
+Heartless della missione 62!
+!------------------------------!
+¡No tengo tiempo de buscar
+a los sincorazón que se
+esconden en la misión 62!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><A7><E6><80><AA><E3><81><97><E3><81><84><E5><A0><B4><E6><89><80><E3><82><92>
+<E8><AA><BF><E6><9F><BB><E3><81><99><E3><82><8B><E3><81><A3><E3><81><A6><E3><82><84><E3><81><A4>
+<E3><81><AA><EF><BC><9F><E3><80><80><E9><A0><BC><E3><82><80><E3><82><88><EF><BC><81>
+!------------------------------!
+You know the drill: just go up to any fishy spots and
+examine them. Thanks, man!
+!------------------------------!
+Tu connais le topo, il suffit juste d'inspecter tous
+les endroits suspects ! Allez, merci, mec !
+!------------------------------!
+Du kennst dich aus, geh einfach
+zu den verdächtigen Punkten
+und untersuch sie! Danke, Mann!
+!------------------------------!
+Sai cosa fare! Controlla
+ogni luogo sospetto!
+Grazie, sei un amico!
+!------------------------------!
+¡Ya sabes cómo va el tema!
+¡Investiga cualquier lugar que
+te parezca sospechoso!
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000721801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><A6><E3><81><8F><E3><82><8C><E3><81><9F><E3><81><AE><E3><81><8B><EF><BC><9F>
+<E5><8A><A9><E3><81><8B><E3><81><A3><E3><81><9F><E3><81><9C><E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><EF><BC><81>
+!------------------------------!
+DEMYX
+You found them all?
+Aw, you're a lifesaver, man! Thanks.
+!------------------------------!
+DEMYX
+Tu les as tous trouvés ? Ah, tu me sauves la vie,
+mec ! Merci.
+!------------------------------!
+DEMYX
+Hast du sie alle gefunden? Ah, du bist
+meine Rettung, Mann! Danke.
+!------------------------------!
+DEMYX
+Li hai trovati tutti? Sei il
+mio salvatore, amico! Grazie.
+!------------------------------!
+DEMYX
+¿Los has encontrado a todos?
+¡Tío, me has salvado! ¡Gracias!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><82><E3><81><AE><E3><81><95><E2><80><A6><E8><A8><80><E3><81><84><E3><81><AB><E3><81><8F><E3><81><84><E3><82><93><E3><81><A0><E3><81><91><E3><81><A9>
+<E3><81><95><E3><81><A3><E3><81><8D><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><8B><E3><82><89><E8><A8><80><E3><82><8F><E3><82><8C><E3><81><9F><E4><BB><BB><E5><8B><99><E3><82><82>
+<E3><82><84><E3><81><A3><E3><81><A6><E3><81><8F><E3><82><8C><E3><81><AD><E3><81><87><E3><81><8B><E3><81><AA><EF><BC><9F>
+!------------------------------!
+So, uh...any chance I could also get you to take on
+this extra mission from Saïx?
+!------------------------------!
+Dis euh... tu crois que tu pourrais aussi me prendre
+une mission de la part de Saïx ?
+!------------------------------!
+Also, äh ... meinst du, du könntest
+auch noch diese Sondermission
+von Saïx übernehmen?
+!------------------------------!
+Ehm... non è che ti
+occuperesti anche di una
+missione extra di Saïx?
+!------------------------------!
+Esto... ¿crees que podrías
+echarme un cable con otra
+de las misiones de Saïx?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E6><B0><97><E3><81><8C><E5><90><91><E3><81><84><E3><81><9F><E3><82><89><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AE><E6><89><80><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><81><BF><E3><81><A6><E3><81><8F><E3><82><8C><E3><82><88><EF><BC><81>
+!------------------------------!
+Just check in with him when you're ready for it!
+!------------------------------!
+Va lui parler quand tu seras prêt !
+!------------------------------!
+Rede einfach mit ihm, wenn du
+bereit bist.
+!------------------------------!
+Vai a parlare con lui,
+quando sei pronto!
+!------------------------------!
+¡Habla con él cuando
+estés preparado!
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+A new mission is now available!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E9><A0><BC><E3><82><80><EF><BC><81><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>62<E3><81><A7>
+<E9><9A><A0><E3><82><8C><E3><81><A6><E3><82><8B><E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><82><92>
+!------------------------------!
+DEMYX
+You gotta help me out, man.
+Could you sniff around in Mission 62...
+!------------------------------!
+DEMYX
+Il faut que tu m'aides, mec.
+Va inspecter la mission 62...
+!------------------------------!
+DEMYX
+Du musst mir helfen, Mann.
+Sieh dich in Mission 62 um ...
+!------------------------------!
+DEMYX
+Devi aiutarmi, amico!
+Dai un'occhiata alla Missione 62...
+!------------------------------!
+DEMYX
+Tío, tienes que ayudarme.
+Busca en la misión 62...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><80><8C><E3><81><97><E3><82><89><E3><81><B9><E3><82><8B><E3><80><8D><E3><81><A7><E5><85><A8><E9><83><A8><E8><A6><8B><E3><81><A4><E3><81><91><E3><81><A0><E3><81><97><E3><81><A6><E3><81><8D><E3><81><A6><E3><81><8F><E3><82><8C><EF><BC><81>
+!------------------------------!
+...and find all the hidden Heartless for me?
+Thanks! Be sure to examine everything.
+!------------------------------!
+et trouve tous les Sans-cœur qui y sont cachés.
+Merci !
+!------------------------------!
+... und finde die versteckten
+Herzlosen für mich. Danke!
+Untersuche alles.
+!------------------------------!
+...potresti trovare al posto mio tutti gli
+Heartless nascosti? Grazie! Assicurati
+di guardare dappertutto.
+!------------------------------!
+... y encuentra a los sincorazón
+escondidos, ¿vale? ¡Gracias!
+!------------------------------!
+!******************************!

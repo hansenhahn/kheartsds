@@ -1,0 +1,178 @@
+&.[HDR].&
+*.000004000000962203000000010000000000000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I bet I could light these lanterns...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I bet I could light these lanterns...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I bet I could light these lanterns...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I bet I could light these lanterns...
+
+!------------------------------!
+ROXAS
+Je parie que je pourrais allumer ces lanternes...
+!------------------------------!
+ROXAS
+Ich kann diese Laternen bestimmt anmachen ...
+
+!------------------------------!
+ROXAS
+Potrei accendere queste lanterne...
+!------------------------------!
+ROXAS
+Ojalá pudiera encender
+estas lámparas...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+It looks like a door, but it won't open.
+
+!------------------------------!
+ROXAS
+On dirait une porte, mais ça ne s'ouvre pas.
+!------------------------------!
+ROXAS
+Sieht aus wie eine Tür, aber sie geht nicht auf.
+
+!------------------------------!
+ROXAS
+Sembra una porta, ma non si apre.
+!------------------------------!
+ROXAS
+Parece una puerta,
+pero no se abre.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I'm too big to fit through.
+
+!------------------------------!
+ROXAS
+Je suis trop grand pour passer.
+!------------------------------!
+ROXAS
+Ich bin zu groß, da passe ich nicht durch.
+
+!------------------------------!
+ROXAS
+Sono troppo grande per passare.
+!------------------------------!
+ROXAS
+Soy demasiado grande.
+
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000962203000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+I'm too big to fit through.
+
+!------------------------------!
+ROXAS
+Je suis trop grand pour passer.
+!------------------------------!
+ROXAS
+Ich bin zu groß, da passe ich nicht durch.
+
+!------------------------------!
+ROXAS
+Sono troppo grande per passare.
+!------------------------------!
+ROXAS
+Soy demasiado grande.
+
+!------------------------------!
+!******************************!

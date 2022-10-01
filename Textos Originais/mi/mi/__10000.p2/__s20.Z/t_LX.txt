@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><82><B7><E3><82><AA><E3><83><B3><E3><81><AE><E5><B1><85><E5><A0><B4><E6><89><80><EF><BC><9F>
+<E3><82><AB><E3><83><BC><E3><83><89><E3><81><A7><E5><8D><A0><E3><81><A3><E3><81><A6><E3><82><84><E3><82><8D><E3><81><86><E3><81><8B><EF><BC><9F>
+!------------------------------!
+LUXORD
+Xion's whereabouts?
+Shall I ask the cards for you?
+!------------------------------!
+LUXORD
+Tu veux savoir où est Xion ?
+Tu veux que je consulte mes cartes ?
+!------------------------------!
+LUXORD
+Xions Aufenthaltsort? Soll ich
+die Karten für dich befragen?
+!------------------------------!
+LUXORD
+Vuoi sapere dov'è Xion?
+Posso chiederlo alle carte...
+!------------------------------!
+LUXORD
+¿Xion? ¿Quieres
+que consulte mis cartas?
+!------------------------------!
+!******************************!

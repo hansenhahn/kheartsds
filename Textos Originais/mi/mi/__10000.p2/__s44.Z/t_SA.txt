@@ -1,0 +1,25 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><82><92><E7><94><A8><E6><84><8F><E3><81><97><E3><81><9F>
+<E4><BB><BB><E5><8B><99><E3><81><AB><E9><9B><86><E4><B8><AD><E3><81><97><E3><82><8D>
+!------------------------------!
+SAÏX
+Here are your new missions.
+Stay focused.
+!------------------------------!
+SAÏX
+Voici tes nouvelles missions. Reste concentré.
+!------------------------------!
+SAÏX
+Hier sind deine neuen Missionen.
+Bleib konzentriert.
+!------------------------------!
+SAÏX
+Ecco le tue nuove missioni.
+Resta concentrato.
+!------------------------------!
+SAÏX
+Estas son tus nuevas misiones.
+No te desconcentres.
+!------------------------------!
+!******************************!

@@ -1,0 +1,55 @@
+&.[HDR].&
+*.000004000000CF180200000001000000010000000C000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E3><82><88><E3><81><8F><E6><9D><A5><E3><81><9F><E3><82><AF><E3><83><9D>
+<E3><82><86><E3><81><A3><E3><81><8F><E3><82><8A><E8><A6><8B><E3><81><A6><E3><81><84><E3><81><8F><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+Greetings, kupo.
+Have a look at my wares, kupo.
+!------------------------------!
+MOG
+Bienvenue, kupo. Jette un coup d'œil à ce que j'ai
+en stock, kupo.
+!------------------------------!
+MOGRY
+Sei gegrüßt, kupo.
+Wirf einen Blick auf meine Waren, kupo.
+!------------------------------!
+MOGURI
+Salve, kupò.
+Guarda pure la mia mercanzia, kupò.
+!------------------------------!
+MOGURI
+Saludos, kupó. Echa un
+ojo a mis mercancías, kupó.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E6><96><B0><E5><95><86><E5><93><81><E3><82><92><E5><85><A5><E8><8D><B7><E3><81><97><E3><81><9F><E3><82><AF><E3><83><9D>
+<E3><82><86><E3><81><A3><E3><81><8F><E3><82><8A><E8><A6><8B><E3><81><A6><E3><81><84><E3><81><8F><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+The latest and greatest merchandise is in, kupo.
+Have a look, kupo.
+!------------------------------!
+MOG
+Les dernières nouveautés sont arrivées, kupo.
+Jette un coup d'œil, kupo !
+!------------------------------!
+MOGRY
+Die neusten und besten Waren sind da, kupo.
+Sieh dich um, kupo.
+!------------------------------!
+MOGURI
+Sono arrivati nuovi articoli, kupò.
+Dai un'occhiata, sono magnifici!
+!------------------------------!
+MOGURI
+Las mejores mercancías, kupó.
+Echa un vistazo, kupó.
+!------------------------------!
+!******************************!

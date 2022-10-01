@@ -1,0 +1,70 @@
+&.[HDR].&
+*.000004000000161802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><82><E3><81><A3><E3><81><A1><E3><81><AF><E3><81><A9><E3><82><93><E3><81><AA><E3><81><A8><E3><81><93><E3><82><8D><E3><81><AA><E3><82><93><E3><81><A0><E3><82><8D><E3><81><86><E3><81><AA><EF><BC><9F>
+<E4><BF><BA><E3><81><BE><E3><81><A0><E8><A1><8C><E3><81><A3><E3><81><9F><E3><81><93><E3><81><A8><E3><81><AD><E3><83><BC><E3><82><93><E3><81><A0><E3><82><88><E3><81><AA>
+!------------------------------!
+DEMYX
+Wonder what it's like there, anyway.
+I've never been.
+!------------------------------!
+DEMYX
+Je me demande à quoi ça ressemble là-bas.
+Je n'y suis jamais allé.
+!------------------------------!
+DEMYX
+Ich wüsste gerne, wie es dort ist.
+Ich war noch nie da.
+!------------------------------!
+DEMYX
+Chissà com'è quel posto.
+Non ci sono mai stato.
+!------------------------------!
+DEMYX
+Me pregunto cómo es
+aquello. No lo conozco.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><95><E3><81><A3><E3><81><8D><E3><81><93><E3><82><93><E3><81><AA><E3><81><AE><E6><8B><BE><E3><81><A3><E3><81><9F><E3><81><91><E3><81><A9>
+<E3><81><84><E3><82><89><E3><81><AD><E3><83><BC><E3><81><8B><E3><82><89><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AB><E3><82><84><E3><82><8B><E3><82><88>
+!------------------------------!
+DEMYX
+I found this lying around, but what am I gonna do
+with it, am I right?
+!------------------------------!
+DEMYX
+J'ai trouvé ça par terre, mais qu'est-ce que je
+pourrais bien en faire ?
+!------------------------------!
+DEMYX
+Ich hab das hier gefunden, aber
+was soll ich schon damit anfangen,
+nicht wahr?
+!------------------------------!
+DEMYX
+Ho trovato questa in giro,
+ma non so cosa farmene.
+!------------------------------!
+DEMYX
+He encontrado esto, pero creo
+que no me sirve de nada.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E7><87><83><E3><81><88><E4><B8><8A><E3><81><8C><E3><82><8B><E3><81><8B><E3><81><91><E3><82><89><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtained: Blazing Shard
+!------------------------------!
+Éclat ardent obtenu !
+!------------------------------!
+Erhalten: Pyrosplitter
+!------------------------------!
+Ottieni: Scheggia ardente
+!------------------------------!
+Obtenido: guijarro ígneo.
+!------------------------------!
+!******************************!

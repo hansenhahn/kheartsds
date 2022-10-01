@@ -1,0 +1,256 @@
+&.[DSA].Condicional.&
+*.NULO.*
+!------------------------------!
+XALDIN
+...You look like you have more to say.
+!------------------------------!
+XALDIN
+Tu as autre chose à ajouter ?
+!------------------------------!
+XALDIN
+... Du siehst aus, als läge dir noch etwas
+auf dem Herzen.
+!------------------------------!
+XALDIN
+Vuoi dirmi qualcos'altro, per caso?
+!------------------------------!
+XALDIN
+Parece que tienes
+algo más que decir.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It's about Belle.
+!------------------------------!
+C'est Belle.
+!------------------------------!
+Es geht um Belle.
+!------------------------------!
+Riguardo a Belle...
+!------------------------------!
+Es sobre Bella.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+It's about the rose.
+!------------------------------!
+C'est la rose.
+!------------------------------!
+Es geht um die Rose.
+!------------------------------!
+Riguardo alla rosa...
+!------------------------------!
+Es sobre la rosa.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+She's obviously important to the beast.
+
+!------------------------------!
+ROXAS
+Belle est importante aux yeux de la bête.
+!------------------------------!
+ROXAS
+Sie ist dem Biest offensichtlich wichtig.
+!------------------------------!
+ROXAS
+Lei è molto importante per la Bestia.
+!------------------------------!
+ROXAS
+Es obvio que a la bestia
+le importa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+The servants seem more concerned with her than
+the beast does.
+!------------------------------!
+XALDIN
+Les domestiques ont pourtant l'air de plus
+se soucier d'elle que ne le fait la bête.
+!------------------------------!
+XALDIN
+Die Diener scheinen sich mehr Sorgen
+um sie zu machen als das Biest.
+!------------------------------!
+XALDIN
+I servitori sembravano molto preoccupati
+per lei, anche più della Bestia.
+!------------------------------!
+XALDIN
+Los criados parecen más
+preocupados por ella que él.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+They seem to be of the opinion she matters somehow
+to their master.
+!------------------------------!
+Ils ont l'air de penser qu'elle est importante
+aux yeux de leur maître.
+!------------------------------!
+Sie scheinen der Meinung zu sein,
+sie wäre ihrem Herrn wichtig.
+!------------------------------!
+Ritengono sia una persona
+fondamentale per il loro padrone.
+!------------------------------!
+Parecen creer que es
+importante para su amo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Right, but how?
+
+!------------------------------!
+ROXAS
+Oui, mais pourquoi ?
+!------------------------------!
+ROXAS
+Ja, aber auf welche Art?
+!------------------------------!
+ROXAS
+Sì, ma perché?
+!------------------------------!
+ROXAS
+Sí, pero, ¿por qué?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Enough speculation. We have what we need.
+It's past time we returned.
+!------------------------------!
+XALDIN
+Assez d'hypothèses. On a eu ce qu'on voulait.
+Il est temps de repartir.
+!------------------------------!
+XALDIN
+Genug spekuliert. Wir haben was wir brauchen.
+Wir sollten dringend zurückkehren.
+!------------------------------!
+XALDIN
+Ora basta chiacchierare. Abbiamo ciò
+che ci serviva, quindi dobbiamo rientrare.
+!------------------------------!
+XALDIN
+Basta. Tenemos lo que
+queríamos. Es hora de volver.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Okay, so it's not an ordinary flower.
+Don't you think we should find out why?
+!------------------------------!
+ROXAS
+OK, ce n'est pas une fleur ordinaire.
+Tu ne crois pas qu'on devrait creuser ?
+!------------------------------!
+ROXAS
+Okay, das ist also keine gewöhnliche Rose.
+Sollten wir nicht herausfinden weshalb?
+!------------------------------!
+ROXAS
+Quello non è un fiore qualsiasi.
+Non credi che dovremmo scoprire perché?
+!------------------------------!
+ROXAS
+No es una flor normal. ¿No
+deberíamos averiguar por qué?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+I thought you'd have figured that part out by now.
+It probably has to do with the spell he's under.
+!------------------------------!
+XALDIN
+Je croyais que tu avais compris. Elle doit avoir un
+rapport avec le sortilège qui l'a frappé.
+!------------------------------!
+XALDIN
+Ich dachte, da wärst du schon drauf gekommen.
+Es hat wahrscheinlich etwas mit dem Zauber zu tun.
+!------------------------------!
+XALDIN
+Pensavo l'avessi già capito. C'entra
+qualcosa con l'incantesimo della Bestia.
+!------------------------------!
+XALDIN
+Creí que lo habrías deducido.
+Tendrá que ver con el hechizo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Spell?
+
+!------------------------------!
+ROXAS
+Le sortilège ?
+!------------------------------!
+ROXAS
+Zauber?
+!------------------------------!
+ROXAS
+L'incantesimo?
+!------------------------------!
+ROXAS
+¿Hechizo?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XALDIN
+Enough speculation. We have what we need.
+It's past time we returned.
+!------------------------------!
+XALDIN
+Assez d'hypothèses. On a eu ce qu'on voulait.
+Il est temps de repartir.
+!------------------------------!
+XALDIN
+Genug spekuliert. Wir haben was wir brauchen.
+Wir sollten dringend zurückkehren.
+!------------------------------!
+XALDIN
+Ora basta chiacchierare. Abbiamo ciò
+che ci serviva, quindi dobbiamo rientrare.
+!------------------------------!
+XALDIN
+Basta. Tenemos lo que
+queríamos. Hora de volver.
+!------------------------------!
+!******************************!

@@ -1,7 +1,0 @@
-Erreur de communication.
-Appuyez sur <A> pour revenir
-<00E0> l'<00E9>cran-titre.
-!******************************!
-Impossible d'<00E9>tablir la communication sans fil DS.
-Appuyez sur <A> pour revenir <00E0> l'<00E9>cran-titre.
-!******************************!

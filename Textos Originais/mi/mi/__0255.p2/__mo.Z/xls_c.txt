@@ -1,0 +1,54 @@
+&.[HDR].&
+*.000004000000AA2201000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+PLAYING CARD
+This garden belongs to the Queen. And it's private.
+No trespassing. Thank you.
+!------------------------------!
+SOLDAT CARTE
+Les jardins sont la propriété de la Reine.
+Interdiction de passer !
+!------------------------------!
+KARTENSOLDAT
+Der Garten gehört der Königin.
+Zugang nicht gestattet!
+!------------------------------!
+SOLDATO CARTA
+Questi giardini appartengono alla Regina. E sono
+proprietà privata. Non si passa. Grazie.
+!------------------------------!
+SOLDADO NAIPE
+Estos jardines son propiedad de la reina.
+¡Prohibida la entrada!
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2201000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+PLAYING CARD
+This garden belongs to the Queen. And it's private.
+No trespassing. Thank you.
+!------------------------------!
+SOLDAT CARTE
+Les jardins sont la propriété de la Reine.
+Interdiction de passer !
+!------------------------------!
+KARTENSOLDAT
+Der Garten gehört der Königin.
+Zugang nicht gestattet!
+!------------------------------!
+SOLDATO CARTA
+Questi giardini appartengono alla Regina. E sono
+proprietà privata. Non si passa. Grazie.
+!------------------------------!
+SOLDADO NAIPE
+Estos jardines son propiedad de la reina.
+¡Prohibida la entrada!
+!------------------------------!
+!******************************!

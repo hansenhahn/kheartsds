@@ -1,0 +1,259 @@
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Well, that covers pretty much everywhere we can
+get to.
+!------------------------------!
+XION
+Bon, je crois qu'on a fait le tour.
+!------------------------------!
+XION
+So, das wäre so ziemlich alles, wo wir
+hinkönnen.
+!------------------------------!
+XION
+Bene, ora abbiamo controllato
+proprio dappertutto.
+!------------------------------!
+XION
+Bueno, con esto ya lo
+hemos visitado todo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Okay, let's think this through...
+
+!------------------------------!
+ROXAS
+Réfléchissons...
+!------------------------------!
+ROXAS
+Überlegen wir noch mal ...
+!------------------------------!
+ROXAS
+OK, facciamo il punto della situazione...
+!------------------------------!
+ROXAS
+Pensemos un poco...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+That candelabra mentioned something about a
+master, right?
+!------------------------------!
+ROXAS
+Tout à l'heure, le chandelier a parlé
+d'un maître, pas vrai ?
+!------------------------------!
+ROXAS
+Der Kerzenständer hat doch einen Herrn
+erwähnt, oder?
+!------------------------------!
+ROXAS
+Quel candelabro ha accennato
+al suo padrone, giusto?
+!------------------------------!
+ROXAS
+Ese candelabro mencionó a un
+amo, ¿verdad?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Yeah, that he won't leave his chambers.
+
+!------------------------------!
+XION
+Oui, qui ne quitterait jamais ses appartements.
+!------------------------------!
+XION
+Ja, und dass er nie seine Gemächer verlässt.
+!------------------------------!
+XION
+Sì, ha detto che non vuole mai
+uscire dalle sue stanze.
+!------------------------------!
+XION
+Sí, que nunca sale
+de su cuarto.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Maybe whoever this <E2><80><9C>master<E2><80><9D> is has a room or
+something down at the end of the hall.
+
+!------------------------------!
+Peut-être que ce <E2><80><9C>maître<E2><80><9D> a ses appartements
+au bout de ce couloir.
+!------------------------------!
+Vielleicht ist das Zimmer dieses <E2><80><9E>Herrn<E2><80><9C>
+ja am Ende dieser Halle.
+!------------------------------!
+Forse questo "padrone" ha una stanza
+in fondo a questo salone.
+!------------------------------!
+Puede que ese "amo" tenga un
+cuarto o algo así al final
+del pasillo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Wanna go find out?
+
+!------------------------------!
+ROXAS
+Tu veux aller voir ?
+!------------------------------!
+ROXAS
+Wollen wir's herausfinden?
+!------------------------------!
+ROXAS
+Vogliamo scoprirlo?
+!------------------------------!
+ROXAS
+¿Lo averiguamos?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+What? But we<E2><80><95>
+
+!------------------------------!
+XION
+Quoi ? Mais on...
+!------------------------------!
+XION
+Was? Aber wir ...
+!------------------------------!
+XION
+Che cosa? Ma noi...
+!------------------------------!
+XION
+¿Cómo? Pero...
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+We just need to slip by without being noticed.
+
+!------------------------------!
+ROXAS
+Il suffit de se faufiler en douce.
+!------------------------------!
+ROXAS
+Wir müssen bloß ungesehen vorbeischleichen.
+!------------------------------!
+ROXAS
+Ci basterà passare
+senza farci vedere.
+!------------------------------!
+ROXAS
+Solo hay que impedir que
+nos vean.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+You really think we can?
+
+!------------------------------!
+XION
+Tu crois qu'on peut y arriver ?
+!------------------------------!
+XION
+Meinst du, das schaffen wir?
+!------------------------------!
+XION
+Credi che ce la faremo?
+!------------------------------!
+XION
+¿Lo crees posible?
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Well, I know we can't go back empty-handed.
+Saïx wouldn't be too happy about that.
+!------------------------------!
+ROXAS
+Saïx sera furieux si on rentre bredouilles.
+!------------------------------!
+ROXAS
+Nun, wir können nicht mit leeren Händen
+zurückkehren. Saïx wäre höchst unzufrieden.
+!------------------------------!
+ROXAS
+Beh, non possiamo tornare indietro
+a mani vuote. Saïx non apprezzerebbe.
+!------------------------------!
+ROXAS
+No podemos volver sin nada.
+Saïx se enfadaría.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+As long as we're careful, we should be fine.
+
+!------------------------------!
+Tout devrait bien se passer si on reste
+prudents.
+!------------------------------!
+Solange wir nur vorsichtig vorgehen,
+müsste alles gut gehen.
+!------------------------------!
+Ci basterà stare attenti, tutto qui.
+!------------------------------!
+Si tenemos cuidado,
+todo irá bien.
+
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+XION
+Okay... If you say so.
+
+!------------------------------!
+XION
+Bon... comme tu voudras.
+!------------------------------!
+XION
+Okay ... Wenn du das sagst.
+!------------------------------!
+XION
+Bene, se lo dici tu.
+!------------------------------!
+XION
+Si tú lo dices...
+
+!------------------------------!
+!******************************!

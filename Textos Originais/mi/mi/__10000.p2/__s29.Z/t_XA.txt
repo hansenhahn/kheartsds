@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E6><88><91><E3><80><85><E3><81><A8><E5><90><8C><E3><81><98><E3><82><B3><E3><83><BC><E3><83><88><E3><82><92><E7><9D><80><E3><81><9F><E6><A9><9F><E9><96><A2><E5><93><A1><E3><81><AE><E5><81><BD><E8><80><85><E3><81><8C>
+<E6><9C><80><E8><BF><91><E7><8F><BE><E3><82><8C><E3><81><A6><E3><81><84><E3><82><8B><E3><82><88><E3><81><86><E3><81><A0>
+!------------------------------!
+XALDIN
+It seems an Organization impostor has surfaced<E2><80><95>
+one who wears our coat.
+!------------------------------!
+XALDIN
+Il semble qu'il existe un imposteur portant la tenue
+de l'Organisation.
+!------------------------------!
+XALDIN
+Es scheint einen Hochstapler
+im Organisationsmantel zu geben.
+!------------------------------!
+XALDIN
+Pare che ci sia un impostore. 
+Indossa la tunica dell'Organizzazione.
+!------------------------------!
+XALDIN
+Parece que hay un impostor
+en la Organización.
+!------------------------------!
+!******************************!

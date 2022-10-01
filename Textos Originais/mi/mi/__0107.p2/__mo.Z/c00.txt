@@ -1,0 +1,129 @@
+&.[HDR].&
+*.000004000000922204000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+HAYNER
+You need to get your ears checked, Olette.
+!------------------------------!
+HAYNER
+Faudrait te faire ausculter
+les oreilles, Olette.
+!------------------------------!
+HAYNER
+Geh mal Ohrenarzt, Olette.
+!------------------------------!
+HAYNER
+Forse hai un po' di cerume
+nelle orecchie, Olette.
+!------------------------------!
+HAYNER
+Tienes que mirarte los oídos,
+Olette.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000922204000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+HAYNER
+Aw, crud... I think I forgot to shut the fence
+outside the usual spot.
+!------------------------------!
+HAYNER
+Ah, zut... Je crois que j'ai oublié
+de fermer l'accès au repaire.
+!------------------------------!
+HAYNER
+Ah, Mist ... Ich habe vergessen, den Zaun
+vor dem Treffpunkt zu schließen.
+!------------------------------!
+HAYNER
+Oh, cavolo... Ho dimenticato di
+chiudere il cancello del ritrovo.
+!------------------------------!
+HAYNER
+Jopé... Creo que olvidé
+cerrar la valla en el lugar
+de siempre.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+OLETTE
+Hayner, it's on a side street.
+Who's gonna go anywhere near it?
+!------------------------------!
+OLETTE
+Hayner, c'est dans une ruelle.
+Qui ira voir là-bas ?
+!------------------------------!
+OLETTE
+Hayner, er ist in einer Seitenstraße.
+Wer kommt da schon vorbei?
+!------------------------------!
+OLETTE
+È una strada laterale, Hayner.
+Chi vuoi che lo trovi?
+!------------------------------!
+OLETTE
+Está en un callejón.
+¿Quién se va a acercar?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000922204000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+HAYNER
+Aw, crud... I think I forgot to shut the fence
+outside the usual spot.
+!------------------------------!
+HAYNER
+Ah, zut... Je crois que j'ai oublié
+de fermer l'accès au repaire.
+!------------------------------!
+HAYNER
+Ah, Mist ... Ich habe vergessen, den Zaun
+vor dem Treffpunkt zu schließen.
+!------------------------------!
+HAYNER
+Oh, cavolo... Ho dimenticato di
+chiudere il cancello del ritrovo.
+!------------------------------!
+HAYNER
+Jopé... Creo que olvidé
+cerrar la valla en el lugar
+de siempre.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+OLETTE
+Hayner, it's on a side street.
+Who's gonna go anywhere near it?
+!------------------------------!
+OLETTE
+Hayner, c'est dans une ruelle.
+Qui ira voir là-bas ?
+!------------------------------!
+OLETTE
+Hayner, er ist in einer Seitenstraße.
+Wer kommt da schon vorbei?
+!------------------------------!
+OLETTE
+È una strada laterale, Hayner.
+Chi vuoi che lo trovi?
+!------------------------------!
+OLETTE
+Está en un callejón.
+¿Quién se va a acercar?
+!------------------------------!
+!******************************!
