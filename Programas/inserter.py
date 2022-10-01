@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: windows-1252 -*-
 
 import re
 import shutil
@@ -23,7 +23,7 @@ languages = ("Ingl\xc3\xaas", "Franc\xc3\xaas", "Alem\xc3\xa3o", "Italiano", "Es
 TAG_MV = r'^\[MV:(.+?)\]$'
 TAG_NM = r'^\[(.+?)\]$'
 TAG_CH = r'(<.+?>)'
-TAG_CH2 = r'^<(.+?)>$'
+TAG_CH2 = r'^(<.+?>)$'
 END = r'^!\D{30}!$'
 
 def scandirs( path ):
@@ -41,19 +41,19 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
             has_fnt = False):
 
     for dir in os.listdir(root):
-        #output = open(os.path.join('Arquivos PT-BR/P2', dir) + '.p2', 'wb')
-#        output = open(os.path.join(outdir, dir) + extension, 'wb')
-        #entries = len(os.listdir(os.path.join(root, dir)))
-        
+        if not dir.endswith(".p2"):
+            continue
+    
         if not os.path.isdir( os.path.join(root, dir) ):
             continue
         
         try:
-            with open(os.path.join(root, dir, 'make.txt'), 'r') as makefile:
+            with open(os.path.join(root, dir, 'Makefile'), 'r') as makefile:
                 nametable = makefile.readlines()
         except:
             continue
             
+        origin = nametable.pop(0)
         entries = len(nametable)
         
         base_address = entries * 6 + 16
@@ -64,7 +64,10 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         
         while base_address % 0x200 != 0: base_address += 1
         
-        output = open(os.path.join(outdir, dir) + extension, 'wb')
+        head, tail = os.path.split(dir)
+        tail = tail.replace("__", "")
+        
+        output = open(os.path.join(outdir, head, tail) + extension, 'wb')
         output.write('P2')
 
         if has_fnt:
@@ -83,8 +86,8 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         for file_name in nametable:
             file_name = file_name.strip('\r\n')
             
-            a = re.match(r'^(.+?) (.+?)$', file_name)
-            name, comp = a.groups()
+            a = re.match(r'^(.+?);(.+?);(.+?)$', file_name)
+            name, comp, size = a.groups()
             
             compress = False
             if comp != "None":
@@ -95,9 +98,9 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         
             input = open(os.path.join(root, dir, name), 'rb')
             if compress:
-                if comp == "LZSS":
+                if comp == "lz10":
                     buffer = compression.lzss.compress(input)
-                elif comp == "ONZ":
+                elif comp == "lz11":
                     buffer = compression.onz.compress(input)
             else:
                 buffer = array.array('c', input.read())
@@ -242,38 +245,63 @@ def pack_CAKP(root = '../Textos PT-BR/CAKP', outdir = '../Arquivos PT-BR/Unpacke
                 print "Copiando %s" % folder
                 shutil.copy(folder, os.path.join(_out, _folder))
                 
-def pack_GNRC(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'):
+def pack_GNRC(root = '../Textos PT-BR/P2',
+              outdir = '../Arquivos PT-BR/Unpacked P2',
+              first_onz = False):
     table = normal_table('tabela2.tbl')
     table.fill_with('61=a', '41=A', '30=0')
     table.add_items('0A=\n')
     
     table.set_mode('inverted')
-    for _dir in os.listdir(root):
-        out = os.path.join( outdir, _dir)
-        dir = os.path.join(root, _dir)
-        
-        if not os.path.isdir(out):
-            os.makedirs(out)
-            
-        for f in os.listdir(dir):
-            #a = re.match(r'^(.+?)\.z\.txt$', f)
-            a = re.match(r'^(.+?)\.txt$', f)
-            if a:
-                with open(os.path.join(dir, f), 'r') as input:
-                    output = open(os.path.join(out, a.groups()[0]), 'r+b')
-                    parser.generic_inserter_1(input, output, table)
-                    output.close()
-            else:
-                pass                
-                
-def pack_Z(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'):
-    table = normal_table('tabela2.tbl')
-    table.fill_with('61=a', '41=A', '30=0')
-    table.add_items('0A=\n')
     
-    table.set_mode('inverted')
-    files = filter(lambda x: re.match(r'^(.+?)\.txt$', x), scandirs(root))        
+    if os.path.isdir(root):
+        files = filter(lambda x: re.match(r'^(.+?)\.txt$', x), scandirs(root))
+    else:
+        files = [root,]
+    print root
     for _, fname in enumerate(files):
+        
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        
+        # if not os.path.isdir(fdirs):
+            # os.makedirs(fdirs)    
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")    
+            print filepath
+            output = open( filepath, "r+b")
+            parser.generic_inserter_1(input, output, table)
+            output.close()   
+    
+    
+    
+    
+    # for _dir in os.listdir(root):
+        # out = os.path.join( outdir, _dir)
+        # dir = os.path.join(root, _dir)
+        
+        # if not os.path.isdir(out):
+            # os.makedirs(out)
+            
+        # for f in os.listdir(dir):
+            # a = re.match(r'^(.+?)\.txt$', f)
+            # if a:
+                # with open(os.path.join(dir, f), 'r') as input:
+                    # output = open(os.path.join(out, a.groups()[0]), 'r+b')
+                    # parser.generic_inserter_1(input, output, table)
+                    # output.close()
+            # else:
+                # pass                
+                
+def pack_Z( root = '../Textos PT-BR/P2',
+            outdir = '../Arquivos PT-BR/Unpacked P2'):
+
+    files = filter(lambda x: re.match(r'^(.+?)\.z$', x), scandirs(root))        
+    for _, fname in enumerate(files):
+        # arquivos .z dentro de pastas com extensão .p2 são comprimidos dentro do próprio empacotador p2
+        if ".p2" in fname:
+            continue
         
         path = fname[len(root):]
         fdirs = outdir + path[:-len(os.path.basename(path))]
@@ -283,77 +311,65 @@ def pack_Z(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'
         with open( fname, 'r') as input:
             filepath = outdir + fname[len(root):].replace(".txt", "")
 
-            output = open( filepath, "rb")
-            buffer = compression.onz.uncompress(output, 0)
-            output.close()
-            
-            output = open( filepath, "r+b")
-            buffer.tofile(output)            
-            output.seek(0, 0)                
-        
-            parser.generic_inserter_1(input, output, table)
+            print "Comprimindo %s." % fname
+            buffer = compression.onz.compress(input)
 
-            buffer = compression.onz.compress(output)
-            
-            output.close()
             output = open( filepath, "wb")
             buffer.tofile(output)
             output.close()
             
-
-
  # *********************** WIP *********************** #
-                
-# def insert_S(root = 'Textos PT-BR/S'):
-
-    # table = normal_table('kh.tbl')
+def pack_S(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'):
+    table = normal_table('tabela3.tbl')
+    table.fill_with('0061=a', '0041=A', '0030=0')
+    table.add_items('000A=\n')
     
-    # table.set_mode('inverted')
+    table.set_mode('inverted')
+    files = filter(lambda x: re.match(r'^.+?(\.s).*?(\.txt)$', x), scandirs(root))       
+    for _, fname in enumerate(files):
+        print "Inserindo %s." % fname
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)    
 
-    # for file_name in os.listdir(root):
-        # print file_name
-    
-        # input = open(os.path.join(root, file_name), 'r')
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+            output = open( filepath, "wb")
+            buffer = []
+            block = array.array('c')
+            for line in input:
+                line = line.strip('\r\n')
+                line = line.decode('utf-8').encode('windows-1252')
+                if line == '!******************************!':
+                    block.pop()
+                    block.pop()
+                    block.extend('\x00\x00')
+                    buffer.append(block)
+                    block = array.array('c')
+                else:
+                    splited = re.split(TAG_CH, line)
+                    for data in splited:
+                        tag = re.match(TAG_CH2, data)
+                        if tag:
+                            tag = tag.groups()[0]
+                            if tag in table:
+                                block.extend(table[tag][::-1])
+                            else:
+                                block.extend(struct.pack("<H", int(tag[1:-1],16)))
+                        else:
+                            for c in data:
+                                block.extend(c+"\x00")
+                    block.extend('\x0a\x00')
+                    
+            output.write(struct.pack("<L", 8))
+            output.write(struct.pack('<L', len(buffer)))
+            for block in buffer:
+                output.write(struct.pack('<L', len(block)+4))
+                block.tofile(output)
+            
+            output.close()
 
-        # buffer = []
-        
-        # block = array.array('c')
-        # for line in input:
-            # line = line.strip('\r\n')     
-            # if line == '!******************************!':
-                # block.pop()
-                # block.pop()
-                # block.extend('\x00\x00')
-                # buffer.append(block)
-                # block = array.array('c')
-            # else:
-                # splited = re.split(TAG_CH, line)
-                # for data in splited:
-                    # tag = re.match(TAG_CH2, data)
-                    # if tag:
-                        # tag = tag.groups()[0]
-                        # block.extend(table[tag][::-1])
-                    # else:
-                        # for c in data:
-                            # block.extend(c + '\x00')
-                # block.extend('\x0a\x00')
-                
-        # output = open('teste.raw', 'wb')
-        # output.write('\x08\x00\x00\x00')
-        # output.write(struct.pack('<L', len(buffer)))
-        # for block in buffer:
-            # output.write(struct.pack('<L', len(block)+4))
-            # block.tofile(output)
-        
-        # output.close()
-        
-        # output = open('teste.raw', 'rb')
-        # with open('out.bin', 'wb') as f:
-                # buffer = compression.onz.compress(output)
-                # buffer.tofile(f)
-                
-        # output.close()
-        # input.close()
         
 # def insert_P2(root = 'Textos PT-BR/P2'):
 
@@ -511,7 +527,8 @@ if __name__ == '__main__':
     aparser.add_argument( '-m', dest = "mode", type = str, required = True )
     aparser.add_argument( '-s', dest = "src", type = str, nargs = "?", required = True )
     aparser.add_argument( '-s1', dest = "src1", type = str, nargs = "?" )
-    aparser.add_argument( '-d', dest = "dst", type = str, nargs = "?", required = True )
+    aparser.add_argument( '-d', dest = "dst", type = str, nargs = "?" )
+    aparser.add_argument( '-d1', dest = "dst1", type = str, nargs = "?" )
     aparser.add_argument( '-ext' , dest = "ext", type = str, nargs = "?", required = False, default = "" )
     aparser.add_argument( '-fnt' , dest = "has_fnt", action = "store_true" )
     
@@ -525,10 +542,20 @@ if __name__ == '__main__':
         print "Packing GNRC text"
         pack_GNRC(root = args.src , outdir = args.src1 )
         pack_P2(root = args.src1, outdir = args.dst, extension = args.ext, has_fnt = args.has_fnt)
-    elif args.mode == "z":
-        print "Packing Z text"
+    elif args.mode == ".p2": 
+        print "Packing .p2 files"
+        pack_P2(root = args.src, outdir = args.dst, extension = args.ext, has_fnt = args.has_fnt)
+    elif args.mode == ".noext":
+        print "Packing .noext text"
+        pack_GNRC(root = args.src , outdir = args.dst1 )
+        #pack_Z(root = args.src1 , outdir = args.dst )
+    elif args.mode == ".s.z":
+        print "Packing .s.z text"
+        pack_S(root = args.src , outdir = args.src1 )
+        pack_Z(root = args.src1 , outdir = args.dst )
+    elif args.mode == ".z":
+        print "Packing .z"
         pack_Z(root = args.src , outdir = args.dst )
-        #shutil.copy( 
     else:
         sys.exit(1)
         

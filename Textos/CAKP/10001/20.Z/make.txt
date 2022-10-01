@@ -1,5 +1,0 @@
-last
-shop
-t0
-t1
-_i

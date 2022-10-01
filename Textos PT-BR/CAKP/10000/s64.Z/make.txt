@@ -1,4 +1,0 @@
-chara
-t_AX
-t_DE
-t_XA

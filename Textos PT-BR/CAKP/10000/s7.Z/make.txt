@@ -1,4 +1,0 @@
-chara
-t_LE
-t_MA
-t_ZE

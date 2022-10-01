@@ -1,6 +1,0 @@
-cmp
-e0
-e1
-e3
-warp
-_i

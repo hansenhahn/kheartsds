@@ -1,5 +1,0 @@
-dg
-score
-wall02
-wall03
-_i

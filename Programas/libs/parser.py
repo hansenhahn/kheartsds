@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# -*- coding: windows-1252 -*-
 
 import re
 
@@ -39,7 +39,8 @@ def generic_parser_1(file, output, table):
             flag = file.read(2)
             size = struct.unpack('<H', file.read(2))[0] & 0xFF
         except:
-            print 
+            #raw_input()
+            break
         # if flag == '\x00\x03':
             # break
             
@@ -162,6 +163,9 @@ def generic_parser_1(file, output, table):
                         break
                 output.write('\n!******************************!\n')        
             file.seek(addrRet, 0)
+            
+        elif flag == '\x02\x14':
+            pass
 
             
         # \x02 -> Estrutura Diálogos Sem Avatar 
@@ -294,6 +298,9 @@ def generic_parser_1(file, output, table):
             output.write('*.%08X.*\n' % struct.unpack('<L', file.read(4))[0])
             output.write('!******************************!\n')
             
+        elif flag == '\x04\x12':
+            pass
+            
         # \x13 -> Estrutura Evento?
         elif flag == '\x13\x00':
             structs = []
@@ -371,6 +378,7 @@ def generic_inserter_1(input, output, table):
     while True:
         if not c:
             break
+
         line = c.pop(0)
         line = line.strip('\r\n')
         a = re.match(MARK1, line)
@@ -537,12 +545,10 @@ def generic_inserter_1(input, output, table):
     while True:        
         
         pointers = []
-    
+   
         flag = output.read(2)
         size = struct.unpack('<H', output.read(2))[0] & 0xFF
 
-        #print hex(struct.unpack("<H", flag)[0])
-        
         if flag == '\x01\x0A':
             addrRet = output.tell() 
             
