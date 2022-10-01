@@ -1,0 +1,559 @@
+Fire
+!******************************!
+Magic that shoots a homing ball of
+flame. <AMARELO>Ignite<BRANCO> an enemy to sap more HP.
+!******************************!
+Fira
+!******************************!
+Magic that shoots a ball of flame
+straight ahead. <AMARELO>Ignite<BRANCO> an enemy to sap
+more HP.
+!******************************!
+Firaga
+!******************************!
+Magic that shoots a fireball which
+explodes on impact. <AMARELO>Ignite<BRANCO> an enemy to
+sap more HP.
+!******************************!
+Blizzard
+!******************************!
+Magic that shoots an ice crystal which
+pursues foes. <AMARELO>Freeze<BRANCO> enemies to leave
+them open to triple damage.
+!******************************!
+Blizzara
+!******************************!
+Magic that shoots an ice crystal which
+stays in place. <AMARELO>Freeze<BRANCO> enemies to
+leave them open to triple damage.
+!******************************!
+Blizzaga
+!******************************!
+Magic that sets an ice mine which
+explodes on contact. <AMARELO>Freeze<BRANCO> enemies
+to leave them open to triple damage.
+!******************************!
+Thunder
+!******************************!
+Magic that rains down a row of
+lightning bolts. <AMARELO>Jolt<BRANCO> enemies to set
+them up for additional damage.
+!******************************!
+Thundara
+!******************************!
+Magic that hits a broad area with many
+lightning bolts. <AMARELO>Jolt<BRANCO> enemies to set
+them up for additional damage.
+!******************************!
+Thundaga
+!******************************!
+Magic that strikes a foe directly with
+lightning. <AMARELO>Jolt<BRANCO> enemies to set them up
+for additional damage.
+!******************************!
+Aero
+!******************************!
+Magic that shoots a swift gust of wind
+at a foe. <AMARELO>Air-toss<BRANCO> enemies to leave
+them open to triple damage.
+!******************************!
+Aerora
+!******************************!
+Magic that sends a gust of wind to
+stalk your foes. <AMARELO>Air-toss<BRANCO> enemies to
+leave them open to triple damage.
+!******************************!
+Aeroga
+!******************************!
+Magic that generates a huge whirlwind.
+<AMARELO>Air-toss<BRANCO> enemies to leave them open to
+triple damage.
+!******************************!
+Cure
+!******************************!
+Magic that restores some of your HP.
+!******************************!
+Cura
+!******************************!
+Magic that continues to restore your
+HP over time.
+!******************************!
+Curaga
+!******************************!
+Magic that creates an HP recovery
+field for you and your comrades.
+!******************************!
+Dodge Roll
+!******************************!
+Hold <+> and press <Y> to roll forward
+and avoid enemy attacks.
+!******************************!
+Dodge Rush
+!******************************!
+Knock enemies aside when you perform
+a dodge roll.
+!******************************!
+Dodging Deflect
+!******************************!
+Bounce back enemy attacks when you
+perform a dodge roll.
+!******************************!
+Dodge Combo
+!******************************!
+Transition swiftly from a dodge roll
+back to the offensive.
+!******************************!
+Auto-Dodge
+!******************************!
+Automatically avoid enemy attacks
+sometimes.
+!******************************!
+Block
+!******************************!
+Press <Y> to block and bounce back
+enemy attacks.
+!******************************!
+Perfect Block
+!******************************!
+Block just as an attack hits to
+eliminate recoil and transition right
+into your next move.
+!******************************!
+Block-Counter
+!******************************!
+Respond with a powerful counter-
+attack immediately after blocking.
+!******************************!
+Block-Retreat
+!******************************!
+Recoil farther after you block an
+attack.
+!******************************!
+Sliding Block
+!******************************!
+Quickly slide forward as you block.
+!******************************!
+Block-Jump
+!******************************!
+Jump right after you block without any
+delay.
+!******************************!
+Fire Block
+!******************************!
+<AMARELO>Ignite<BRANCO> enemies sometimes when you
+block.
+!******************************!
+Blizzard Block
+!******************************!
+<AMARELO>Freeze<BRANCO> enemies sometimes when you
+block.
+!******************************!
+Thunder Block
+!******************************!
+<AMARELO>Jolt<BRANCO> enemies sometimes when you block.
+!******************************!
+Aero Block
+!******************************!
+<AMARELO>Air-toss<BRANCO> enemies sometimes when you
+block.
+!******************************!
+Block Bonus
+!******************************!
+Generate HP prizes sometimes when
+you block.
+!******************************!
+Round Block
+!******************************!
+Block any attack, even if it comes
+from behind.
+!******************************!
+Auto-Block
+!******************************!
+Automatically block frontal attacks.
+!******************************!
+Glide
+!******************************!
+Hold <Y> in midair to ride the wind.
+You will stay airborne until you
+release the button.
+!******************************!
+Homing Glide
+!******************************!
+Lock on to a target while gliding to
+automatically move toward it.
+!******************************!
+Rocket Glide
+!******************************!
+Slam past enemies by gliding right
+after you begin an air slide.
+(Requires <AMARELO>Air Slide<BRANCO>.)
+!******************************!
+Air Slide
+!******************************!
+Press <B> in midair to perform an
+aerial dash.
+!******************************!
+Air Rush
+!******************************!
+Knock enemies aside when you perform
+an air slide.
+!******************************!
+Sliding Dash
+!******************************!
+Press <A> to quickly close in on a
+target and attack.
+!******************************!
+Aerial Recovery
+!******************************!
+Press <B> if you are sent flying to
+regain your balance.
+!******************************!
+Quick Recovery
+!******************************!
+Recover more quickly by pressing <B>
+as soon as you are sent flying.
+!******************************!
+Aerial Payback
+!******************************!
+Respond with a powerful counter-
+attack immediately after you perform
+an air recovery.
+!******************************!
+Smash Recovery
+!******************************!
+Knock away nearby enemies when you
+perform an aerial recovery.
+!******************************!
+Haste
+!******************************!
+Run more quickly.
+!******************************!
+High Jump
+!******************************!
+Jump higher.
+!******************************!
+Float
+!******************************!
+Hold <B> in midair to slow your descent.
+!******************************!
+Brick Wall
+!******************************!
+Continue a combo without interruption
+even if you take minor damage.
+!******************************!
+Offensive Block
+!******************************!
+Bounce back incoming attacks with your
+combos.
+!******************************!
+Combo-Jump
+!******************************!
+Jump in the middle of a combo.
+!******************************!
+Combo-Block
+!******************************!
+Block mid-combo by letting go of <+>
+and pressing <Y>.
+(Requires <AMARELO>Block<BRANCO>.)
+!******************************!
+Combo-Air Slide
+!******************************!
+Air slide in the middle of an aerial
+combo by pressing <B>.
+(Requires <AMARELO>Air Slide<BRANCO>.)
+!******************************!
+Risky Play
+!******************************!
+Lose HP when your attacks miss.
+!******************************!
+Magical Strike
+!******************************!
+Gain a slight boost in Strength if your
+Magic is higher.
+!******************************!
+Critical Boost
+!******************************!
+Potentially deal critical hits with any
+kind of attack.
+!******************************!
+Combo Boost
+!******************************!
+Dish out increasingly higher damage as
+your combo continues.
+!******************************!
+Vitality Surge
+!******************************!
+Gain a boost in Strength when your HP
+is full.
+!******************************!
+Vitality Barrier
+!******************************!
+Take 1/3 the usual damage when your
+HP is full.
+!******************************!
+Alive 'n' Kicking
+!******************************!
+Attack enemies when your HP is full
+and they will always stagger.
+!******************************!
+Striker
+!******************************!
+Gain a boost in Strength when your HP
+is low.
+!******************************!
+Defender
+!******************************!
+Gain a boost in Defense when your HP
+is low.
+!******************************!
+Grand Slam
+!******************************!
+Deal critical hits more often when your
+HP is low.
+!******************************!
+Damage Control
+!******************************!
+Take half the usual damage when your
+HP is low.
+!******************************!
+Second Chance
+!******************************!
+Retain 1 HP after being hit with an
+otherwise fatal attack.
+!******************************!
+Auto-Life
+!******************************!
+Recover if all your HP runs out.
+Only works once.
+!******************************!
+Perma-Plight
+!******************************!
+Lose the ability to recover HP once it
+is low, and remain in constant peril.
+!******************************!
+One HP
+!******************************!
+Fight with only 1 HP.
+You cannot recover more than this.
+!******************************!
+Fire Finish
+!******************************!
+<AMARELO>Ignite<BRANCO> enemies sometimes with the
+finishing blow of your combos.
+!******************************!
+Blizzard Finish
+!******************************!
+<AMARELO>Freeze<BRANCO> enemies sometimes with the
+finishing blow of your combos.
+!******************************!
+Thunder Finish
+!******************************!
+<AMARELO>Jolt<BRANCO> enemies sometimes with the
+finishing blow of your combos.
+!******************************!
+Aero Finish
+!******************************!
+<AMARELO>Air-toss<BRANCO> enemies sometimes with the
+finishing blow of your combos.
+!******************************!
+Elemental Curse
+!******************************!
+Randomly incur negative status
+independently of enemy attacks.
+!******************************!
+Magic Finale
+!******************************!
+Increase the power of the last cast
+you have left of any given magic.
+!******************************!
+Magic Bracer
+!******************************!
+Always finish casting magic, even if
+you are hit in the process.
+!******************************!
+Potion Boost
+!******************************!
+Recover more HP than usual from
+items.
+!******************************!
+Ether Boost
+!******************************!
+Recover more magic casts than usual
+from items.
+!******************************!
+Treasure Magnet
+!******************************!
+Scoop up prizes lying around you.
+!******************************!
+Prize Power
+!******************************!
+Recover more HP when you pick up
+HP prizes.
+!******************************!
+Lucky Strike
+!******************************!
+Force enemies to drop items more
+frequently.
+!******************************!
+Chain Time
+!******************************!
+Give yourself a longer time window for
+continuing chains.
+!******************************!
+Chain Power
+!******************************!
+Deal extra damage with attacks once
+you've maxed out a chain.
+!******************************!
+Heart Bonus
+!******************************!
+Fully recover HP every time you
+collect 300 hearts.
+!******************************!
+Limit Boost
+!******************************!
+Use Limit Breaks sooner by increasing
+the upper limit of your yellow gauge.
+!******************************!
+Scan
+!******************************!
+View the HP of targets.
+!******************************!
+Auto-Lock
+!******************************!
+Automatically lock on to available
+targets while attacking.
+!******************************!
+Range Extender
+!******************************!
+Lock on to enemies even if they are
+far away.
+!******************************!
+EXP Boost
+!******************************!
+Receive more EXP than usual.
+!******************************!
+Hi-EXP Boost
+!******************************!
+Receive lots more EXP than usual.
+!******************************!
+Final Limit
+!******************************!
+Use your Final Limit, a more powerful
+version of the Limit Break.
+!******************************!
+Ultima Weapon
+!******************************!
+Make any weapon stronger.
+!******************************!
+Backpack
+!******************************!
+Collect more items while in the field.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Potion
+!******************************!
+Restores 30% of your HP.
+!******************************!
+Hi-Potion
+!******************************!
+Restores 50% of your HP.
+!******************************!
+Mega-Potion
+!******************************!
+Restores 40% HP to all comrades on
+the same map.
+!******************************!
+Ether
+!******************************!
+Restores one cast of each of your
+magic.
+!******************************!
+Hi-Ether
+!******************************!
+Restores two casts of each of your
+magic.
+!******************************!
+Mega-Ether
+!******************************!
+Restores one cast of each magic to all
+comrades on the same map.
+!******************************!
+Elixir
+!******************************!
+Fully restores your HP and magic.
+!******************************!
+Megalixir
+!******************************!
+Fully restores HP and magic to all
+comrades on the same map.
+!******************************!
+Panacea
+!******************************!
+Cures you of all negative status
+effects.
+!******************************!
+Limit Recharge
+!******************************!
+Bumps the threshold at which you can
+use a Limit Break back up one notch.
+!******************************!

@@ -1,0 +1,275 @@
+Kingdom Key
+!******************************!
+The most basic of Keyblades.
+Install a weapon panel to transform it.
+!******************************!
+Missing Ache
+!******************************!
+A weapon that lets you string together
+faster, longer ground combos.
+!******************************!
+Missing Ache+
+!******************************!
+An upgraded Missing Ache.
+Lets you string together faster,
+longer ground combos.
+!******************************!
+Pain of Solitude
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+Pain of Solitude+
+!******************************!
+An upgraded Pain of Solitude.
+Boosts your Magic to give it more
+power.
+!******************************!
+Midnight Roar
+!******************************!
+A weapon that possesses high
+Strength. Useful against tough
+enemies.
+!******************************!
+Midnight Roar+
+!******************************!
+An upgraded Midnight Roar.
+Possesses high Strength.
+Useful against tough enemies.
+!******************************!
+Umbrella
+!******************************!
+This looks awfully familiar...
+!******************************!
+Ominous Blight
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Ominous Blight+
+!******************************!
+An upgraded Ominous Blight.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+Sign of Innocence
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+Sign of Innocence+
+!******************************!
+An upgraded Sign of Innocence.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Glimpse of Darkness
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Glimpse of Darkness+
+!******************************!
+An upgraded Glimpse of Darkness.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Abyssal Tide
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Abyssal Tide+
+!******************************!
+An upgraded Abyssal Tide.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+True Light's Flight
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+True Light's Flight+
+!******************************!
+An upgraded True Light's Flight.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+Aubade
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Abaddon Plasma+
+!******************************!
+An upgraded Abaddon Plasma.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Abaddon Plasma
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Crown of Guilt
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Crown of Guilt+
+!******************************!
+An upgraded Crown of Guilt.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Total Eclipse+
+!******************************!
+An upgraded Total Eclipse.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Total Eclipse
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Leviathan+
+!******************************!
+An upgraded Leviathan.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Leviathan
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Rejection of Fate+
+!******************************!
+An upgraded Rejection of Fate.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Rejection of Fate
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Abaddon Plasma++
+!******************************!
+The ultimate Abaddon Plasma.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Crown of Guilt++
+!******************************!
+The ultimate Crown of Guilt.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Darker Than Dark
+!******************************!
+A weapon that offers high Magic and
+combo reach.
+!******************************!
+Darker Than Dark+
+!******************************!
+An upgraded Darker Than Dark.
+<000d>Offers high Magic and combo reach.
+!******************************!
+Silent Dirge
+!******************************!
+A weapon that provides versatility by
+boosting both Strength and Magic.
+!******************************!
+Silent Dirge+
+!******************************!
+An upgraded Silent Dirge.
+Provides versatility by boosting both
+Strength and Magic.
+!******************************!
+Maverick Flare
+!******************************!
+A weapon that offers high Strength
+and ground combo speed.
+!******************************!
+Maverick Flare+
+!******************************!
+An upgraded Maverick Flare.
+Offers high Strength and ground
+combo speed.
+!******************************!
+Astral Blast+
+!******************************!
+An upgraded Astral Blast.
+Lets you string together longer
+ground and aerial combos.
+!******************************!
+Astral Blast
+!******************************!
+A weapon that lets you string together
+longer ground and aerial combos.
+!******************************!
+Kingdom Key+
+!******************************!
+An upgraded Kingdom Key.
+!******************************!
+Omega Weapon+
+!******************************!
+An upgraded Omega Weapon.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Omega Weapon
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Lunar Eclipse+
+!******************************!
+An upgraded Lunar Eclipse.
+Provides versatility by greatly
+boosting both Strength and Magic.
+!******************************!
+Lunar Eclipse
+!******************************!
+A weapon that provides versatility by
+greatly boosting both Strength and
+Magic.
+!******************************!
+Twilight Blaze+
+!******************************!
+An upgraded Twilight Blaze.
+Boasts superior Strength and ground
+combo speed.
+!******************************!
+Twilight Blaze
+!******************************!
+A weapon that boasts superior
+Strength and ground combo speed.
+!******************************!
+DUMMY_TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+Oathkeeper
+!******************************!
+A weapon transformation brought
+about by installing an Ability Unit in a
+Kingdom Key+.
+!******************************!
+Two Become One
+!******************************!
+A weapon transformation brought
+about by installing another Ability Unit
+in an Oathkeeper.
+!******************************!
+Kingdom Key+
+!******************************!
+An upgraded Kingdom Key.
+!******************************!

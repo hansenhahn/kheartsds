@@ -1,0 +1,271 @@
+Basic Model
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+Tune-Up
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+Tune-Up+
+!******************************!
+An upgraded Tune-Up.
+Boosts your Magic to give it more
+power.
+!******************************!
+Overture
+!******************************!
+A weapon that lets you string together
+faster, longer ground combos.
+!******************************!
+Overture+
+!******************************!
+An upgraded Overture.
+Lets you string together faster,
+longer ground combos.
+!******************************!
+Songbird
+!******************************!
+A weapon that performs well in midair.
+Great for taking on fliers.
+!******************************!
+Songbird+
+!******************************!
+An upgraded Songbird.
+Performs well in midair.
+Great for taking on fliers.
+!******************************!
+Prince of Awesome
+!******************************!
+This looks awfully familiar...
+!******************************!
+Quartet
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+Quartet+
+!******************************!
+An upgraded Quartet.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Old Hand
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Old Hand+
+!******************************!
+An upgraded Old Hand.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+Rise to Fame
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Rise to Fame+
+!******************************!
+An upgraded Rise to Fame.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+Power Chord
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Power Chord+
+!******************************!
+An upgraded Power Chord.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Interlude
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+Interlude+
+!******************************!
+An upgraded Interlude.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+After School
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Quintet+
+!******************************!
+An upgraded Quintet.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Quintet
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Da Capo
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Da Capo+
+!******************************!
+An upgraded Da Capo.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Rock Star+
+!******************************!
+An upgraded Rock Star.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Rock Star
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Fermata+
+!******************************!
+An upgraded Fermata.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Fermata
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Serenade+
+!******************************!
+An upgraded Serenade.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Serenade
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Quintet++
+!******************************!
+The ultimate Quintet.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Da Capo++
+!******************************!
+The ultimate Da Capo.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Harmonics
+!******************************!
+A weapon that offers high Magic and
+combo reach.
+!******************************!
+Harmonics+
+!******************************!
+An upgraded Harmonics.
+<000d>Offers high Magic and combo reach.
+!******************************!
+Eight-Finger
+!******************************!
+A weapon that offers high Magic and
+ground combo speed.
+!******************************!
+Eight-Finger+
+!******************************!
+An upgraded Eight-Finger.
+Offers high Magic and ground combo
+speed.
+!******************************!
+Fortissimo
+!******************************!
+A weapon that lets you string together
+longer ground combos with wider reach.
+!******************************!
+Fortissimo+
+!******************************!
+An upgraded Fortissimo.
+Lets you string together longer
+ground combos with wider reach.
+!******************************!
+Million Bucks+
+!******************************!
+An upgraded Million Bucks.
+Lets you string together longer
+ground and aerial combos.
+!******************************!
+Million Bucks
+!******************************!
+A weapon that lets you string together
+longer ground and aerial combos.
+!******************************!
+Arpeggio
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+Sanctuary+
+!******************************!
+An upgraded Sanctuary.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Sanctuary
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Concerto+
+!******************************!
+An upgraded Concerto.
+Boasts superior Magic and ground
+combo speed.
+!******************************!
+Concerto
+!******************************!
+A weapon that boasts superior Magic
+and ground combo speed.
+!******************************!
+Up to Eleven+
+!******************************!
+An upgraded Up to Eleven.
+Lets you string together much longer
+ground combos with wider reach.
+!******************************!
+Up to Eleven
+!******************************!
+A weapon that lets you string together
+much longer ground combos with wider
+reach.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!

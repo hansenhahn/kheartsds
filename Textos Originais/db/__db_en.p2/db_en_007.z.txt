@@ -1,0 +1,271 @@
+Fickle Erica
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+Jilted Anemone
+!******************************!
+A weapon that boosts your Magic to
+give it more power.
+!******************************!
+Jilted Anemone+
+!******************************!
+An upgraded Jilted Anemone.
+Boosts your Magic to give it more
+power.
+!******************************!
+Poor Melissa
+!******************************!
+A weapon that lets you string together
+faster, longer ground combos.
+!******************************!
+Poor Melissa+
+!******************************!
+An upgraded Poor Melissa.
+Lets you string together faster,
+longer ground combos.
+!******************************!
+Quiet Belladonna
+!******************************!
+A weapon that enables your attacks to
+reach a wide area.
+!******************************!
+Quiet Belladonna+
+!******************************!
+An upgraded Quiet Belladonna.
+Enables your attacks to reach a wide
+area.
+!******************************!
+Stirring Ladle
+!******************************!
+This looks awfully familiar...
+!******************************!
+Proud Amaryllis
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+Proud Amaryllis+
+!******************************!
+An upgraded Proud Amaryllis.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Tragic Allium
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Tragic Allium+
+!******************************!
+An upgraded Tragic Allium.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+Parting Ipheion
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+Parting Ipheion+
+!******************************!
+An upgraded Parting Ipheion.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+Pseudo Silene
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Pseudo Silene+
+!******************************!
+An upgraded Pseudo Silene.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Grim Muscari
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Grim Muscari+
+!******************************!
+An upgraded Grim Muscari.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+Dainty Bellflowers
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Mad Safflower+
+!******************************!
+An upgraded Mad Safflower.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Mad Safflower
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Mournful Cineraria
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Mournful Cineraria+
+!******************************!
+An upgraded Mournful Cineraria.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Lofty Gerbera+
+!******************************!
+An upgraded Lofty Gerbera.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Lofty Gerbera
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Faithless Digitalis+
+!******************************!
+An upgraded Faithless Digitalis.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Faithless Digitalis
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Docile Vallota+
+!******************************!
+An upgraded Docile Vallota.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Docile Vallota
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Mad Safflower++
+!******************************!
+The ultimate Mad Safflower.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Mournful Cineraria++
+!******************************!
+The ultimate Mournful Cineraria.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Fearsome Anise
+!******************************!
+A weapon that offers high Strength
+and combo reach.
+!******************************!
+Fearsome Anise+
+!******************************!
+An upgraded Fearsome Anise.
+<000d>Offers high Strength and combo reach.
+!******************************!
+Gallant Achillea
+!******************************!
+A weapon that offers high Magic and
+ground combo speed.
+!******************************!
+Gallant Achillea+
+!******************************!
+An upgraded Gallant Achillea.
+Offers high Magic and ground combo
+speed.
+!******************************!
+Fair Helianthus
+!******************************!
+A weapon that lets you string together
+longer ground combos with wider reach.
+!******************************!
+Fair Helianthus+
+!******************************!
+An upgraded Fair Helianthus.
+Lets you string together longer
+ground combos with wider reach.
+!******************************!
+Vindictive Thistle+
+!******************************!
+An upgraded Vindictive Thistle.
+Lets you string together longer
+ground and aerial combos.
+!******************************!
+Vindictive Thistle
+!******************************!
+A weapon that lets you string together
+longer ground and aerial combos.
+!******************************!
+Graceful Dahlia
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+Hallowed Lotus+
+!******************************!
+An upgraded Hallowed Lotus.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Hallowed Lotus
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Noble Peony+
+!******************************!
+An upgraded Noble Peony.
+Boasts superior Magic and ground
+combo speed.
+!******************************!
+Noble Peony
+!******************************!
+A weapon that boasts superior Magic
+and ground combo speed.
+!******************************!
+Solemn Magnolia+
+!******************************!
+An upgraded Solemn Magnolia.
+Lets you string together much longer
+ground combos with wider reach.
+!******************************!
+Solemn Magnolia
+!******************************!
+A weapon that lets you string together
+much longer ground combos with wider
+reach.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!

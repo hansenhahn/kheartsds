@@ -1,0 +1,272 @@
+New Moon
+!******************************!
+Your most basic weapon.
+Nothing really sets it apart.
+!******************************!
+Werewolf
+!******************************!
+A weapon that possesses high
+Strength. Useful against tough
+enemies.
+!******************************!
+Werewolf+
+!******************************!
+An upgraded Werewolf.
+Possesses high Strength.
+Useful against tough enemies.
+!******************************!
+Selene
+!******************************!
+A weapon that lets you string together
+faster, longer ground combos.
+!******************************!
+Selene+
+!******************************!
+An upgraded Selene.
+Lets you string together faster,
+longer ground combos.
+!******************************!
+Berserker
+!******************************!
+A weapon that enables your attacks to
+reach a wide area.
+!******************************!
+Berserker+
+!******************************!
+An upgraded Berserker.
+Enables your attacks to reach a wide
+area.
+!******************************!
+Just Desserts
+!******************************!
+This looks awfully familiar...
+!******************************!
+Artemis
+!******************************!
+A weapon that possesses very high
+Strength. Effective against tough
+enemies.
+!******************************!
+Artemis+
+!******************************!
+An upgraded Artemis.
+Possesses very high Strength.
+Effective against tough enemies.
+!******************************!
+Moonrise
+!******************************!
+A weapon that lets you string together
+faster, much longer ground combos.
+!******************************!
+Moonrise+
+!******************************!
+An upgraded Moonrise.
+Lets you string together faster, much
+longer ground combos.
+!******************************!
+Twilight
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal heavy
+damage.
+!******************************!
+Twilight+
+!******************************!
+An upgraded Twilight.
+Enables your attacks to reach a wide
+area and deal heavy damage.
+!******************************!
+Crater
+!******************************!
+A weapon that boosts your Magic to
+give it a lot more power.
+!******************************!
+Crater+
+!******************************!
+An upgraded Crater.
+Boosts your Magic to give it a lot more
+power.
+!******************************!
+Crescent
+!******************************!
+A weapon that performs very well in
+midair. Excellent for taking on fliers.
+!******************************!
+Crescent+
+!******************************!
+An upgraded Crescent.
+Performs very well in midair.
+Excellent for taking on fliers.
+!******************************!
+Bunnymoon
+!******************************!
+A weapon that draws forth its
+wielder's personality.
+!******************************!
+Luminary+
+!******************************!
+An upgraded Luminary.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Luminary
+!******************************!
+A weapon that possesses extreme
+Strength. Devastates tough enemies.
+!******************************!
+Astrologia
+!******************************!
+A weapon that lets you string together
+faster, incredibly long ground combos.
+!******************************!
+Astrologia+
+!******************************!
+An upgraded Astrologia.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Queen of the Night+
+!******************************!
+An upgraded Queen of the Night.
+Enables your attacks to reach a wide
+area and deal immense damage.
+!******************************!
+Queen of the Night
+!******************************!
+A weapon that enables your attacks to
+reach a wide area and deal immense
+damage.
+!******************************!
+Lunar Phase+
+!******************************!
+An upgraded Lunar Phase.
+Boosts your Magic to give it incredible
+power.
+!******************************!
+Lunar Phase
+!******************************!
+A weapon that boosts your Magic to
+give it incredible power.
+!******************************!
+Gibbous+
+!******************************!
+An upgraded Gibbous.
+Performs extremely well in midair.
+Outstanding for taking on fliers.
+!******************************!
+Gibbous
+!******************************!
+A weapon that performs extremely
+well in midair. Outstanding for taking
+on fliers.
+!******************************!
+Luminary++
+!******************************!
+The ultimate Luminary.
+Possesses extreme Strength.
+Devastates tough enemies.
+!******************************!
+Astrologia++
+!******************************!
+The ultimate Astrologia.
+Lets you string together faster,
+incredibly long ground combos.
+!******************************!
+Light Year
+!******************************!
+A weapon that offers high Strength
+and combo reach.
+!******************************!
+Light Year+
+!******************************!
+An upgraded Light Year.
+<000d>Offers high Strength and combo reach.
+!******************************!
+Balsamic Moon
+!******************************!
+A weapon that provides versatility by
+boosting both Strength and Magic.
+!******************************!
+Balsamic Moon+
+!******************************!
+An upgraded Balsamic Moon.
+Provides versatility by boosting both
+Strength and Magic.
+!******************************!
+Moonset
+!******************************!
+A weapon that offers high Strength
+and ground combo speed.
+!******************************!
+Moonset+
+!******************************!
+An upgraded Moonset.
+Offers high Strength and ground
+combo speed.
+!******************************!
+King of the Night+
+!******************************!
+An upgraded King of the Night.
+Lets you string together longer aerial
+combos with wider reach.
+!******************************!
+King of the Night
+!******************************!
+A weapon that lets you string together
+longer aerial combos with wider reach.
+!******************************!
+Lunatic
+!******************************!
+A powerful weapon that draws forth
+its wielder's true worth.
+!******************************!
+Dichotomy+
+!******************************!
+An upgraded Dichotomy.
+Possesses formidable power and
+exceptional capabilities.
+!******************************!
+Dichotomy
+!******************************!
+A formidable weapon with exceptional
+capabilities.
+!******************************!
+Orbit+
+!******************************!
+An upgraded Orbit.
+Provides versatility by greatly
+boosting both Strength and Magic.
+!******************************!
+Orbit
+!******************************!
+A weapon that provides versatility by
+greatly boosting both Strength and
+Magic.
+!******************************!
+Horoscope+
+!******************************!
+An upgraded Horoscope.
+Boasts superior Strength and ground
+combo speed.
+!******************************!
+Horoscope
+!******************************!
+A weapon that boasts superior
+Strength and ground combo speed.
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
+DUMMY TEXT
+!******************************!
