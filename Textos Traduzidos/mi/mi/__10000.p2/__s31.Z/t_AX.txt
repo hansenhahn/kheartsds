@@ -1,0 +1,201 @@
+&.[HDR].&
+*.000004000000461802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><81><95><E3><81><A3><E3><81><8D><E3><82><B7><E3><82><AA><E3><83><B3><E8><A6><8B><E3><81><8B><E3><81><91><E3><81><9F><E3><81><9C>
+<E3><82><82><E3><81><86><E8><A1><8C><E3><81><A3><E3><81><A1><E3><81><BE><E3><81><A3><E3><81><9F><E3><81><91><E3><81><A9>
+!------------------------------!
+AXEL
+Vi a Xion faz pouco tempo.
+Mas ela tava saindo.
+!------------------------------!
+AXEL
+J'ai vu Xion il n'y a pas si longtemps, mais elle devait
+partir.
+!------------------------------!
+AXEL
+Ich habe Xion vor Kurzem
+gesehen. Aber sie ging raus.
+!------------------------------!
+AXEL
+Ho visto Xion poco fa,
+però stava partendo.
+!------------------------------!
+AXEL
+He visto a Xion hace un rato.
+Se estaba marchando.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000461802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><80><81><E5><AE><9D><E7><AE><B1><E8><AA><BF><E6><9F><BB><E6><95><B0><E3><81><AE><E6><8A><9C><E3><81><8D><E6><89><93><E3><81><A1><E3><83><81><E3><82><A7><E3><83><83><E3><82><AF><E3><81><A0>
+!------------------------------!
+AXEL
+Tá, teste surpresa, Sr. Caçador de Tesouros.
+Onde cê tá agora?
+!------------------------------!
+AXEL
+Alors, M. le chasseur de trésors ? Ça en est où ?
+!------------------------------!
+AXEL
+Okay, Zwischenfrage, Herr
+Schatzjäger: Wo bist du jetzt?
+!------------------------------!
+AXEL
+OK, domandina per te, cacciatore
+di forzieri. Dove sei finito?
+!------------------------------!
+AXEL
+Pregunta sorpresa, buscador
+de tesoros. ¿Cómo lo llevas?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><AE><E9><81><82><E8><A1><8C><E4><BB><BB><E5><8B><99><E6><95><B0><E3><82><92><E8><80><83><E3><81><88><E3><82><8B><E3><81><A8>
+<E7><8F><BE><E6><99><82><E7><82><B9><E3><81><A7>130<E5><80><8B><E3><81><AF><E9><96><8B><E3><81><91><E3><81><A6><E3><82><8B><E3><81><A0><E3><82><8D><E3><81><86><E3><81><8C><E2><80><A6>
+<E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F>
+!------------------------------!
+Se ir no mesmo ritmo que o meu, você teria uns...
+130 abertos com todas missões que fez.
+!------------------------------!
+Pour être à ma hauteur, tu devrais déjà avoir ouvert
+euh... 130 coffres depuis ta première mission.
+!------------------------------!
+Wenn du mit mir Schritt hältst,
+hast du noch ... bei deinen
+Missionen noch 130 offen.
+!------------------------------!
+Per stare al mio passo... dovresti
+aver aperto circa 130 forzieri, con
+tutte le missioni che hai affrontato.
+!------------------------------!
+Si mantienes mi ritmo, habrás
+abierto unos 130 en las misiones
+que hayas completado.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+130<E5><80><8B><E4><BB><A5><E4><B8><8A><E3><81><AE><E5><AE><9D><E7><AE><B1><E3><82><92><E9><96><8B><E3><81><91><E3><81><A6><E3><82><8B><E3><81><AA><E3><82><89>
+<E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><81><A6><E3><81><8F><E3><82><8C><E3><82><88><E3><81><AA>
+!------------------------------!
+Dá um toque quando chegar nessa marca.
+!------------------------------!
+Préviens-moi quand tu auras atteint ce nombre.
+!------------------------------!
+Sag Bescheid, wenn du diese
+Marke erreichst. 
+!------------------------------!
+Fammi sapere quando hai
+raggiunto questa quota.
+!------------------------------!
+Avísame cuando lo consigas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000451801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E9><A0><86><E8><AA><BF><E3><81><AB><E5><AE><9D><E7><AE><B1><E3><82><92><E8><AA><BF><E6><9F><BB><E3><81><97><E3><81><A6><E3><82><8B><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><82><84><E3><82><8B><E3><82><84><E3><82><8B><E3><82><84><E3><82><8B><EF><BD><9E>
+!------------------------------!
+AXEL
+Parece que está indo num ótimo ritmo.
+Muito bom, cara.
+!------------------------------!
+AXEL
+On dirait que tu t'en sors plutôt pas mal.
+Bien joué, mon pote.
+!------------------------------!
+AXEL
+Du machst dich scheinbar
+ganz gut. Sehr gut, Mann.
+!------------------------------!
+AXEL
+Sembra tu stia tenendo il passo.
+Molto bene, amico.
+!------------------------------!
+AXEL
+Parece que llevas buen ritmo.
+¡Bien hecho, colega!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><82><93><E3><81><AA><E3><81><8A><E3><81><BE><E3><81><88><E3><81><AB><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><81><A0>
+!------------------------------!
+Acho que alguém merece um prêmio!
+!------------------------------!
+T'as bien mérité une récompense !
+!------------------------------!
+Jemand verdient einen Preis!
+!------------------------------!
+Qui c'è qualcuno che
+merita un premio!
+!------------------------------!
+¡Alguien se merece un premio!
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><AC><E3><83><BC><E3><83><89><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtido: Técnica de Escudo
+!------------------------------!
+Tech. bouclier obtenue !
+!------------------------------!
+Erhalten: Schild-Tech
+!------------------------------!
+Ottieni: Tecnica scudo
+!------------------------------!
+Obtenida: tecnología de barrera.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E5><AE><9D><E7><AE><B1><E3><81><AE><E5><9B><9E><E5><8F><8E><E3><81><AF><E9><80><B2><E3><82><93><E3><81><A7><E3><82><8B><E3><81><8B><EF><BC><9F>
+!------------------------------!
+AXEL
+Ainda procurando pelos baús do tesouro?
+!------------------------------!
+AXEL
+Dis, tu continues à essayer d'ouvrir des coffres ?
+!------------------------------!
+AXEL
+Immer noch auf der Suche nach
+diesen Truhen?
+!------------------------------!
+AXEL
+Stai  ancora cercando quei forzieri?
+!------------------------------!
+AXEL
+¿Todavía buscas esos cofres?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><BE><E3><81><A0>%d<E5><80><8B><E3><81><8B><E2><80><A6>
+<E3><81><A8><E3><82><8A><E3><81><82><E3><81><88><E3><81><9A>130<E5><80><8B><E4><BB><A5><E4><B8><8A><E3><81><AE><E5><AE><9D><E7><AE><B1><E3><82><92><E9><96><8B><E3><81><91><E3><82><89><E3><82><8C><E3><81><9F><E3><82><89>
+<E3><82><82><E3><81><86><E4><B8><80><E5><BA><A6><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><81><A6><E3><81><8F><E3><82><8C>
+!------------------------------!
+Parece que só achou %d.
+Volta quando tiver uns 130, cara.
+Vou tar esperando.
+!------------------------------!
+T'en es à %d. Reviens me voir quand t'en auras
+ouvert 130. Je t'attendrai.
+!------------------------------!
+Sieht aus, als hättest du %d.
+Komm wieder, wenn du genau
+130 hast. Ich warte so lange.
+!------------------------------!
+Ne hai trovati %d.
+Torna quando ne avrai
+aperti 130, amico. Ti aspetto.
+!------------------------------!
+Veo que has encontrado %d.
+Vuelve cuando sean 130, tío.
+Te estaré esperando.
+!------------------------------!
+!******************************!

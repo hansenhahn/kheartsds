@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E3><81><8A><E3><81><BE><E3><81><88><E3><81><A8><E4><BB><BB><E5><8B><99><E3><81><A0>
+<E6><BA><96><E5><82><99><E3><81><8C><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E5><87><BA><E7><99><BA><E3><81><99><E3><82><8B><E3><81><9E>
+!------------------------------!
+XALDIN
+Você está sob meus cuidados hoje.
+Iremos partir assim que estiver pronto.
+!------------------------------!
+XALDIN
+Tu viens avec moi aujourd'hui.
+On part dès que t'es prêt.
+!------------------------------!
+XALDIN
+Du kommst heute mit mir mit.
+Wir gehen, sobald du bereit bist.
+!------------------------------!
+XALDIN
+Oggi verrai con me.
+Partiremo non appena sarai pronto.
+!------------------------------!
+XALDIN
+Hoy vienes conmigo. Nos
+iremos cuando quieras.
+!------------------------------!
+!******************************!

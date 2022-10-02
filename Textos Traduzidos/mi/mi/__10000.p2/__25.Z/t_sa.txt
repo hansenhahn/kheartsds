@@ -1,0 +1,73 @@
+&.[HDR].&
+*.000004000000C71801000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E3><82><B7><E3><82><AA><E3><83><B3><E3><81><A8><E9><87><8D><E8><A6><81><E3><81><AA><E4><BB><BB><E5><8B><99><E3><81><AB>
+<E8><A1><8C><E3><81><A3><E3><81><A6><E3><82><82><E3><82><89><E3><81><86>
+!------------------------------!
+SAÏX
+Sua missão de hoje com a Xion
+é de extrema importância.
+!------------------------------!
+SAÏX
+Ta mission d'aujourd'hui avec Xion est d'une
+extrême importance.
+!------------------------------!
+SAÏX
+Deine heutige Mission mit Xion
+ist besonders wichtig.
+!------------------------------!
+SAÏX
+La missione di oggi in coppia con
+Xion è di importanza vitale.
+!------------------------------!
+SAÏX
+La misión de hoy, con
+Xion, es muy importante.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><82><8C><E3><81><A8><E3><80><81><E4><BB><8A><E5><BE><8C><E3><81><AE><E4><BB><BB><E5><8B><99><E3><82><92><E9><81><82><E8><A1><8C><E3><81><99><E3><82><8C><E3><81><B0>
+<E3><81><9D><E3><82><8C><E3><81><AB><E5><BF><9C><E3><81><98><E3><81><A6><E3><82><B9><E3><83><AD><E3><83><83><E3><83><88><E3><81><8C><E9><96><8B><E6><94><BE><E3><81><95><E3><82><8C><E3><82><8B><E3><82><88><E3><81><86><E3><81><AB><E3><81><97><E3><81><9F>
+!------------------------------!
+Arranjei para que seja lhe atribuído espaços
+adicionais conforme for completando as missões.
+!------------------------------!
+Je me suis arrangé pour que tu aies droit à plus de
+cases grâce aux missions accomplies.
+!------------------------------!
+Du wirst zusätzliche Felder bekommen,
+wenn du Missionen für uns erledigst.
+!------------------------------!
+Ti verranno assegnati degli
+slot aggiuntivi man mano che
+completerai le missioni.
+!------------------------------!
+Se te asignarán nuevas
+casillas al realizar misiones.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E5><A4><9A><E3><81><8F><E3><81><AE><E3><83><91><E3><83><8D><E3><83><AB><E3><82><92><E8><A3><85><E5><82><99><E3><81><97><E3><81><9F><E3><81><8B><E3><81><A3><E3><81><9F><E3><82><89>
+<E3><82><88><E3><82><8A><E5><A4><9A><E3><81><8F><E4><BB><BB><E5><8B><99><E3><82><92><E9><81><82><E8><A1><8C><E3><81><97><E3><82><8D>
+!------------------------------!
+Quanto mais trabalhar, mais
+painéis você poderá instalar.
+!------------------------------!
+Plus tu travailleras dur, plus tu pourras placer de
+panneaux.
+!------------------------------!
+Je mehr du arbeitest, desto mehr Tafeln
+darfst du installieren.
+!------------------------------!
+Più lavori, più pannelli
+potrai installare.
+!------------------------------!
+Cuanto más trabajes
+más paneles tendrás.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000005B3C01000000010000000000000007000F00.*
+!******************************!

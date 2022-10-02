@@ -1,0 +1,230 @@
+&.[HDR].&
+*.000004000000791802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><B7><E3><83><BC><E3><81><A1><E3><82><83><E3><82><93><E3><81><8C><E5><B8><B0><E3><81><A3><E3><81><A6><E3><81><8D><E3><81><A6>
+<E4><B8><80><E5><AE><89><E5><BF><83><E3><81><A0><E3><82><8D><E3><81><86><EF><BC><9F>
+!------------------------------!
+XIGBAR
+Aposto que tá aliviado por
+ter a Boneca em casa, hein?
+!------------------------------!
+XIGBAR
+Je parie que t'es soulagé que la poulette soit
+rentrée, hein ?
+!------------------------------!
+XIGBAR
+Dir geht's bestimmt besser, seit
+Schätzchen wieder zu Hause ist, hm?
+!------------------------------!
+XIGBAR
+Scommetto che sei sollevato, ora che il
+tuo tesoruccio è tornato, eh?
+!------------------------------!
+XIGBAR
+Seguro que estás aliviado ahora
+que Encanto ha vuelto, ¿eh?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000791802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E6><AD><A6><E5><99><A8><E3><81><AF><E3><81><A1><E3><82><83><E3><82><93><E3><81><A8><E6><89><8B><E5><85><A5><E3><82><8C><E3><81><97><E3><81><A6><E3><81><84><E3><82><8B><E3><81><8B><EF><BC><9F><E3><80><80><E5><9D><8A><E3><82><84>
+!------------------------------!
+XIGBAR
+Tá tomando conta do seu equipamento direito, guri?
+!------------------------------!
+XIGBAR
+Dis, tu t'occupes de ton équipement, l'asticot ?
+!------------------------------!
+XIGBAR
+Behandelst du deine Ausrüstung
+auch anständig, Kleiner?
+!------------------------------!
+XIGBAR
+Ti prendi cura del tuo
+equipaggiamento, ragazzo?
+!------------------------------!
+XIGBAR
+Estarás cuidando bien
+de tu equipo, ¿no?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><82><8D><E3><81><9D><E3><82><8D><E3><81><9D><E3><82><8C><E3><81><AA><E3><82><8A><E3><81><AE><E6><AD><A6><E5><99><A8><E3><81><AB><E9><8D><9B><E3><81><88><E3><81><A6><E3><81><84><E3><81><A6><E3><82><82>
+<E3><81><8A><E3><81><8B><E3><81><97><E3><81><8F><E3><81><AA><E3><81><84><E3><81><8C><E3><81><AA>
+!------------------------------!
+Já é hora de você ter uma arma decente.
+!------------------------------!
+Il serait peut-être temps que tu aies une arme
+digne de ce nom.
+!------------------------------!
+Es wird allmählich Zeit,
+dass du eine richtige Waffe
+führst.
+!------------------------------!
+Forse è il momento
+che tu abbia un'arma
+all'altezza della situazione.
+!------------------------------!
+Ya va siendo hora de que
+te hagas con una buena arma.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><A8><E3><82><8A><E3><81><82><E3><81><88><E3><81><9A>
+<E3><83><A6><E3><83><8B><E3><83><83><E3><83><88><E3><82><92><EF><BC><94><E3><81><A4><E4><BB><A5><E4><B8><8A><E3><81><AF><E3><82><81><E3><81><9F><E6><AD><A6><E5><99><A8><E3><81><8C><E8><A3><85><E5><82><99><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89>
+<E4><BF><BA><E3><81><AB><E8><A6><8B><E3><81><9B><E3><81><AB><E3><81><93><E3><81><84>
+!------------------------------!
+Passa aqui quando tiver uma com
+quatro ou mais unidades instaladas.
+!------------------------------!
+Viens me voir quand tu auras placé quatre
+modules ou plus.
+!------------------------------!
+Komm zu mir, sobald du eine
+Waffe mit vier oder mehr
+installierten Einheiten hast.
+!------------------------------!
+Torna da me dopo aver
+equipaggiato un'arma con
+almeno quattro UNITÀ.
+!------------------------------!
+Ven a verme cuando tengas
+una con cuatro unidades
+o más instaladas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000781801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E8><A3><85><E5><82><99><E3><81><AE><E5><BC><B7><E5><8C><96><E3><81><AF><E3><81><BE><E3><82><81><E3><81><AB><E3><81><97><E3><81><A6><E3><81><84><E3><82><8B><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E3><81><84><E3><81><84><E3><81><A0><E3><82><8D><E3><81><86><E2><80><A6><E3><81><93><E3><81><84><E3><81><A4><E3><81><AF><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><81><A0><E3><80><81><E5><9D><8A><E3><82><84>
+!------------------------------!
+XIGBAR
+Isso sim que é uma arma.
+Parece que cê tá chegando no topo. Aqui.
+!------------------------------!
+XIGBAR
+Ton arme est parfaite ! On dirait que tu n'oublies pas
+ton devoir, hein ?
+!------------------------------!
+XIGBAR
+Das ist mal eine Waffe. Ich schätze, du kriegst
+allmählich die Kurve. Hier.
+!------------------------------!
+XIGBAR
+Bene, ottima arma. Sembra tu ti stia
+dando da fare. Prendi.
+!------------------------------!
+XIGBAR
+Parece que sigues en la
+cresta de la ola. Toma esto.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E8><AA><B0><E3><81><8B><E3><81><95><E3><82><93><E3><81><8C><E6><88><BB><E3><81><A3><E3><81><A6><E3><81><8D><E3><81><9F><E3><81><93><E3><81><A8><E3><81><A7>
+<E6><B0><97><E3><81><8C><E7><B7><A9><E3><82><93><E3><81><A7><E3><81><AA><E3><81><84><E3><81><8B><E3><81><A8><E6><80><9D><E3><81><A3><E3><81><A6><E3><81><AA>
+<E6><AD><A6><E5><99><A8><E3><81><8C><E6><89><8B><E5><85><A5><E3><82><8C><E3><81><A7><E3><81><8D><E3><81><A6><E3><81><84><E3><82><8B><E3><81><AA><E3><82><89><E3><80><81><E3><81><BE><E3><81><81><E3><81><84><E3><81><84><E3><81><A0><E3><82><8D><E3><81><86>
+!------------------------------!
+Tava preocupado que cê tivesse ficado
+molenga agora que uma certa pessoa
+tá de volta, mas cê tá indo bem.
+!------------------------------!
+J'avais peur que tu te ramollisses maintenant qu'elle
+est revenue, mais en fait ça va.
+!------------------------------!
+Ich hab schon befürchtet, du
+würdest weich, weil ein gewisser
+Jemand zurück ist, aber es geht.
+!------------------------------!
+Temevo che ti saresti
+rammollito, ora che lei è
+tornata, ma mi sbagliavo.
+!------------------------------!
+Temía que te hubieras ablandado 
+ahora que cierta persona ha
+vuelto, pero veo que te va bien.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><B4><E3><83><BC><E3><83><AB><E3><83><89><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtido: Ouro
+!------------------------------!
+Or obtenu !
+!------------------------------!
+Erhalten: Gold
+!------------------------------!
+Ottieni: Oro
+!------------------------------!
+Obtenido: oro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><95><E3><81><A3><E3><81><9D><E3><81><8F><E3><83><A6><E3><83><8B><E3><83><83><E3><83><88><E3><82><92><EF><BC><94><E3><81><A4><E4><BB><A5><E4><B8><8A><E3><81><AF><E3><82><81><E3><81><9F><E6><AD><A6><E5><99><A8><E3><82><92>
+<E8><A6><8B><E3><81><9B><E3><81><A6><E3><82><82><E3><82><89><E3><81><8A><E3><81><86><E3><81><8B>
+!------------------------------!
+XIGBAR
+Então, vamos ver, fera.
+Faça uma arma com quatro unidades instaladas.
+!------------------------------!
+XIGBAR
+Voyons voir, champion. As-tu une arme avec
+quatre modules ?
+!------------------------------!
+XIGBAR
+So, lass sehen, Tiger. Zeig mir
+eine Waffe mit vier Einheiten.
+!------------------------------!
+XIGBAR
+Dunque, vediamo, pivello. Ce l'hai un'arma con
+quattro UNITÀ?
+!------------------------------!
+XIGBAR
+Demuéstramelo, tigre. Haz
+un arma con cuatro unidades.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><A9><E3><81><86><E3><82><84><E3><82><89><E3><80><81><E3><81><BE><E3><81><A0><E3><81><AE><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+!------------------------------!
+Ainda não? 
+Tem sorte por eu ser um cara paciente.
+!------------------------------!
+Toujours pas ? Tu as de la chance... je suis
+quelqu'un de patient.
+!------------------------------!
+Noch nicht? Ich bin geduldig.
+!------------------------------!
+Ancora non ce l'hai?
+Beh, sono un tipo paziente.
+!------------------------------!
+¿Aún no? Soy un tío paciente.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><A6><E3><83><8B><E3><83><83><E3><83><88><E3><82><92><EF><BC><94><E3><81><A4><E4><BB><A5><E4><B8><8A><E3><81><AF><E3><82><81><E3><81><9F><E6><AD><A6><E5><99><A8><E3><82><92><E8><A3><85><E5><82><99><E3><81><97><E3><81><A6>
+<E5><87><BA><E7><9B><B4><E3><81><97><E3><81><A6><E3><81><93><E3><81><84>
+!------------------------------!
+Passe aqui pra me mostrar quando tiver montado.
+!------------------------------!
+Reviens me voir quand tu auras cette fameuse
+arme.
+!------------------------------!
+Komm wieder und zeig sie mir,
+sobald du eine hast.
+!------------------------------!
+Torna a mostrarmela,
+quando l'hai creata.
+!------------------------------!
+Vuelve aquí cuando la
+hayas montado.
+!------------------------------!
+!******************************!

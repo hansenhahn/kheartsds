@@ -1,0 +1,222 @@
+&.[HDR].&
+*.000004000000311802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><82><82><E3><81><86><E6><B8><A1><E3><81><99><E3><82><82><E3><81><AE><E3><81><AF><E3><81><AA><E3><81><84><E3><80><80><E4><BB><BB><E5><8B><99><E3><81><AB><E6><88><BB><E3><82><8C>
+!------------------------------!
+XALDIN
+Já fizemos nossa troca.
+Você deve ter trabalho a fazer.
+!------------------------------!
+XALDIN
+Je n'ai rien d'autre pour toi.
+Tu as sûrement du travail.
+!------------------------------!
+XALDIN
+Wir haben doch schon getauscht.
+Du hast doch bestimmt noch was zu tun.
+!------------------------------!
+XALDIN
+Abbiamo già completato lo scambio. 
+Di sicuro hai altro da fare ora.
+!------------------------------!
+XALDIN
+Hemos cerrado el trato. Tendrás
+trabajo que hacer, ¿no?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000311802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E5><85><88><E6><97><A5><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><A7><E3><80><8C><E3><82><A8><E3><82><A2><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92>
+<E5><A4><A7><E9><87><8F><E3><81><AB><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+XALDIN
+Eu ganhei uma pequena fortuna em
+Técnicas Aéreas na minha última missão.
+!------------------------------!
+XALDIN
+J'ai trouvé un tas de tech. saut pendant ma
+dernière mission.
+!------------------------------!
+XALDIN
+Ich bin bei meiner letzten Mission
+an jede Menge Luft-Tech gekommen.
+!------------------------------!
+XALDIN
+Ho trovato un bel po' di Tecniche
+aeree durante l'ultima missione.
+!------------------------------!
+XALDIN
+Tengo una pequeña fortuna 
+en tecnologías aéreas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><8C><E3><80><8C><E3><83><A0><E3><83><BC><E3><83><B3><E3><82><B9><E3><83><88><E3><83><BC><E3><83><B3><E3><80><8D><E3><82><92><E6><8C><81><E3><81><A3><E3><81><A6><E3><81><8D><E3><81><9F><E3><82><89>
+<E4><BA><A4><E6><8F><9B><E3><81><97><E3><81><A6><E3><82><84><E3><81><A3><E3><81><A6><E3><82><82><E3><81><84><E3><81><84>
+!------------------------------!
+Se me trouxer uma Selenita, eu troco por um.
+!------------------------------!
+On fait échange si tu m'apportes une lunalithe.
+!------------------------------!
+Bring mir einen Mondstein und
+wir können tauschen.
+!------------------------------!
+Portami una Pietra lunare
+e te ne darò una.
+!------------------------------!
+Tráeme una adularia
+y te la cambiaré.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><80><8C><E3><83><A0><E3><83><BC><E3><83><B3><E3><82><B9><E3><83><88><E3><83><BC><E3><83><B3><E3><80><8D><E3><81><AF><E6><89><8B><E3><81><AB><E5><85><A5><E3><81><A3><E3><81><9F><E3><81><8B><EF><BC><9F>
+<E6><8C><81><E3><81><A3><E3><81><A6><E3><81><8D><E3><81><9F><E3><81><AA><E3><82><89><E3><80><8C><E3><82><A8><E3><82><A2><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><81><A8><E4><BA><A4><E6><8F><9B><E3><81><97><E3><81><A6><E3><82><84><E3><82><8D><E3><81><86>
+!------------------------------!
+XALDIN
+Trouxe uma Selenita?
+Trocarei uma única Técnica Aérea por isso.
+!------------------------------!
+XALDIN
+T'as une lunalithe pour moi ? Je te l'échange
+contre une tech. saut.
+!------------------------------!
+XALDIN
+Hast du einen Mondstein dabei?
+Ich tausche eine Luft-Tech dagegen.
+!------------------------------!
+XALDIN
+Mi hai portato una Pietra lunare?
+La scambio con una Tecnica aerea.
+!------------------------------!
+XALDIN
+¿Tienes la adularia? Te lo
+cambio por una tecnología.
+!------------------------------!
+!******************************!
+&.[DSA].Condicional.&
+<E3><80><8C><E3><83><A0><E3><83><BC><E3><83><B3><E3><82><B9><E3><83><88><E3><83><BC><E3><83><B3><E3><80><8D><E3><82><92><E6><B8><A1><E3><81><97><E3><81><BE><E3><81><99><E3><81><8B><EF><BC><9F>
+!------------------------------!
+Entregar uma Selenita?
+!------------------------------!
+Tu me donnes une lunalithe ?
+!------------------------------!
+Mondstein überreichen?
+!------------------------------!
+Consegni una Pietra lunare?
+!------------------------------!
+¿Dar una adularia?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Sim
+!------------------------------!
+Oui.
+!------------------------------!
+Ja
+!------------------------------!
+Sì
+!------------------------------!
+Sí
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Não
+!------------------------------!
+Non.
+!------------------------------!
+Nein
+!------------------------------!
+No
+!------------------------------!
+No
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
+&.[HDR].&
+*.0000040000008D2002000000010000000000000007000F00.*
+!******************************!
+&.[HDR].&
+*.000004000000301801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<E3><81><84><E3><81><84><E3><81><A0><E3><82><8D><E3><81><86><E3><80><80><E5><8F><97><E3><81><91><E5><8F><96><E3><82><8C>
+!------------------------------!
+Muito bem.
+Aqui, pegue o que é seu.
+!------------------------------!
+Bien. Tiens, prends ça.
+!------------------------------!
+Gut. Hier.
+!------------------------------!
+Molto bene. 
+Prendi ciò che è tuo.
+!------------------------------!
+Muy bien.
+Toma lo que es tuyo.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><A8><E3><82><A2><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtido: Técnica Aérea
+!------------------------------!
+Tech. saut obtenue !
+!------------------------------!
+Erhalten: Luft-Tech
+!------------------------------!
+Ottieni: Tecnica aerea
+!------------------------------!
+Obtenido: tecnología aérea.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E6><8C><81><E3><81><A3><E3><81><A6><E3><81><AA><E3><81><84><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA><E2><80><A6>
+<E3><80><8C><E3><83><A0><E3><83><BC><E3><83><B3><E3><82><B9><E3><83><88><E3><83><BC><E3><83><B3><E3><80><8D><E3><81><8C><E7><84><A1><E3><81><84><E3><81><AA><E3><82><89><E4><BA><A4><E6><8F><9B><E3><81><AF><E3><81><A7><E3><81><8D><E3><82><93><E3><81><AA>
+<E3><80><8C><E3><82><A8><E3><82><A2><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><81><8C><E6><AC><B2><E3><81><97><E3><81><91><E3><82><8C><E3><81><B0><E3><81><A9><E3><81><93><E3><81><8B><E3><81><A7><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><A6><E3><81><93><E3><81><84>
+!------------------------------!
+Eu não posso trocar por uma coisa que você não tem.
+Se quiser a Técnica Aérea, traga-me uma Selenita.
+!------------------------------!
+Je ne peux pas faire un échange avec toi contre
+du vent. Si tu veux une tech. saut, apporte-moi
+une lunalithe !
+!------------------------------!
+Wenn du nichts zum Tauschen hast,
+kommen wir nicht ins Geschäft.
+Bring mir einen Mondstein.
+!------------------------------!
+Non posso fare uno scambio con qualcosa che non hai.
+Se vuoi la mia Tecnica aerea, portami una Pietra lunare.
+!------------------------------!
+No puedo darte nada si tú
+no me das nada. Tráeme
+una adularia.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><B5><E3><82><93><E2><80><A6><E6><82><AA><E3><81><8F><E3><81><AA><E3><81><84><E6><9D><A1><E4><BB><B6><E3><81><A0><E3><81><A8><E6><80><9D><E3><81><86><E3><81><8C><E3><81><AA>
+!------------------------------!
+Pensei que era mais do que justo...
+Faça como quiser.
+!------------------------------!
+Je pensais que c'était une bonne affaire...
+Mais fais comme tu veux.
+!------------------------------!
+Du hast ein gutes Geschäft gemacht ...
+Viel Vergnügen damit.
+!------------------------------!
+Credo sia un buon affare...
+Fai come preferisci.
+!------------------------------!
+Creo que es más que justo...
+Como quieras.
+!------------------------------!
+!******************************!

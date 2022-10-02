@@ -1,0 +1,20 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E6><AD><A6><E5><99><A8><E3><81><AE><E6><BA><96><E5><82><99><E3><82><92><E5><BF><98><E3><82><8C><E3><82><8B><E3><81><AA><E3><82><88>
+!------------------------------!
+AXEL
+Vê se não esquece de preparar sua arma.
+!------------------------------!
+AXEL
+N'oublie pas de préparer ton arme.
+!------------------------------!
+AXEL
+Vergiss nicht, deine Waffe vorzubereiten.
+!------------------------------!
+AXEL
+Ricorda di preparare la tua arma.
+!------------------------------!
+AXEL
+No olvides preparar el arma.
+!------------------------------!
+!******************************!

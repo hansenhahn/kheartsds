@@ -1,0 +1,70 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><80><81><E4><BB><8A><E6><97><A5><E3><81><8B><E3><82><89><E6><95><B0><E6><97><A5>
+<E3><82><B7><E3><82><AA><E3><83><B3><E3><81><A8><E4><BB><BB><E5><8B><99><E3><81><AB><E5><87><BA><E3><81><A6><E3><82><82><E3><82><89><E3><81><86><E3><81><9E>
+!------------------------------!
+SAÏX
+Roxas, a partir de hoje você
+realizará missões junto a Xion.
+!------------------------------!
+SAÏX
+Roxas, à partir d'aujourd'hui, tu pars en mission
+avec Xion.
+!------------------------------!
+SAÏX
+Roxas, ab heute gehst du
+mit Xion auf Mission.
+!------------------------------!
+SAÏX
+Roxas, a partire da oggi affronterai
+le missioni in coppia con Xion.
+!------------------------------!
+SAÏX
+Roxas, desde hoy irás
+con Xion a las misiones.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BB><BB><E5><8B><99><E3><82><92><E5><8F><97><E3><81><91><E3><82><8B><E9><9A><9B><E3><80><81><E4><BB><BB><E5><8B><99><E3><81><AE><E8><A9><B3><E7><B4><B0><E6><83><85><E5><A0><B1><E3><82><92>
+<E3><82><88><E3><81><8F><E8><A6><8B><E3><81><A6><E3><81><8A><E3><81><91>
+!------------------------------!
+Preste muita atenção nas informações que
+lhe preparei nas instruções da missão.
+!------------------------------!
+Retiens bien les informations qui te seront fournies
+lors des briefings.
+!------------------------------!
+Achte auf die Infos, die ich in den
+Missionsbesprechungen für dich
+vorbereitet habe.
+!------------------------------!
+Leggi con estrema attenzione le
+informazioni che ho inserito per
+te nelle direttive della missione.
+!------------------------------!
+Lee bien los informes de
+misión que te dé.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><8F><E3><83><BC><E3><83><88><E3><83><AC><E3><82><B9><E3><81><AB><E9><96><A2><E3><81><97><E3><81><A6><E9><87><8D><E8><A6><81><E3><81><AA><E6><83><85><E5><A0><B1><E3><81><8C>
+<E6><9B><B8><E3><81><8B><E3><82><8C><E3><81><A6><E3><81><84><E3><82><8B><E5><A0><B4><E5><90><88><E3><81><8C><E3><81><82><E3><82><8B>
+<E8><A9><B3><E7><B4><B0><E6><83><85><E5><A0><B1><E3><82><92><E5><8F><82><E8><80><83><E3><81><AB><E3><83><91><E3><83><8D><E3><83><AB><E3><82><92><E8><A3><85><E5><82><99><E3><81><97><E3><82><8D>
+!------------------------------!
+Use os dados sobre seus alvos para decidir
+quais painéis deve levar ao campo.
+!------------------------------!
+Utilise les données sur les cibles pour choisir les
+panneaux à emporter sur le terrain.
+!------------------------------!
+Entscheide anhand der Zielinformationen,
+welche Tafeln du in den Einsatz mitnimmst.
+!------------------------------!
+Consulta i dati sui bersagli per
+decidere il tipo di pannelli da
+portare in battaglia.
+!------------------------------!
+Úsalos para decidir los
+paneles que te llevarás.
+!------------------------------!
+!******************************!

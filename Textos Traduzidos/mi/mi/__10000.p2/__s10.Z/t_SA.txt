@@ -1,0 +1,25 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><80><81><E4><BB><8A><E6><97><A5><E3><81><AF><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><E3><81><A8>
+<E6><8C><87><E5><AE><9A><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><82><82><E3><82><89><E3><81><86><E3><81><9E>
+!------------------------------!
+SAÏX
+Roxas, a missão de hoje é obrigatória.
+Designei Axel para auxiliá-lo.
+!------------------------------!
+SAÏX
+Roxas, la mission d'aujourd'hui est obligatoire.
+Axel va t'aider.
+!------------------------------!
+Entscheide anhand der Zielinformationen,
+welche Tafeln du in den Einsatz mitnimmst.
+!------------------------------!
+SAÏX
+La missione di oggi è obbligatoria, Roxas.
+Ho ordinato ad Axel di assisterti.
+!------------------------------!
+SAÏX
+Roxas, hoy la misión es
+obligatoria. Axel te ayudará.
+!------------------------------!
+!******************************!

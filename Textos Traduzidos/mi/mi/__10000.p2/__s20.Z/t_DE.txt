@@ -1,0 +1,173 @@
+&.[HDR].&
+*.000004000000971802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><9F><E3><81><BE><E3><81><AB><E3><81><AF><E4><BC><91><E3><81><BF><E3><81><8F><E3><82><93><E3><81><AD><E3><83><BC><E3><81><8B><E3><81><AA><E3><81><81>
+!------------------------------!
+DEMYX
+Mataria se eles dessem pra gente
+um dia de folga de vez em quando?
+!------------------------------!
+DEMYX
+Ils voudraient pas me donner un jour de libre ?
+!------------------------------!
+DEMYX
+Wäre es so schlimm, wenn wir
+mal einen Tag frei bekämen?
+!------------------------------!
+DEMYX
+Quanto gli costa darci un giorno
+di vacanza ogni tanto?
+!------------------------------!
+DEMYX
+¡Ya podrían darnos
+algún día libre!
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000971802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><8A><E3><81><BE><E3><81><88><E3><83><91><E3><83><8D><E3><83><AB><E5><90><88><E6><88><90><E3><81><AF><E4><BD><BF><E3><81><88><E3><81><A6><E3><82><8B><E3><81><8B><EF><BC><9F>
+!------------------------------!
+DEMYX
+Tem feito muitas sínteses, cara?
+!------------------------------!
+DEMYX
+As-tu beaucoup synthétisé de panneaux ?
+!------------------------------!
+DEMYX
+Hast du schon mal
+geschmiedet, Mann?
+!------------------------------!
+DEMYX
+Hai già combinato
+molti pannelli, amico?
+!------------------------------!
+DEMYX
+¿Has sintetizado muchos paneles?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E8><A9><A6><E3><81><97><E3><81><AB><E3><80><8C><E3><83><9D><E3><83><BC><E3><82><B7><E3><83><A7><E3><83><B3><E3><80><8D><E3><81><A8><E3><80><8C><E3><83><9D><E3><83><BC><E3><82><B7><E3><83><A7><E3><83><B3><E3><80><8D><E3><82><92>
+<E5><90><88><E6><88><90><E3><81><97><E3><81><A6><E3><81><BF><E3><82><8D><E3><82><88>
+<E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E5><A3><B0><E3><81><8B><E3><81><91><E3><82><8D><E3><82><88><E3><81><AA>
+!------------------------------!
+Quero ver se consegue preparar uns dois painéis
+de Poção. Me avisa quando tiver feito.
+!------------------------------!
+Essaie de fusionner deux potions et viens me voir
+quand ce sera fait.
+!------------------------------!
+Versuch mal, was aus zwei Potion-Tafeln
+zu basteln. Gib mir Bescheid, wenn du's 
+getan hast.
+!------------------------------!
+Prova a vedere cosa ottieni
+combinando due pozioni. Torna
+qui da me quando hai finito.
+!------------------------------!
+Inténtalo sintetizando dos
+pociones. Enséñamelas
+cuando lo hayas hecho.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000961801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><81><95><E3><81><A3><E3><81><8D><E8><A8><80><E3><81><A3><E3><81><9F><E5><90><88><E6><88><90><E3><80><80><E3><81><86><E3><81><BE><E3><81><8F><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><BF><E3><81><A6><E3><81><87><E3><81><A0><E3><81><AA>
+<E5><90><88><E6><88><90><E3><81><AF><E4><BE><BF><E5><88><A9><E3><81><A0><E3><81><8B><E3><82><89><E8><A6><9A><E3><81><88><E3><81><A8><E3><81><84><E3><81><A6><E6><90><8D><E3><81><AF><E3><81><AA><E3><81><84><E3><81><9C>
+!------------------------------!
+DEMYX
+Ei, tu conseguiu! Síntese é mesmo
+uma mão na roda. Tenha isso em mente!
+!------------------------------!
+DEMYX
+Hé, t'as réussi ! La synthèse c'est super pratique.
+Ne l'oublie pas !
+!------------------------------!
+DEMYX
+Hey, geschafft! Schmieden
+ist nützlich! Denk immer dran!
+!------------------------------!
+DEMYX
+Ehi, ce l'hai fatta! l'Elaborazione
+è molto utile. Ricordatelo!
+!------------------------------!
+DEMYX
+¡Anda, lo has conseguido!
+La síntesis es muy útil.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><93><E3><81><84><E3><81><A4><E3><81><AF><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><81><A0><E3><80><80><E3><81><A8><E3><81><A3><E3><81><A8><E3><81><91>
+!------------------------------!
+Aqui, pode pegar isto
+!------------------------------!
+Tiens, prends ça.
+!------------------------------!
+Hier, das kannst du haben.
+!------------------------------!
+Ecco, puoi avere questa.
+!------------------------------!
+¡No lo olvides!
+Ten, toma esto.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><B3><E3><83><B3><E3><83><9C><E3><82><A2><E3><83><BC><E3><83><84><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtido: Técnica Combo
+!------------------------------!
+Tech. combo obtenue !
+!------------------------------!
+Erhalten: Kombo-Tech
+!------------------------------!
+Ottieni: Tecnica combo
+!------------------------------!
+Obtenida: tecnología de combo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E3><80><8C><E3><83><9D><E3><83><BC><E3><82><B7><E3><83><A7><E3><83><B3><E3><80><8D><E3><81><A8><E3><80><8C><E3><83><9D><E3><83><BC><E3><82><B7><E3><83><A7><E3><83><B3><E3><80><8D><E3><81><AE><E5><90><88><E6><88><90><E3><81><A3><E3><81><A6><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+DEMYX
+Já sintetizou as duas Poções?
+!------------------------------!
+DEMYX
+Alors cette synthèse de potions ?
+!------------------------------!
+DEMYX
+Hast du die beiden Potions
+zusammengeschmiedet?
+!------------------------------!
+DEMYX
+Allora, hai combinato le due pozioni?
+!------------------------------!
+DEMYX
+¿Has sintetizado ya
+esas pociones?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E5><A3><B0><E3><81><8B><E3><81><91><E3><82><8D><E3><82><88>
+!------------------------------!
+Me avise quando tiver acabado.
+!------------------------------!
+Préviens-moi quand ce sera fait.
+!------------------------------!
+Sag Bescheid, wenn du's
+getan hast.
+!------------------------------!
+Fammi sapere quando
+hai finito.
+!------------------------------!
+Avísame cuando lo
+hayas hecho.
+!------------------------------!
+!******************************!

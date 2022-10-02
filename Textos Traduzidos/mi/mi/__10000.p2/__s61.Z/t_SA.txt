@@ -1,0 +1,22 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><BB><E5><8B><99><E5><89><8D><E3><81><AE><E6><BA><96><E5><82><99><E3><82><92><E6><80><A0><E3><82><8B><E3><81><AA><E3><82><88>
+!------------------------------!
+SAÏX
+Você deve ir preparado em toda missão.
+!------------------------------!
+SAÏX
+Tu dois bien te préparer avant chaque mission.
+!------------------------------!
+SAÏX
+Du solltest nie unvorbereitet
+auf eine Mission gehen.
+!------------------------------!
+SAÏX
+Preparati al meglio prima di
+affrontare ogni missione.
+!------------------------------!
+SAÏX
+Debes prepararte bien.
+!------------------------------!
+!******************************!

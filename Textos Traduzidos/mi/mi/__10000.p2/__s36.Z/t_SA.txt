@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E6><96><B0><E3><81><97><E3><81><84><E4><B8><96><E7><95><8C><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><8C><E3><81><82><E3><82><8B>
+<E6><BA><96><E5><82><99><E3><81><8C><E3><81><A7><E3><81><8D><E6><AC><A1><E7><AC><AC><E3><80><81><E5><87><BA><E7><99><BA><E3><81><97><E3><82><8D>
+!------------------------------!
+SAÏX
+Uma das missões que tenho para você requer que visite
+um novo mundo. Parta assim que estiver pronto.
+!------------------------------!
+SAÏX
+Pour l'une des missions d'aujourd'hui, tu vas aller
+dans un nouveau monde. Pars quand tu seras prêt.
+!------------------------------!
+SAÏX
+Die nächste Mission führt dich in eine
+neue Welt. Brich auf, sobald du bereit bist.
+!------------------------------!
+SAÏX
+Una delle missioni richiede di visitare 
+un nuovo mondo. Parti non appena sei pronto.
+!------------------------------!
+SAÏX
+En una de las misiones visitarás
+un nuevo mundo. Cuando quieras.
+!------------------------------!
+!******************************!

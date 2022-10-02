@@ -1,0 +1,81 @@
+&.[HDR].&
+*.000004000000101802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><9E><E3><83><BC><E3><83><AB><E3><83><BC><E3><82><B7><E3><83><A3><EF><BC><9E>
+<E3><81><8A><E3><81><BE><E3><81><88><E3><82><92><E9><80><A3><E3><82><8C><E3><81><A6><E3><81><84><E3><81><8F><E3><81><AB><E3><81><AF>
+<E3><81><BE><E3><81><A0><E6><97><A9><E3><81><84><E3><81><8B><E2><80><A6>
+!------------------------------!
+MARLUXIA
+Se tivêssemos nos conhecidos antes, Roxas...
+Você teria sido de grande utilidade.
+!------------------------------!
+MARLUXIA
+Si seulement nous nous étions rencontrés plut tôt,
+Roxas... Tu aurais été bien utile.
+!------------------------------!
+MARLUXIA
+Hätten wir uns doch früher getroffen, Roxas ...
+Ich hätte dich gut gebrauchen können.
+!------------------------------!
+MARLUXIA
+Se solo ci fossimo incontrati prima, 
+Roxas... Saresti stato perfetto.
+!------------------------------!
+MARLUXIA
+No vienes conmigo.
+Aún no...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><9E><E3><83><BC><E3><83><AB><E3><83><BC><E3><82><B7><E3><83><A3><EF><BC><9E>
+13<E7><95><AA><E7><9B><AE><E2><80><A6><E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><81><8B><E2><80><A6>
+!------------------------------!
+MARLUXIA
+Número <E2><85><A9><E2><85><A2>... Roxas.
+!------------------------------!
+MARLUXIA
+N° XIII... Roxas.
+!------------------------------!
+MARLUXIA
+Nummer XIII ... Roxas.
+!------------------------------!
+MARLUXIA
+N° XIII... Roxas.
+!------------------------------!
+MARLUXIA
+Número XIII... Roxas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><95><E3><83><83><E2><80><A6><E3><81><93><E3><82><8C><E3><81><AF><E4><BD><95><E3><81><8B><E3><81><AE><E8><B6><B3><E3><81><97><E3><81><AB><E3><81><99><E3><82><8B><E3><81><8C><E3><81><84><E3><81><84>
+!------------------------------!
+Hmph. Aqui, pegue isto.
+Faça uso disto quando achar melhor.
+!------------------------------!
+Tiens, prends ça. Utilise-le en cas de besoin.
+!------------------------------!
+Hmpf. Hier, nimm das. Setz es ein,
+wie du willst.
+!------------------------------!
+Mph. Ecco. Prendi questo.
+Cerca di usarlo al meglio.
+!------------------------------!
+Je. Ten, toma esto. Úsalo
+como mejor te parezca.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><A8><E3><83><BC><E3><83><86><E3><83><AB><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtido: Éter
+!------------------------------!
+Éther obtenu !
+!------------------------------!
+Erhalten: Äther
+!------------------------------!
+Ottieni: Etere
+!------------------------------!
+Obtenido: éter.
+!------------------------------!
+!******************************!

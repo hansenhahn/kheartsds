@@ -1,0 +1,43 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><AB><E3><82><AF><E3><82><BD><E3><83><BC><E3><83><89><EF><BC><9E>
+<E3><82><B2><E3><83><BC><E3><83><A0><E3><81><AB><E3><81><AF><E5><8B><9D><E3><81><A1><E3><82><82><E8><B2><A0><E3><81><91><E3><82><82><E3><81><82><E3><82><8B>
+!------------------------------!
+LUXORD
+Às vezes você ganha,
+às vezes você perde.
+!------------------------------!
+LUXORD
+Parfois on gagne et parfois on perd.
+!------------------------------!
+LUXORD
+Manchmal gewinnt man,
+manchmal verliert man.
+!------------------------------!
+LUXORD
+A volte si vince, a volte si perde.
+!------------------------------!
+LUXORD
+A veces se gana,
+a veces se pierde.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><82><82><E3><81><A3><E3><81><A8><E3><82><82><E8><B2><A0><E3><81><91><E3><81><8C><E3><81><93><E3><82><81><E3><81><B0><E2><80><A6>
+<E3><81><A9><E3><81><86><E3><81><84><E3><81><86><E3><81><93><E3><81><A8><E3><81><AB><E3><81><AA><E3><82><8B><E3><81><8B><E3><81><AF><E3><82><8F><E3><81><8B><E3><82><8B><E3><81><AA><EF><BC><9F>
+!------------------------------!
+Claro, este não é um jogo que se pode
+dar ao luxo deperder duas vezes...
+!------------------------------!
+Mais bien sûr, ce n'est pas un jeu où l'on a droit
+à une seconde chance...
+!------------------------------!
+Das ist kein Spiel,
+das man zweimal verlieren kann ...
+!------------------------------!
+Anche se in questo gioco non
+si può perdere due volte...
+!------------------------------!
+Aunque en este juego no
+se puede perder dos veces...
+!------------------------------!
+!******************************!

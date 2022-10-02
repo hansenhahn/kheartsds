@@ -1,0 +1,198 @@
+&.[HDR].&
+*.0000040000009A1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E8><85><95><E5><89><8D><E3><81><AF><E3><81><82><E3><81><8C><E3><81><A3><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+XALDIN
+Fez algum progresso em seu treinamento?
+!------------------------------!
+XALDIN
+Ton entraînement avance ?
+!------------------------------!
+XALDIN
+Bist du mit dem Training
+weitergekommen?
+!------------------------------!
+XALDIN
+Hai fatto qualche progresso
+con il tuo addestramento?
+!------------------------------!
+XALDIN
+¿Has hecho algún progreso
+en tu entrenamiento?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000009A1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F><E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><81><AF><E5><8F><97><E3><81><91><E3><81><A6><E3><81><84><E3><82><8B><E3><81><8B><EF><BC><9F>
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><8C><E6><88><90><E9><95><B7><E3><82><92><E6><9C><9B><E3><82><80><E3><81><AA><E3><82><89><E3><80><81><E6><8C><91><E3><82><80><E3><81><B9><E3><81><8D><E3><81><A0>
+!------------------------------!
+XALDIN
+Está completando os Desafios?
+Deveria.
+!------------------------------!
+XALDIN
+As-tu essayé les épreuves ? Tu devrais.
+!------------------------------!
+XALDIN
+Hast du die Herausforderungen
+abgeschlossen? Das solltest du.
+!------------------------------!
+XALDIN
+Hai superato qualche
+Sfida? Dovresti farlo.
+!------------------------------!
+XALDIN
+¿Has completado algún
+desafío? Te vendría bien.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>16<E3><81><AE>
+<E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><82><92><E3><81><93><E3><81><AA><E3><81><97><E3><81><A6><E3><81><BF><E3><82><8D>
+!------------------------------!
+Mostre-me o quão bem você pode
+se sair no Desafio da Missão 16.
+!------------------------------!
+Essaie l'épreuve de la mission 16.
+!------------------------------!
+Zeig mir, was du kannst indem du
+die Herausforderung für Mission 16
+abschließt.
+!------------------------------!
+Mostrami cosa sai fare nelle Sfide,
+affronta la Missione 16.
+!------------------------------!
+Completa el desafío de
+la misión 16.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><82><B7><E3><83><B3><E3><83><9C><E3><83><AB><E3><82><92>
+<EF><BC><91><E3><81><A4><E3><81><A7><E3><82><82><E7><8D><B2><E5><BE><97><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89><E5><A0><B1><E5><91><8A><E3><81><97><E3><81><AB><E6><9D><A5><E3><81><84>
+!------------------------------!
+Quando ganhar pelo menos um Selo de
+Desafio nessa missão, nós conversamos.
+!------------------------------!
+Viens me voir quand tu auras reçu au moins un
+jeton d'épreuve, OK ?
+!------------------------------!
+Wir reden, wenn du  mindestens ein
+Siegel in der Mission erhalten hast.
+!------------------------------!
+Quando avrai ottenuto almeno
+un Sigillo sfida in quella
+Missione potremo parlare.
+!------------------------------!
+Ven a verme cuando hayas
+ganado 1 sello de desafío.
+Quiero ver al menos uno.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000991801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><BB><E3><81><86><E3><80><81><E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><82><B7><E3><83><B3><E3><83><9C><E3><83><AB><E3><82><92><E7><8D><B2><E5><BE><97><E3><81><97><E3><81><9F><E3><81><8B>
+<E4><BB><8A><E5><BE><8C><E3><82><82><E7><B2><BE><E9><80><B2><E3><81><99><E3><82><8B><E3><82><93><E3><81><A0><E3><81><AA>
+!------------------------------!
+XALDIN
+Ah, você está com o Selo de Desafio.
+Muito bem. Continue com seu treinamento.
+!------------------------------!
+XALDIN
+Ah, tu as obtenu un jeton d'épreuve.
+C'est bien, continue de t'entraîner.
+!------------------------------!
+XALDIN
+Ah, du hast ein Siegel.
+Gut. Mach weiter mit dem Training.
+!------------------------------!
+XALDIN
+Oh, hai un Sigillo sfida.
+Bene. Continua così.
+!------------------------------!
+XALDIN
+Ya tienes un sello de desafío.
+Bien. Sigue con tu entrenamiento.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><B5><E3><82><93><E2><80><A6><E3><81><93><E3><82><8C><E3><82><92><E3><81><8F><E3><82><8C><E3><81><A6><E3><82><84><E3><82><8B>
+!------------------------------!
+E tome isto pelo seu esforço.
+!------------------------------!
+Prends ceci.
+!------------------------------!
+Und nimm das hier für deine Bemühungen.
+!------------------------------!
+Prendi questo per i tuoi sforzi.
+!------------------------------!
+Por ahora, quédate con esto.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E3><80><8C><E3><82><A2><E3><82><A4><E3><82><A2><E3><83><B3><E3><80><8D><E3><82><92><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><81><9F>
+!------------------------------!
+Obtido: Ferro
+!------------------------------!
+Fer obtenu !
+!------------------------------!
+Erhalten: Eisen
+!------------------------------!
+Ottieni: Ferro
+!------------------------------!
+Obtenido: hierro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>16<E3><81><AE><E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><82><B7><E3><83><B3><E3><83><9C><E3><83><AB><E3><81><AF>
+<E7><8D><B2><E5><BE><97><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><8B><EF><BC><9F>
+!------------------------------!
+XALDIN
+Já ganhou um Selo de Desafio na Missão 16?
+!------------------------------!
+XALDIN
+As-tu réussi l'épreuve de la mission 16 et gagné
+un jeton d'épreuve ?
+!------------------------------!
+XALDIN
+Hast du dir schon ein Siegel für
+Mission 16 verdient?
+!------------------------------!
+XALDIN
+Hai già guadagnato un Sigillo
+sfida nella Missione 16?
+!------------------------------!
+XALDIN
+¿Tienes ya el sello de
+desafío de la misión 16?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><BE><E3><81><A0><E3><81><AE><E3><82><88><E3><81><86><E3><81><A0><E3><81><AA>
+<E7><B5><82><E3><82><8F><E3><81><A3><E3><81><9F><E3><82><89><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><82><8D>
+!------------------------------!
+... Pelo visto, ainda não.
+Avise-me quando tiver.
+!------------------------------!
+Non... toujours pas. Viens me voir quand ce sera fait.
+!------------------------------!
+... Wie ich sehe, noch nicht.
+Sag Bescheid, wenn du's
+geschafft hast.
+!------------------------------!
+Non ancora, vedo...
+Avvisami quando hai finito.
+!------------------------------!
+No, veo que no te has decidido.
+Avísame cuando lo hayas hecho.
+!------------------------------!
+!******************************!

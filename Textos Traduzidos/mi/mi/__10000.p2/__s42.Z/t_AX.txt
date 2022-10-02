@@ -1,0 +1,204 @@
+&.[HDR].&
+*.000004000000671802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E4><BC><91><E6><9A><87><E3><81><AA><E3><82><93><E3><81><A6><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AE><E6><A9><9F><E5><AB><8C><E3><81><B2><E3><81><A8><E3><81><A4><E3><81><A0><E3><81><8B><E3><82><89><E3><81><AA>
+<E3><81><95><E3><81><A3><E3><81><95><E3><81><A8><E4><BB><95><E4><BA><8B><E3><81><97><E3><81><A6><E6><A9><9F><E5><AB><8C><E6><82><AA><E3><81><8F><E3><81><95><E3><81><9B><E3><82><93><E3><81><AA><E3><82><88>
+!------------------------------!
+AXEL
+Saïx só dá folga quando tá de bom humor.
+Ou seja, nunca.
+!------------------------------!
+AXEL
+Saïx n'accorde un jour de libre que quand il est de
+bonne humeur. C'est-à-dire jamais !
+!------------------------------!
+AXEL
+Saïx gibt uns nur frei, wenn er
+mit uns zufrieden ist. Also nie.
+!------------------------------!
+AXEL
+Saïx concede ferie solo quando
+è di buon umore. Cioè mai.
+!------------------------------!
+AXEL
+Saïx solamente concede días libres
+si está contento. O sea, nunca.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000671802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><80><81><E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><81><A3><E3><81><A6><E3><82><84><E3><81><A3><E3><81><A6><E3><82><8B><E3><81><8B><EF><BC><9F>
+<E8><85><95><E3><82><92><E7><A3><A8><E3><81><8F><E3><81><AB><E3><81><AF><E3><82><82><E3><81><A3><E3><81><A6><E3><81><93><E3><81><84><E3><81><A0><E3><81><9E>
+!------------------------------!
+AXEL
+Já fez algum Desafio, Roxas?
+São bons pra treinar.
+!------------------------------!
+AXEL
+T'as déjà essayé les épreuves, Roxas ?
+C'est un bon entraînement.
+!------------------------------!
+AXEL
+Machst du auch Herausforderungen,
+Roxas? Die sind gutes Training.
+!------------------------------!
+AXEL
+Affronti mai delle Sfide,
+Roxas? Sono molto utili.
+!------------------------------!
+AXEL
+¿Has completado algún desafío,
+Roxas? Son un buen entrenamiento.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E8><A9><A6><E3><81><97><E3><81><AB><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>58<E3><81><AE>
+<E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><81><AB><E6><8C><91><E6><88><A6><E3><81><97><E3><81><A6><E3><81><BF><E3><82><8D><E3><82><88>
+!------------------------------!
+Tenta o Desafio da Missão 58 pra começar.
+!------------------------------!
+Essaie l'épreuve de la mission 58 pour commencer.
+!------------------------------!
+Versuch doch mal für den Anfang
+die Herausforderung für Mission 58.
+!------------------------------!
+Prova la Missione 58,
+per esempio.
+!------------------------------!
+¿Por qué no empiezas por el
+desafío de la misión 58?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><82><B7><E3><83><B3><E3><83><9C><E3><83><AB><E3><82><92><EF><BC><91><E3><81><A4><E3><81><A7><E3><82><82><E7><8D><B2><E5><BE><97><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89>
+<E4><BF><BA><E3><81><AB><E5><A3><B0><E3><82><92><E3><81><8B><E3><81><91><E3><82><8D><E3><82><88>
+!------------------------------!
+Dá um pulo aqui quando tiver pelo
+menos um Selo de Desafio nele.
+!------------------------------!
+Viens me voir une fois que t'auras au moins
+un jeton d'épreuve.
+!------------------------------!
+Und schrei, wenn du mindestens
+ein Siegel darin erhältst.
+!------------------------------!
+Torna da me quando avrai
+ottenuto almeno un Sigillo sfida.
+!------------------------------!
+Vuelve cuando ganes al menos
+un sello de desafío en ella.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000661801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><83><AD><E3><82><AF><E3><82><B5><E3><82><B9><E3><82><84><E3><82><8B><E3><82><84><E3><82><8B><E3><82><84><E3><82><8B><EF><BD><9E>
+<E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><82><B7><E3><83><B3><E3><83><9C><E3><83><AB><E3><82><92><E7><8D><B2><E5><BE><97><E3><81><A7><E3><81><8D><E3><81><9F><E3><81><BF><E3><81><A6><E3><81><87><E3><81><A0><E3><81><AA>
+!------------------------------!
+AXEL
+Opa, boa! Cumpriu o Desafio.
+!------------------------------!
+AXEL
+Hé, bravo ! T'as réussi cette épreuve.
+!------------------------------!
+AXEL
+Heyyy, nicht schlecht! Du hast
+die Herausforderung geschafft.
+!------------------------------!
+AXEL
+Ehi, complimenti! Hai
+superato quella Sfida.
+!------------------------------!
+AXEL
+¡Oye, qué bárbaro! Te has
+pulido el desafío.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9D><E3><81><AE><E8><85><95><E3><81><AA><E3><82><89><E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E3><82><82><E3><82><89><E3><81><88><E3><82><8B><E3><81><8B><E3><82><82><E3><81><AA>
+<E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AB><E4><BC><9D><E3><81><88><E3><81><A6><E3><81><8A><E3><81><8F><E3><81><9C>
+!------------------------------!
+Com essas habilidades, tu deve conseguir completar
+uma nova missão. Vou dar uma palavrinha com o Saïx.
+!------------------------------!
+Avec ce savoir-faire, Saïx pourrait bien te confier
+une nouvelle mission. Je vais lui parler.
+!------------------------------!
+Mit diesen Fähigkeiten kannst du
+sicher eine neue Mission von Saïx
+erledigen. Hau ihn doch mal an.
+!------------------------------!
+Con le tue capacità potresti forse completare una nuova
+missione di Saïx. Metterò una buona parola.
+!------------------------------!
+Con semejante talento, Saïx
+no dudará en asignarte otra
+misión. Ve a hacerle la rosca.
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+Uma nova missão está agora disponível!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><A2><E3><82><AF><E3><82><BB><E3><83><AB><EF><BC><9E>
+<E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><83><8A><E3><83><B3><E3><83><90><E3><83><BC>58<E3><81><AE><E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><83><9F><E3><83><83><E3><82><B7><E3><83><A7><E3><83><B3><E3><81><A7>
+<E3><83><88><E3><83><A9><E3><82><A4><E3><82><A2><E3><83><AB><E3><82><B7><E3><83><B3><E3><83><9C><E3><83><AB><E3><82><92><EF><BC><91><E3><81><A4><E3><81><A7><E3><82><82><E7><8D><B2><E5><BE><97><E3><81><A7><E3><81><8D><E3><81><9F><E3><82><89>
+!------------------------------!
+AXEL
+Pegou o Selo de Desafio já?
+É pro Desafio da Missão 58.
+!------------------------------!
+AXEL
+Alors, il est où ce jeton d'épreuve ?
+Celui de la mission 58.
+!------------------------------!
+AXEL
+Hast du das Siegel schon?
+Es ist für Herausforderung
+für Mission 58.
+!------------------------------!
+AXEL
+Hai ottenuto un Sigillo sfida
+per la Missione 58?
+!------------------------------!
+AXEL
+¿Tienes ya el sello de desafío?
+Es el del desafío 58.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BF><BA><E3><81><AB><E5><A3><B0><E3><82><92><E3><81><8B><E3><81><91><E3><82><8D><E3><82><88>
+!------------------------------!
+Passa aqui quando tiver feito, cara.
+Vou tar bem aqui.
+!------------------------------!
+Viens me voir quand ce sera bon. Je serai ici.
+!------------------------------!
+Komm zu mir, wenn du ihn hast.
+Ich bin immer hier.
+!------------------------------!
+Torna da me quando ci
+sei riuscito. Ti aspetto.
+!------------------------------!
+Ven a verme cuando lo tengas,
+tío. Estaré aquí mismo.
+!------------------------------!
+!******************************!

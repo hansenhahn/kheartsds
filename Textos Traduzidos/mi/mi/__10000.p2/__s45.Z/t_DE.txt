@@ -1,0 +1,44 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><87><E3><83><9F><E3><83><83><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E9><80><83><E3><81><92><E3><81><A0><E3><81><97><E3><81><9F><E3><81><8F><E3><81><AA><E3><82><8B><E6><B0><97><E6><8C><81><E3><81><A1><E3><82><82>
+<E3><82><8F><E3><81><8B><E3><82><93><E3><81><AD><E3><83><BC><E3><81><A7><E3><82><82><E3><81><AD><E3><83><BC><E3><81><91><E3><81><A9>
+!------------------------------!
+DEMYX
+Não posso culpar a garota por querer
+dar um fim nessas missões, mas...
+!------------------------------!
+DEMYX
+Je ne dis pas qu'elle a tort de vouloir échapper à
+toutes ces missions, mais...
+!------------------------------!
+DEMYX
+Kann ihr keinen Vorwurf daraus machen,
+diese Missionen abgeben zu wollen, aber ...
+!------------------------------!
+DEMYX
+Capisco benissimo che voglia farla
+finita con queste missioni, ma...
+!------------------------------!
+DEMYX
+No la culpo por pasar de
+esas misiones, pero...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><80><E3><82><B9><E3><82><AF><E3><81><AB><E3><81><AF><E3><81><95><E3><82><8C><E3><81><9F><E3><81><8F><E3><81><AA><E3><81><84><E3><81><9C>
+!------------------------------!
+não tô a fim que me transformem num Sombrio.
+!------------------------------!
+je n'ai pas envie d'être changé en Reflet à cause
+d'elle.
+!------------------------------!
+Ich werd mich dafür auf keinen Fall
+in einen Dämmerling verwandeln lassen.
+!------------------------------!
+Io non intendo certo farmi
+trasformare in un Simile.
+!------------------------------!
+no quiero que me
+conviertan en un umbrío.
+!------------------------------!
+!******************************!

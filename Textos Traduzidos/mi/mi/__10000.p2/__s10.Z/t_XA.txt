@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B6><E3><83><AB><E3><83><87><E3><82><A3><E3><83><B3><EF><BC><9E>
+<E3><81><95><E3><81><A3><E3><81><95><E3><81><A8><E4><BB><BB><E5><8B><99><E3><81><AB><E8><A1><8C><E3><81><91>
+<E4><BD><99><E8><A8><88><E3><81><AA><E3><81><93><E3><81><A8><E3><82><92><E8><80><83><E3><81><88><E3><82><8B><E3><81><AA>
+!------------------------------!
+XALDIN
+Cuide somente de sua missão.
+Nada mais lhe diz respeito.
+!------------------------------!
+XALDIN
+Préoccupe-toi de ta mission. Tu ne dois pas penser
+à autre chose.
+!------------------------------!
+XALDIN
+Erledige deine Mission.
+Du darfst an nichts anderes denken.
+!------------------------------!
+XALDIN
+Pensa alla tua missione.
+Non devi preoccuparti d'altro.
+!------------------------------!
+XALDIN
+Cumple tu misión. No te
+distraigas con nadas más.
+!------------------------------!
+!******************************!

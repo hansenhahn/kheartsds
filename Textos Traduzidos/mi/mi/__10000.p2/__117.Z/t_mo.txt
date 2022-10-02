@@ -1,0 +1,108 @@
+&.[HDR].&
+*.000004000000CD180200000001000000000000000700000004000000623C01000000010000000100000007000E000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E3><82><88><E3><81><8F><E6><9D><A5><E3><81><9F><E3><82><AF><E3><83><9D>
+<E3><82><86><E3><81><A3><E3><81><8F><E3><82><8A><E8><A6><8B><E3><81><A6><E3><81><84><E3><81><8F><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+Saudações, kupo.
+Dê uma olhada nos meus artigos, kupo.
+!------------------------------!
+MOG
+Bienvenue, kupo. Jette un coup d'œil à ce que j'ai
+en stock, kupo.
+!------------------------------!
+MOGRY
+Sei gegrüßt, kupo.
+Wirf einen Blick auf meine Waren, kupo.
+!------------------------------!
+MOGURI
+Salve, kupò.
+Guarda pure la mia mercanzia, kupò.
+!------------------------------!
+MOGURI
+Saludos, kupó. Echa un
+ojo a mis mercancías, kupó.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><83><A2><E3><83><BC><E3><82><B0><E3><83><AA><EF><BC><9E>
+<E6><96><B0><E3><81><97><E3><81><84><E9><9A><8E><E7><B4><9A><E3><81><AB><E3><81><AA><E3><81><A3><E3><81><A6><E6><96><B0><E5><95><86><E5><93><81><E3><81><8C><E5><85><A5><E8><8D><B7>
+<E3><81><95><E3><82><8C><E3><82><8B><E3><82><88><E3><81><86><E3><81><AB><E3><81><AA><E3><81><A3><E3><81><9F><E3><82><AF><E3><83><9D><EF><BC><81><E3><81><9C><E3><81><B2><E8><A6><8B><E3><81><A6><E3><81><84><E3><81><A3><E3><81><A6><E3><81><BB><E3><81><97><E3><81><84><E3><82><AF><E3><83><9D>
+!------------------------------!
+MOOGLE
+Com sua nova posição, posso lhe mostrar os produtos
+de verdade, as mercadorias mais quente, a nata do<E2><80><95>
+Enfim, as coisas novas, kupo.
+!------------------------------!
+MOG
+Avec ce nouveau grade, tu as accès au top du...
+enfin aux nouveautés, kupo !
+!------------------------------!
+MOGRY
+Dein neuer Rang bedeutet, ich kann dir
+die heißeste Ware zeigen, das Beste ...
+Die neuen Sachen, kupo.
+!------------------------------!
+MOGURI
+Con il tuo nuovo grado puoi vedere la mia
+merce migliore, il top del top, il meglio...
+Insomma, un sacco di cose nuove, kupò.
+!------------------------------!
+MOGURI
+Ahora podrás acceder a
+lo más kupó, la crème de...
+Vamos, lo nuevo, kupó.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><95><E3><82><89><E3><81><AB><E6><AD><A6><E5><99><A8><E3><83><91><E3><83><8D><E3><83><AB><E3><81><AE><E5><90><88><E6><88><90><E3><82><82><E3><81><A7><E3><81><8D><E3><82><8B><E3><82><88><E3><81><86><E3><81><AB><E3><81><AA><E3><81><A3><E3><81><9F><E3><82><AF><E3><83><9D><EF><BC><81>
+<E5><90><88><E6><88><90><E3><81><A7><E4><BD><9C><E3><82><8C><E3><82><8B><E6><AD><A6><E5><99><A8><E3><83><91><E3><83><8D><E3><83><AB><E3><81><AF>
+<E8><B2><B7><E3><81><A3><E3><81><9F><E3><82><8A><E5><A0><B1><E9><85><AC><E3><81><A7><E6><89><8B><E3><81><AB><E5><85><A5><E3><82><8C><E3><82><8B><E3><82><82><E3><81><AE><E3><82><88><E3><82><8A><E5><BC><B7><E3><81><84><E3><81><8B><E3><82><89>
+!------------------------------!
+Sem falar que lhe garante o direito 
+de sintetizar painéis de arma, kupo!
+!------------------------------!
+En plus, tu vas aussi pouvoir synthétiser des
+panneaux d'arme, kupo !
+!------------------------------!
+Außerdem hast du jetzt das Recht,
+Waffentafeln zu schmieden, kupo!
+!------------------------------!
+Inoltre, ora puoi elaborare i
+pannelli arma, kupò!
+!------------------------------!
+Y además, ya puedes
+sintetizar paneles de armas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><9C><E3><81><B2><E5><90><88><E6><88><90><E3><82><92>
+<E8><A9><A6><E3><81><97><E3><81><A6><E3><81><BB><E3><81><97><E3><81><84><E3><82><AF><E3><83><9D>
+!------------------------------!
+Você devia tentar, kupo.
+Painéis de armas sintetizados são mais forte 
+do que as compradas ou dadas como prêmio, kupo.
+!------------------------------!
+Essaie, kupo. Les armes synthétisées sont plus
+puissantes que celles achetées ou celles que
+tu reçois en prime, kupo.
+!------------------------------!
+Versuch's mal, kupo.
+Geschmiedete Waffentafeln sind besser
+als gekaufte oder die Belohnungen, kupo.
+!------------------------------!
+Dovresti provarci, kupò. I pannelli arma
+elaborati sono più forti di quelli acquistati
+o ottenuti come ricompensa, kupò!
+!------------------------------!
+Pruébalo, kupó. Los paneles
+sintetizados de armas son
+mejores que los que ganas.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000623C01000000010000000000000007000F00.*
+!******************************!

@@ -1,0 +1,220 @@
+&.[HDR].&
+*.0000040000005E1802000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><B7><E3><83><BC><E3><81><A1><E3><82><83><E3><82><93><E3><81><AF><E5><85><83><E6><B0><97><E3><81><AB><E3><81><AA><E3><81><A3><E3><81><9F><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><AA>
+!------------------------------!
+XIGBAR
+Bom ter a Boneca de volta, né?
+!------------------------------!
+XIGBAR
+Content que la poulette aille mieux, pas vrai ?
+!------------------------------!
+XIGBAR
+Schön, dass Schätzchen zurück ist, was?
+!------------------------------!
+XIGBAR
+Contento che il tesoruccio è tornato, eh?
+!------------------------------!
+XIGBAR
+Parece que Encanto ha vuelto.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000005E1802000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><B7><E3><83><BC><E3><81><A1><E3><82><83><E3><82><93><E3><81><AF><E5><85><83><E6><B0><97><E3><81><AB><E3><81><AA><E3><81><A3><E3><81><9F><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><AA>
+<E3><81><A8><E3><81><93><E3><82><8D><E3><81><A7><E5><9D><8A><E3><82><84><E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><83><96><E3><83><AC><E3><82><A4><E3><82><AF><E3><81><AF><E4><BD><BF><E3><81><A3><E3><81><A6><E3><81><84><E3><82><8B><E3><81><8B><EF><BC><9F>
+!------------------------------!
+XIGBAR
+Parece que a Boneca voltou ao mundo.
+Ei, tá usando Quebras de Limite?
+!------------------------------!
+XIGBAR
+La poulette est remise sur pied. Mais au fait, est-ce
+que tu utilises les surpassements ?
+!------------------------------!
+XIGBAR
+Schätzchen ist zurück, hm?
+Hey, benutzt du Limit-Brecher?
+!------------------------------!
+XIGBAR
+Sembra che il tesoruccio sia tornato.
+Ehi, usi mai i tuoi Limiti?
+!------------------------------!
+XIGBAR
+Parece que Encanto ha vuelto.
+Oye, ¿usas límites?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><83><96><E3><83><AC><E3><82><A4><E3><82><AF><E3><81><A7>30<E4><BD><93><E4><BB><A5><E4><B8><8A><E3><81><AE><E6><95><B5><E3><81><AB>
+<E3><83><88><E3><83><89><E3><83><A1><E3><82><92><E3><81><95><E3><81><97><E3><81><A6><E3><81><8D><E3><81><A6><E3><82><82><E3><82><89><E3><81><8A><E3><81><86><E3><81><8B>
+<E6><B8><88><E3><82><93><E3><81><A0><E3><82><89><E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><82><8D><E3><80><80><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><82><92><E3><82><84><E3><82><8B><E3><81><9E>
+!------------------------------!
+Vai acabar com 30 inimigos ou mais usando 
+Quebra de Limite, e aí dá um pulo aqui. 
+Vou te dar uma coisa legal.
+!------------------------------!
+Achève 30 ennemis ou plus avec un surpassement,
+puis reviens me voir. Je te donnerai un petit cadeau.
+!------------------------------!
+Erledige 30 oder mehr Gegner mit
+einem Limit-Brecher und komm
+zurück. Dann gibt's was Nettes.
+!------------------------------!
+Sconfiggi almeno 30 nemici
+con un Limite e torna da me.
+Ti darò qualcosa di bello.
+!------------------------------!
+Acaba con 30 enemigos o más
+usando límites y luego ven
+a verme. Te daré algo chulo.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><AF><E3><81><9F><E3><81><97><E3><81><A6><E5><9D><8A><E3><82><84><E3><81><AB><E3><81><A7><E3><81><8D><E3><82><8B><E3><81><8B><E3><81><AA><EF><BC><9F>
+!------------------------------!
+Acha que pode fazer, guri?
+!------------------------------!
+Tu t'en sens capable, l'asticot ?
+!------------------------------!
+Schaffst du das,  Kleiner?
+!------------------------------!
+Pensi di farcela, ragazzino?
+!------------------------------!
+¿Crees que podrás, chico?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.0000040000005D1801000F00.*
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><81><84><E3><81><84><E3><81><9E><E3><80><81><E5><9D><8A><E3><82><84>
+<E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><83><96><E3><83><AC><E3><82><A4><E3><82><AF><E3><81><AF><E4><BD><BF><E3><81><84><E3><81><93><E3><81><AA><E3><81><9B><E3><81><A6><E3><81><84><E3><82><8B><E3><81><BF><E3><81><9F><E3><81><84><E3><81><A0><E3><81><AA>
+!------------------------------!
+XIGBAR
+Beleza, guri.
+Parece que está usando Quebra de Limite.
+!------------------------------!
+XIGBAR
+Bien joué, l'asticot. On dirait que tu t'amuses bien
+avec les surpassements.
+!------------------------------!
+XIGBAR
+Nicht schlecht, Kleiner. Du setzt
+den Limit-Brecher ein.
+!------------------------------!
+XIGBAR
+Ben fatto, pivello. Vedo che
+sai usare il tuo Limite.
+!------------------------------!
+XIGBAR
+Bien hecho, tigre. Veo que
+has usado bien tus límites.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><8A><E3><81><BE><E3><81><88><E3><81><AB><E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><82><92><E7><94><A8><E6><84><8F><E3><81><99><E3><82><8B><E3><82><88><E3><81><86>
+<E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><E3><81><AB><E4><BC><9D><E3><81><88><E3><81><A6><E3><81><8A><E3><81><93><E3><81><86>
+!------------------------------!
+Vou dar uma palavrinha com o Saïx
+pra te dar uma nova missão.
+!------------------------------!
+Je vais parler à Saïx pour qu'il te confie une
+nouvelle mission.
+!------------------------------!
+Ich rede mal mit Saïx.
+Dann kriegst du eine neue Mission.
+!------------------------------!
+Metterò una buona parola con
+Saïx, così ti affiderà una
+nuova missione.
+!------------------------------!
+Hablaré con Saïx para que
+te asigne una nueva misión.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E3><81><97><E3><81><A3><E3><81><8B><E3><82><8A><E3><82><84><E3><82><8C><E3><82><88><EF><BC><81>
+!------------------------------!
+Continue assim!
+!------------------------------!
+Continue comme ça !
+!------------------------------!
+Weiter so!
+!------------------------------!
+Continua così!
+!------------------------------!
+¡Sigue así, chico!
+!------------------------------!
+!******************************!
+&.[EVT].&
+<E6><96><B0><E3><81><97><E3><81><84><E4><BB><BB><E5><8B><99><E3><81><8C><E8><BF><BD><E5><8A><A0><E3><81><95><E3><82><8C><E3><81><9F>
+!------------------------------!
+Uma nova missão está agora disponível!
+!------------------------------!
+Une nouvelle mission est désormais disponible !
+!------------------------------!
+Eine neue Mission ist verfügbar!
+!------------------------------!
+È disponibile una nuova missione!
+!------------------------------!
+¡Nueva misión disponible!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B7><E3><82><B0><E3><83><90><E3><83><BC><E3><83><AB><EF><BC><9E>
+<E3><83><AA><E3><83><9F><E3><83><83><E3><83><88><E3><83><96><E3><83><AC><E3><82><A4><E3><82><AF><E3><81><A7><E6><95><B5><E3><81><AB><E3><83><88><E3><83><89><E3><83><A1><E3><82><92><E3><81><95><E3><81><99><E2><80><A6>
+<E3><81><A9><E3><81><86><E3><81><A0><EF><BC><9F><E3><80><80><E3><82><AF><E3><83><AA><E3><82><A2><E3><81><A7><E3><81><8D><E3><81><9D><E3><81><86><E3><81><8B><EF><BC><9F>
+!------------------------------!
+XIGBAR
+Tu só tem que acabar com uns inimigos
+usando Quebra de Limite. Mole, mole.
+!------------------------------!
+XIGBAR
+Tout ce que t'as à faire, c'est achever quelques
+ennemis avec un surpassement. Facile !
+!------------------------------!
+XIGBAR
+Du musst bloß ein paar Gegner per Limit-
+Brecher plätten. Leichtigkeit!
+!------------------------------!
+XIGBAR
+Non devi fare altro che finire qualche nemico
+con un Limite. Facile, no?
+!------------------------------!
+XIGBAR
+Solo tienes que acabar con
+ellos usando un límite.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+<E4><BB><8A><E3><81><AE><E3><81><A8><E3><81><93><E3><82><8D>%d<E4><BD><93><E3><81><8B><E2><80><A6>30<E4><BD><93><E4><BB><A5><E4><B8><8A><E5><80><92><E3><81><97><E3><81><9F><E3><82><89>
+<E4><BF><BA><E3><81><AB><E5><A0><B1><E5><91><8A><E3><81><97><E3><81><AB><E3><81><93><E3><81><84><E3><80><80><E3><81><94><E3><81><BB><E3><81><86><E3><81><B3><E3><82><92><E3><82><84><E3><82><8B><E3><81><9E>
+!------------------------------!
+Até agora sua marca é de %d.
+Volte quando tiver marcado 
+30 que te dou um prêmio.
+!------------------------------!
+Pour l'instant, tu en es à %d.
+Reviens quand tu seras à 30.
+Je te récompenserai.
+!------------------------------!
+Im Moment hast du %d.
+Komm wieder, wenn es 30 sind.
+Dann gibt's 'ne Belohnung.
+!------------------------------!
+Ora sei a quota %d.
+Torna quando arrivi a 30.
+Non te ne pentirai...
+!------------------------------!
+Hasta ahora llevas %d.
+Vuelve cuando sean 30
+y te daré un regalo.
+!------------------------------!
+!******************************!

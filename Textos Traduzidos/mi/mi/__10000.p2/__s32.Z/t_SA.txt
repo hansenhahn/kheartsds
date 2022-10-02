@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E6><96><B0><E3><81><97><E3><81><84><E4><B8><96><E7><95><8C><E3><81><A7><E3><81><AE><E4><BB><BB><E5><8B><99><E3><81><8C><E3><81><82><E3><82><8B>
+<E6><BA><96><E5><82><99><E3><82><92><E6><80><A0><E3><82><8B><E3><81><AA><E3><82><88>
+!------------------------------!
+SAÏX
+Uma das missões que tenho para você requer
+que visite um novo mundo. Vá preparado.
+!------------------------------!
+SAÏX
+Pour l'une des missions d'aujourd'hui, tu vas aller
+dans un nouveau monde. Prépare-toi bien avant.
+!------------------------------!
+SAÏX
+Die nächste Mission führt dich in eine
+neue Welt. Bereite dich gut vor.
+!------------------------------!
+SAÏX
+Una delle missioni che ho per te richiede
+di visitare un nuovo mondo. Preparati.
+!------------------------------!
+SAÏX
+En una de las misiones visitarás
+un nuevo mundo. Ve preparado.
+!------------------------------!
+!******************************!

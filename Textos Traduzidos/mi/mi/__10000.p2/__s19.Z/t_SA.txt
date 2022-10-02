@@ -1,0 +1,26 @@
+&.[DSA].Normal.&
+<EF><BC><9C><E3><82><B5><E3><82><A4><E3><82><AF><E3><82><B9><EF><BC><9E>
+<E4><BB><8A><E6><97><A5><E3><81><AF><E6><96><B0><E3><81><97><E3><81><84><E4><B8><96><E7><95><8C><E3><81><AE>
+<E4><BB><BB><E5><8B><99><E3><81><AB><E8><A1><8C><E3><81><A3><E3><81><A6><E3><82><82><E3><82><89><E3><81><86>
+!------------------------------!
+SAÏX
+Quero que você visite um novo
+mundo para sua missão de hoje.
+!------------------------------!
+SAÏX
+Tu pars en mission dans un nouveau monde
+aujourd'hui.
+!------------------------------!
+SAÏX
+Bei deiner heutigen Mission wirst du
+eine neue Welt besuchen.
+!------------------------------!
+SAÏX
+Nella missione di oggi dovrai
+visitare un nuovo mondo.
+!------------------------------!
+SAÏX
+En la misión de hoy vas
+a visitar un mundo nuevo.
+!------------------------------!
+!******************************!
