@@ -138,6 +138,14 @@ def unpackD2KP( f, dst2 ):
         entries = struct.unpack( "<L", f.read(4) )[0]
         ptrs2 = struct.unpack( "<%dL" % entries, f.read( entries * 4 ) ) # Lê a tabela de ponteiros
         sizes = struct.unpack( "<%dL" % entries, f.read( entries * 4 ) ) # Lê a tabela de ponteiros
+        
+        assets = {  "NCLR":[],
+                    "NCGR":[],
+                    "NSCR":[],
+                    "NCER":[],
+                    "NANR":[]        
+        }
+        
         for i, p2 in enumerate(ptrs2):
             f.seek(p2)
             data = f.read(sizes[i])
@@ -145,33 +153,28 @@ def unpackD2KP( f, dst2 ):
 
             if stamp == "RLCN": # Paleta de cores
                 print ">> Extracting NCLR"
-                with open( os.path.join( dst2, "%04d.nclr" % i ), "wb" ) as fd:
-                    fd.write( data)
-                
+                assets["NCLR"].append(data)
+
             elif stamp == "RGCN": # Tileset
                 print ">> Extracting NCGR"
-                with open( os.path.join( dst2, "%04d.ncgr" % i ), "wb" ) as fd:
-                    fd.write( data)                
+                assets["NCGR"].append(data)                
                 
             elif stamp == "RCSN": # Tilemap
                 print ">> Extracting NSCR"
-                with open( os.path.join( dst2, "%04d.nscr" % i ), "wb" ) as fd:
-                    fd.write( data)   
+                assets["NSCR"].append(data)   
                     
             elif stamp == "RECN":
                 print ">> Extracting NCER"
-                with open( os.path.join( dst2, "%04d.ncer" % i ), "wb" ) as fd:
-                    fd.write( data)   
+                assets["NCER"].append(data)  
                     
             elif stamp == "RNAN":
                 print ">> Extracting NANR"
-                with open( os.path.join( dst2, "%04d.nanr" % i ), "wb" ) as fd:
-                    fd.write( data)  
+                assets["NANR"].append(data)  
                     
             else:
                 print ">> Missing " + stamp
                 
-        #raw_input()
+        unpackBackground( f, dst2, nclr, nscr, ncgr ): 
 
         
 def unpack( src, dst ):    

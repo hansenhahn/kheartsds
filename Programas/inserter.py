@@ -11,6 +11,7 @@ import tempfile
 import codecs
 import glob
 import mmap
+import binascii
 
 from libs import compression, parser
 from libs.pytable import normal_table
@@ -66,6 +67,8 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         
         head, tail = os.path.split(dir)
         tail = tail.replace("__", "")
+        if extension == "":
+            tail = tail.split('.')[0]
         
         output = open(os.path.join(outdir, head, tail) + extension, 'wb')
         output.write('P2')
@@ -140,110 +143,232 @@ def pack_CAKP(root = '../Textos PT-BR/CAKP', outdir = '../Arquivos PT-BR/Unpacke
     table.set_mode('inverted')
     # Funcionando Perfeitamente
 
-    for _dir in os.listdir(root):
-    
-        _out = os.path.join( outdir, _dir)
-        dir = os.path.join(root, _dir)
-        
-        if not os.path.isdir(_out):
-            os.mkdir(_out)
-        
-        for _folder in os.listdir(dir):
-            folder = os.path.join(dir, _folder)
-            
-            if os.path.isdir(folder):
-                
-                for f in os.listdir(folder):
-                    if f != 'make.txt':
-                        a = re.match(r'^(.+?)\.txt$', f)
-                        if a:
-                            with open(os.path.join(folder, f), 'r') as input:
-                                output = open(os.path.join(folder, a.groups()[0]), 'r+b')
-                                parser.generic_inserter_1(input, output, table)
-                                output.close()
-                        else:
-                            pass
-            
-                nametable = []
-                
-                if not os.path.isdir( folder ):
-                    continue
-                
-                with open(os.path.join(folder, 'make.txt'), 'r') as makefile:
-                    for file in makefile.readlines():
-                        nametable.append(file.strip('\r\n'))
-                
-                files = []
-                for name in nametable:
-                    with open(os.path.join(folder, name), 'rb') as file:
-                        print os.path.join(folder, name)
-                        
-                        files.append(file.read())
-                
-                print "Empacotando %s." % folder
-                #raw_input()
-                        
-                pst = 0x34
-                pst += 4 * (2*len(files) + 1)
-                while pst % 0x20 != 0: pst += 1
-                
-                fat_start = pst
-                
-                pst += 2 * (len(nametable) + 1)
-                names = []
-                init = 2 * (len(nametable) + 1)
-                for name in nametable:
-                    names.append(init)
-                    init += len(name) + 1
-                    pst += len(name) + 1
-                                
-                while pst % 0x20 != 0: pst += 1
-                
-                sizes = []
-                addresses = []
-                for file in files:
-                    sizes.append(len(file))
-                    addresses.append(pst)
-                    pst += len(file)
-                    while pst % 0x20 != 0: pst += 1
-                
-                with open(os.path.join(_out, _folder), 'wb') as f:
-                    f.write('CAKP')
-                    f.write('\x00\x00\x00\x00')
-                    f.write(struct.pack('<L', 0x28))
-                    f.write(struct.pack('<L', 0x34))
-                    f.write('\xFF\xFF\xFF\xFF' * 6)
-                    f.write(struct.pack('<L', 0x01))
-                    f.write(struct.pack('<L', fat_start))
-                    
-                    f.write(struct.pack('<L', init))
-                    
-                    f.write(struct.pack('<L', len(files)))
-                    # Escreve os endereços
-                    for address in addresses:
-                        f.write(struct.pack('<L', address))
-                    # Escreve os tamanhos
-                    for size in sizes:
-                        f.write(struct.pack('<L', size))
-                        
-                    f.seek(fat_start, 0)
-                    f.write(struct.pack('<H', len(names)))
-                    # Escreve os endereços fnt
-                    for addr in names:
-                        f.write(struct.pack('<H', addr))
-                    # Escreve os nomes dos arquivos
-                    for name in nametable:
-                        f.write('%s\x00' % name)
-                    while f.tell() % 0x20 != 0: f.seek(1, 1)
-                    
-                    # Escreve os arquivos
-                    for file in files:
-                        f.write(file)
-                        while f.tell() % 0x20 != 0: f.seek(1, 1)
+    if os.path.isdir(root):
+        files = filter(lambda x: re.match(r'^(.+?)\.txt$', x), scandirs(root))
+        #files = filter(lambda x: re.match(r'^(.+?)lbcmn\.txt$', x), scandirs(root))
+    else:
+        files = [root,]
 
-            else:
-                print "Copiando %s" % folder
-                shutil.copy(folder, os.path.join(_out, _folder))
+    for _, fname in enumerate(files):   
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")    
+            print filepath
+            output = open( filepath, "r+b")
+            parser.generic_inserter_1(input, output, table)
+            output.close()   
+            
+    for _dir in os.listdir(outdir):        
+        if not _dir.startswith("__"):
+            continue
+            
+        #try:
+        print os.path.join(outdir, _dir, 'Makefile')
+        with open(os.path.join(outdir, _dir, 'Makefile'), 'r') as makefile:
+                nametable = makefile.readlines()
+        #except:
+        #    continue
+            
+        _, origin = nametable.pop(0).strip('\r\n').split(':')
+        entries = len(nametable)
+        
+        name_info = []
+        files = []
+        for file_name in nametable:
+            file_name = file_name.strip('\r\n')
+            
+            a = re.match(r'^(.+?);(.+?);(.+?)$', file_name)
+            name, comp, size = a.groups()
+            name_info.append(name)
+            with open(os.path.join(outdir, _dir, name), 'rb') as file:
+                print os.path.join(outdir, _dir, name)
+                files.append(file.read())
+                
+        print "Empacotando %s." % origin
+        #raw_input()
+                
+        pst = 0x34
+        pst += 4 * (2*len(files) + 1)
+        while pst % 0x20 != 0: pst += 1
+        
+        fat_start = pst
+        
+        pst += 2 * (len(name_info) + 1)
+        names = []
+        init = 2 * (len(name_info) + 1)
+        for name in name_info:
+            names.append(init)
+            init += len(name) + 1
+            pst += len(name) + 1
+                        
+        while pst % 0x20 != 0: pst += 1
+        
+        sizes = []
+        addresses = []
+        for file in files:
+            sizes.append(len(file))
+            addresses.append(pst)
+            pst += len(file)
+            while pst % 0x20 != 0: pst += 1
+        
+        with open(os.path.join(outdir, origin), 'wb') as f:
+            f.write('CAKP')
+            f.write('\x00\x00\x00\x00')
+            f.write(struct.pack('<L', 0x28))
+            f.write(struct.pack('<L', 0x34))
+            f.write('\xFF\xFF\xFF\xFF' * 6)
+            f.write(struct.pack('<L', 0x01))
+            f.write(struct.pack('<L', fat_start))
+            
+            f.write(struct.pack('<L', init))
+            
+            f.write(struct.pack('<L', len(files)))
+            # Escreve os endereços
+            for address in addresses:
+                f.write(struct.pack('<L', address))
+            # Escreve os tamanhos
+            for size in sizes:
+                f.write(struct.pack('<L', size))
+                
+            f.seek(fat_start, 0)
+            f.write(struct.pack('<H', len(names)))
+            # Escreve os endereços fnt
+            for addr in names:
+                f.write(struct.pack('<H', addr))
+            # Escreve os nomes dos arquivos
+            for name in name_info:       
+                f.write('%s\x00' % name)
+            while f.tell() % 0x20 != 0: f.seek(1, 1)
+            
+            # Escreve os arquivos
+            for file in files:
+                f.write(file)
+                while f.tell() % 0x20 != 0: f.seek(1, 1)
+                
+           
+            #while f.tell() % 0x100 != 0: f.write("\x00")
+
+            
+        
+        
+        
+        # for name in nametable:
+            # with open(os.path.join(folder, name), 'rb') as file:
+                # print os.path.join(folder, name)
+                
+                # files.append(file.read())
+            
+            
+            
+
+    # for _dir in os.listdir(root):
+        # print _dir
+        # _out = os.path.join( outdir, _dir)
+        # dir = os.path.join(root, _dir)
+        
+        # if not os.path.isdir(_out):
+            # os.mkdir(_out)
+        
+        # for _folder in os.listdir(dir):
+            # folder = os.path.join(dir, _folder)
+            
+            # print folder
+            # if os.path.isdir(folder):
+                
+                # for f in os.listdir(folder):
+                    # if f != 'make.txt':
+                        # a = re.match(r'^(.+?)\.txt$', f)
+                        # if a:
+                            # with open(os.path.join(folder, f), 'r') as input:
+                                # output = open(os.path.join(folder, a.groups()[0]), 'r+b')
+                                # parser.generic_inserter_1(input, output, table)
+                                # output.close()
+                        # else:
+                            # pass
+            
+                # continue
+                # nametable = []
+                
+                # if not os.path.isdir( folder ):
+                    # continue
+                
+                # with open(os.path.join(folder, 'make.txt'), 'r') as makefile:
+                    # for file in makefile.readlines():
+                        # nametable.append(file.strip('\r\n'))
+                
+                # files = []
+                # for name in nametable:
+                    # with open(os.path.join(folder, name), 'rb') as file:
+                        # print os.path.join(folder, name)
+                        
+                        # files.append(file.read())
+                
+                # print "Empacotando %s." % folder
+                # #raw_input()
+                        
+                # pst = 0x34
+                # pst += 4 * (2*len(files) + 1)
+                # while pst % 0x20 != 0: pst += 1
+                
+                # fat_start = pst
+                
+                # pst += 2 * (len(nametable) + 1)
+                # names = []
+                # init = 2 * (len(nametable) + 1)
+                # for name in nametable:
+                    # names.append(init)
+                    # init += len(name) + 1
+                    # pst += len(name) + 1
+                                
+                # while pst % 0x20 != 0: pst += 1
+                
+                # sizes = []
+                # addresses = []
+                # for file in files:
+                    # sizes.append(len(file))
+                    # addresses.append(pst)
+                    # pst += len(file)
+                    # while pst % 0x20 != 0: pst += 1
+                
+                # with open(os.path.join(_out, _folder), 'wb') as f:
+                    # f.write('CAKP')
+                    # f.write('\x00\x00\x00\x00')
+                    # f.write(struct.pack('<L', 0x28))
+                    # f.write(struct.pack('<L', 0x34))
+                    # f.write('\xFF\xFF\xFF\xFF' * 6)
+                    # f.write(struct.pack('<L', 0x01))
+                    # f.write(struct.pack('<L', fat_start))
+                    
+                    # f.write(struct.pack('<L', init))
+                    
+                    # f.write(struct.pack('<L', len(files)))
+                    # # Escreve os endereços
+                    # for address in addresses:
+                        # f.write(struct.pack('<L', address))
+                    # # Escreve os tamanhos
+                    # for size in sizes:
+                        # f.write(struct.pack('<L', size))
+                        
+                    # f.seek(fat_start, 0)
+                    # f.write(struct.pack('<H', len(names)))
+                    # # Escreve os endereços fnt
+                    # for addr in names:
+                        # f.write(struct.pack('<H', addr))
+                    # # Escreve os nomes dos arquivos
+                    # for name in nametable:
+                        # f.write('%s\x00' % name)
+                    # while f.tell() % 0x20 != 0: f.seek(1, 1)
+                    
+                    # # Escreve os arquivos
+                    # for file in files:
+                        # f.write(file)
+                        # while f.tell() % 0x20 != 0: f.seek(1, 1)
+
+            # else:
+                # print "Copiando %s" % folder
+                #shutil.copy(folder, os.path.join(_out, _folder))
                 
 def pack_GNRC(root = '../Textos PT-BR/P2',
               outdir = '../Arquivos PT-BR/Unpacked P2',
@@ -258,7 +383,7 @@ def pack_GNRC(root = '../Textos PT-BR/P2',
         files = filter(lambda x: re.match(r'^(.+?)\.txt$', x), scandirs(root))
     else:
         files = [root,]
-    print root
+
     for _, fname in enumerate(files):
         
         path = fname[len(root):]
@@ -292,7 +417,72 @@ def pack_GNRC(root = '../Textos PT-BR/P2',
                     # parser.generic_inserter_1(input, output, table)
                     # output.close()
             # else:
-                # pass                
+                # pass
+
+def pack_map(root, outdir):
+
+    if os.path.isdir(root):
+        files = filter(lambda x: x.__contains__('map_'), scandirs(root))
+    else:
+        files = [root]
+        root = os.path.dirname(root)
+                
+    for _, fname in enumerate(scandirs(root)):
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        
+        if not os.path.basename(path).startswith('map'):
+            continue   
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)  
+            
+        print "Comprimindo %s." % fname
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+            output = open( filepath, "wb")
+            buffer = []
+            block = array.array('c')
+            for line in input:
+                line = line.strip('\r\n')
+                line = line.decode('utf-8').encode('windows-1252')
+                if line == '!******************************!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')
+                    if (len(block)+2) % 4 != 0:
+                        block.extend('\x00\x00')
+                    
+                    buffer.append(block)
+                    print block
+                    block = array.array('c')
+                elif line.startswith('[') and line.endswith(']'):
+                    block.extend(binascii.unhexlify(line[1:-1]))
+                
+                else:
+                    splited = re.split(TAG_CH, line)
+                    for data in splited:
+                        tag = re.match(TAG_CH2, data)
+                        if tag:
+                            tag = tag.groups()[0]
+                            if tag in table:
+                                block.extend(table[tag][::-1])
+                            else:
+                                block.extend(struct.pack("<H", int(tag[1:-1],16)))
+                        else:
+                            for c in data:
+                                block.extend(c+"\x00")
+                    block.extend('\x0a\x00')
+                    
+            for block in buffer:
+                output.write(struct.pack('<L', len(block)+6))
+                output.write(struct.pack('<H', 0x18))
+                block.tofile(output)
+            
+            output.write("\xff\xff")
+            output.close()
+
+            
                 
 def pack_Z( root = '../Textos PT-BR/P2',
             outdir = '../Arquivos PT-BR/Unpacked P2'):
@@ -361,6 +551,7 @@ def pack_S(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'
                             for c in data:
                                 block.extend(c+"\x00")
                     block.extend('\x0a\x00')
+
                     
             output.write(struct.pack("<L", 8))
             output.write(struct.pack('<L', len(buffer)))
@@ -370,150 +561,6 @@ def pack_S(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'
             
             output.close()
 
-        
-# def insert_P2(root = 'Textos PT-BR/P2'):
-
-    # for _dir in os.listdir(root):
-    
-        # base = os.path.join('Arquivos/Unpacked P2', _dir)
-        # out = os.path.join('Arquivos PT-BR/Unpacked P2', _dir)
-        # dir = os.path.join(root, _dir)        
-        
-        # if not os.path.isdir(out):
-            # os.mkdir(out)
-        
-        # for file_name in os.listdir(dir):
-            # input = open(os.path.join(dir, file_name), 'r')
-    
-            # texts = []
-            # files = []
-            # structs = []
-            
-            # for line in input:
-                # line = line.strip('\r\n')
-                # line = line.replace('\xef\xbb\xbf','')
-                # if re.match(END, line):
-                    # pass
-                # elif re.match(TAG_MV, line):
-                    # a = re.match(TAG_MV, line)
-                    # files.append(a.groups()[0]+'\x00')
-                # elif re.match(TAG_NM, line):
-                    # a = re.match(TAG_NM, line)
-                    # string = ""
-                    # for x in range(len(a.groups()[0])/2):
-                        # string += chr(int(a.groups()[0][2*x:(2*x)+2], 16))
-                    # string += '\x0f'
-                    # structs.append(string)
-                # else:
-                    # splited = re.split(TAG_CH, line)
-                    # string = ""
-                    # for data in splited:
-                        # tag = re.match(TAG_CH2, data)
-                        # if not tag:
-                            # string += data
-                        # else:
-                            # tag = tag.groups()[0]
-                            # string += chr(int(tag, 16))
-                    # string += '\x00'
-                    # texts.append(string)
-
-            # input.close()
-                        
-            # pointers_files = []
-            # pointers_texts = []
-            # pointers_structs = []
-            
-            # Arquivo de saída
-            # name = file_name.split('.')[0]
-            
-            # file = open(os.path.join(out, name), 'wb')
-            # input = open(os.path.join(base, name), 'rb')
-    
-            # base_address = struct.unpack('<L', input.read(4))[0]
-
-            # file.seek(base_address, 0)
-            # for x in range(len(files)):
-                # pointers_files.append(file.tell() - base_address)
-                # file.write(files[x])
-                # while file.tell() % 4 != 0: file.write('\x00')
-                
-            # for x in range(len(texts)):
-                # pointers_texts.append(file.tell() - base_address)
-                # file.write(texts[x])
-                # while file.tell() % 4 != 0: file.write('\x00')
-            
-            # for x in range(len(structs)):
-                # pointers_structs.append(file.tell() - base_address)
-                # file.write(structs[x])
-                # while file.tell() % 4 != 0: file.write('\x00')
-            
-            # file.seek(0,0)
-            # file.write(struct.pack('<L', base_address))
-            
-            # while True:
-                # flag = input.read(2)
-                # size = struct.unpack('<H', input.read(2))[0] & 0xFF
-                # if flag == '\x00\x03':
-                    # file.write(flag)
-                    # file.write(struct.pack('<H', size))
-                    # break
-                # elif flag == '\x03\x02':
-                    # file.write(flag)
-                    # file.write(struct.pack('<H', size))
-                    # for x in range(3):
-                        # file.write(input.read(4))
-                        # input.read(4)         
-                        # file.write(struct.pack('<L', pointers_files.pop(0)))
-                # elif flag == '\x03\x01':
-                    # file.write(flag)
-                    # file.write(struct.pack('<H', size))   
-                    # file.write(input.read(4))
-                    # file.write(struct.pack('<L', pointers_texts.pop(0)))
-                    # input.read(4)
-                # elif flag == '\x00\x05':
-                    # file.write(flag)
-                    # file.write(struct.pack('<H', size))
-
-                    # file.write(struct.pack('<L', pointers_structs.pop(0)))
-                    # input.read(4)
-                    # file.write(input.read(4))                 
-                # else:
-                    # file.write(flag)
-                    # file.write(struct.pack('<H', size))
-
-                    # for x in range(size-1):
-                        # file.write(input.read(4))
-
-
-            # input.close()
-            # file.close()
-    
-    # file = open('m_000.bin', 'rb')    
-    
-    
-    # with open('out.bin', 'wb') as f:
-        # buffer = compression.onz.compress(file)
-        # buffer.tofile(f)
-    
-    # file.close()
-                
-     
-# if __name__ == '__main__':
-    # # insert_P2()
-    # # pack_P2()
-    # #insert_S()
-    
-# # Para gerar os arquivos dos diálogos sem avatar
-    # pack_CAKP(root = "../Textos Traduzidos/mi/mi")
-    # pack_P2(root = '../Arquivos PT-BR/Unpacked CAKP', outdir = '../Arquivos PT-BR/CAKP', extension = '', has_fnt = True)
-    
-# # # Para gerar os arquivos dos diálogos com avatar
-    # pack_GNRC(root = "../Textos Traduzidos/ev")
-    # # # Os arquivos m tem fnt
-    # #pack_P2(root = '../Arquivos PT-BR/Unpacked P2', outdir = 'Arquivos PT-BR/P2', extension = '.p2', has_fnt = True)
-    # # # OS demais arquivos não
-    # pack_P2(root = '../Arquivos PT-BR/Unpacked P2', outdir = '../Arquivos PT-BR/P2', extension = '.p2', has_fnt = False)
-    # sys.exit(0)
      
 if __name__ == '__main__':
     import argparse
@@ -536,8 +583,13 @@ if __name__ == '__main__':
     
     if args.mode == "cakp":
         print "Packing CAKP text"
-        pack_CAKP(root = args.src , outdir = args.src1 )
-        pack_P2(root = args.src1, outdir = args.dst, extension = args.ext, has_fnt = args.has_fnt)
+        pack_CAKP(root = args.src , outdir = args.dst )
+        #pack_P2(root = args.src1, outdir = args.dst, extension = args.ext, has_fnt = args.has_fnt)
+        
+    elif args.mode == ".map":
+        print "Packing map text"
+        pack_map(args.src , args.dst)  
+        
     elif args.mode == "gnrc": 
         print "Packing GNRC text"
         pack_GNRC(root = args.src , outdir = args.src1 )

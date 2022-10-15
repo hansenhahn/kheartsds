@@ -11,6 +11,7 @@ import mmap
 import shutil
 import re
 import binascii
+import tl_img
 
 #from pytable import normal_table
 from libs import compression, parser, normal_table
@@ -569,32 +570,33 @@ def unpack_db( src, dst ):
             
             output.close()
 
-def unpack_D2KP( root, outdir ):
-
-    files = scandirs(root)      
+import formats
+def unpack_D2KP( root, outdir, img, img_args ):
+    
+    if os.path.isdir(root):
+        files = scandirs(root)
+    else:
+        files = [root]
+        root = os.path.dirname(root)    
+    
     for _, fname in enumerate(files):
         
-        with open(fname, 'rb') as f:          
-            print "Extraindo PK2D %s." %fname   
-    
-            f.seek( 0 )
-            if f.read(4) != "D2KP":
-                continue
-                
-            head, tail  = os.path.split(fname)        
+        with open(fname, 'rb') as f:
+            print ">> Extracting PK2D"
             
-            path = fname[len(root):]
-            fdirs = outdir + path[:-len(os.path.basename(path))] + tail
-            if not os.path.isdir(fdirs):
-                os.makedirs(fdirs)                   
+            f.seek( 0 )
+            assert f.read(4) == "D2KP"
             
             f.read(4) # Dummy
             ptrs = struct.unpack( "<8L", f.read( 8 * 4 ) ) # Lê a tabela de ponteiros
             
-            palettes = []
-            tiles = []
-            maps = []
-            
+            assets = {  "NCLR":[],
+                        "NCGR":[],
+                        "NSCR":[],
+                        "NCER":[],
+                        "NANR":[]        
+            }            
+
             for k, p in enumerate(ptrs):
                 if p == 0xffffffff: # -1
                     continue
@@ -603,38 +605,43 @@ def unpack_D2KP( root, outdir ):
                 entries = struct.unpack( "<L", f.read(4) )[0]
                 ptrs2 = struct.unpack( "<%dL" % entries, f.read( entries * 4 ) ) # Lê a tabela de ponteiros
                 sizes = struct.unpack( "<%dL" % entries, f.read( entries * 4 ) ) # Lê a tabela de ponteiros
+                
+
+                
                 for i, p2 in enumerate(ptrs2):
                     f.seek(p2)
                     data = f.read(sizes[i])
                     stamp = data[0:4]
+                    f.seek(p2)
 
                     if stamp == "RLCN": # Paleta de cores
                         print ">> Extracting NCLR"
-                        with open( os.path.join( fdirs, "%04d.nclr" % i ), "wb" ) as fd:
-                            fd.write( data)
-                        
+                        assets["NCLR"].append(formats.NCLRFormat(f))
+
                     elif stamp == "RGCN": # Tileset
                         print ">> Extracting NCGR"
-                        with open( os.path.join( fdirs, "%04d.ncgr" % i ), "wb" ) as fd:
-                            fd.write( data)                
+                        assets["NCGR"].append(formats.NCGRFormat(f))                
                         
                     elif stamp == "RCSN": # Tilemap
                         print ">> Extracting NSCR"
-                        with open( os.path.join( fdirs, "%04d.nscr" % i ), "wb" ) as fd:
-                            fd.write( data)   
+                        assets["NSCR"].append(formats.NSCRFormat(f))   
                             
                     elif stamp == "RECN":
                         print ">> Extracting NCER"
-                        with open( os.path.join( fdirs, "%04d.ncer" % i ), "wb" ) as fd:
-                            fd.write( data)   
+                        assets["NCER"].append(formats.NCERFormat(f)) 
                             
                     elif stamp == "RNAN":
                         print ">> Extracting NANR"
-                        with open( os.path.join( fdirs, "%04d.nanr" % i ), "wb" ) as fd:
-                            fd.write( data)  
+                        assets["NANR"].append(data)  
                             
                     else:
-                        print ">> Missing " + stamp            
+                        print ">> Missing " + stamp
+                
+            print assets
+            if img == "bg":
+                tl_img.unpackBackground(assets["NCLR"][img_args[0]], assets["NSCR"][img_args[1]], assets["NCGR"][img_args[2]], outdir)
+            elif img == "ani":
+                tl_img.unpackAnimation(assets["NCLR"][img_args[0]], assets["NCER"][img_args[1]], assets["NCGR"][img_args[2]], outdir)
             
 if __name__ == '__main__':
     import argparse
@@ -651,7 +658,8 @@ if __name__ == '__main__':
     aparser.add_argument( '-d', dest = "dst", type = str, nargs = "?", required = True )
     aparser.add_argument( '-ext' , dest = "ext", type = str, nargs = "?", required = False, default = "" )
     aparser.add_argument( '-fnt' , dest = "has_fnt", action = "store_true" )
-    aparser.add_argument( '--ignore_p2' , dest = "ignore_p2", action = "store_true" )
+    aparser.add_argument( '-img' , dest = "img", type=str, required = False )
+    aparser.add_argument( '-img-args' , dest = "img_args", type=int, nargs= "+", required = False )
     
     args = aparser.parse_args()
     
@@ -682,8 +690,9 @@ if __name__ == '__main__':
         
     elif args.mode == ".pk2d.z":
         print "Unpacking .pk2d.z text"
-        unpack_Z(root = args.src , outdir = args.src1 )
-        unpack_D2KP(root = args.src1 , outdir = args.dst )
+        if args.src:
+            unpack_Z(root = args.src , outdir = args.src1 )
+        unpack_D2KP(args.src1 , args.dst, args.img, args.img_args)
         
     elif args.mode == ".db":
         print "Unpacking db text"
@@ -693,20 +702,8 @@ if __name__ == '__main__':
         print "Unpacking map text"
         unpack_map(src = args.src , dst = args.dst)    
         
-    elif args.mode == ".dat":
+    elif args.mode == ".dat.z":
         print "Unpacking dat text"
         unpack_dat(root = args.src , outdir = args.dst) 
                         
-# if __name__ == '__main__':
-# # Extrair os diálogos com avatar
-    # #unpack_P2('../ROM Original/xpa-khe/data/op', '../Desempacotados Originais/op')   
-    # #unpack_P2('Arquivos/CAKP','Arquivos/Unpacked CAKP')
-    
-    # #extract_P2('../Desempacotados Originais/op')
-    # #extract_CAKP('../Arquivos Originais/ev')
-    # #extract_S()
-    
-    # extract_s( '../Arquivos Traduzidos/UI/cm/str' , '../Textos Originaisss/UI/cm/str' )
-    
-    # #unpack_DB( '../Arquivos Originais/db_en', '../Textos Originais/db_en')
 

@@ -788,15 +788,16 @@ def generic_inserter_1(input, output, table):
                 
         elif flag == '\x13\x00':
             data = _dict['\x13\x00'].pop(0)
-            
+            #print data
             addrRet = output.tell()
             
             output.seek(data_ptr, 0)
 
             ptr = []
             for y in range(6):
-                string = data[x].pop(0)
+                string = data[y]#.pop(0)
                 if string:
+                    #print string
                     output.write(string)
                     output.write('\x00')
                     ptr.append(data_ptr - base_address)

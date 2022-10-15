@@ -6,10 +6,7 @@ echo Calling dumper.py to unpack texts
 
 rem ----- Arquivos que estão empacotados em containers p2
 rem Unpack file p2
-rem pypy dumper.py -m ".p2" -s "../ROM Original/xpa-khe/data"  -d "../Arquivos Originais"
-
-pypy dumper.py -m ".dat" -s "../Arquivos Originais/UI/btlttr" -d "../Textos Originais/UI/btlttr"
-exit /b
+pypy dumper.py -m ".p2" -s "../ROM Original/xpa-khe/data"  -d "../Arquivos Originais"
 
 rem Unpack dos locais
 pypy dumper.py -m ".map" -s "../Arquivos Originais/UI/btl/en/__map.p2" -d "../Textos Originais/UI/btl/en/__map.p2"
@@ -150,6 +147,10 @@ pypy dumper.py -m "cakp" -s1 "../Arquivos Originais/mi/mi/__10001.p2" -d "../Tex
 rem ----- Arquivos que não estão empacotados em containers p2
 rem Unpack file z
 pypy dumper.py -m ".z" -s "../ROM Original/xpa-khe/data"  -d "../Arquivos Originais"
+
+rem Unpack tutoriais
+pypy dumper.py -m ".dat.z" -s "../Arquivos Originais/UI/btlttr" -d "../Textos Originais/UI/btlttr"
+
 rem Unpack dos scripts da legenda
 pypy dumper.py -m ".noext.z" -s1 "../Arquivos Originais/op/scr.z" -d "../Textos Originais/op"
 
