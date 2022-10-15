@@ -65,12 +65,15 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         
         while base_address % 0x200 != 0: base_address += 1
         
+        extension2 = extension
         head, tail = os.path.split(dir)
         tail = tail.replace("__", "")
-        if extension == "":
+        if extension2 == "":
             tail = tail.split('.')[0]
-        
-        output = open(os.path.join(outdir, head, tail) + extension, 'wb')
+        elif extension2 in tail:
+            extension2 = ""
+
+        output = open(os.path.join(outdir, head, tail) + extension2, 'wb')
         output.write('P2')
 
         if has_fnt:
