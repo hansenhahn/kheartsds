@@ -641,7 +641,8 @@ def unpack_D2KP( root, outdir, img, img_args ):
             if img == "bg":
                 tl_img.unpackBackground(assets["NCLR"][img_args[0]], assets["NSCR"][img_args[1]], assets["NCGR"][img_args[2]], outdir)
             elif img == "ani":
-                tl_img.unpackAnimation(assets["NCLR"][img_args[0]], assets["NCER"][img_args[1]], assets["NCGR"][img_args[2]], outdir)
+                #tl_img.unpackAnimation(assets["NCLR"][img_args[0]], assets["NCER"][img_args[1]], assets["NCGR"][img_args[2]], outdir)
+                tl_img.unpackAnimation(None, assets["NCER"][img_args[1]], assets["NCGR"][img_args[2]], outdir)
             
 if __name__ == '__main__':
     import argparse

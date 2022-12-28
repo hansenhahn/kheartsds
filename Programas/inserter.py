@@ -12,6 +12,7 @@ import codecs
 import glob
 import mmap
 import binascii
+import tl_img
 
 from libs import compression, parser
 from libs.pytable import normal_table
@@ -102,6 +103,9 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
             print "Adicionando %s em %s." % (name, output.name)
             output.seek(address, 0)
         
+            if compress and not name.lower().endswith(".z"):
+                name += ".z"
+                
             input = open(os.path.join(root, dir, name), 'rb')
             if compress:
                 if comp == "lz10":
@@ -250,129 +254,7 @@ def pack_CAKP(root = '../Textos PT-BR/CAKP', outdir = '../Arquivos PT-BR/Unpacke
                 f.write(file)
                 while f.tell() % 0x20 != 0: f.seek(1, 1)
                 
-           
-            #while f.tell() % 0x100 != 0: f.write("\x00")
 
-            
-        
-        
-        
-        # for name in nametable:
-            # with open(os.path.join(folder, name), 'rb') as file:
-                # print os.path.join(folder, name)
-                
-                # files.append(file.read())
-            
-            
-            
-
-    # for _dir in os.listdir(root):
-        # print _dir
-        # _out = os.path.join( outdir, _dir)
-        # dir = os.path.join(root, _dir)
-        
-        # if not os.path.isdir(_out):
-            # os.mkdir(_out)
-        
-        # for _folder in os.listdir(dir):
-            # folder = os.path.join(dir, _folder)
-            
-            # print folder
-            # if os.path.isdir(folder):
-                
-                # for f in os.listdir(folder):
-                    # if f != 'make.txt':
-                        # a = re.match(r'^(.+?)\.txt$', f)
-                        # if a:
-                            # with open(os.path.join(folder, f), 'r') as input:
-                                # output = open(os.path.join(folder, a.groups()[0]), 'r+b')
-                                # parser.generic_inserter_1(input, output, table)
-                                # output.close()
-                        # else:
-                            # pass
-            
-                # continue
-                # nametable = []
-                
-                # if not os.path.isdir( folder ):
-                    # continue
-                
-                # with open(os.path.join(folder, 'make.txt'), 'r') as makefile:
-                    # for file in makefile.readlines():
-                        # nametable.append(file.strip('\r\n'))
-                
-                # files = []
-                # for name in nametable:
-                    # with open(os.path.join(folder, name), 'rb') as file:
-                        # print os.path.join(folder, name)
-                        
-                        # files.append(file.read())
-                
-                # print "Empacotando %s." % folder
-                # #raw_input()
-                        
-                # pst = 0x34
-                # pst += 4 * (2*len(files) + 1)
-                # while pst % 0x20 != 0: pst += 1
-                
-                # fat_start = pst
-                
-                # pst += 2 * (len(nametable) + 1)
-                # names = []
-                # init = 2 * (len(nametable) + 1)
-                # for name in nametable:
-                    # names.append(init)
-                    # init += len(name) + 1
-                    # pst += len(name) + 1
-                                
-                # while pst % 0x20 != 0: pst += 1
-                
-                # sizes = []
-                # addresses = []
-                # for file in files:
-                    # sizes.append(len(file))
-                    # addresses.append(pst)
-                    # pst += len(file)
-                    # while pst % 0x20 != 0: pst += 1
-                
-                # with open(os.path.join(_out, _folder), 'wb') as f:
-                    # f.write('CAKP')
-                    # f.write('\x00\x00\x00\x00')
-                    # f.write(struct.pack('<L', 0x28))
-                    # f.write(struct.pack('<L', 0x34))
-                    # f.write('\xFF\xFF\xFF\xFF' * 6)
-                    # f.write(struct.pack('<L', 0x01))
-                    # f.write(struct.pack('<L', fat_start))
-                    
-                    # f.write(struct.pack('<L', init))
-                    
-                    # f.write(struct.pack('<L', len(files)))
-                    # # Escreve os endereços
-                    # for address in addresses:
-                        # f.write(struct.pack('<L', address))
-                    # # Escreve os tamanhos
-                    # for size in sizes:
-                        # f.write(struct.pack('<L', size))
-                        
-                    # f.seek(fat_start, 0)
-                    # f.write(struct.pack('<H', len(names)))
-                    # # Escreve os endereços fnt
-                    # for addr in names:
-                        # f.write(struct.pack('<H', addr))
-                    # # Escreve os nomes dos arquivos
-                    # for name in nametable:
-                        # f.write('%s\x00' % name)
-                    # while f.tell() % 0x20 != 0: f.seek(1, 1)
-                    
-                    # # Escreve os arquivos
-                    # for file in files:
-                        # f.write(file)
-                        # while f.tell() % 0x20 != 0: f.seek(1, 1)
-
-            # else:
-                # print "Copiando %s" % folder
-                #shutil.copy(folder, os.path.join(_out, _folder))
-                
 def pack_GNRC(root = '../Textos PT-BR/P2',
               outdir = '../Arquivos PT-BR/Unpacked P2',
               first_onz = False):
@@ -401,26 +283,7 @@ def pack_GNRC(root = '../Textos PT-BR/P2',
             output = open( filepath, "r+b")
             parser.generic_inserter_1(input, output, table)
             output.close()   
-    
-    
-    
-    
-    # for _dir in os.listdir(root):
-        # out = os.path.join( outdir, _dir)
-        # dir = os.path.join(root, _dir)
-        
-        # if not os.path.isdir(out):
-            # os.makedirs(out)
-            
-        # for f in os.listdir(dir):
-            # a = re.match(r'^(.+?)\.txt$', f)
-            # if a:
-                # with open(os.path.join(dir, f), 'r') as input:
-                    # output = open(os.path.join(out, a.groups()[0]), 'r+b')
-                    # parser.generic_inserter_1(input, output, table)
-                    # output.close()
-            # else:
-                # pass
+
 
 def pack_map(root, outdir):
 
@@ -518,7 +381,15 @@ def pack_S(root = '../Textos PT-BR/P2', outdir = '../Arquivos PT-BR/Unpacked P2'
     table.add_items('000A=\n')
     
     table.set_mode('inverted')
-    files = filter(lambda x: re.match(r'^.+?(\.s).*?(\.txt)$', x), scandirs(root))       
+    #files = filter(lambda x: re.match(r'^.+?(\.s).*?(\.txt)$', x), scandirs(root))
+    
+    if os.path.isdir(root):
+        files = filter(lambda x: re.match(r'^.+?(\.s).*?(\.txt)$', x), scandirs(root))
+    else:
+        files = [root]
+        root = os.path.dirname(root)   
+    
+    
     for _, fname in enumerate(files):
         print "Inserindo %s." % fname
         path = fname[len(root):]
@@ -611,6 +482,12 @@ if __name__ == '__main__':
     elif args.mode == ".z":
         print "Packing .z"
         pack_Z(root = args.src , outdir = args.dst )
+        
+    elif args.mode == ".pk2d.z":
+        print "Packing .pk2d.z"
+        
+        tl_img.packBackground(args.src)
+        
     else:
         sys.exit(1)
         
