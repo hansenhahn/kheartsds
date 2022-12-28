@@ -1,136 +1,136 @@
-Fragment
+Fragmento
 !******************************!
-Number <2167><2163>
+Número <2167><2163>
 !******************************!
-The Icing on the Cake
+A Cereja do Bolo
 !******************************!
-Heartless
+Sem-Corações
 !******************************!
-Incomplete
+Incompletude
 !******************************!
-Keyblade
+Chave-Espada
 !******************************!
-A Closed World
+Um Mundo Fechado
 !******************************!
-Deeds to Be Done
+Ações a Tomar
 !******************************!
-Friends
+Amigos
 !******************************!
-Missions
+Missões
 !******************************!
-Left Behind
+Abandono
 !******************************!
-Silent Companion
+Companhia Silenciosa
 !******************************!
-Silence Broken
+Silêncio Quebrado
 !******************************!
-Two Keys
+Duas Chaves
 !******************************!
-Terminated
+Finalizado
 !******************************!
-The Dark Margin
+A Margem Negra
 !******************************!
-Sleep
+Sono
 !******************************!
-Familiar Sound
+Som Familiar
 !******************************!
-Missing
+Desaparecimento
 !******************************!
-Solitude
+Solidão
 !******************************!
-Reunion
+Reunião
 !******************************!
-Change
+Mudança
 !******************************!
-The Promise
+A Promessa
 !******************************!
 Trio
 !******************************!
-Inseparable
+Inseparáveis
 !******************************!
-Hearts
+Corações
 !******************************!
-Nobodies
+Incorpóreos
 !******************************!
-Xion's Keyblade
+Chave-Espada de Xion
 !******************************!
-Transfer
+Transferência
 !******************************!
-Secrets
+Segredos
 !******************************!
-Lazy Day
+Folga
 !******************************!
-Work to Do
+Trabalho a Fazer
 !******************************!
-Unlike Minds
+Mentalidades Diferentes
 !******************************!
-Fear
+Medo
 !******************************!
-Distress
+Angústia
 !******************************!
-The Wrong Buttons
+Os Botões Errados
 !******************************!
-Disjointed Days
+Dias Desconexos
 !******************************!
-Love
+Amor
 !******************************!
-Sound of the Surf
+Som das Ondas
 !******************************!
-Lies
+Mentiras
 !******************************!
-Action, Reaction
+Ação e Reação
 !******************************!
-Memories
+Recordações
 !******************************!
-Like It Should Be
+Como Deveria Ser
 !******************************!
-Anomaly
+Anomalia
 !******************************!
 Quietude
 !******************************!
-The Longest Day
+O Dia Mais Longo de Todos
 !******************************!
-News
+Novidades
 !******************************!
-Hollow
+Vazio
 !******************************!
-Disorder
+Desordem
 !******************************!
-Searching
+Procura
 !******************************!
-Confessions
+Confissões
 !******************************!
-Contact
+Contato
 !******************************!
-Fracture
+Fratura
 !******************************!
 Sora
 !******************************!
-Shutdown
+Fechamento
 !******************************!
-Vacant Place
+Lugar Vago
 !******************************!
-Waning Power
+Declínio do Poder
 !******************************!
-The Program
+O Programa
 !******************************!
-Fleeting
+Efemeridade
 !******************************!
-Sunset
+Pôr do Sol
 !******************************!
-Resolve
+Resolução
 !******************************!
-Truth
+Verdade
 !******************************!
-Unsaid, Unheard
+Não Dito e Não Ouvido
 !******************************!
-Place to Belong
+Lugar ao qual Pertencer
 !******************************!
-Tears
+Lágrimas
 !******************************!
-Believe
+Acreditar
 !******************************!
-The First Day
+O Primeiro Dia
 !******************************!
-Why the Sun Sets Red
+Por que O Sol Se Põe Vermelho
 !******************************!
