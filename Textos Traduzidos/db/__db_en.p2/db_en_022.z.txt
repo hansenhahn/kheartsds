@@ -1,0 +1,98 @@
+Fire x 3 
+!******************************!
+Magia que lança uma bola de fogo.
+<AMARELO>Incendeia<BRANCO> inimigos para tirar mais PV. 
+!******************************!
+Cure x 3 
+!******************************!
+Magia que restaura parte de seu PV. 
+!******************************!
+Thunder x 3 
+!******************************!
+Magia que descarrega uma fileira de raios.
+<AMARELO>Eletrocuta<BRANCO> inimigos para dano adicional. 
+!******************************!
+Fira x 2 
+!******************************!
+Magia que lança uma bola de fogo em linha reta.
+<AMARELO>Incendeia<BRANCO> inimigos para tirar mais PV. 
+!******************************!
+Thundara x 2 
+!******************************!
+Magia que cobre uma grande área com raios.
+<AMARELO>Eletrocuta<BRANCO> inimigos para dano adicional. 
+!******************************!
+Poção x 10 
+!******************************!
+Restaura 30% do seu PV. 
+!******************************!
+Éter x 10 
+!******************************!
+Restaura um ataque de cada magia sua. 
+!******************************!
+Blizzard x 3 
+!******************************!
+Magia que lança um cristal que gelo que persegue inimigos.
+Inimigos <AMARELO>congelados<BRANCO> tomam o triplo de dano. 
+!******************************!
+Aero x 3 
+!******************************!
+Magia que lança uma rajada de vento em um inimigo.
+Inimigos <AMARELO>jogados para o ar<BRANCO> tomam o triplo de dano. 
+!******************************!
+Panacéia x 10 
+!******************************!
+Cura todos os status negativos
+do seu personagem.
+!******************************!
+Cura x 2 
+!******************************!
+Magia que restaura PV ao longo do tempo. 
+!******************************!
+Blizzara x 2 
+!******************************!
+Magia que lança um cristal de gelo que para no lugar.
+Inimigos <AMARELO>congelados<BRANCO> tomam dano triplicado. 
+!******************************!
+Superpoção x 10 
+!******************************!
+Restaura 50% do seu PV. 
+!******************************!
+Superéter x 10 
+!******************************!
+Restaura dois ataques de cada magia sua. 
+!******************************!
+Elixir x 10 
+!******************************!
+Restaura PV e magia completamente. 
+!******************************!
+Recarga de Limite x 5 
+!******************************!
+Recupera sua barra de Quebra
+de Limite em um ponto. 
+!******************************!
+Aerora x 3 
+!******************************!
+Magia que lança uma rajada de vento que persegue os inimigos.
+Inimigos <AMARELO>jogados para o ar<BRANCO> tomam o triplo de dano. 
+!******************************!
+Megapoção x 10 
+!******************************!
+Restaura 40% de PV de todos 
+os parceiros no mapa. 
+!******************************!
+Mega-éter x 10 
+!******************************!
+Restaura um ataque em cada magia
+de cada parceiro no mesmo mapa. 
+!******************************!
+Mega-elixir x 5 
+!******************************!
+Restaura completamente PV e magia de
+todos os parceiros no mesmo mapa. 
+!******************************!
+Adamantino x 2 
+!******************************!
+Um minério raro e precioso.
+Pode ser usado para sintetizar painéis. 
+!******************************!

@@ -1,0 +1,271 @@
+O Louco
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+O Mago
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+O Mago+ 
+!******************************!
+Uma O Mago aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+A Justiça
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+A Justiça+ 
+!******************************!
+Uma A Justiça aprimorada.
+Permite seu ataque alcançar uma
+vasta area. 
+!******************************!
+A Morte
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes.
+!******************************!
+A Morte+ 
+!******************************!
+Uma A Morte aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes. 
+!******************************!
+Finest Fantasy 13 
+!******************************!
+Isto parece muito familiar...
+!******************************!
+A Estrela 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+A Estrela+ 
+!******************************!
+Uma A Estrela aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+O Hierofante
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+O Hierofante+ 
+!******************************!
+Uma O Hierofante aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar danos pesados. 
+!******************************!
+O Eremita
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+O Eremita+ 
+!******************************!
+Uma O Eremita aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+A Temperança
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+A Temperança+ 
+!******************************!
+Uma A Temperança aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+A Torre 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+A Torre+ 
+!******************************!
+Uma A Torre aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Segredo de Aposta
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+A Lua+ 
+!******************************!
+Uma A Lua aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+A Lua 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+O Mundo 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+O Mundo+ 
+!******************************!
+Uma O Mundo aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+A Força+ 
+!******************************!
+Uma A Força aprimorada.
+Possesses-you guessed it-extreme
+Devasta inimigos fortes. 
+!******************************!
+A Força
+!******************************!
+A weapon that possesses-you
+guessed it-extreme Força.
+Devasta inimigos fortes. 
+!******************************!
+A Sacerdotisa+ 
+!******************************!
+Uma A Sacerdotisa aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+A Sacerdotisa 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+O Enforcado+ 
+!******************************!
+Uma O Enforcado aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+O Enforcado
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+A Lua++ 
+!******************************!
+A A Lua suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+O Mundo++ 
+!******************************!
+A O mundo suprema.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+O Sol
+!******************************!
+Uma arma que oferece alta Magia e
+combos amplos. 
+!******************************!
+O Sol+ 
+!******************************!
+Uma O Sol aprimorada.Oferece alta Magia e combos amplos. 
+!******************************!
+Os Amantes
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Os Amantes+ 
+!******************************!
+Uma Os Amantes aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+A Imperatriz
+!******************************!
+Uma arma que oferece alta Força e
+e combos amplos. 
+!******************************!
+A Imperatriz+ 
+!******************************!
+Uma A Imperatriz aprimorada.Oferece alta Força e combos amplos.
+!******************************!
+O Diabo+ 
+!******************************!
+Uma O Diabo aprimorada.
+Permite dar, em série, combos térreos
+mais longos com alcance mais vasto.
+!******************************!
+O Diabo
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais longos com 
+alcance mais vasto.
+!******************************!
+Jogo Justo
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Curinga+ 
+!******************************!
+Uma Curinga aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Curinga
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+O Carro+ 
+!******************************!
+Uma O Carro aprimorada.
+Fornece versatilidade aumentando
+bastante tanto Força quanto Magia.
+!******************************!
+O Carro
+!******************************!
+Uma arma que fornece versatilidade
+aumentando bastante tanto Força 
+quanto Magia. 
+!******************************!
+O Imperador+ 
+!******************************!
+Uma O Imperador aprimorada.
+Contém Força elevada e combos
+amplos. 
+!******************************!
+O Imperador
+!******************************!
+Uma arma que contém elevada
+Força e combos amplos.
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

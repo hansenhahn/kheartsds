@@ -1,0 +1,2764 @@
+Abre-Espaço
+!******************************!
+Desbloqueia um espaço adicional. 
+!******************************!
+Poção 
+!******************************!
+Recupera 30% de seu PV. 
+!******************************!
+Superpoção 
+!******************************!
+Recupera 50% de seu PV. 
+!******************************!
+Megapoção 
+!******************************!
+Recupera 40% do PV de todos os aliados
+que estão no mesmo mapa. 
+!******************************!
+Éter 
+!******************************!
+Recupera uma carga em cada uma de suas magias. 
+!******************************!
+Superéter 
+!******************************!
+Recupera duas cargas em cada uma de suas magias. 
+!******************************!
+Megaéter 
+!******************************!
+Recupera uma carga em cada uma das magias
+de todos os aliados que estão no mesmo mapa.
+!******************************!
+Elixir 
+!******************************!
+Recupera a magia e o PV por completo. 
+!******************************!
+Megalixir 
+!******************************!
+Recupera o PM e o PV de todos os aliados
+que estão no mesmo mapa.
+!******************************!
+Panaceia 
+!******************************!
+Cura todos os estados negativos. 
+!******************************!
+Recarga de Limite 
+!******************************!
+Aumenta o limite no qual você pode usar uma
+Quebra de Limite. Reduz em uma unidade. 
+!******************************!
+Osso 
+!******************************!
+ 
+!******************************!
+Lasca de Fogo
+!******************************!
+Material comumente utilizado no painel de síntese.
+Arde com o poder do fogo. 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+Jóia de Fogo
+!******************************!
+Um material raro utilizado no painel de transformação.
+Chia com o poder do fogo. 
+!******************************!
+Cristal de Fogo
+!******************************!
+Um material precioso utilizado no painel de transformação.
+Ruge com o poder do fogo. 
+!******************************!
+Lasca de Gelo
+!******************************!
+Material comumente utilizado no painel de transformação.
+Vibra com o poder do gelo. 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+Jóia de Gelo
+!******************************!
+Um material raro utilizado no painel de transformação.
+Pulsa com o poder do gelo. 
+!******************************!
+Cristal de Gelo
+!******************************!
+Um material precioso utilizado no painel de transformação.
+Estala com o poder do gelo. 
+!******************************!
+Lasca de Raio 
+!******************************!
+Material comumente utilizado no painel de transformação.
+Pisca com o poder do raio. 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+Pedra de Raio 
+!******************************!
+Um material raro utilizado no painel de transformação.
+Crepita com o poder do raio. 
+!******************************!
+Cristal de Raio 
+!******************************!
+Um material precioso utilizado no painel de transformação.
+Impulsiona com o poder do raio. 
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Mais Nível
+!******************************!
+Aumenta seu nível em 1. 
+!******************************!
+Nível Duplo <2464> 
+!******************************!
+Aumenta seu nível em 2 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Duplo <2465>
+!******************************!
+Aumenta seu nível em 2 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Triplo <2463>
+!******************************!
+Aumenta seu nível em 3 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Triplo <2463> 
+!******************************!
+Aumenta seu nível em 3 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Triplo <2463> 
+!******************************!
+Aumenta seu nível em 3 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Quádruplo <2462> 
+!******************************!
+Aumenta seu nível em 4 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Quádruplo <2462> 
+!******************************!
+Aumenta seu nível em 4 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível Quádruplo <2462>  
+!******************************!
+Aumenta seu nível em 4 por cada painel <AMARELO>Mais Nível<BRANCO>
+ligado a ele.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Mochila 
+!******************************!
+Permite transportar 2 itens adicionais. 
+!******************************!
+Bolsa para Mochila <2463>
+!******************************!
+Permite transportar 4 itens adicionais por cada
+painel de <AMARELO>Mochila<BRANCO> ligado a ela. 
+!******************************!
+Fogo
+!******************************!
+Magia que dispara uma bola de fogo.
+<AMARELO>Ponha fogo<BRANCO> em um inimigo para causar mais danos. 
+!******************************!
+Fogoru
+!******************************!
+Magia que dispara uma bola de fogo em frente.
+<AMARELO>Ponha fogo<BRANCO> em um inimigo para causar mais danos. 
+!******************************!
+Fogorus
+!******************************!
+Magia que dispara uma bola de fogo que explode no impacto.
+<AMARELO>Ponha fogo<BRANCO> em um inimigo para causar mais danos. 
+!******************************!
+Gelo
+!******************************!
+Magia que dispara um cristal de gelo que persegue inimigos.
+Inimigos <AMARELO>congelados<BRANCO> levam dano triplo.
+!******************************!
+Geloru
+!******************************!
+Magia que dispara um cristal de gelo que fica no lugar.
+Inimigos <AMARELO>congelados<BRANCO> levam dano triplo.
+!******************************!
+Gelorus
+!******************************!
+Magia que arma uma mina de gelo que explode ao contato.
+Inimigos <AMARELO>congelados<BRANCO> levam dano triplo.
+!******************************!
+Raio
+!******************************!
+Magia que despeja uma sequência de raios.
+<AMARELO>Eletrocute<BRANCO> inimigos para possibilitar dano extra.
+!******************************!
+Raioru
+!******************************!
+Magia que atinge uma vasta área com vários raios.
+<AMARELO>Eletrocute<BRANCO> inimigos para possibilitar dano extra.
+!******************************!
+Raiorus
+!******************************!
+Magia que acerta diretamente um inimigo com raio.
+<AMARELO>Eletrocute<BRANCO> inimigos para possibilitar dano extra.
+!******************************!
+Vento
+!******************************!
+Magia que dispara uma ligeira rajada de vento em um inimigo.
+Inimigos <AMARELO>jogados ao ar<BRANCO> levam dano triplo.
+!******************************!
+Ventoru
+!******************************!
+Magia que lança uma rajada de vento para perseguir seus inimigos.
+Inimigos <AMARELO>jogados ao ar<BRANCO> levam dano triplo.
+!******************************!
+Ventorus
+!******************************!
+Magia que gera um enorme redemoinho.
+Inimigos <AMARELO>jogados ao ar<BRANCO> levam dano triplo.
+!******************************!
+Cura
+!******************************!
+Magia que recupera um pouco do seu PV.
+!******************************!
+Curaru
+!******************************!
+Magia que continua recuperando seu PV aos poucos.
+!******************************!
+Curarus
+!******************************!
+Magia que cria um campo de recuperação
+de PV para você e seus companheiros.
+!******************************!
+Magia NV2 <2463>
+!******************************!
+Duplica o nível dos <AMARELO>painéis de magia<BRANCO> ligados.
+Ligue mais da mesma magia para acumular o efeito.
+!******************************!
+Magia NV2 <2463>
+!******************************!
+Duplica o nível dos <AMARELO>painéis de magia<BRANCO> ligados.
+Ligue mais da mesma magia para acumular o efeito.
+!******************************!
+Magia NV2 <2463>
+!******************************!
+Duplica o nível dos <AMARELO>painéis de magia<BRANCO> ligados.
+Ligue mais da mesma magia para acumular o efeito.
+!******************************!
+Magia NV3 <2463>
+!******************************!
+Triplica o nível dos <AMARELO>painéis de magia<BRANCO> ligados.
+Ligue mais da mesma magia para acumular o efeito.
+!******************************!
+Magia NV3 <2463>
+!******************************!
+Triplica o nível dos <AMARELO>painéis de magia<BRANCO> ligados.
+Ligue mais da mesma magia para acumular o efeito.
+!******************************!
+Magia NV4 <2463>
+!******************************!
+Quadruplica o nível dos <AMARELO>painéis de magia<BRANCO> ligados.
+Ligue mais da mesma magia para acumular o efeito.
+!******************************!
+Duplacarga <2463>
+!******************************!
+Proporciona duas cargas de cada AMARELO>painel de magia<BRANCO>
+ligado.
+!******************************!
+Triplacarga <2462>
+!******************************!
+Proporciona três cargas de cada AMARELO>painel de magia<BRANCO>
+ligado.
+!******************************!
+Quadracarga 2x <2462>
+!******************************!
+Proporciona quatro cargas de cada AMARELO>painel de magia<BRANCO>
+ligado.
+!******************************!
+Esquiva-Rolamento
+!******************************!
+Permite rolar para frente e se esquivar de
+ataques inimigos ao segurar <+> e apertar <Y>.
+!******************************!
+Esquiva-Rolamento <2462>
+!******************************!
+Permite rolar para frente e se esquivar de
+ataques inimigos ao segurar <+> e apertar <Y>.
+!******************************!
+Rolamento NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Rolamento<BRANCO>
+e aumenta seu nível.
+!******************************!
+Esquiva-Avanço <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Rolamento<BRANCO>.
+Permite afastar inimigos ao executar um rolamento.
+!******************************!
+Combo-Esquiva <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Rolamento<BRANCO>.
+Permite ir rapidamente de um rolamento de volta à ofensiva.
+!******************************!
+Autoesquiva <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Rolamento<BRANCO>. Permite
+eventualmente se esquivar de ataques inimigos automaticamente.
+!******************************!
+Bloqueio <2461>
+!******************************!
+Permite bloquear e devolver ataques
+inimigos ao apertar <Y>.
+!******************************!
+Bloqueio <2463>
+!******************************!
+Permite bloquear e devolver ataques
+inimigos ao apertar <Y>.
+!******************************!
+Bloqueio NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>
+e aumenta seu nível.
+!******************************!
+Bloqueio Perfeito <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. Permite
+bloquear assim que um ataque acerta para eliminar recuo.
+!******************************!
+Bloqueio Refletido <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. Permite
+reagir com um contra-ataque poderoso logo após bloquear.
+!******************************!
+Bloqueio-Recuo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. 
+Permite recuar mais ao bloquear um ataque.
+!******************************!
+Bloqueio Deslizante <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. 
+Permite rapidamente deslizar para frente ao bloquear.
+!******************************!
+Bloqueio-Pulo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. 
+Permite pular logo após bloquear sem qualquer atraso.
+!******************************!
+Bloqueio de Fogo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. Permite
+eventualmente <AMARELO>incendiar<BRANCO> inimigos ao bloquear.
+!******************************!
+Bloqueio de Gelo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. Permite
+eventualmente <AMARELO>congelar<BRANCO> inimigos ao bloquear.
+!******************************!
+Bloqueio de Raio <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. Permite
+eventualmente <AMARELO>eletrocutar<BRANCO> inimigos ao bloquear.
+!******************************!
+Bloqueio de Vento<ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>. Permite
+eventualmente <AMARELO>jogar ao ar<BRANCO> inimigos ao bloquear.
+!******************************!
+Bloqueio Bônus <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>.
+Permite gerar prêmios de PV eventuamental ao bloquear.
+!******************************!
+Bloqueio Redondo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>.
+Permite bloquear qualquer ataque, mesmo vindo de trás.
+!******************************!
+Autobloqueio <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Bloqueio<BRANCO>.
+Permite bloquear automaticamente ataques frontais.
+!******************************!
+Planar <2462>
+!******************************!
+Permite andar com o vento ao segurar <Y> no ar.
+Você ficará no ar enquanto estiver com o botão apertado.
+!******************************!
+Planar <2464>
+!******************************!
+Permite andar com o vento ao segurar <Y> no ar.
+Você ficará no ar enquanto estiver com o botão apertado.
+!******************************!
+Planar NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Planar<BRANCO>
+e aumenta seu nível.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Planar Teleguiado <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Planar<BRANCO>. Permite travar a mira
+em um alvo enquanto plana para se mover automaticamente até ele.
+!******************************!
+Planar-Foguete <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Planar<BRANCO>. Permite passar à força
+por inimigos ao planar logo após começar um deslize aéreo.
+!******************************!
+Deslize Aéreo <2461>
+!******************************!
+Permite executar um deslize rápido ao apertar <B>
+no ar.
+!******************************!
+Deslize Aéreo <2464>
+!******************************!
+Permite executar um deslize rápido ao apertar <B>
+no ar.
+!******************************!
+Deslize Aéreo NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Deslize Aéreo<BRANCO>
+e aumenta seu nível.
+!******************************!
+Avanço Aéreo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Deslize Aéreo<BRANCO>.
+Permite afastar inimigos ao executar um deslize no ar.
+!******************************!
+Recuperação Aérea
+!******************************!
+Permite recuperar o equilíbrio após ser mandado
+ao ar ao apertar <B>.
+!******************************!
+Recuperação Aérea <2462>
+!******************************!
+Permite recuperar o equilíbrio após ser mandado
+ao ar ao apertar <B>.
+!******************************!
+Recuperação Aérea NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Recuperação Aérea<BRANCO>
+e aumenta seu nível.
+!******************************!
+Recuperação Rápida <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Recuperação Aérea<BRANCO>.
+Permite uma RA mais rápida ao apertar <B> rapidamente.
+!******************************!
+Rebate Aéreo <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Recuperação Aérea<BRANCO>.
+Permite reagir com um contra-ataque poderoso após uma AR.
+!******************************!
+Recuperação Estrondosa <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Recuperação Aérea<BRANCO>.
+Permite afastar inimigos próximos ao executar uma RA.
+!******************************!
+Pique Deslizante
+!******************************!
+Permite quickly close in on a target and
+attack.
+!******************************!
+Pique Deslizante <2462>
+!******************************!
+Permite quickly close in on a target and
+attack.
+!******************************!
+Pique Deslizante NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Sliding Dash<BRANCO>
+e aumenta seu nível.
+!******************************!
+Rapidez
+!******************************!
+Permite correr mais rápido.
+!******************************!
+Rapidez <2462>
+!******************************!
+Permite correr mais rápido.
+!******************************!
+Rapidez NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Rapidez<BRANCO>
+e aumenta seu nível.
+!******************************!
+Pulo Alto
+!******************************!
+Permite pular mais alto.
+!******************************!
+Pulo Alto <2462>
+!******************************!
+Permite pular mais alto.
+!******************************!
+Pulo Alto NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Pulo Alto<BRANCO>
+e aumenta seu nível.
+!******************************!
+Flutuar <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Pulo Alto<BRANCO>.
+Permite desacelerar sua descida ao segurar <B> no ar.
+!******************************!
+Autovida <2462>
+!******************************!
+Permite se reviver se seu PV se esgotar.
+Funciona uma única vez.
+!******************************!
+Autovida NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Auto-Life<BRANCO>
+e aumenta seu nível.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Imã de Tesouro
+!******************************!
+Permite facilmente recolher prêmios
+espalhados por perto.
+!******************************!
+Imã de Tesouro <2462>
+!******************************!
+Permite facilmente recolher prêmios
+espalhados por perto.
+!******************************!
+Imã de Tesouro NV+ <ff2c>
+!******************************!
+Liga-se a um painel de <AMARELO>Imã de Tesouro<BRANCO>
+e aumenta seu nível.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Extensor de Alcance
+!******************************!
+Permite travar a mira nos inimigos
+mesmo se estiverem distantes.
+!******************************!
+Sonda
+!******************************!
+Mostra o PV dos alvos.
+!******************************!
+Limite Melhorado
+!******************************!
+Aumenta o limite máximo de seu medidor amarelo
+para que possa usar Quebras de Limite mais cedo.
+!******************************!
+Automira
+!******************************!
+Permite automaticamente travar a mira
+nos alvos disponíveis enquanto ataca.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Peça de Aptidão
+!******************************!
+Transforma sua arma em uma de maior força.
+!******************************!
+Peça de Apitdão+ <2461>
+!******************************!
+Transforma sua arma em uma de maior força.
+!******************************!
+Peça Carregada
+!******************************!
+Transforma sua arma em uma com força máxima.
+!******************************!
+Peça Carregada+ <2461>
+!******************************!
+Transforma sua arma em uma com força esmagadora.
+!******************************!
+Peça de Mérito <2461>
+!******************************!
+Transforma sua arma e fornece versatilidade
+ao melhorar tanto Força quanto Magia.
+!******************************!
+Peça de Mérito+ <2461>
+!******************************!
+Transforma sua arma e fornece versatilidade ao
+melhorar bastante tanto Força quanto Magia.
+!******************************!
+Peça Casual <2461>
+!******************************!
+Transforma sua arma em uma que oferece
+maior Força and velocidade de combo no chão.
+!******************************!
+Peça Técnica <2462>
+!******************************!
+Transforma sua arma em uma que ostenta
+uma Força superior and velocidade de combo no chão.
+!******************************!
+Peça Técnica+ <2462>
+!******************************!
+Transforma sua arma em uma que oferece
+maior Força e combos aéreos mais longos.
+!******************************!
+Peça Temporal <2462>
+!******************************!
+Transforma sua arma em uma que ostenta
+uma Força superior e combos aéreos muito mais longos.
+!******************************!
+Peça Temporal+ <2462>
+!******************************!
+Transforma sua arma em uma que oferece
+maior Força and alcance de combo.
+!******************************!
+Peça Destemida <2462>
+!******************************!
+Transforma sua arma em uma que ostenta
+uma Força superior and alcance de combo.
+!******************************!
+Peça Destemida+ <2462>
+!******************************!
+Transforma sua arma e melhora sua Magia
+para lhe dar mais poder.
+!******************************!
+Peça de Suspensão <2462>
+!******************************!
+Transforma sua arma e melhora sua Magia
+para lhe dar muito mais poder.
+!******************************!
+Peça de Suspensão+ <2462>
+!******************************!
+Transforma sua arma e melhora sua Magia
+para lhe dar um poder incrível.
+!******************************!
+Peça Selvagem <2462>
+!******************************!
+Transforma sua arma e melhora sua Magia
+para lhe dar um poder esmagador.
+!******************************!
+Peça Selvagem+ <2462>
+!******************************!
+Transforma sua arma em uma que oferece
+maior Magia and velocidade de combo no chão.
+!******************************!
+Peça Misteriosa <2462>
+!******************************!
+Transforma sua arma em uma que ostenta
+uma Magia superior and velocidade de combo no chão.
+!******************************!
+Peça de Duelo+ <2463>
+!******************************!
+Transforma sua arma em uma que oferece
+maior Magia e combos aéreos mais longos.
+!******************************!
+Peça de Duelo <2463>
+!******************************!
+Transforma sua arma em uma que ostenta
+uma Magia superior e combos aéreos muito mais longos.
+!******************************!
+Peça Fantasma <2463>
+!******************************!
+Transforma sua arma em uma que oferece
+maior Magia and alcance de combo.
+!******************************!
+Peça Fantasma+ <2463>
+!******************************!
+Transforma sua arma em uma que ostenta
+uma Magia superior and alcance de combo.
+!******************************!
+Peça de Prestígio+ <2463>
+!******************************!
+Transforma sua arma e permite encadear
+combos no chão mais rápidos e longos.
+!******************************!
+Peça de Prestígio <2463>
+!******************************!
+Transforma sua arma e permite encadear
+combos no chão mais rápidos e longos.
+!******************************!
+Peça Ligeira+ <2463>
+!******************************!
+Transforma sua arma e permite encadear
+combos no chão muito mais rápidos e longos.
+!******************************!
+Peça Ligeira <2463>
+!******************************!
+Transforma sua arma e permite encadear
+combos no chão absurdamente rápidos e longos.
+!******************************!
+Peça Sinistra+ <2463>
+!******************************!
+Transforma sua arma e permite encadear
+combos no chão e aéreos mais longos.
+!******************************!
+Peça Sinistra <2463>
+!******************************!
+Transforma sua arma e permite encadear
+combos no chão e aéreos muito mais longos.
+!******************************!
+Peça de Duelo++ <2464>
+!******************************!
+Transforma sua arma e permite executar combos
+no chão mais longos com maior alcance.
+!******************************!
+Peça Fantasma++ <2464>
+!******************************!
+Transforma sua arma e permite executar combos
+no chão muito mais longos com maior alcance.
+!******************************!
+Peça de Risco <2464>
+!******************************!
+Transforma sua arma em uma que atua
+bem no ar.
+!******************************!
+Peça de Risco+ <2464>
+!******************************!
+Transforma sua arma em uma que atua
+muito bem no ar. 
+!******************************!
+Peça de Crise <2464>
+!******************************!
+Transforma sua arma em uma que atua
+extremamente bem no ar. 
+!******************************!
+Peça de Crise+ <2464>
+!******************************!
+Transforma sua arma em uma que possui
+uma atuação avassaladora no ar. 
+!******************************!
+Peça de Campeão <2464>
+!******************************!
+Transforma sua arma e permite executar combos
+aéreos mais longos com maior alcance.
+!******************************!
+Peça de Campeão+ <2464>
+!******************************!
+Transforma sua arma e permite executar combos
+aéreos muito mais longos com maior alcance.
+!******************************!
+Peça da Fúria+ <2464>
+!******************************!
+Transforma sua arma, permitindo com que seus ataques
+alncacem uma área maior.
+!******************************!
+Peça da Fúria <2464>
+!******************************!
+Transforma sua arma, permitindo com que seus ataques
+alncacem uma área maior e deem dano pesado.
+!******************************!
+Peça Zero <2464>
+!******************************!
+Transforma sua arma, permitindo com que seus ataques
+alncacem uma área maior e deem um imenso dano.
+!******************************!
+Peça de Pandora+ <2464>
+!******************************!
+Transforma sua arma, permitindo com que seus ataques
+alncacem uma área maior e deem toneladas de dano.
+!******************************!
+Peça de Pandora <2464>
+!******************************!
+Transforma sua arma em uma mais formidável
+com capacidades excepcionais.
+!******************************!
+Peça Ômega+ <2465>
+!******************************!
+Transforma sua arma em algo estranhamente
+familiar...
+!******************************!
+Peça Ômega <2465>
+!******************************!
+Transforma sua arma em uma que traz à
+tona a personalidade de seu portador.
+!******************************!
+Peça Suprema+ <2465>
+!******************************!
+Transforma sua arma em uma muito mais poderosa que
+traz à tona o verdadeiro valor de seu portador.
+!******************************!
+Peça Suprema <2465>
+!******************************!
+Transforma sua arma comum em algo
+muito mais formidável.
+!******************************!
+DELETED
+!******************************!
+Transforma sua arma comum em algo
+muito mais formidável.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Unidade de Habilidade <ff2c>
+!******************************!
+Liga-se ao seu <AMARELO>painel de arma<BRANCO> e
+desbloqueia uma de suas habilidades ocultas.
+!******************************!
+DELETED
+!******************************!
+Uma espada mergulhada em trevas.
+Possui grande Força.
+!******************************!
+DELETED
+!******************************!
+A mais básica das Chavespadas.
+!******************************!
+DELETED
+!******************************!
+A Chavespada do Rei.
+O lado sombrio da Chave do Reino.
+!******************************!
+DELETED
+!******************************!
+Um cajado digno apenas de um mago de
+verdade.
+!******************************!
+DELETED
+!******************************!
+Um escudo que condiz com alguém
+gentil e cavalheiresco.
+!******************************!
+Unidade de Poder <ff2c>
+!******************************!
+Liga-se ao seu <AMARELO>painel de arma<BRANCO> e aumenta a Força.
+A quantidade varia a depender da arma.
+!******************************!
+Unidade de Defesa <ff2c>
+!******************************!
+Liga-se ao seu <AMARELO>painel de arma<BRANCO> e aumenta Defesa.
+A quantidade varia a depender da arma.
+!******************************!
+Unidade de Magia <ff2c>
+!******************************!
+Liga-se ao seu <AMARELO>painel de arma<BRANCO> e aumenta Magia.
+A quantidade varia a depender da arma.
+!******************************!
+Unidade de Visão <ff2c>
+!******************************!
+Liga-se ao seu <AMARELO>painel de arma<BRANCO>. Aumenta % de Crítico
+e Bônus Crítico. A quantidade varia a depender da arma.
+!******************************!
+Receita de Fogo
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Fogo<BRANCO>.
+!******************************!
+Receita de Fogoru
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Fogoru<BRANCO>.
+!******************************!
+Receita de Fogorus
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Fogorus<BRANCO>.
+!******************************!
+Receita de Gelo
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Gelo<BRANCO>.
+!******************************!
+Receita de Geloru
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Geloru<BRANCO>.
+!******************************!
+Receita de Geloru
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Gelorus<BRANCO>.
+!******************************!
+Receita de Raio
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Raio<BRANCO>.
+!******************************!
+Receita de Raioru
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Raioru<BRANCO>.
+!******************************!
+Receita de Raiorus
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Raiorus<BRANCO>.
+!******************************!
+Receita de Vento
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Vento<BRANCO>.
+!******************************!
+Receita de Ventoru
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Ventoru<BRANCO>.
+!******************************!
+Receita de Ventorus
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Ventorus<BRANCO>.
+!******************************!
+Receita de Cura
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Cura<BRANCO>.
+!******************************!
+Receita de Curaru
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Curaru<BRANCO>.
+!******************************!
+Receita de Curarus
+!******************************!
+Uma receita usada para sintetizar um painel mágico
+de <AMARELO>Curarus<BRANCO>.
+!******************************!
+Lasca de Rajada
+!******************************!
+Um material comum usado para síntese de painéis.
+Sussura com o poder do vento.
+!******************************!
+Joia de Rajada
+!******************************!
+Um material raro usado para síntese de painéis.
+Uiva com o poder do vento.
+!******************************!
+Cristal de Rajada
+!******************************!
+Um material inestimado usado para síntese de painéis.
+Grita com o poder do vento.
+!******************************!
+Lasca Brilhante
+!******************************!
+Um material comum usado para síntese de painéis.
+Cintila com o poder da luz.
+!******************************!
+Joia Brilhante
+!******************************!
+Um material raro usado para síntese de painéis.
+Brilha com o poder da luz.
+!******************************!
+Cristal Brilhante
+!******************************!
+Um material inestimado usado para síntese de painéis.
+Ofusca com o poder da luz.
+!******************************!
+Componente de Peça A
+!******************************!
+Um material usado para sintetizar <AMARELO>painéis de arma<BRANCO>
+que transformam sua arma.
+!******************************!
+Componente de Peça B
+!******************************!
+Um material usado para sintetizar <AMARELO>painéis de arma<BRANCO>
+que transformam sua arma.
+!******************************!
+Componente de Peça C
+!******************************!
+Um material usado para sintetizar <AMARELO>painéis de arma<BRANCO>
+que transformam sua arma.
+!******************************!
+Componente de Peça D
+!******************************!
+Um material usado para sintetizar <AMARELO>painéis de arma<BRANCO>
+que transformam sua arma.
+!******************************!
+Técnica de Combo
+!******************************!
+Um material de síntese de painel que fornece
+destreza.
+!******************************!
+Técnica de Runa
+!******************************!
+Um material de síntese de painel que fornece energia
+mágica.
+!******************************!
+Técnica de Poder
+!******************************!
+Um material de síntese de painel que fornece embalo.
+!******************************!
+Técnica Aérea
+!******************************!
+Um material de síntese de painel que fornece leveza.
+!******************************!
+Técnica de Alcance
+!******************************!
+Um material de síntese de painel que fornece amplitude.
+!******************************!
+Técnica de Combo+
+!******************************!
+Um material de síntese de painel que fornece bastante
+destreza.
+!******************************!
+Técnica de Runa+
+!******************************!
+Um material de síntese de painel que fornece bastante
+energia mágica.
+!******************************!
+Técnica de Poder+
+!******************************!
+Um material de síntese de painel que fornece bastante
+embalo.
+!******************************!
+Técnica Aérea+
+!******************************!
+Um material de síntese de painel que fornece bastante
+leveza.
+!******************************!
+Técnica de Alcance+
+!******************************!
+Um material de síntese de painel que fornece bastante
+amplitude.
+!******************************!
+Técnica de Combo++
+!******************************!
+Um material de síntese de painel que fornece enorme
+destreza.
+!******************************!
+Técnica de Runa++
+!******************************!
+Um material de síntese de painel que fornece enorme
+energia mágica.
+!******************************!
+Técnica de Poder++
+!******************************!
+Um material de síntese de painel que fornece enorme
+embalo.
+!******************************!
+Técnica Aérea++
+!******************************!
+Um material de síntese de painel que fornece enorme
+leveza.
+!******************************!
+Técnica de Alcance++
+!******************************!
+Um material de síntese de painel que fornece enorme
+amplitude.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Técnica de Escudo
+!******************************!
+Um painel de síntese de material que fornece
+resiliência.
+!******************************!
+Técnica de Escudo+
+!******************************!
+Um painel de síntese de material que fornece
+bastante resiliência.
+!******************************!
+Técnica de Sorte
+!******************************!
+Um painel de síntese de material que fornece
+boa sorte.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Receita de Elixir
+!******************************!
+Uma receita usada para sintetizar um painel de <AMARELO>Elixir<BRANCO>.
+!******************************!
+Receita de Megaelixir
+!******************************!
+Uma receita usada para sintetizar um painel de <AMARELO>Megealixir<BRANCO>.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Técnica de Escudo++
+!******************************!
+Um painel de síntese de material que fornece
+uma enorme resiliência.
+!******************************!
+Ferro
+!******************************!
+Um pedaço de ferro puro.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Bronze
+!******************************!
+Um pedaço de bronze puro.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Lingote Escuro
+!******************************!
+Um pedaço de ferro escuro puro.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Prata
+!******************************!
+Um pedaço de prata pura.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Ouro
+!******************************!
+Um pedaço de ouro puro.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Mítrio
+!******************************!
+Um pedaço de mítrio puro.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Oricalco
+!******************************!
+Um pedaço de oricalco puro.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Adamantita
+!******************************!
+Um minério raro e precioso.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Diamante
+!******************************!
+Uma joia rara.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Pedra da Lua
+!******************************!
+Uma joia belíssima.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+Orbe Especial
+!******************************!
+Uma joia rara e esférica mais estimada que todas as outras.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Ancarita
+!******************************!
+Uma perigosa substância capaz de causar grandes danos.
+Pode-se usar este material para sintetizar painéis.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Lasca
+!******************************!
+Lasca
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Passe de Limite
+!******************************!
+Acrescenta uma nova opção às configurações do Modo Missão.
+Agora pode-se configurar <AMARELO>Quebras de Limite<BRANCO>.
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+Ferro etc.
+!******************************!
+
+!******************************!
+Lasca Congelado etc.
+!******************************!
+
+!******************************!
+Receita de Elixir etc.
+!******************************!
+
+!******************************!
+Cristal Flamejante etc.
+!******************************!
+
+!******************************!
+Técnica de Sorte etc.
+!******************************!
+
+!******************************!
+Arma Suprema
+!******************************!
+Deixar qualquer arma mais forte.
+!******************************!
+Esquiva-Rebate <ff2c>
+!******************************!
+Liga-se a um painel de painel de <AMARELO>Rolamento<BRANCO>. Permite
+devolver ataques inimigos quando fizer rolamento.
+!******************************!
+Limite Final
+!******************************!
+Permite usar o seu Limite Final, uma
+versão melhorada da Quebra de Limite.
+!******************************!
+Insígnia de Ordálio
+!******************************!
+Desbloqueia um novo Desafio.
+(Jogável assim que a referida Holo-Missão aparecer.)
+!******************************!
+Brasão de Ordálio
+!******************************!
+Desbloqueia um novo Desafio SP.
+(Jogável assim que a referida Holo-Missão aparecer.)
+!******************************!
+Insígnia da Unidade
+!******************************!
+Permite escolher esta missão e enfrentá-lo
+com outros jogadores no Modo Missão.
+!******************************!
+Nível 2x <2465> 
+!******************************!
+Aumenta seu nível em 2 por cada painel <AMARELO>Mais Um Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível 2x <2465> 
+!******************************!
+Aumenta seu nível em 2 por cada painel <AMARELO>Mais Um Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Nível 2x <2465> 
+!******************************!
+Aumenta seu nível em 2 por cada painel <AMARELO>Mais Um Nível<BRANCO>
+ligado a ele. 
+!******************************!
+Despertar do Sora
+!******************************!
+Permite jogar com <AMARELO>Sora<BRANCO> no Modo Missão.
+!******************************!
+O Retorno do Rei
+!******************************!
+Permite jogar com <AMARELO>O Rei<BRANCO> no Modo Missão.
+!******************************!
+Sinal de Determinação
+!******************************!
+PV +10   Força +1   Magia +1   Defesa +4
+!******************************!
+Anel de Luta
+!******************************!
+Defesa +8
+Combo-Pulo
+!******************************!
+Anel Mágico
+!******************************!
+Magia +3   Defesa +6
+Éter Melhorado
+!******************************!
+Anel de Soldado
+!******************************!
+Força +3   Defesa +8
+Combo Melhorado
+!******************************!
+Anel do Esgrimista
+!******************************!
+PV +20   Defesa +8
+Poção Melhorada NV1
+!******************************!
+Amuleto de Fogo
+!******************************!
+Defesa +8   30% resistência a fogo
+Braçadeira Mágica
+!******************************!
+Amuleto de Flor
+!******************************!
+PV +15   Força +2   Defesa +10
+30% resistência a flor   Braçadeira Maágica
+!******************************!
+Anel do Acerto
+!******************************!
+Defesa +10   % de Crítico +5   Bônus Crítico +5
+!******************************!
+Anel da Sorte
+!******************************!
+Defesa +16
+Poder de Prêmio NV1   Heart Bonus
+!******************************!
+Amuleto de Gelo
+!******************************!
+Força +4   Defesa +12   30% resistência a gelo
+Braçadeira Mágica
+!******************************!
+Anel Branco
+!******************************!
+Magia +4   Defesa +12
+Poder de Prêmio NV2
+!******************************!
+Defesa do Cavaleiro
+!******************************!
+Defesa +12
+Combo-Bloqueio   EXP Melhorado NV1
+!******************************!
+Anel do Invasor
+!******************************!
+Defesa +18
+Combo-Pulo   Combo-Bloqueio
+!******************************!
+Amuleto de Raio
+!******************************!
+Defesa +14   30% resistência a raio
+Braçadeira Mágica
+!******************************!
+Anel de Recuperação
+!******************************!
+PV +40   Defesa +16
+Barreira de Vitalidade   Poção Melhorada NV1
+!******************************!
+Anel de Vitalidade
+!******************************!
+Magia +6   Defesa +16
+Impulso de Vitalidade   Éter Melhorado
+!******************************!
+Anel de Raioforça 
+!******************************!
+Força +6   Defesa +16
+Finalização de Raio
+!******************************!
+Ao Dobro
+!******************************!
+Defesa +18
+EXP Melhorada NV2
+!******************************!
+Olho da Tempestade
+!******************************!
+Defesa +18   30% resistência a vento
+30% resistência a água   Braçadeira Mágica
+!******************************!
+Anel de Crítico
+!******************************!
+Defesa +20   % de Crítico +8   Bônus Crítico +8
+Acertor
+!******************************!
+Círculo de Fada
+!******************************!
+Defesa +20   30% resistência a espaço
+30% resistência a ilusão  30% resistência a tempo
+!******************************!
+Círculo Completo
+!******************************!
+Defesa +24   20% resistência a todo elemento
+!******************************!
+Estrela da Sorte
+!******************************!
+Defesa +24
+Poder de Prêmio NV2   Acerto de Sorte
+!******************************!
+Anel de Carga
+!******************************!
+Defesa +26
+Poção Melhorada NV1   Éter Melhorado
+!******************************!
+Anel Eterno
+!******************************!
+PV +30   Força +4   Defesa +28
+Tempo de Corrente
+!******************************!
+Flagelo Carmim
+!******************************!
+Força +8   Defesa +30
+Finalização de Fogo
+!******************************!
+Flagelo Congelado
+!******************************!
+Magia +8   Defesa +30
+Finalização de Gelo
+!******************************!
+Anel de Segurança
+!******************************!
+Defesa +30
+Poção Melhorada NV2
+!******************************!
+Coroa da Princesa
+!******************************!
+PV +60   Defesa +30
+Poção Melhorada NV1   EXP Melhorada NV2
+!******************************!
+Acerto Lunar
+!******************************!
+Defesa +30   % de Crítico +10   Bônus Crítico +10
+30% resistência a lua
+!******************************!
+Sangue Carmesim
+!******************************!
+Força +8   Defesa +30
+Impacto Profundo
+!******************************!
+Céu Profundo
+!******************************!
+Magia +8   Defesa +30
+Deslize de Combo Aéreo   Finalizador de Vento
+!******************************!
+Anel de Proteção
+!******************************!
+Defesa +30
+Defender
+!******************************!
+Coroa de Poder
+!******************************!
+PV +80   Defesa +30
+10% resistência a todo elemento   EXP Melhorada NV1
+!******************************!
+Sol Crítico
+!******************************!
+Defesa +10   % de Crítico +15   Bônus Crítico +20
+Crítico Melhorado
+!******************************!
+Três Estrelas
+!******************************!
+Defesa +30
+Poção Melhorada NV1   Acerto de Sorte   EXP Melhorada NV1
+!******************************!
+Coroa Imperial
+!******************************!
+PV +100   Defesa +10
+Parede de Tijolos   Final Mágico
+!******************************!
+Caos da Bruxa
+!******************************!
+Força +20   Defesa +10
+Controle de Dano  Maldição Elemental
+!******************************!
+Rune Ring
+!******************************!
+Magia +20   Defesa +10
+Segunda Chance   Maldição Elemental
+!******************************!
+Extremo
+!******************************!
+Um PV   Mais EXP Melhorada
+!******************************!
+Círculo do Mestre
+!******************************!
+Defesa +30   100% resistência a todo elemento
+Jogada Arriscada   Sempre Apuros
+!******************************!
+Espaço no Devido Lugar
+!******************************!
+Defesa +30   100% resistência a espaço
+!******************************!
+Ventos Lânguidos
+!******************************!
+Defesa +30   100% resistência a vento
+!******************************!
+Quebra-Gelo
+!******************************!
+Defesa +30   100% resistência a gelo
+!******************************!
+Pés no Chão
+!******************************!
+Defesa +30   100% resistência a terra
+!******************************!
+Perca sua Ilusão
+!******************************!
+Defesa +30   100% resistência a ilusão
+!******************************!
+Suspiro da Lua
+!******************************!
+Defesa +30   100% resistência a lua
+!******************************!
+Lágrimas de Fogo
+!******************************!
+Defesa +30   100% resistência a fogo
+!******************************!
+Divisa das Águas
+!******************************!
+Defesa +30   100% resistência a água
+!******************************!
+Teste de Tempo
+!******************************!
+Defesa +30   100% resistência a tempo
+!******************************!
+Sedenta de Flores
+!******************************!
+Defesa +30   100% resistência a flor
+!******************************!
+Raio Roubado
+!******************************!
+Defesa +30   100% resistência a raio
+!******************************!
+Falecimento da Luz
+!******************************!
+Defesa +30   100% resistência a luz
+!******************************!
+Nada a Temer
+!******************************!
+Defesa +30   100% resistência ao vazio
+!******************************!
+DELETED
+!******************************!
+DELETED
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

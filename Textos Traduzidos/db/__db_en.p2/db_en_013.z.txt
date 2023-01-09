@@ -1,0 +1,272 @@
+Protótipo
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Produto Final
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Produto Final+ 
+!******************************!
+Uma Produto Final aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Teoria Falsa 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Teoria Falsa+ 
+!******************************!
+Uma Teoria Falsa aprimorada.
+Permite seu ataque alcançar uma vasta
+área. 
+!******************************!
+Inquisição
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes.
+!******************************!
+Inquisição+ 
+!******************************!
+Uma Inquisição aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes.
+!******************************!
+Tampa de Panela
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Frio Intenso
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Frio Intenso+ 
+!******************************!
+Uma Frio Intenso aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Geleira 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Geleira+ 
+!******************************!
+Uma Geleira aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Escrutínio 
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Escrutínio+ 
+!******************************!
+Uma Escrutínio aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Günz 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Günz+ 
+!******************************!
+Uma Günz aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Avalanche 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Avalanche+ 
+!******************************!
+Uma Avalanche aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Boneco de Neve 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Escudo Criolítico+ 
+!******************************!
+Uma Escudo Criolítico aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Escudo Criolítico
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Zero Absoluto 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Zero Absoluto+ 
+!******************************!
+Uma Zero Absoluto aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Empirismo+ 
+!******************************!
+Uma Empirismo aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Empirismo 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Mindel+ 
+!******************************!
+Uma Mindel aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Mindel 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Icebergue+ 
+!******************************!
+Uma Icebergue aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Icebergue 
+!******************************!
+Uma arma que atua extremamente
+bem no ar. 
+Perfeita para lidar com voadores.
+!******************************!
+Escudo Criolítico++ 
+!******************************!
+A Escudo Criolítico suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Zero Absoluto++ 
+!******************************!
+A Zero Absoluto suprema.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Würm 
+!******************************!
+Uma arma que oferece alta Magia e
+velocidade em combos térreos. 
+!******************************!
+Würm+ 
+!******************************!
+Uma Würm aprimorada.
+Oferece alta Magia e velocidade em
+combos térreos. 
+!******************************!
+Edificação
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Edificação+ 
+!******************************!
+Uma Edificação aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Sangue Frio
+!******************************!
+Uma arma que oferece alta Magia e
+combos amplos. 
+!******************************!
+Sangue Frio+ 
+!******************************!
+Uma Sangue Frio aprimorada.
+Oferece alta Magia e combos amplos. 
+!******************************!
+Abaixo de Zero+ 
+!******************************!
+Uma Abaixo de Zero aprimorada.
+Permite dar, em série, combos aéreos 
+mais longos com alcance mais vasto.
+!******************************!
+Abaixo de Zero 
+!******************************!
+Uma arma que permite dar, em série,
+mais longo com alcance mais vasto. 
+!******************************!
+Orgulho Congelado 
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Égide+ 
+!******************************!
+Uma Égide aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Égide 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Excogitação+ 
+!******************************!
+Uma Excogitação aprimorada.
+Fornece versatilidade aumentando
+bastante tanto Força quanto Magia.
+!******************************!
+Excogitação 
+!******************************!
+Uma arma que fornece versatilidade
+aumentando bastante tanto Força 
+quanto Magia. 
+!******************************!
+Escudo Diamantino+ 
+!******************************!
+Uma Escudo Diamantino aprimorada.
+Contém Magia elevada e combos
+amplos. 
+!******************************!
+Escudo Diamantino
+!******************************!
+Uma arma que contém Magia elevada e
+e combos amplos. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

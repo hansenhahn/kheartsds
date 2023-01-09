@@ -1,0 +1,273 @@
+Érica Mutável
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Anêmona Rejeitada
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Anêmona Rejeitada+ 
+!******************************!
+Uma Anênoma Rejeitada aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Pobre Melissa 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Pobre Melissa+ 
+!******************************!
+Uma Pobre Melissa aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Beladona Quieta
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Beladona Quieta+ 
+!******************************!
+Uma Beladona Quieta aprimorada.
+Permite seu ataque alcançar uma
+vasta área. 
+!******************************!
+Concha 
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Amarílis Orgulhosa 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Amarílis Orgulhosa+ 
+!******************************!
+Uma Amarílis Orgulhosa aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Allium Trágico 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Allium Trágico+ 
+!******************************!
+Uma Allium Trágico aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Ipheion Divisor
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Ipheion Divisor+ 
+!******************************!
+Uma Ipheion Partido aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Pseudo-Silene 
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Pseudo-Silene+ 
+!******************************!
+Uma Pseudo-Silene aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Muscari Inflexível 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Muscari Inflexível+ 
+!******************************!
+Uma Muscari Inflexível aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Campânulas Delicadas
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Cártamo Furioso+ 
+!******************************!
+Uma Cártamo Furioso aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Cártamo Furioso 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Cinerária Pesarosa 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Cinerária Pesarosa+ 
+!******************************!
+Uma Cinerária Pesarosa aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Gérbera Grandiosa+ 
+!******************************!
+Uma Gérbera Grandiosa aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Gérbera Grandiosa 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Digitális Infiel+ 
+!******************************!
+Uma Digitális Infiel aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Digitális Infiel
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Valota Dócil+ 
+!******************************!
+Uma Valota Dócil aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Valota Dócil 
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Cártamo Furioso++ 
+!******************************!
+A Cártamo Furioso suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Cinerária Pesarosa++ 
+!******************************!
+A Cinerária Pesarosa suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Anis Medonha
+!******************************!
+Uma arma que oferece alta Força e
+e combos amplos. 
+!******************************!
+Anis Medonha+ 
+!******************************!
+Uma Anis Medonha aprimorada.
+Oferece alta Força e combos amplos.
+!******************************!
+Aquiléia Galante
+!******************************!
+Uma arma que oferece alta Magia e
+velocidade em combos térreos. 
+!******************************!
+Aquiléia Galante+ 
+!******************************!
+Uma Aquiléia Galante aprimorada.
+Oferece alta Magia e velocidade em
+combos térreos. 
+!******************************!
+Helianto Íntegro
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais longos com 
+alcance mais vasto.
+!******************************!
+Helianto Íntegro+ 
+!******************************!
+Uma Helianto Íntegro aprimorada.
+Permite dar, em série, combos térreos
+mais longos com alcance mais vasto.
+!******************************!
+Cardo Vingativo+ 
+!******************************!
+Uma Cardo Vingativo aprimorada.
+Permite dar, em série, combos
+térreos e aéreos mais longos.
+!******************************!
+Cardo Vingativo 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos mais longos. 
+!******************************!
+Dália Graciosa
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Loto Sagrado+ 
+!******************************!
+Uma Loto Sagradro aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Loto Sagrado
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Peônia Nobre+ 
+!******************************!
+Uma Peônia Nobre aprimorada.
+Contém Magia elevada e velocidade
+em combos térreos. 
+!******************************!
+Peônia Nobre
+!******************************!
+Uma arma que contém Magia elevada e
+velocidade em combos térreos. 
+!******************************!
+Magnólia Solene+ 
+!******************************!
+Uma Magnólia Solene aprimorada.
+Permite dar, em série, combos térreos
+muito mais longos com alcance mais vasto.
+!******************************!
+Magnólia Solene 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos muito mais longos com
+alcance mais vasto. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

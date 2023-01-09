@@ -1,0 +1,271 @@
+Malícia
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Sanção
+!******************************!
+Uma arma que atua melhor no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Sanção+ 
+!******************************!
+Uma Sanção aprimorada.
+Atua bem no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Autocracia
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Autocracia+ 
+!******************************!
+Uma Autocracia aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Agressão 
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes. 
+!******************************!
+Agressão+ 
+!******************************!
+Uma Agressão aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes. 
+!******************************!
+Leque Curvo
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Dominador
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Dominador+ 
+!******************************!
+Uma Dominador aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Conquista 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Conquista+ 
+!******************************!
+Uma Conquista aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Fúria
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Fúria+ 
+!******************************!
+Uma Fúria aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Julgamento
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Julgamento+ 
+!******************************!
+Uma Julgamento aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Aristocracia
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Aristocracia+ 
+!******************************!
+Uma Aristocracia aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Absoluto 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Veneração+ 
+!******************************!
+Uma Veneração aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Veneração
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Término 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Término+ 
+!******************************!
+Uma Término aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Desespero+ 
+!******************************!
+Uma Desespero aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Desespero 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Disciplina+ 
+!******************************!
+Uma Disciplina aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Disciplina 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Superioridade+ 
+!******************************!
+Uma Superioridade aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Superioridade
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Veneração++ 
+!******************************!
+A Veneração suprema.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Término++ 
+!******************************!
+A Término suprema.
+Eleva sua Magia para dar um
+incrível poder.
+!******************************!
+Dominação
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Dominação+ 
+!******************************!
+Uma Dominação aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Triunfo 
+!******************************!
+Uma arma que oferece alta Magia e
+combos amplos. 
+!******************************!
+Triunfo+ 
+!******************************!
+Uma Triunfo aprimorada.
+Oferece alta Magia e combos amplos. 
+!******************************!
+Tirano
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos mais longos. 
+!******************************!
+Tirano+ 
+!******************************!
+Uma Tirano aprimorada.
+Permite dar, em série, combos
+térreos e aéreos mais longos.
+!******************************!
+Aniquilação+ 
+!******************************!
+Uma Aniquilação aprimorada.
+Oferece alta Força e velocidade
+em combos térreos. 
+!******************************!
+Aniquilação 
+!******************************!
+Uma arma que oferece alta Força e
+velocidade em combos térreos. 
+!******************************!
+Interdição
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Infinito+ 
+!******************************!
+Uma Infinito aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Infinito
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Ruína+ 
+!******************************!
+Uma Ruína aprimorada.
+Contém Magia elevada e combos
+amplos. 
+!******************************!
+Ruína 
+!******************************!
+Uma arma que contém Magia elevada e
+e combos amplos. 
+!******************************!
+Magnificência+ 
+!******************************!
+Uma Magnificência aprimorada.
+Permite dar, em série, combos 
+térreos e aéreos muito mais longos.
+!******************************!
+Magnificência 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos muito mais 
+longos. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

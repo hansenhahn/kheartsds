@@ -1,0 +1,272 @@
+Lua Nova
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Lobisomem
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes. 
+!******************************!
+Lobisomem+ 
+!******************************!
+Uma Lobisomem aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes.
+!******************************!
+Selene 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Selene+ 
+!******************************!
+Uma Selene aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Frenético 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Frenético+ 
+!******************************!
+Uma Frenético aprimorada.
+Permite seu ataque alcançar uma vasta
+área. 
+!******************************!
+Só Sobremesas
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Ártemis 
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Ártemis+ 
+!******************************!
+Uma Ártemis aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Nascer da Lua
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Nascer da Lua+ 
+!******************************!
+Uma Nascer da Lua aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Crepúsculo 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Crepúsculo+ 
+!******************************!
+Uma Crepúsculo aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Cratera 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Cratera+ 
+!******************************!
+Uma Cratera aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Crescente 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Crescente+ 
+!******************************!
+Uma Crescente aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Coelhinho da Lua 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Luminar+ 
+!******************************!
+Uma Luminar aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Luminar 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Astrologia 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Astrologia+ 
+!******************************!
+Uma Astrologia aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Rainha da Noite+ 
+!******************************!
+Uma Rainha da Noite aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Rainha da Noite 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Fase da Lua+ 
+!******************************!
+Uma Fase da Lua aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Fase da Lua
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Minguante+ 
+!******************************!
+Uma Convexo aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Minguante
+!******************************!
+Uma arma que atua extremamente
+bem no ar. 
+Perfeita para lidar com voadores.
+!******************************!
+Luminar++ 
+!******************************!
+A Luminar suprema.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Astrologia++ 
+!******************************!
+A Astrologia suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Ano-Luz 
+!******************************!
+Uma arma que oferece alta Força e
+e combos amplos. 
+!******************************!
+Ano-Luz+ 
+!******************************!
+Uma Ano-Luz aprimorada.
+Oferece alta Força e combos amplos.
+!******************************!
+Lua Balsâmica
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Lua Balsâmica+ 
+!******************************!
+Uma Lua Balsâmica aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Pôr da Lua
+!******************************!
+Uma arma que oferece alta Força e
+velocidade em combos térreos. 
+!******************************!
+Pôr da Lua+ 
+!******************************!
+Uma Pôr da Lua aprimorada.
+Oferece alta Força e velocidade
+em combos térreos. 
+!******************************!
+Rei da Noite+ 
+!******************************!
+Uma Rei da Noite aprimorada.
+Permite dar, em série, combos aéreos 
+mais longos com alcance mais vasto.
+!******************************!
+Rei da Noite
+!******************************!
+Uma arma que permite dar, em série,
+mais longo com alcance mais vasto. 
+!******************************!
+Lunático
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Dicotomia+ 
+!******************************!
+Uma Dicotomia aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Dicotomia 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Órbita+ 
+!******************************!
+Uma Órbita aprimorada.
+Fornece versatilidade aumentando
+bastante tanto Força quanto Magia.
+!******************************!
+Órbita 
+!******************************!
+Uma arma que fornece versatilidade
+aumentando bastante tanto Força 
+quanto Magia. 
+!******************************!
+Horóscopo+ 
+!******************************!
+Uma Horóscopo aprimorada.
+Contém Força elevada e velocidade
+em combos térreos. 
+!******************************!
+Horóscopo 
+!******************************!
+Uma arma que contém elevada
+Força e velocidade em combos térreos. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

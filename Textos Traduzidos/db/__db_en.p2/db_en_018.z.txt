@@ -1,0 +1,273 @@
+Cartilha Negra
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Tomo Branco
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Tomo Branco+ 
+!******************************!
+Uma Tomo Branco aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Compêndio Arcano 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Compêndio Arcano+ 
+!******************************!
+Uma Compêndio Arcano aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Bestiário Excêntrico
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Bestiário Excêntrico+ 
+!******************************!
+Uma Bestiário Excêntrico aprimorada.
+Permite seu ataque alcançar uma vasta
+área. 
+!******************************!
+Lanchinho da Meia-Noite 
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Pesquisa Ilícita
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Pesquisa Ilícita+ 
+!******************************!
+Uma Pesquisa Ilícita aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Anotações Dissidentes
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Anotações Dissidentes+ 
+!******************************!
+Uma Anotações Dissidentes aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Currículo Insano
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Currículo Insano+ 
+!******************************!
+Uaa Currículo Insano aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Álbum Místico
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Álbum Místico+ 
+!******************************!
+Uma Álbum Místico aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Texto Tabu 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Texto Tabu+ 
+!******************************!
+Uma Texto Tabu aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Querido Diário
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Segredos Enterrados+ 
+!******************************!
+Segredos Enterrados aprimorada.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Segredos Enterrados 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Códice Nefário
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Códice Nefário+ 
+!******************************!
+Uma Códice Nefário aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Escritas Sem Título+ 
+!******************************!
+Escritas Sem Título aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Escritas Sem Título 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar
+um imenso dano. 
+!******************************!
+Manual Amaldiçoado+ 
+!******************************!
+Uma Manual Amaldiçoado aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Manual Amaldiçoado 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Esotérica Extranatural+ 
+!******************************!
+Uma Esotérica Extranatural aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Esotérica Extranatural
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Segredos Enterrados++ 
+!******************************!
+A Segredos Enterrados suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Códice Nefário++ 
+!******************************!
+A Códice Nefário suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Recortes Revoltantes 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais longos com 
+alcance mais vasto.
+!******************************!
+Recortes Revoltantes+ 
+!******************************!
+Uma Recortes Revoltantes aprimorada.
+Permite dar, em série, combos térreos
+mais longos com alcance mais vasto.
+!******************************!
+Dogma Abandonado 
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Dogma Abandonado+ 
+!******************************!
+Dogma Abandonado aprimorada.
+Fornece versatilidade elevando,
+tanto Força quanto Magia. 
+!******************************!
+Contos Sobrenaturais
+!******************************!
+Uma arma que oferece alta Magia e
+combos amplos. 
+!******************************!
+Contos Sobrenaturais+ 
+!******************************!
+Uma Contos Sobrenaturais aprimorada.
+Oferece alta Magia e combos amplos. 
+!******************************!
+Heterodoxia Perdida+ 
+!******************************!
+Uma Heterodoxia Perdida aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Heterodoxia Perdida
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Livro de Retribuição
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Tratado Radical+ 
+!******************************!
+Uma Tratado Radical aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Tratado Radical 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Atlas de Presságios+ 
+!******************************!
+Uma Atlas de Presságios aprimorada.
+Contém Magia elevada e combos
+amplos. 
+!******************************!
+Atlas de Presságios 
+!******************************!
+Uma arma que contém Magia elevada e
+e combos amplos. 
+!******************************!
+Saber Indescritível+ 
+!******************************!
+Uma Saber Indescritível aprimorada.
+Fornece versatilidade aumentando
+bastante tanto Força quanto Magia.
+!******************************!
+Saber Indescritível
+!******************************!
+Uma arma que fornece versatilidade
+aumentando bastante tanto Força 
+quanto Magia. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

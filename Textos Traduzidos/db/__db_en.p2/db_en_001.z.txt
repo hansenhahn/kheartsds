@@ -1,0 +1,273 @@
+Modelo Básico
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Afinado
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Afinado+ 
+!******************************!
+Uma Afinado aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Prelúdio 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Prelúdio+ 
+!******************************!
+Uma Prelúdio aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Pássaro Canoro
+!******************************!
+Uma arma que atua melhor no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Pássaro Canoro+ 
+!******************************!
+Uma Pássaro Canoro aprimorada.
+Atua bem no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Princípe Majestoso
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Quarteto
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Quarteto+ 
+!******************************!
+Uma Quarteto aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Veterano
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Veterano+ 
+!******************************!
+Uma Veterano aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+À Fama 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+À Fama+ 
+!******************************!
+Uma À Fama aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Acorde Potente
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Acorde Potente+ 
+!******************************!
+Uma Acorde Potente aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Interlúdio
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Interlúdio+ 
+!******************************!
+Uma Interlúdio aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Depois da Escola 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Quinteto+ 
+!******************************!
+Uma Quinteto aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Quinteto 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Da Capo 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Da Capo+ 
+!******************************!
+Uma Da Capo aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Estrela do Roque+ 
+!******************************!
+Uma Estrela do Roque aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Estrela do Roque 
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Fermata+ 
+!******************************!
+Uma Fermata aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Fermata 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Serenata+ 
+!******************************!
+Uma Serenata aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Serenata
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Quinteto++ 
+!******************************!
+A Quintento suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Da Capo++ 
+!******************************!
+A Da Capo suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Harmonia
+!******************************!
+Uma arma que oferece alta Magia
+e combos amplos. 
+!******************************!
+Harmonia+ 
+!******************************!
+Uma Harmonia aprimorada.
+Oferece alta Magia e combos amplos. 
+!******************************!
+Oito Dedos
+!******************************!
+Uma arma que oferece alta Magia e
+velocidade em combos térreos. 
+!******************************!
+Oito Dedos+ 
+!******************************!
+Uma Oito Dedos aprimorada.
+Oferece alta Magia e velocidade em
+combos térreos. 
+!******************************!
+Fortissimo 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais longos com 
+alcance mais vasto.
+!******************************!
+Fortissimo+ 
+!******************************!
+Uma Fortissimo aprimorada.
+Permite dar, em série, combos térreos
+mais longos com alcance mais vasto.
+!******************************!
+Milionário+ 
+!******************************!
+Uma Milionário aprimorada.
+Permite dar, em série, combos
+térreos e aéreos mais longos.
+!******************************!
+Milionário
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos mais longos. 
+!******************************!
+Arpejo
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Santuário+ 
+!******************************!
+Uma Santuário aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Santuário 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Concerto+ 
+!******************************!
+Uma Concerto aprimorada.
+Contém Magia elevada e velocidade
+em combos térreos. 
+!******************************!
+Concerto 
+!******************************!
+Uma arma que contém Magia elevada e
+velocidade em combos térreos. 
+!******************************!
+Até Onze+ 
+!******************************!
+Uma Até Onze aprimorada.
+Permite dar, em série, combos térreos
+muito mais longos com alcance mais vasto.
+!******************************!
+Até Onze
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos muito mais longos com
+alcance mais vasto. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

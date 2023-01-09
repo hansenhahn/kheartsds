@@ -1,0 +1,272 @@
+Zéfiro
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Espectro Lunar
+!******************************!
+Uma arma que atua melhor no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Espectro Lunar+ 
+!******************************!
+Uma Espectro Lunar aprimorada.
+Atua bem no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Bruma
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Bruma+ 
+!******************************!
+Uma Bruma aprimorada.
+Permite seu ataque alcançar uma vasta
+área. 
+!******************************!
+Vórtice
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Vórtice+ 
+!******************************!
+Uma Vórtice aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Vassoura 
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Aer 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Aer+ 
+!******************************!
+Uma Aer aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Asura 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Asura+ 
+!******************************!
+Uma Asura aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Cisão 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Cisão+ 
+!******************************!
+Uma Cisão aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Paladino
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Paladino+ 
+!******************************!
+Uma Paladino aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Nuvem Noturna 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Nuvem Noturna+ 
+!******************************!
+Uma Nuvem Noturna aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Serpe 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Nescidade+ 
+!******************************!
+Uma Nescidade aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Nescidade 
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Crux
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso danos. 
+!******************************!
+Crux+ 
+!******************************!
+Uma Crucial aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Anjo Caído+ 
+!******************************!
+Uma Queda Celeste aprimorada.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Anjo Caído
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Ferorei+ 
+!******************************!
+Uma Ferorei aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Ferorei 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Vislumbre+ 
+!******************************!
+Uma Vislumbre aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Vislumbre
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Nescidade++ 
+!******************************!
+A Nescidade suprema.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Crux++ 
+!******************************!
+A Crucial suprema.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Hegemonia
+!******************************!
+Uma arma que oferece alta Força e
+e combos amplos. 
+!******************************!
+Hegemonia+ 
+!******************************!
+Uma Hegemonia aprimorada.
+Oferece alta Força e combos amplos.
+!******************************!
+Aether 
+!******************************!
+Uma arma que oferece alta Magia e
+bastante estendidos. 
+!******************************!
+Aether+ 
+!******************************!
+Uma Aether aprimorada.
+Oferece alta Magia e combos aéreos
+estendidos. 
+!******************************!
+Yaksha 
+!******************************!
+Uma arma que permite dar, em série,
+mais longo com alcance mais vasto. 
+!******************************!
+Yaksha+ 
+!******************************!
+Uma Yaksha aprimorada.
+Permite dar, em série, combos aéreos 
+mais longos com alcance mais vasto.
+!******************************!
+Fogo-Fátuo+ 
+!******************************!
+Uma Fogo-Fátuo aprimorada.
+Oferece alta Magia e velocidade em
+combos térreos. 
+!******************************!
+Fogo-Fátuo 
+!******************************!
+Uma arma que oferece alta Magia e
+velocidade em combos térreos. 
+!******************************!
+Draco
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Dragão Reinante+ 
+!******************************!
+Uma Dragão Reinante aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Dragão Reinante 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Zodíaco+ 
+!******************************!
+Uma Zodíaco aprimorada.
+Contém Magia elevada e combos aéreos
+bastante estendidos. 
+!******************************!
+Zodíaco
+!******************************!
+Uma arma que contém Magia elevada e
+combos aéreos bastante estendidos. 
+!******************************!
+Cinosura+ 
+!******************************!
+Uma Cinosura aprimorada.
+Permite dar, em série, combos aéreos
+muito mais longo com alcance mais vasto. 
+!******************************!
+Cinosura 
+!******************************!
+Uma arma que permite dar, em série,
+combos aéreos muito mais longos com
+alcance mais vasto. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

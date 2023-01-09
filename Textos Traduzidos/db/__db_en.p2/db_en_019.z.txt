@@ -1,0 +1,564 @@
+Fire
+!******************************!
+Magia que lança uma bola de fogo.
+<AMARELO>Incendeia<BRANCO> inimigos para tirar mais PV.
+!******************************!
+Fira
+!******************************!
+Magia que lança uma bola de fogo em linha reta. 
+<AMARELO>Incendeia<BRANCO> um inimigo para tirar mais PV. 
+!******************************!
+Firaga
+!******************************!
+Magia que lança uma bola de fogo que explode 
+no impacto. <AMARELO>Incendeia<BRANCO> um inimigo para tirar mais PV. 
+!******************************!
+Blizzard
+!******************************!
+Magia que lança um cristal de gelo que
+persegue inimigos. <AMARELO>Congela<BRANCO> inimigos para 
+que levem o triplo de dano. 
+!******************************!
+Blizzara
+!******************************!
+Magia que lança um cristal de gelo que
+fica estacionário. <AMARELO>Congela<BRANCO> inimigos para 
+que levem o triplo de dano. 
+!******************************!
+Blizzaga
+!******************************!
+Magia que lança um cristal de gelo que
+explode no contato. <AMARELO>Congela<BRANCO> inimigos para 
+que levem o triplo de dano. 
+!******************************!
+Thunder
+!******************************!
+Magia que descarrega uma fileira de
+relâmpagos. <AMARELO>Conecte<BRANCO> inimigos para
+causar dano adicional. 
+!******************************!
+Thundara
+!******************************!
+Magia que acerta uma grande área com
+relâmpagos. <AMARELO>Conecte<BRANCO> inimigos para
+causar dano adicional. 
+!******************************!
+Thundaga
+!******************************!
+Magia que atinge um inimigo diretamente
+com relâmpagos. <AMARELO>Conecte<BRANCO> inimigos para
+causar dano adicional. 
+!******************************!
+Aero
+!******************************!
+Magia que dispara um leve vento
+contra um inimigo. <AMARELO>Atire<BRANCO> inimigos no ar
+para deixá-los vulneráveis a dano triplo. 
+!******************************!
+Aerora
+!******************************!
+Magia que lança um vendaval que segue
+seus inimigos. <AMARELO>Atire<BRANCO> inimigos no ar
+para deixá-los vulneráveis a dano triplo. 
+!******************************!
+Aeroga
+!******************************!
+Magia que gera um gigantesco tornado.
+<AMARELO>Atire<BRANCO> inimigos no ar
+para deixá-los vulneráveis a dano triplo. 
+!******************************!
+Cure
+!******************************!
+Magia que recupera parte dos seus PV. 
+!******************************!
+Cura
+!******************************!
+Magia que recupera seu PV com o
+passar do tempo. 
+!******************************!
+Curaga
+!******************************!
+Magia que cria uma área onde você
+e seus companheiros recuperam PV. 
+!******************************!
+Rolagem Esquiva 
+!******************************!
+Segure <+> e aperte <Y> para rolar para 
+frente e evitar ataques inimigos. 
+!******************************!
+Impulso Esquivo
+!******************************!
+Derrube inimigos enquanto faz uma
+Rolagem Esquiva. 
+!******************************!
+Barreira Esquiva 
+!******************************!
+Faça os inimigos recuarem enquanto
+faz uma Rolagem Esquiva. 
+!******************************!
+Combo Esquivo
+!******************************!
+Mude rapidamente de uma Rolagem
+Esquiva para a ofensiva. 
+!******************************!
+Auto-Esquiva 
+!******************************!
+Evita ataques inimigos automaticamente.
+!******************************!
+Barreira
+!******************************!
+Aperte <Y> para bloquear os ataques
+inimigos. 
+!******************************!
+Barreira Perfeita
+!******************************!
+Bloqueie um ataque na hora certa,
+para eliminar o coice, e permitir
+que você ataque imediatamente. 
+!******************************!
+Barreira-Espelho
+!******************************!
+Responda com um poderoso contra-ataque
+imediatamente após bloquear. 
+!******************************!
+Barreira Recuante
+!******************************!
+Retroceda mais assim que receber
+um ataque. 
+!******************************!
+Barreira Deslizante
+!******************************!
+Avance rapidamente após defender. 
+!******************************!
+Barreira&Pulo
+!******************************!
+Pule logo após defender, sem
+nenhum atraso. 
+!******************************!
+Barreira de Fogo
+!******************************!
+<AMARELO>Queime<BRANCO> inimigos
+eventuamnete quando bloquear. 
+!******************************!
+Barreira de Gelo
+!******************************!
+<AMARELO>Congele<BRANCO> inimigos
+eventualmente quando bloquear. 
+!******************************!
+Barreira de Raio
+!******************************!
+<AMARELO>Conecte<BRANCO> inimigos
+eventuamnete quando bloquear. 
+!******************************!
+Barreira Aero
+!******************************!
+<AMARELO>Atire<BRANCO> inimigos
+eventuamnete quando bloquear. 
+!******************************!
+Barreira Bonificada
+!******************************!
+Recupere PVs eventualmente, ao
+bloquear. 
+!******************************!
+Barreira Circular
+!******************************!
+Bloqueie qualquer ataque, mesmo
+que venha por trás. 
+!******************************!
+Auto-Barreira
+!******************************!
+Bloqueie ataques frontais automaticamente. 
+!******************************!
+Planeio
+!******************************!
+Segure <Y> no ar para planar no vento.
+Você ficará no ar até soltar
+o botão. 
+!******************************!
+Planeio Guiado
+!******************************!
+Mire em um alvo ao planar para
+ir na direção dele. 
+!******************************!
+Planeio-Foguete 
+!******************************!
+Passe pelos inimigos, usando um Planeio
+logo após usar um Deslize Aéreo.
+(Requer <AMARELO>Deslize Aéreo<BRANCO>.) 
+!******************************!
+Deslize Aéreo
+!******************************!
+Aperte <B> no ar para correr
+no próprio ar. 
+!******************************!
+Impulso Aéreo
+!******************************!
+Jogue inimigos para o lado quando
+executar um deslize aéreo.
+!******************************!
+Impulsão Deslizante
+!******************************!
+Aperta <A> para rapidamente se
+aproximar de um alvo e atacar. 
+!******************************!
+Recuperação Aérea
+!******************************!
+Aperte <B> se for jogado no ar
+para recuperar o equilíbrio.
+!******************************!
+Recuperação Rápida
+!******************************!
+Recupere-se mais rápido apertando
+<B> no momento em que for mandado
+no ar. 
+!******************************!
+Rebate Aéreo
+!******************************!
+Responda com um poderoso contra-
+ataque logo após executar uma
+recuperação aérea.
+!******************************!
+Recuperação Esmagadora
+!******************************!
+Jogue para longe inimigos próximos
+quando executar uma recuperação
+aérea.
+!******************************!
+Rapidez
+!******************************!
+Corra mais rápido.
+!******************************!
+Pulo Alto 
+!******************************!
+Pule mais alto.
+!******************************!
+Flutuar
+!******************************!
+Segure <B> no ar para deixar
+mais lenta a sua queda.
+!******************************!
+Parede de Tijolos
+!******************************!
+Continue um combo sem interrupção
+mesmo se talvez algum dano.
+!******************************!
+Barreira Ofensiva
+!******************************!
+Reflita ataques recebidos com os
+seus combos.
+!******************************!
+Combo&Pulo
+!******************************!
+Pule no meio de um combo. 
+!******************************!
+Comobo&Barreira 
+!******************************!
+Bloqueia no meio do combo tirando
+o <+> e apertando <Y>.
+(Requer <AMARELO>Barreira<BRANCO>.) 
+!******************************!
+Combo&Deslize Aéreo 
+!******************************!
+Deslize no ar no meio de um combo
+aéreo apertando <B>.
+(Requer <AMARELO>Deslize Aéreo<BRANCO>.) 
+!******************************!
+Jogo Arriscado
+!******************************!
+Perde PV quando erra o seu ataque. 
+!******************************!
+Golpe Mágico
+!******************************!
+Ganha um pequeno aumento na Força
+se sua Magia for maior.
+!******************************!
+Crítico Reforçado
+!******************************!
+Aumenta a possibilidade de dar
+danos críticos com qualquer tipo
+de ataque.
+!******************************!
+Combo Reforçado
+!******************************!
+Distribua danos cada vez maiores
+à medida que o seu combo continua. 
+!******************************!
+Surto de Vitalidade
+!******************************!
+Ganha um aumento na Força quando
+o seu PV estiver cheio.
+!******************************!
+Barreira de Vitalidade
+!******************************!
+Tome um terço do dano quando
+seu PV estiver cheio.
+!******************************!
+Metendo Bronca
+!******************************!
+Ataque inimigos quando seu PV
+estiver cheio e eles irão
+sempre ficar tontos. 
+!******************************!
+Golpeador
+!******************************!
+Ganhe um aumento na Força quando
+o seu PV estiver baixo.
+!******************************!
+Defensor
+!******************************!
+Ganhe um aumento na Defesa quando
+o seu PV estiver baixo.
+!******************************!
+Grande Impacto
+!******************************!
+Dê mais danos críticos quando
+o seu PV estiver baixo.
+!******************************!
+Controle de Dano
+!******************************!
+Receba metade do dano quando
+o seu PV estiver baixo.
+!******************************!
+Segunda Chance
+!******************************!
+Fique com 1 PV depois de ser
+atingido por um ataque que
+seria fatal.
+!******************************!
+Auto-Vida
+!******************************!
+Recupere-se ao perder todos os PV.
+Só funciona uma vez. 
+!******************************!
+Perigo Constante
+!******************************!
+Perca a capacidade de recuperar PV
+quando estiver baixo, e permaneça
+em constante perigo. 
+!******************************!
+Um PV
+!******************************!
+Lute com somente 1 PV.
+Não será possível passar disso.
+!******************************!
+Finalização de Fogo
+!******************************!
+<AMARELO>Incendeie<BRANCO> inimigos às vezes com
+o últiom golpe de seus combos.
+!******************************!
+Finalização de Nevasca
+!******************************!
+<AMARELO>Congele<BRANCO> inimigos às vezes com
+o últiom golpe de seus combos.
+!******************************!
+Finalização de Trovão
+!******************************!
+<AMARELO>Eletrocute<BRANCO> inimigos às vezes com
+o últiom golpe de seus combos.
+!******************************!
+Finalização Aérea
+!******************************!
+<AMARELO>Jogue<BRANCO> inimigos no ar às vezes com
+o últiom golpe de seus combos.
+!******************************!
+Maldição Elementar 
+!******************************!
+Aleatoriamente contraia algum
+efeito negativo independentemente
+de receber ataques inimigos. 
+!******************************!
+Final Mágico
+!******************************!
+Aumente o poder do último uso
+de qualquer magia que tiver.
+!******************************!
+Braçal Mágico
+!******************************!
+Sempre termine de lançar uma magia,
+mesmo se for atingido no processo.
+!******************************!
+Reforço em Poção
+!******************************!
+Recupere mais PV que o normal
+de itens.
+!******************************!
+Reforço em Éter
+!******************************!
+Recupere mais usos de magia que
+o normal de itens.
+!******************************!
+Ímã de Tesouro
+!******************************!
+Recolha prêmios próximos a você.
+!******************************!
+Prêmio Fortalecido
+!******************************!
+Recupere mais PV quando pegar
+prêmios de PV.
+!******************************!
+Golpe de Sorte
+!******************************!
+Force inimigos a deixar
+cair itens mais vezes.
+!******************************!
+Tempo em Sequência
+!******************************!
+Tenha uma uma janela de tempo
+maior para continuar sequências.
+!******************************!
+Poder em Sequência 
+!******************************!
+Dê mais dano com ataques assim que
+a sequência estiver no máximo.
+!******************************!
+Bônus de Coração
+!******************************!
+Recupere totalmente o PV toda vez
+que coleta 300 corações.
+!******************************!
+Limite Reforçado
+!******************************!
+Use Quebras de Limite mais cedo
+aumentando o limite máximo de
+sua barra amarela.
+!******************************!
+Varredura
+!******************************!
+Veja o PV dos alvos. 
+!******************************!
+Auto-Mira
+!******************************!
+Automatiacmente foca em alvos
+disponíveis enquanto ataca.
+!******************************!
+Extensor de Alcance
+!******************************!
+Focalize em alvos mesmo que
+estejam bem distantes.
+!******************************!
+Mais EXP
+!******************************!
+Recebe mais EXP que o normal.
+!******************************!
+Ainda Mais EXP
+!******************************!
+Recebea muito mais EXP que o normal.
+!******************************!
+Limite Final 
+!******************************!
+Use seu Limite Final, uma versão
+mais poderesa da Quebra de Limite.
+!******************************!
+Ultima Weapon 
+!******************************!
+Deixa qualquer arma mais forte.
+!******************************!
+Mochila
+!******************************!
+Colete mais itens em campo. 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+DELETED 
+!******************************!
+Poção 
+!******************************!
+Restaura 30% do seu PV.
+!******************************!
+Superpoção 
+!******************************!
+Restaura 50% do seu PV.
+!******************************!
+Megapoção 
+!******************************!
+Restaura 40% de PV de todos 
+os parceiros no mapa. 
+!******************************!
+Éter 
+!******************************!
+Restaura um ataque de cada magia sua.
+!******************************!
+Superéter 
+!******************************!
+Restaura dois ataques de cada magia sua.
+!******************************!
+Mega-éter 
+!******************************!
+Restaura um ataque em cada magia
+de cada parceiro no mesmo mapa.
+!******************************!
+Elixir 
+!******************************!
+Restaura PV e magia completamente. 
+!******************************!
+Mega-elixir 
+!******************************!
+Restaura completamente PV e magia de
+todos os parceiros no mesmo mapa. 
+!******************************!
+Panaceia 
+!******************************!
+Cura todos os status negativos
+do seu personagem.
+!******************************!
+Recarga de Limite
+!******************************!
+Recupera sua barra de Quebra
+de Limite em um ponto. 
+!******************************!

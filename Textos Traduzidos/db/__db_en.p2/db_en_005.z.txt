@@ -1,0 +1,271 @@
+Reticência
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Golias
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes.
+!******************************!
+Golias+ 
+!******************************!
+Uma Golias aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes. 
+!******************************!
+Colosso
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Colosso+ 
+!******************************!
+Uma Colosso aprimorada.
+Permite seu ataque alcançar uma vasta
+área. 
+!******************************!
+Precursor
+!******************************!
+Uma arma que oferece alta Força e
+velocidade em combos térreos. 
+!******************************!
+Precursor+ 
+!******************************!
+Uma Precursor aprimorada.
+Oferece alta Força e velocidade
+em combos térreos. 
+!******************************!
+Tac Toc Toco
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Vermelho Cobre
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Vermelho Cobre+ 
+!******************************!
+Uma Vermelho Cobre aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Ursa Maior
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Ursa Maior+ 
+!******************************!
+Uma Ursa Maior aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Pau-brasil
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Pau-brasil+ 
+!******************************!
+Uma Pau-brasil aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Terreno
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Terreno+ 
+!******************************!
+Uma Terreno aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Inverno Forte
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Inverno Forte+ 
+!******************************!
+Uma Inverno Forte aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Monólito 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Alvor+ 
+!******************************!
+Uma Alvor aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Alvor
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Megacosmo 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Megacosmo+ 
+!******************************!
+Uma Megacosmo aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Sequóia+ 
+!******************************!
+Uma Sequóia aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Sequóia
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Fuligem+ 
+!******************************!
+Uma Fuligem aprimorada.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Fuligem
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Vagalume+ 
+!******************************!
+Uma Vagalume aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Vagalume
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Alvor++ 
+!******************************!
+A Alvor suprema.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Megacosmo++ 
+!******************************!
+A Megacosmo suprema.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Octirônio
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Octirônio+ 
+!******************************!
+Uma Octirônio aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Preto Ferro
+!******************************!
+Uma arma que oferece alta Força e
+velocidade em combos térreos. 
+!******************************!
+Preto Ferro+ 
+!******************************!
+Uma Preto Ferro aprimorada.
+Oferece alta Força e velocidade
+em combos térreos. 
+!******************************!
+Claridade
+!******************************!
+Uma arma que oferece alta Força
+e combos amplos. 
+!******************************!
+Claridade+ 
+!******************************!
+Uma Claridade aprimorada.
+Oferece alta Força e combos amplos.
+!******************************!
+Hipérion+ 
+!******************************!
+Uma Hipérion aprimorada.
+Permite dar, em série, combos
+térreos e aéreos mais longos.
+!******************************!
+Hipérion
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos mais longos. 
+!******************************!
+Corta-Céu
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Virtude Cardeal+ 
+!******************************!
+Uma Virtude Cardeal aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Virtude Cardeal
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Brilho Terrestre+ 
+!******************************!
+Uma Brilho Terrestre aprimorada.
+Contém Força elevada e velocidade
+em combos térreos. 
+!******************************!
+Brilho Terrestre 
+!******************************!
+Uma arma que contém elevada Força
+e velocidade em combos térreos. 
+!******************************!
+1001 Noites+ 
+!******************************!
+Uma 1001 Noites aprimorada.
+Contém Força elevada e combos
+amplos. 
+!******************************!
+1001 Noites
+!******************************!
+Uma arma que contém elevada
+Força e combos amplos.
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

@@ -1,0 +1,274 @@
+Cinzas
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Abatimento 
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Abatimento+ 
+!******************************!
+Abatimento aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Combustão 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Combustão+ 
+!******************************!
+Uma Combustão aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Inferno 
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes.
+!******************************!
+Inferno+ 
+!******************************!
+Uma Inferno aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes. 
+!******************************!
+Fatia de Pizza
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Ação Retardada
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Ação Retardada+ 
+!******************************!
+Uma Ação Retardada aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Moulin Rouge 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Moulin Rouge+ 
+!******************************!
+Uma Moulin Rouge aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Gume Chiante
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Gume Chiante+ 
+!******************************!
+Uma Gume Chiante aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Prometeu 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Prometeu+ 
+!******************************!
+Uma Prometeu aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Oceano Magmático
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Oceano Magmático+ 
+!******************************!
+Uma Oceano Magmático aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Conformistas 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Bombas de Mergulho+ 
+!******************************!
+Bombas de Mergulho aprimorada.
+Eleva sua Magia para dar um 
+incrível poder. 
+!******************************!
+Bombas de Mergulho
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Chama da Glória
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Chama da Glória+ 
+!******************************!
+Uma Chama da Glória aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Coroa Solar+ 
+!******************************!
+Uma Coroa Solar aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Coroa Solar 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Ifrit+ 
+!******************************!
+Uma Ifrit aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Ifrit 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Vulcânicas+ 
+!******************************!
+Uma Vulcânicas aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Vulcânicas 
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Bombas de Mergulho++ 
+!******************************!
+A Bombas de Mergulho suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Chama da Glória++ 
+!******************************!
+A Chama da Glória suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Trio Ômega
+!******************************!
+Uma arma que permite dar, em série,
+combos aéreos mais longo com alcance
+mais vasto. 
+!******************************!
+Trio Ômega+ 
+!******************************!
+Uma Trio Ômega aprimorada.
+Permite dar, em série, combos aéreos 
+mais longos com alcance mais vasto.
+!******************************!
+Rodas Gigantes
+!******************************!
+Uma arma que oferece alta Magia e
+velocidade em combos térreos. 
+!******************************!
+Rodas Gigantes+ 
+!******************************!
+Uma Rodas Gigantes aprimorada.
+Oferece alta Magia e velocidade em
+combos térreos. 
+!******************************!
+Dois Gumes
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Dois Gumes+ 
+!******************************!
+Uma Dois Gumes aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Deflagração+ 
+!******************************!
+Uma Deflagração aprimorada
+Permite dar, em série, combos
+térreos e aéreos mais longos.
+!******************************!
+Deflagração
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos mais longos. 
+!******************************!
+Flamas Eternas 
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Proeminência+ 
+!******************************!
+Uma Proeminência aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Proeminência 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Queima Total+ 
+!******************************!
+Uma Queima Total aprimorada.
+Contém Magia elevada e velocidade
+em combos térreos. 
+!******************************!
+Queima Total 
+!******************************!
+Uma arma que contém Magia elevada
+e velocidade em combos térreos. 
+!******************************!
+Fogo Grego+ 
+!******************************!
+Uma Fogo Grego aprimorada.
+Fornece versatilidade aumentando
+bastante tanto Força quanto Magia.
+!******************************!
+Fogo Grego 
+!******************************!
+Uma arma que fornece versatilidade
+aumentando bastante tanto Força 
+quanto Magia. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

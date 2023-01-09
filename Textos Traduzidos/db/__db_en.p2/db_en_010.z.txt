@@ -1,0 +1,276 @@
+Chave Real
+!******************************!
+A mais básica das Keyblades.
+Instale um painel de arma para 
+transformá-la. 
+!******************************!
+Dor Ausente
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Dor Ausente+ 
+!******************************!
+Uma Dor Ausente aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Dor da Solidão
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Dor da Solidão+ 
+!******************************!
+Uma Dor da Solidão aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Rugido Noturno 
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes. 
+!******************************!
+Rugido Noturno+ 
+!******************************!
+Uma Rugido Noturno aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes.
+!******************************!
+Guarda-chuva 
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Praga Ominosa 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Praga Ominosa+ 
+!******************************!
+Uma Praga Ominosa aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Símbolo de Inocência
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Símbolo de Inocência+ 
+!******************************!
+Uma Símbolo de Inocência aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Relance das Trevas 
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes.
+!******************************!
+Relance das Trevas+ 
+!******************************!
+Uma Relance das Trevas aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Maré Abissal 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Maré Abissal+ 
+!******************************!
+Uma Maré Abissal aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Vôo da Luz Veraz 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Vôo da Luz Veraz+ 
+!******************************!
+Uma Vôo da Luz Veraz aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar danos pesados. 
+!******************************!
+Aubade 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Plasma de Abadom+ 
+!******************************!
+Uma Plasma de Abadom aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Plasma de Abadom
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Coroa de Culpa
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Coroa de Culpa+ 
+!******************************!
+Uma Coroa de Culpa aprimorada.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Eclipse Total+ 
+!******************************!
+Uma Eclipse Total aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Eclipse Total
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Leviatã+ 
+!******************************!
+Uma Leviatã aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Leviatã
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Destino Rejeitado+ 
+!******************************!
+Uma Destino Rejeitado aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Destino Rejeitado 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Plasma de Abadom++ 
+!******************************!
+A Plasma de Abadom suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Coroa de Culpa++ 
+!******************************!
+A Coroa da Culpa suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Escuridão Total 
+!******************************!
+Uma arma que oferece alta Magia e
+combos amplos. 
+!******************************!
+Escuridão Total+ 
+!******************************!
+Uma Escuridão Total aprimorada.
+Oferece alta Magia e combos amplos. 
+!******************************!
+Nênia Silenciosa 
+!******************************!
+Uma arma que fornece versatilidade,
+elevando tanto Força quanto Magia.
+!******************************!
+Nênia Silenciosa+ 
+!******************************!
+Uma Nênia Silenciosa aprimorada.
+Fornece versatilidade, elevando
+tanto Força quanto Magia. 
+!******************************!
+Chama Dissidente 
+!******************************!
+Uma arma que oferece alta Força e
+velocidade em combos térreos. 
+!******************************!
+Chama Dissidente+ 
+!******************************!
+Uma Chama Dissidente aprimorada.
+Oferece alta Força e velocidade
+em combos térreos. 
+!******************************!
+Rajada Sideral+ 
+!******************************!
+Uma Rajada Sideral aprimorada.
+Permite dar, em série, combos
+térreos e aéreos mais longos.
+!******************************!
+Rajada Sideral 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos e aéreos mais longos. 
+!******************************!
+Chave Real+ 
+!******************************!
+Uma Chave Real aprimorada. 
+!******************************!
+Arma Ômega+ 
+!******************************!
+Uma Arma Omêga aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Arma Ômega
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Eclipse Lunar+ 
+!******************************!
+Uma Eclipse Lunar aprimorada.
+Fornece versatilidade, aumentando
+bastante tanto Força quanto Magia.
+!******************************!
+Eclipse Lunar
+!******************************!
+Uma arma que fornece versatilidade,
+aumentando bastante tanto Força 
+quanto Magia. 
+!******************************!
+Fulgor Crepuscular+ 
+!******************************!
+Uma Fulgor Crepuscular aprimorada.
+Contém Força elevada e velocidade
+em combos térreos. 
+!******************************!
+Fulgor Crepuscular
+!******************************!
+Uma arma que contém elevada
+Força e velocidade em combos térreos. 
+!******************************!
+Espada de Disputa
+!******************************!
+DUMMY TEXT 
+!******************************!
+Prometido
+!******************************!
+Uma arma de transformação originada
+instalando uma Unidade de
+Habilidade em uma Chave Real+. 
+!******************************!
+Galho
+!******************************!
+DUMMY TEXT 
+!******************************!
+Dois Em Um 
+!******************************!
+Uma arma de transformação originada
+instalando outra Unidade de
+Habilidade em uma Prometido. 
+!******************************!

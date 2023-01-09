@@ -1,0 +1,276 @@
+Trancheuse 
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Orage 
+!******************************!
+Uma arma que lhe permitir dar,
+em série, combos térreos mais
+rápidos e muito mais longos. 
+!******************************!
+Orage+ 
+!******************************!
+Uma Orage aprimorada.
+Permite dar, em série, combos 
+térreos mais longos. 
+!******************************!
+Carmin 
+!******************************!
+Uma arma que eleva sua Magia para
+dar mais poder. 
+!******************************!
+Carmin+ 
+!******************************!
+Uma Carmin aprimorada.
+Eleva sua Magia para dar mais
+poder. 
+!******************************!
+Indigo 
+!******************************!
+Uma arma que atua melhor no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Indigo+ 
+!******************************!
+Uma Indigo aprimorada.
+Atua bem no ar.
+Ótima para lidar com voadores. 
+!******************************!
+Demoiselle 
+!******************************!
+Isto parece muito familiar... 
+!******************************!
+Tourbillon 
+!******************************!
+Uma arma que lhe permitir dar,
+em série, combos térreos mais
+rápidos e muito mais longos. 
+!******************************!
+Tourbillon+ 
+!******************************!
+Uma Tourbillon aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos. 
+!******************************!
+Météore 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Météore+ 
+!******************************!
+Uma Météore aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Vague 
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Vague+ 
+!******************************!
+Uma Vague aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Irrégulier 
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Irrégulier+ 
+!******************************!
+Uma Irrégulier aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Eruption 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Eruption+ 
+!******************************!
+Uma Eruption aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Ampoule 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Tempête+ 
+!******************************!
+Uma Tempête aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Tempête 
+!******************************!
+Uma arma que lhe permitir dar, em série,
+combos térreos incrivelmente longos. 
+!******************************!
+Etoile 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Etoile+ 
+!******************************!
+Uma Etoile aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Déluge+ 
+!******************************!
+Uma Déluge aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Déluge 
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Dissonance+ 
+!******************************!
+Uma Dissonance aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Dissonance 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Soleil Couchant+ 
+!******************************!
+Uma Soleil Couchant aprimorada.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Soleil Couchant 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Tempête++ 
+!******************************!
+A Tempête suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Etoile++ 
+!******************************!
+A Etoile suprema.
+Eleva sua Magia para dar um
+incrível poder.  
+!******************************!
+Extirpeur 
+!******************************!
+Uma arma que oferece alta Magia e
+combos aéreos estendidos. 
+!******************************!
+Extirpeur+ 
+!******************************!
+Uma Extirpeur aprimorada
+Oferece alta Magia e combos aéreos
+estendidos. 
+!******************************!
+Rafale 
+!******************************!
+Uma arma que lhe permitir dar,
+em série, combos térreos e
+aéreos mais longos. 
+!******************************!
+Rafale+ 
+!******************************!
+Uma Rafale aprimorada.
+Permite dar, em série, combos
+térreos e aéreos mais longos. 
+!******************************!
+Lumineuse 
+!******************************!
+Uma arma que lhe permitir dar,
+em série, combos térreos mais
+longos com alcance vasto. 
+!******************************!
+Lumineuse+ 
+!******************************!
+Uma Lumineuse aprimorada.
+Permite dar, em série, combos
+térreos com alcance vasto. 
+!******************************!
+Croix du Sud+ 
+!******************************!
+Uma Croix de Sud aprimorada.
+Oferece alta Magia e combos amplos. 
+!******************************!
+Croix du Sud 
+!******************************!
+Uma arma que oferece alta Magia e
+combos amplos. 
+!******************************!
+Foudre 
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Vol de Nuit+ 
+!******************************!
+Uma Vol de Nuit aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Vol de Nuit 
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Typhon+ 
+!******************************!
+Uma Typhon aprimorada.
+Permite dar, em série, combos aéreos
+e térreos muito mais longos. 
+!******************************!
+Typhon 
+!******************************!
+Uma arma que lhe permitir dar,
+em série, combos térreos e
+aéreos muito mais longos. 
+!******************************!
+Clair de Lune+ 
+!******************************!
+Uma Clair de Lune aprimorada.
+Permite dar, em série, combos térreos 
+muito mais longos com alcance mais vasto. 
+!******************************!
+Clair de Lune 
+!******************************!
+Uma arma que permite dar, em série,
+combos muito mais longos com alcance
+vasto. 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!

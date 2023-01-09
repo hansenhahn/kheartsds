@@ -1,0 +1,272 @@
+Autônomo
+!******************************!
+Sua mais básica arma.
+Nada a deixa de lado. 
+!******************************!
+Abelha Assassina
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e longos.
+!******************************!
+Abelha Assassina+ 
+!******************************!
+Uma Abelha Asassina aprimorada.
+Permite dar, em série, combos 
+térreos mais rápidos e longos.
+!******************************!
+Precisão 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área. 
+!******************************!
+Precisão+ 
+!******************************!
+Uma Precisão aprimorada.
+Permite seu ataque alcançar uma vasta
+área. 
+!******************************!
+Ignição
+!******************************!
+Uma arma que possui alta Força.
+Útil contra inimigos fortes.
+!******************************!
+Ignição+ 
+!******************************!
+Uma Ignição aprimorada.
+Possui Força alta.
+Útil contra inimigos fortes. 
+!******************************!
+Secador 
+!******************************!
+Isto parece muito familiar...
+!******************************!
+Arraia
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos mais rápidos e muito
+mais longos.
+!******************************!
+Arraia+ 
+!******************************!
+Uma Arraia aprimorada.
+Permite dar, em série, combos térreos 
+mais rápidos e muito mais longos.
+!******************************!
+Duas Cabeças
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+danos pesados. 
+!******************************!
+Duas Cabeças+ 
+!******************************!
+Uma Duas Cabeças aprimorada.
+Permite seu ataque alcançar uma 
+vasta área e tirar danos pesados. 
+!******************************!
+Canhão
+!******************************!
+Uma arma que possui elevada
+Força. Eficaz contra inimigos
+fortes. 
+!******************************!
+Canhão+ 
+!******************************!
+Uma Canhão aprimorada.
+Possui Força elevada.
+Eficaz contra inimigos fortes. 
+!******************************!
+Gaivota
+!******************************!
+Uma arma que atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Gaivota+ 
+!******************************!
+Uma Gaivota aprimorada.
+Atua muito bem no ar.
+Excelente para lidar com voadores. 
+!******************************!
+Concha Estelar 
+!******************************!
+Uma arma que eleva sua Magia para
+dar muito mais poder. 
+!******************************!
+Concha Estelar+ 
+!******************************!
+Uma Concha Estelar aprimorada.
+Eleva sua Magia para dar muito mais
+poder. 
+!******************************!
+Trombeta 
+!******************************!
+Uma arma que faz sair a personalidade
+de quem a empunha. 
+!******************************!
+Contrapeso+ 
+!******************************!
+Uma Contrapeso aprimorada.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Contrapeso 
+!******************************!
+Uma arma que permite dar, em série,
+combos térreos incrivelmente longos.
+!******************************!
+Bahamut 
+!******************************!
+Uma arma que permite seu ataque
+alcançar uma vasta área e tirar 
+um imenso dano. 
+!******************************!
+Bahamut+ 
+!******************************!
+Uma Bahamut aprimorada.
+Permite seu ataque alcançar uma vasta
+área e tirar um imenso dano. 
+!******************************!
+Calor de Cozinhar+ 
+!******************************!
+Uma Calor de Cozinhar aprimorada.
+Possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Calor de Cozinhar 
+!******************************!
+Uma arma que possui Força extrema.
+Devasta inimigos fortes. 
+!******************************!
+Armação Azul+ 
+!******************************!
+Uma Armação Azul aprimorada.
+Atua extremamente bem no ar.
+Perfeita para lidar com voadores. 
+!******************************!
+Armação Azul 
+!******************************!
+Uma arma que atua extremamente
+bem no ar.
+Perfeita para lidar com voadores.
+!******************************!
+Nascer do Sol+ 
+!******************************!
+Uma Nascer do Sol aprimorada.
+Eleva sua Magia para dar um
+incrível poder. 
+!******************************!
+Nascer do Sol 
+!******************************!
+Uma arma que eleva sua Magia para
+dar um poder incrível. 
+!******************************!
+Contrapeso++ 
+!******************************!
+A Contrapeso suprema.
+Permite dar, em série, combos 
+térreos incrivelmente longos. 
+!******************************!
+Bahamut++ 
+!******************************!
+A Bahamut suprema.
+Permite seu ataque alcançar uma
+vasta área e tirar um imenso dano. 
+!******************************!
+Poeira Estelar 
+!******************************!
+Uma arma que oferece alta Magia e
+bastante estendidos. 
+!******************************!
+Poeira Estelar+ 
+!******************************!
+Uma Poeira Estelar aprimorada.
+Oferece alta Magia e combos aéreos
+estendidos. 
+!******************************!
+Olho do Diabo
+!******************************!
+Uma arma que oferece alta Força e
+velocidade em combos térreos. 
+!******************************!
+Olho do Diabo+ 
+!******************************!
+Uma Olho do Diabo aprimorada.
+Oferece alta Força e velocidade
+em combos térreos. 
+!******************************!
+Crime e Punição
+!******************************!
+Uma arma que permite dar, em série,
+mais longo com alcance mais vasto. 
+!******************************!
+Crime e Punição+ 
+!******************************!
+Uma Crime e Punição aprimorada.
+Permite dar, em série, combos aéreos 
+mais longos com alcance mais vasto.
+!******************************!
+Boca de Energia+ 
+!******************************!
+Uma Boca de Energia aprimorada.
+Oferece alta Força e combos amplos.
+!******************************!
+Boca de Energia
+!******************************!
+Uma arma que oferece alta Força e
+e combos amplos. 
+!******************************!
+Atirador de Elite
+!******************************!
+Uma poderosa arma que faz sair o 
+verdadeiro valor de quem a empunha.
+!******************************!
+Arma Final+ 
+!******************************!
+Uma Arma Final aprimorada.
+Possui poder formidável e
+habilidades excepcionais. 
+!******************************!
+Arma Final
+!******************************!
+Uma arma formidável com habilidades
+excepcionais. 
+!******************************!
+Batida Dupla+ 
+!******************************!
+Uma Batida Dupla aprimorada.
+Contém Força elevada e velocidade
+em combos térreos. 
+!******************************!
+Batida Dupla 
+!******************************!
+Uma arma que contém elevada
+Força e velocidade em combos térreos. 
+!******************************!
+Flecha do Cupido+ 
+!******************************!
+Uma Flecha do Cupido aprimorada.
+Permite dar, em série, combos aéreos
+muito mais longo com alcance mais vasto. 
+!******************************!
+Flecha do Cupido
+!******************************!
+Uma arma que permite dar, em série,
+combos aéreos muito mais longos com
+alcance mais vasto.
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
+DUMMY TEXT 
+!******************************!
