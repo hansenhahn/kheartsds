@@ -1,0 +1,806 @@
+&.[HDR].&
+*.000004000000AA2204000000010000000000000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Nossa, o que eles vendem aqui?
+!------------------------------!
+ROXAS
+Ben, qu'est-ce qu'ils vendent ici ?
+!------------------------------!
+ROXAS
+Wow, was verkaufen die hier?
+!------------------------------!
+ROXAS
+Ehi, cosa vendono qui?
+!------------------------------!
+ROXAS
+Guau, ¿qué venden aquí?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+É seu trabalho descobrir, idiota.
+!------------------------------!
+VEXEN
+C'est à toi de le découvrir, idiot.
+!------------------------------!
+VEXEN
+Das sollst du doch herausfinden, du Idiot!
+!------------------------------!
+VEXEN
+È proprio quello che
+devi scoprire, idiota.
+!------------------------------!
+VEXEN
+Nuestro trabajo es
+descubrirlo, idiota.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000100000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Acho que vendem joias aqui.
+!------------------------------!
+ROXAS
+Je crois qu'ils vendent des bijoux.
+!------------------------------!
+ROXAS
+Ich glaube, hier werden Edelsteine verkauft.
+!------------------------------!
+ROXAS
+Credo che qui vendano gioielli.
+!------------------------------!
+ROXAS
+Creo que aquí venden joyas.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Qualquer um pode ver isso.
+!------------------------------!
+VEXEN
+Ça saute aux yeux, oui !
+!------------------------------!
+VEXEN
+Das kann jeder sehen.
+!------------------------------!
+VEXEN
+Questo lo capirebbe chiunque.
+!------------------------------!
+VEXEN
+Eso lo ve cualquiera.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000200000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Acho que vendem roupas aqui.
+!------------------------------!
+ROXAS
+Ils vendent des vêtements ici ?
+!------------------------------!
+ROXAS
+Ich glaube, hier wird Kleidung verkauft.
+!------------------------------!
+ROXAS
+Forse qui vendono vestiti?
+!------------------------------!
+ROXAS
+Supongo que aquí venden ropa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Acha? Você é débil mental?
+O que mais seria?
+!------------------------------!
+VEXEN
+Tu crois ? T'es bête ou quoi ?
+Qu'est-ce que ça pourrait être d'autre ?
+!------------------------------!
+VEXEN
+Glaubst du? Bist du blind?
+Der Laden ist doch komplett leer!
+!------------------------------!
+VEXEN
+Forse? Sei scemo?
+Mi sembra ovvio.
+!------------------------------!
+VEXEN
+¿Supones...? ¿Eres tonto?
+¿Qué venden, si no?
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000300000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Esta parte está pavimentada diferente.
+Tipo uma rua...
+!------------------------------!
+ROXAS
+Les pavés sont différents ici.
+On dirait un chemin...
+!------------------------------!
+ROXAS
+Hier sind lauter verschiedene Fliesen.
+Fast wie eine Straße ...
+!------------------------------!
+ROXAS
+Qui le piastrelle per terra sono
+diverse. Sembra una strada...
+!------------------------------!
+ROXAS
+Este lugar está pavimentado.
+Es como una carretera...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Formidável... E?
+!------------------------------!
+VEXEN
+Quelle perspicacité... Et ?
+!------------------------------!
+VEXEN
+Faszinierend ... Und?
+!------------------------------!
+VEXEN
+Interessante.
+Nient'altro?
+!------------------------------!
+VEXEN
+Fascinante... ¿Y?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Err...
+!------------------------------!
+ROXAS
+Euh...
+!------------------------------!
+ROXAS
+Äh ...
+!------------------------------!
+ROXAS
+Uh...
+!------------------------------!
+ROXAS
+Estooo...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Nunca chegaremos a lugar algum
+com você só constatando o óbvio.
+!------------------------------!
+VEXEN
+Nous n'irons pas très loin si tu ne fais que
+soulever des évidences.
+!------------------------------!
+VEXEN
+Wenn du nur das Offensichtliche sagst,
+werden wir nicht weit kommen.
+!------------------------------!
+VEXEN
+Non faremo alcun progresso
+se continui a dire cose ovvie.
+!------------------------------!
+VEXEN
+Nunca llegaremos a ningún
+sitio si te limitas a decir
+lo obvio.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000400000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Uma rede de túneis subterrâneos?
+Está fechado.
+!------------------------------!
+ROXAS
+Un tunnel souterrain ?
+C'est fermé.
+!------------------------------!
+ROXAS
+Ein unterirdisches Tunnelsystem?
+Es ist verschlossen.
+!------------------------------!
+ROXAS
+Una rete di tunnel sotterranei?
+Sembra tutto chiuso.
+!------------------------------!
+ROXAS
+¿Una red de túneles?
+Están cerrados.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Repare no número sobre a porta.
+Essa é a designação deste portão.
+!------------------------------!
+VEXEN
+Regarde le chiffre sur la porte.
+Il indique son numéro.
+!------------------------------!
+VEXEN
+Achte auf die Zahl über der Tür.
+Das ist die Bezeichnung dieses Tors.
+!------------------------------!
+VEXEN
+Annota il numero sulla porta.
+Quello è il nome dell'uscita.
+!------------------------------!
+VEXEN
+Mira el número, encima de la
+puerta. La designa.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Está com o número quatro.
+!------------------------------!
+ROXAS
+C'est la numéro quatre.
+!------------------------------!
+ROXAS
+Da steht Nummer vier.
+!------------------------------!
+ROXAS
+È la numero quattro.
+!------------------------------!
+ROXAS
+Dice que es la número cuatro.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Exato. Quatro, não um.
+O que significa que há vários portões.
+!------------------------------!
+VEXEN
+Oui, quatre et pas une.
+Ce qui veut dire qu'il y a d'autres portes.
+!------------------------------!
+VEXEN
+Genau. Vier, nicht eins.
+Das bedeutet, es gibt mehrere Tore.
+!------------------------------!
+VEXEN
+Sì, quattro. Non uno.
+Quindi ci sono diverse uscite.
+!------------------------------!
+VEXEN
+Exacto. Cuatro, no una.
+Significa que hay varias.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000500000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Está trancado.
+!------------------------------!
+ROXAS
+C'est verrouillé.
+!------------------------------!
+ROXAS
+Verschlossen.
+!------------------------------!
+ROXAS
+È chiusa...
+!------------------------------!
+ROXAS
+Está cerrada.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Você não precisa abrir todas as
+portas por que passamos, sabe.
+!------------------------------!
+VEXEN
+Tu n'es pas obligé d'ouvrir toutes
+les portes qu'on trouve, tu sais.
+!------------------------------!
+VEXEN
+Du brauchst nicht jede Tür zu öffnen,
+an der wir vorbeikommen.
+!------------------------------!
+VEXEN
+Non dobbiamo aprire
+ogni porta che vediamo.
+!------------------------------!
+VEXEN
+No tienes por qué abrir cada
+puerta que veamos, ¿sabes?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Tente lembrar que esta é uma operação secreta.
+A cidade pode estar tranquila, mas não vazia.
+!------------------------------!
+N'oublie pas que nous sommes ici incognito.
+La ville est calme, mais sûrement pas déserte.
+!------------------------------!
+Versuch dran zu denken, dass
+das eine geheime Operation ist.
+!------------------------------!
+Ricorda che questa è una missione
+sotto copertura. E che la città è
+tranquilla, ma non disabitata.
+!------------------------------!
+Recuerda que estamos de
+incógnito. La ciudad está
+tranquila, no vacía.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Se deixar ser visto, VOCÊ que
+será o objeto de investigação.
+!------------------------------!
+Si jamais on te voit, c'est toi qui
+deviendras suspect.
+!------------------------------!
+Wenn du gesehen wirst, werden sie
+DICH unter die Lupe nehmen.
+!------------------------------!
+Se ti fai scoprire, inizieranno
+a indagare su di TE.
+!------------------------------!
+Si dejas que te vean,
+tú serás objeto de
+investigación.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000600000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Pontes, escadas...
+Parece fácil se perder nesta cidade.
+!------------------------------!
+ROXAS
+Des arches et des escaliers...
+Ce doit être facile de se perdre ici.
+!------------------------------!
+ROXAS
+Bögen, Treppen ...
+Hier kann man sich leicht verlaufen.
+!------------------------------!
+ROXAS
+Arcate, scale...
+Qui è facile perdersi.
+!------------------------------!
+ROXAS
+Puentes, escaleras...
+Parece fácil perderse aquí.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Fácil de se perder?
+Seu trabalho é mapear mentalmente este lugar!
+!------------------------------!
+VEXEN
+Facile de se perdre ? Tu es censé établir
+une carte mentale de cet endroit !
+!------------------------------!
+VEXEN
+Leicht verlaufen? Du musst eine
+geistige Karte dieses Ortes erstellen!
+!------------------------------!
+VEXEN
+Come sarebbe a dire? Devi
+imparare a memoria questa città!
+!------------------------------!
+VEXEN
+¿Fácil perderse? ¡Tienes que
+hacer un mapa mental del lugar!
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Pense nisto como um ponto
+de referência, uma pista.
+!------------------------------!
+Considère ça comme un point de repère.
+Comme un indice.
+!------------------------------!
+Betrachte das hier als Orientierungspunkt.
+Als Hinweis.
+!------------------------------!
+Consideralo un punto di
+riferimento... un indizio.
+!------------------------------!
+Considera esto un punto de
+referencia... como una pista.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000700000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Tem um grande buraco no muro.
+Posso ver umas árvores do outro lado.
+!------------------------------!
+ROXAS
+Il y a un énorme trou dans le mur.
+Je vois des arbres au travers.
+!------------------------------!
+ROXAS
+Da ist ein großes Loch in der Wand.
+Auf der anderen Seite ist ein Wald zu sehen.
+!------------------------------!
+ROXAS
+C'è una grande apertura nel
+muro. Si vede il bosco.
+!------------------------------!
+ROXAS
+Un gran agujero en el muro.
+Se ven árboles más allá.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Estamos investigando a cidade agora.
+Não lhe ensinaram sobre essas barreiras?
+!------------------------------!
+VEXEN
+Nous inspectons la ville pour le moment.
+Ne t'ont-ils pas parlé de ces barrières ?
+!------------------------------!
+VEXEN
+Wir erforschen jetzt die Stadt.
+Haben sie dir nichts über Barrieren gesagt?
+!------------------------------!
+VEXEN
+Ora pensiamo alla città.
+Non ti hanno parlato delle barricate?
+!------------------------------!
+VEXEN
+Ahora estamos investigando la
+ciudad. ¿No te han enseñado
+qué son esas barricadas?
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Sim... ensinaram.
+!------------------------------!
+ROXAS
+Si, si... ils l'ont fait.
+!------------------------------!
+ROXAS
+Doch ... das haben sie.
+!------------------------------!
+ROXAS
+Sì, certo.
+!------------------------------!
+ROXAS
+Sí...
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000800000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+A entrada está fechada.
+Parece que a trilha leva direto nessa construção.
+!------------------------------!
+ROXAS
+L'entrée est fermée par un rideau de fer.
+On dirait que ça mène dans ce bâtiment.
+!------------------------------!
+ROXAS
+Der Eingang ist verschlossen.
+Die Straße führt direkt in dieses Gebäude.
+!------------------------------!
+ROXAS
+L'ingresso è chiuso. Pare che la
+strada finisca dentro questo edificio.
+!------------------------------!
+ROXAS
+La entrada está cerrada.
+Parece que el camino lleva
+directo a ese edificio.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Então você deveria ter entendido
+para que é a entrada.
+!------------------------------!
+VEXEN
+Alors tu devrais déjà avoir deviné à quoi
+sert cette entrée.
+!------------------------------!
+VEXEN
+Dann kannst du dir sicherlich denken,
+wofür der Eingang ist.
+!------------------------------!
+VEXEN
+Quindi dovresti aver già capito
+a cosa serve l'ingresso.
+!------------------------------!
+VEXEN
+Entonces, ya tendrías que
+haber deducido para qué
+es la entrada.
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000900000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Essa entrada fechada leva pra
+esta área, onde acaba a trilha.
+!------------------------------!
+ROXAS
+L'entrée avec le rideau de fer mène à cette
+zone, puis la route s'arrête.
+!------------------------------!
+ROXAS
+Jener Eingang mit dem Tor führt
+in diesen Bereich,
+und dann hört die Straße auf.
+!------------------------------!
+ROXAS
+Quell'ingresso con la saracinesca
+conduce qui, poi la strada si ferma.
+!------------------------------!
+ROXAS
+La entrada con el postigo
+lleva a esa zona y el camino
+se detiene.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Sabemos que a trilha é pro bonde...
+!------------------------------!
+Nous savons que c'est la route du tram...
+!------------------------------!
+Wir wissen, die Straße ist für die Tram ...
+!------------------------------!
+Sappiamo che la strada
+è per il tram...
+!------------------------------!
+Sabemos que el camino es
+para el tranvía...
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Então esta deve ser a garagem.
+!------------------------------!
+Ce doit être le dépôt du tram.
+!------------------------------!
+Das muss das Tram-Forum sein.
+!------------------------------!
+Perciò questo dev'essere
+il deposito dei tram.
+!------------------------------!
+Así que esto debe de ser la
+cochera.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Ao menos um mínimo de inteligência.
+!------------------------------!
+VEXEN
+Enfin une lueur de perspicacité.
+!------------------------------!
+VEXEN
+Endlich ein Funken Verstand.
+!------------------------------!
+VEXEN
+Finalmente un barlume
+di intelligenza.
+!------------------------------!
+VEXEN
+Al fin atisbo inteligencia.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Meus ensinamentos estão dando frutos!
+!------------------------------!
+Mes enseignements finissent par payer !
+!------------------------------!
+Mein Training zahlt sich aus!
+!------------------------------!
+Tutto merito dei miei insegnamenti!
+!------------------------------!
+¡Mis enseñanzas dan frutos!
+!------------------------------!
+!******************************!
+&.[HDR].&
+*.000004000000AA2204000000010000000A00000007000F00.*
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+Este lugar é isolado e
+cercado de construções.
+!------------------------------!
+ROXAS
+Cet endroit est isolé et entouré de bâtiments.
+!------------------------------!
+ROXAS
+Der Fleck hier ist total unauffällig
+und von Gebäuden umgeben.
+!------------------------------!
+ROXAS
+Questo luogo è fuori mano e
+circondato da edifici.
+!------------------------------!
+ROXAS
+Este lugar está apartado y
+rodeado de edificios.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Mas por que deixariam o espaço aberto?
+Eles devem ter um motivo.
+!------------------------------!
+VEXEN
+Mais pourquoi le laisser à l'air libre ?
+Il doit y avoir une raison à cela.
+!------------------------------!
+VEXEN
+Aber warum sollten sie ihn offen lassen?
+Es muss einen Grund dafür geben.
+!------------------------------!
+VEXEN
+Perché qui non hanno messo
+nulla? Dev'esserci una ragione.
+!------------------------------!
+VEXEN
+¿Pero por qué dejan espacio?
+Ha de haber una razón.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+Está limpo, o que significa...?
+!------------------------------!
+Et c'est propre, ce qui veut dire
+quoi ?
+!------------------------------!
+Es wird sauber gehalten, was bedeutet,
+es wird benutzt.
+!------------------------------!
+È un luogo ben tenuto, che
+esattamente cosa significa?
+!------------------------------!
+Está limpio, lo cual quiere
+decir que lo usan.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+ROXAS
+As pessoas passam muito por aqui?
+!------------------------------!
+ROXAS
+Que beaucoup de gens doivent passer
+par ici ?
+!------------------------------!
+ROXAS
+Dann müssen hier ziemlich viele Leute
+durchgehen.
+!------------------------------!
+ROXAS
+Molta gente passa
+per di qua?
+!------------------------------!
+ROXAS
+La gente debe de
+pasar mucho por aquí.
+!------------------------------!
+!******************************!
+&.[DSA].Normal.&
+*.NULO.*
+!------------------------------!
+VEXEN
+Exato.
+Finalmente um pouco de bom senso!
+!------------------------------!
+VEXEN
+Exactement.
+Enfin un peu de perspicacité !
+!------------------------------!
+VEXEN
+Genau.
+Endlich ein Funken Verstand!
+!------------------------------!
+VEXEN
+Esatto. Finalmente un
+po' di buon senso!
+!------------------------------!
+VEXEN
+Exacto.
+¡Al fin atisbo inteligencia!
+!------------------------------!
+!******************************!
