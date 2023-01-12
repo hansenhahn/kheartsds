@@ -1,0 +1,1385 @@
+[0005]
+Shadow
+!------------------------------!
+    A Pureblood Heartless that
+flows across the ground as a
+shadow, completely immune to
+attack.
+    Watch for the moment it emerges, then strike!
+!------------------------------!
+
+!******************************!
+[2006]
+Mega-Shadow
+!------------------------------!
+    These mid-sized Purebloods
+retain the attack patterns of
+their smaller cousins, but also
+use a dangerous <AMARELO>tackle<BRANCO>.
+    <AMARELO>Block<BRANCO> it, and they're left wide open.
+!------------------------------!
+
+!******************************!
+[4B07]
+Gigas Shadow
+!------------------------------!
+    These large Pureblood
+Heartless take the Mega-
+Shadow attack pattern and add
+even more muscle.
+    The only way to knock them off guard is to
+deflect their <AMARELO>tackles<BRANCO> with a <AMARELO>block<BRANCO>.
+!------------------------------!
+
+!******************************!
+[010A]
+Yellow Opera
+!------------------------------!
+    These small flying Heartless
+strike with <AMARELO>head-butts<BRANCO> and
+<AMARELO>Thunder<BRANCO> magic that can't be
+interrupted by attacking.
+
+TIP: <AMARELO>Lightning<BRANCO>-based attacks can <AMARELO>jolt<BRANCO> you. Coming
+into contact with something in that state will cost
+you up to 10% of your max HP.
+!------------------------------!
+
+!******************************!
+[1A0B]
+Scarlet Tango
+!------------------------------!
+    These small flying Heartless
+strike with <AMARELO>fireballs<BRANCO> that bounce
+around, and you can't interrupt
+their magic by attacking.
+
+TIP: <AMARELO>Fire<BRANCO>-based attacks can <AMARELO>ignite<BRANCO> you, which will
+gradually sap your HP for as long as it lasts.
+!------------------------------!
+
+!******************************!
+[1C0F]
+Grey Caprice
+!------------------------------!
+    These small flying Heartless
+strike with special <AMARELO>warp missiles<BRANCO>
+that make you trade positions
+with them.
+    Their magic can't be interrupted by attacking,
+so try to take them out early on!
+!------------------------------!
+
+!******************************!
+[1E0C]
+Striped Aria
+!------------------------------!
+    These small flying Heartless
+boast high defense and are
+resistant to physical attacks.
+Take them down with magic.
+
+TIP: <AMARELO>Time<BRANCO>-based attacks like their <AMARELO>time missiles<BRANCO>
+can <AMARELO>rewind your defense<BRANCO> to LV1, which causes you
+to take more damage than normal.
+!------------------------------!
+
+!******************************!
+[1D10]
+Sapphire Elegy
+!------------------------------!
+    These mid-sized flying
+Heartless can blink out when
+struck, avoiding damage and
+teleporting to a new location.
+    Deflect their <AMARELO>head-butts<BRANCO> with a <AMARELO>block<BRANCO> to knock
+them out and leave them vulnerable to attack.
+!------------------------------!
+
+!******************************!
+[1F0D]
+Pink Concerto
+!------------------------------!
+    A large flying Heartless.
+The <AMARELO>toxic cloud<BRANCO> it spits forth as
+it chases down targets will
+gradually drain the HP of any-
+one trapped within its bounds.
+    Land a <AMARELO>combo finisher<BRANCO> to clear the cloud.
+!------------------------------!
+
+!******************************!
+[1B0E]
+Turquoise March
+!------------------------------!
+    These small flying Heartless
+shoot <AMARELO>water missiles<BRANCO>.
+    Attacking a Turquoise March
+in mid-cast won't interrupt its
+magic, so strike fast!
+
+TIP: <AMARELO>Water<BRANCO>-based attacks can <AMARELO>damage-drain<BRANCO>
+targets, awarding their HP to the attacker.
+!------------------------------!
+
+!******************************!
+[6E69]
+Emerald Serenade
+!------------------------------!
+    These large flying Heartless
+travel along a set path, making
+ambush a useful tactic.
+    Their speed grows faster as
+their HP drops, rendering them increasingly tricky
+to finish off.
+!------------------------------!
+
+!******************************!
+[0515]
+Dire Plant
+!------------------------------!
+    These small plant Heartless
+are rooted to the ground.
+    They strike from afar with a
+<AMARELO>seed cannon<BRANCO> that can be turned
+on other foes with a well-timed <AMARELO>block<BRANCO>, or even
+used to destroy the Dire Plant itself.
+
+TIP: <AMARELO>Flower<BRANCO>-based attacks like their seeds can
+<AMARELO>blind<BRANCO> you, which causes your attacks to miss.
+!------------------------------!
+
+!******************************!
+[1416]
+Fire Plant
+!------------------------------!
+    These mid-sized plant
+Heartless are rooted to the
+ground.
+    They strike from afar with
+bouncing <AMARELO>fireballs<BRANCO>, but are slow to react. A nimble
+fighter can easily get behind them and eliminate
+them from the rear.
+!------------------------------!
+
+!******************************!
+[1517]
+Blizzard Plant
+!------------------------------!
+    These large plant Heartless
+are rooted to the ground.
+    They strike from afar with
+<AMARELO>homing ice shots<BRANCO> that ricochet
+off of walls, and which can be returned with a
+<AMARELO>block<BRANCO>.
+    At close range, they'll attempt a <AMARELO>head-butt<BRANCO>,
+after which they'll be wide open.
+!------------------------------!
+
+!******************************!
+[2318]
+Poison Plant
+!------------------------------!
+    These large plant Heartless
+are rooted to the ground.
+    They strike from afar with
+<AMARELO>poison shots<BRANCO> that cannot be
+blocked.
+    At close range, they'll attempt a <AMARELO>head-butt<BRANCO>,
+after which they'll be wide open. They are also
+susceptible to <AMARELO>Fire<BRANCO> magic.
+!------------------------------!
+
+!******************************!
+[0208]
+Possessor
+!------------------------------!
+    These Pureblood Heartless
+are slow and generally weak,
+but can engulf targets and
+drain their life.
+    <AMARELO>Jump<BRANCO> free to escape their capture.
+!------------------------------!
+
+!******************************!
+[2109]
+Massive Possessor
+!------------------------------!
+    These living collectives are
+made up of multiple Possessors,
+and can drain life from anything
+they touch.
+    When dealt lethal damage, the collective splits
+into individual creatures, so be prepared to face
+them.
+!------------------------------!
+
+!******************************!
+[071C]
+Bulky Vendor
+!------------------------------!
+    Uncombative by nature, these
+mid-sized capsule Heartless will
+disappear after a short time.
+They hold rare and valuable
+prizes, however, and should be defeated when
+possible.
+    They gain speed as they take damage. Don't let
+them get away!
+!------------------------------!
+
+!******************************!
+[081D]
+Rare Vendor
+!------------------------------!
+    Uncombative by nature, these
+large capsule Heartless will
+disappear after a short time.
+They hold rare and valuable
+prizes, however, and should be defeated when
+possible.
+    They gain speed as they take damage. Don't let
+them get away!
+!------------------------------!
+
+!******************************!
+[062E]
+Watcher
+!------------------------------!
+    These small flying drone
+Heartless fire <AMARELO>lasers<BRANCO> that can
+be returned with a <AMARELO>block<BRANCO>, but
+they will respond with an even
+stronger <AMARELO>power laser<BRANCO>.
+
+TIP: <AMARELO>Space<BRANCO>-based attacks like this power laser
+can <AMARELO>shoe-glue<BRANCO> you, robbing you of the ability to
+jump.
+!------------------------------!
+
+!******************************!
+[262F]
+Guardian
+!------------------------------!
+    These large flying drone
+Heartless fire a <AMARELO>super laser<BRANCO>
+that damages anything in its
+path, friend or foe.
+    Regular attacks will not stagger the Guardian.
+To disable its super laser, <AMARELO>jolt<BRANCO> it with <AMARELO>Thunder<BRANCO>.
+
+TIP: <AMARELO>Nil<BRANCO>-based attacks like the super laser can
+<AMARELO>null your defense<BRANCO>, increasing the damage you take.
+!------------------------------!
+
+!******************************!
+[5D30]
+Destroyer
+!------------------------------!
+    These large flying drone
+Heartless fire a <AMARELO>super laser<BRANCO>
+that tears apart anything in its
+path, friend or foe.
+    While regular attacks will not
+stagger the Destroyer, <AMARELO>jolting<BRANCO> it with <AMARELO>Thunder<BRANCO>
+magic will disable its super and <AMARELO>double laser<BRANCO>.
+!------------------------------!
+
+!******************************!
+[091E]
+Minute Bomb
+!------------------------------!
+    Prone to <AMARELO>self-detonation<BRANCO>,
+these small Heartless will begin
+a countdown to explosion if you
+deflect their <AMARELO>head-butts<BRANCO> with a
+<AMARELO>block<BRANCO>.
+    They can also be detonated on the spot using
+<AMARELO>Fire<BRANCO> magic.
+!------------------------------!
+
+!******************************!
+[1920]
+Skater Bomb
+!------------------------------!
+    These mid-sized Heartless
+begin a countdown to <AMARELO>self-
+detonation<BRANCO> if you deflect their
+<AMARELO>head-butts<BRANCO> with a <AMARELO>block<BRANCO>.
+    Strike them during the countdown to send their
+payload hurtling into other enemies.
+
+TIP: <AMARELO>Ice<BRANCO>-based attacks like their explosion can
+<AMARELO>freeze<BRANCO> you, robbing you of the ability to move.
+!------------------------------!
+
+!******************************!
+[181F]
+Storm Bomb
+!------------------------------!
+    These mid-sized Heartless
+begin a countdown to <AMARELO>self-
+detonation<BRANCO> if you deflect their
+<AMARELO>head-butts<BRANCO> with a <AMARELO>block<BRANCO>.
+    Avoid being sucked in by the <AMARELO>whirlwind<BRANCO> they
+produce during the countdown by <AMARELO>jumping<BRANCO> or <AMARELO>gliding<BRANCO>
+away.
+!------------------------------!
+
+!******************************!
+[2721]
+Detonator
+!------------------------------!
+    These large versions of the
+Minute Bomb act similarly, but
+produce a much broader blast
+when they <AMARELO>self-detonate<BRANCO>.
+    They also won't stagger from regular attacks,
+making them a dangerous foe. Take ample care
+when facing them.
+!------------------------------!
+
+!******************************!
+[6F14]
+Deserter
+!------------------------------!
+    Quick to flee from threats,
+these small Heartless will
+attack anyone who takes down
+another of their number with a
+<AMARELO>flurry of kicks<BRANCO>.
+    <AMARELO>Block<BRANCO> to send them sprawling.
+!------------------------------!
+
+!******************************!
+[2212]
+Sergeant
+!------------------------------!
+    Blocking works well against
+these mid-sized Heartless to
+stop their various <AMARELO>kick attacks<BRANCO>
+and create an opening.
+    You can also nullify their attacks and trip them
+up by hitting them with a combo finisher when they
+start kicking.
+!------------------------------!
+
+!******************************!
+[0411]
+Soldier
+!------------------------------!
+    These small Heartless
+primarily use their <AMARELO>claws<BRANCO> and a
+<AMARELO>flurry of kicks<BRANCO> to attack.
+    The latter can be deflected
+with a <AMARELO>block<BRANCO> to trip them up.
+!------------------------------!
+
+!******************************!
+[6613]
+Commander
+!------------------------------!
+    As aggressive as they are
+large, these foes still rely on
+<AMARELO>kick attacks<BRANCO> that can be
+deflected with a well-timed
+<AMARELO>block<BRANCO>.
+    Note, however, that their size prevents normal
+attacks from knocking them off balance.
+!------------------------------!
+
+!******************************!
+[0D27]
+Loudmouth
+!------------------------------!
+    These small Heartless cause
+the most trouble when they <AMARELO>toot
+their horns<BRANCO> to <AMARELO>heal<BRANCO> themselves
+and their cohorts. The <AMARELO>wind
+missiles<BRANCO> they shoot can be returned with a <AMARELO>block<BRANCO>.
+
+TIP: <AMARELO>Wind<BRANCO>-based attacks can <AMARELO>air-toss<BRANCO> you. While
+airborne you become an easy target and will take
+more damage if hit.
+!------------------------------!
+
+!******************************!
+[1228]
+Flare Note
+!------------------------------!
+    These mid-sized Heartless
+cause the most trouble when
+they <AMARELO>toot their horns<BRANCO> to <AMARELO>heal<BRANCO>
+themselves and their cohorts.
+    <AMARELO>Block<BRANCO> and you can deflect the bouncing
+<AMARELO>fireballs<BRANCO> they spew.
+!------------------------------!
+
+!******************************!
+[1329]
+Bubble Beat
+!------------------------------!
+    These mid-sized Heartless
+cause the most trouble when
+they <AMARELO>toot their horns<BRANCO> to <AMARELO>heal<BRANCO>
+themselves and their cohorts.
+    <AMARELO>Block<BRANCO> and you can deflect the <AMARELO>homing water
+missiles<BRANCO> they spew.
+!------------------------------!
+
+!******************************!
+[1031]
+Barrier Master
+!------------------------------!
+    These mid-sized Heartless
+are accomplished mages. While
+not aggressive, they grant
+allies an <AMARELO>impenetrable barrier<BRANCO>.
+    Attack them until dizzy to make them drop their
+books, disabling any active barriers. The fallen
+books can then be knocked away.
+    They have high defense, but are vulnerable to
+<AMARELO>magic<BRANCO>. Exploit that fact.
+!------------------------------!
+
+!******************************!
+[7062]
+Shadow Glob
+!------------------------------!
+    These dark masses tend to
+attract Purebloods. Destroy
+them on sight.
+!------------------------------!
+
+!******************************!
+[2901]
+Large Armor
+!------------------------------!
+    Armor covers every inch of
+these large Heartless, allowing
+them to deflect blows from
+every direction.
+    Instead, aim for the head and knock them down,
+rendering them vulnerable to further attack. Use
+<AMARELO>Fire<BRANCO> magic to keep them down longer.
+!------------------------------!
+
+!******************************!
+[2A02]
+Clay Armor
+!------------------------------!
+    Armor covers every inch of
+these large Heartless, allowing
+them to deflect blows from
+every direction.
+    Instead, aim for the head and knock them down,
+rendering them vulnerable to further attack. Use
+<AMARELO>Thunder<BRANCO> magic to keep them down longer.
+!------------------------------!
+
+!******************************!
+[6003]
+Solid Armor
+!------------------------------!
+    Armor covers every inch of
+these large Heartless, allowing
+them to deflect blows from
+every direction.
+    Instead, aim for the head and knock them down,
+rendering them vulnerable to further attack. Use
+<AMARELO>Blizzard<BRANCO> magic to keep them down longer.
+!------------------------------!
+
+!******************************!
+[5B04]
+Land Armor
+!------------------------------!
+    Armor covers every inch of
+these large Heartless, allowing
+them to deflect blows from
+every direction.
+    Instead, aim for the head and knock them down,
+rendering them vulnerable to further attack. Use
+<AMARELO>Aero<BRANCO> magic to keep them down longer.
+!------------------------------!
+
+!******************************!
+[0A22]
+Bad Dog
+!------------------------------!
+    Small and canine in
+appearance, these Heartless
+wander aimlessly until a target
+draws near.
+    Their <AMARELO>bark<BRANCO> is bad, but not worse than their <AMARELO>bite<BRANCO>;
+they'll snap at you if you hit them. Deflect this
+with a <AMARELO>block<BRANCO> to stagger them.
+!------------------------------!
+
+!******************************!
+[2423]
+Snapper Dog
+!------------------------------!
+    Larger and faster than the
+Bad Dog, these canine Heartless
+can be tricky to subdue.
+    Their weakness to <AMARELO>magic<BRANCO>
+makes that the optimal solution.
+
+TIP: <AMARELO>Moon<BRANCO>-based attacks like their <AMARELO>bark<BRANCO> can
+<AMARELO>silence<BRANCO> you, preventing you from hurting them
+with magic.
+!------------------------------!
+
+!******************************!
+[5C24]
+Bully Dog
+!------------------------------!
+    Larger and faster than the
+Bad Dog, but these canine
+Heartless <AMARELO>bark<BRANCO> just the same.
+    Physical attacks won't knock
+them off balance. Exploit their weakness to <AMARELO>magic<BRANCO>
+instead.
+!------------------------------!
+
+!******************************!
+[1132]
+Cymbal Monkey
+!------------------------------!
+    Raw noise is the chief weapon
+of these mid-sized Heartless
+which lurk in treasure chests.
+    Be sure to <AMARELO>block<BRANCO> their <AMARELO>sound
+bullets<BRANCO>.
+
+TIP: <AMARELO>Illusion<BRANCO>-based attacks like these bullets can
+<AMARELO>flip-foot<BRANCO> you, which reverses the directional
+controls for basic movement.
+!------------------------------!
+
+!******************************!
+[2533]
+Tricky Monkey
+!------------------------------!
+    Raw noise is the chief weapon
+of these large Heartless which
+lurk in treasure chests.
+    Return their <AMARELO>sound bullets<BRANCO>
+and avoid getting <AMARELO>flip-footed<BRANCO> by <AMARELO>blocking<BRANCO>.
+!------------------------------!
+
+!******************************!
+[2B4B]
+Neoshadow
+!------------------------------!
+    A Pureblood Heartless that
+flows across the ground as a
+shadow, completely immune to
+attack.
+    It may unleash a <AMARELO>shockwave<BRANCO> as it emerges, so
+stay on guard.
+    <AMARELO>Block<BRANCO> when it <AMARELO>charges<BRANCO> you to earn a few
+precious seconds during which you can deal double
+damage.
+!------------------------------!
+
+!******************************!
+[674C]
+Novashadow
+!------------------------------!
+    This advanced form of the
+Pureblood Neoshadow can't be
+knocked off balance, and
+retains the ability to unleash a
+<AMARELO>shockwave<BRANCO> as it resurfaces from the ground.
+    <AMARELO>Block<BRANCO> when it <AMARELO>charges<BRANCO> you to earn a few
+precious seconds during which you can deal double
+damage.
+!------------------------------!
+
+!******************************!
+[3B47]
+Air Battler
+!------------------------------!
+    These mid-sized flying
+Heartless put the wind to
+expert use when attacking.
+    They move swiftly, so wait
+for them to swoop low, then strike.
+    Also note that they are immune to Aero magic.
+!------------------------------!
+
+!******************************!
+[594A]
+Aerial Master
+!------------------------------!
+    These mid-sized flying
+Heartless put the wind to
+expert use when attacking.
+    They move swiftly, so wait
+for them to swoop low, then strike.
+    Also note that they are immune to Aero magic.
+!------------------------------!
+
+!******************************!
+[6548]
+Artful Flyer
+!------------------------------!
+    These large flying Heartless
+put the wind to expert use when
+attacking.
+    They move swiftly, but are
+vulnerable just after <AMARELO>kicking<BRANCO>, so be ready to
+mount a counteroffensive.
+    They also retain their kind's immunity to Aero
+magic.
+!------------------------------!
+
+!******************************!
+[5749]
+Sky Grappler
+!------------------------------!
+    These mid-sized flying
+Heartless put the wind to
+expert use when attacking.
+    They move swiftly, but are
+vulnerable just after <AMARELO>kicking<BRANCO>, so be ready to
+mount a counteroffensive.
+    They also retain their kind's immunity to Aero
+magic.
+!------------------------------!
+
+!******************************!
+[0C25]
+Icy Cube
+!------------------------------!
+    These small Heartless are
+encased in ice, and attack with a
+<AMARELO>tackle<BRANCO> that can be <AMARELO>blocked<BRANCO> and
+deflected, knocking them off
+balance.
+    Hit them while they're down to send them
+careening into other enemies, <AMARELO>freezing<BRANCO> them on the
+spot.
+!------------------------------!
+
+!******************************!
+[2826]
+Snowy Crystal
+!------------------------------!
+    These mid-sized foes follow
+the same basic patterns as the
+Icy Cube, while also adding a
+<AMARELO>rolling shockwave<BRANCO> to their
+arsenal that steadily advances on its target.
+    <AMARELO>Fire<BRANCO> magic is extremely effective.
+!------------------------------!
+
+!******************************!
+[0B2A]
+Li'l Cannon
+!------------------------------!
+    Though small, these cannon
+Heartless can fire <AMARELO>shots that
+rain down from above<BRANCO>. Use
+<AMARELO>dodge rolls<BRANCO> or <AMARELO>air slides<BRANCO> to
+evacuate the target area.
+    Their <AMARELO>head-on shots<BRANCO> can be returned with a
+<AMARELO>block<BRANCO>. Be warned: regular attacks won't throw
+them off balance.
+!------------------------------!
+
+!******************************!
+[162C]
+Ice Cannon
+!------------------------------!
+    These mid-sized cannon
+Heartless fire <AMARELO>shots that rain
+down from above<BRANCO>. Use <AMARELO>dodge
+rolls<BRANCO> or <AMARELO>air slides<BRANCO> to evacuate
+the target area.
+    Their <AMARELO>head-on shots<BRANCO> can <AMARELO>freeze<BRANCO> victims, but
+can also be batted back with a <AMARELO>block<BRANCO>.
+    Regular attacks won't throw them off balance.
+Be careful.
+!------------------------------!
+
+!******************************!
+[172B]
+Switch Launcher
+!------------------------------!
+    These mid-sized cannon
+Heartless fire <AMARELO>shots that rain
+down from above<BRANCO>. Use <AMARELO>dodge
+rolls<BRANCO> or <AMARELO>air slides<BRANCO> to evacuate
+the target area.
+    Their <AMARELO>head-on shots<BRANCO> can't be blocked, and will
+also <AMARELO>warp<BRANCO> victims into point-blank range.
+    Regular attacks won't throw them off balance.
+Be careful.
+!------------------------------!
+
+!******************************!
+[482D]
+Jumbo Cannon
+!------------------------------!
+    Mid-sized versions of the Li'l
+Cannon, these foes fire <AMARELO>shots
+that rain down from above<BRANCO>. Use
+<AMARELO>dodge rolls<BRANCO> or <AMARELO>air slides<BRANCO> to
+evacuate the target area.
+    Though strong across the board and immune to
+being stunned by attacks, their <AMARELO>head-on shots<BRANCO> can
+be batted back with a <AMARELO>block<BRANCO>.
+!------------------------------!
+
+!******************************!
+[2E38]
+Morning Star
+!------------------------------!
+    Sharp spikes cover these
+large Heartless, a fact they
+exploit in a dangerous <AMARELO>spin
+attack<BRANCO>.
+    Though they are impervious while spinning, you
+can slow their onslaught with a <AMARELO>block<BRANCO>, bringing
+them to an eventual halt.
+    Alternatively, <AMARELO>Aero<BRANCO> magic will stop them with a
+single blast.
+!------------------------------!
+
+!******************************!
+[583A]
+Spiked Crawler
+!------------------------------!
+    Sharp spikes cover these
+large Heartless. Though they
+are impervious during their <AMARELO>spin
+attack<BRANCO>, you can slow their
+onslaught with a <AMARELO>block<BRANCO>, bringing them to an
+eventual halt.
+    Alternatively, <AMARELO>Thunder<BRANCO> magic will stop them with
+a single blast.
+!------------------------------!
+
+!******************************!
+[2F39]
+Scorching Sphere
+!------------------------------!
+    Sharp spikes cover these
+large, fiery Heartless. Though
+they are impervious during their
+<AMARELO>spin attack<BRANCO>, you can slow their
+onslaught with a <AMARELO>block<BRANCO>, bringing them to an
+eventual halt.
+    Alternatively, <AMARELO>Blizzard<BRANCO> magic will stop them with
+a single blast.
+!------------------------------!
+
+!******************************!
+[6A6B]
+Creepworm
+!------------------------------!
+    Though fast, these Heartless
+are unfit for combat and low in
+HP. A single blow should be
+enough to take them out.
+!------------------------------!
+
+!******************************!
+[0319]
+Hover Ghost
+!------------------------------!
+    These small flying Heartless
+are able to spontaneously
+appear behind their targets and
+<AMARELO>possess<BRANCO> them.
+    If you are ensnared, rapidly <AMARELO>press buttons<BRANCO> to
+shake loose.
+    Hover Ghosts are quick to blink out of harm's
+way, but <AMARELO>negative status effects<BRANCO> will prevent
+them from vanishing.
+!------------------------------!
+
+!******************************!
+[641A]
+Carrier Ghost
+!------------------------------!
+    These large flying Heartless
+are able to spontaneously
+appear behind their targets and
+<AMARELO>possess<BRANCO> them.
+    Though they behave similarly to Hover Ghosts,
+physical attacks won't stagger them.
+!------------------------------!
+
+!******************************!
+[5E1B]
+Living Pod
+!------------------------------!
+    These mid-sized flying
+Heartless are able to sponta-
+neously appear behind their
+targets and <AMARELO>possess<BRANCO> them.
+    Though they behave similarly to Hover Ghosts,
+physical attacks won't stagger them.
+    Remember, there's no shame in falling back to
+regroup.
+!------------------------------!
+
+!******************************!
+[613F]
+Zip Slasher
+!------------------------------!
+    This sword-wielding
+Heartless's skillful defense
+makes it tough to finish off.
+    Its <AMARELO>spinning slash<BRANCO> has the
+added effect of <AMARELO>damage-draining<BRANCO> HP from victims.
+Watch for it, then evade or deflect it with a <AMARELO>block<BRANCO>.
+!------------------------------!
+
+!******************************!
+[393B]
+Dual Blade
+!------------------------------!
+    This large and aggressive
+knight Heartless's skillful
+defense makes it tough to finish
+off.
+    Though its <AMARELO>focused slash<BRANCO> can be
+stopped with a <AMARELO>block<BRANCO>, blasting the knight with
+<AMARELO>Thundaga<BRANCO> while it is storing up energy will stagger
+it, opening it up to extra damage, especially from
+<AMARELO>magic<BRANCO>.
+!------------------------------!
+
+!******************************!
+[4A3C]
+Heat Saber
+!------------------------------!
+    This fiery knight Heartless's
+skillful defense makes it tough
+to finish off.
+    Though its <AMARELO>focused slash<BRANCO> can
+be stopped with a <AMARELO>block<BRANCO>, blasting the knight with
+<AMARELO>Blizzaga<BRANCO> while it is storing up energy will stagger
+it, opening it up to extra damage.
+!------------------------------!
+
+!******************************!
+[493D]
+Chill Ripper
+!------------------------------!
+    This icy knight Heartless's
+skillful defense makes it tough
+to finish off.
+    Though its <AMARELO>focused slash<BRANCO> can
+be stopped with a <AMARELO>block<BRANCO>, blasting the knight with
+<AMARELO>Firaga<BRANCO> while it is storing up energy will stagger it,
+opening it up to extra damage, especially from
+<AMARELO>magic<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3A3E]
+Blitz Spear
+!------------------------------!
+    This lightning knight
+Heartless's skillful defense
+makes it tough to finish off.
+    Though its <AMARELO>focused slash<BRANCO> can
+be stopped with a <AMARELO>block<BRANCO>, blasting the knight with
+<AMARELO>Aeroga<BRANCO> while it is storing up energy will stagger it,
+opening it up to extra damage, especially from
+<AMARELO>magic<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3C40]
+Stalwart Blade
+!------------------------------!
+    This magic-resistant knight
+Heartless's skillful defense
+makes it tough to finish off.
+    Though its <AMARELO>focused slash<BRANCO> can
+be stopped with a <AMARELO>block<BRANCO>, blasting the knight with
+<AMARELO>Aeroga<BRANCO> while it is storing up energy will stagger it,
+opening it up to extra damage, especially from
+<AMARELO>magic<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3341]
+Tailbunker
+!------------------------------!
+    These large aerial Heartless
+are hard to hit in mid-flight.
+    Strike their wings and tail to
+force them to land, then target
+the head, which is susceptible to <AMARELO>Blizzard<BRANCO> magic.
+!------------------------------!
+
+!******************************!
+[3543]
+Avalanche
+!------------------------------!
+    These large aerial Heartless
+use their potent <AMARELO>ice breath<BRANCO> to
+attack their prey.
+    Strike their wings and tail to
+force them to land, then focus attacks on their
+head, which is weak against <AMARELO>Fire<BRANCO> magic.
+!------------------------------!
+
+!******************************!
+[3442]
+Wavecrest
+!------------------------------!
+    These large aerial Heartless
+use their potent <AMARELO>water breath<BRANCO> to
+attack their prey.
+    This strain cannot be forced
+to land, so be sure to face them well-equipped to
+do combat in midair.
+!------------------------------!
+
+!******************************!
+[3645]
+Phantomtail
+!------------------------------!
+    These large aerial Heartless
+can't be harmed by blows to the
+head, instead <AMARELO>warping<BRANCO> to a
+remote location on impact.
+    They won't warp, however, if you attack their
+wings or tail, so focus attacks there. Go in
+equipped for aerial combat.
+!------------------------------!
+
+!******************************!
+[3744]
+Windstorm
+!------------------------------!
+    These large aerial Heartless
+use their potent <AMARELO>whirlwind
+breath<BRANCO> to attack their prey.
+    They are hard to hit in mid-
+flight, so strike their wings and tail to force them
+to land, then focus attacks on their head, which is
+weak against <AMARELO>Thunder<BRANCO> magic.
+!------------------------------!
+
+!******************************!
+[3846]
+Dustflier
+!------------------------------!
+    Large and deadly, these
+flying Heartless pack extreme
+power and high HP levels.
+    Their arsenal includes <AMARELO>Meteor
+breath<BRANCO> and an <AMARELO>invincible charge<BRANCO>, and all of their
+attacks can inflict negative status effects on
+contact.
+    This specimen is easily in the strongest class of
+Heartless. Prepare accordingly.
+!------------------------------!
+
+!******************************!
+[2C36]
+Veil Lizard
+!------------------------------!
+    This camouflaged creature
+attacks prey with a <AMARELO>tongue lash<BRANCO>
+attack.
+    <AMARELO>Block<BRANCO> it to dizzy the lizard,
+then strike back. You can nullify its camouflage
+with a solid hit.
+
+TIP: <AMARELO>Light<BRANCO>-based attacks like its <AMARELO>glare<BRANCO> will <AMARELO>zap
+your radar<BRANCO>, disabling the map.
+!------------------------------!
+
+!******************************!
+[5A37]
+Lurk Lizard
+!------------------------------!
+    Similar in form and behavior
+to the Veil Lizard, these foes
+attack prey with a <AMARELO>tongue lash<BRANCO>
+attack.
+    <AMARELO>Block<BRANCO> it to dizzy the lizard, then strike back.
+<AMARELO>Blizzard<BRANCO> magic is also especially effective.
+!------------------------------!
+
+!******************************!
+[3F55]
+Guard Armor
+!------------------------------!
+    Large and heavily armored,
+these Heartless will jump and
+then crash into the ground,
+creating a powerful <AMARELO>shockwave<BRANCO>.
+    They drop their heads after landing, however;
+strike then and the body will eventually fall to
+pieces, with each piece acting autonomously. Start
+with the limbs and take them all out.
+!------------------------------!
+
+!******************************!
+[6356]
+Powered Armor
+!------------------------------!
+    This improved version of the
+Guard Armor still uses the same
+basic tactics.
+    The powerful <AMARELO>shockwave<BRANCO> it
+produces causes it to drop its head. Strike then
+and the body will eventually fall to pieces. Start
+with the limbs and take them all out.
+!------------------------------!
+
+!******************************!
+[2D4D]
+Invisible
+!------------------------------!
+    Both fast and strong, these
+Heartless pose a serious threat.
+They attack with a fearsome
+<AMARELO>shockwave<BRANCO>.
+    Time your <AMARELO>combo finisher<BRANCO> so it connects right
+after they catch their sword. This will cancel the
+shockwave and leave them open.
+!------------------------------!
+
+!******************************!
+[5F4E]
+Orcus
+!------------------------------!
+    Though faster and more
+powerful, these Heartless are
+otherwise the same as the
+Invisible. They attack with a
+fearsome <AMARELO>shockwave<BRANCO>.
+    Time your <AMARELO>combo finisher<BRANCO> so it connects right
+after they catch their sword. This will cancel the
+shockwave and leave them open.
+!------------------------------!
+
+!******************************!
+[4234]
+Dusk
+!------------------------------!
+    These lesser Nobodies handle
+simple combat, recon and courier
+operations.
+    Though lacking in strength,
+they have a robust repertoire of close-range
+tactics, including <AMARELO>spinning charge<BRANCO> and <AMARELO>arm thrust<BRANCO>
+attacks.
+!------------------------------!
+
+!******************************!
+[4335]
+Samurai
+!------------------------------!
+    An advanced Nobody well-
+suited to combat in close
+quarters.
+    It pairs naturally high attack
+power with a <AMARELO>dual blade attack<BRANCO> that brings targets
+into submission.
+    These Nobodies serve under Roxas.
+!------------------------------!
+
+!******************************!
+[4652]
+Darkside
+!------------------------------!
+    This giant Heartless will
+devour all around it if left
+unchecked.
+    The <AMARELO>dark homing blasts<BRANCO> fired
+from its chest can be turned back on it with a
+<AMARELO>block<BRANCO>. Target its hands or, if possible, its head.
+
+TIP: <AMARELO>Earth<BRANCO>-based attacks like its homing blasts
+can <AMARELO>halve your current HP<BRANCO>.
+!------------------------------!
+
+!******************************!
+[6253]
+Dark Follower
+!------------------------------!
+    A stronger form of the
+Darkside. Though more power-
+ful, it follows the same basic
+patterns as its predecessor.
+    Send back the <AMARELO>dark homing blasts<BRANCO> fired from its
+chest with a <AMARELO>block<BRANCO>, then attack either its hands or,
+if possible, its head for maximum damage.
+!------------------------------!
+
+!******************************!
+[415C]
+Pete
+!------------------------------!
+    This shady character has
+been sighted in multiple worlds
+trying to amass an army of
+Heartless.
+    His <AMARELO>bowling-ball attack<BRANCO> causes <AMARELO>negative status
+effects<BRANCO> at random.
+    Though aggressive in combat, he'll flee the
+moment his HP runs out.
+!------------------------------!
+
+!******************************!
+[304F]
+Lock
+!------------------------------!
+    One of the three imps living in
+Halloween Town. Despite being
+the trio's apparent leader, he
+lacks real combat skill.
+    Instead, he'll run about wildly while throwing
+<AMARELO>pumpkin bombs<BRANCO> from afar. Hit them back with a
+<AMARELO>block<BRANCO> to send him sprawling.
+!------------------------------!
+
+!******************************!
+[3150]
+Shock
+!------------------------------!
+    One of the three imps living
+in Halloween Town. She poses
+little threat in terms of
+strength, but will attack with a
+<AMARELO>spinning charge<BRANCO>.
+    Stop that with a <AMARELO>block<BRANCO>, or hit her with one of
+Lock's <AMARELO>pumpkin bombs<BRANCO> to send her sprawling.
+!------------------------------!
+
+!******************************!
+[3251]
+Barrel
+!------------------------------!
+    One of the three imps living in
+Halloween Town. He poses little
+threat in terms of strength.
+    Stop his <AMARELO>rolling charge<BRANCO> with a
+<AMARELO>block<BRANCO> and he will go flying. You can also hit him
+with one of Lock's <AMARELO>pumpkin bombs<BRANCO> to send him
+sprawling.
+!------------------------------!
+
+!******************************!
+[6861]
+Xigbar
+!------------------------------!
+    The Organization's No. <2161>, a
+master of the arrowgun and
+spatial manipulation. As a long-
+range fighter, he'll try to keep
+foes from closing in by <AMARELO>warping away<BRANCO> as he fires.
+    The <AMARELO>full salvo<BRANCO> attack he uses in desperate
+situations is truly devastating.
+!------------------------------!
+
+!******************************!
+[7163]
+? ? ?
+!------------------------------!
+    Little is known about this man,
+save that he wears the coat of
+our Organization.
+    He has not been seen to
+engage members in combat, instead merely jumping
+and guarding while watching our movements.
+    Do enough damage, and he'll warp away.
+!------------------------------!
+
+!******************************!
+[7264]
+? ? ?
+!------------------------------!
+    Reports on this figure have
+existed for some time now.
+    It was assumed this was the
+man who defeated Xion, but the
+truth of the matter remains unclear.
+!------------------------------!
+
+!******************************!
+[4E58]
+Antlion
+!------------------------------!
+    This massive Heartless swims
+freely through the sand. Aim
+for its face when it breaks the
+surface.
+    After sustaining damage, it will take to the sky,
+but its <AMARELO>cyclone shield<BRANCO> protects it from direct
+damage while airborne.
+    Instead, hit the debris it throws back at it to
+create an opening, then strike.
+!------------------------------!
+
+!******************************!
+[475A]
+Infernal Engine
+!------------------------------!
+    The <AMARELO>cannonballs<BRANCO> this heavy
+tank Heartless fires can be
+returned with a block to take
+out the <AMARELO>archers<BRANCO> perched atop it.
+    The battering ram that emerges from its mouth
+before it <AMARELO>charges<BRANCO> is especially weak. Capitalize on
+that vulnerability, but be sure to get out of there
+before it begins its advance.
+!------------------------------!
+
+!******************************!
+[696A]
+Tentaclaw
+!------------------------------!
+    This tentacle-shaped
+Heartless strikes with a savage
+<AMARELO>bite<BRANCO>.
+    <AMARELO>Block<BRANCO> it or <AMARELO>dodge roll<BRANCO> out of
+the way, then counterattack.
+!------------------------------!
+
+!******************************!
+[4D57]
+Leechgrave
+!------------------------------!
+    A massive plant-like
+Heartless with a savage <AMARELO>claw<BRANCO>
+attack. The <AMARELO>toxic pollen<BRANCO> it spews
+from its head saps victims' HP
+for as long as they breathe it.
+    Destroy all of the Tentaclaws to dizzy the main
+body, then move in.
+    Note that defeating Tentaclaws or hitting them
+with magic will speed up the pollen bursts.
+!------------------------------!
+
+!******************************!
+[4054]
+Crimson Prankster
+!------------------------------!
+    This newcomer to Wonderland
+splits in two, attacking as a pair.
+Unless both halves are
+defeated at the same time, they
+will continue the cycle of merging and splitting.
+    Counter its <AMARELO>flamethrower<BRANCO> with <AMARELO>ice magic<BRANCO><2015>
+Blizzaga if possible. <AMARELO>Aeroga<BRANCO> will halt its fiery <AMARELO>spin
+attack<BRANCO>.
+!------------------------------!
+
+!******************************!
+[4C59]
+Ruler of the Sky
+!------------------------------!
+    You need to destroy all the
+<AMARELO>tail segments<BRANCO> of this avian
+Heartless to reveal its core.
+    After each segment is
+destroyed, the Ruler of the Sky will glow red and
+<AMARELO>charge<BRANCO> its foes. Wait too close to the water's
+surface and it will fire a salvo of <AMARELO>water shots<BRANCO>.
+    Once the core is exposed, avoid the <AMARELO>spray of
+coins<BRANCO> and counter with <AMARELO>Fire<BRANCO> magic.
+!------------------------------!
+
+!******************************!
+[535D]
+Sa<00ef>x
+!------------------------------!
+    The Organization's No. <2165><2161>.
+Usually cool and calm, he turns
+into a berserker when he grips
+his giant blade in combat.
+    Dodge his attacks as you watch for a rare
+opening. After taking damage, he will revert to his
+normal self, making him more susceptible to attack.
+Finish him quickly.
+!------------------------------!
+
+!******************************!
+[3E65]
+Xion: First Form
+!------------------------------!
+    Xion, transformed. Sora's
+memories from each world have
+multiplied her powers.
+    Her <AMARELO>barrier<BRANCO> restores HP.
+Stop it by striking with your weapon before she
+can raise it. She'll counter if you block her <AMARELO>sword
+combo<BRANCO>, so <AMARELO>dodge roll<BRANCO> out of the way instead.
+    She will always spread her wings to signal her
+<AMARELO>Sonic Blade<BRANCO> charge.
+!------------------------------!
+
+!******************************!
+[4F66]
+Xion: Second Form
+!------------------------------!
+    Xion, transformed. Sora's
+memories from each world have
+multiplied her powers.
+    Her <AMARELO>Ragnarok<BRANCO> attack fires
+homing lasers that cannot be blocked<2015>dodge them
+instead. However, play too hard to get and she'll
+fire repeatedly.
+    Strike with your weapon if you see her trying to
+raise a <AMARELO>barrier<BRANCO> to prevent it from healing her.
+!------------------------------!
+
+!******************************!
+[5167]
+Xion: Third Form
+!------------------------------!
+    Xion, transformed. Sora's
+memories from each world have
+multiplied her powers.
+    Beware her <AMARELO>Ars Arcanum<BRANCO>
+attack, a fierce flurry of blows from her four
+arms. Most of her attacks cannot be blocked, so
+<AMARELO>dodge roll<BRANCO> out of the way, then counter.
+    Strike with your weapon if you see her trying to
+raise a <AMARELO>barrier<BRANCO> to prevent it from healing her.
+!------------------------------!
+
+!******************************!
+[5268]
+Xion: Final Form
+!------------------------------!
+    Xion's ultimate transfor-
+mation. Sora's memories from
+each world have multiplied her
+powers.
+    This form packs a new arsenal of moves,
+including a powerful <AMARELO>Final Limit<BRANCO> once her HP
+dwindles. <AMARELO>Glide<BRANCO> up to her side and take shelter
+before it connects.
+!------------------------------!
+
+!******************************!
+[545F]
+Riku
+!------------------------------!
+    This warrior of the dark
+wears our Organization's coat.
+    A master of combat, he
+combines combo attacks with a
+tight defense, a <AMARELO>homing projectile<BRANCO>, and a <AMARELO>block-
+counter<BRANCO>.
+    His weapon grows in power when the tides turn
+against him, increasing his attack range.
+!------------------------------!
+
+!******************************!
