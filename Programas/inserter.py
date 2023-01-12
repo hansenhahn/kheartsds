@@ -282,8 +282,251 @@ def pack_GNRC(root = '../Textos PT-BR/P2',
             print filepath
             output = open( filepath, "r+b")
             parser.generic_inserter_1(input, output, table)
-            output.close()   
+            output.close()
+            
+def pack_dat(root, outdir):
+    table = normal_table('tabela3.tbl')
+    table.fill_with('0061=a', '0041=A', '0030=0')
+    table.add_items('000A=\n')
+    
+    table.set_mode('inverted')
+    
+    files = [root]
+    root = os.path.dirname(root)
 
+    for _, fname in enumerate(files):
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)    
+
+            
+        print "Inserindo %s." % fname
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+            output = open( filepath, "wb")
+            buffer = []
+            size = []
+            block = array.array('c')
+            data = array.array('c')
+            header = array.array('c')
+            for line in input:
+                line = line.strip('\r\n')
+                line = line.decode('utf-8').encode('windows-1252')
+                if line == '!******************************!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')
+                    if (len(block)) % 4 != 0:
+                        block.extend('\x00\x00')
+                    size.append(len(block))
+                    data.extend(struct.pack('<L', len(block)+4))
+                    data.extend(block)
+                    
+                    buffer.append((size, data, header))
+                    
+                    size = []
+                    data = array.array('c')
+                    block = array.array('c')
+                    header = array.array('c')
+                    
+                elif line == '!------------------------------!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')
+                    if (len(block)) % 4 != 0:
+                        block.extend('\x00\x00')
+
+                    size.append(len(block))
+                    if len(size) > 1:
+                        data.extend(struct.pack('<L', len(block)+4))
+                    data.extend(block)
+                    block = array.array('c')
+
+                elif line.startswith('[') and line.endswith(']'):
+                    header.extend(binascii.unhexlify(line[1:-1]))
+                
+                else:
+                    splited = re.split(TAG_CH, line)
+                    for word in splited:
+                        tag = re.match(TAG_CH2, word)
+                        if tag:
+                            tag = tag.groups()[0]
+                            if tag in table:
+                                block.extend(table[tag][::-1])
+                            else:
+                                block.extend(struct.pack("<H", int(tag[1:-1],16)))
+                        else:
+                            for c in word:
+                                block.extend(c+"\x00")
+                    block.extend('\x0a\x00')
+            
+            output.write(struct.pack('<L', 0x08))            
+            output.write(struct.pack('<L', len(buffer)))
+            ptr = 0
+            
+            for size, block, header in buffer:
+                output.write(struct.pack("<L", len(header)+len(block)+12))
+                output.write(struct.pack("<L", 12+len(header)))
+                output.write(struct.pack("<L", 12+len(header)+size[0]))                
+                header.tofile(output)
+                block.tofile(output)
+            
+            output.close()            
+            
+def pack_rpt(root, outdir):
+    table = normal_table('tabela3.tbl')
+    table.fill_with('0061=a', '0041=A', '0030=0')
+    table.add_items('000A=\n')
+    
+    table.set_mode('inverted')
+    
+    files = [root]
+    root = os.path.dirname(root)
+
+    for _, fname in enumerate(files):
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+            
+        print "Comprimindo %s." % fname
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+            output = open( filepath, "wb")
+            buffer = []
+            size = [0,]
+            block = array.array('c')
+            header = array.array('c')
+            for line in input:
+                line = line.strip('\r\n')
+                line = line.decode('utf-8').encode('windows-1252')
+                if line == '!******************************!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')
+                    size.append(len(block)-sum(size))
+                    
+                    buffer.append((size, block, header))
+                    
+                    size = [0,]
+                    block = array.array('c')
+                    header = array.array('c')
+                    
+                elif line == '!------------------------------!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')                
+                    size.append(len(block)-sum(size))
+
+                elif line.startswith('[') and line.endswith(']'):
+                    header.extend(binascii.unhexlify(line[1:-1]))
+                
+                else:
+                    splited = re.split(TAG_CH, line)
+                    for data in splited:
+                        tag = re.match(TAG_CH2, data)
+                        if tag:
+                            tag = tag.groups()[0]
+                            if tag in table:
+                                block.extend(table[tag][::-1])
+                            else:
+                                block.extend(struct.pack("<H", int(tag[1:-1],16)))
+                        else:
+                            for c in data:
+                                block.extend(c+"\x00")
+                    block.extend('\x0a\x00')
+                    
+            output.write(struct.pack('<L', len(buffer)))
+            ptr = 0
+            
+            for size, block, header in buffer:
+                header.tofile(output)
+                output.write(struct.pack("<H", size[1]/2))
+                output.write(struct.pack("<H", size[2]/2))
+                output.write(struct.pack("<H", size[3]/2))                
+                
+                output.write(struct.pack("<L", ptr/2))
+                ptr += size[1]
+                output.write(struct.pack("<L", ptr/2))
+                ptr += size[2]
+                output.write(struct.pack("<L", ptr/2))
+                ptr += size[3]
+
+            output.seek(4+20*len(buffer))
+            for size, block, header in buffer:
+                block.tofile(output)
+            
+            output.close()
+
+
+
+def pack_db(root, outdir):
+    table = normal_table('tabela3.tbl')
+    table.fill_with('0061=a', '0041=A', '0030=0')
+    table.add_items('000A=\n')
+    
+    table.set_mode('inverted')
+    
+    if os.path.isdir(root):
+        files = filter(lambda x: x.__contains__('db_'), scandirs(root))
+    else:
+        files = [root]
+        root = os.path.dirname(root)
+
+    for _, fname in enumerate(scandirs(root)):
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        
+        if not os.path.basename(path).startswith('db'):
+            continue   
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)  
+            
+        print "Comprimindo %s." % fname
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+            output = open( filepath, "wb")
+            buffer = []
+            block = array.array('c')
+            for line in input:
+                line = line.strip('\r\n')
+                line = line.decode('utf-8').encode('windows-1252')
+                if line == '!******************************!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')
+                    if (len(block)+2) % 4 != 0:
+                        block.extend('\x00\x00')
+                    
+                    buffer.append(block)
+                    block = array.array('c')
+               
+                else:
+                    splited = re.split(TAG_CH, line)
+                    for data in splited:
+                        tag = re.match(TAG_CH2, data)
+                        if tag:
+                            tag = tag.groups()[0]
+                            if tag in table:
+                                block.extend(table[tag][::-1])
+                            else:
+                                block.extend(struct.pack("<H", int(tag[1:-1],16)))
+                        else:
+                            for c in data:
+                                block.extend(c+"\x00")
+                    block.extend('\x0a\x00')
+            
+            output.write(struct.pack('<L', len(buffer)))
+            ptr = 0
+            for block in buffer:
+                ptr += len(block)
+                output.write(struct.pack('<L', ptr))
+            for block in buffer:
+                block.tofile(output)
+            
+            output.close()
 
 def pack_map(root, outdir):
 
@@ -320,7 +563,6 @@ def pack_map(root, outdir):
                         block.extend('\x00\x00')
                     
                     buffer.append(block)
-                    print block
                     block = array.array('c')
                 elif line.startswith('[') and line.endswith(']'):
                     block.extend(binascii.unhexlify(line[1:-1]))
@@ -463,7 +705,17 @@ if __name__ == '__main__':
     elif args.mode == ".map":
         print "Packing map text"
         pack_map(args.src , args.dst)  
-        
+    elif args.mode == ".db":
+        print "Packing db text"
+        pack_db(args.src , args.dst)
+    elif args.mode == ".rpt.z":
+        print "Packing .rpt.z text"        
+        pack_rpt(args.src , args.src1)
+        pack_Z(root = args.src1 , outdir = args.dst )
+    elif args.mode == ".dat.z":
+        print "Packing .dat text"        
+        pack_dat(args.src , args.src1)        
+        pack_Z(root = args.src1 , outdir = args.dst )
     elif args.mode == "gnrc": 
         print "Packing GNRC text"
         pack_GNRC(root = args.src , outdir = args.src1 )

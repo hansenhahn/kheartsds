@@ -3,11 +3,30 @@
 echo "Calling tl_img.py to unpack background"
 rem pypy tl_unpacker.py -s "..\ROM Original\xpa-khe\data\ttl" -d "..\Arquivos Originais\ttl"
 rem pypy tl_unpacker.py -s "..\ROM Original\xpa-khe\data\UI"  -d "..\Arquivos Originais\UI"
+REM pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cal\cl_hrt_en.pobj.z" -d "..\Imagens Originais\cal\cl_hrt_en.pobj.z" -img "ani" -img-args 0 0 0
 
-pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cal\cl_hrt_en.pobj.z" -d "..\Imagens Originais\cal\cl_hrt_en.pobj.z" -img "ani" -img-args 0 0 0
-
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\load\lod_b_000.pbg.z" -d "..\Imagens Originais\UI\load\lod_b_000.pbg.z" -img "bg" -img-args 0 0 0
 exit /b
 
+rem Sprites do menu . Não mexer
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_000.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_000.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_001.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_001.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_002.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_002.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_003.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_003.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_004.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_004.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_005.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_005.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_006.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_006.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_007.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_007.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_008.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_008.z" -img "ani" -img-args 0 0 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\cm\__cmo_en.p2\cmo_en_009.z" -d "..\Imagens Originais\UI\cm\__cmo_en.p2\cmo_en_009.z" -img "ani" -img-args 0 0 0
+
+
+
+REM pypy tl_unpacker.py -s "..\ROM Original\xpa-khe\data\UI\newgame" -d "..\Arquivos Originais\data\UI\newgame"
+REM pypy tl_img.py -m e0 -s "..\Arquivos Originais\data\UI\newgame\res\PK2D_000" -d "..\Imagens Originais\data\UI\newgame\res\PK2D_000" -nclr 0 -nscr 0 -ncgr 0
+pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\newgame\__res.p2\res_000.z" -d "..\Imagens Originais\UI\newgame\__res.p2\res_000.z" -img "bg" -img-args 0 0 0
+
+rem Unpack dos tutoriais. Funcional, não mexer!
 pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr_en_000.z" -d "..\Imagens Originais\UI\btlttr\__ttr_en.p2\ttr_en_000.z" -img "bg" -img-args 0 0 0
 pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr_en_001.z" -d "..\Imagens Originais\UI\btlttr\__ttr_en.p2\ttr_en_001.z" -img "bg" -img-args 0 0 0
 pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr_en_002.z" -d "..\Imagens Originais\UI\btlttr\__ttr_en.p2\ttr_en_002.z" -img "bg" -img-args 0 0 0
@@ -57,6 +76,7 @@ pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr
 pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr_en_046.z" -d "..\Imagens Originais\UI\btlttr\__ttr_en.p2\ttr_en_046.z" -img "bg" -img-args 0 0 0
 pypy dumper.py -m ".pk2d.z" -s1 "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr_en_047.z" -d "..\Imagens Originais\UI\btlttr\__ttr_en.p2\ttr_en_047.z" -img "bg" -img-args 0 0 0
 
+exit /b
 
 rem Tutoriais de batalha
 REM pypy tl_img.py -m e0 -s "..\Arquivos Originais\UI\btlttr\__ttr_en.p2\ttr_en_000.z" -d "..\Imagens Originais\UI\btlttr\__ttr_en.p2" -nclr 0 -nscr 0 -ncgr 0

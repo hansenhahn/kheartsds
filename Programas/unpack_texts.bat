@@ -2,7 +2,10 @@
 
 echo Calling dumper.py to unpack texts
 
+rem Unpack tutoriais
+pypy dumper.py -m ".dat.z" -s "../Arquivos Originais/UI/btlttr" -d "../Textos Originais/UI/btlttr"
 
+exit /b
 
 rem ----- Arquivos que estão empacotados em containers p2
 rem Unpack file p2
@@ -148,6 +151,9 @@ rem ----- Arquivos que não estão empacotados em containers p2
 rem Unpack file z
 pypy dumper.py -m ".z" -s "../ROM Original/xpa-khe/data"  -d "../Arquivos Originais"
 
+rem Unpack diário
+pypy dumper.py -m ".rpt" -s1 "../Arquivos Originais/UI/cm/str/rpt_en.z" -d "../Textos Originais/UI/cm/str"
+
 rem Unpack tutoriais
 pypy dumper.py -m ".dat.z" -s "../Arquivos Originais/UI/btlttr" -d "../Textos Originais/UI/btlttr"
 
@@ -168,7 +174,6 @@ pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/cfg_en.s.z" -d "..
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/enm_en.s.z" -d "../Textos Originais/UI/cm/str"
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/panel_en.s.z"	-d "../Textos Originais/UI/cm/str"
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/root_en.s.z" -d "../Textos Originais/UI/cm/str"
-pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/rpt_en.s.z" -d "../Textos Originais/UI/cm/str"
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/sav_en.s.z" -d "../Textos Originais/UI/cm/str"
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/select_en.s.z" -d "../Textos Originais/UI/cm/str"
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/cm/str/status_en.s.z" -d "../Textos Originais/UI/cm/str"
@@ -186,6 +191,8 @@ pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/thr/thr_en.s.z" -d "../Te
 pypy dumper.py -m ".s.z" -s1 "../Arquivos Originais/UI/tutorial/root_en.s.z" -d "../Textos Originais/UI/tutorial"
 
 
+pypy dumper.py -m ".rpt" -s "../Arquivos Originais/UI/cm/str/rpt_en.z" -d "../Textos Originais/UI/cm/str"
+pypy dumper.py -m ".rpt" -s "../Arquivos Originais/UI/cm/str/enm_en.z" -d "../Textos Originais/UI/cm/str"
 
 
 

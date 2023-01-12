@@ -470,16 +470,69 @@ def unpack_dat( root, outdir ):
                         elif d > 0:
                             output.write("<%04X>" % d)
                         if d == 0:
-                            output.write('\n!------------------------------!\n')
+                            # tamanho ou tamanho com padding
+                            if (fd.tell()-link) in (size, size-2):
+                                output.write('\n!******************************!\n')
+                            else:
+                                output.write('\n!------------------------------!\n')
                             break
                             
                     fd.seek(block_link+block_size)
                 
                 fd.seek(link+size)
 
-                output.write('!******************************!\n')
-
             output.close()
+        
+def unpack_rpt(root,outdir):
+    files = [root]
+    root = os.path.dirname(root)
+        
+    for _, fname in enumerate(files):
+        
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)   
+
+        with open(fname, 'rb') as fd:          
+            print "Extraindo %s." %fname   
+
+            table = normal_table('tabela3.tbl')
+            table.fill_with('0061=a', '0041=A', '0030=0')
+            table.add_items('000A=\n')
+
+            output = open(fdirs + os.path.basename(path) + '.txt', 'w')
+            
+            fd.seek(0,0)
+            
+            entries = struct.unpack("<L", fd.read(4))[0]
+            ptr = 4+20*entries
+            
+            for _ in range(entries):
+                output.write("[" + binascii.hexlify(fd.read(2)).upper() + "]\n")
+                _ = fd.read(6)
+                pointer = []
+                pointer = struct.unpack("<LLL", fd.read(12))
+                link = fd.tell()
+                
+                for i, rptr in enumerate(pointer):      
+                    fd.seek(ptr + rptr*2)
+                    while True:
+                        d = struct.unpack("<H", fd.read(2))[0]
+                        if d == 0: break
+                        c = struct.pack(">H",d)
+                        if c in table:
+                            output.write(table[c])
+                        elif d > 0:
+                            output.write("<%04x>" % d)
+                            
+                    if i in (0,1):       
+                        output.write('\n!------------------------------!\n')
+                    else:
+                        output.write('\n!******************************!\n')              
+                fd.seek(link)
+                
+            output.close()                       
 
 def unpack_map( src, dst ):
 
@@ -694,6 +747,11 @@ if __name__ == '__main__':
         if args.src:
             unpack_Z(root = args.src , outdir = args.src1 )
         unpack_D2KP(args.src1 , args.dst, args.img, args.img_args)
+        
+    elif args.mode == ".rpt":
+        print "Unpacking rpt text"
+        unpack_rpt(root = args.src , outdir = args.dst)
+                
         
     elif args.mode == ".db":
         print "Unpacking db text"
