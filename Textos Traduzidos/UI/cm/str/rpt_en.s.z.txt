@@ -1,2 +1,2 @@
-EScolha uma entrada.
+Escolha uma entrada.
 !******************************!

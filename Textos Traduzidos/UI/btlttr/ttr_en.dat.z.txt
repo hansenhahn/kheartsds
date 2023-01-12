@@ -4,7 +4,6 @@ Controles Básicos
 <AMARELO>Use <+><BRANCO> para andar.
 !------------------------------!
 <AMARELO>Aproxime-se de alguém<BRANCO> e <AMARELO>aperta <A><BRANCO> para conversar.
-!------------------------------!
 !******************************!
 [0300010001000100]
 Como Salvar
@@ -13,7 +12,6 @@ Como Salvar
 !------------------------------!
 Escolha <AMARELO>Salvar<BRANCO> do menu para gravar
 o seu progresso.
-!------------------------------!
 !******************************!
 [070002000400000005000000]
 Alcançar Lugares Altos
@@ -26,7 +24,6 @@ alcançáveis.
 <AMARELO>Aperte <+C><BRANCO> enquanto pendurado para <AMARELO>subir<BRANCO>...
 !------------------------------!
 ... ou aperte <B> novamente para soltar.
-!------------------------------!
 !******************************!
 [080002000600000004000100]
 Ajustar a Câmera
@@ -41,7 +38,6 @@ Você pode também <AMARELO>deslizar a caneta na Tela de Toque<BRANCO>
 para ajustar a câmera <AMARELO>na hora<BRANCO>.
 !------------------------------!
 Experimente na próxima vez que precisar olhar em volta!
-!------------------------------!
 !******************************!
 [0600010003000000]
 Áreas Bloqueadas
@@ -50,7 +46,6 @@ Algumas áreas estão bloqueadas por <AMARELO>barricadas<BRANCO>.
 !------------------------------!
 A Ordem as usa para fechar áreas
 <AMARELO>não relacionadas à missão<BRANCO>.
-!------------------------------!
 !******************************!
 [0900010007000000]
 Baús do Tesouro
@@ -59,7 +54,6 @@ Baús do Tesouro
 !------------------------------!
 Baús contêm uma variedade de itens úteis.
 Colete o máximo que puder!
-!------------------------------!
 !******************************!
 [0A0002000500010006000100]
 A Mochila
@@ -74,7 +68,6 @@ de itens de recuperação, <AMARELO>usados<BRANCO>.
 !------------------------------!
 Tudo que jogar fora irá aparecer na tela
 e poderá ser <AMARELO>coletado novamente<BRANCO>.
-!------------------------------!
 !******************************!
 [0B00010008000000]
 VAC
@@ -84,7 +77,6 @@ Após uma missão, você deve retornar ao
 !------------------------------!
 A localização do corredor é mostrada na
 <AMARELO>no mapa da Tela de Toque<BRANCO>.
-!------------------------------!
 !******************************!
 [1100010009000000]
 Ataques Padrão
@@ -93,7 +85,6 @@ Ataques Padrão
 !------------------------------!
 <AMARELO>Continue apertando <A><BRANCO> no momento certo para executar
 um <AMARELO>combo<BRANCO> devastador!
-!------------------------------!
 !******************************!
 [120001000A000000]
 Prêmios
@@ -109,7 +100,6 @@ Serve de dinheiro.
 !------------------------------!
 <AMARELO>Caixa de Prêmio<BRANCO>
 Contém um item.
-!------------------------------!
 !******************************!
 [130001000B000000]
 Travar Mira
@@ -118,7 +108,6 @@ Travar Mira
 !------------------------------!
 Passe para o <AMARELO>próximo alvo<BRANCO> ao <AMARELO>apertar <R> uma vez<BRANCO>.
 Aperte <R> duas vezes rapidamente para sair do modo de mira travada.
-!------------------------------!
 !******************************!
 [140001000C000000]
 Pontos de Coração
@@ -127,7 +116,6 @@ Um <AMARELO>coração<BRANCO> aparece quando você derrota
 <AMARELO>certos tipos de Sem-Coração<BRANCO>.
 !------------------------------!
 Você pode usar esses <AMARELO>pontos de coração<BRANCO> na <AMARELO>loja<BRANCO>.
-!------------------------------!
 !******************************!
 [150003000F0001001000010011000100]
 Encadear
@@ -148,7 +136,6 @@ seu <AMARELO>contador de coração começará a brilhar<BRANCO>.
 !------------------------------!
 Seu encadeamento ficará <AMARELO>inquebrável<BRANCO> durante isso,
 dando-lhe a chance de coletar um montão de corações!
-!------------------------------!
 !******************************!
 [1600010012000100]
 Objetivos de Missão
@@ -157,7 +144,6 @@ As missões possuem uma variedade de <AMARELO>objetivos<BRANCO>.
 !------------------------------!
 O objetivo da sua missão atual é mostrado na
 Tela de Toque.
-!------------------------------!
 !******************************!
 [0200010000000100]
 O Mapa
@@ -167,7 +153,6 @@ Tela de Toque.
 !------------------------------!
 <AMARELO>Inimigos na área<BRANCO> também são mostrados no mapa.
 Use-o para caçá-los.
-!------------------------------!
 !******************************!
 [1700010013000100]
 A Barra de Missão
@@ -177,7 +162,6 @@ Alcance a <AMARELO>linha da meta<BRANCO>...
 !------------------------------!
 ... que será <AMARELO>Missão Concluída<BRANCO>! Mas por que parar aí?
 Encha a barra além disso, que poderá acabar valendo a pena.
-!------------------------------!
 !******************************!
 [0E0001000A000100]
 Painéis
@@ -187,7 +171,6 @@ Painéis permitem-no <AMARELO>personalizar suas habilidades<BRANCO>.
 !------------------------------!
 Você só poderá acessar seus painéis <AMARELO>antes das missões<BRANCO>,
 então coloque isso dentro da sua rotina diária.
-!------------------------------!
 !******************************!
 [0F0003000B0001000C0001000D000100]
 Instalar Painéis
@@ -209,7 +192,6 @@ Não tenha medo de <AMARELO>apertar <ST><AR><T><BRANCO> e <AMARELO>abortar<BRANC
 !------------------------------!
 Sempre se pode tentar novamente, e às vezes uma simples
 reorganização dos painéis pode fazer a diferença.
-!------------------------------!
 !******************************!
 [3A0001002F000100]
 Usar Magia em Missões
@@ -219,7 +201,6 @@ Lembre-se, deve-se <AMARELO>instalá-los antes de partir<BRANCO>.
 !------------------------------!
 Não se esqueca disso!
 Senão você ficará travado sem magia.
-!------------------------------!
 !******************************!
 [1900010014000100]
 Magia
@@ -229,7 +210,6 @@ de Magias<BRANCO> esteja selecionado, e então <AMARELO>aperte <A><BRANCO>.
 !------------------------------!
 VocÊ tem um <AMARELO>número limitado de cargas mágicas<BRANCO>,
 mas é possível recuperá-las ao usar <AMARELO>Éteres<BRANCO>.
-!------------------------------!
 !******************************!
 [1A0002001500010016000100]
 Itens de Recuperação
@@ -244,7 +224,6 @@ Itens devem ser <AMARELO>instalados em espaços<BRANCO> como os demais,
 caso quiser levá-los junto nas missões.
 !------------------------------!
 Prepare-se antes para missões mais difíceis!
-!------------------------------!
 !******************************!
 [1B0002001700010018000100]
 Atalhos
@@ -260,7 +239,6 @@ Em seguida, <AMARELO>feche<BRANCO> o menu de item ou magia.
 !------------------------------!
 Enquanto segura <L>, <AMARELO>aperte <A> <B> <X> ou <Y><BRANCO> para usar
 esse atalho. Itens de mochila não podem ser conectados.
-!------------------------------!
 !******************************!
 [350001002B000100]
 Tipos de Controle
@@ -270,7 +248,6 @@ Configurações<BRANCO>. O Tipe B apresenta uma <AMARELO>câmera mais flexível<
 !------------------------------!
 Até então, você veio usando os controles de Tipo A.
 Experimente ambos e veja o que melhor te agrada!
-!------------------------------!
 !******************************!
 [1C0002000E00000019000100]
 Missões de Reconhecimento
@@ -286,7 +263,6 @@ e então a <AMARELO>Barra de Missão irá se encher<BRANCO>.
 !------------------------------!
 Descobertas revelam novos pontos de reconhecimento,
 permitindo que você prossiga com a missão.
-!------------------------------!
 !******************************!
 [180001000D000000]
 Quebras de Limite
@@ -296,7 +272,6 @@ para poder ativar sua <AMARELO>Quebra de Limite<BRANCO>.
 !------------------------------!
 Seus ataques darão dano massivo <AMARELO>até que a linha
 branca chegue na borda da esquerda<BRANCO> da sua Barra de PV.
-!------------------------------!
 !******************************!
 [1E0001001C000100]
 Holo-Missões
@@ -306,7 +281,6 @@ um certo momento. Mas não se preocupe!
 !------------------------------!
 Sempre será possível tentar depois uma missão.
 Basta selecionar <AMARELO>Holo-Missões<BRANCO> no menu.
-!------------------------------!
 !******************************!
 [1F0001001D000100]
 O Menu das Holo-Missões
@@ -315,7 +289,6 @@ Todas as suas missões, <AMARELO>quer escolha aceitá-las ou não<BRANCO>,
 são guardadas para você como <AMARELO>Holo-Missões<BRANCO>.
 !------------------------------!
 Tente concluir todas elas!
-!------------------------------!
 !******************************!
 [2C00010021000100]
 Equipar uma Arma
@@ -325,7 +298,6 @@ Instalar um <AMARELO>painel de arma<BRANCO> transforma a sua arma,
 !------------------------------!
 Só é possível instalar um painel de arma por vez.
 Cada uma tem sua particularidade, então experimente todas!
-!------------------------------!
 !******************************!
 [050002000200010003000100]
 Escolher uma Missão
@@ -339,7 +311,6 @@ Isso fará abrir um <AMARELO>resumo da missão<BRANCO>.
 !------------------------------!
 Use <+> para conferir o resumo e os objetivos, e então
 <AMARELO>aperte <A><BRANCO> para embarcar na missão.
-!------------------------------!
 !******************************!
 [1D0002001A0001001B000100]
 Missões Obrigatórias
@@ -354,7 +325,6 @@ você poderá <AMARELO>avançar no tempo<BRANCO>...
 !------------------------------!
 ... ou escolher permanecer até ter terminado
 a lista inteira de missões.
-!------------------------------!
 !******************************!
 [2D0002002200010023000100]
 Painéis de Ligação
@@ -370,7 +340,6 @@ ele <AMARELO>será ligado<BRANCO>.
 !------------------------------!
 Ligações são a chave para <AMARELO>maximizar os seus atributos<BRANCO>. Algumas
 <AMARELO>habilidades<BRANCO> só são desbloqueadas com a <AMARELO>ligação certa<BRANCO>.
-!------------------------------!
 !******************************!
 [2F00010025000100]
 Painéis de Anel
@@ -380,7 +349,6 @@ Alguns até desbloquearão <AMARELO>habilidades únicas<BRANCO>.
 !------------------------------!
 Infelizmente, painéis de anel <AMARELO>não podem ser ligados<BRANCO>,
 e <AMARELO>só é permitido instalar apenas um<BRANCO>.
-!------------------------------!
 !******************************!
 [210001001E000100]
 Painéis de Unidade
@@ -389,7 +357,6 @@ Painéis de Unidade
 !------------------------------!
 Alguns liberam as <AMARELO>habilidades inatas<BRANCO> da sua arma, 
 enquanto outros <AMARELO>aumentam Força, Defesa, ou outro atributo<BRANCO>.
-!------------------------------!
 !******************************!
 [3000010026000100]
 Desbloquear Espaços
@@ -398,7 +365,6 @@ Completar missões <AMARELO>desbloqueia espaços adicionais de painel<BRANCO>.
 !------------------------------!
 Mais espaços = mais painéis = mais poder para você.
 Quem disse que o esforço não compensa?
-!------------------------------!
 !******************************!
 [3100010027000100]
 Patentes
@@ -408,7 +374,6 @@ e lhe concedeu uma nova <AMARELO>patente<BRANCO>.
 !------------------------------!
 Suba na hierarquia para desbloquear <AMARELO>novos itens na loja<BRANCO>,
 assim como <AMARELO>novas missões para o Modo Missão<BRANCO>.
-!------------------------------!
 !******************************!
 [3600010019000000]
 A Loja do Mugli
@@ -417,7 +382,6 @@ Parece que a <AMARELO>Loja do Mugli<BRANCO> está inaugurada!
 !------------------------------!
 Fale com o <AMARELO>mugli<BRANCO> aqui na Área Cinzenta
 sempre que precisar dos serviços da loja.
-!------------------------------!
 !******************************!
 [0C00010007000100]
 Serviços da Loja
@@ -427,7 +391,6 @@ para <AMARELO>comprar<BRANCO> painéis...
 !------------------------------!
 ... ou gastar <AMARELO>patacas<BRANCO> para <AMARELO>sintetizar<BRANCO> novos painéis
 ao combinar os materiais que possui.
-!------------------------------!
 !******************************!
 [220001001F000100]
 Medalhas de Missão
@@ -437,7 +400,6 @@ no Modo Missão<BRANCO>.
 !------------------------------!
 Tenha em mente que cada missão possui uma <AMARELO>patente mínima<BRANCO>.
 Você não poderá escolhê-la se todos os jogadores não estiverem qualificado.
-!------------------------------!
 !******************************!
 [3200010028000100]
 A Barra de Bônus
@@ -447,7 +409,6 @@ A quantidade varia de missão para missão.
 !------------------------------!
 Quando a barra estiver cheia, concluir missões adicionais
 fornecerá <AMARELO>mais recompensas do que o costume<BRANCO>.
-!------------------------------!
 !******************************!
 [200002000F00000010000000]
 Emblemas da Ordem
@@ -462,7 +423,6 @@ será preciso apanhar os emblemas <AMARELO>com os anéis intactos<BRANCO>.
 !------------------------------!
 <AMARELO>Recarregue<BRANCO> os anéis ao <AMARELO>apanhar outros emblemas<BRANCO>
 ou <AMARELO>derrotar inimigos<BRANCO>.
-!------------------------------!
 !******************************!
 [3300010029000100]
 Ligações de Nível
@@ -472,7 +432,6 @@ Ao invés disso, eles geram uma região de ligação.
 !------------------------------!
 <AMARELO>Ligue painéis normais de nível<BRANCO> a essa região
 para <AMARELO>multiplicar<BRANCO> o número de níveis que recebe!
-!------------------------------!
 !******************************!
 [0D0002000800010009000100]
 Desafios e Medalhas de Provação
@@ -488,7 +447,6 @@ desempenho será <AMARELO>avaliado a partir de diversos fatores<BRANCO>.
 !------------------------------!
 Atue bem para ganhar <AMARELO>Brasões de Desafio<BRANCO>, que podem
 ser trocados nas lojas por todos os tipos <AMARELO>brindes<BRANCO>.
-!------------------------------!
 !******************************!
 [100001000E000100]
 Brindes
@@ -498,7 +456,6 @@ Acumule <AMARELO>Brasões de Desafio<BRANCO> e <AMARELO>Coroas de Missão<BRANCO
 !------------------------------!
 ... para ganhar coisas de graça a depender do <AMARELO>quanto
 tiver coletado<BRANCO> durante os Desafios e o Modo Missão.
-!------------------------------!
 !******************************!
 [2500010013000000]
 Perseguir Alvos
@@ -508,7 +465,6 @@ da sua região azul<BRANCO>.
 !------------------------------!
 Cuidado! Se ele <AMARELO>escapar<BRANCO>, ou <AMARELO>você entrar na região vermelha dele<BRANCO>,
 você será pego.
-!------------------------------!
 !******************************!
 [340001002A000100]
 Expandir Sua Mochila
@@ -517,7 +473,6 @@ Instale um painel de <AMARELO>Mochila<BRANCO> nos seus espaços para
 ser capaz de <AMARELO>pegar mais itens<BRANCO> durante as missões.
 !------------------------------!
 Isso também significa que você pode levar mais coisas para casa.
-!------------------------------!
 !******************************!
 [2800010015000000]
 Fique Fora de Visão
@@ -527,7 +482,6 @@ Cuidado! Se você entrar na linha de visão do Lumière,
 !------------------------------!
 Isso irá forçá-lo a retornar para onde começou.
 Encontre um jeito de avançar <AMARELO>sem ser visto<BRANCO>.
-!------------------------------!
 !******************************!
 [2E00010024000100]
 Guardando e Reavendo Tabuleiros
@@ -537,7 +491,6 @@ em um <AMARELO>tabuleiro<BRANCO>...
 !------------------------------!
 ... e então <AMARELO>reavê-lo<BRANCO> se precisar disso depois novamente.
 (Lembre-se de<AMARELO>salvar<BRANCO> caso quiser ficar com seus tabuleiros!)
-!------------------------------!
 !******************************!
 [370001002C000100]
 Novidades da Loja
@@ -547,7 +500,6 @@ Dê uma conferida lá!
 !------------------------------!
 Você também pode <AMARELO>sintetizar painéis de arma<BRANCO> agora.
 Experimente criar uma arma mais poderosa!
-!------------------------------!
 !******************************!
 [2900010016000000]
 Treino do Fil
@@ -557,7 +509,6 @@ Quebre em sequência para ganhar ainda mais!
 !------------------------------!
 Quebre um barril no outro ou em um inimigo
 para ganhar AINDA MAIS pontos!
-!------------------------------!
 !******************************!
 [2B00010018000000]
 Embaixadinha
@@ -566,7 +517,6 @@ Acerte a <AMARELO>bola<BRANCO> para <AMARELO>lançá-la ao ar<BRANCO>.
 !------------------------------!
 <AMARELO>Veja quantas vezes consegue acertá-la<BRANCO>
 antes de ela cair no chão <AMARELO>cinco vezes<BRANCO>.
-!------------------------------!
 !******************************!
 [2A00010017000000]
 Caçar Sem-Coração
@@ -576,7 +526,6 @@ não apenas nos balões do Jack. Confira tudo cuidadosamente!
 !------------------------------!
 <AMARELO>Dê um osso ao Zero<BRANCO> e ele irá
 <AMARELO>mostrá-lo um dos esconderijos dos Sem-Coração<BRANCO>.
-!------------------------------!
 !******************************!
 [380001002D000100]
 Fortalecer Habilidade
@@ -586,7 +535,6 @@ Os com <AMARELO>regiões de ligação maiores<BRANCO> podem ser <AMARELO>mais fo
 !------------------------------!
 ... mas isso também deixa <AMARELO>menos espaço para outros tipos
 de painéis<BRANCO>. Tente encontrar o equilíbrio perfeito.
-!------------------------------!
 !******************************!
 [2600010014000000]
 Autoplanar
@@ -596,7 +544,6 @@ Primeiro, <AMARELO>aperte <Y> ao pular<BRANCO> para flutuar.
 !------------------------------!
 <AMARELO>Apertar <Y><BRANCO> irá levá-lo <AMARELO>mais alto<BRANCO>. <AMARELO>Use <B><BRANCO> para <AMARELO>descer<BRANCO>.
 Você pode mover livremente com as <AMARELO><+><BRANCO>.
-!------------------------------!
 !******************************!
 [390001002E000100]
 Fortalecer Quebras de Limites
@@ -606,7 +553,6 @@ Instale um painel de <AMARELO>Limite Final<BRANCO> para liberar
 !------------------------------!
 Isso também faz com que a linha branca da sua Barra de PV se
 recupere, aumentando <AMARELO>o tempo de duração da Quebra de Limite<BRANCO>.
-!------------------------------!
 !******************************!
 [2700010020000100]
 Caça ao Tesouro
@@ -616,7 +562,6 @@ e use a sua Chave-Espada para cavar.
 !------------------------------!
 Infelizmente, <AMARELO>o mapa está rasgado e você está
 sem parte dele<BRANCO>... Onde é que pode estar o resto?
-!------------------------------!
 !******************************!
 [2300010011000000]
 Portais de Reunião
@@ -626,7 +571,6 @@ Você pode passar por <AMARELO>Portais de Reunião<BRANCO> assim que
 !------------------------------!
 Fiar perto do portal também <AMARELO>te protege
 de ataques dos outros jogadores<BRANCO>.
-!------------------------------!
 !******************************!
 [2400010012000000]
 Pontos de Missão
@@ -636,7 +580,6 @@ Derrote inimigos ou colete prêmios de missão para ganhar
 !------------------------------!
 <AMARELO>O jogador com mais pontos no final ganha!<BRANCO>
 Fique sempre em primeiro, que isso poderá valer a pena...
-!------------------------------!
 !******************************!
 [3B0001001A000000]
 VAC do Modo Missão
@@ -646,5 +589,4 @@ o corredor obscuro abrir no fim da missão.
 !------------------------------!
 A missão terminará quando a contagem chegar a zero.
 <AMARELO>VAC antes disso<BRANCO> para ganhar pontos bônus.
-!------------------------------!
 !******************************!
