@@ -10,6 +10,219 @@
 &.[HDR].&
 *.000004000000002001000000010000000000000007000F00.*
 !******************************!
+&.[MSS].Info.&
+*.NULO.*
+!------------------------------!
+Track down the unidentified giant Heartless!
+!------------------------------!
+Trouvez le Sans-cœur géant non identifié !
+!------------------------------!
+Finde den unidentifizierten riesigen Herzlosen
+!------------------------------!
+Trova l'Heartless gigante non identificato!
+!------------------------------!
+¡Sigue al sincorazón gigante sin identificar!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Enter the Games and locate the giant Heartless!
+!------------------------------!
+Participez aux Jeux et trouvez le Sans-cœur géant !
+!------------------------------!
+Nimm an den Spielen teil und finde den riesigen Herzlosen!
+!------------------------------!
+Partecipa ai Giochi e trova l'Heartless gigante!
+!------------------------------!
+¡Participa y localiza al sincorazón!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Round 1! Defeat all the Heartless!
+!------------------------------!
+1er round ! Battez tous les Sans-cœur !
+!------------------------------!
+Runde 1! Besiege alle Herzlosen!
+!------------------------------!
+Round 1! Sconfiggi tutti gli Heartless!
+!------------------------------!
+¡Ronda 1! ¡Derrota a los sincorazón!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Round 2! Defeat all the Heartless!
+!------------------------------!
+2e round ! Battez tous les Sans-cœur !
+!------------------------------!
+Runde 2! Besiege alle Herzlosen!
+!------------------------------!
+Round 2! Sconfiggi tutti gli Heartless!
+!------------------------------!
+¡Ronda 2! ¡Derrota a los sincorazón!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Round 3! Defeat all the Heartless!
+!------------------------------!
+3e round ! Battez tous les Sans-cœur !
+!------------------------------!
+Runde 3! Besiege alle Herzlosen!
+!------------------------------!
+Round 3! Sconfiggi tutti gli Heartless!
+!------------------------------!
+¡Ronda 3! ¡Derrota a los sincorazón!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Round 4! Defeat all the Heartless!
+!------------------------------!
+4e round ! Battez tous les Sans-cœur !
+!------------------------------!
+Runde 4! Besiege alle Herzlosen!
+!------------------------------!
+Round 4! Sconfiggi tutti gli Heartless!
+!------------------------------!
+¡Ronda 4! ¡Derrota a los sincorazón!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Round 5! Defeat Xigbar!
+!------------------------------!
+5e round ! Battez Xigbar !
+!------------------------------!
+Runde 5! Besiege Xigbar!
+!------------------------------!
+Round 5! Sconfiggi Xigbar!
+!------------------------------!
+¡Ronda 5! ¡Derrota a Xigbar!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Defeat the Guard Armor!
+!------------------------------!
+Battez l'Armure gardienne !
+!------------------------------!
+Besiege den Panzerrüstor!
+!------------------------------!
+Sconfiggi la Guardia di Ferro!
+!------------------------------!
+¡Derrota al armadura!
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+RTC authorized. The dark corridor is open.
+!------------------------------!
+Retour autorisé. Le couloir obscur est ouvert.
+!------------------------------!
+Rückkehr erlaubt. Dunkler Tunnel geöffnet.
+!------------------------------!
+Ritorno al castello autorizzato. Il corridoio oscuro è aperto.
+!------------------------------!
+VAC. Pasillo oscuro abierto.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+!******************************!
 &.[HDR].&
 *.000004000000002001000000010000000100000007000F00.*
+!******************************!
+&.[MSS].Final.&
+*.NULO.*
+!------------------------------!
+You cannot return yet.
+!------------------------------!
+Vous ne pouvez pas encore rentrer.
+!------------------------------!
+Du kannst noch nicht zurück.
+!------------------------------!
+Non puoi ancora tornare.
+!------------------------------!
+Aún no puedes volver.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Return to the castle?
+!------------------------------!
+Rentrer à la citadelle ?
+!------------------------------!
+Zurück zum Schloss?
+!------------------------------!
+Tornare al castello?
+!------------------------------!
+¿Volver al castillo?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Are you sure?
+!------------------------------!
+En êtes-vous sûr ?
+!------------------------------!
+Bist du sicher?
+!------------------------------!
+Sei sicuro?
+!------------------------------!
+¿Seguro?
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Yes
+!------------------------------!
+Oui.
+!------------------------------!
+Ja
+!------------------------------!
+Sì
+!------------------------------!
+Sí.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+No
+!------------------------------!
+Non.
+!------------------------------!
+Nein
+!------------------------------!
+No
+!------------------------------!
+No.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+All four players must be present to RTC.
+!------------------------------!
+Les quatre joueurs doivent être présents pour RÀC.
+!------------------------------!
+Alle vier Spieler müssen anwesend sein,um zum Schloss zurückzukehren.
+!------------------------------!
+Per rientrare al castello devono
+esserci tutti i quattro giocatori.
+!------------------------------!
+Se necesita a los 4 para VAC.
+!------------------------------!
+!++++++++++++++++++++++++++++++!
+*.NULO.*
+!------------------------------!
+Returning to the castle...
+!------------------------------!
+Retour à la citadelle...
+!------------------------------!
+Rückkehr zum Schloss ...
+!------------------------------!
+Ritorno al castello...
+!------------------------------!
+Volviendo al castillo...
+!------------------------------!
+!++++++++++++++++++++++++++++++!
 !******************************!
