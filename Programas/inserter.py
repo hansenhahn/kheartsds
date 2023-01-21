@@ -114,6 +114,7 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
                     buffer = compression.onz.compress(input)
             else:
                 buffer = array.array('c', input.read())
+                
             buffer.tofile(output)   
             input.close()
             
@@ -123,7 +124,9 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
             else:
                 sizes.append(len(buffer))           
             address += len(buffer)
-            while address % 0x200 != 0: address += 1
+            while address % 0x200 != 0:
+                address += 1
+                output.write("\x00")
             
             names.append(name)
             
@@ -131,14 +134,16 @@ def pack_P2(root = 'Arquivos PT-BR/Unpacked P2',
         for address in addresses:
             output.write(struct.pack('B', ((address & 0x1fe00) >> 9)))
             output.write(struct.pack('B', (address >> 17)))
-        if output.tell() % 4 != 0: output.seek(2,1)
+        if output.tell() % 4 != 0: output.write("\x00\x00")
         for size in sizes:
             output.write(struct.pack('<L', size))
         
         if has_fnt == True:
             for name in names:
-                output.write('%s\x00' % name)
-                while output.tell() % 8 != 0: output.seek(1,1)
+                while len(name) != 8 :
+                    name += '\x00'
+                output.write('%s' % name)
+
 
         output.close()
 
@@ -247,12 +252,12 @@ def pack_CAKP(root = '../Textos PT-BR/CAKP', outdir = '../Arquivos PT-BR/Unpacke
             # Escreve os nomes dos arquivos
             for name in name_info:       
                 f.write('%s\x00' % name)
-            while f.tell() % 0x20 != 0: f.seek(1, 1)
+            while f.tell() % 0x20 != 0: f.write("\x00")
             
             # Escreve os arquivos
             for file in files:
                 f.write(file)
-                while f.tell() % 0x20 != 0: f.seek(1, 1)
+                while f.tell() % 0x20 != 0: f.write("\x00")
                 
 
 def pack_GNRC(root = '../Textos PT-BR/P2',

@@ -79,7 +79,7 @@ def unpackAnimation(palette, cell, tile, dst):
 
             r,g,b = color
             colors_list.append((r/31.0, g/31.0, b/31.0, alpha))
-        
+    print tile.chunks
     tiles = tile.char_data
     
 
@@ -104,7 +104,8 @@ def unpackAnimation(palette, cell, tile, dst):
 
         buffer = array.array('c', '\xFF' * width * height)
         for j, obj in enumerate(sprite):
-            attr0, attr1, attr2 = obj            
+            attr0, attr1, attr2 = obj          
+            print attr0, attr1, attr2
 
             pal = colors_list#palette.pltt[attr2.palette_number]
             xx = attr1.xcoord - x0
@@ -113,10 +114,13 @@ def unpackAnimation(palette, cell, tile, dst):
             ty = dy[attr0.obj_shape][attr1.obj_size]
             t0 = 0       
             
-            #print xx, yy, tx, ty 
             for y in range(ty/8):
-                for x in range(tx/8):            
-                    tile = "".join(map(lambda x: struct.pack("8B",*x), tiles[attr2.tile_number*2 + t0]))
+                for x in range(tx/8):    
+                    print len(tiles), attr2.tile_number*2 + t0
+                    try:
+                        tile = "".join(map(lambda x: struct.pack("8B",*x), tiles[attr2.tile_number/2 + t0]))
+                    except:
+                        tile = "\x00\x00\x00\x00\x00\x00\x00\x00"
                     t0 += 1
                     
                     buffer[ width*(yy+y*8) + xx*8 + x*64 :
@@ -128,12 +132,9 @@ def unpackAnimation(palette, cell, tile, dst):
         head, tail = os.path.split(dst)
         if not os.path.isdir( head ):
             os.makedirs( head )
-        #print len(buffer )
+        print len(buffer ), width, height
         with open( dst + "_%d.bmp" % i, 'wb') as o:
             #if tile.chunks["CHAR"]["bitdepth"] == 3:
-                # p = bmp.Writer(width,height, 24)
-                # p.write(o, buffer)
-                #print colors_list#palette.pltt
                 w = images.Writer((width, height), colors_list, 8, 1, 0)
                 w.write(o, buffer, 8, 'BMP')
                 o.close()

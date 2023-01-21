@@ -2,13 +2,20 @@
 
 echo Calling inserter.py to pack texts
 
-xcopy "..\Arquivos Originais\mi\mi\__0006.p2" "..\Arquivos Traduzidos\mi\mi\__0006.p2/" /I /E /Y
-pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__0006.p2" -d "../Arquivos Traduzidos/mi/mi/__0006.p2"
-pypy inserter.py -m ".p2" -s "../Arquivos Traduzidos/mi/mi" -d "../ROM Modificada/xpa-khe/data/mi/mi" -fnt
+rem Missão dia 8
+xcopy "..\Arquivos Originais\mi\mi\__0001.p2" "..\Arquivos Traduzidos\mi\mi\__0001.p2/" /I /E /Y
+pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__0001.p2" -d "../Arquivos Traduzidos/mi/mi/__0001.p2"
+REM pypy inserter.py -m ".p2" -s "../Arquivos Traduzidos/mi/mi" -d "../ROM Modificada/xpa-khe/data/mi/mi" -fnt
+REM exit /b
+rem Missão dia 
+REM xcopy "..\Arquivos Originais\mi\mi\__0006.p2" "..\Arquivos Traduzidos\mi\mi\__0006.p2/" /I /E /Y
+REM pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__0006.p2" -d "../Arquivos Traduzidos/mi/mi/__0006.p2"
 rem Pack dos textos sem avatar do salão. Funcional, não mexer
 xcopy "..\Arquivos Originais\mi\mi\__10000.p2" "..\Arquivos Traduzidos\mi\mi\__10000.p2/" /I /E /Y
 pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__10000.p2" -d "../Arquivos Traduzidos/mi/mi/__10000.p2"
 pypy inserter.py -m ".p2" -s "../Arquivos Traduzidos/mi/mi" -d "../ROM Modificada/xpa-khe/data/mi/mi" -fnt
+
+
 
 rem Pack do banco de dados. Funcional, não mexer
 xcopy "..\Arquivos Originais\db\__db_en.p2" "..\Arquivos Traduzidos\db\__db_en.p2" /I /E /Y

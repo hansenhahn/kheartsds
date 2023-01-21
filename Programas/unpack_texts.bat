@@ -2,10 +2,6 @@
 
 echo Calling dumper.py to unpack texts
 
-rem Unpack tutoriais
-pypy dumper.py -m ".dat.z" -s "../Arquivos Originais/UI/btlttr" -d "../Textos Originais/UI/btlttr"
-
-exit /b
 
 rem ----- Arquivos que estão empacotados em containers p2
 rem Unpack file p2

@@ -295,7 +295,7 @@ def unpack_CAKP(root, outdir):
                         
                     output.close()  
                     h,t = os.path.split(fnt_names[x])
-                    print h,t
+                    #print h,t
                     #if t not in ('_i', '_e', 'chara', 'shop', 'stmi'):
                         
                     output = open(os.path.join(fdirs, fnt_names[x]) + '.txt', 'w')                                                                               
