@@ -1,0 +1,4705 @@
+[01000100080008000000000001000000000000000100000000000000000000000000000000000000000000000000]
+Learn mission basics
+!------------------------------!
+- MISSION -
+Learn mission basics.
+Team up with <AMARELO>Axel<BRANCO>, search the underground
+passage in Twilight Town for the <AMARELO>treasure
+chest<BRANCO>, and collect its contents. 
+!------------------------------!
+- REQUIREMENTS -
+Claim the contents of the <AMARELO>treasure chest<BRANCO> in
+the underground passage.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[10278403080008000000010000000000090001000000000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[02000200090009000000000002000000000000000100000000000000000000000000000000000000000000000000]
+Learn the basics of combat
+!------------------------------!
+- MISSION -
+Learn the basics of combat.
+Team up with <AMARELO>Marluxia<BRANCO>, eliminate Heartless
+in Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1127850309000D0000000100000000000E0000000100000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[030003000A000A000000000003000000000000000100000000000000000000000000000000000000000000000000]
+Learn about your field duties
+!------------------------------!
+- MISSION -
+Learn about your duties in the field.
+Team up with <AMARELO>Zexion<BRANCO>, eliminate Heartless in
+Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[050004000B000B000000000004000000000000000100000000000000000000000000000000000000000000000000]
+Learn how to use magic
+!------------------------------!
+- MISSION -
+Learn about the use of magic.
+Team up with <AMARELO>Larxene<BRANCO>, eliminate Heartless in
+Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[060005000C000C000000000005000000000000000100000000000000000000000000000000000000000000000000]
+Learn about reconnaissance
+!------------------------------!
+- MISSION -
+Learn about reconnaissance.
+Team up with <AMARELO>Vexen<BRANCO> and gather intel in
+<AMARELO>Twilight Town<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Do recon in <AMARELO>Twilight Town<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[040006000D000D000000000006000000000000000100000000000000000000000000000000000000000000000000]
+Learn about Limit Breaks
+!------------------------------!
+- MISSION -
+Learn about Limit Breaks.
+A <AMARELO>Mega-Shadow<BRANCO> has surfaced in Twilight
+Town. Team up with <AMARELO>Lexaeus<BRANCO> and eliminate it
+at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Mega-Shadow<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[650007000E000E000000000007000000000001000000000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Axel<BRANCO>, eliminate Heartless in
+Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[650007000E000E00000000000700000000000100000000000000000000000000080100000000000069008C00A000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Axel<BRANCO>, eliminate Heartless in
+Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[650007000E000E000000000007000000000001000000000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Twilight Town and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9A0008000F0011000000000008000000000000000200000000000000000000000004000000000800000000000000]
+Eliminate the Watchers
+!------------------------------!
+- MISSION -
+<AMARELO>Watchers<BRANCO> have surfaced in Twilight Town.
+Find them and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Watchers<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9A0008000F0011000000000008000000000000000200000000000000000000000000000000000000000000000000]
+Eliminate the Watchers
+!------------------------------!
+- MISSION -
+<AMARELO>Watchers<BRANCO> have surfaced in Twilight Town.
+Team up with <AMARELO>Larxene<BRANCO>, find them, and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Watchers<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9A0008000F0011000000000008000000000000000200000000000000000000000801000000000000640073008200]
+Eliminate the Watchers
+!------------------------------!
+- MISSION -
+<AMARELO>Watchers<BRANCO> have surfaced in Twilight Town.
+Team up with <AMARELO>Larxene<BRANCO>, find them, and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Watchers<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[970009000F0011000000000009000000000000000100000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Twilight Town and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[970009000F0011000000000009000000000000000100000000000000000000000901000000000300C90096008200]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Marluxia<BRANCO>, eliminate Heartless in
+Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Dire Plants<BRANCO>.
+Dispatch them by <AMARELO>blocking<BRANCO> and deflecting
+their <AMARELO>seeds<BRANCO> back at them.
+
+A <AMARELO>Zip Slasher<BRANCO> has been sighted as well.
+Exercise extreme caution around this
+powerful foe.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[970009000F0011000000000009000000000000000100000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Marluxia<BRANCO>, eliminate Heartless in
+Twilight Town, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Dire Plants<BRANCO>.
+Dispatch them by <AMARELO>blocking<BRANCO> and deflecting
+their <AMARELO>seeds<BRANCO> back at them.
+
+A <AMARELO>Zip Slasher<BRANCO> has been sighted as well.
+Exercise extreme caution around this
+powerful foe.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[4A050A000F001100040000000A00000000000000010000000000000000000000080100000000050003000F001400]
+Prove your endurance
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>combat ability<BRANCO>.
+<AMARELO>Prove your endurance<BRANCO> by surviving for <AMARELO>one
+minute<BRANCO> in the arena we have set up for you
+in the castle. Fight, or flee<2015>but whatever
+you do, think fast.
+
+- INTEL -
+<AMARELO>Dodge rolls<BRANCO> are indispensable in this test.
+!------------------------------!
+- REQUIREMENTS -
+<AMARELO>Prove your endurance<BRANCO> by surviving <AMARELO>one
+minute<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[4A050A000F001100040000000A000000000000000100000000000000000000000004000000000800000000000000]
+Prove your endurance
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>combat ability<BRANCO>.
+<AMARELO>Prove your endurance<BRANCO> by surviving for <AMARELO>one
+minute<BRANCO> in the arena we have set up for you
+in the castle. Fight, or flee<2015>but whatever
+you do, think fast.
+!------------------------------!
+- REQUIREMENTS -
+<AMARELO>Prove your endurance<BRANCO> by surviving <AMARELO>one
+minute<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[4A050A000F001100040000000A000000000000000100000000000000000000000000000000000000000000000000]
+Prove your endurance
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>combat ability<BRANCO>.
+<AMARELO>Prove your endurance<BRANCO> by surviving for <AMARELO>one
+minute<BRANCO> in the arena we have set up for you
+in the castle. Fight, or flee<2015>but whatever
+you do, think fast.
+
+- INTEL -
+<AMARELO>Dodge rolls<BRANCO> are indispensable in this test.
+!------------------------------!
+- REQUIREMENTS -
+<AMARELO>Prove your endurance<BRANCO> by surviving <AMARELO>one
+minute<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[122786030F0011000000010000000000160000000300000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[66000B0016001600000000000B000000000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Guardian
+!------------------------------!
+- MISSION -
+A <AMARELO>Guardian<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Axel<BRANCO>, find it, and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[66000B0016001600000000000B000000000001000000000000000000000000000901000000000100C201AE019001]
+Eliminate the Guardian
+!------------------------------!
+- MISSION -
+A <AMARELO>Guardian<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Axel<BRANCO>, find it, and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[66000B0016001600000000000B000000000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Guardian
+!------------------------------!
+- MISSION -
+A <AMARELO>Guardian<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[66006F0016001600000000000B000000000001000000000000000000000000000E02000000000700010002000300]
+Eliminate the Guardian
+!------------------------------!
+- MISSION -
+A <AMARELO>Guardian<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Axel<BRANCO>, find it, and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[67000C0017001700000000000C000000000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Poison Plant
+!------------------------------!
+- MISSION -
+A <AMARELO>Poison Plant<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Poison Plant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[67000C0017001700000000000C000000000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Poison Plant
+!------------------------------!
+- MISSION -
+A <AMARELO>Poison Plant<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+- INTEL -
+<AMARELO>Poison Plants<BRANCO> can be easily dispatched with
+<AMARELO>Fire magic<BRANCO>. Take <AMARELO>extra casts of Fire<BRANCO> into
+the field.
+
+Also be on the lookout for <AMARELO>Dire Plants<BRANCO>.
+Dispatch them by <AMARELO>blocking<BRANCO> their <AMARELO>seeds<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Poison Plant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[68000D0018001800000000000D000000000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Twilight Town. Team up with
+<AMARELO>Xion<BRANCO>, find them, and eliminate them at once.
+
+- INTEL -
+<AMARELO>Deserters<BRANCO> are known to become belligerent
+if you take down another of their number.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[68000D0018001800000000000D000000000001000000000000000000000000000701000000000000370046005A00]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Twilight Town. Team up with
+<AMARELO>Xion<BRANCO>, find them, and eliminate them at once.
+
+- INTEL -
+<AMARELO>Deserters<BRANCO> are known to become belligerent
+if you take down another of their number.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[68000D0018001800000000000D000000000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Twilight Town. Find them and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[69000E0019001900000000000E000000000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Darkside
+!------------------------------!
+- MISSION -
+A <AMARELO>Darkside<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+- INTEL -
+Install a <AMARELO>Block<BRANCO> panel before attempting to
+engage a <AMARELO>Darkside<BRANCO>. You will be glad you did.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[69000E0019001900000000000E000000000001000000000000000000000000000D01000000000400020005000800]
+Eliminate the Darkside
+!------------------------------!
+- MISSION -
+A <AMARELO>Darkside<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+- INTEL -
+Install a <AMARELO>Block<BRANCO> panel before attempting to
+engage a <AMARELO>Darkside<BRANCO>. You will be glad you did.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[69000E0019001900000000000E000000000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Darkside
+!------------------------------!
+- MISSION -
+A <AMARELO>Darkside<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6900720019001900000000000E000000000001000000000000000100000000003C020000000000006900BE00FA00]
+Eliminate the Darkside
+!------------------------------!
+- MISSION -
+A <AMARELO>Darkside<BRANCO> has surfaced in Twilight Town.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+- INTEL -
+Install a <AMARELO>Block<BRANCO> panel before attempting to
+engage a <AMARELO>Darkside<BRANCO>. You will be glad you did.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[91010F001A001A00030000000F000100000001000000000000000000000000000000000000000000000000000000]
+Investigate this new world
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xigbar<BRANCO>, infiltrate this <AMARELO>new
+world<BRANCO>, and gather intel.
+
+- INTEL -
+The member who discovered this world
+reported seeing <AMARELO>Dire Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Do recon in this <AMARELO>new world<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9201100033003600030000001000010000000000020000000000000000000000040100000000020064004F004500]
+Eliminate the Fire Plants
+!------------------------------!
+- MISSION -
+<AMARELO>Fire Plants<BRANCO> have surfaced in Agrabah.
+Find them and eliminate them at once.
+
+- INTEL -
+<AMARELO>Blocking<BRANCO> will serve you well against <AMARELO>Fire
+Plants<BRANCO>. Take as much <AMARELO>Blizzard magic<BRANCO> into the
+field as you can.
+
+Also be on the lookout for <AMARELO>Barrier Masters<BRANCO>,
+who can surround their allies with an
+<AMARELO>impenetrable barrier<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat seven <AMARELO>Fire Plants<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[92011000330036000300000010000100000000000200000000000000000000000004000000000800000000000000]
+Eliminate the Fire Plants
+!------------------------------!
+- MISSION -
+<AMARELO>Fire Plants<BRANCO> have surfaced in Agrabah.
+Find them and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat seven <AMARELO>Fire Plants<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[92011000330036000300000010000100000000000203000000000000000000000000000000000000000000000000]
+Eliminate the Fire Plants
+!------------------------------!
+- MISSION -
+<AMARELO>Fire Plants<BRANCO> have surfaced in Agrabah.
+Find them and eliminate them at once.
+
+- INTEL -
+<AMARELO>Blocking<BRANCO> will serve you well against <AMARELO>Fire
+Plants<BRANCO>. Take as much <AMARELO>Blizzard magic<BRANCO> into the
+field as you can.
+
+Also be on the lookout for <AMARELO>Barrier Masters<BRANCO>,
+who can surround their allies with an
+<AMARELO>impenetrable barrier<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat seven <AMARELO>Fire Plants<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D001100330036000000000011000100000000000102000000000000000000000004000000000800000000000000]
+Eliminate the Tailbunker
+!------------------------------!
+- MISSION -
+A <AMARELO>Tailbunker<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D001100330036000000000011000100000000000102000000000000000000000000000000000000000000000000]
+Eliminate the Tailbunker
+!------------------------------!
+- MISSION -
+A <AMARELO>Tailbunker<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D00110033003600000000001100010000000000010200000000040000000000040100000000000064007D009600]
+Eliminate the Tailbunker
+!------------------------------!
+- MISSION -
+A <AMARELO>Tailbunker<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C30112003300360003000000120001000000000001040000000000000000000002010000000000003C0046005A00]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Collect the
+numerous <AMARELO>Organization emblems<BRANCO> we have
+placed throughout Agrabah.
+
+- INTEL -
+Demonstrate that you <AMARELO>know the terrain<BRANCO> well
+enough to formulate <AMARELO>your own route<BRANCO>.
+Running after the first emblem you see will
+only cost you time.
+
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C3011200330036000300000012000100000000000104000000000000000000000000000000000000000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Collect the
+numerous <AMARELO>Organization emblems<BRANCO> we have
+placed throughout Agrabah.
+
+- INTEL -
+Demonstrate that you <AMARELO>know the terrain<BRANCO> well
+enough to formulate <AMARELO>your own route<BRANCO>.
+Running after the first emblem you see will
+only cost you time.
+
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C3011200330036000300000012000100000000000104000000000000000000000004000000000800000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Collect the
+numerous <AMARELO>Organization emblems<BRANCO> we have
+placed throughout Agrabah.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C4011300330036000300000013000100000000000100000000000000000000000004000000000800000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Agrabah. Find them and eliminate
+them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C40113003300360003000000130001000000000001000000000000000000000002010000000000003C004B005A00]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Agrabah. Find them and eliminate
+them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C4011300330036000300000013000100000000000103000000000000000000000000000000000000000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Agrabah. Find them and eliminate
+them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D0075003300360000000000110001000000000001020000000001001E0000001202000000000600000003000A00]
+Eliminate the Tailbunker
+!------------------------------!
+- MISSION -
+A <AMARELO>Tailbunker<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[14278803330036000000010000000000470000000300000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6A001400470047000000000014000100000001000000000000000000000000000004000000000800000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Twilight Town.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6A001400470047000000000014000100000001000000000000000000140000000401000000000000500082009600]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Twilight Town.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+
+- INTEL -
+<AMARELO>Shadow globs<BRANCO> have been known to form in
+<AMARELO>well-hidden places<BRANCO>. Search carefully.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6A001400470047000000000014000100000001000000000000000000000000000000000000000000000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Twilight Town.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+
+- INTEL -
+<AMARELO>Shadow globs<BRANCO> have been known to form in
+<AMARELO>well-hidden places<BRANCO>. Search carefully.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[93011500480048000300000015000100000001000000000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Axel<BRANCO>, eliminate Heartless in
+Agrabah, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Large Armors<BRANCO>.
+Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[93011500480048000300000015000100000001000000000000000000000000000201000000000000A401C201E001]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Axel<BRANCO>, eliminate Heartless in
+Agrabah, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Large Armors<BRANCO>.
+Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[93011500480048000300000015000100000001000000000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Agrabah and <AMARELO>collect
+hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[E9031600490049000900000016000100000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Sergeant
+!------------------------------!
+- MISSION -
+A <AMARELO>Sergeant<BRANCO> has surfaced in this new world.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Sergeant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[E9031600490049000900000016000100000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Sergeant
+!------------------------------!
+- MISSION -
+A <AMARELO>Sergeant<BRANCO> has surfaced in this new world.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Sergeant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[E90316004900490009000000160001000000010000000000000000000000000003010000000000008200A000C800]
+Eliminate the Sergeant
+!------------------------------!
+- MISSION -
+A <AMARELO>Sergeant<BRANCO> has surfaced in this new world.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Sergeant<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6B0017004A004A000000000017000100000001000000000000000000000000000000000000000000000000000000]
+Search for Xion
+!------------------------------!
+- MISSION -
+<AMARELO>Xion<BRANCO> has gone missing in Twilight Town.
+Team up with <AMARELO>Axel<BRANCO> and search for her.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO> and
+<AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Locate <AMARELO>Xion<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[940118004B004F000300000018000100000000000202000000000000000000000004000000000800000000000000]
+Investigate the desert cave
+!------------------------------!
+- MISSION -
+Gather intel about the <AMARELO>cave in the middle of
+the desert<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Do recon in the <AMARELO>cave in the desert<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[940118004B004F000300000018000100000000000202000000000000000000000000000000000000000000000000]
+Investigate the desert cave
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xion<BRANCO> and gather intel about the
+<AMARELO>cave in the middle of the desert<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Do recon in the <AMARELO>cave in the desert<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9E0019004B004F000000000019000100000000000103000000000000000000000004000000000800000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Collect the
+numerous <AMARELO>Organization emblems<BRANCO> we have
+placed throughout Twilight Town.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9E0019004B004F00000000001900010000000000010300000000000000000000020100000000000064007800AA00]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Team up with
+<AMARELO>Xion<BRANCO> and collect the numerous <AMARELO>Organization
+emblems<BRANCO> we have placed throughout Twilight
+Town.
+
+- INTEL -
+The only way to collect all the emblems in
+this exercise is by first acquiring the <AMARELO>full
+extent of your movement abilities<BRANCO>.
+
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[9E0019004B004F000000000019000100000000000103000000000000000000000000000000000000000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Team up with
+<AMARELO>Xion<BRANCO> and collect the numerous <AMARELO>Organization
+emblems<BRANCO> we have placed throughout Twilight
+Town.
+
+- INTEL -
+The only way to collect all the emblems in
+this exercise is by first acquiring the <AMARELO>full
+extent of your movement abilities<BRANCO>.
+
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C5011A004B004F00030000001A000100000000000102000000000000000000000004000000000800000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Agrabah.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C5011A004B004F00030000001A00010000000000010200000800000000000000000100000000070003000A000F00]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Agrabah.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Team up with
+<AMARELO>Xion<BRANCO> and destroy them on sight.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C5011A004B004F00030000001A000100000000000102000000000000000000000000000000000000000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Agrabah.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Team up with
+<AMARELO>Xion<BRANCO> and destroy them on sight.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EA031B004B004F00090000001B000100000000000204000000000000000000000000000000000000000000000000]
+Investigate Beast's Castle
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xion<BRANCO> and gather intel in <AMARELO>Beast's
+Castle<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Do recon in <AMARELO>Beast's Castle<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EB031C004B004F00090000001C000100000000010101000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xion<BRANCO>, eliminate Heartless in
+Beast's Castle, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EB031C004B004F00090000001C000100000000010101000000000000000000000301000000000400010005000A00]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xion<BRANCO>, eliminate Heartless in
+Beast's Castle, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[EB031C004B004F00090000001C000100000000010101000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Beast's Castle and
+<AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[152789034B004F0000000100000000005E0000000100000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EC031D005E005E00090000001D000100000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Neoshadows
+!------------------------------!
+- MISSION -
+<AMARELO>Neoshadows<BRANCO> have surfaced in Beast's Castle.
+Team up with <AMARELO>Xion<BRANCO>, find them, and eliminate
+them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Neoshadows<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EC031D005E005E00090000001D00010000000100000000000A000000000000000201000000000000730087009B00]
+Eliminate the Neoshadows
+!------------------------------!
+- MISSION -
+<AMARELO>Neoshadows<BRANCO> have surfaced in Beast's Castle.
+Team up with <AMARELO>Xion<BRANCO>, find them, and eliminate
+them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Neoshadows<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[EC031D005E005E00090000001D000100000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Neoshadows
+!------------------------------!
+- MISSION -
+<AMARELO>Neoshadows<BRANCO> have surfaced in Beast's Castle.
+Find them and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Neoshadows<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C6011E005F005F00030000001E000100000001000000000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Agrabah and <AMARELO>collect
+hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C6011E005F005F00030000001E0001000000010000000000000000001E000000020100000000020064005A005100]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xion<BRANCO>, eliminate Heartless in
+Agrabah, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO> and
+<AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C6011E005F005F00030000001E000100000001000000000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xion<BRANCO>, eliminate Heartless in
+Agrabah, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO> and
+<AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[ED031F0060006000090000001F0001000000010000000000050004000000000000010000000000002D003C005000]
+Eliminate the Bully Dog
+!------------------------------!
+- MISSION -
+A <AMARELO>Bully Dog<BRANCO> has surfaced in Beast's Castle.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[ED031F0060006000090000001F000100000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Bully Dog
+!------------------------------!
+- MISSION -
+A <AMARELO>Bully Dog<BRANCO> has surfaced in Beast's Castle.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[ED031F0060006000090000001F000100000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Bully Dog
+!------------------------------!
+- MISSION -
+A <AMARELO>Bully Dog<BRANCO> has surfaced in Beast's Castle.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[ED03830060006000090000001F000100000001000000000005000000000000003202000000000400000003000A00]
+Eliminate the Bully Dog
+!------------------------------!
+- MISSION -
+A <AMARELO>Bully Dog<BRANCO> has surfaced in Beast's Castle.
+Team up with <AMARELO>Xion<BRANCO>, find it, and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[95012000610064000300000020000100000000000202000000000000000000000004000000000800000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in the Agrabah desert. Find it and eliminate it
+at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[95012000610064000300000020000100000000000202000000000400000000000E010000000005000A0014002300]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in the Agrabah desert. Find it and eliminate it
+at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[95012000610064000300000020000100000000000202000000000000000000000000000000000000000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in the Agrabah desert. Find it and eliminate it
+at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[47052100610064000400000021000100000000000101000000000000000000000201000000000000410055006900]
+Break the jars
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>luck<BRANCO>. Break the <AMARELO>jars<BRANCO> we
+have set up for you in the castle.
+
+- INTEL -
+Some of the <AMARELO>jars<BRANCO> have been rigged to
+unleash <AMARELO>powerful adversaries<BRANCO> when broken.
+If your luck fails you and this happens,
+avoid engaging the enemy and focus on
+breaking the rest of the jars.
+!------------------------------!
+- REQUIREMENTS -
+Break all the <AMARELO>jars<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[47052100610064000400000021000100000000000101000000000000000000000004000000000800000000000000]
+Break the jars
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>luck<BRANCO>. Break the <AMARELO>jars<BRANCO> we
+have set up for you in the castle.
+!------------------------------!
+- REQUIREMENTS -
+Break all the <AMARELO>jars<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[47052100610064000400000021000100000000000101000000000000000000000000000000000000000000000000]
+Break the jars
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>luck<BRANCO>. Break the <AMARELO>jars<BRANCO> we
+have set up for you in the castle.
+
+- INTEL -
+Some of the <AMARELO>jars<BRANCO> have been rigged to
+unleash <AMARELO>powerful adversaries<BRANCO> when broken.
+If your luck fails you and this happens,
+avoid engaging the enemy and focus on
+breaking the rest of the jars.
+!------------------------------!
+- REQUIREMENTS -
+Break all the <AMARELO>jars<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C7012200610064000300000022000100000000000105000000000000000000000000000000000000000000000000]
+Eliminate the Aerial Masters
+!------------------------------!
+- MISSION -
+<AMARELO>Aerial Masters<BRANCO> have surfaced in the desert.
+Team up with <AMARELO>Demyx<BRANCO>, find them, and eliminate
+them all.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Large Armors<BRANCO>
+and <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all four <AMARELO>Aerial Masters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C701220061006400030000002200010000000000010500000A000000000000000101000000000000A000DC002C01]
+Eliminate the Aerial Masters
+!------------------------------!
+- MISSION -
+<AMARELO>Aerial Masters<BRANCO> have surfaced in the desert.
+Team up with <AMARELO>Demyx<BRANCO>, find them, and eliminate
+them all.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Large Armors<BRANCO>
+and <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all four <AMARELO>Aerial Masters<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C7012200610064000300000022000100000000000105000000000000000000000004000000000800000000000000]
+Eliminate the Aerial Masters
+!------------------------------!
+- MISSION -
+<AMARELO>Aerial Masters<BRANCO> have surfaced in the desert.
+Find them and eliminate them all.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all four <AMARELO>Aerial Masters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EE032300610064000900000023000100000000020104000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Beast's Castle and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Icy Cubes<BRANCO> and
+<AMARELO>Snowy Crystals<BRANCO>. Dispatch them with <AMARELO>Fire
+magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EE032300610064000900000023000100000000020104000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Beast's Castle and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EE032300610064000900000023000100000000020104000000000000000000000201000000000000A500C8000401]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Beast's Castle and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Icy Cubes<BRANCO> and
+<AMARELO>Snowy Crystals<BRANCO>. Dispatch them with <AMARELO>Fire
+magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[9501840061006400030000002000010000000000020200000000000000000000370200000300000050005F00B400]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in the Agrabah desert. Find it and eliminate it
+at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[16278A03610064000000010000000000750000000300000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2D012400750075000200000024000200000001000000000000000000000000000000000000000000000000000000]
+Investigate this new world
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xigbar<BRANCO>, infiltrate this <AMARELO>new
+world<BRANCO>, and gather intel.
+
+!------------------------------!
+- REQUIREMENTS -
+Do recon in this <AMARELO>new world<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6C002500760076000000000025000200000001000000000000000000000000000000000000000000000000000000]
+Vacation
+!------------------------------!
+Vacation approved.
+!------------------------------!
+- OBJECTIVE -
+Take a <AMARELO>day off<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6C002500760076000000000025000200000001000000000000000000000000000004000000000800000000000000]
+Vacation
+!------------------------------!
+Vacation approved.
+!------------------------------!
+- OBJECTIVE -
+Take a <AMARELO>day off<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EF03260077007B000900000026000200000000000203000000000000000000000000000000000000000000000000]
+Investigate the castle's master
+!------------------------------!
+- MISSION -
+Who is the beastly <AMARELO>master of this castle<BRANCO>?
+Team up with <AMARELO>Xaldin<BRANCO> to investigate and
+gather intel.
+
+!------------------------------!
+- REQUIREMENTS -
+Do recon and find out more about the <AMARELO>master
+of the castle<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2E01270077007B000200000027000200000000000203000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Olympus Coliseum and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Clay Armors<BRANCO>.
+Dispatch them with <AMARELO>Thunder magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2E01270077007B00020000002700020000000000020300000D000000000000000101000000000700010003000600]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Olympus Coliseum and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Clay Armors<BRANCO>.
+Dispatch them with <AMARELO>Thunder magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[2E01270077007B000200000027000200000000000203000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Olympus Coliseum and
+<AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5F01280077007B0002000000280002000000000001030000000000001400000002010000000000009100A000BE00]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Olympus Coliseum. Find them and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5F01280077007B000200000028000200000000000103000000000000000000000004000000000800000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Olympus Coliseum. Find them and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5F01280077007B000200000028000200000000000103000000000000000000000000000000000000000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Olympus Coliseum. Find them and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6001290077007B000200000029000200000000030103000000000100000000000201000000000000640078008C00]
+Eliminate the Morning Star
+!------------------------------!
+- MISSION -
+A <AMARELO>Morning Star<BRANCO> has surfaced in Olympus
+Coliseum. Team up with <AMARELO>Xigbar<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Morning Stars<BRANCO> are invulnerable during their
+<AMARELO>spin attack<BRANCO>, but you can bring them to a halt
+using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6001290077007B000200000029000200000000030103000000000000000000000004000000000800000000000000]
+Eliminate the Morning Star
+!------------------------------!
+- MISSION -
+A <AMARELO>Morning Star<BRANCO> has surfaced in Olympus
+Coliseum. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6001290077007B000200000029000200000000030103000000000000000000000000000000000000000000000000]
+Eliminate the Morning Star
+!------------------------------!
+- MISSION -
+A <AMARELO>Morning Star<BRANCO> has surfaced in Olympus
+Coliseum. Team up with <AMARELO>Xigbar<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Morning Stars<BRANCO> are invulnerable during their
+<AMARELO>spin attack<BRANCO>, but you can bring them to a halt
+using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[60018D0077007B000200000029000200000000030103000000000100000000001302000000000600010005000A00]
+Eliminate the Morning Star
+!------------------------------!
+- MISSION -
+A <AMARELO>Morning Star<BRANCO> has surfaced in Olympus
+Coliseum. Team up with <AMARELO>Xigbar<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Morning Stars<BRANCO> are invulnerable during their
+<AMARELO>spin attack<BRANCO>, but you can bring them to a halt
+using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[17278B0377007B000000010000000000950000000100000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[59022A0095009500050000002A000200000001000000000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in this new world and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[59022A0095009500050000002A00020000000100000000000000000000001400000100000000000069008700B400]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in this new world and
+<AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[59022A0095009500050000002A000200000001000000000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in this new world and
+<AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F0032B0096009600090000002B0002000000010000000000000000000A0000000001000000000000BE00CD00F000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Beast's
+Castle. Team up with <AMARELO>Xaldin<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+A large quantity of <AMARELO>Pureblood Heartless<BRANCO>
+have been sighted in the field. Reports
+indicate that the <AMARELO>giant Heartless<BRANCO> you are to
+eliminate is also of the <AMARELO>Pureblood<BRANCO> variety.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[F0032B0096009600090000002B000200000001000000000000000000000000000000000000000000000000000000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Beast's
+Castle. Team up with <AMARELO>Xaldin<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+A large quantity of <AMARELO>Pureblood Heartless<BRANCO>
+have been sighted in the field. Reports
+indicate that the <AMARELO>giant Heartless<BRANCO> you are to
+eliminate is also of the <AMARELO>Pureblood<BRANCO> variety.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F0032B0096009600090000002B000200000001000000000000000000000000000004000000000800000000000000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Beast's
+Castle. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6D002C0097009700000000002C00020000000100000000000000010000000000000100000000020064005C005400]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6D002C0097009700000000002C000200000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6D002C0097009700000000002C000200000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Twilight Town.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5A022D0098009C00050000002D000200000000000202000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Halloween Town and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Snowy Crystals<BRANCO>.
+Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5A022D0098009C00050000002D000200000000000202000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Halloween Town and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2F012E0098009C00020000002E000200000000000203000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Olympus Coliseum and
+<AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2F012E0098009C00020000002E000200000000000203000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Demyx<BRANCO>, eliminate Heartless in
+Olympus Coliseum, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C9002F0098009C00010000002F000200000000000202000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in this new world and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>.
+<AMARELO>Block<BRANCO> their <AMARELO>head-butts<BRANCO> to gain the
+advantage.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C9002F0098009C00010000002F000200000000000202000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in this new world and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C901300098009C000300000030000200000000000103000000000000000000000000000000000000000000000000]
+Eliminate the Solid Armor
+!------------------------------!
+- MISSION -
+A <AMARELO>Solid Armor<BRANCO> has surfaced in the Cave of
+Wonders. Team up with <AMARELO>Xaldin<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+Dispatch the <AMARELO>Solid Armor<BRANCO> with <AMARELO>Blizzard magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO> and
+<AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C901300098009C0003000000300002000000000001030000140000000000000002010000000000008C00C8000401]
+Eliminate the Solid Armor
+!------------------------------!
+- MISSION -
+A <AMARELO>Solid Armor<BRANCO> has surfaced in the Cave of
+Wonders. Team up with <AMARELO>Xaldin<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+Dispatch the <AMARELO>Solid Armor<BRANCO> with <AMARELO>Blizzard magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO> and
+<AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C901300098009C000300000030000200000000000103000000000000000000000004000000000800000000000000]
+Eliminate the Solid Armor
+!------------------------------!
+- MISSION -
+A <AMARELO>Solid Armor<BRANCO> has surfaced in the Cave of
+Wonders. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F103310098009C000900000031000200000000040102000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Beast's Castle and
+<AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F103310098009C000900000031000200000000040102000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Xigbar<BRANCO>, eliminate Heartless in
+Beast's Castle, and <AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Icy Cubes<BRANCO> and
+<AMARELO>Snowy Crystals<BRANCO>. Dispatch them with <AMARELO>Fire
+magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C901940098009C000300000030000200000000000103000000000100000000000C020000000006000A000F001400]
+Eliminate the Solid Armor
+!------------------------------!
+- MISSION -
+A <AMARELO>Solid Armor<BRANCO> has surfaced in the Cave of
+Wonders. Team up with <AMARELO>Xaldin<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+Dispatch the <AMARELO>Solid Armor<BRANCO> with <AMARELO>Blizzard magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO> and
+<AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[18278C0398009C000000010000000000AB0000000000000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F2033200AB00AB000900000032000200000001000000000000000000320000000C010000000000009600AA00D200]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Beast's Castle. Find it and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[F2033200AB00AB000900000032000200000001000000000000000000000000000004000000000800000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Beast's Castle. Find it and eliminate it at
+once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F2033200AB00AB000900000032000200000001000000000000000000000000000000000000000000000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Beast's Castle. Find it and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F2039600AB00AB000900000032000200000001000000000000000000320000001E0200000000040003000A000F00]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Beast's Castle. Find it and eliminate it at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[CA003300AC00AC000100000033000300000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Pink Concertos
+!------------------------------!
+- MISSION -
+<AMARELO>Pink Concertos<BRANCO> have surfaced in Wonderland.
+Team up with <AMARELO>Luxord<BRANCO>, find them, and
+eliminate them at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Blizzard Plants<BRANCO>.
+Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all five <AMARELO>Pink Concertos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CA003300AC00AC000100000033000300000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Pink Concertos
+!------------------------------!
+- MISSION -
+<AMARELO>Pink Concertos<BRANCO> have surfaced in Wonderland.
+Find them and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all five <AMARELO>Pink Concertos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5B023400AD00B0000500000034000300000000000202000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Halloween Town and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5B023400AD00B0000500000034000300000000000202000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Halloween Town and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Snowy Crystals<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[85033500AD00B0000800000035000300000000000204000000000000000000000000000000000000000000000000]
+Eliminate the Wavecrest
+!------------------------------!
+- MISSION -
+A <AMARELO>Wavecrest<BRANCO> has surfaced in this new world.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Wavecrest<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[85033500AD00B0000800000035000300000000000204000000000000000000000004000000000800000000000000]
+Eliminate the Wavecrest
+!------------------------------!
+- MISSION -
+A <AMARELO>Wavecrest<BRANCO> has surfaced in this new world.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Wavecrest<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B023600AD00B0000500000036000300000000050104000000000000000000000000000000000000000000000000]
+Eliminate the Dual Blade
+!------------------------------!
+- MISSION -
+A <AMARELO>Dual Blade<BRANCO> has surfaced in Halloween
+Town. Team up with <AMARELO>Demyx<BRANCO>, find it, and
+eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B023600AD00B0000500000036000300000000050104000000000000000000000004000000000800000000000000]
+Eliminate the Dual Blade
+!------------------------------!
+- MISSION -
+A <AMARELO>Dual Blade<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B023600AD00B00005000000360003000000000501040000000001000000000005010000000000003C004B005A00]
+Eliminate the Dual Blade
+!------------------------------!
+- MISSION -
+A <AMARELO>Dual Blade<BRANCO> has surfaced in Halloween
+Town. Team up with <AMARELO>Demyx<BRANCO>, find it, and
+eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FB003700AD00B00001000000370003000000000001020000000000001400000001010000000000009100B400DC00]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Team up with
+<AMARELO>Luxord<BRANCO> and collect the numerous
+<AMARELO>Organization emblems<BRANCO> we have placed
+throughout Wonderland.
+
+- INTEL -
+Demonstrate that you <AMARELO>know the terrain<BRANCO> well
+enough to formulate <AMARELO>your own route<BRANCO>.
+Running after the first emblem you see will
+only cost you time.
+
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FB003700AD00B0000100000037000300000000000102000000000000000000000000000000000000000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Team up with
+<AMARELO>Luxord<BRANCO> and collect the numerous
+<AMARELO>Organization emblems<BRANCO> we have placed
+throughout Wonderland.
+
+- INTEL -
+Demonstrate that you <AMARELO>know the terrain<BRANCO> well
+enough to formulate <AMARELO>your own route<BRANCO>.
+Running after the first emblem you see will
+only cost you time.
+
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FB003700AD00B0000100000037000300000000000102000000000000000000000004000000000800000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Collect the
+numerous <AMARELO>Organization emblems<BRANCO> we have
+placed throughout Wonderland.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B029A00AD00B000050000003600030000000005010400000A00000000001E000002000000000400010005000A00]
+Eliminate the Dual Blade
+!------------------------------!
+- MISSION -
+A <AMARELO>Dual Blade<BRANCO> has surfaced in Halloween
+Town. Team up with <AMARELO>Demyx<BRANCO>, find it, and
+eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[19278D03AD00B0000000010000000000C10000000100000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6E003800C100C10000000000380003000000010000000000000004001E0000000001000000000000D200F0002C01]
+Eliminate both giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>Heat Saber<BRANCO> and <AMARELO>Destroyer<BRANCO> have surfaced
+in Twilight Town. Team up with <AMARELO>Axel<BRANCO> and <AMARELO>Xion<BRANCO>,
+find these Heartless, and eliminate them at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>two giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6E003800C100C1000000000038000300000001000000000000000000000000000000000000000000000000000000]
+Eliminate both giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>Heat Saber<BRANCO> and <AMARELO>Destroyer<BRANCO> have surfaced
+in Twilight Town. Team up with <AMARELO>Axel<BRANCO> and <AMARELO>Xion<BRANCO>,
+find these Heartless, and eliminate them at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>two giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6E003800C100C1000000000038000300000001000000000000000000000000000004000000000800000000000000]
+Eliminate both giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>Heat Saber<BRANCO> and <AMARELO>Destroyer<BRANCO> have surfaced
+in Twilight Town. Find them and eliminate them
+at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>two giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CB003900C200C5000100000039000300000000000202000000000000000000000000000000000000000000000000]
+Eliminate the Commanders
+!------------------------------!
+- MISSION -
+<AMARELO>Commanders<BRANCO> have surfaced in Wonderland.
+Team up with <AMARELO>Luxord<BRANCO>, find them, and
+eliminate them at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Blizzard Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Commanders<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CB003900C200C5000100000039000300000000000202000000000000000000000004000000000800000000000000]
+Eliminate the Commanders
+!------------------------------!
+- MISSION -
+<AMARELO>Commanders<BRANCO> have surfaced in Wonderland.
+Find them and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Commanders<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CB003900C200C50001000000390003000000000002020000000004001E0000000001000000000000550078009600]
+Eliminate the Commanders
+!------------------------------!
+- MISSION -
+<AMARELO>Commanders<BRANCO> have surfaced in Wonderland.
+Team up with <AMARELO>Luxord<BRANCO>, find them, and
+eliminate them at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Blizzard Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Commanders<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[86033A00C200C500080000003A000300000000000203000000000000000000000000000000000000000000000000]
+Eliminate the Artful Flyers
+!------------------------------!
+- MISSION -
+<AMARELO>Artful Flyers<BRANCO> have surfaced in Never Land.
+Team up with <AMARELO>Axel<BRANCO>, find them, and eliminate
+them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Artful Flyers<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[86033A00C200C500080000003A000300000000000203000000000000000000000004000000000800000000000000]
+Eliminate the Artful Flyers
+!------------------------------!
+- MISSION -
+<AMARELO>Artful Flyers<BRANCO> have surfaced in Never Land.
+Find them and eliminate them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Artful Flyers<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[86033A00C200C500080000003A0003000000000002030000000000001E001E0000010000000001003A02F401C201]
+Eliminate the Artful Flyers
+!------------------------------!
+- MISSION -
+<AMARELO>Artful Flyers<BRANCO> have surfaced in Never Land.
+Team up with <AMARELO>Axel<BRANCO>, find them, and eliminate
+them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Artful Flyers<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[A0003B00C200C500000000003B0003000000000601030000000004000000000001010000000000008200A000BE00]
+Collect shining shards
+!------------------------------!
+- MISSION -
+To prepare you for future missions, we
+encourage you to <AMARELO>synthesize<BRANCO> new panels.
+Go to Twilight Town, eliminate Heartless,
+and collect <AMARELO>shining shards<BRANCO> you can use as
+materials.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect three <AMARELO>shining shards<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[A0003B00C200C500000000003B000300000000060103000000000000000000000000000000000000000000000000]
+Collect shining shards
+!------------------------------!
+- MISSION -
+To prepare you for future missions, we
+encourage you to <AMARELO>synthesize<BRANCO> new panels.
+Go to Twilight Town, eliminate Heartless,
+and collect <AMARELO>shining shards<BRANCO> you can use as
+materials.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect three <AMARELO>shining shards<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[A0003B00C200C500000000003B000300000000060103000000000000000000000004000000000800000000000000]
+Collect shining shards
+!------------------------------!
+- MISSION -
+To prepare you for future missions, we
+encourage you to <AMARELO>synthesize<BRANCO> new panels.
+Go to Twilight Town, eliminate Heartless,
+and collect <AMARELO>shining shards<BRANCO> you can use as
+materials.
+!------------------------------!
+- REQUIREMENTS -
+Collect three <AMARELO>shining shards<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B9033C00C200C500080000003C000300000000000104000000000000000000000000000000000000000000000000]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B9033C00C200C500080000003C000300000000000104000000000000000000000004000000000800000000000000]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B9033C00C200C500080000003C00030000000000010400001B000100000000000001000000000000550073009600]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[B903A000C200C500080000003C000300000000000104000014000100000000000002000000000400010003000A00]
+Eliminate the Avalanche
+!------------------------------!
+- MISSION -
+An <AMARELO>Avalanche<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1A278E03C200C5000000010000000000E00000000100000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[30013D00E000E000020000003D000300000001000000000000000000000000000004000000000800000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Olympus Coliseum. Find it and eliminate it
+at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[30013D00E000E000020000003D000300000001000000000014000100000000000001000000000400060023003200]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Olympus Coliseum. Team up with <AMARELO>Demyx<BRANCO>,
+find it, and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[30013D00E000E000020000003D000300000001000000000000000000000000000000000000000000000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Olympus Coliseum. Team up with <AMARELO>Demyx<BRANCO>,
+find it, and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[3001A100E000E000020000003D000300000001000000000000000100000000001E020000000000009F01BD01F901]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has surfaced
+in Olympus Coliseum. Team up with <AMARELO>Demyx<BRANCO>,
+find it, and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5C023E00E100E300050000003E000400000000000204000000000000000000000000000000000000000000000000]
+Eliminate the Carrier Ghost
+!------------------------------!
+- MISSION -
+A <AMARELO>Carrier Ghost<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Snowy Crystals<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Carrier Ghost<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5C023E00E100E300050000003E000400000000000204000000000000000000000201000009000000B400D200F000]
+Eliminate the Carrier Ghost
+!------------------------------!
+- MISSION -
+A <AMARELO>Carrier Ghost<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Snowy Crystals<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Carrier Ghost<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5C023E00E100E300050000003E000400000000000204000000000000000000000004000000000800000000000000]
+Eliminate the Carrier Ghost
+!------------------------------!
+- MISSION -
+A <AMARELO>Carrier Ghost<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Carrier Ghost<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FD003F00E100E300010000003F000400000000070104000000000000000000000004000000000800000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Wonderland.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FD003F00E100E300010000003F000400000000070104000000000000000000000000000000000000000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Wonderland.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Team up with
+<AMARELO>Xion<BRANCO> and destroy them on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FD003F00E100E300010000003F0004000000000701040000000002000000000000010000090000009600B400D200]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Wonderland.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Team up with
+<AMARELO>Xion<BRANCO> and destroy them on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[B8034000E100E3000800000040000400000000080104000000000000000000000000000000000000000000000000]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Never Land.
+Team up with <AMARELO>Axel<BRANCO>, find it, and eliminate it at
+once.
+
+- INTEL -
+Trying to keep up with an <AMARELO>Emerald Serenade<BRANCO>
+is an exercise in futility. Set up an <AMARELO>ambush<BRANCO>
+if necessary and wait for your chance to
+strike.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B8034000E100E3000800000040000400000000080104000000000000000000000004000000000800000000000000]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1B278F03E100E3000000010000000000FF0000000200000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CC004100FF00FF000100000041000400000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Novashadow
+!------------------------------!
+- MISSION -
+A <AMARELO>Novashadow<BRANCO> has surfaced in Wonderland.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Novashadow<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CC004100FF00FF000100000041000400000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Novashadow
+!------------------------------!
+- MISSION -
+A <AMARELO>Novashadow<BRANCO> has surfaced in Wonderland.
+Team up with <AMARELO>Luxord<BRANCO>, find it, and eliminate it
+at once.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Novashadow<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5D024200000102010500000042000400000000000204000000000000000000000004000000000800000000000000]
+Restore the town's Heartless
+!------------------------------!
+- MISSION -
+The Heartless population in Halloween Town
+has shown a sudden drop. Find out what is
+causing this <AMARELO>dearth of Heartless<BRANCO> and
+resolve the situation.
+!------------------------------!
+- REQUIREMENTS -
+Return the <AMARELO>Heartless population<BRANCO> to normal.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5D024200000102010500000042000400000000000204000023000200000000000001000000000000360190013A02]
+Restore the town's Heartless
+!------------------------------!
+- MISSION -
+The Heartless population in Halloween Town
+has shown a sudden drop. Find out what is
+causing this <AMARELO>dearth of Heartless<BRANCO> and
+resolve the situation.
+!------------------------------!
+- REQUIREMENTS -
+Return the <AMARELO>Heartless population<BRANCO> to normal.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5D024200000102010500000042000400000000000204000000000000000000000000000000000000000000000000]
+Restore the town's Heartless
+!------------------------------!
+- MISSION -
+The Heartless population in Halloween Town
+has shown a sudden drop. Find out what is
+causing this <AMARELO>dearth of Heartless<BRANCO> and
+resolve the situation.
+!------------------------------!
+- REQUIREMENTS -
+Return the <AMARELO>Heartless population<BRANCO> to normal.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FC004300000102010100000043000400000000000104000000000000000000000000000000000000000000000000]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Wonderland.
+Team up with <AMARELO>Xigbar<BRANCO>, find it, and eliminate it
+at once.
+
+- INTEL -
+Trying to keep up with an <AMARELO>Emerald Serenade<BRANCO>
+is an exercise in futility. Set up an <AMARELO>ambush<BRANCO>
+if necessary and wait for your chance to
+strike.
+
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>
+and <AMARELO>Blizzard Plants<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FC004300000102010100000043000400000000000104000000000000000000000004000000000800000000000000]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Wonderland.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C8014400000102010300000044000400000000000104000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Agrabah and <AMARELO>collect
+hearts<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Fire Plants<BRANCO> and
+<AMARELO>Solid Armors<BRANCO>. Dispatch the <AMARELO>Solid Armors<BRANCO>
+with <AMARELO>Blizzard magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C8014400000102010300000044000400000000000104000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Agrabah and <AMARELO>collect
+hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5D02A600000102010500000042000400000000000204000000000000140000003202000000000400050014002300]
+Restore the town's Heartless
+!------------------------------!
+- MISSION -
+The Heartless population in Halloween Town
+has shown a sudden drop. Find out what is
+causing this <AMARELO>dearth of Heartless<BRANCO> and
+resolve the situation.
+!------------------------------!
+- REQUIREMENTS -
+Return the <AMARELO>Heartless population<BRANCO> to normal.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1C279003000102010000010000000000140100000300000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD004500150118010100000045000400000000000203000000000000000000000004000000000800000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has
+surfaced in Wonderland. Find it and eliminate
+it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD004500150118010100000045000400000000000203000000000000000000000000000000000000000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has
+surfaced in Wonderland. Find it and eliminate
+it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD0045001501180101000000450004000000000002030000000000000000000016010000090004000A000F001400]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has
+surfaced in Wonderland. Find it and eliminate
+it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1E044600150118010900000046000400000000000103000000000000000000000000000000000000000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Beast's Castle. Team up with
+<AMARELO>Axel<BRANCO>, find them, and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1E0446001501180109000000460004000000000001030000000002001E000000000100000000000055006E009600]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Beast's Castle. Team up with
+<AMARELO>Axel<BRANCO>, find them, and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1E044600150118010900000046000400000000000103000000000000000000000004000000000800000000000000]
+Eliminate the Deserters
+!------------------------------!
+- MISSION -
+Rare Heartless called <AMARELO>Deserters<BRANCO> have
+surfaced in Beast's Castle. Find them and
+eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all the <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[480547001501180104000000470004000000000A0102000000000200000000000001000000000300C800B4009600]
+Prove your endurance
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>combat ability<BRANCO>.
+<AMARELO>Prove your endurance<BRANCO> by surviving for <AMARELO>two
+minutes<BRANCO> in the arena we have set up for you
+in the castle. Fight, or flee<2015>but whatever
+you do, think fast.
+!------------------------------!
+- REQUIREMENTS -
+<AMARELO>Prove your endurance<BRANCO> by surviving <AMARELO>two
+minutes<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[480547001501180104000000470004000000000A0102000000000000000000000000000000000000000000000000]
+Prove your endurance
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>combat ability<BRANCO>.
+<AMARELO>Prove your endurance<BRANCO> by surviving for <AMARELO>two
+minutes<BRANCO> in the arena we have set up for you
+in the castle. Fight, or flee<2015>but whatever
+you do, think fast.
+!------------------------------!
+- REQUIREMENTS -
+<AMARELO>Prove your endurance<BRANCO> by surviving <AMARELO>two
+minutes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[480547001501180104000000470004000000000A0102000000000000000000000004000000000800000000000000]
+Prove your endurance
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>combat ability<BRANCO>.
+<AMARELO>Prove your endurance<BRANCO> by surviving for <AMARELO>two
+minutes<BRANCO> in the arena we have set up for you
+in the castle. Fight, or flee<2015>but whatever
+you do, think fast.
+!------------------------------!
+- REQUIREMENTS -
+<AMARELO>Prove your endurance<BRANCO> by surviving <AMARELO>two
+minutes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8C024800150118010500000048000400000000000104000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Luxord<BRANCO>, eliminate Heartless in
+Halloween Town, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8C024800150118010500000048000400000000000104000000000100000000001901000000000000B900D700F500]
+Collect hearts
+!------------------------------!
+- MISSION -
+Team up with <AMARELO>Luxord<BRANCO>, eliminate Heartless in
+Halloween Town, and <AMARELO>collect hearts<BRANCO>.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8C024800150118010500000048000400000000000104000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Halloween Town and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD00A900150118010100000045000400000000000203000000000000000000001E020000030000008700C8002C01]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+An <AMARELO>unidentified giant Heartless<BRANCO> has
+surfaced in Wonderland. Find it and eliminate
+it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>unidentified giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1E279203150118010000010000000000280100000300000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[62014900280128010200000049000500000001000000000000000000000000000000000000000000000000000000]
+Defeat Heartless in the Games
+!------------------------------!
+- MISSION -
+Enter the <AMARELO>Games<BRANCO> being held in Olympus
+Coliseum and eliminate all the Heartless.
+
+!------------------------------!
+- REQUIREMENTS -
+Win the <AMARELO>Games<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[62014900280128010200000049000500000001000000000000000000000000000004000000000800000000000000]
+Defeat Heartless in the Games
+!------------------------------!
+- MISSION -
+Enter the <AMARELO>Games<BRANCO> being held in Olympus
+Coliseum and eliminate all the Heartless.
+
+!------------------------------!
+- REQUIREMENTS -
+Win the <AMARELO>Games<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[62014900280128010200000049000500000001000000000000000200000000000301000000000000D2002C016801]
+Defeat Heartless in the Games
+!------------------------------!
+- MISSION -
+Enter the <AMARELO>Games<BRANCO> being held in Olympus
+Coliseum and eliminate all the Heartless.
+
+!------------------------------!
+- REQUIREMENTS -
+Win the <AMARELO>Games<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6F004A0029012901000000004A000500000001000000000000000000000000000000000000000000000000000000]
+Search for the impostor
+!------------------------------!
+- MISSION -
+An <AMARELO>Organization impostor<BRANCO> has been sighted in
+Castle Oblivion. Team up with <AMARELO>Axel<BRANCO> and
+search for him.
+!------------------------------!
+- REQUIREMENTS -
+Locate the <AMARELO>Organization impostor<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6F004A0029012901000000004A0005000000010000000000000006000000000000010000030000005A0078009600]
+Search for the impostor
+!------------------------------!
+- MISSION -
+An <AMARELO>Organization impostor<BRANCO> has been sighted in
+Castle Oblivion. Team up with <AMARELO>Axel<BRANCO> and
+search for him.
+!------------------------------!
+- REQUIREMENTS -
+Locate the <AMARELO>Organization impostor<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[70004B002A012A01000000004B000500000001000000000000000600000000000001090000000000C8002C01A401]
+Eliminate the impostor
+!------------------------------!
+- MISSION -
+The <AMARELO>Organization impostor<BRANCO> has surfaced in
+Twilight Town. Find him and eliminate him at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Organization impostor<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[70004B002A012A01000000004B000500000001000000000000000000000000000000000000000000000000000000]
+Eliminate the impostor
+!------------------------------!
+- MISSION -
+The <AMARELO>Organization impostor<BRANCO> has surfaced in
+Twilight Town. Find him and eliminate him at
+once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Organization impostor<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[BA034C002B012B01080000004C000500000001000000000000000000000000000000000000000000000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Never Land.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[BA034C002B012B01080000004C00050000000100000000001E0000000000000000010900000000003C007800B400]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Never Land.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[BA034C002B012B01080000004C000500000001000000000000000000000000000004000000000800000000000000]
+Destroy the shadow globs
+!------------------------------!
+- MISSION -
+<AMARELO>Shadow globs<BRANCO> have overrun Never Land.
+They have been deemed harmless at
+present; however, allowing them to
+propagate further could have dire and
+unpredictable consequences. Destroy them
+on sight.
+!------------------------------!
+- REQUIREMENTS -
+Destroy <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[87034D002C012C01080000004D000500000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Phantomtail
+!------------------------------!
+- MISSION -
+A <AMARELO>Phantomtail<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Phantomtail<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[87034D002C012C01080000004D000500000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Phantomtail
+!------------------------------!
+- MISSION -
+A <AMARELO>Phantomtail<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+
+- INTEL -
+<AMARELO>Phantomtails<BRANCO> can't be harmed by blows to
+the head, and will instead <AMARELO>warp<BRANCO> to a remote
+location.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Phantomtail<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[87034D002C012C01080000004D0005000000010000000000000002000000000009010000000000004B0069009600]
+Eliminate the Phantomtail
+!------------------------------!
+- MISSION -
+A <AMARELO>Phantomtail<BRANCO> has surfaced in Never Land.
+Find it and eliminate it at once.
+
+- INTEL -
+<AMARELO>Phantomtails<BRANCO> can't be harmed by blows to
+the head, and will instead <AMARELO>warp<BRANCO> to a remote
+location.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Phantomtail<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[88034E002D013001080000004E000500000000000201000000000000000000000000000000000000000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+We've picked up a <AMARELO>powerful Heartless
+reading<BRANCO> in Never Land. Find and eliminate its
+source at once.
+!------------------------------!
+- REQUIREMENTS -
+Find and defeat the <AMARELO>Heartless<BRANCO> in question.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[88034E002D013001080000004E000500000000000201000000000000000000000004000000000800000000000000]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+We've picked up a <AMARELO>powerful Heartless
+reading<BRANCO> in Never Land. Find and eliminate its
+source at once.
+!------------------------------!
+- REQUIREMENTS -
+Find and defeat the <AMARELO>Heartless<BRANCO> in question.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[88034E002D013001080000004E000500000000000201000028000200000000000001000000000500000014003C00]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+We've picked up a <AMARELO>powerful Heartless
+reading<BRANCO> in Never Land. Find and eliminate its
+source at once.
+!------------------------------!
+- REQUIREMENTS -
+Find and defeat the <AMARELO>Heartless<BRANCO> in question.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8E024F002D013001050000004F000500000000000101000000000000000000000000000000000000000000000000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Halloween
+Town. <AMARELO>Xigbar<BRANCO> is already in the field;
+rendezvous with him and then eliminate the
+target.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Icy Cubes<BRANCO>.
+Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8E024F002D013001050000004F000500000000000101000000000000000000000004000000000800000000000000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8E024F002D013001050000004F00050000000000010100003C000000000000000D0100000000000004012C016801]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Halloween
+Town. <AMARELO>Xigbar<BRANCO> is already in the field;
+rendezvous with him and then eliminate the
+target.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Icy Cubes<BRANCO>.
+Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1D0450002D01300109000000500005000000000B0102000000000000000000000004000000000800000000000000]
+Break the jars
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>luck<BRANCO>. Break the <AMARELO>jars<BRANCO> we
+have set up for you in Beast's Castle.
+!------------------------------!
+- REQUIREMENTS -
+Break 15 <AMARELO>jars<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1D0450002D01300109000000500005000000000B0102000000000000000000000000000000000000000000000000]
+Break the jars
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>luck<BRANCO>. Break the <AMARELO>jars<BRANCO> we
+have set up for you in Beast's Castle.
+
+- INTEL -
+Some of the <AMARELO>jars<BRANCO> have been rigged to
+unleash <AMARELO>powerful adversaries<BRANCO> when broken.
+If your luck fails you and this happens,
+avoid engaging the enemy and focus on
+breaking the rest of the jars.
+!------------------------------!
+- REQUIREMENTS -
+Break 15 <AMARELO>jars<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1D0450002D01300109000000500005000000000B010200001E000000000000000001000000000200640059004B00]
+Break the jars
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>luck<BRANCO>. Break the <AMARELO>jars<BRANCO> we
+have set up for you in Beast's Castle.
+
+- INTEL -
+Some of the <AMARELO>jars<BRANCO> have been rigged to
+unleash <AMARELO>powerful adversaries<BRANCO> when broken.
+If your luck fails you and this happens,
+avoid engaging the enemy and focus on
+breaking the rest of the jars.
+!------------------------------!
+- REQUIREMENTS -
+Break 15 <AMARELO>jars<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FE0051002D0130010100000051000500000000000108000000000000000000000004000000000800000000000000]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Wonderland.
+Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FE0051002D0130010100000051000500000000000108000000000000000000000000000000000000000000000000]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Wonderland.
+Find it and eliminate it at once.
+
+- INTEL -
+Trying to keep up with an <AMARELO>Emerald Serenade<BRANCO>
+is an exercise in futility. Set up an <AMARELO>ambush<BRANCO>
+if necessary and wait for your chance to
+strike.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FE0051002D0130010100000051000500000000000108000000000000000032001101000000000000F50013013101]
+Eliminate the Emerald Serenade
+!------------------------------!
+- MISSION -
+A rare Heartless called an <AMARELO>Emerald
+Serenade<BRANCO> has surfaced in Wonderland.
+Find it and eliminate it at once.
+
+- INTEL -
+Trying to keep up with an <AMARELO>Emerald Serenade<BRANCO>
+is an exercise in futility. Set up an <AMARELO>ambush<BRANCO>
+if necessary and wait for your chance to
+strike.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8803B2002D013001080000004E0005000000000002010000140000001E0000000002000000000000D1012B026702]
+Vanquish the Heartless threat
+!------------------------------!
+- MISSION -
+We've picked up a <AMARELO>powerful Heartless
+reading<BRANCO> in Never Land. Find and eliminate its
+source at once.
+!------------------------------!
+- REQUIREMENTS -
+Find and defeat the <AMARELO>Heartless<BRANCO> in question.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1F2793032D0130010000010000000000410100000200000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[96015200410141010300000052000500000001000000000000000000000000000000000000000000000000000000]
+Eliminate the Spiked Crawler
+!------------------------------!
+- MISSION -
+A <AMARELO>Spiked Crawler<BRANCO> has surfaced in the Cave
+of Wonders. Team up with <AMARELO>Xion<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Spiked Crawlers<BRANCO> are invulnerable during
+their <AMARELO>spin attack<BRANCO>, but you can bring them to
+a halt using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+
+Also be on the lookout for <AMARELO>Solid Armors<BRANCO>.
+Dispatch them with <AMARELO>Blizzard magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Spiked Crawler<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[96015200410141010300000052000500000001000000000000000000000000000004000000000800000000000000]
+Eliminate the Spiked Crawler
+!------------------------------!
+- MISSION -
+A <AMARELO>Spiked Crawler<BRANCO> has surfaced in the Cave
+of Wonders. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Spiked Crawler<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F3035300420146010900000053000500000000000102000000000000000000000000000000000000000000000000]
+Search for Xaldin
+!------------------------------!
+- MISSION -
+<AMARELO>Xaldin<BRANCO> has gone missing in Beast's Castle.
+Search for him.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Snowy Crystals<BRANCO>
+and <AMARELO>Icy Cubes<BRANCO>. Dispatch them with <AMARELO>Fire magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Locate <AMARELO>Xaldin<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[640154004201460102000000540005000000000D010200002D000000320000000001000000000400000001000200]
+Eliminate the Scorching Sphere
+!------------------------------!
+- MISSION -
+A <AMARELO>Scorching Sphere<BRANCO> has surfaced in Olympus
+Coliseum. Team up with <AMARELO>Xigbar<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Scorching Spheres<BRANCO> are invulnerable during
+their <AMARELO>spin attack<BRANCO>, but you can bring them to
+a halt using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Scorching Sphere<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[640154004201460102000000540005000000000D0102000000000000000000000000000000000000000000000000]
+Eliminate the Scorching Sphere
+!------------------------------!
+- MISSION -
+A <AMARELO>Scorching Sphere<BRANCO> has surfaced in Olympus
+Coliseum. Team up with <AMARELO>Xigbar<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Scorching Spheres<BRANCO> are invulnerable during
+their <AMARELO>spin attack<BRANCO>, but you can bring them to
+a halt using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Scorching Sphere<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[640154004201460102000000540005000000000D0102000000000000000000000004000000000800000000000000]
+Eliminate the Scorching Sphere
+!------------------------------!
+- MISSION -
+A <AMARELO>Scorching Spheres<BRANCO> has surfaced in
+Olympus Coliseum. Find it and eliminate it at
+once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Scorching Sphere<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FF0055004201460101000000550005000000000002020000000002000000000000010000030000002C0168018601]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Wonderland and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Be advised: you should take <AMARELO>extra casts of
+magic<BRANCO> into the field for this mission.
+
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FF005500420146010100000055000500000000000202000000000000000000000000000000000000000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Wonderland and
+<AMARELO>collect hearts<BRANCO>.
+
+- INTEL -
+Be advised: you should take <AMARELO>extra casts of
+magic<BRANCO> into the field for this mission.
+
+Also be on the lookout for <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FF005500420146010100000055000500000000000202000000000000000000000004000000000800000000000000]
+Collect hearts
+!------------------------------!
+- MISSION -
+Eliminate Heartless in Wonderland and
+<AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat Heartless and <AMARELO>collect hearts<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B7035600420146010800000056000500000000000103000000000000000000000004000000000800000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Collect the
+numerous <AMARELO>Organization emblems<BRANCO> we have
+placed throughout Never Land.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B703560042014601080000005600050000000000010300002D00000000000000000106000000000046005A007800]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Team up with
+<AMARELO>Luxord<BRANCO> and collect the numerous
+<AMARELO>Organization emblems<BRANCO> we have placed
+throughout Never Land.
+
+- INTEL -
+Demonstrate that you <AMARELO>know the terrain<BRANCO> well
+enough to formulate <AMARELO>your own route<BRANCO>.
+Running after the first emblem you see will
+only cost you time.
+
+Also be on the lookout for <AMARELO>Phantomtails<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[B7035600420146010800000056000500000000000103000000000000000000000000000000000000000000000000]
+Collect Organization emblems
+!------------------------------!
+- MISSION -
+Herein we will determine your fitness for
+future missions by conducting an
+assessment of your <AMARELO>mobility<BRANCO>. Team up with
+<AMARELO>Luxord<BRANCO> and collect the numerous
+<AMARELO>Organization emblems<BRANCO> we have placed
+throughout Never Land.
+
+- INTEL -
+Demonstrate that you <AMARELO>know the terrain<BRANCO> well
+enough to formulate <AMARELO>your own route<BRANCO>.
+Running after the first emblem you see will
+only cost you time.
+
+Also be on the lookout for <AMARELO>Phantomtails<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Collect <AMARELO>Organization emblems<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8D0257004201460105000000570005000000000E01030000000000003200000003010000000000003C005A007800]
+Eliminate the Windstorms
+!------------------------------!
+- MISSION -
+<AMARELO>Windstorms<BRANCO> have surfaced in Halloween
+Town. Find them and eliminate them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8D0257004201460105000000570005000000000E0103000000000000000000000004000000000800000000000000]
+Eliminate the Windstorms
+!------------------------------!
+- MISSION -
+<AMARELO>Windstorms<BRANCO> have surfaced in Halloween
+Town. Find them and eliminate them at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8D0257004201460105000000570005000000000E0103000000000000000000000000000000000000000000000000]
+Eliminate the Windstorms
+!------------------------------!
+- MISSION -
+<AMARELO>Windstorms<BRANCO> have surfaced in Halloween
+Town. Find them and eliminate them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6401B8004201460102000000540005000000000D01020000280000000000000000020600000000002D003C005A00]
+Eliminate the Scorching Sphere
+!------------------------------!
+- MISSION -
+A <AMARELO>Scorching Sphere<BRANCO> has surfaced in Olympus
+Coliseum. Team up with <AMARELO>Xigbar<BRANCO>, find it, and
+eliminate it at once.
+
+- INTEL -
+<AMARELO>Scorching Spheres<BRANCO> are invulnerable during
+their <AMARELO>spin attack<BRANCO>, but you can bring them to
+a halt using <AMARELO>blocks<BRANCO> or a <AMARELO>certain magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>Scorching Sphere<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8D02BB004201460105000000570005000000000E010300000000000000000000140200000000040005000A000F00]
+Eliminate the Windstorms
+!------------------------------!
+- MISSION -
+<AMARELO>Windstorms<BRANCO> have surfaced in Halloween
+Town. Find them and eliminate them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat all three <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[20279403420146010000010000000000600100000200000000000000000000000000000000000000000000000000]
+NEXT DAY
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5E025800600160010500000058000500000001000000000000000000000000000004000000000800000000000000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5E025800600160010500000058000500000001000000000000000000000000000000000000000000000000000000]
+Eliminate the giant Heartless
+!------------------------------!
+- MISSION -
+A <AMARELO>giant Heartless<BRANCO> has surfaced in Halloween
+Town. Find it and eliminate it at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat the <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[71005900610161010000000059000500000001000000000000000000000000000004000000000800000000000000]
+Eliminate six giant Heartless
+!------------------------------!
+- MISSION -
+<AMARELO>Multiple giant Heartless<BRANCO> have surfaced in
+Twilight Town. Eliminate at least six of them.
+!------------------------------!
+- REQUIREMENTS -
+Defeat six <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[71005900610161010000000059000500000001000000000000000000320000000A0100000000040005000F001400]
+Eliminate six giant Heartless
+!------------------------------!
+- MISSION -
+<AMARELO>Multiple giant Heartless<BRANCO> have surfaced in
+Twilight Town. Eliminate at least six of them.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Dustfliers<BRANCO>.
+They are easily in the <AMARELO>strongest class<BRANCO> of
+Heartless. Prepare accordingly.
+!------------------------------!
+- REQUIREMENTS -
+Defeat six <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[71005900610161010000000059000500000001000000000000000000000000000000000000000000000000000000]
+Eliminate six giant Heartless
+!------------------------------!
+- MISSION -
+<AMARELO>Multiple giant Heartless<BRANCO> have surfaced in
+Twilight Town. Eliminate at least six of them.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Dustfliers<BRANCO>.
+They are easily in the <AMARELO>strongest class<BRANCO> of
+Heartless. Prepare accordingly.
+!------------------------------!
+- REQUIREMENTS -
+Defeat six <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[7100BD0061016101000000005900050000000100000000003C00020000000000000200000000010020035802D200]
+Eliminate six giant Heartless
+!------------------------------!
+- MISSION -
+<AMARELO>Multiple giant Heartless<BRANCO> have surfaced in
+Twilight Town. Eliminate at least six of them.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Dustfliers<BRANCO>.
+They are easily in the <AMARELO>strongest class<BRANCO> of
+Heartless. Prepare accordingly.
+!------------------------------!
+- REQUIREMENTS -
+Defeat six <AMARELO>giant Heartless<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[97015A0062016201030000005A000500000001000000000000000000000000000004000000000800000000000000]
+Place the device
+!------------------------------!
+- MISSION -
+Install the <AMARELO>device<BRANCO> we provide you with in the
+<AMARELO>lamp chamber<BRANCO> of the <AMARELO>Cave of Wonders<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Place the <AMARELO>device<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[97015A0062016201030000005A000500000001000000000000000000000000000000000000000000000000000000]
+Place the device
+!------------------------------!
+- MISSION -
+Install the <AMARELO>device<BRANCO> we provide you with in the
+<AMARELO>lamp chamber<BRANCO> of the <AMARELO>Cave of Wonders<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Land Armors<BRANCO>.
+Dispatch them with <AMARELO>Aero magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Place the <AMARELO>device<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[97015A0062016201030000005A000500000001000000000000000000000032000A01000000000000B400F0002C01]
+Place the device
+!------------------------------!
+- MISSION -
+Install the <AMARELO>device<BRANCO> we provide you with in the
+<AMARELO>lamp chamber<BRANCO> of the <AMARELO>Cave of Wonders<BRANCO>.
+
+- INTEL -
+Also be on the lookout for <AMARELO>Land Armors<BRANCO>.
+Dispatch them with <AMARELO>Aero magic<BRANCO>.
+!------------------------------!
+- REQUIREMENTS -
+Place the <AMARELO>device<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[14055B0063016301040000005B000500000001000000000000000000000000000004000000000800000000000000]
+Escape the castle
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+<AMARELO>Escape the Castle That Never Was<BRANCO>, and
+defeat anyone and anything that gets in your
+way.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[14055B0063016301040000005B000500000001000000000000000000000000000000000000000000000000000000]
+Escape the castle
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+<AMARELO>Escape the Castle That Never Was<BRANCO>, and
+defeat anyone and anything that gets in your
+way.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[14055B0063016301040000005B0005000000010000000000000006000000000014010000000004000A0014001E00]
+Escape the castle
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+<AMARELO>Escape the Castle That Never Was<BRANCO>, and
+defeat anyone and anything that gets in your
+way.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1405BF0063016301040000005B00050000000100000000000000000000000000190206000000000073009600F000]
+Escape the castle
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+<AMARELO>Escape the Castle That Never Was<BRANCO>, and
+defeat anyone and anything that gets in your
+way.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[72005C0065016501000000005C00060000000100000000003C000000000000000F01000000000400300048005800]
+Xion
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>enormous enemy<BRANCO> that has
+appeared in the station plaza.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[72005C0065016501000000005C000600000001000000000000000000000000000000000000000000000000000000]
+Xion
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>enormous enemy<BRANCO> that has
+appeared in the station plaza.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[72005C0065016501000000005C000600000001000000000000000000000000000004000000000800000000000000]
+Xion
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>enormous enemy<BRANCO> that has
+appeared in the station plaza.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[7200C00065016501000000005C000600000001000000000000000200000000001E020000000000005802DA025203]
+Xion
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>enormous enemy<BRANCO> that has
+appeared in the station plaza.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[15055D0066016601040000005D000600000001000000000000000000000000000000000000000000000000000000]
+Believe
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>mystery enemy<BRANCO> who awaits you at
+Memory's Skyscraper.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[15055D0066016601040000005D00060000000100000000003C000000000000001901000000000600000005000A00]
+Believe
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>mystery enemy<BRANCO> who awaits you at
+Memory's Skyscraper.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[15055D0066016601040000005D000600000001000000000000000000000000000004000000000800000000000000]
+Believe
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>mystery enemy<BRANCO> who awaits you at
+Memory's Skyscraper.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1505C10066016601040000005D0006000000010000000000000006000000000023020000000000001A016801A401]
+Believe
+!------------------------------!
+Undocumented.
+!------------------------------!
+- OBJECTIVE -
+Defeat the <AMARELO>mystery enemy<BRANCO> who awaits you at
+Memory's Skyscraper.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[0A005E00900190010000000000000000000001000000000000000000000000000004000000000800000000000000]
+Mission Mode Tutorial
+!------------------------------!
+- MISSION -
+<AMARELO>Scarlet Tangos<BRANCO> have surfaced in Twilight
+Town. Find them and eliminate them at once.
+
+!------------------------------!
+- REQUIREMENTS -
+Defeat five <AMARELO>Scarlet Tangos<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
