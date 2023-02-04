@@ -1,3 +1,17 @@
 &.[HDR].&
 *.000004000000002001000000010000000000000007000F00.*
 !******************************!
+&.[MSS].Nome.&
+*.NULO.*
+!------------------------------!
+Vanquish the Heartless threat
+!------------------------------!
+Neutralisez le Sans-cœur géant non identifié.
+!------------------------------!
+Vernichte die Herzlosenbedrohung
+!------------------------------!
+Elimina l'Heartless gigante non identificato
+!------------------------------!
+Acaba con la amenaza sincorazón.
+!------------------------------!
+!******************************!
