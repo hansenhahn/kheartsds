@@ -336,7 +336,7 @@ def unpack_Z( root, outdir ):
             buffer.tofile(output)            
             output.close()
             
-def unpack_no_ext(root, outdir, ignore_p2=True):
+def unpack_no_ext(root, outdir, ignore_p2=False):
     if os.path.isdir(root):
         files = scandirs(root)
     else:
@@ -532,7 +532,56 @@ def unpack_rpt(root,outdir):
                         output.write('\n!******************************!\n')              
                 fd.seek(link)
                 
-            output.close()                       
+            output.close()     
+
+def unpack_msi(root,outdir):
+    files = [root]
+    root = os.path.dirname(root)
+        
+    for _, fname in enumerate(files):
+        
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+        if not os.path.isdir(fdirs):
+            os.makedirs(fdirs)   
+
+        with open(fname, 'rb') as fd:          
+            print "Extraindo %s." %fname   
+
+            table = normal_table('tabela3.tbl')
+            table.fill_with('0061=a', '0041=A', '0030=0')
+            table.add_items('000A=\n')
+
+            output = open(fdirs + os.path.basename(path) + '.txt', 'w')
+            
+            fd.seek(0,0)
+            
+            # ??
+            entries = struct.unpack("<H", fd.read(2))[0]
+
+            for _ in range(entries):
+                size = struct.unpack("<H", fd.read(2))[0]
+                count = 2
+                    
+                output.write("[" + binascii.hexlify(fd.read(46)).upper() + "]\n")
+                count += 46
+                
+                while count != size:
+                    d = struct.unpack("<H", fd.read(2))[0]
+                    count += 2
+                    if d == 0: 
+                        output.write('\n!------------------------------!\n')
+                        continue
+                    
+                    c = struct.pack(">H",d)
+                    if c in table:
+                        output.write(table[c])
+                    elif d > 0:
+                        output.write("<%04x>" % d)
+                            
+                output.write('\n!******************************!\n')
+                
+            output.close()              
 
 def unpack_map( src, dst ):
 
@@ -765,4 +814,6 @@ if __name__ == '__main__':
         print "Unpacking dat text"
         unpack_dat(root = args.src , outdir = args.dst) 
                         
-
+    elif args.mode == ".msi.z":
+        print "Unpacking msi text"
+        unpack_msi(root = args.src , outdir = args.dst) 

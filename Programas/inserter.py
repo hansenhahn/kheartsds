@@ -532,6 +532,72 @@ def pack_db(root, outdir):
                 block.tofile(output)
             
             output.close()
+            
+def pack_msi(root, outdir):
+    table = normal_table('tabela3.tbl')
+    table.fill_with('0061=a', '0041=A', '0030=0')
+    table.add_items('000A=\n')
+    
+    table.set_mode('inverted')
+    
+    files = [root]
+    root = os.path.dirname(root)
+    
+    for _, fname in enumerate(files):
+        path = fname[len(root):]
+        fdirs = outdir + path[:-len(os.path.basename(path))]
+            
+        print "Comprimindo %s." % fname
+
+        with open( fname, 'r') as input:
+            filepath = outdir + fname[len(root):].replace(".txt", "")
+            output = open( filepath, "wb")
+            buffer = []
+            block = array.array('c')
+            for line in input:
+                line = line.strip('\r\n')
+                line = line.decode('utf-8').encode('windows-1252')
+                if line == '!******************************!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')
+                    size = len(block)+2
+                    
+                    buffer.append((size, block))
+                    
+                    block = array.array('c')
+                    
+                elif line == '!------------------------------!':
+                    block.pop() # \x0a
+                    block.pop() # \x00
+                    block.extend('\x00\x00')                
+
+                elif line.startswith('[') and line.endswith(']'):
+                    block.extend(binascii.unhexlify(line[1:-1]))
+                
+                else:
+                    splited = re.split(TAG_CH, line)
+                    for data in splited:
+                        tag = re.match(TAG_CH2, data)
+                        if tag:
+                            tag = tag.groups()[0]
+                            if tag in table:
+                                block.extend(table[tag][::-1])
+                            else:
+                                block.extend(struct.pack("<H", int(tag[1:-1],16)))
+                        else:
+                            for c in data:
+                                block.extend(c+"\x00")
+                    block.extend('\x0a\x00')
+                    
+            output.write(struct.pack('<H', len(buffer)))
+
+            for size, block in buffer:
+                output.write(struct.pack("<H", size))
+                block.tofile(output)
+            
+            output.close()                    
+                    
 
 def pack_map(root, outdir):
 
@@ -717,6 +783,11 @@ if __name__ == '__main__':
         print "Packing .rpt.z text"        
         pack_rpt(args.src , args.src1)
         pack_Z(root = args.src1 , outdir = args.dst )
+    elif args.mode == ".msi.z":
+        print "Packing .msi.z text"        
+        pack_msi(args.src , args.src1)
+        pack_Z(root = args.src1 , outdir = args.dst )        
+        
     elif args.mode == ".dat.z":
         print "Packing .dat text"        
         pack_dat(args.src , args.src1)        

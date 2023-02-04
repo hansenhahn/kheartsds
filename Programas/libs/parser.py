@@ -164,8 +164,37 @@ def generic_parser_1(file, output, table):
                 output.write('\n!******************************!\n')        
             file.seek(addrRet, 0)
             
-        # elif flag == '\x02\x14':
-            # pass
+        elif flag == '\x02\x14':
+            file.read(4)
+            structs.append(struct.unpack('<L', file.read(4))[0] + base_address) 
+            
+            addrRet = file.tell()
+
+            output.write('&.[MSS].Nome.&\n')
+            
+            for x in structs:
+                addrDialogs = []            
+                file.seek(x, 0)
+                for y in range(6):
+                    pt = struct.unpack('<L', file.read(4))[0]
+                    if pt == 0xFFFFFFFF:
+                        pt = None
+                    else:
+                        pt += base_address
+                    addrDialogs.append(pt)              
+                for y in addrDialogs:
+                    if not y:
+                        output.write('*.NULO.*')
+                    else:
+                        file.seek(y, 0)                         
+                        while True:
+                            ret = write_data(file, output, table)
+                            if ret == False:
+                                break
+                    output.write('\n!------------------------------!\n')
+            output.write('!******************************!\n')              
+            file.seek(addrRet, 0)             
+        
             
         # Estrutura information
         elif flag == '\x02\x34':
@@ -337,7 +366,7 @@ def generic_parser_1(file, output, table):
             file.read(40)
             for _ in range(7):
                 file.read(4)
-                structs.append(struct.unpack('<L', file.read(4))[0] + base_address)
+                structs.append(struct.unpack('<L', file.read(4))[0] + base_address)            
             
             addrRet = file.tell()
 
@@ -434,7 +463,7 @@ def generic_inserter_1(input, output, table):
             '\x01\x0a': [], '\x01\x1d': [], '\x01\x1e': [],
             '\x02\x34': [], '\x02\x3f': [], '\x02\x40': [],
             '\x03\x01': [], '\x03\x02': [], '\x03\x03': [],
-            '\x13\x00': []
+            '\x13\x00': [], '\x04\x12': [], '\x02\x14': []
             }
             
     print "Recriando %s..." % input.name
@@ -620,7 +649,55 @@ def generic_inserter_1(input, output, table):
                 c.pop(0) #!++..++!        
             block.pop() # pop last []
             _dict['\x02\x34'].append(block)             
-    
+        elif a and a.group() == '&.[MSS].Final.&':
+            block = []
+            #for y in range(len(block)):
+            while True:
+                block.append([])
+                for x in range(6):
+                    buffer = array.array('c')
+                    while True:
+                        line = c.pop(0)
+                        line = line.strip('\r\n')
+                        if re.match(SEP2, line):
+                            buffer.pop()
+                            break
+                        elif re.match(SEP1, line):
+                            break
+                        elif re.match(MARK2, line):
+                            line = c.pop(0)
+                            break
+                        else:
+                            string = read_line(line, table)
+                            buffer.extend("%s\n" % string)
+                    if re.match(SEP1, line):
+                        break
+                    block[-1].append(buffer)
+                if re.match(SEP1, line):
+
+                    c.insert(0, '\n!******************************!\n')
+                    break
+                c.pop(0) #!++..++!        
+            block.pop() # pop last []
+            _dict['\x04\x12'].append(block)
+        if a and a.group() == '&.[MSS].Nome.&':
+            block = []
+            for x in range(6):
+                buffer = array.array('c')
+                while True:
+                    line = c.pop(0)
+                    line = line.strip('\r\n')
+                    if re.match(SEP2, line):
+                        buffer.pop()
+                        break
+                    elif re.match(MARK2, line):
+                        buffer.extend("\n")
+                    else:
+                        string = read_line(line, table)
+                        buffer.extend("%s\n" % string)
+                block.append(buffer)
+            _dict['\x02\x14'].append(block)
+            
         c.pop(0) # !**..**! 
     
     base_address = struct.unpack('<L',output.read(4))[0]
@@ -920,8 +997,36 @@ def generic_inserter_1(input, output, table):
             output.write(struct.pack('<L', pointers[0]))
             output.seek(16, 1)          
                 
-        # elif flag == '\x00\x03':
-            # break  
+        elif flag == '\x04\x12':
+            data = _dict['\x04\x12'].pop(0)
+            addrRet = output.tell()
+            output.seek(data_ptr, 0)
+            for x in range(len(data)):
+                ptr = []
+                for y in range(6):
+                    string = data[x].pop(0)
+                    if string:
+                        output.write(string)
+                        output.write('\x00')
+                        ptr.append(data_ptr - base_address)
+                        while output.tell() % 4 != 0:
+                            output.write('\x00')
+                        data_ptr = output.tell()
+                    else:
+                        ptr.append(0xFFFFFFFF)
+                        data_ptr = output.tell()
+                pointers.append(output.tell() - base_address)
+                for y in ptr:
+                    output.write(struct.pack('<L', y))
+                output.write(struct.pack('<L', 0xFFFFFFFF))
+                data_ptr = output.tell()
+                    
+            output.seek(addrRet, 0)
+            output.seek(40,1)
+            for ptr in pointers:
+                output.seek(4, 1)
+                output.write(struct.pack('<L', ptr))                
+                
         elif flag == '\x02\x34':
             data = _dict['\x02\x34'].pop(0)
             addrRet = output.tell()
@@ -951,6 +1056,35 @@ def generic_inserter_1(input, output, table):
             for ptr in pointers:
                 output.seek(4, 1)
                 output.write(struct.pack('<L', ptr))
+        elif flag == '\x02\x14':        
+            data = _dict['\x02\x14'].pop(0)
+            
+            addrRet = output.tell()
+            
+            output.seek(data_ptr, 0)
+
+            ptr = []
+            for y in range(6):
+                string = data.pop(0)
+                if string:
+                    output.write(string)
+                    output.write('\x00')
+                    ptr.append(data_ptr - base_address)
+                    while output.tell() % 4 != 0:
+                        output.write('\x00')
+                    data_ptr = output.tell()
+                else:
+                    ptr.append(0xFFFFFFFF)
+                    data_ptr = output.tell()
+            pointers.append(output.tell() - base_address)
+            for y in ptr:
+                output.write(struct.pack('<L', y))
+            output.write(struct.pack('<L', 0xFFFFFFFF))
+            data_ptr = output.tell()
+                    
+            output.seek(addrRet, 0)
+            output.seek(4, 1)
+            output.write(struct.pack('<L', pointers[0]))        
             
         else:
             output.seek(4 * (size-1), 1)

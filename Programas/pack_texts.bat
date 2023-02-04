@@ -5,17 +5,14 @@ echo Calling inserter.py to pack texts
 rem Missão dia 8
 xcopy "..\Arquivos Originais\mi\mi\__0001.p2" "..\Arquivos Traduzidos\mi\mi\__0001.p2/" /I /E /Y
 pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__0001.p2" -d "../Arquivos Traduzidos/mi/mi/__0001.p2"
-REM pypy inserter.py -m ".p2" -s "../Arquivos Traduzidos/mi/mi" -d "../ROM Modificada/xpa-khe/data/mi/mi" -fnt
-REM exit /b
 rem Missão dia 
-REM xcopy "..\Arquivos Originais\mi\mi\__0006.p2" "..\Arquivos Traduzidos\mi\mi\__0006.p2/" /I /E /Y
-REM pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__0006.p2" -d "../Arquivos Traduzidos/mi/mi/__0006.p2"
+xcopy "..\Arquivos Originais\mi\mi\__0006.p2" "..\Arquivos Traduzidos\mi\mi\__0006.p2/" /I /E /Y
+pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__0006.p2" -d "../Arquivos Traduzidos/mi/mi/__0006.p2"
 rem Pack dos textos sem avatar do salão. Funcional, não mexer
 xcopy "..\Arquivos Originais\mi\mi\__10000.p2" "..\Arquivos Traduzidos\mi\mi\__10000.p2/" /I /E /Y
 pypy inserter.py -m "cakp" -s "../Textos Traduzidos/mi/mi/__10000.p2" -d "../Arquivos Traduzidos/mi/mi/__10000.p2"
+
 pypy inserter.py -m ".p2" -s "../Arquivos Traduzidos/mi/mi" -d "../ROM Modificada/xpa-khe/data/mi/mi" -fnt
-
-
 
 rem Pack do banco de dados. Funcional, não mexer
 xcopy "..\Arquivos Originais\db\__db_en.p2" "..\Arquivos Traduzidos\db\__db_en.p2" /I /E /Y
@@ -34,6 +31,8 @@ pypy inserter.py -m ".s.z" -s "../Textos Traduzidos/UI/cal/ttl_en.z.txt" -s1 "..
 rem Pack do diário e bestiário. Funcional, não mexer
 pypy inserter.py -m ".rpt.z" -s "../Textos Traduzidos/UI/cm/str/rpt_en.z.txt" -s1 "../Arquivos Traduzidos/UI/cm/str" -d "../ROM Modificada/xpa-khe/data/UI/cm/str/"
 pypy inserter.py -m ".rpt.z" -s "../Textos Traduzidos/UI/cm/str/enm_en.z.txt" -s1 "../Arquivos Traduzidos/UI/cm/str" -d "../ROM Modificada/xpa-khe/data/UI/cm/str/"
+rem Pack das missões
+pypy inserter.py -m ".msi.z" -s "../Textos Traduzidos/UI/cm/msl_en.msi.z.txt" -s1 "../Arquivos Traduzidos/UI/cm" -d "../ROM Modificada/xpa-khe/data/UI/cm"
 rem Pack dos tutoriais. Funcional, não mexer
 pypy inserter.py -m ".dat.z" -s "../Textos Traduzidos/UI/btlttr/ttr_en.dat.z.txt" -s1 "../Arquivos Traduzidos/UI/btlttr" -d "../ROM Modificada/xpa-khe/data/UI/btlttr"
 
