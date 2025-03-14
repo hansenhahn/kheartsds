@@ -1,0 +1,4705 @@
+[01000100080008000000000001000000000000000100000000000000000000000000000000000000000000000000]
+Aprenda os fundamentos das missões
+!------------------------------!
+- MISSÃO -
+Aprenda os fundamentos das missões.
+Junte-se a <AMARELO>Axel<BRANCO>, procure no passagem
+subterrânea em Twilight Town pelo <AMARELO>baú de
+tesouro<BRANCO> e pegue seu conteúdo.
+!------------------------------!
+- REQUISITOS -
+Pegue o conteúdo do <AMARELO>baú de tesouro<BRANCO> na
+passagem subterrânea.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[10278403080008000000010000000000090001000000000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[02000200090009000000000002000000000000000100000000000000000000000000000000000000000000000000]
+Aprenda os fundamentos do combate
+!------------------------------!
+- MISSÃO -
+Aprenda os fundamentos do combate.
+Junte-se a <AMARELO>Marluxia<BRANCO>, elimine Heartless
+em Twilight Town e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1127850309000D0000000100000000000E0000000100000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[030003000A000A000000000003000000000000000100000000000000000000000000000000000000000000000000]
+Aprenda sobre suas funções em campo
+!------------------------------!
+- MISSÃO -
+Aprenda sobre suas funções em campo.
+Junte-se a <AMARELO>Zexion<BRANCO>, elimine Heartless em
+Twilight Town e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[050004000B000B000000000004000000000000000100000000000000000000000000000000000000000000000000]
+Aprenda a usar magia
+!------------------------------!
+- MISSÃO -
+Aprenda sobre o uso de magia.
+Junte-se a <AMARELO>Larxene<BRANCO>, elimine Heartless em
+Twilight Town e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[060005000C000C000000000005000000000000000100000000000000000000000000000000000000000000000000]
+Aprenda sobre reconhecimento
+!------------------------------!
+- MISSÃO -
+Aprenda sobre reconhecimento.
+Junte-se a <AMARELO>Vexen<BRANCO> e reúna informações em
+<AMARELO>Twilight Town<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Faça reconhecimento em <AMARELO>Twilight Town<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[040006000D000D000000000006000000000000000100000000000000000000000000000000000000000000000000]
+Aprenda sobre Limites
+!------------------------------!
+- MISSÃO -
+Aprenda sobre Limites.
+Um <AMARELO>Mega-Shadow<BRANCO> apareceu em Twilight
+Town. Junte-se a <AMARELO>Lexaeus<BRANCO> e elimine-o
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Mega-Shadow<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[650007000E000E000000000007000000000001000000000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Axel<BRANCO>, elimine Heartless em
+Twilight Town e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[650007000E000E00000000000700000000000100000000000000000000000000080100000000000069008C00A000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Axel<BRANCO>, elimine Heartless em
+Twilight Town e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[650007000E000E000000000007000000000001000000000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Twilight Town e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9A0008000F0011000000000008000000000000000200000000000000000000000004000000000800000000000000]
+Elimine os Watchers
+!------------------------------!
+- MISSÃO -
+<AMARELO>Watchers<BRANCO> apareceram em Twilight Town.
+Encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Watchers<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9A0008000F0011000000000008000000000000000200000000000000000000000000000000000000000000000000]
+Elimine os Watchers
+!------------------------------!
+- MISSÃO -
+<AMARELO>Watchers<BRANCO> apareceram em Twilight Town.
+Junte-se a <AMARELO>Larxene<BRANCO>, encontre-os e
+elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Watchers<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9A0008000F0011000000000008000000000000000200000000000000000000000801000000000000640073008200]
+Elimine os Watchers
+!------------------------------!
+- MISSÃO -
+<AMARELO>Watchers<BRANCO> apareceram em Twilight Town.
+Junte-se a <AMARELO>Larxene<BRANCO>, encontre-os e
+elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Watchers<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[970009000F0011000000000009000000000000000100000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Twilight Town e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[970009000F0011000000000009000000000000000100000000000000000000000901000000000300C90096008200]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Marluxia<BRANCO>, elimine Heartless em
+Twilight Town e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Dire Plants<BRANCO>.
+Despache-os <AMARELO>bloqueando<BRANCO> e desviando
+suas <AMARELO>sementes<BRANCO> de volta contra eles.
+
+Um <AMARELO>Zip Slasher<BRANCO> também foi avistado.
+Tenha extremo cuidado com esse
+inimigo poderoso.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[970009000F0011000000000009000000000000000100000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Marluxia<BRANCO>, elimine Heartless em
+Twilight Town e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Dire Plants<BRANCO>.
+Despache-os <AMARELO>bloqueando<BRANCO> e desviando
+suas <AMARELO>sementes<BRANCO> de volta contra eles.
+
+Um <AMARELO>Zip Slasher<BRANCO> também foi avistado.
+Tenha extremo cuidado com esse
+inimigo poderoso.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[4A050A000F001100040000000A00000000000000010000000000000000000000080100000000050003000F001400]
+Prove sua resistência
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>habilidade de combate<BRANCO>.
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>um
+minuto<BRANCO> na arena que preparamos para você
+no castelo. Lute ou fuja<2015>mas, seja o que
+for que você faça, pense rápido.
+
+- INFORMAÇÃO -
+<AMARELO>Rolamentos de esquiva<BRANCO> são indispensáveis neste teste.
+!------------------------------!
+- REQUISITOS -
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>um
+minuto<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[4A050A000F001100040000000A000000000000000100000000000000000000000004000000000800000000000000]
+Prove sua resistência
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>habilidade de combate<BRANCO>.
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>um
+minuto<BRANCO> na arena que preparamos para você
+no castelo. Lute ou fuja<2015>mas, seja o que
+for que você faça, pense rápido.
+!------------------------------!
+- REQUISITOS -
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>um
+minuto<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[4A050A000F001100040000000A000000000000000100000000000000000000000000000000000000000000000000]
+Prove sua resistência
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>habilidade de combate<BRANCO>.
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>um
+minuto<BRANCO> na arena que preparamos para você
+no castelo. Lute ou fuja<2015>mas, seja o que
+for que você faça, pense rápido.
+
+- INFORMAÇÃO -
+<AMARELO>Rolamentos de esquiva<BRANCO> são indispensáveis neste teste.
+!------------------------------!
+- REQUISITOS -
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>um
+minuto<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[122786030F0011000000010000000000160000000300000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[66000B0016001600000000000B000000000001000000000000000000000000000000000000000000000000000000]
+Elimine o Guardian
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Guardian<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Axel<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[66000B0016001600000000000B000000000001000000000000000000000000000901000000000100C201AE019001]
+Elimine o Guardian
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Guardian<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Axel<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[66000B0016001600000000000B000000000001000000000000000000000000000004000000000800000000000000]
+Elimine o Guardian
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Guardian<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[66006F0016001600000000000B000000000001000000000000000000000000000E02000000000700010002000300]
+Elimine o Guardian
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Guardian<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Axel<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Guardian<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[67000C0017001700000000000C000000000001000000000000000000000000000004000000000800000000000000]
+Elimine a Poison Plant
+!------------------------------!
+- MISSÃO -
+Uma <AMARELO>Poison Plant<BRANCO> apareceu em Twilight Town.
+Encontre-a e elimine-a imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote a <AMARELO>Poison Plant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[67000C0017001700000000000C000000000001000000000000000000000000000000000000000000000000000000]
+Elimine a Poison Plant
+!------------------------------!
+- MISSÃO -
+Uma <AMARELO>Poison Plant<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-a e elimine-a
+imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Poison Plants<BRANCO> podem ser facilmente despachadas com
+<AMARELO>magia de Fogo<BRANCO>. Leve <AMARELO>lançamentos extras de Fogo<BRANCO> para
+o campo.
+
+Fique atento também aos <AMARELO>Dire Plants<BRANCO>.
+Despache-os <AMARELO>bloqueando<BRANCO> suas <AMARELO>sementes<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote a <AMARELO>Poison Plant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[68000D0018001800000000000D000000000001000000000000000000000000000000000000000000000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+em Twilight Town. Junte-se a
+<AMARELO>Xion<BRANCO>, encontre-os e elimine-os imediatamente.
+
+- INFORMAÇÃO -
+Sabe-se que os <AMARELO>Deserters<BRANCO> ficam agressivos
+se você derrotar outro deles.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[68000D0018001800000000000D000000000001000000000000000000000000000701000000000000370046005A00]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+em Twilight Town. Junte-se a
+<AMARELO>Xion<BRANCO>, encontre-os e elimine-os imediatamente.
+
+- INFORMAÇÃO -
+Sabe-se que os <AMARELO>Deserters<BRANCO> ficam agressivos
+se você derrotar outro deles.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[68000D0018001800000000000D000000000001000000000000000000000000000004000000000800000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+em Twilight Town. Encontre-os e
+elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[69000E0019001900000000000E000000000001000000000000000000000000000000000000000000000000000000]
+Elimine o Darkside
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Darkside<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+- INFORMAÇÃO -
+Instale um painel de <AMARELO>Bloqueio<BRANCO> antes de tentar
+enfrentar um <AMARELO>Darkside<BRANCO>. Você vai ficar feliz por ter feito isso.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[69000E0019001900000000000E000000000001000000000000000000000000000D01000000000400020005000800]
+Elimine o Darkside
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Darkside<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+- INFORMAÇÃO -
+Instale um painel de <AMARELO>Bloqueio<BRANCO> antes de tentar
+enfrentar um <AMARELO>Darkside<BRANCO>. Você vai ficar feliz por ter feito isso.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[69000E0019001900000000000E000000000001000000000000000000000000000004000000000800000000000000]
+Elimine o Darkside
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Darkside<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6900720019001900000000000E000000000001000000000000000100000000003C020000000000006900BE00FA00]
+Elimine o Darkside
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Darkside<BRANCO> apareceu em Twilight Town.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+- INFORMAÇÃO -
+Instale um painel de <AMARELO>Bloqueio<BRANCO> antes de tentar
+enfrentar um <AMARELO>Darkside<BRANCO>. Você vai ficar feliz por ter feito isso.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Darkside<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[91010F001A001A00030000000F000100000001000000000000000000000000000000000000000000000000000000]
+Investigue este novo mundo
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xigbar<BRANCO>, infiltre-se neste <AMARELO>novo
+mundo<BRANCO> e reúna informações.
+
+- INFORMAÇÃO -
+O membro que descobriu este mundo
+relatou ter visto <AMARELO>Dire Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Faça reconhecimento neste <AMARELO>novo mundo<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9201100033003600030000001000010000000000020000000000000000000000040100000000020064004F004500]
+Elimine as Fire Plants
+!------------------------------!
+- MISSÃO -
+<AMARELO>Fire Plants<BRANCO> apareceram em Agrabah.
+Encontre-as e elimine-as imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Bloquear<BRANCO> será muito útil contra as <AMARELO>Fire
+Plants<BRANCO>. Leve o máximo de <AMARELO>magia de Gelo<BRANCO> que puder
+para o campo.
+
+Fique atento também aos <AMARELO>Barrier Masters<BRANCO>,
+que podem cercar seus aliados com uma
+<AMARELO>barreira impenetrável<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote sete <AMARELO>Fire Plants<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[92011000330036000300000010000100000000000200000000000000000000000004000000000800000000000000]
+Elimine as Fire Plants
+!------------------------------!
+- MISSÃO -
+<AMARELO>Fire Plants<BRANCO> apareceram em Agrabah.
+Encontre-as e elimine-as imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote sete <AMARELO>Fire Plants<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[92011000330036000300000010000100000000000203000000000000000000000000000000000000000000000000]
+Elimine as Fire Plants
+!------------------------------!
+- MISSÃO -
+<AMARELO>Fire Plants<BRANCO> apareceram em Agrabah.
+Encontre-as e elimine-as imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Bloquear<BRANCO> será muito útil contra as <AMARELO>Fire
+Plants<BRANCO>. Leve o máximo de <AMARELO>magia de Gelo<BRANCO> que puder
+para o campo.
+
+Fique atento também aos <AMARELO>Barrier Masters<BRANCO>,
+que podem cercar seus aliados com uma
+<AMARELO>barreira impenetrável<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote sete <AMARELO>Fire Plants<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D001100330036000000000011000100000000000102000000000000000000000004000000000800000000000000]
+Elimine o Tailbunker
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Tailbunker<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D001100330036000000000011000100000000000102000000000000000000000000000000000000000000000000]
+Elimine o Tailbunker
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Tailbunker<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D00110033003600000000001100010000000000010200000000040000000000040100000000000064007D009600]
+Elimine o Tailbunker
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Tailbunker<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C30112003300360003000000120001000000000001040000000000000000000002010000000000003C0046005A00]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Coletar os
+numerosos <AMARELO>emblemas da Organização<BRANCO> que
+colocamos por Agrabah.
+
+- INFORMAÇÃO -
+Demonstre que você <AMARELO>conhece o terreno<BRANCO> bem
+o suficiente para formular <AMARELO>sua própria rota<BRANCO>.
+Correr atrás do primeiro emblema que você vir só
+vai te fazer perder tempo.
+
+Fique atento também às <AMARELO>Fire Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C3011200330036000300000012000100000000000104000000000000000000000000000000000000000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Coletar os
+numerosos <AMARELO>emblemas da Organização<BRANCO> que
+colocamos por Agrabah.
+
+- INFORMAÇÃO -
+Demonstre que você <AMARELO>conhece o terreno<BRANCO> bem
+o suficiente para formular <AMARELO>sua própria rota<BRANCO>.
+Correr atrás do primeiro emblema que você vir só
+vai te fazer perder tempo.
+
+Fique atento também às <AMARELO>Fire Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C3011200330036000300000012000100000000000104000000000000000000000004000000000800000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Coletar os
+numerosos <AMARELO>emblemas da Organização<BRANCO> que
+colocamos por Agrabah.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C4011300330036000300000013000100000000000100000000000000000000000004000000000800000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+em Agrabah. Encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C40113003300360003000000130001000000000001000000000000000000000002010000000000003C004B005A00]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+em Agrabah. Encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C4011300330036000300000013000100000000000103000000000000000000000000000000000000000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+em Agrabah. Encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9D0075003300360000000000110001000000000001020000000001001E0000001202000000000600000003000A00]
+Elimine o Tailbunker
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Tailbunker<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Tailbunker<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[14278803330036000000010000000000470000000300000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6A001400470047000000000014000100000001000000000000000000000000000004000000000800000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Twilight Town.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6A001400470047000000000014000100000001000000000000000000140000000401000000000000500082009600]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Twilight Town.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+
+- INFORMAÇÃO -
+Sabe-se que os <AMARELO>shadow globs<BRANCO> se formam em
+<AMARELO>lugares bem escondidos<BRANCO>. Procure com cuidado.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6A001400470047000000000014000100000001000000000000000000000000000000000000000000000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Twilight Town.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+
+- INFORMAÇÃO -
+Sabe-se que os <AMARELO>shadow globs<BRANCO> se formam em
+<AMARELO>lugares bem escondidos<BRANCO>. Procure com cuidado.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[93011500480048000300000015000100000001000000000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Axel<BRANCO>, elimine Heartless em
+Agrabah e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Large Armors<BRANCO>.
+Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[93011500480048000300000015000100000001000000000000000000000000000201000000000000A401C201E001]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Axel<BRANCO>, elimine Heartless em
+Agrabah e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Large Armors<BRANCO>.
+Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[93011500480048000300000015000100000001000000000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Agrabah e <AMARELO>coletar
+corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[E9031600490049000900000016000100000001000000000000000000000000000004000000000800000000000000]
+Elimine o Sergeant
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Sergeant<BRANCO> apareceu neste novo mundo.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Sergeant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[E9031600490049000900000016000100000001000000000000000000000000000000000000000000000000000000]
+Elimine o Sergeant
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Sergeant<BRANCO> apareceu neste novo mundo.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Sergeant<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[E90316004900490009000000160001000000010000000000000000000000000003010000000000008200A000C800]
+Elimine o Sergeant
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Sergeant<BRANCO> apareceu neste novo mundo.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Sergeant<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6B0017004A004A000000000017000100000001000000000000000000000000000000000000000000000000000000]
+Procure por Xion
+!------------------------------!
+- MISSÃO -
+<AMARELO>Xion<BRANCO> desapareceu em Twilight Town.
+Junte-se a <AMARELO>Axel<BRANCO> e procure por ela.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Poison Plants<BRANCO> e
+aos <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Localize <AMARELO>Xion<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[940118004B004F000300000018000100000000000202000000000000000000000004000000000800000000000000]
+Investigue a caverna do deserto
+!------------------------------!
+- MISSÃO -
+Reúna informações sobre a <AMARELO>caverna no meio do
+deserto<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Faça reconhecimento na <AMARELO>caverna no deserto<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[940118004B004F000300000018000100000000000202000000000000000000000000000000000000000000000000]
+Investigue a caverna do deserto
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xion<BRANCO> e reúna informações sobre a
+<AMARELO>caverna no meio do deserto<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Fire Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Faça reconhecimento na <AMARELO>caverna no deserto<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[9E0019004B004F000000000019000100000000000103000000000000000000000004000000000800000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Coletar os
+numerosos <AMARELO>emblemas da Organização<BRANCO> que
+colocamos por Twilight Town.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!******************************!
+[9E0019004B004F00000000001900010000000000010300000000000000000000020100000000000064007800AA00]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Junte-se a
+<AMARELO>Xion<BRANCO> e coletar os numerosos <AMARELO>emblemas da
+Organização<BRANCO> que colocamos por Twilight
+Town.
+
+- INFORMAÇÃO -
+A única maneira de coletar todos os emblemas
+neste exercício é adquirindo primeiro a <AMARELO>extensão
+completa das suas habilidades de movimento<BRANCO>.
+
+Fique atento também às <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[9E0019004B004F000000000019000100000000000103000000000000000000000000000000000000000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Junte-se a
+<AMARELO>Xion<BRANCO> e coletar os numerosos <AMARELO>emblemas da
+Organização<BRANCO> que colocamos por Twilight
+Town.
+
+- INFORMAÇÃO -
+A única maneira de coletar todos os emblemas
+neste exercício é adquirindo primeiro a <AMARELO>extensão
+completa das suas habilidades de movimento<BRANCO>.
+
+Fique atento também às <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C5011A004B004F00030000001A000100000000000102000000000000000000000004000000000800000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Agrabah.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!******************************!
+[C5011A004B004F00030000001A00010000000000010200000800000000000000000100000000070003000A000F00]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Agrabah.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Junte-se a
+<AMARELO>Xion<BRANCO> e destrua-os ao avistá-los.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C5011A004B004F00030000001A000100000000000102000000000000000000000000000000000000000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Agrabah.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Junte-se a
+<AMARELO>Xion<BRANCO> e destrua-os ao avistá-los.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EA031B004B004F00090000001B000100000000000204000000000000000000000000000000000000000000000000]
+Investigue o Castelo da Fera
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xion<BRANCO> e reúna informações em <AMARELO>Castelo
+da Fera<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Faça reconhecimento em <AMARELO>Castelo da Fera<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EB031C004B004F00090000001C000100000000010101000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xion<BRANCO>, elimine Heartless no
+Castelo da Fera e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EB031C004B004F00090000001C000100000000010101000000000000000000000301000000000400010005000A00]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xion<BRANCO>, elimine Heartless no
+Castelo da Fera e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[EB031C004B004F00090000001C000100000000010101000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Castelo da Fera e
+<AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[152789034B004F0000000100000000005E0000000100000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EC031D005E005E00090000001D000100000001000000000000000000000000000000000000000000000000000000]
+Elimine os Neoshadows
+!------------------------------!
+- MISSÃO -
+<AMARELO>Neoshadows<BRANCO> apareceram no Castelo da Fera.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote os <AMARELO>Neoshadows<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EC031D005E005E00090000001D00010000000100000000000A000000000000000201000000000000730087009B00]
+Elimine os Neoshadows
+!------------------------------!
+- MISSÃO -
+<AMARELO>Neoshadows<BRANCO> apareceram no Castelo da Fera.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote os <AMARELO>Neoshadows<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[EC031D005E005E00090000001D000100000001000000000000000000000000000004000000000800000000000000]
+Elimine os Neoshadows
+!------------------------------!
+- MISSÃO -
+<AMARELO>Neoshadows<BRANCO> apareceram no Castelo da Fera.
+Encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote os <AMARELO>Neoshadows<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C6011E005F005F00030000001E000100000001000000000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Agrabah e <AMARELO>coletar
+corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C6011E005F005F00030000001E0001000000010000000000000000001E000000020100000000020064005A005100]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xion<BRANCO>, elimine Heartless em
+Agrabah e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Fire Plants<BRANCO> e
+aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C6011E005F005F00030000001E000100000001000000000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xion<BRANCO>, elimine Heartless em
+Agrabah e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Fire Plants<BRANCO> e
+aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[ED031F0060006000090000001F0001000000010000000000050004000000000000010000000000002D003C005000]
+Elimine o Bully Dog
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Bully Dog<BRANCO> apareceu no Castelo da Fera.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[ED031F0060006000090000001F000100000001000000000000000000000000000004000000000800000000000000]
+Elimine o Bully Dog
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Bully Dog<BRANCO> apareceu no Castelo da Fera.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[ED031F0060006000090000001F000100000001000000000000000000000000000000000000000000000000000000]
+Elimine o Bully Dog
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Bully Dog<BRANCO> apareceu no Castelo da Fera.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[ED03830060006000090000001F000100000001000000000005000000000000003202000000000400000003000A00]
+Elimine o Bully Dog
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Bully Dog<BRANCO> apareceu no Castelo da Fera.
+Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Bully Dog<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[95012000610064000300000020000100000000000202000000000000000000000004000000000800000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no deserto de Agrabah. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[95012000610064000300000020000100000000000202000000000400000000000E010000000005000A0014002300]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no deserto de Agrabah. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[95012000610064000300000020000100000000000202000000000000000000000000000000000000000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no deserto de Agrabah. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[47052100610064000400000021000100000000000101000000000000000000000201000000000000410055006900]
+Quebre os jarros
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>sorte<BRANCO>. Quebre os <AMARELO>jarros<BRANCO> que
+preparamos para você no castelo.
+
+- INFORMAÇÃO -
+Alguns dos <AMARELO>jarros<BRANCO> foram armados para
+liberar <AMARELO>adversários poderosos<BRANCO> quando quebrados.
+Se sua sorte falhar e isso acontecer,
+evite enfrentar o inimigo e foque em
+quebrar o resto dos jarros.
+!------------------------------!
+- REQUISITOS -
+Quebre todos os <AMARELO>jarros<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[47052100610064000400000021000100000000000101000000000000000000000004000000000800000000000000]
+Quebre os jarros
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>sorte<BRANCO>. Quebre os <AMARELO>jarros<BRANCO> que
+preparamos para você no castelo.
+!------------------------------!
+- REQUISITOS -
+Quebre todos os <AMARELO>jarros<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[47052100610064000400000021000100000000000101000000000000000000000000000000000000000000000000]
+Quebre os jarros
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>sorte<BRANCO>. Quebre os <AMARELO>jarros<BRANCO> que
+preparamos para você no castelo.
+
+- INFORMAÇÃO -
+Alguns dos <AMARELO>jarros<BRANCO> foram armados para
+liberar <AMARELO>adversários poderosos<BRANCO> quando quebrados.
+Se sua sorte falhar e isso acontecer,
+evite enfrentar o inimigo e foque em
+quebrar o resto dos jarros.
+!------------------------------!
+- REQUISITOS -
+Quebre todos os <AMARELO>jarros<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C7012200610064000300000022000100000000000105000000000000000000000000000000000000000000000000]
+Elimine os Aerial Masters
+!------------------------------!
+- MISSÃO -
+<AMARELO>Aerial Masters<BRANCO> apareceram no deserto.
+Junte-se a <AMARELO>Demyx<BRANCO>, encontre-os e elimine
+todos eles.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Large Armors<BRANCO>
+e aos <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os quatro <AMARELO>Aerial Masters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C701220061006400030000002200010000000000010500000A000000000000000101000000000000A000DC002C01]
+Elimine os Aerial Masters
+!------------------------------!
+- MISSÃO -
+<AMARELO>Aerial Masters<BRANCO> apareceram no deserto.
+Junte-se a <AMARELO>Demyx<BRANCO>, encontre-os e elimine
+todos eles.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Large Armors<BRANCO>
+e aos <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os quatro <AMARELO>Aerial Masters<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C7012200610064000300000022000100000000000105000000000000000000000004000000000800000000000000]
+Elimine os Aerial Masters
+!------------------------------!
+- MISSÃO -
+<AMARELO>Aerial Masters<BRANCO> apareceram no deserto.
+Encontre-os e elimine todos eles.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os quatro <AMARELO>Aerial Masters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EE032300610064000900000023000100000000020104000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Castelo da Fera e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cubos Gelados<BRANCO> e
+aos <AMARELO>Cristais Nevados<BRANCO>. Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EE032300610064000900000023000100000000020104000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Castelo da Fera e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EE032300610064000900000023000100000000020104000000000000000000000201000000000000A500C8000401]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Castelo da Fera e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cubos Gelados<BRANCO> e
+aos <AMARELO>Cristais Nevados<BRANCO>. Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[9501840061006400030000002000010000000000020200000000000000000000370200000300000050005F00B400]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no deserto de Agrabah. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[16278A03610064000000010000000000750000000300000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2D012400750075000200000024000200000001000000000000000000000000000000000000000000000000000000]
+Investigue este novo mundo
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xigbar<BRANCO>, infiltre-se neste <AMARELO>novo
+mundo<BRANCO> e reúna informações.
+
+!------------------------------!
+- REQUISITOS -
+Realize reconhecimento neste <AMARELO>novo mundo<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6C002500760076000000000025000200000001000000000000000000000000000000000000000000000000000000]
+Férias
+!------------------------------!
+Férias aprovadas.
+!------------------------------!
+- OBJETIVO -
+Tire um <AMARELO>dia de folga<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6C002500760076000000000025000200000001000000000000000000000000000004000000000800000000000000]
+Férias
+!------------------------------!
+Férias aprovadas.
+!------------------------------!
+- OBJETIVO -
+Tire um <AMARELO>dia de folga<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[EF03260077007B000900000026000200000000000203000000000000000000000000000000000000000000000000]
+Investigue o mestre do castelo
+!------------------------------!
+- MISSÃO -
+Quem é o <AMARELO>mestre bestial deste castelo<BRANCO>?
+Junte-se a <AMARELO>Xaldin<BRANCO> para investigar e
+reunir informações.
+
+!------------------------------!
+- REQUISITOS -
+Realize reconhecimento e descubra mais sobre o <AMARELO>mestre
+do castelo<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2E01270077007B000200000027000200000000000203000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Coliseu do Olimpo e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Clay Armors<BRANCO>.
+Despache-os com <AMARELO>magia de Trovão<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2E01270077007B00020000002700020000000000020300000D000000000000000101000000000700010003000600]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Coliseu do Olimpo e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Clay Armors<BRANCO>.
+Despache-os com <AMARELO>magia de Trovão<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[2E01270077007B000200000027000200000000000203000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Coliseu do Olimpo e
+<AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5F01280077007B0002000000280002000000000001030000000000001400000002010000000000009100A000BE00]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+no Coliseu do Olimpo. Encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5F01280077007B000200000028000200000000000103000000000000000000000004000000000800000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+no Coliseu do Olimpo. Encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5F01280077007B000200000028000200000000000103000000000000000000000000000000000000000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+no Coliseu do Olimpo. Encontre-os e elimine-os
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6001290077007B000200000029000200000000030103000000000100000000000201000000000000640078008C00]
+Elimine o Morning Star
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Morning Star<BRANCO> apareceu no Coliseu
+do Olimpo. Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Morning Stars<BRANCO> são invulneráveis durante seu
+<AMARELO>ataque giratório<BRANCO>, mas você pode pará-los
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+
+Fique atento também aos <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6001290077007B000200000029000200000000030103000000000000000000000004000000000800000000000000]
+Elimine o Morning Star
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Morning Star<BRANCO> apareceu no Coliseu
+do Olimpo. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6001290077007B000200000029000200000000030103000000000000000000000000000000000000000000000000]
+Elimine o Morning Star
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Morning Star<BRANCO> apareceu no Coliseu
+do Olimpo. Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Morning Stars<BRANCO> são invulneráveis durante seu
+<AMARELO>ataque giratório<BRANCO>, mas você pode pará-los
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+
+Fique atento também aos <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[60018D0077007B000200000029000200000000030103000000000100000000001302000000000600010005000A00]
+Elimine o Morning Star
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Morning Star<BRANCO> apareceu no Coliseu
+do Olimpo. Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Morning Stars<BRANCO> são invulneráveis durante seu
+<AMARELO>ataque giratório<BRANCO>, mas você pode pará-los
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+
+Fique atento também aos <AMARELO>Zip Slashers<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Morning Star<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[17278B0377007B000000010000000000950000000100000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[59022A0095009500050000002A000200000001000000000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless neste novo mundo e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[59022A0095009500050000002A00020000000100000000000000000000001400000100000000000069008700B400]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless neste novo mundo e
+<AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[59022A0095009500050000002A000200000001000000000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless neste novo mundo e
+<AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F0032B0096009600090000002B0002000000010000000000000000000A0000000001000000000000BE00CD00F000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu no Castelo
+da Fera. Junte-se a <AMARELO>Xaldin<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Uma grande quantidade de <AMARELO>Heartless Puro-Sangue<BRANCO>
+foi avistada em campo. Relatórios indicam
+que o <AMARELO>Heartless gigante<BRANCO> que você deve
+eliminar também é da variedade <AMARELO>Puro-Sangue<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[F0032B0096009600090000002B000200000001000000000000000000000000000000000000000000000000000000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu no Castelo
+da Fera. Junte-se a <AMARELO>Xaldin<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Uma grande quantidade de <AMARELO>Heartless Puro-Sangue<BRANCO>
+foi avistada em campo. Relatórios indicam
+que o <AMARELO>Heartless gigante<BRANCO> que você deve
+eliminar também é da variedade <AMARELO>Puro-Sangue<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F0032B0096009600090000002B000200000001000000000000000000000000000004000000000800000000000000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu no Castelo
+da Fera. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6D002C0097009700000000002C00020000000100000000000000010000000000000100000000020064005C005400]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6D002C0097009700000000002C000200000001000000000000000000000000000000000000000000000000000000]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6D002C0097009700000000002C000200000001000000000000000000000000000004000000000800000000000000]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Twilight Town.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5A022D0098009C00050000002D000200000000000202000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Halloween Town e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cristais Nevados<BRANCO>.
+Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5A022D0098009C00050000002D000200000000000202000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Halloween Town e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2F012E0098009C00020000002E000200000000000203000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Coliseu do Olimpo e
+<AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[2F012E0098009C00020000002E000200000000000203000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Demyx<BRANCO>, elimine Heartless no
+Coliseu do Olimpo e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C9002F0098009C00010000002F000200000000000202000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless neste novo mundo e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>.
+<AMARELO>Bloqueie<BRANCO> suas <AMARELO>cabeçadas<BRANCO> para ganhar
+vantagem.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C9002F0098009C00010000002F000200000000000202000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless neste novo mundo e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C901300098009C000300000030000200000000000103000000000000000000000000000000000000000000000000]
+Elimine o Solid Armor
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Solid Armor<BRANCO> apareceu na Caverna
+das Maravilhas. Junte-se a <AMARELO>Xaldin<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Despache o <AMARELO>Solid Armor<BRANCO> com <AMARELO>magia de Gelo<BRANCO>.
+
+Fique atento também aos <AMARELO>Fire Plants<BRANCO> e
+aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C901300098009C0003000000300002000000000001030000140000000000000002010000000000008C00C8000401]
+Elimine o Solid Armor
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Solid Armor<BRANCO> apareceu na Caverna
+das Maravilhas. Junte-se a <AMARELO>Xaldin<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Despache o <AMARELO>Solid Armor<BRANCO> com <AMARELO>magia de Gelo<BRANCO>.
+
+Fique atento também aos <AMARELO>Fire Plants<BRANCO> e
+aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[C901300098009C000300000030000200000000000103000000000000000000000004000000000800000000000000]
+Elimine o Solid Armor
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Solid Armor<BRANCO> apareceu na Caverna
+das Maravilhas. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F103310098009C000900000031000200000000040102000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless no Castelo da Fera e
+<AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F103310098009C000900000031000200000000040102000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Xigbar<BRANCO>, elimine Heartless no
+Castelo da Fera e <AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cubos Gelados<BRANCO> e
+aos <AMARELO>Cristais Nevados<BRANCO>. Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C901940098009C000300000030000200000000000103000000000100000000000C020000000006000A000F001400]
+Elimine o Solid Armor
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Solid Armor<BRANCO> apareceu na Caverna
+das Maravilhas. Junte-se a <AMARELO>Xaldin<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Despache o <AMARELO>Solid Armor<BRANCO> com <AMARELO>magia de Gelo<BRANCO>.
+
+Fique atento também aos <AMARELO>Fire Plants<BRANCO> e
+aos <AMARELO>Large Armors<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Solid Armor<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[18278C0398009C000000010000000000AB0000000000000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F2033200AB00AB000900000032000200000001000000000000000000320000000C010000000000009600AA00D200]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Castelo da Fera. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[F2033200AB00AB000900000032000200000001000000000000000000000000000004000000000800000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Castelo da Fera. Encontre-o e elimine-o
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F2033200AB00AB000900000032000200000001000000000000000000000000000000000000000000000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Castelo da Fera. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F2039600AB00AB000900000032000200000001000000000000000000320000001E0200000000040003000A000F00]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Castelo da Fera. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[CA003300AC00AC000100000033000300000001000000000000000000000000000000000000000000000000000000]
+Elimine os Pink Concertos
+!------------------------------!
+- MISSÃO -
+<AMARELO>Pink Concertos<BRANCO> apareceram em Wonderland.
+Junte-se a <AMARELO>Luxord<BRANCO>, encontre-os e elimine-os
+imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Blizzard Plants<BRANCO>.
+Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os cinco <AMARELO>Pink Concertos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CA003300AC00AC000100000033000300000001000000000000000000000000000004000000000800000000000000]
+Elimine os Pink Concertos
+!------------------------------!
+- MISSÃO -
+<AMARELO>Pink Concertos<BRANCO> apareceram em Wonderland.
+Encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os cinco <AMARELO>Pink Concertos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5B023400AD00B0000500000034000300000000000202000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Halloween Town e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5B023400AD00B0000500000034000300000000000202000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Halloween Town e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cristais Nevados<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[85033500AD00B0000800000035000300000000000204000000000000000000000000000000000000000000000000]
+Elimine o Wavecrest
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Wavecrest<BRANCO> apareceu neste novo mundo.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Wavecrest<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[85033500AD00B0000800000035000300000000000204000000000000000000000004000000000800000000000000]
+Elimine o Wavecrest
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Wavecrest<BRANCO> apareceu neste novo mundo.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Wavecrest<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B023600AD00B0000500000036000300000000050104000000000000000000000000000000000000000000000000]
+Elimine o Dual Blade
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Dual Blade<BRANCO> apareceu em Halloween
+Town. Junte-se a <AMARELO>Demyx<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B023600AD00B0000500000036000300000000050104000000000000000000000004000000000800000000000000]
+Elimine o Dual Blade
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Dual Blade<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B023600AD00B00005000000360003000000000501040000000001000000000005010000000000003C004B005A00]
+Elimine o Dual Blade
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Dual Blade<BRANCO> apareceu em Halloween
+Town. Junte-se a <AMARELO>Demyx<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FB003700AD00B00001000000370003000000000001020000000000001400000001010000000000009100B400DC00]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Junte-se a
+<AMARELO>Luxord<BRANCO> e coletar os numerosos
+<AMARELO>emblemas da Organização<BRANCO> que colocamos
+por Wonderland.
+
+- INFORMAÇÃO -
+Demonstre que você <AMARELO>conhece o terreno<BRANCO> bem
+o suficiente para formular <AMARELO>sua própria rota<BRANCO>.
+Correr atrás do primeiro emblema que você vir só
+vai te fazer perder tempo.
+
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FB003700AD00B0000100000037000300000000000102000000000000000000000000000000000000000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Junte-se a
+<AMARELO>Luxord<BRANCO> e coletar os numerosos
+<AMARELO>emblemas da Organização<BRANCO> que colocamos
+por Wonderland.
+
+- INFORMAÇÃO -
+Demonstre que você <AMARELO>conhece o terreno<BRANCO> bem
+o suficiente para formular <AMARELO>sua própria rota<BRANCO>.
+Correr atrás do primeiro emblema que você vir só
+vai te fazer perder tempo.
+
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FB003700AD00B0000100000037000300000000000102000000000000000000000004000000000800000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Coletar os
+numerosos <AMARELO>emblemas da Organização<BRANCO> que
+colocamos por Wonderland.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8B029A00AD00B000050000003600030000000005010400000A00000000001E000002000000000400010005000A00]
+Elimine o Dual Blade
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Dual Blade<BRANCO> apareceu em Halloween
+Town. Junte-se a <AMARELO>Demyx<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Dual Blade<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[19278D03AD00B0000000010000000000C10000000100000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6E003800C100C10000000000380003000000010000000000000004001E0000000001000000000000D200F0002C01]
+Elimine ambos os Heartless gigantes
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heat Saber<BRANCO> e um <AMARELO>Destroyer<BRANCO> apareceram
+em Twilight Town. Junte-se a <AMARELO>Axel<BRANCO> e <AMARELO>Xion<BRANCO>,
+encontre esses Heartless e elimine-os
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote os <AMARELO>dois Heartless gigantes<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6E003800C100C1000000000038000300000001000000000000000000000000000000000000000000000000000000]
+Elimine ambos os Heartless gigantes
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heat Saber<BRANCO> e um <AMARELO>Destroyer<BRANCO> apareceram
+em Twilight Town. Junte-se a <AMARELO>Axel<BRANCO> e <AMARELO>Xion<BRANCO>,
+encontre esses Heartless e elimine-os
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote os <AMARELO>dois Heartless gigantes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6E003800C100C1000000000038000300000001000000000000000000000000000004000000000800000000000000]
+Elimine ambos os Heartless gigantes
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heat Saber<BRANCO> e um <AMARELO>Destroyer<BRANCO> apareceram
+em Twilight Town. Encontre-os e elimine-os
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote os <AMARELO>dois Heartless gigantes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CB003900C200C5000100000039000300000000000202000000000000000000000000000000000000000000000000]
+Elimine os Commanders
+!------------------------------!
+- MISSÃO -
+<AMARELO>Commanders<BRANCO> apareceram em Wonderland.
+Junte-se a <AMARELO>Luxord<BRANCO>, encontre-os e
+elimine-os imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Blizzard Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Commanders<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CB003900C200C5000100000039000300000000000202000000000000000000000004000000000800000000000000]
+Elimine os Commanders
+!------------------------------!
+- MISSÃO -
+<AMARELO>Commanders<BRANCO> apareceram em Wonderland.
+Encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Commanders<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CB003900C200C50001000000390003000000000002020000000004001E0000000001000000000000550078009600]
+Elimine os Commanders
+!------------------------------!
+- MISSÃO -
+<AMARELO>Commanders<BRANCO> apareceram em Wonderland.
+Junte-se a <AMARELO>Luxord<BRANCO>, encontre-os e
+elimine-os imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Blizzard Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Commanders<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[86033A00C200C500080000003A000300000000000203000000000000000000000000000000000000000000000000]
+Elimine os Artful Flyers
+!------------------------------!
+- MISSÃO -
+<AMARELO>Artful Flyers<BRANCO> apareceram em Never Land.
+Junte-se a <AMARELO>Axel<BRANCO>, encontre-os e elimine-os
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Artful Flyers<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[86033A00C200C500080000003A000300000000000203000000000000000000000004000000000800000000000000]
+Elimine os Artful Flyers
+!------------------------------!
+- MISSÃO -
+<AMARELO>Artful Flyers<BRANCO> apareceram em Never Land.
+Encontre-os e elimine-os imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Artful Flyers<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[86033A00C200C500080000003A0003000000000002030000000000001E001E0000010000000001003A02F401C201]
+Elimine os Artful Flyers
+!------------------------------!
+- MISSÃO -
+<AMARELO>Artful Flyers<BRANCO> apareceram em Never Land.
+Junte-se a <AMARELO>Axel<BRANCO>, encontre-os e elimine-os
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Artful Flyers<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[A0003B00C200C500000000003B0003000000000601030000000004000000000001010000000000008200A000BE00]
+Coletar fragmentos brilhantes
+!------------------------------!
+- MISSÃO -
+Para prepará-lo para missões futuras, nós
+o encorajamos a <AMARELO>sintetizar<BRANCO> novos painéis.
+Vá até Twilight Town, elimine Heartless
+e coletar <AMARELO>fragmentos brilhantes<BRANCO> que você pode usar
+como materiais.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar três <AMARELO>fragmentos brilhantes<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[A0003B00C200C500000000003B000300000000060103000000000000000000000000000000000000000000000000]
+Coletar fragmentos brilhantes
+!------------------------------!
+- MISSÃO -
+Para prepará-lo para missões futuras, nós
+o encorajamos a <AMARELO>sintetizar<BRANCO> novos painéis.
+Vá até Twilight Town, elimine Heartless
+e coletar <AMARELO>fragmentos brilhantes<BRANCO> que você pode usar
+como materiais.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Poison Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar três <AMARELO>fragmentos brilhantes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[A0003B00C200C500000000003B000300000000060103000000000000000000000004000000000800000000000000]
+Coletar fragmentos brilhantes
+!------------------------------!
+- MISSÃO -
+Para prepará-lo para missões futuras, nós
+o encorajamos a <AMARELO>sintetizar<BRANCO> novos painéis.
+Vá até Twilight Town, elimine Heartless
+e coletar <AMARELO>fragmentos brilhantes<BRANCO> que você pode usar
+como materiais.
+!------------------------------!
+- REQUISITOS -
+Coletar três <AMARELO>fragmentos brilhantes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B9033C00C200C500080000003C000300000000000104000000000000000000000000000000000000000000000000]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B9033C00C200C500080000003C000300000000000104000000000000000000000004000000000800000000000000]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B9033C00C200C500080000003C00030000000000010400001B000100000000000001000000000000550073009600]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[B903A000C200C500080000003C000300000000000104000014000100000000000002000000000400010003000A00]
+Elimine o Avalanche
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Avalanche<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Avalanche<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1A278E03C200C5000000010000000000E00000000100000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[30013D00E000E000020000003D000300000001000000000000000000000000000004000000000800000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Coliseu do Olimpo. Encontre-o e elimine-o
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[30013D00E000E000020000003D000300000001000000000014000100000000000001000000000400060023003200]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Coliseu do Olimpo. Junte-se a <AMARELO>Demyx<BRANCO>,
+encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[30013D00E000E000020000003D000300000001000000000000000000000000000000000000000000000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Coliseu do Olimpo. Junte-se a <AMARELO>Demyx<BRANCO>,
+encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[3001A100E000E000020000003D000300000001000000000000000100000000001E020000000000009F01BD01F901]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+no Coliseu do Olimpo. Junte-se a <AMARELO>Demyx<BRANCO>,
+encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5C023E00E100E300050000003E000400000000000204000000000000000000000000000000000000000000000000]
+Elimine o Carrier Ghost
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Carrier Ghost<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cristais Nevados<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Carrier Ghost<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5C023E00E100E300050000003E000400000000000204000000000000000000000201000009000000B400D200F000]
+Elimine o Carrier Ghost
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Carrier Ghost<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cristais Nevados<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Carrier Ghost<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5C023E00E100E300050000003E000400000000000204000000000000000000000004000000000800000000000000]
+Elimine o Carrier Ghost
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Carrier Ghost<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Carrier Ghost<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FD003F00E100E300010000003F000400000000070104000000000000000000000004000000000800000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Wonderland.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem mais pode ter consequências graves
+e imprevisíveis. Destrua-os assim que os vir.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FD003F00E100E300010000003F000400000000070104000000000000000000000000000000000000000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Wonderland.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem mais pode ter consequências graves
+e imprevisíveis. Junte-se a <AMARELO>Xion<BRANCO> e destrua-os
+assim que os vir.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FD003F00E100E300010000003F0004000000000701040000000002000000000000010000090000009600B400D200]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Wonderland.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem mais pode ter consequências graves
+e imprevisíveis. Junte-se a <AMARELO>Xion<BRANCO> e destrua-os
+assim que os vir.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[B8034000E100E3000800000040000400000000080104000000000000000000000000000000000000000000000000]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Never Land.
+Junte-se a <AMARELO>Axel<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+- INFORMAÇÃO -
+Tentar acompanhar um <AMARELO>Emerald Serenade<BRANCO>
+é um exercício inútil. Monte uma <AMARELO>emboscada<BRANCO>
+se necessário e espere sua chance de atacar.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B8034000E100E3000800000040000400000000080104000000000000000000000004000000000800000000000000]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1B278F03E100E3000000010000000000FF0000000200000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CC004100FF00FF000100000041000400000001000000000000000000000000000004000000000800000000000000]
+Elimine o Novashadow
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Novashadow<BRANCO> apareceu em Wonderland.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Novashadow<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CC004100FF00FF000100000041000400000001000000000000000000000000000000000000000000000000000000]
+Elimine o Novashadow
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Novashadow<BRANCO> apareceu em Wonderland.
+Junte-se a <AMARELO>Luxord<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Novashadow<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5D024200000102010500000042000400000000000204000000000000000000000004000000000800000000000000]
+Restaure os Heartless da cidade
+!------------------------------!
+- MISSÃO -
+A população de Heartless em Halloween Town
+mostrou uma queda repentina. Descubra o que
+está causando essa <AMARELO>escassez de Heartless<BRANCO> e
+resolva a situação.
+!------------------------------!
+- REQUISITOS -
+Restaure a <AMARELO>população de Heartless<BRANCO> ao normal.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5D024200000102010500000042000400000000000204000023000200000000000001000000000000360190013A02]
+Restaure os Heartless da cidade
+!------------------------------!
+- MISSÃO -
+A população de Heartless em Halloween Town
+mostrou uma queda repentina. Descubra o que
+está causando essa <AMARELO>escassez de Heartless<BRANCO> e
+resolva a situação.
+!------------------------------!
+- REQUISITOS -
+Restaure a <AMARELO>população de Heartless<BRANCO> ao normal.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[5D024200000102010500000042000400000000000204000000000000000000000000000000000000000000000000]
+Restaure os Heartless da cidade
+!------------------------------!
+- MISSÃO -
+A população de Heartless em Halloween Town
+mostrou uma queda repentina. Descubra o que está
+causando essa <AMARELO>escassez de Heartless<BRANCO> e
+resolva a situação.
+!------------------------------!
+- REQUISITOS -
+Restaure a <AMARELO>população de Heartless<BRANCO> ao normal.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FC004300000102010100000043000400000000000104000000000000000000000000000000000000000000000000]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Wonderland.
+Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-o e elimine-o
+imediatamente.
+
+- INFORMAÇÃO -
+Tentar acompanhar um <AMARELO>Emerald Serenade<BRANCO>
+é um exercício em vão. Prepare uma <AMARELO>emboscada<BRANCO>
+se necessário e espere sua chance de
+atacar.
+
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>
+e às <AMARELO>Blizzard Plants<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FC004300000102010100000043000400000000000104000000000000000000000004000000000800000000000000]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Wonderland.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C8014400000102010300000044000400000000000104000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Agrabah e <AMARELO>coletar
+corações<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também às <AMARELO>Fire Plants<BRANCO> e
+aos <AMARELO>Solid Armors<BRANCO>. Despache os <AMARELO>Solid Armors<BRANCO>
+com <AMARELO>magia de Gelo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[C8014400000102010300000044000400000000000104000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Agrabah e <AMARELO>coletar
+corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5D02A600000102010500000042000400000000000204000000000000140000003202000000000400050014002300]
+Restaure os Heartless da cidade
+!------------------------------!
+- MISSÃO -
+A população de Heartless em Halloween Town
+mostrou uma queda repentina. Descubra o que está
+causando essa <AMARELO>escassez de Heartless<BRANCO> e
+resolva a situação.
+!------------------------------!
+- REQUISITOS -
+Restaure a <AMARELO>população de Heartless<BRANCO> ao normal.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1C279003000102010000010000000000140100000300000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD004500150118010100000045000400000000000203000000000000000000000004000000000800000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+em Wonderland. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+[CD004500150118010100000045000400000000000203000000000000000000000004000000000800000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+em Wonderland. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD004500150118010100000045000400000000000203000000000000000000000000000000000000000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+em Wonderland. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD0045001501180101000000450004000000000002030000000000000000000016010000090004000A000F001400]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+em Wonderland. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1E044600150118010900000046000400000000000103000000000000000000000000000000000000000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+no Castelo da Fera. Junte-se a
+<AMARELO>Axel<BRANCO>, encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1E0446001501180109000000460004000000000001030000000002001E000000000100000000000055006E009600]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+no Castelo da Fera. Junte-se a
+<AMARELO>Axel<BRANCO>, encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1E044600150118010900000046000400000000000103000000000000000000000004000000000800000000000000]
+Elimine os Deserters
+!------------------------------!
+- MISSÃO -
+Heartless raros chamados <AMARELO>Deserters<BRANCO> apareceram
+no Castelo da Fera. Encontre-os e
+elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os <AMARELO>Deserters<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[480547001501180104000000470004000000000A0102000000000200000000000001000000000300C800B4009600]
+Prove sua resistência
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>habilidade de combate<BRANCO>.
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>dois
+minutos<BRANCO> na arena que preparamos para você
+no castelo. Lute ou fuja<2015>mas, seja o que
+for que você faça, pense rápido.
+!------------------------------!
+- REQUISITOS -
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>dois
+minutos<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[480547001501180104000000470004000000000A0102000000000000000000000000000000000000000000000000]
+Prove sua resistência
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>habilidade de combate<BRANCO>.
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>dois
+minutos<BRANCO> na arena que preparamos para você
+no castelo. Lute ou fuja<2015>mas, seja o que
+for que você faça, pense rápido.
+!------------------------------!
+- REQUISITOS -
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>dois
+minutos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[480547001501180104000000470004000000000A0102000000000000000000000004000000000800000000000000]
+Prove sua resistência
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>habilidade de combate<BRANCO>.
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>dois
+minutos<BRANCO> na arena que preparamos para você
+no castelo. Lute ou fuja<2015>mas, seja o que
+for que você faça, pense rápido.
+!------------------------------!
+- REQUISITOS -
+<AMARELO>Prove sua resistência<BRANCO> sobrevivendo por <AMARELO>dois
+minutos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8C024800150118010500000048000400000000000104000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Luxord<BRANCO>, elimine Heartless em
+Halloween Town e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8C024800150118010500000048000400000000000104000000000100000000001901000000000000B900D700F500]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Junte-se a <AMARELO>Luxord<BRANCO>, elimine Heartless em
+Halloween Town e <AMARELO>coletar corações<BRANCO>.
+
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8C024800150118010500000048000400000000000104000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Halloween Town e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[CD00A900150118010100000045000400000000000203000000000000000000001E020000030000008700C8002C01]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante não identificado<BRANCO> apareceu
+em Wonderland. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante não identificado<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1E279203150118010000010000000000280100000300000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[62014900280128010200000049000500000001000000000000000000000000000000000000000000000000000000]
+Derrote Heartless nos Jogos
+!------------------------------!
+- MISSÃO -
+Participe dos <AMARELO>Jogos<BRANCO> realizados no Coliseu
+do Olimpo e elimine todos os Heartless.
+
+!------------------------------!
+- REQUISITOS -
+Vença os <AMARELO>Jogos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[62014900280128010200000049000500000001000000000000000000000000000004000000000800000000000000]
+Derrote Heartless nos Jogos
+!------------------------------!
+- MISSÃO -
+Participe dos <AMARELO>Jogos<BRANCO> realizados no Coliseu
+do Olimpo e elimine todos os Heartless.
+
+!------------------------------!
+- REQUISITOS -
+Vença os <AMARELO>Jogos<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[62014900280128010200000049000500000001000000000000000200000000000301000000000000D2002C016801]
+Derrote Heartless nos Jogos
+!------------------------------!
+- MISSÃO -
+Participe dos <AMARELO>Jogos<BRANCO> realizados no Coliseu
+do Olimpo e elimine todos os Heartless.
+
+!------------------------------!
+- REQUISITOS -
+Vença os <AMARELO>Jogos<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[6F004A0029012901000000004A000500000001000000000000000000000000000000000000000000000000000000]
+Procure pelo impostor
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>impostor da Organização<BRANCO> foi avistado no
+Castelo do Esquecimento. Junte-se a <AMARELO>Axel<BRANCO> e
+procure por ele.
+!------------------------------!
+- REQUISITOS -
+Localize o <AMARELO>impostor da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6F004A0029012901000000004A0005000000010000000000000006000000000000010000030000005A0078009600]
+Procure pelo impostor
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>impostor da Organização<BRANCO> foi avistado no
+Castelo do Esquecimento. Junte-se a <AMARELO>Axel<BRANCO> e
+procure por ele.
+!------------------------------!
+- REQUISITOS -
+Localize o <AMARELO>impostor da Organização<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[70004B002A012A01000000004B000500000001000000000000000600000000000001090000000000C8002C01A401]
+Elimine o impostor
+!------------------------------!
+- MISSÃO -
+O <AMARELO>impostor da Organização<BRANCO> apareceu em
+Twilight Town. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>impostor da Organização<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[70004B002A012A01000000004B000500000001000000000000000000000000000000000000000000000000000000]
+Elimine o impostor
+!------------------------------!
+- MISSÃO -
+O <AMARELO>impostor da Organização<BRANCO> apareceu em
+Twilight Town. Encontre-o e elimine-o
+imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>impostor da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[BA034C002B012B01080000004C000500000001000000000000000000000000000000000000000000000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Never Land.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[BA034C002B012B01080000004C00050000000100000000001E0000000000000000010900000000003C007800B400]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Never Land.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[BA034C002B012B01080000004C000500000001000000000000000000000000000004000000000800000000000000]
+Destrua os shadow globs
+!------------------------------!
+- MISSÃO -
+<AMARELO>Shadow globs<BRANCO> invadiram Never Land.
+Eles foram considerados inofensivos por
+enquanto; no entanto, permitir que se
+propaguem ainda mais pode ter consequências
+graves e imprevisíveis. Destrua-os ao avistá-los.
+!------------------------------!
+- REQUISITOS -
+Destrua os <AMARELO>shadow globs<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[87034D002C012C01080000004D000500000001000000000000000000000000000004000000000800000000000000]
+Elimine o Phantomtail
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Phantomtail<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Phantomtail<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[87034D002C012C01080000004D000500000001000000000000000000000000000000000000000000000000000000]
+Elimine o Phantomtail
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Phantomtail<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Phantomtails<BRANCO> não podem ser feridos por golpes
+na cabeça e, em vez disso, irão <AMARELO>se teletransportar<BRANCO> para um
+local remoto.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Phantomtail<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[87034D002C012C01080000004D0005000000010000000000000002000000000009010000000000004B0069009600]
+Elimine o Phantomtail
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Phantomtail<BRANCO> apareceu em Never Land.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Phantomtails<BRANCO> não podem ser feridos por golpes
+na cabeça e, em vez disso, irão <AMARELO>se teletransportar<BRANCO> para um
+local remoto.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Phantomtail<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[88034E002D013001080000004E000500000000000201000000000000000000000000000000000000000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Detectamos uma <AMARELO>leitura poderosa de Heartless<BRANCO> em
+Never Land. Encontre e elimine sua fonte
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Encontre e derrote o <AMARELO>Heartless<BRANCO> em questão.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[88034E002D013001080000004E000500000000000201000000000000000000000004000000000800000000000000]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Detectamos uma <AMARELO>leitura poderosa de Heartless<BRANCO> em
+Never Land. Encontre e elimine sua fonte
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Encontre e derrote o <AMARELO>Heartless<BRANCO> em questão.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[88034E002D013001080000004E000500000000000201000028000200000000000001000000000500000014003C00]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Detectamos uma <AMARELO>leitura poderosa de Heartless<BRANCO> em
+Never Land. Encontre e elimine sua fonte
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Encontre e derrote o <AMARELO>Heartless<BRANCO> em questão.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8E024F002D013001050000004F000500000000000101000000000000000000000000000000000000000000000000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu 
+em Halloween Town. <AMARELO>Xigbar<BRANCO> já 
+está em campo; encontre-se com ele e elimine o
+alvo.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cubos Gelados<BRANCO>.
+Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8E024F002D013001050000004F000500000000000101000000000000000000000004000000000800000000000000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8E024F002D013001050000004F00050000000000010100003C000000000000000D0100000000000004012C016801]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu
+em Halloween Town. <AMARELO>Xigbar<BRANCO> já
+está em campo; encontre-se com ele e elimine o
+alvo.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cubos Gelados<BRANCO>.
+Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1D0450002D01300109000000500005000000000B0102000000000000000000000004000000000800000000000000]
+Quebre os jarros
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>sorte<BRANCO>. Quebre os <AMARELO>jarros<BRANCO> que
+preparamos para você no Castelo da Fera.
+!------------------------------!
+- REQUISITOS -
+Quebre 15 <AMARELO>jarros<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1D0450002D01300109000000500005000000000B0102000000000000000000000000000000000000000000000000]
+Quebre os jarros
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>sorte<BRANCO>. Quebre os <AMARELO>jarros<BRANCO> que
+preparamos para você no Castelo da Fera.
+
+- INFORMAÇÃO -
+Alguns dos <AMARELO>jarros<BRANCO> foram armados para
+liberar <AMARELO>adversários poderosos<BRANCO> quando quebrados.
+Se sua sorte falhar e isso acontecer,
+evite enfrentar o inimigo e foque em
+quebrar o resto dos jarros.
+!------------------------------!
+- REQUISITOS -
+Quebre 15 <AMARELO>jarros<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1D0450002D01300109000000500005000000000B010200001E000000000000000001000000000200640059004B00]
+Quebre os jarros
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>sorte<BRANCO>. Quebre os <AMARELO>jarros<BRANCO> que
+preparamos para você no Castelo da Fera.
+
+- INFORMAÇÃO -
+Alguns dos <AMARELO>jarros<BRANCO> foram armados para
+liberar <AMARELO>adversários poderosos<BRANCO> quando quebrados.
+Se sua sorte falhar e isso acontecer,
+evite enfrentar o inimigo e foque em
+quebrar o resto dos jarros.
+!------------------------------!
+- REQUISITOS -
+Quebre 15 <AMARELO>jarros<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FE0051002D0130010100000051000500000000000108000000000000000000000004000000000800000000000000]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Wonderland.
+Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FE0051002D0130010100000051000500000000000108000000000000000000000000000000000000000000000000]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Wonderland.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Tentar acompanhar um <AMARELO>Emerald Serenade<BRANCO>
+é um exercício em vão. Prepare uma <AMARELO>emboscada<BRANCO>
+se necessário e espere sua chance de
+atacar.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FE0051002D0130010100000051000500000000000108000000000000000032001101000000000000F50013013101]
+Elimine o Emerald Serenade
+!------------------------------!
+- MISSÃO -
+Um Heartless raro chamado <AMARELO>Emerald
+Serenade<BRANCO> apareceu em Wonderland.
+Encontre-o e elimine-o imediatamente.
+
+- INFORMAÇÃO -
+Tentar acompanhar um <AMARELO>Emerald Serenade<BRANCO>
+é um exercício em vão. Prepare uma <AMARELO>emboscada<BRANCO>
+se necessário e espere sua chance de
+atacar.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Emerald Serenade<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8803B2002D013001080000004E0005000000000002010000140000001E0000000002000000000000D1012B026702]
+Derrote a ameaça Heartless
+!------------------------------!
+- MISSÃO -
+Detectamos uma <AMARELO>leitura poderosa de Heartless<BRANCO> em
+Never Land. Encontre e elimine sua fonte
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Encontre e derrote o <AMARELO>Heartless<BRANCO> em questão.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1F2793032D0130010000010000000000410100000200000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[96015200410141010300000052000500000001000000000000000000000000000000000000000000000000000000]
+Elimine o Spiked Crawler
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Spiked Crawler<BRANCO> apareceu na Caverna
+das Maravilhas. Junte-se a <AMARELO>Xion<BRANCO>, encontre-o e
+elimine-o imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Spiked Crawlers<BRANCO> são invulneráveis durante
+seu <AMARELO>ataque giratório<BRANCO>, mas você pode pará-los
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+
+Fique atento também aos <AMARELO>Solid Armors<BRANCO>.
+Despache-os com <AMARELO>magia de Gelo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Spiked Crawler<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[96015200410141010300000052000500000001000000000000000000000000000004000000000800000000000000]
+Elimine o Spiked Crawler
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Spiked Crawler<BRANCO> apareceu na Caverna
+das Maravilhas. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Spiked Crawler<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[F3035300420146010900000053000500000000000102000000000000000000000000000000000000000000000000]
+Procure por Xaldin
+!------------------------------!
+- MISSÃO -
+<AMARELO>Xaldin<BRANCO> desapareceu no Castelo da Fera.
+Procure por ele.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Cristais Nevados<BRANCO>
+e aos <AMARELO>Cubos Gelados<BRANCO>. Despache-os com <AMARELO>magia de Fogo<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Localize <AMARELO>Xaldin<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[640154004201460102000000540005000000000D010200002D000000320000000001000000000400000001000200]
+Elimine a Esfera Ardente
+!------------------------------!
+- MISSÃO -
+Uma <AMARELO>Esfera Ardente<BRANCO> apareceu no Coliseu
+do Olimpo. Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-a e
+elimine-a imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Esferas Ardentes<BRANCO> são invulneráveis durante
+seu <AMARELO>ataque giratório<BRANCO>, mas você pode pará-las
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote a <AMARELO>Esfera Ardente<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[640154004201460102000000540005000000000D0102000000000000000000000000000000000000000000000000]
+Elimine a Esfera Ardente
+!------------------------------!
+- MISSÃO -
+Uma <AMARELO>Esfera Ardente<BRANCO> apareceu no Coliseu
+do Olimpo. Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-a e
+elimine-a imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Esferas Ardentes<BRANCO> são invulneráveis durante
+seu <AMARELO>ataque giratório<BRANCO>, mas você pode pará-las
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote a <AMARELO>Esfera Ardente<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[640154004201460102000000540005000000000D0102000000000000000000000004000000000800000000000000]
+Elimine a Esfera Ardente
+!------------------------------!
+- MISSÃO -
+Uma <AMARELO>Esfera Ardente<BRANCO> apareceu no
+Coliseu do Olimpo. Encontre-a e elimine-a
+imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote a <AMARELO>Esfera Ardente<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FF0055004201460101000000550005000000000002020000000002000000000000010000030000002C0168018601]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Wonderland e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Aviso: você deve levar <AMARELO>lançamentos extras de
+magia<BRANCO> para o campo nesta missão.
+
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[FF005500420146010100000055000500000000000202000000000000000000000000000000000000000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Wonderland e
+<AMARELO>coletar corações<BRANCO>.
+
+- INFORMAÇÃO -
+Aviso: você deve levar <AMARELO>lançamentos extras de
+magia<BRANCO> para o campo nesta missão.
+
+Fique atento também aos <AMARELO>Sapphire Elegies<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[FF005500420146010100000055000500000000000202000000000000000000000004000000000800000000000000]
+Coletar corações
+!------------------------------!
+- MISSÃO -
+Elimine Heartless em Wonderland e
+<AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote Heartless e <AMARELO>coletar corações<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B7035600420146010800000056000500000000000103000000000000000000000004000000000800000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Coletar os
+numerosos <AMARELO>emblemas da Organização<BRANCO> que
+colocamos por Never Land.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[B703560042014601080000005600050000000000010300002D00000000000000000106000000000046005A007800]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Junte-se a
+<AMARELO>Luxord<BRANCO> e coletar os numerosos
+<AMARELO>emblemas da Organização<BRANCO> que colocamos
+por Never Land.
+
+- INFORMAÇÃO -
+Demonstre que você <AMARELO>conhece o terreno<BRANCO> bem
+o suficiente para formular <AMARELO>sua própria rota<BRANCO>.
+Correr atrás do primeiro emblema que você vir só
+vai te fazer perder tempo.
+
+Fique atento também aos <AMARELO>Phantomtails<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[B7035600420146010800000056000500000000000103000000000000000000000000000000000000000000000000]
+Coletar emblemas da Organização
+!------------------------------!
+- MISSÃO -
+Aqui avaliaremos sua aptidão para
+missões futuras ao conduzir uma
+avaliação da sua <AMARELO>movilidade<BRANCO>. Junte-se a
+<AMARELO>Luxord<BRANCO> e coletar os numerosos
+<AMARELO>emblemas da Organização<BRANCO> que colocamos
+por Never Land.
+
+- INFORMAÇÃO -
+Demonstre que você <AMARELO>conhece o terreno<BRANCO> bem
+o suficiente para formular <AMARELO>sua própria rota<BRANCO>.
+Correr atrás do primeiro emblema que você vir só
+vai te fazer perder tempo.
+
+Fique atento também aos <AMARELO>Phantomtails<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coletar <AMARELO>emblemas da Organização<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8D0257004201460105000000570005000000000E01030000000000003200000003010000000000003C005A007800]
+Elimine os Windstorms
+!------------------------------!
+- MISSÃO -
+<AMARELO>Windstorms<BRANCO> apareceram em Halloween
+Town. Encontre-os e elimine-os imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8D0257004201460105000000570005000000000E0103000000000000000000000004000000000800000000000000]
+Elimine os Windstorms
+!------------------------------!
+- MISSÃO -
+<AMARELO>Windstorms<BRANCO> apareceram em Halloween
+Town. Encontre-os e elimine-os imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[8D0257004201460105000000570005000000000E0103000000000000000000000000000000000000000000000000]
+Elimine os Windstorms
+!------------------------------!
+- MISSÃO -
+<AMARELO>Windstorms<BRANCO> apareceram em Halloween
+Town. Encontre-os e elimine-os imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[6401B8004201460102000000540005000000000D01020000280000000000000000020600000000002D003C005A00]
+Elimine a Esfera Ardente
+!------------------------------!
+- MISSÃO -
+Uma <AMARELO>Esfera Ardente<BRANCO> apareceu no Coliseu
+do Olimpo. Junte-se a <AMARELO>Xigbar<BRANCO>, encontre-a e
+elimine-a imediatamente.
+
+- INFORMAÇÃO -
+<AMARELO>Esferas Ardentes<BRANCO> são invulneráveis durante
+seu <AMARELO>ataque giratório<BRANCO>, mas você pode pará-las
+usando <AMARELO>bloqueios<BRANCO> ou uma <AMARELO>certa magia<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Derrote a <AMARELO>Esfera Ardente<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[8D02BB004201460105000000570005000000000E010300000000000000000000140200000000040005000A000F00]
+Elimine os Windstorms
+!------------------------------!
+- MISSÃO -
+<AMARELO>Windstorms<BRANCO> apareceram em Halloween
+Town. Encontre-os e elimine-os imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote todos os três <AMARELO>Windstorms<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[20279403420146010000010000000000600100000200000000000000000000000000000000000000000000000000]
+PRÓXIMO DIA
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5E025800600160010500000058000500000001000000000000000000000000000004000000000800000000000000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[5E025800600160010500000058000500000001000000000000000000000000000000000000000000000000000000]
+Elimine o Heartless gigante
+!------------------------------!
+- MISSÃO -
+Um <AMARELO>Heartless gigante<BRANCO> apareceu em Halloween
+Town. Encontre-o e elimine-o imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote o <AMARELO>Heartless gigante<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[71005900610161010000000059000500000001000000000000000000000000000004000000000800000000000000]
+Elimine seis Heartless gigantes
+!------------------------------!
+- MISSÃO -
+<AMARELO>Vários Heartless gigantes<BRANCO> apareceram em
+Twilight Town. Elimine pelo menos seis deles.
+!------------------------------!
+- REQUISITOS -
+Derrote seis <AMARELO>Heartless gigantes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[71005900610161010000000059000500000001000000000000000000320000000A0100000000040005000F001400]
+Elimine seis Heartless gigantes
+!------------------------------!
+- MISSÃO -
+<AMARELO>Vários Heartless gigantes<BRANCO> apareceram em
+Twilight Town. Elimine pelo menos seis deles.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Dustfliers<BRANCO>.
+Eles estão facilmente na <AMARELO>classe mais forte<BRANCO> de
+Heartless. Prepare-se adequadamente.
+!------------------------------!
+- REQUISITOS -
+Derrote seis <AMARELO>Heartless gigantes<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[71005900610161010000000059000500000001000000000000000000000000000000000000000000000000000000]
+Elimine seis Heartless gigantes
+!------------------------------!
+- MISSÃO -
+<AMARELO>Vários Heartless gigantes<BRANCO> apareceram em
+Twilight Town. Elimine pelo menos seis deles.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Dustfliers<BRANCO>.
+Eles estão facilmente na <AMARELO>classe mais forte<BRANCO> de
+Heartless. Prepare-se adequadamente.
+!------------------------------!
+- REQUISITOS -
+Derrote seis <AMARELO>Heartless gigantes<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[7100BD0061016101000000005900050000000100000000003C00020000000000000200000000010020035802D200]
+Elimine seis Heartless gigantes
+!------------------------------!
+- MISSÃO -
+<AMARELO>Vários Heartless gigantes<BRANCO> apareceram em
+Twilight Town. Elimine pelo menos seis deles.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Dustfliers<BRANCO>.
+Eles estão facilmente na <AMARELO>classe mais forte<BRANCO> de
+Heartless. Prepare-se adequadamente.
+!------------------------------!
+- REQUISITOS -
+Derrote seis <AMARELO>Heartless gigantes<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[97015A0062016201030000005A000500000001000000000000000000000000000004000000000800000000000000]
+Coloque o dispositivo
+!------------------------------!
+- MISSÃO -
+Instale o <AMARELO>dispositivo<BRANCO> que fornecemos a você na
+<AMARELO>câmara da lâmpada<BRANCO> da <AMARELO>Caverna das Maravilhas<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coloque o <AMARELO>dispositivo<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[97015A0062016201030000005A000500000001000000000000000000000000000000000000000000000000000000]
+Coloque o dispositivo
+!------------------------------!
+- MISSÃO -
+Instale o <AMARELO>dispositivo<BRANCO> que fornecemos a você na
+<AMARELO>câmara da lâmpada<BRANCO> da <AMARELO>Caverna das Maravilhas<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Land Armors<BRANCO>.
+Despache-os com <AMARELO>magia Aero<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coloque o <AMARELO>dispositivo<BRANCO>.
+
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[97015A0062016201030000005A000500000001000000000000000000000032000A01000000000000B400F0002C01]
+Coloque o dispositivo
+!------------------------------!
+- MISSÃO -
+Instale o <AMARELO>dispositivo<BRANCO> que fornecemos a você na
+<AMARELO>câmara da lâmpada<BRANCO> da <AMARELO>Caverna das Maravilhas<BRANCO>.
+
+- INFORMAÇÃO -
+Fique atento também aos <AMARELO>Land Armors<BRANCO>.
+Despache-os com <AMARELO>magia Aero<BRANCO>.
+!------------------------------!
+- REQUISITOS -
+Coloque o <AMARELO>dispositivo<BRANCO>.
+
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[14055B0063016301040000005B000500000001000000000000000000000000000004000000000800000000000000]
+Fuja do castelo
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+<AMARELO>Fuja do Castelo Que Nunca Foi<BRANCO>, e
+derrote qualquer um e qualquer coisa que ficar no seu
+caminho.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[14055B0063016301040000005B000500000001000000000000000000000000000000000000000000000000000000]
+Fuja do castelo
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+<AMARELO>Fuja do Castelo Que Nunca Foi<BRANCO>, e
+derrote qualquer um e qualquer coisa que ficar no seu
+caminho.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[14055B0063016301040000005B0005000000010000000000000006000000000014010000000004000A0014001E00]
+Fuja do castelo
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+<AMARELO>Fuja do Castelo Que Nunca Foi<BRANCO>, e
+derrote qualquer um e qualquer coisa que ficar no seu
+caminho.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[1405BF0063016301040000005B00050000000100000000000000000000000000190206000000000073009600F000]
+Fuja do castelo
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+<AMARELO>Fuja do Castelo Que Nunca Foi<BRANCO>, e
+derrote qualquer um e qualquer coisa que ficar no seu
+caminho.
+!------------------------------ testar!
+%s
+!------------------------------!
+
+!******************************!
+[72005C0065016501000000005C00060000000100000000003C000000000000000F01000000000400300048005800]
+Xion
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo enorme<BRANCO> que
+apareceu na praça da estação.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[72005C0065016501000000005C000600000001000000000000000000000000000000000000000000000000000000]
+Xion
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo enorme<BRANCO> que
+apareceu na praça da estação.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[72005C0065016501000000005C000600000001000000000000000000000000000004000000000800000000000000]
+Xion
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo enorme<BRANCO> que
+apareceu na praça da estação.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[7200C00065016501000000005C000600000001000000000000000200000000001E020000000000005802DA025203]
+Xion
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo enorme<BRANCO> que
+apareceu na praça da estação.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[15055D0066016601040000005D000600000001000000000000000000000000000000000000000000000000000000]
+Acredite
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo misterioso<BRANCO> que te espera no
+Arranha-Céu da Memória.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[15055D0066016601040000005D00060000000100000000003C000000000000001901000000000600000005000A00]
+Acredite
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo misterioso<BRANCO> que te espera no
+Arranha-Céu da Memória.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[15055D0066016601040000005D000600000001000000000000000000000000000004000000000800000000000000]
+Acredite
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo misterioso<BRANCO> que te espera no
+Arranha-Céu da Memória.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!
+[1505C10066016601040000005D0006000000010000000000000006000000000023020000000000001A016801A401]
+Acredite
+!------------------------------!
+Não documentado.
+!------------------------------!
+- OBJETIVO -
+Derrote o <AMARELO>inimigo misterioso<BRANCO> que te espera no
+Arranha-Céu da Memória.
+!------------------------------!
+%s
+!------------------------------!
+
+!******************************!
+[0A005E00900190010000000000000000000001000000000000000000000000000004000000000800000000000000]
+Tutorial do Modo Missão
+!------------------------------!
+- MISSÃO -
+<AMARELO>Scarlet Tangos<BRANCO> apareceram em Twilight
+Town. Encontre-os e elimine-os imediatamente.
+
+!------------------------------!
+- REQUISITOS -
+Derrote cinco <AMARELO>Scarlet Tangos<BRANCO>.
+!------------------------------!
+
+!------------------------------!
+
+!******************************!

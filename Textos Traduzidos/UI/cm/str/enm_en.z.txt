@@ -1,0 +1,1323 @@
+[0005]
+Sombra
+!------------------------------!
+    Um Heartless de Sangue Puro que
+se move pelo chão como uma
+sombra, completamente imune a
+ataques.
+    Fique atento ao momento em que ele emerge e então ataque!
+!------------------------------!
+
+!******************************!
+[2006]
+Mega-Sombra
+!------------------------------!
+    Esses Heartless de Sangue Puro de tamanho médio
+mantêm os padrões de ataque de seus primos menores, mas também
+usam um perigoso <AMARELO>investida<BRANCO>.
+    <AMARELO>Bloqueie<BRANCO> esse ataque, e eles ficarão completamente vulneráveis.
+!------------------------------!
+
+!******************************!
+[4B07]
+Sombra Gigante
+!------------------------------!
+    Esses grandes Heartless de Sangue Puro
+seguem o padrão de ataque da Mega-Sombra e adicionam
+ainda mais força.
+    A única forma de desequilibrá-los é
+desviar suas <AMARELO>investidas<BRANCO> com um <AMARELO>bloqueio<BRANCO>.
+!------------------------------!
+
+!******************************!
+[010A]
+Ópera Amarela
+!------------------------------!
+    Esses pequenos Heartless voadores
+atacam com <AMARELO>cabecadas<BRANCO> e
+magia de <AMARELO>Trovão<BRANCO> que não pode ser
+interrompida por ataques.
+
+DICA: Ataques baseados em <AMARELO>Raio<BRANCO> podem <AMARELO>atordoar<BRANCO> você. Entrar
+em contato com algo nesse estado pode custar até 10% do seu HP máximo.
+!------------------------------!
+
+!******************************!
+[1A0B]
+Tango Escarlate
+!------------------------------!
+    Esses pequenos Heartless voadores
+atacam com <AMARELO>bolas de fogo<BRANCO> que quicam
+por aí, e você não pode interromper
+sua magia atacando.
+
+DICA: Ataques baseados em <AMARELO>Fogo<BRANCO> podem <AMARELO>incendiar<BRANCO> você, o que vai
+drenar seu HP gradualmente enquanto durar.
+!------------------------------!
+
+!******************************!
+[1C0F]
+Capricho Cinza
+!------------------------------!
+    Esses pequenos Heartless voadores
+atacam com <AMARELO>mísseis de teletransporte<BRANCO>
+especiais que fazem você trocar de posição
+com eles.
+    Sua magia não pode ser interrompida por ataques,
+então tente eliminá-los logo no início!
+!------------------------------!
+
+!******************************!
+[1E0C]
+Ária Listada
+!------------------------------!
+    Esses pequenos Heartless voadores
+têm alta defesa e são resistentes a ataques físicos.
+Derrube-os com magia.
+
+DICA: Ataques baseados em <AMARELO>Tempo<BRANCO>, como seus <AMARELO>mísseis temporais<BRANCO>,
+podem <AMARELO>reverter sua defesa<BRANCO> para o nível 1, fazendo você tomar mais dano que o normal.
+!------------------------------!
+
+!******************************!
+[1D10]
+Elegia Safira
+!------------------------------!
+    Esses Heartless voadores de tamanho médio
+podem desaparecer quando atingidos, evitando dano e
+se teletransportando para outro lugar.
+    Desvie suas <AMARELO>cabecadas<BRANCO> com um <AMARELO>bloqueio<BRANCO> para nocauteá-los
+e deixá-los vulneráveis a ataques.
+!------------------------------!
+
+!******************************!
+[1F0D]
+Concerto Rosa
+!------------------------------!
+    Um grande Heartless voador.
+A <AMARELO>nuvem tóxica<BRANCO> que ele cospe enquanto
+persegue alvos drena gradualmente o HP de qualquer
+um preso dentro dela.
+    Use um <AMARELO>golpe final de combo<BRANCO> para dissipar a nuvem.
+!------------------------------!
+
+!******************************!
+[1B0E]
+Marcha Turquesa
+!------------------------------!
+    Esses pequenos Heartless voadores
+atiram <AMARELO>mísseis de água<BRANCO>.
+    Atacar um Marcha Turquesa no meio do lançamento
+não interrompe sua magia, então ataque rápido!
+
+DICA: Ataques baseados em <AMARELO>Água<BRANCO> podem <AMARELO>drenar dano<BRANCO> dos alvos,
+transferindo o HP deles para o atacante.
+!------------------------------!
+
+!******************************!
+[6E69]
+Serenata Esmeralda
+!------------------------------!
+    Esses grandes Heartless voadores
+seguem um caminho fixo, tornando emboscadas uma tática útil.
+    Sua velocidade aumenta conforme o HP diminui,
+tornando-os cada vez mais difíceis de derrotar.
+!------------------------------!
+
+!******************************!
+[0515]
+Planta Atrevida
+!------------------------------!
+    Esses pequenos Heartless vegetais
+estão enraizados no chão.
+    Eles atacam de longe com um
+<AMARELO>canhão de sementes<BRANCO> que pode ser redirecionado
+contra outros inimigos com um <AMARELO>bloqueio<BRANCO> bem-timed, ou até
+usado para destruir a própria Planta Atrevida.
+
+DICA: Ataques baseados em <AMARELO>Flor<BRANCO>, como suas sementes, podem
+<AMARELO>cegar<BRANCO> você, fazendo seus ataques errarem.
+!------------------------------!
+
+!******************************!
+[1416]
+Planta de Fogo
+!------------------------------!
+    Esses Heartless vegetais de tamanho médio
+estão enraizados no chão.
+    Eles atacam de longe com
+<AMARELO>bolas de fogo<BRANCO> que quicam, mas reagem lentamente. Um lutador ágil
+pode facilmente chegar às costas deles e eliminá-los por trás.
+!------------------------------!
+
+!******************************!
+[1517]
+Planta de Gelo
+!------------------------------!
+    Esses grandes Heartless vegetais
+estão enraizados no chão.
+    Eles atacam de longe com
+<AMARELO>tiros de gelo teleguiados<BRANCO> que ricocheteiam
+nas paredes e podem ser devolvidos com um
+<AMARELO>bloqueio<BRANCO>.
+    Em curta distância, eles tentam uma <AMARELO>cabecada<BRANCO>,
+depois da qual ficam completamente vulneráveis.
+!------------------------------!
+
+!******************************!
+[2318]
+Planta Venenosa
+!------------------------------!
+    Esses grandes Heartless vegetais
+estão enraizados no chão.
+    Eles atacam de longe com
+<AMARELO>tiros venenosos<BRANCO> que não podem ser
+bloqueados.
+    Em curta distância, eles tentam uma <AMARELO>cabecada<BRANCO>,
+depois da qual ficam completamente vulneráveis. Eles também
+são suscetíveis a magia de <AMARELO>Fogo<BRANCO>.
+!------------------------------!
+
+!******************************!
+[0208]
+Possuidor
+!------------------------------!
+    Esses Heartless de Sangue Puro
+são lentos e geralmente fracos,
+mas podem envolver alvos e
+drenar sua vida.
+    <AMARELO>Pule<BRANCO> para escapar de sua captura.
+!------------------------------!
+
+!******************************!
+[2109]
+Possuidor Massivo
+!------------------------------!
+    Esses coletivos vivos são
+formados por vários Possuidores,
+e podem drenar vida de qualquer coisa
+que tocam.
+    Ao receber dano letal, o coletivo se divide
+em criaturas individuais, então prepare-se para enfrentá-las.
+!------------------------------!
+
+!******************************!
+[071C]
+Vendedor Robusto
+!------------------------------!
+    Sem natureza combativa, esses
+Heartless de cápsula de tamanho médio
+desaparecem após um curto período.
+Eles possuem prêmios raros e valiosos,
+no entanto, e devem ser derrotados quando possível.
+    Eles ganham velocidade conforme recebem dano. Não os deixe escapar!
+!------------------------------!
+
+!******************************!
+[081D]
+Vendedor Raro
+!------------------------------!
+    Sem natureza combativa, esses
+grandes Heartless de cápsula
+desaparecem após um curto período.
+Eles possuem prêmios raros e valiosos,
+no entanto, e devem ser derrotados quando possível.
+    Eles ganham velocidade conforme recebem dano. Não os deixe escapar!
+!------------------------------!
+
+!******************************!
+[062E]
+Observador
+!------------------------------!
+    Esses pequenos drones voadores
+Heartless disparam <AMARELO>lasers<BRANCO> que podem
+ser devolvidos com um <AMARELO>bloqueio<BRANCO>, mas
+eles respondem com um
+<AMARELO>laser poderoso<BRANCO> ainda mais forte.
+
+DICA: Ataques baseados em <AMARELO>Espaço<BRANCO>, como esse laser poderoso,
+podem <AMARELO>colar seus sapatos<BRANCO>, tirando sua capacidade de pular.
+!------------------------------!
+
+!******************************!
+[262F]
+Guardião
+!------------------------------!
+    Esses grandes drones voadores
+Heartless disparam um <AMARELO>superlaser<BRANCO>
+que danifica tudo em seu caminho,
+amigo ou inimigo.
+    Ataques normais não o desequilibram.
+Para desativar seu superlaser, <AMARELO>atordoe-o<BRANCO> com <AMARELO>Trovão<BRANCO>.
+
+DICA: Ataques baseados em <AMARELO>Nulo<BRANCO>, como o superlaser, podem
+<AMARELO>anular sua defesa<BRANCO>, aumentando o dano que você recebe.
+!------------------------------!
+
+!******************************!
+[5D30]
+Destruidor
+!------------------------------!
+    Esses grandes drones voadores
+Heartless disparam um <AMARELO>superlaser<BRANCO>
+que destroça tudo em seu caminho,
+amigo ou inimigo.
+    Embora ataques normais não o
+desequilibrem, <AMARELO>atordoá-lo<BRANCO> com magia de <AMARELO>Trovão<BRANCO>
+desativa seu superlaser e seu <AMARELO>laser duplo<BRANCO>.
+!------------------------------!
+
+!******************************!
+[091E]
+Bomba Minúscula
+!------------------------------!
+    Propensas a <AMARELO>autodetonação<BRANCO>,
+essas pequenas Heartless iniciam
+uma contagem regressiva para explodir se você
+desviar suas <AMARELO>cabecadas<BRANCO> com um
+<AMARELO>bloqueio<BRANCO>.
+    Elas também podem ser detonadas no local usando
+magia de <AMARELO>Fogo<BRANCO>.
+!------------------------------!
+
+!******************************!
+[1920]
+Bomba Patinadora
+!------------------------------!
+    Essas Heartless de tamanho médio
+começam uma contagem regressiva para <AMARELO>autodetonação<BRANCO> se você desviar suas
+<AMARELO>cabecadas<BRANCO> com um <AMARELO>bloqueio<BRANCO>.
+    Ataque-as durante a contagem para lançar seu explosivo
+contra outros inimigos.
+
+DICA: Ataques baseados em <AMARELO>Gelo<BRANCO>, como sua explosão, podem
+<AMARELO>congelar<BRANCO> você, tirando sua capacidade de se mover.
+!------------------------------!
+
+!******************************!
+[181F]
+Bomba Tempestade
+!------------------------------!
+    Essas Heartless de tamanho médio
+começam uma contagem regressiva para <AMARELO>autodetonação<BRANCO> se você desviar suas
+<AMARELO>cabecadas<BRANCO> com um <AMARELO>bloqueio<BRANCO>.
+    Evite ser sugado pelo <AMARELO>turbilhão<BRANCO> que elas
+produzem durante a contagem pulando ou <AMARELO>planando<BRANCO>
+para longe.
+!------------------------------!
+
+!******************************!
+[2721]
+Detonador
+!------------------------------!
+    Essas versões grandes da Bomba Minúscula
+agem de forma semelhante, mas
+produzem uma explosão muito mais ampla
+quando <AMARELO>se autodetonam<BRANCO>.
+    Elas também não se desequilibram com ataques normais,
+tornando-as um inimigo perigoso. Tome bastante cuidado
+ao enfrentá-las.
+!------------------------------!
+
+!******************************!
+[6F14]
+Desertor
+!------------------------------!
+    Rápidos em fugir de ameaças,
+esses pequenos Heartless vão
+atacar qualquer um que derrote
+outro da sua espécie com uma
+<AMARELO>sequência de chutes<BRANCO>.
+    <AMARELO>Bloqueie<BRANCO> para derrubá-los.
+!------------------------------!
+
+!******************************!
+[2212]
+Sargento
+!------------------------------!
+    Bloquear funciona bem contra
+esses Heartless de tamanho médio para
+parar seus vários <AMARELO>ataques de chute<BRANCO>
+e criar uma abertura.
+    Você também pode anular seus ataques e derrubá-los
+atingindo-os com um golpe final de combo quando começarem a chutar.
+!------------------------------!
+
+!******************************!
+[0411]
+Soldado
+!------------------------------!
+    Esses pequenos Heartless
+usam principalmente suas <AMARELO>garras<BRANCO> e uma
+<AMARELO>sequência de chutes<BRANCO> para atacar.
+    Esta última pode ser desviada
+com um <AMARELO>bloqueio<BRANCO> para derrubá-los.
+!------------------------------!
+
+!******************************!
+[6613]
+Comandante
+!------------------------------!
+    Tão agressivos quanto grandes,
+esses inimigos ainda dependem de
+<AMARELO>ataques de chute<BRANCO> que podem ser
+desviados com um <AMARELO>bloqueio<BRANCO> bem-timed.
+    Note, no entanto, que seu tamanho impede que ataques normais
+os desequilibrem.
+!------------------------------!
+
+!******************************!
+[0D27]
+Falador
+!------------------------------!
+    Esses pequenos Heartless causam
+mais problemas quando <AMARELO>tocam
+suas trompas<BRANCO> para <AMARELO>curar<BRANCO> a si mesmos
+e seus aliados. Os <AMARELO>mísseis de vento<BRANCO>
+que disparam podem ser devolvidos com um <AMARELO>bloqueio<BRANCO>.
+
+DICA: Ataques baseados em <AMARELO>Vento<BRANCO> podem <AMARELO>jogar você no ar<BRANCO>. Enquanto
+no ar, você se torna um alvo fácil e recebe mais dano se for atingido.
+!------------------------------!
+
+!******************************!
+[1228]
+Nota Flamejante
+!------------------------------!
+    Esses Heartless de tamanho médio
+causam mais problemas quando
+<AMARELO>tocam suas trompas<BRANCO> para <AMARELO>curar<BRANCO>
+a si mesmos e seus aliados.
+    <AMARELO>Bloqueie<BRANCO> e você pode desviar as <AMARELO>bolas de fogo<BRANCO>
+quicantes que eles cospem.
+!------------------------------!
+
+!******************************!
+[1329]
+Batida de Bolha
+!------------------------------!
+    Esses Heartless de tamanho médio
+causam mais problemas quando
+<AMARELO>tocam suas trompas<BRANCO> para <AMARELO>curar<BRANCO>
+a si mesmos e seus aliados.
+    <AMARELO>Bloqueie<BRANCO> e você pode desviar os <AMARELO>mísseis de água teleguiados<BRANCO>
+que eles cospem.
+!------------------------------!
+
+!******************************!
+[1031]
+Mestre da Barreira
+!------------------------------!
+    Esses Heartless de tamanho médio
+são magos habilidosos. Embora
+não sejam agressivos, eles concedem
+aos aliados uma <AMARELO>barreira impenetrável<BRANCO>.
+    Ataque-os até ficarem tontos para fazê-los largar seus livros,
+desativando quaisquer barreiras ativas. Os livros caídos
+podem então ser afastados.
+    Eles têm alta defesa, mas são vulneráveis a
+<AMARELO>magia<BRANCO>. Aproveite esse fato.
+!------------------------------!
+
+!******************************!
+[7062]
+Globo Sombrio
+!------------------------------!
+    Essas massas escuras tendem a
+atrair Heartless de Sangue Puro. Destrua-os
+ao avistá-los.
+!------------------------------!
+
+!******************************!
+[2901]
+Armadura Grande
+!------------------------------!
+    Armadura cobre cada centímetro
+desses grandes Heartless, permitindo
+que eles desviem golpes de
+todas as direções.
+    Em vez disso, mire na cabeça e derrube-os,
+deixando-os vulneráveis a mais ataques. Use
+magia de <AMARELO>Fogo<BRANCO> para mantê-los no chão por mais tempo.
+!------------------------------!
+
+!******************************!
+[2A02]
+Armadura de Barro
+!------------------------------!
+    Armadura cobre cada centímetro
+desses grandes Heartless, permitindo
+que eles desviem golpes de
+todas as direções.
+    Em vez disso, mire na cabeça e derrube-os,
+deixando-os vulneráveis a mais ataques. Use
+magia de <AMARELO>Trovão<BRANCO> para mantê-los no chão por mais tempo.
+!------------------------------!
+
+!******************************!
+[6003]
+Armadura Sólida
+!------------------------------!
+    Armadura cobre cada centímetro
+desses grandes Heartless, permitindo
+que eles desviem golpes de
+todas as direções.
+    Em vez disso, mire na cabeça e derrube-os,
+deixando-os vulneráveis a mais ataques. Use
+magia de <AMARELO>Gelo<BRANCO> para mantê-los no chão por mais tempo.
+!------------------------------!
+
+!******************************!
+[5B04]
+Armadura Terrestre
+!------------------------------!
+    Armadura cobre cada centímetro
+desses grandes Heartless, permitindo
+que eles desviem golpes de
+todas as direções.
+    Em vez disso, mire na cabeça e derrube-os,
+deixando-os vulneráveis a mais ataques. Use
+magia de <AMARELO>Vento<BRANCO> para mantê-los no chão por mais tempo.
+!------------------------------!
+
+!******************************!
+[0A22]
+Cão Mau
+!------------------------------!
+    Pequenos e com aparência canina,
+esses Heartless vagam sem rumo até que um alvo
+se aproxime.
+    Seu <AMARELO>latido<BRANCO> é ruim, mas não pior que sua <AMARELO>mordida<BRANCO>;
+eles vão tentar te morder se você os atingir. Desvie isso
+com um <AMARELO>bloqueio<BRANCO> para desequilibrá-los.
+!------------------------------!
+
+!******************************!
+[2423]
+Cão Mordedor
+!------------------------------!
+    Maiores e mais rápidos que o
+Cão Mau, esses Heartless caninos
+podem ser difíceis de subjugar.
+    Sua fraqueza a <AMARELO>magia<BRANCO>
+faz dela a solução ideal.
+
+DICA: Ataques baseados em <AMARELO>Lua<BRANCO>, como seu <AMARELO>latido<BRANCO>, podem
+<AMARELO>silenciar<BRANCO> você, impedindo que os machuque com magia.
+!------------------------------!
+
+!******************************!
+[5C24]
+Cão Valentão
+!------------------------------!
+    Maiores e mais rápidos que o
+Cão Mau, mas esses Heartless caninos
+<AMARELO>latem<BRANCO> da mesma forma.
+    Ataques físicos não os
+desequilibram. Aproveite sua fraqueza a <AMARELO>magia<BRANCO>
+em vez disso.
+!------------------------------!
+
+!******************************!
+[1132]
+Macaco de Pratos
+!------------------------------!
+    O barulho puro é a principal arma
+desses Heartless de tamanho médio
+que se escondem em baús de tesouro.
+    Certifique-se de <AMARELO>bloquear<BRANCO> seus <AMARELO>projéteis
+sonoros<BRANCO>.
+
+DICA: Ataques baseados em <AMARELO>Ilusão<BRANCO>, como esses projéteis, podem
+<AMARELO>inverter seus pés<BRANCO>, o que reverte os controles de movimento básico.
+!------------------------------!
+
+!******************************!
+[2533]
+Macaco Trapaceiro
+!------------------------------!
+    O barulho puro é a principal arma
+desses grandes Heartless que
+se escondem em baús de tesouro.
+    Devolva seus <AMARELO>projéteis sonoros<BRANCO>
+e evite ficar <AMARELO>com pés invertidos<BRANCO> ao <AMARELO>bloquear<BRANCO>.
+!------------------------------!
+
+!******************************!
+[2B4B]
+Neosombra
+!------------------------------!
+    Um Heartless de Sangue Puro que
+se move pelo chão como uma
+sombra, completamente imune a
+ataques.
+    Ele pode liberar uma <AMARELO>onda de choque<BRANCO> ao emergir, então
+fique em guarda.
+    <AMARELO>Bloqueie<BRANCO> quando ele <AMARELO>investir<BRANCO> contra você para ganhar alguns
+segundos preciosos durante os quais você pode causar o dobro de dano.
+!------------------------------!
+
+!******************************!
+[674C]
+Novasombra
+!------------------------------!
+    Essa forma avançada do
+Neosombra de Sangue Puro não pode
+ser desequilibrada, e
+mantém a habilidade de liberar uma
+<AMARELO>onda de choque<BRANCO> ao emergir do chão.
+    <AMARELO>Bloqueie<BRANCO> quando ele <AMARELO>investir<BRANCO> contra você para ganhar alguns
+segundos preciosos durante os quais você pode causar o dobro de dano.
+!------------------------------!
+
+!******************************!
+[3B47]
+Combatente Aéreo
+!------------------------------!
+    Esses Heartless voadores de tamanho médio
+usam o vento com maestria ao atacar.
+    Eles se movem rapidamente, então espere
+até que desçam e então ataque.
+    Note também que eles são imunes a magia de Vento.
+!------------------------------!
+
+!******************************!
+[594A]
+Mestre Aéreo
+!------------------------------!
+    Esses Heartless voadores de tamanho médio
+usam o vento com maestria ao atacar.
+    Eles se movem rapidamente, então espere
+até que desçam e então ataque.
+    Note também que eles são imunes a magia de Vento.
+!------------------------------!
+
+!******************************!
+[6548]
+Voador Habilidoso
+!------------------------------!
+    Esses grandes Heartless voadores
+usam o vento com maestria ao
+atacar.
+    Eles se movem rapidamente, mas são
+vulneráveis logo após <AMARELO>chutarem<BRANCO>, então esteja pronto para
+montar um contra-ataque.
+    Eles também mantêm a imunidade de sua espécie a magia de Vento.
+!------------------------------!
+
+!******************************!
+[5749]
+Lutador Celeste
+!------------------------------!
+    Esses Heartless voadores de tamanho médio
+usam o vento com maestria ao
+atacar.
+    Eles se movem rapidamente, mas são
+vulneráveis logo após <AMARELO>chutarem<BRANCO>, então esteja pronto para
+montar um contra-ataque.
+    Eles também mantêm a imunidade de sua espécie a magia de Vento.
+!------------------------------!
+
+!******************************!
+[0C25]
+Cubo Gelado
+!------------------------------!
+    Esses pequenos Heartless são
+encapsulados em gelo, e atacam com uma
+<AMARELO>investida<BRANCO> que pode ser <AMARELO>bloqueada<BRANCO> e
+desviada, desequilibrando-os.
+    Ataque-os enquanto estão caídos para enviá-los
+contra outros inimigos, <AMARELO>congelando-os<BRANCO> no local.
+!------------------------------!
+
+!******************************!
+[2826]
+Cristal Nevado
+!------------------------------!
+    Esses inimigos de tamanho médio seguem
+os mesmos padrões básicos do Cubo Gelado, enquanto também adicionam uma
+<AMARELO>onda de choque rolante<BRANCO> ao seu
+arsenal que avança constantemente contra seu alvo.
+    Magia de <AMARELO>Fogo<BRANCO> é extremamente eficaz.
+!------------------------------!
+
+!******************************!
+[0B2A]
+Canhão Pequeno
+!------------------------------!
+    Embora pequenos, esses Heartless canhões
+podem disparar <AMARELO>tiros que caem
+do céu<BRANCO>. Use
+<AMARELO>rolamentos<BRANCO> ou <AMARELO>deslizes aéreos<BRANCO> para
+evacuar a área-alvo.
+    Seus <AMARELO>tiros diretos<BRANCO> podem ser devolvidos com um
+<AMARELO>bloqueio<BRANCO>. Cuidado: ataques normais não os desequilibram.
+!------------------------------!
+
+!******************************!
+[162C]
+Canhão de Gelo
+!------------------------------!
+    Esses Heartless canhões de tamanho médio
+disparam <AMARELO>tiros que caem
+do céu<BRANCO>. Use <AMARELO>rolamentos<BRANCO>
+ou <AMARELO>deslizes aéreos<BRANCO> para evacuar
+a área-alvo.
+    Seus <AMARELO>tiros diretos<BRANCO> podem <AMARELO>congelar<BRANCO> vítimas, mas
+também podem ser rebatidos com um <AMARELO>bloqueio<BRANCO>.
+    Ataques normais não os desequilibram.
+Tenha cuidado.
+!------------------------------!
+
+!******************************!
+[172B]
+Lançador de Interruptor
+!------------------------------!
+    Esses Heartless canhões de tamanho médio
+disparam <AMARELO>tiros que caem
+do céu<BRANCO>. Use <AMARELO>rolamentos<BRANCO>
+ou <AMARELO>deslizes aéreos<BRANCO> para evacuar
+a área-alvo.
+    Seus <AMARELO>tiros diretos<BRANCO> não podem ser bloqueados, e também
+<AMARELO>teletransportam<BRANCO> vítimas para alcance curto.
+    Ataques normais não os desequilibram.
+Tenha cuidado.
+!------------------------------!
+
+!******************************!
+[482D]
+Canhão Jumbo
+!------------------------------!
+    Versões de tamanho médio do Canhão Pequeno,
+esses inimigos disparam <AMARELO>tiros
+que caem do céu<BRANCO>. Use
+<AMARELO>rolamentos<BRANCO> ou <AMARELO>deslizes aéreos<BRANCO> para
+evacuar a área-alvo.
+    Embora fortes em geral e imunes a serem atordoados por ataques,
+seus <AMARELO>tiros diretos<BRANCO> podem
+ser rebatidos com um <AMARELO>bloqueio<BRANCO>.
+!------------------------------!
+
+!******************************!
+[2E38]
+Estrela da Manhã
+!------------------------------!
+    Espinhos afiados cobrem esses
+grandes Heartless, um fato que eles
+exploram em um perigoso <AMARELO>ataque
+giratório<BRANCO>.
+    Embora sejam impenetráveis enquanto giram, você
+pode desacelerar seu ataque com um <AMARELO>bloqueio<BRANCO>, trazendo-os
+a uma parada eventual.
+    Alternativamente, magia de <AMARELO>Vento<BRANCO> os para com um único golpe.
+!------------------------------!
+
+!******************************!
+[583A]
+Rastejador Espinhoso
+!------------------------------!
+    Espinhos afiados cobrem esses
+grandes Heartless. Embora sejam
+impenetráveis durante seu <AMARELO>ataque
+giratório<BRANCO>, você pode desacelerar seu
+ataque com um <AMARELO>bloqueio<BRANCO>, trazendo-os a uma parada
+eventual.
+    Alternativamente, magia de <AMARELO>Trovão<BRANCO> os para com um único golpe.
+!------------------------------!
+
+!******************************!
+[2F39]
+Esfera Ardente
+!------------------------------!
+    Espinhos afiados cobrem esses
+grandes Heartless flamejantes. Embora
+sejam impenetráveis durante seu
+<AMARELO>ataque giratório<BRANCO>, você pode desacelerar seu
+ataque com um <AMARELO>bloqueio<BRANCO>, trazendo-os a uma parada
+eventual.
+    Alternativamente, magia de <AMARELO>Gelo<BRANCO> os para com um único golpe.
+!------------------------------!
+
+!******************************!
+[6A6B]
+Verme Rastejante
+!------------------------------!
+    Embora rápidos, esses Heartless
+não são adequados para combate e têm pouco HP. Um único golpe deve ser
+suficiente para eliminá-los.
+!------------------------------!
+
+!******************************!
+[0319]
+Fantasma Flutuante
+!------------------------------!
+    Esses pequenos Heartless voadores
+são capazes de aparecer espontaneamente
+atrás de seus alvos e
+<AMARELO>possuí-los<BRANCO>.
+    Se for capturado, <AMARELO>aperte botões rapidamente<BRANCO> para
+se livrar.
+    Fantasmas Flutuantes desaparecem rapidamente do perigo,
+mas <AMARELO>efeitos de status negativos<BRANCO> os impedem de sumir.
+!------------------------------!
+
+!******************************!
+[641A]
+Fantasma Carregador
+!------------------------------!
+    Esses grandes Heartless voadores
+são capazes de aparecer espontaneamente
+atrás de seus alvos e
+<AMARELO>possuí-los<BRANCO>.
+    Embora se comportem como os Fantasmas Flutuantes,
+ataques físicos não os desequilibram.
+!------------------------------!
+
+!******************************!
+[5E1B]
+Cápsula Viva
+!------------------------------!
+    Esses Heartless voadores de tamanho médio
+são capazes de aparecer espontaneamente
+atrás de seus alvos e
+<AMARELO>possuí-los<BRANCO>.
+    Embora se comportem como os Fantasmas Flutuantes,
+ataques físicos não os desequilibram.
+    Lembre-se, não há vergonha em recuar para se reagrupar.
+!------------------------------!
+
+!******************************!
+[613F]
+Cortador Relâmpago
+!------------------------------!
+    Esse Heartless empunhando espada
+tem uma defesa habilidosa que
+o torna difícil de derrotar.
+    Seu <AMARELO>corte giratório<BRANCO> tem o
+efeito adicional de <AMARELO>drenar dano<BRANCO> do HP das vítimas.
+Fique atento, então evite ou desvie com um <AMARELO>bloqueio<BRANCO>.
+!------------------------------!
+
+!******************************!
+[393B]
+Lâmina Dupla
+!------------------------------!
+    Esse grande e agressivo
+Heartless cavaleiro tem uma defesa habilidosa
+que o torna difícil de derrotar.
+    Embora seu <AMARELO>corte focado<BRANCO> possa ser
+parado com um <AMARELO>bloqueio<BRANCO>, acertá-lo com
+<AMARELO>Trovão Máximo<BRANCO> enquanto ele acumula energia o desequilibra,
+abrindo-o para dano extra, especialmente de
+<AMARELO>magia<BRANCO>.
+!------------------------------!
+
+!******************************!
+[4A3C]
+Sabre de Calor
+!------------------------------!
+    Esse Heartless cavaleiro flamejante
+tem uma defesa habilidosa que o torna
+difícil de derrotar.
+    Embora seu <AMARELO>corte focado<BRANCO> possa
+ser parado com um <AMARELO>bloqueio<BRANCO>, acertá-lo com
+<AMARELO>Gelo Máximo<BRANCO> enquanto ele acumula energia o desequilibra,
+abrindo-o para dano extra.
+!------------------------------!
+
+!******************************!
+[493D]
+Rasgador Gelado
+!------------------------------!
+    Esse Heartless cavaleiro gélido
+tem uma defesa habilidosa que o torna
+difícil de derrotar.
+    Embora seu <AMARELO>corte focado<BRANCO> possa
+ser parado com um <AMARELO>bloqueio<BRANCO>, acertá-lo com
+<AMARELO>Fogo Máximo<BRANCO> enquanto ele acumula energia o desequilibra,
+abrindo-o para dano extra, especialmente de
+<AMARELO>magia<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3A3E]
+Lança Relâmpago
+!------------------------------!
+    Esse Heartless cavaleiro elétrico
+tem uma defesa habilidosa que o torna
+difícil de derrotar.
+    Embora seu <AMARELO>corte focado<BRANCO> possa
+ser parado com um <AMARELO>bloqueio<BRANCO>, acertá-lo com
+<AMARELO>Vento Máximo<BRANCO> enquanto ele acumula energia o desequilibra,
+abrindo-o para dano extra, especialmente de
+<AMARELO>magia<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3C40]
+Lâmina Firme
+!------------------------------!
+    Esse Heartless cavaleiro resistente a magia
+tem uma defesa habilidosa que o torna
+difícil de derrotar.
+    Embora seu <AMARELO>corte focado<BRANCO> possa
+ser parado com um <AMARELO>bloqueio<BRANCO>, acertá-lo com
+<AMARELO>Vento Máximo<BRANCO> enquanto ele acumula energia o desequilibra,
+abrindo-o para dano extra, especialmente de
+<AMARELO>magia<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3341]
+Cauda Explosiva
+!------------------------------!
+    Esses grandes Heartless aéreos
+são difíceis de acertar em pleno voo.
+    Ataque suas asas e cauda para
+forçá-los a pousar, então mire na cabeça,
+que é suscetível a magia de <AMARELO>Gelo<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3543]
+Avalanche
+!------------------------------!
+    Esses grandes Heartless aéreos
+usam seu poderoso <AMARELO>sopro de gelo<BRANCO> para
+atacar suas presas.
+    Ataque suas asas e cauda para
+forçá-los a pousar, então concentre os ataques na cabeça,
+que é fraca contra magia de <AMARELO>Fogo<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3442]
+Crista de Onda
+!------------------------------!
+    Esses grandes Heartless aéreos
+usam seu poderoso <AMARELO>sopro de água<BRANCO> para
+atacar suas presas.
+    Essa variante não pode ser forçada
+a pousar, então enfrente-os bem equipado para combate aéreo.
+!------------------------------!
+
+!******************************!
+[3645]
+Cauda Fantasma
+!------------------------------!
+    Esses grandes Heartless aéreos
+não podem ser feridos por golpes na cabeça, em vez disso
+<AMARELO>teletransportando-se<BRANCO> para um local
+distante ao impacto.
+    Eles não se teletransportam, no entanto, se você atacar suas
+asas ou cauda, então concentre os ataques ali. Vá equipado para combate aéreo.
+!------------------------------!
+
+!******************************!
+[3744]
+Tempestade de Vento
+!------------------------------!
+    Esses grandes Heartless aéreos
+usam seu poderoso <AMARELO>sopro de turbilhão<BRANCO>
+para atacar suas presas.
+    Eles são difíceis de acertar em pleno
+voo, então ataque suas asas e cauda para forçá-los a pousar,
+então concentre os ataques na cabeça, que é fraca contra magia de <AMARELO>Trovão<BRANCO>.
+!------------------------------!
+
+!******************************!
+[3846]
+Voador de Poeira
+!------------------------------!
+    Grandes e mortais, esses
+Heartless voadores têm poder extremo
+e altos níveis de HP.
+    Seu arsenal inclui <AMARELO>sopro de
+meteoros<BRANCO> e uma <AMARELO>investida invencível<BRANCO>, e todos os seus ataques
+podem infligir efeitos de status negativos ao contato.
+    Esse espécime está facilmente na classe mais forte de
+Heartless. Prepare-se adequadamente.
+!------------------------------!
+
+!******************************!
+[2C36]
+Lagarto Véu
+!------------------------------!
+    Essa criatura camuflada
+ataca presas com um ataque de <AMARELO>chicote de língua<BRANCO>.
+    <AMARELO>Bloqueie<BRANCO> para atordoar o lagarto,
+então contra-ataque. Você pode anular sua camuflagem
+com um golpe sólido.
+
+DICA: Ataques baseados em <AMARELO>Luz<BRANCO>, como seu <AMARELO>olhar fixo<BRANCO>, vão <AMARELO>desativar
+seu radar<BRANCO>, desabilitando o mapa.
+!------------------------------!
+
+!******************************!
+[5A37]
+Lagarto Furtivo
+!------------------------------!
+    Semelhante em forma e comportamento
+ao Lagarto Véu, esses inimigos
+atacam presas com um ataque de <AMARELO>chicote de língua<BRANCO>.
+    <AMARELO>Bloqueie<BRANCO> para atordoar o lagarto, então contra-ataque.
+Magia de <AMARELO>Gelo<BRANCO> também é especialmente eficaz.
+!------------------------------!
+
+!******************************!
+[3F55]
+Armadura de Guarda
+!------------------------------!
+    Grande e fortemente blindado,
+esses Heartless vão pular e
+então colidir com o chão,
+criando uma poderosa <AMARELO>onda de choque<BRANCO>.
+    Eles abaixam a cabeça após pousar, no entanto;
+ataque nesse momento e o corpo eventualmente se desfará em pedaços,
+com cada parte agindo autonomamente. Comece pelos membros e elimine todos.
+!------------------------------!
+
+!******************************!
+[6356]
+Armadura Energizada
+!------------------------------!
+    Essa versão aprimorada da
+Armadura de Guarda ainda usa as mesmas
+táticas básicas.
+    A poderosa <AMARELO>onda de choque<BRANCO> que
+ela produz faz com que ela abaixe a cabeça. Ataque nesse momento
+e o corpo eventualmente se desfará em pedaços. Comece pelos membros e elimine todos.
+!------------------------------!
+
+!******************************!
+[2D4D]
+Invisível
+!------------------------------!
+    Rápidos e fortes, esses
+Heartless representam uma séria ameaça.
+Eles atacam com uma temida
+<AMARELO>onda de choque<BRANCO>.
+    Time seu <AMARELO>golpe final de combo<BRANCO> para conectar logo
+após eles pegarem sua espada. Isso cancelará a
+onda de choque e os deixará vulneráveis.
+!------------------------------!
+
+!******************************!
+[5F4E]
+Orcus
+!------------------------------!
+    Embora mais rápidos e mais
+poderosos, esses Heartless são
+iguais ao Invisível em outros aspectos. Eles atacam com uma
+temida <AMARELO>onda de choque<BRANCO>.
+    Time seu <AMARELO>golpe final de combo<BRANCO> para conectar logo
+após eles pegarem sua espada. Isso cancelará a
+onda de choque e os deixará vulneráveis.
+!------------------------------!
+
+!******************************!
+[4234]
+Crepúsculo
+!------------------------------!
+    Esses Nobodies menores lidam com
+combate simples, reconhecimento e operações
+de mensageiro.
+    Embora faltem força,
+eles têm um repertório robusto de táticas de curto alcance,
+incluindo ataques de <AMARELO>investida giratória<BRANCO> e <AMARELO>impulso de braço<BRANCO>.
+!------------------------------!
+
+!******************************!
+[4335]
+Samurai
+!------------------------------!
+    Um Nobody avançado bem
+adaptado ao combate em espaços
+fechados.
+    Ele combina um poder de ataque naturalmente alto
+com um <AMARELO>ataque de lâmina dupla<BRANCO> que submete os alvos.
+    Esses Nobodies servem sob Roxas.
+!------------------------------!
+
+!******************************!
+[4652]
+Lado Sombrio
+!------------------------------!
+    Esse Heartless gigante vai
+devorar tudo ao seu redor se não for contido.
+    Os <AMARELO>disparos teleguiados sombrios<BRANCO> lançados
+de seu peito podem ser devolvidos contra ele com um
+<AMARELO>bloqueio<BRANCO>. Mire nas mãos ou, se possível, na cabeça.
+
+DICA: Ataques baseados em <AMARELO>Terra<BRANCO>, como seus disparos teleguiados,
+podem <AMARELO>reduzir seu HP atual pela metade<BRANCO>.
+!------------------------------!
+
+!******************************!
+[6253]
+Seguidor Sombrio
+!------------------------------!
+    Uma forma mais forte do
+Lado Sombrio. Embora mais poderoso,
+ele segue os mesmos padrões básicos de seu antecessor.
+    Devolva os <AMARELO>disparos teleguiados sombrios<BRANCO> lançados de seu
+peito com um <AMARELO>bloqueio<BRANCO>, então ataque suas mãos ou,
+se possível, sua cabeça para dano máximo.
+!------------------------------!
+
+!******************************!
+[415C]
+Pete
+!------------------------------!
+    Esse personagem suspeito foi
+avistado em vários mundos
+tentando reunir um exército de
+Heartless.
+    Seu <AMARELO>ataque de bola de boliche<BRANCO> causa <AMARELO>efeitos de status
+negativos<BRANCO> aleatoriamente.
+    Embora agressivo em combate, ele fugirá
+no momento em que seu HP acabar.
+!------------------------------!
+
+!******************************!
+[304F]
+Lock
+!------------------------------!
+    Um dos três duendes que vivem em
+Halloween Town. Apesar de ser
+o líder aparente do trio,
+ele não tem habilidade real de combate.
+    Em vez disso, ele corre descontroladamente enquanto joga
+<AMARELO>bombas de abóbora<BRANCO> de longe. Bata-as de volta com um
+<AMARELO>bloqueio<BRANCO> para derrubá-lo.
+!------------------------------!
+
+!******************************!
+[3150]
+Shock
+!------------------------------!
+    Uma dos três duendes que vivem
+em Halloween Town. Ela representa
+pouca ameaça em termos de
+força, mas ataca com uma
+<AMARELO>investida giratória<BRANCO>.
+    Pare isso com um <AMARELO>bloqueio<BRANCO>, ou acerte-a com uma das
+<AMARELO>bombas de abóbora<BRANCO> do Lock para derrubá-la.
+!------------------------------!
+
+!******************************!
+[3251]
+Barrel
+!------------------------------!
+    Um dos três duendes que vivem em
+Halloween Town. Ele representa pouco
+ameaça em termos de força.
+    Pare sua <AMARELO>investida rolando<BRANCO> com um
+<AMARELO>bloqueio<BRANCO> e ele voará longe. Você também pode acertá-lo
+com uma das <AMARELO>bombas de abóbora<BRANCO> do Lock para derrubá-lo.
+!------------------------------!
+
+!******************************!
+[6861]
+Xigbar
+!------------------------------!
+    O Nº <2161> da Organização, um
+mestre da pistola de flechas e
+manipulação espacial. Como um lutador de longo
+alcance, ele tentará impedir que os inimigos se aproximem ao <AMARELO>teletransportar-se<BRANCO> enquanto atira.
+    O ataque de <AMARELO>salva total<BRANCO> que ele usa em situações desesperadas
+é verdadeiramente devastador.
+!------------------------------!
+
+!******************************!
+[7163]
+? ? ?
+!------------------------------!
+    Pouco se sabe sobre esse homem,
+exceto que ele usa o casaco
+da nossa Organização.
+    Ele não foi visto enfrentando
+membros em combate, apenas pulando e se defendendo enquanto observa nossos movimentos.
+    Cause dano suficiente, e ele vai se teletransportar para longe.
+!------------------------------!
+
+!******************************!
+[7264]
+? ? ?
+!------------------------------!
+    Relatos sobre essa figura
+existem há algum tempo agora.
+    Presumia-se que este era o
+homem que derrotou Xion, mas
+a verdade do assunto permanece incerta.
+!------------------------------!
+
+!******************************!
+[4E58]
+Formiga-Leão
+!------------------------------!
+    Esse Heartless massivo nada
+livremente pela areia. Mire
+em seu rosto quando ele emergir na
+superfície.
+    Após sofrer dano, ele voará para o céu,
+mas seu <AMARELO>escudo de ciclone<BRANCO> o protege de dano direto
+enquanto está no ar.
+    Em vez disso, bata os detritos que ele joga de volta nele para
+criar uma abertura, então ataque.
+!------------------------------!
+
+!******************************!
+[475A]
+Máquina Infernal
+!------------------------------!
+    As <AMARELO>bolas de canhão<BRANCO> que esse Heartless tanque pesado
+dispara podem ser devolvidas com um bloqueio para eliminar
+os <AMARELO>arqueiros<BRANCO> empoleirados sobre ele.
+    O aríete que emerge de sua boca
+antes de <AMARELO>investir<BRANCO> é especialmente fraco. Aproveite essa vulnerabilidade,
+mas certifique-se de sair dali antes que ele comece a avançar.
+!------------------------------!
+
+!******************************!
+[696A]
+Tentagarra
+!------------------------------!
+    Esse Heartless em forma de tentáculo
+ataca com uma selvagem
+<AMARELO>mordida<BRANCO>.
+    <AMARELO>Bloqueie<BRANCO> ou <AMARELO>role para desviar<BRANCO>
+do caminho, então contra-ataque.
+!------------------------------!
+
+!******************************!
+[4D57]
+Chupador de Vida
+!------------------------------!
+    Um Heartless massivo parecido com planta
+com um ataque selvagem de <AMARELO>garra<BRANCO>.
+O <AMARELO>pólen tóxico<BRANCO> que ele exsuda
+de sua cabeça drena o HP das vítimas
+enquanto elas o respirarem.
+    Destrua todas as Tentagarras para atordoar o corpo principal,
+então avance.
+    Note que derrotar Tentagarras ou acertá-las
+com magia acelera os estouros de pólen.
+!------------------------------!
+
+!******************************!
+[4054]
+Travesso Carmesim
+!------------------------------!
+    Esse recém-chegado ao País das Maravilhas
+se divide em dois, atacando como um par.
+A menos que ambas as metades sejam
+derrotadas ao mesmo tempo,
+elas continuarão o ciclo de se fundir e dividir.
+    Contra-ataque seu <AMARELO>lança-chamas<BRANCO> com magia de <AMARELO>gelo<BRANCO><2015>
+Gelo Máximo se possível. <AMARELO>Vento Máximo<BRANCO> vai parar seu <AMARELO>ataque giratório<BRANCO> flamejante.
+!------------------------------!
+
+!******************************!
+[4C59]
+Governante do Céu
+!------------------------------!
+    Você precisa destruir todos os
+<AMARELO>segmentos da cauda<BRANCO> desse Heartless aviário
+para revelar seu núcleo.
+    Após cada segmento ser
+destruído, o Governante do Céu brilhará vermelho e
+<AMARELO>investirá<BRANCO> contra seus inimigos. Espere muito perto da superfície da água
+e ele disparará uma salva de <AMARELO>tiros de água<BRANCO>.
+    Uma vez que o núcleo esteja exposto, evite o <AMARELO>jato de
+moedas<BRANCO> e contra-ataque com magia de <AMARELO>Fogo<BRANCO>.
+!------------------------------!
+
+!******************************!
+[535D]
+Sa<00ef>x
+!------------------------------!
+    O Nº <2165><2161> da Organização.
+Geralmente calmo e tranquilo, ele se transforma
+em um berserker quando empunha
+sua lâmina gigante em combate.
+    Desvie de seus ataques enquanto procura uma rara
+abertura. Após sofrer dano, ele reverterá ao seu
+estado normal, tornando-o mais suscetível a ataques.
+Derrote-o rapidamente.
+!------------------------------!
+
+!******************************!
+[3E65]
+Xion: Primeira Forma
+!------------------------------!
+    Xion, transformada. As
+memórias de Sora de cada mundo
+multiplicaram seus poderes.
+    Sua <AMARELO>barreira<BRANCO> restaura HP.
+Pare-a acertando com sua arma antes que ela
+possa erguê-la. Ela contra-atacará se você bloquear seu <AMARELO>combo de espada<BRANCO>,
+então <AMARELO>role para desviar<BRANCO> em vez disso.
+    Ela sempre abrirá suas asas para sinalizar sua
+<AMARELO>Lâmina Sônica<BRANCO>.
+!------------------------------!
+
+!******************************!
+[4F66]
+Xion: Segunda Forma
+!------------------------------!
+    Xion, transformada. As
+memórias de Sora de cada mundo
+multiplicaram seus poderes.
+    Seu ataque <AMARELO>Ragnarok<BRANCO> dispara
+lasers teleguiados que não podem ser bloqueados<2015>desvie deles
+em vez disso. No entanto, se esquivar demais fará ela
+disparar repetidamente.
+    Acerte com sua arma se a vir tentando
+erguer uma <AMARELO>barreira<BRANCO> para impedi-la de se curar.
+!------------------------------!
+
+!******************************!
+[5167]
+Xion: Terceira Forma
+!------------------------------!
+    Xion, transformada. As
+memórias de Sora de cada mundo
+multiplicaram seus poderes.
+    Cuidado com seu ataque <AMARELO>Ars Arcanum<BRANCO>,
+uma feroz sequência de golpes de seus quatro
+braços. A maioria de seus ataques não pode ser bloqueada, então
+<AMARELO>role para desviar<BRANCO> do caminho, depois contra-ataque.
+    Acerte com sua arma se a vir tentando
+erguer uma <AMARELO>barreira<BRANCO> para impedi-la de se curar.
+!------------------------------!
+
+!******************************!
+[5268]
+Xion: Forma Final
+!------------------------------!
+    A transformação definitiva 
+de Xion. As memórias de Sora de
+cada mundo multiplicaram seus
+poderes.
+    Essa forma traz um novo arsenal de movimentos,
+incluindo um poderoso <AMARELO>Limite Final<BRANCO> quando seu HP
+diminui. <AMARELO>Plane<BRANCO> até seu lado e encontre abrigo
+antes que ele acerte.
+!------------------------------!
+
+!******************************!
+[545F]
+Riku
+!------------------------------!
+    Esse guerreiro das trevas
+usa o casaco da nossa Organização.
+    Um mestre do combate, ele
+combina ataques de combo com uma
+defesa sólida, um <AMARELO>projétil teleguiado<BRANCO>, e um <AMARELO>bloqueio-
+contra-ataque<BRANCO>.
+    Sua arma ganha poder quando as coisas viram contra ele,
+aumentando seu alcance de ataque.
+!------------------------------!
+
+!******************************!
